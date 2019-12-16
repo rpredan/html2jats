@@ -1,0 +1,854 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD with MathML3 v1.1 20151215//EN" "JATS-journalpublishing1-mathml3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink"
+         dtd-version="1.1"
+         xml:lang="en"
+         article-type="other">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher-id">Zdrav Vestn</journal-id>
+         <journal-id journal-id-type="nlm-ta">Zdrav Vestn</journal-id>
+         <journal-id journal-id-type="doi">Zdrav Vestn</journal-id>
+         <journal-title-group>
+            <journal-title>Slovenian Medical Journal</journal-title>
+            <trans-title-group xml:lang="sl">
+               <trans-title>Zdravniški vestnik</trans-title>
+            </trans-title-group>
+            <abbrev-journal-title>Zdrav Vestn</abbrev-journal-title>
+         </journal-title-group>
+         <issn publication-format="ppub" pub-type="ppub">1318-0347</issn>
+         <issn publication-format="epub" pub-type="epub">1581-0224</issn>
+         <issn-l>0350-0063</issn-l>
+         <publisher>
+            <publisher-name xml:lang="sl">Slovensko zdravniško društvo</publisher-name>
+            <publisher-name xml:lang="en">Slovenian Medical Association</publisher-name>
+            <publisher-loc xml:lang="sl">Ljubljana, Slovenia</publisher-loc>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.6016/ZdravVestn.2655</article-id>
+         <article-id pub-id-type="publisher-id">2655</article-id>
+         <article-categories>
+            <subj-group subj-group-type="discipline" xml:lang="en">
+               <subject>Medicine and health sciences</subject>
+               <subj-group>
+                  <subject>Oncology</subject>
+               </subj-group>
+            </subj-group>
+            <subj-group subj-group-type="discipline" xml:lang="sl">
+               <subject>Medicina/Zdravstvo</subject>
+               <subj-group>
+                  <subject>Onkologija</subject>
+               </subj-group>
+            </subj-group>
+            <subj-group subj-group-type="article-type" xml:lang="en">
+               <subject>Short scientific article</subject>
+            </subj-group>
+            <subj-group subj-group-type="article-type" xml:lang="sl">
+               <subject>Klinični primer</subject>
+            </subj-group>
+            <subj-group subj-group-type="heading" xml:lang="en">
+               <subject>Oncology</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title xml:lang="en">Cases of leukaemia in pregnancy in Slovenia during the period from 2006 to 2016 – How they were treated and literature review</article-title>
+            <trans-title-group>
+               <trans-title xml:lang="sl">Levkemije v nosečnosti v obdobju 2006–2016 v Sloveniji, zdravljenje in pregled literature</trans-title>
+            </trans-title-group>
+            <alt-title alt-title-type="running-head" xml:lang="en">Cases  of leukaemia in pregnancy in Slovenia  during the period from 2006 to 2016</alt-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Šajn</surname>
+                  <given-names>Mihela</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1">1</xref>
+               <xref ref-type="corresp" rid="corr"/>
+            </contrib>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Zver</surname>
+                  <given-names>Samo</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1">1</xref>
+            </contrib>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Lučovnik</surname>
+                  <given-names>Miha</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff2">2</xref>
+            </contrib>
+         </contrib-group>
+         <aff-alternatives id="aff1">
+            <aff xml:lang="en">
+               <label>1</label>
+               <institution>Department of Hematology, University Medical Centre Ljubljana, Ljubljana, Slovenia</institution>
+            </aff>
+            <aff xml:lang="sl">
+               <label>1</label>
+               <institution>Klinični oddelek za hematologijo, Univerzitetni klinični center Ljubljana, Ljubljana, Slovenija</institution>
+            </aff>
+         </aff-alternatives>
+         <aff-alternatives id="aff2">
+            <aff xml:lang="en">
+               <label>2</label>
+               <institution>Clinic of Gynaecology and Obstetrics, University Medical Centre Ljubljana, Ljubljana, Slovenia</institution>
+            </aff>
+            <aff xml:lang="sl">
+               <label>2</label>
+               <institution>Ginekološka klinika, Univerzitetni klinični center Ljubljana, Ljubljana, Slovenija</institution>
+            </aff>
+         </aff-alternatives>
+         <author-notes>
+            <fn fn-type="conflict" xml:lang="en">
+               <p>The authors have declared that no competing interests exist.</p>
+            </fn>
+            <fn fn-type="conflict" xml:lang="sl">
+               <p>Avtorji so izjavili, da ne obstajajo nobeni konkurenčni interesi.</p>
+            </fn>
+            <corresp id="corr">Mihela Šajn, e-mail: <email xlink:type="simple"/>
+            </corresp>
+         </author-notes>
+         <pub-date pub-type="ppub">
+            <month>10</month>
+            <year>2018</year>
+         </pub-date>
+         <pub-date pub-type="epub">
+            <month>10</month>
+            <year>2018</year>
+         </pub-date>
+         <volume>87</volume>
+         <issue>9–10</issue>
+         <fpage>429</fpage>
+         <lpage>38</lpage>
+         <history>
+            <date date-type="received">
+               <day>23</day>
+               <month>9</month>
+               <year>2017</year>
+            </date>
+            <date date-type="accepted">
+               <day>21</day>
+               <month>1</month>
+               <year>2018</year>
+            </date>
+         </history>
+         <permissions>
+            <copyright-statement xml:lang="en">Copyright © 2018, Slovenian Medical Association (SZD)</copyright-statement>
+            <copyright-statement xml:lang="sl">© 2018, Slovensko zdravniško društvo (SZD)</copyright-statement>
+            <copyright-year>2018</copyright-year>
+            <copyright-holder xml:lang="en">Slovenian Medical Association (SZD)</copyright-holder>
+            <copyright-holder xml:lang="sl">Slovensko zdravniško društvo (SZD)</copyright-holder>
+            <license xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                     xlink:type="simple"
+                     xml:lang="en">
+               <license-p>This is an open access article distributed under the terms of the
+          <ext-link ext-link-type="uri"
+                            xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                            xlink:type="simple">Creative Commons Attribution-NonCommercial
+            License</ext-link>, which permits unrestricted use, distribution, and
+          reproduction in any medium, provided the original author and source are
+          credited and only for non-commercial purposes. </license-p>
+            </license>
+            <license xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                     xlink:type="simple"
+                     xml:lang="sl">
+               <license-p>To je članek z odprtim dostopom, ki ga lahko uporabite pod pogoji iz
+          <ext-link ext-link-type="uri"
+                            xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                            xlink:type="simple">Creative Commons Priznanje avtorstva-Nekomercialno
+            licence</ext-link>. ki dovoljuje distribucijo, predelavo ali
+          prilagoditev, ter gradijo na njem, v nekomercialne namene, z navedbo avtorja
+          in izvirnega dela.</license-p>
+            </license>
+         </permissions>
+         <abstract xml:lang="en">
+            <title>Abstract</title>
+            <p>The incidence of leukaemia detected during pregnancy ranges between 1/10,000 and 1/100,000. Often, treatment with cytostatics needs to be initiated immediately following diagnosis. However, cytostatics are teratogenic to the foetus; therefore, before the initiation of treatment, all options need to be weighed and the most acceptable one chosen. This paper presents two cases, one involving acute myeloid leukaemia (AML) and the other chronic myeloid leukaemia (CML) detected during pregnancy; both were managed at the Ljubljana University Medical Centre. They represent the only two known cases occurring in the past 10 years in Slovenia.</p>
+            <p>A patient with AML of acute promyelocytic leukemia (APL) subtype was treated with daunorubicine and all-transretinoic acid (ATRA) at the beginning of her second trimester of pregnancy. Based on our experience, it appears that the current treatment recommendations for APL during pregnancy are realistic, feasible and above all safe for both the patient and the foetus.</p>
+            <p>In the case of the patient with CML, who came for her first evaluation just before delivery, prominent findings included marked leukocytosis of 335 × 10<sup>9</sup>/L, along with thrombocytosis and splenomegaly. She rejected all treatment methods, primarily leukapheresis. In spite of all this, she gave birth to a healthy child, without complications during delivery. Due to her enlarged spleen and the resulting risk of its rupture, delivery was completed by caesarean section. Based on our experience, it can be concluded that it is not possible to give a recommendation on the level of white blood cell (WBC) count at which it would be beneficial for the mother and the foetus to initiate treatment with leukapheresis. It is also unclear what level of spleen rupture risk an attempt at vaginal delivery would pose for the patient in such cases. Since pregnancy in itself exacerbates predisposition to thrombosis, the question of how often the risk of a thromboembolic event during pregnancy is increased due to various types of leukaemia thus remains a mystery.</p>
+         </abstract>
+         <trans-abstract xml:lang="sl">
+            <title>Izvleček</title>
+            <p>Incidenca levkemij, odkritih v nosečnosti, znaša od 1/10.000 do 1/100.000. Nemalokrat je ob odkritju bolezni z zdravljenjem s citostatiki potrebno začeti takoj. Citostatiki so za plod teratogeni, zato moramo pred pričetkom zdravljenja pretehtati vse možnosti in izbrati najbolj sprejemljivo. Predstavljamo primera akutne mieloične levkemije (AML) in kronične mieloične levkemije (KML), odkrita v nosečnosti, ki smo ju obravnavali v Univerzitetnem kliničnem centru v Ljubljani. Gre za edina primera v zadnjih desetih letih v Sloveniji.</p>
+            <p>Bolnico z AML, podvrsta akutna promielocitna levkemija (APL), smo ob začetku 2. trimesečja nosečnosti zdravili z daunorubicinom in all-transretinoično kislino (ATRA). Glede na našo izkušnjo se zdi, da so priporočila za zdravljenje APL v nosečnosti realna, izvedljiva in predvsem varna za bolnico in plod.</p>
+            <p>Pri bolnici s KML, ki je prvič prišla k nam tik pred porodom, je bila v ospredju izrazita levkocitoza 335 × 10<sup>9</sup>/L, trombocitoza in splenomegalija. Zavračala je vse načine zdravljenja, v prvi vrsti levkoferezo. Kljub vsemu je brez porodnih zapletov rodila zdravega otroka. Porod je bil zaradi povečane vranice in posledične nevarnosti za njeno rupturo dokončan s carskim rezom. Na osnovi naše izkušnje lahko zaključimo, da ni moč priporočiti, pri kako velikem številu levkocitov je za mati in plod koristno začeti zdraviti z levkoferezo. Enako tudi ni jasno, kakšno tveganje za rupturo vranice v teh primerih predstavlja poskus vaginalnega poroda. Uganka ostaja tudi vprašanje, kolikokrat se zaradi levkemij različnih oblik poveča tveganje za trombembolični dogodek v nosečnosti, ki že sama po sebi nagiba k trobozam.</p>
+         </trans-abstract>
+         <kwd-group xml:lang="sl">
+            <kwd> pregnancy</kwd>
+            <kwd>acute myeloid leukaemia</kwd>
+            <kwd>acute promyelocytic leukaemia</kwd>
+            <kwd>chronic myeloid leukaemia</kwd>
+            <kwd>daunorubicine</kwd>
+            <kwd>leukapheresis</kwd>
+         </kwd-group>
+         <kwd-group xml:lang="en">
+            <kwd>akutna mieloična levkemija</kwd>
+            <kwd>akutna promielocitna levkemija</kwd>
+            <kwd>kronična mieloična levkemija</kwd>
+            <kwd>daunorubicin</kwd>
+            <kwd>levkofereza</kwd>
+         </kwd-group>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>TotalReferences</meta-name>
+               <meta-value>25</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ReferencesParsed</meta-name>
+               <meta-value>23</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ReferencesBillable</meta-name>
+               <meta-value>22</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>LinkServices</meta-name>
+               <meta-value>pubmed-crossref</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ReferencesLinked</meta-name>
+               <meta-value>21</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ReferencesLinkedDOI</meta-name>
+               <meta-value>19</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ReferencesLinkedPMID</meta-name>
+               <meta-value>21</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>JournalReferences</meta-name>
+               <meta-value>23</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>BookReferences</meta-name>
+               <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>BookChapterReferences</meta-name>
+               <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ConferenceReferences</meta-name>
+               <meta-value>1</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ElectronicReferences</meta-name>
+               <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>DissertationReferences</meta-name>
+               <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>LegalReferences</meta-name>
+               <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>StandardReferences</meta-name>
+               <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>OtherReferences</meta-name>
+               <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>UnknownReferences</meta-name>
+               <meta-value>1</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ReferencesSemiParsed</meta-name>
+               <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ReferencesBookUnparsed</meta-name>
+               <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>EditorialStyle</meta-name>
+               <meta-value>ICMJE-WHO</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <body>
+      <sec id="s1" sec-type="Introduction">
+         <label>1</label>
+         <title>Introduction</title>
+         <p>Leukaemia, both acute and chronic, is a rare and difficult event during pregnancy (<xref ref-type="bibr" rid="b1">1</xref>,<xref ref-type="bibr" rid="b2">2</xref>,<xref ref-type="bibr" rid="b3">3</xref>,<xref ref-type="bibr" rid="b4">4</xref>). Its incidence ranges between 1/10,000 and 1/100,000 pregnancies (<xref ref-type="bibr" rid="b1">1</xref>,<xref ref-type="bibr" rid="b2">2</xref>,<xref ref-type="bibr" rid="b5">5</xref>,<xref ref-type="bibr" rid="b6">6</xref>,<xref ref-type="bibr" rid="b7">7</xref>). Among malignancies in pregnancy, which develop in about 1/1000 pregnant women, leukaemia ranks about seventh, behind breast cancer, thyroid cancer, cervical cancer, malignant melanoma, Hodgkin’s lymphoma and ovarian cancer (<xref ref-type="bibr" rid="b8">8</xref>). In the case of acute leukaemia (AL), treatment with cytostatics should be initiated immediately, because untreated disease shows rapid progression and is fatal. Naturally, cytostatics are harmful to the foetus; therefore, all options should be weighed before the beginning of AL treatment, and the most acceptable one should be chosen (<xref ref-type="bibr" rid="b1">1</xref>,<xref ref-type="bibr" rid="b2">2</xref>,<xref ref-type="bibr" rid="b3">3</xref>,<xref ref-type="bibr" rid="b4">4</xref>,<xref ref-type="bibr" rid="b9">9</xref>). If chronic leukaemia is detected during pregnancy, it is usually chronic myeloid leukemia (CML). Quite often its detection occurs accidentally during the early chronic phase of the disease; this means that CML treatment can wait until after delivery (<xref ref-type="bibr" rid="b1">1</xref>,<xref ref-type="bibr" rid="b2">2</xref>). In the event of a high WBC count, treatment of a pregnant CML patient is urgent due to the blood hyperviscosity syndrome (<xref ref-type="bibr" rid="b1">1</xref>,<xref ref-type="bibr" rid="b2">2</xref>,<xref ref-type="bibr" rid="b9">9</xref>). The available therapeutic options include treatment with leukapheresis and cytostatics (<xref ref-type="bibr" rid="b1">1</xref>,<xref ref-type="bibr" rid="b2">2</xref>,<xref ref-type="bibr" rid="b4">4</xref>,<xref ref-type="bibr" rid="b9">9</xref>). Two cases of patients, one with acute and chronic leukaemia detected during pregnancy are presented below. These are the only two cases that were managed in Slovenia during the past ten years.</p>
+      </sec>
+      <sec id="s2" sec-type="Clinical case of an acute leukaemia patient">
+         <label>2</label>
+         <title>Clinical case of an acute leukaemia patient</title>
+         <p>A 35-year-old patient fell ill with acute promyelocytic leukaemia (APL) in her 13<sup>th</sup> week of pregnancy, exhibiting a characteristic chromosomal translocation t(15;17) and a PML-RARα fusion gene. Based on her blood counts upon disease diagnosis, namely WBC 1.6 × 10<sup>9</sup>/L and platelets 6 × 10<sup>9</sup>/L, the patient was classified into the medium risk group (<xref ref-type="bibr" rid="b10">10</xref>,<xref ref-type="bibr" rid="b11">11</xref>). Induction treatment of APL was initiated with all- transretinoic acid (ATRA) and an anthracycline cytostatic daunorubicine (without the addition of cytosine-arabinoside (AraC)), in otherwise standard doses (<xref ref-type="bibr" rid="b10">10</xref>,<xref ref-type="bibr" rid="b11">11</xref>,<xref ref-type="bibr" rid="b12">12</xref>,<xref ref-type="bibr" rid="b13">13</xref>). After induction chemotherapy, hematological remission of APL was achieved and the patient continued with her first consolidation chemotherapy using the same combination of ATRA and daunorubicine. For continued treatment, ATRA was combined with mitoxantrone. During treatment, not only hematological remission of APL was recorded in this patient, but also a complete molecular remission of the disease. No copies of the PML-RARα oncogene were detectable with quantitative PCR analysis in the sample of the patient’s bone marrow after completed treatment. Based on the test results, the patient completed her chemotherapy treatment in the 27th week of pregnancy and did not receive the planned final consolidation cycle of combined treatment. Until delivery, she continued her interval maintenance treatment with ATRA, without any adjunct chemotherapy.</p>
+         <p>Throughout this time, the patient was monitored by her obstetrician/gynaecologist. No developmental defects were noted in the foetus on ultrasound, foetal growth was also appropriate. Foetal heart function was monitored regularly and it was normal throughout the course of pregnancy. Two months after completed APL treatment, the patient gave birth at term by planned caesarean section based on an obstetric indication and the baby showed no structural developmental abnormalities. The delivery was uneventful and the newborn child’s birth weight was appropriate for the gestational age (AGA). The latter finding indicates foetus normal growth in the uterus and good functioning of the placenta. An echocardiographic examination of the newborn following birth showed a structurally and functionally normal heart. Due to the mother’s deficient lactation, the child was not breast-fed. After delivery the patient continued maintenance treatment of APL with ATRA at three-month intervals and has been monitored by the haematology outpatient office to this date. At the time of her latest follow-up, the blood count parameters were within the range of normal values and no PML-RARα oncogene copies were detectable in the bone marrow samples. The child’s development has been uneventful and no abnormalities have been found to date.</p>
+      </sec>
+      <sec id="s3"
+           sec-type="Clinical case of a female patient with chronic leukaemia">
+         <label>3</label>
+         <title>Clinical case of a female patient with chronic leukaemia</title>
+         <p>During her fourth pregnancy, a 40-year-old pregnant woman was followed-up by her personal gynaecologist. During the first trimester, he found elevated WBC levels that significantly exceeded otherwise physiologically increased levels in pregnancy. He referred the patient to a haematologist and a tertiary perinatal centre, but she refused such examinations despite receiving ample explanations. The patient thus came to our centre for the first time in her 41<sup>st</sup> week of pregnancy, right before delivery. She was then diagnosed with CML involving a characteristic chromosomal translocation t(9;22) and the consequential BCR-ABL1 fusion gene. In the clinical status, enlarged spleen was prominent and measured five centimetres below the left costal margin. In the blood counts, there was notable leukocytosis of over 300 × 10<sup>9</sup>/L, thrombocytosis of 566 × 10<sup>9</sup>/L and normocytic anemia with a haemoglobin value of 111 g/L. The patient had no subjective problems, and no clinical signs of hyperviscosity syndrome were found upon her clinical examination. Due to leukocytosis, we wanted to immediately start treatment with leukapheresis, but the patient persistently refused it. While we were trying to convince her, she went into spontaneous labour. In the blood counts, the values were: WBC 335 × 10<sup>9</sup>/L, platelets 517 × 10<sup>9</sup>/L and haemoglobin 104 g/L. Due to enlarged spleen, which was prone to rupture during delivery, the delivery was completed by caesarean section. The latter was uneventful, haemostasis was appropriate throughout the course of delivery, and bleeding was within the expected limits. The child was born without developmental defects and with an appropriate weight for the gestational age. Immediately after delivery, the patient started receiving chemotherapy with peroral hydroxyurea (HU) and had to discontinue breast-feeding. On the fifth day after delivery, she was discharged to home care. After her discharge from the Ljubljana Maternity Hospital, the patient was managed at the haematology outpatient office. After the WBC values decreased, HU was replaced with nilotinib. Due to still present thrombocytosis of over 1000 × 10/<sup>9 </sup>L, which may increase the risk of a thrombotic event in the puerperium, acetylsalicylic acid was added at a small dose of 100 mg daily (<xref ref-type="bibr" rid="b1">1</xref>,<xref ref-type="bibr" rid="b4">4</xref>). Upon the patient’s last visit at the hematology outpatient office two months after delivery, haematological remission of CML was noted. She later no longer returned for follow-ups at the haematology outpatient office and did not respond to any of our several invitations.</p>
+      </sec>
+      <sec id="s4" sec-type="Discussion">
+         <label>4</label>
+         <title>Discussion</title>
+         <p>The first case involved a patient with newly diagnosed AML of an APL subtype at the beginning of her second trimester of pregnancy. APL is a subtype of AML having an excellent long-term prognosis, as 80 to 90 % of patients can achieve remission and later cure (<xref ref-type="bibr" rid="b11">11</xref>). The APL treatment protocol differs from treatment protocols for other AML subtypes. This is because initially it does not include the addition of AraC to the anthracycline cytostatic (<xref ref-type="bibr" rid="b1">1</xref>,<xref ref-type="bibr" rid="b11">11</xref>,<xref ref-type="bibr" rid="b12">12</xref>); one exception to this rule is high-risk APL (<xref ref-type="bibr" rid="b1">1</xref>,<xref ref-type="bibr" rid="b11">11</xref>). In our case, the patient was classified in the medium risk group and therefore did not need AraC; this significantly affected further management of her pregnancy.</p>
+         <p>Antimetabolites, which include AraC, are the most teratogenic of all the different groups of cytostatics and primarily cause deformed extremities (<xref ref-type="bibr" rid="b1">1</xref>,<xref ref-type="bibr" rid="b2">2</xref>,<xref ref-type="bibr" rid="b3">3</xref>,<xref ref-type="bibr" rid="b4">4</xref>). When reviewing 81 described cases of AL treatment during pregnancy between the years 1990 and 2009, Vandenbriele et al. found that foetal developmental defects were present in 18 % of foetuses exposed to AraC and an anthracycline cytostatic, and in all foetuses exposed to a combination of AraC and 6-thioguanine (<xref ref-type="bibr" rid="b14">14</xref>). If at all possible, the use of AraC should therefore be avoided during the first and early second trimester, as foetal organogenesis is still incomplete (<xref ref-type="bibr" rid="b1">1</xref>,<xref ref-type="bibr" rid="b2">2</xref>,<xref ref-type="bibr" rid="b14">14</xref>).</p>
+         <p>The two crucial medications for APL treatment are ATRA and arsenic trioxide (ATO); not infrequently, a combination of the two is also used (<xref ref-type="bibr" rid="b1">1</xref>,<xref ref-type="bibr" rid="b13">13</xref>). ATO is extremely embryotoxic and foetotoxic, so it is not recommended during any period of pregnancy (<xref ref-type="bibr" rid="b1">1</xref>,<xref ref-type="bibr" rid="b2">2</xref>,<xref ref-type="bibr" rid="b4">4</xref>). The use of ATRA during the first trimester has been associated with a 20 % incidence of developmental defects in the foetus (<xref ref-type="bibr" rid="b14">14</xref>). It causes neural tube defects, as well as defects of the heart, kidneys and thymus (<xref ref-type="bibr" rid="b1">1</xref>,<xref ref-type="bibr" rid="b2">2</xref>). At the same time, these data show a relative safety of ATRA use during the second and third trimesters (<xref ref-type="bibr" rid="b14">14</xref>).</p>
+         <p>Within the scope of induction treatment for APL, ATRA and/or ATO is/are always combined with an anthracycline cytostatic, most commonly idarubicine (<xref ref-type="bibr" rid="b10">10</xref>,<xref ref-type="bibr" rid="b11">11</xref>,<xref ref-type="bibr" rid="b13">13</xref>). During pregnancy, however, daunorubicine appears to be a safer option for the foetus than idarubicine, as the latter is more lipophilic and therefore more readily passes through the placental barrier into foetal circulation, having both embryotoxic and foetotoxic effects (<xref ref-type="bibr" rid="b1">1</xref>,<xref ref-type="bibr" rid="b2">2</xref>,<xref ref-type="bibr" rid="b3">3</xref>,<xref ref-type="bibr" rid="b4">4</xref>). If APL is diagnosed during the second trimester of pregnancy or later, as was the case with our patient, it seems more correct and less harmful to the foetus to initiate treatment with a combination of ATRA and daunorubicine (<xref ref-type="bibr" rid="b1">1</xref>,<xref ref-type="bibr" rid="b2">2</xref>,<xref ref-type="bibr" rid="b3">3</xref>). This is also how our patient was treated. Due to the cardiotoxicity of anthracyclines for the mother and foetus, it is essential to carefully record the cumulative dose of received anthracyclines (<xref ref-type="bibr" rid="b1">1</xref>,<xref ref-type="bibr" rid="b3">3</xref>). For example, our patient received 70 % of the permitted cumulative dose and gave birth to a healthy child with normal cardiac function. No other defects or deformities related to foetal development were found either.</p>
+         <p>AL represents the majority of leukaemia cases detected during pregnancy. Two thirds of all such cases involve myeloblastic AL, which was also the case in our patient (<xref ref-type="bibr" rid="b3">3</xref>). When AL is detected during the first trimester, it definitely needs to be treated immediately after diagnosis, not only to protect the mother, but also for the benefit of the foetus. The average survival rate of such patients without treatment is so low that the foetus would not reach viability even if treatment was postponed. Immediate treatment is thus essential, regardless of the stage of pregnancy and in spite of the known teratogenic effects of chemotherapeutic agents used for AL therapy. Due to the teratogenicity of the used medications, any pregnant woman treated during the first trimester of pregnancy should be offered the option of having an artificial abortion (<xref ref-type="bibr" rid="b1">1</xref>,<xref ref-type="bibr" rid="b2">2</xref>,<xref ref-type="bibr" rid="b4">4</xref>,<xref ref-type="bibr" rid="b9">9</xref>). However, this can be done only after remission of the disease has been achieved, because during the acute phase of the disease artificial abortion would pose a risk to the pregnant woman due to disseminated intravascular coagulation (DIC) (<xref ref-type="bibr" rid="b8">8</xref>).</p>
+         <p>Treatment of AL in pregnancy not only leads to an increased risk of congenital developmental defects in the foetus, it also increases the risk of many other complications during the perinatal period: spontaneous abortion, premature delivery, intrauterine foetal growth retardation, stillbirth, neonatal neutropenia and sepsis (<xref ref-type="bibr" rid="b1">1</xref>,<xref ref-type="bibr" rid="b2">2</xref>,<xref ref-type="bibr" rid="b3">3</xref>). Complications such as stillbirth and premature delivery are also more common in pregnant women with leukaemia who remain untreated. Therefore, not all complications can be attributed to treatment (<xref ref-type="bibr" rid="b2">2</xref>,<xref ref-type="bibr" rid="b3">3</xref>,<xref ref-type="bibr" rid="b4">4</xref>). Other potential causes include anaemia in pregnancy, uteroplacental circulatory disturbances resulting from lymphocytic aggregates, and placental infarctions resulting from hemorrhagic or thrombotic events. Prenatal monitoring of pregnancy in the case of diagnosed leukaemia should therefore include more frequent and detailed foetal status monitoring using ultrasound examinations and cardiotocography. In the absence of any signs of foetal distress or uteroplacental insufficiency, AL treatment may be continued until term. Initiating iatrogenic preterm delivery in order to shorten foetal exposure to chemotherapy is actually more harmful to the foetus. This is because the negative effects of premature birth (including late preterm delivery after completed 34th week of pregnancy) exceed the potential negative effects of chemotherapy in this phase of pregnancy. It has been proved that the cognitive function of children born to pregnant women who needed chemotherapy during pregnancy depended primarily on their gestational age at birth and improved with longer gestation (<xref ref-type="bibr" rid="b15">15</xref>).</p>
+         <p>Newly diagnosed chronic leukaemia in pregnancy is less common than AL (<xref ref-type="bibr" rid="b1">1</xref>,<xref ref-type="bibr" rid="b2">2</xref>,<xref ref-type="bibr" rid="b4">4</xref>,<xref ref-type="bibr" rid="b9">9</xref>). As a rule, such cases usually involve myeloid leukaemia. The latter represents 10 % of all cases of leukaemia in pregnancy (<xref ref-type="bibr" rid="b2">2</xref>). Relatively safe therapeutic methods, which are not harmful to the foetus are available for the treatment of pregnant women with newly diagnosed CML (<xref ref-type="bibr" rid="b1">1</xref>,<xref ref-type="bibr" rid="b2">2</xref>,<xref ref-type="bibr" rid="b4">4</xref>). The first such method is leukapheresis, an alternative to chemotherapy, with the use of which it is possible to avoid the teratogenic effects of cytostatics (<xref ref-type="bibr" rid="b1">1</xref>,<xref ref-type="bibr" rid="b4">4</xref>,<xref ref-type="bibr" rid="b9">9</xref>). Interferon (IFN) alpha proved to be a safe drug and can be administered already during the first trimester. It does not inhibit DNA synthesis and because of its large molecular weight it also does not pass through the placenta into the foetal circulation (<xref ref-type="bibr" rid="b1">1</xref>,<xref ref-type="bibr" rid="b4">4</xref>). Among chemotherapeutic agents, hydroxyurea (HU), a DNA synthesis inhibitor, is used for CML treatment. In animals, it may cause malformations of the head, face and the spinal canal; it also inhibits foetal growth and may cause foetal death. Judging from reports on successful and normal pregnancies, in which HU was administered for treatment even in early stages of pregnancy, it appears that this medication is less embryotoxic in humans (<xref ref-type="bibr" rid="b1">1</xref>,<xref ref-type="bibr" rid="b4">4</xref>,<xref ref-type="bibr" rid="b9">9</xref>). Of all tyrosine kinase inhibitors (TKI) used to treat CML, the greatest amount of data is related to imatinib (<xref ref-type="bibr" rid="b1">1</xref>,<xref ref-type="bibr" rid="b2">2</xref>).</p>
+         <p>During early pregnancy, imatinib causes many congenital defects, such as premature closure of cranial sutures, scoliosis, shoulder joint abnormalities, double kidney, renal agenesis, pulmonary hypoplasia, omphalocele and other similar conditions (<xref ref-type="bibr" rid="b1">1</xref>,<xref ref-type="bibr" rid="b2">2</xref>,<xref ref-type="bibr" rid="b4">4</xref>).</p>
+         <p>Since imatinib does not cross the placental barrier, some believe that it can be used for treatment from the second trimester onward (<xref ref-type="bibr" rid="b1">1</xref>,<xref ref-type="bibr" rid="b4">4</xref>,<xref ref-type="bibr" rid="b9">9</xref>). However, there is no solid evidence to prove safe treatment of pregnant women with imatinib, as very few clinical cases have been described in the literature (<xref ref-type="bibr" rid="b4">4</xref>,<xref ref-type="bibr" rid="b9">9</xref>). Significantly less experience and data is available for the remaining, more recently developed TKI, such as nilotinib, dasatinib, bosutinib and ponatinib. Dasatinib crosses the placental barrier and can also be detected in foetal plasma. It has been reported that this medicine caused foetal hydrops and severe foetal cytopenia during the first trimester of pregnancy, but there have also been rare cases of normally completed pregnancies (<xref ref-type="bibr" rid="b1">1</xref>,<xref ref-type="bibr" rid="b2">2</xref>). To summarise, in pregnant female CML patients, the WBC count is maintained within the recommended limits using leukapheresis or IFN alpha, as both approaches are practically harmless to the foetus. Therefore, artificial abortion is not necessary even during the first trimester. Treatment with HU is not recommended during pregnancy and there is no solid evidence of imatinib’s safety. Compared to imatinib, even less information is available on the remaining TKIs (<xref ref-type="bibr" rid="b1">1</xref>,<xref ref-type="bibr" rid="b2">2</xref>). In our case, the patient consented to CML treatment only after delivery. Cytoreductive treatment with HU was initiated. Since HU is excreted into mother’s milk, she did not breast-feed (<xref ref-type="bibr" rid="b1">1</xref>,<xref ref-type="bibr" rid="b2">2</xref>). While the child was born with an equinovarus deformity of the feet, this cannot be attributed to the consequences of treatment for the blood disorder, as it was initiated only after delivery.</p>
+         <p>In and of itself, the state of pregnancy can present a risk of spleen rupture if it is enlarged. There are several reasons for this. The first one is elevated cardiac output in pregnancy and the consequently increased splenic blood flow. The cardiac output increases early during pregnancy (between the 8th and 10th week of gestation) and further increases at delivery due to the autotransfusion effect of contractions. The greatest increase in the cardiac output and consequently splenic blood flow occurs immediately after delivery due to an increase in the right heart preload, with a release of venous stasis in the lower extremities as a result of uterine contractions. Other reasons for increased risk of splenic rupture during delivery in the presence of splenomegaly include pressure of the diaphragm due to the patient’s pushing in the second period of delivery and various manipulations performed by the medical staff. In the case of splenomegaly, which is the result of chronic portal hypertension, according to the Slovenian guidelines, a planned caesarean section is chosen only based on obstetric indications (<xref ref-type="bibr" rid="b16">16</xref>,<xref ref-type="bibr" rid="b17">17</xref>). There is very little data in the literature on the risk of splenic rupture if it is enlarged within the scope of CML. One clinical case is described, however, in which a female patient having a spleen reaching 10 centimetres below the left costal margin gave birth by vaginal delivery and without any complications; the child was healthy, although rather small for the gestational age (<xref ref-type="bibr" rid="b18">18</xref>). In our case, the patient’s enlarged spleen was five centimetres below the left costal margin. The risk of splenic rupture was assessed to be higher, as splenomegaly most likely had developed over a relatively short period of time. The decision on the method of delivery was made even more difficult by the late diagnosis and the finding of splenomegaly just before delivery. Therefore, after consultation with a haematologist, we decided to complete the delivery by performing a caesarean section. This proceeded without complications and the patient gave birth to a child of appropriate size for the gestational age.</p>
+         <p>In all types of leukaemia, the high leukaemic cell count increases the viscosity of blood and consequently also the likelihood of a thromboembolic event. This risk is not negligible, as pregnancy in and of itself is a prothrombogenic state resulting from the process of human evolution (<xref ref-type="bibr" rid="b2">2</xref>,<xref ref-type="bibr" rid="b9">9</xref>). On the other hand, a high platelet count, usually higher than 1500 × 10<sup>9</sup>/L, may lead to the development of acquired vonWillebrand’s disease, which increases the patient’s predisposition to primary haemostasis disorders (<xref ref-type="bibr" rid="b19">19</xref>). Using leukapheresis with concurrent thrombopheresis, WBC and platelet counts can be reduced quickly (<xref ref-type="bibr" rid="b2">2</xref>,<xref ref-type="bibr" rid="b9">9</xref>). Taking into account data from literature, leukapheresis sessions are initiated when the patient develops clinical signs of hyperviscosity syndrome or when the WBC count exceeds the value of 100 × 10<sup>9</sup>/L (<xref ref-type="bibr" rid="b1">1</xref>,<xref ref-type="bibr" rid="b2">2</xref>). With WBC count values above 100 × 10<sup>9</sup>/L, the risk of stroke, hypoxia, deep venous thrombosis, placental insufficiency, low birth weight or prematurity of the baby is significantly increased (<xref ref-type="bibr" rid="b1">1</xref>,<xref ref-type="bibr" rid="b2">2</xref>,<xref ref-type="bibr" rid="b9">9</xref>). In our case, the patient’s WBC count was much higher than 100 × 10<sup>9</sup>/L and therefore treatment by leukapheresis sessions was clearly indicated. The patient, however, refused them.</p>
+         <p>Despite WBC counts of over 300 × 10<sup>9</sup>/L and thrombocytosis of over 500 × 10<sup>9</sup>/L at the time of delivery, she nevertheless gave birth to a healthy child appropriate for gestational age. The delivery was without any associated bleeding or thromboembolic complications. Because of our experience, a question can be posed as to whether the threshold WBC count value of 100 × 10<sup>9</sup>/L, at which treatment with leukapheresis should be initiated, is perhaps set too low. This is because no scientific research is available that would substantiate the above-mentioned WBC count recommendations. Indications for leukapheresis also vary among individual centres, so it can be concluded that this recommendation is in fact based on the opinion of some authorities (<xref ref-type="bibr" rid="b20">20</xref>). Naturally, it is not possible to recommend changes in the currently valid recommendations, which are indeed taken into account in the majority of cases, solely based on our case.</p>
+         <p>Physiologically, leukocytosis is a normal phenomenon during pregnancy (<xref ref-type="bibr" rid="b21">21</xref>,<xref ref-type="bibr" rid="b22">22</xref>,<xref ref-type="bibr" rid="b23">23</xref>). The WBC count increases with time during pregnancy and reaches the highest levels in the third trimester. After delivery, the WBC count rapidly decreases and returns to normal levels by the sixth day following delivery (<xref ref-type="bibr" rid="b21">21</xref>). The natural benefit of the WBC count dynamics observed in pregnant women is unknown (<xref ref-type="bibr" rid="b22">22</xref>). A WBC of about 15 × 10<sup>9</sup>/L is an expected laboratory finding towards the end of pregnancy, while at the time of delivery values of up to 30 × 10<sup>9</sup>/L have been reported (<xref ref-type="bibr" rid="b23">23</xref>). In differential blood counts, neutrophilic granulocytes are predominant. Among mostly mature forms of WBCs, 1–3 % less mature cells can be found, primarily myelocytes and metamyelocytes, but this is not considered pathological (<xref ref-type="bibr" rid="b22">22</xref>). This is because the process involves bone marrow’s adaptation to pregnancy, with accelerated erythropoiesis (<xref ref-type="bibr" rid="b22">22</xref>,<xref ref-type="bibr" rid="b23">23</xref>). On the other hand, it is known that the state of pregnancy inherently increases the risk of thrombosis (<xref ref-type="bibr" rid="b24">24</xref>). Leukocytosis, which is significantly less pronounced than was the case with our patient, is also one of the main risk factors for the development of thrombotic events in some myeloproliferative diseases, such as polycytemia vera (<xref ref-type="bibr" rid="b25">25</xref>). Physiologically speaking, the purpose of leukocytosis in pregnancy may be to prevent major blood loss during delivery.</p>
+         <p>In our case, the CML patient had five risk factors for thromboembolic events: a high WBC count, hyperviscosity syndrome, thrombocytosis, pregnancy as such, and caesarean section. In spite of antithrombotic protection with low molecular weight heparin and antiaggregation treatment with acetylsalicylic acid, this patient was also lucky not to have suffered a thromboembolic event during pregnancy or later, following delivery.</p>
+         <p>The management of this patient was also made more difficult by her negative attitude towards the diagnosis and treatment of her disease. Soon after delivery, she abandoned follow-ups at the haematological outpatient office, so that now she does not receive any medications for her chronic blood disease. It is not known what is happening with her today. Every few months, we try to invite her to come for her follow-up via telephone and telegrams, but all attempts to contact her have been unsuccessful.</p>
+      </sec>
+      <sec id="s5" sec-type="Conclusion">
+         <label>5</label>
+         <title>Conclusion</title>
+         <p>Based on our experience, it can be concluded that the recommendations for APL treatment with ATRA and anthracycline cytostatics during pregnancy are realistic, feasible and above all safe, for both the mother and the foetus.</p>
+         <p>In the case of the CML patient, it can be concluded that it is not possible to give clear advice as to the level of WBC count at which it would be beneficial for the mother and the foetus to initiate treatment with leukapheresis. Without a doubt, this depends on the type of leukaemia and the experience of individual centres with leukapheresis in similar cases. It is also unclear what level of spleen rupture risk would be associated with attempted vaginal delivery in such cases, i.e. at what spleen size it would be safer to complete delivery by caesarean section.</p>
+      </sec>
+   </body>
+   <back>
+      <ref-list>
+         <ref id="b1">
+            <mixed-citation publication-type="conference" specific-use="unparsed">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Zver</surname> 
+                     <given-names>S</given-names>
+                  </string-name>, <string-name>
+                     <surname>Škerget</surname> 
+                     <given-names>M</given-names>
+                  </string-name>
+               </person-group>. <article-title>Obravnava bolnice z levkemijo v nosečnosti.</article-title> In Fras Z, poredoš P, ur Zbornik prispevkov: 57. Tavčarjevi dnevi; 2015 Nov 5–7; Portorož, Slovenija. V Ljubljani: Medicinska fakulteta; <year>2015</year>. p. 53–58.</mixed-citation>
+         </ref>
+         <ref id="b2">
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Milojkovic</surname> 
+                     <given-names>D</given-names>
+                  </string-name>, <string-name>
+                     <surname>Apperley</surname> 
+                     <given-names>JF</given-names>
+                  </string-name>
+               </person-group>. <article-title>How I treat leukemia during pregnancy</article-title>. <source>Blood</source>. <year>2014</year> 
+               <month>Feb</month>;<volume>123</volume>(<issue>7</issue>):<fpage>974</fpage>–<lpage>84</lpage>. <pub-id pub-id-type="doi">10.1182/blood-2013-08-283580</pub-id>
+               <pub-id pub-id-type="pmid">24269956</pub-id>
+               <issn>0006-4971</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b3">
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Ali</surname> 
+                     <given-names>S</given-names>
+                  </string-name>, <string-name>
+                     <surname>Jones</surname> 
+                     <given-names>GL</given-names>
+                  </string-name>, <string-name>
+                     <surname>Culligan</surname> 
+                     <given-names>DJ</given-names>
+                  </string-name>, <string-name>
+                     <surname>Marsden</surname> 
+                     <given-names>PJ</given-names>
+                  </string-name>, <string-name>
+                     <surname>Russell</surname> 
+                     <given-names>N</given-names>
+                  </string-name>, <string-name>
+                     <surname>Embleton</surname> 
+                     <given-names>ND</given-names>
+                  </string-name>, <etal>et al.</etal>; <collab>British Committee for Standards in Haematology</collab>
+               </person-group>. <article-title>Guidelines for the diagnosis and management of acute myeloid leukaemia in pregnancy</article-title>. <source>Br J Haematol</source>. <year>2015</year> 
+               <month>Aug</month>;<volume>170</volume>(<issue>4</issue>):<fpage>487</fpage>–<lpage>95</lpage>. <pub-id pub-id-type="doi">10.1111/bjh.13554</pub-id>
+               <pub-id pub-id-type="pmid">26081614</pub-id>
+               <issn>0007-1048</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b4">
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Lishner</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <string-name>
+                     <surname>Avivi</surname> 
+                     <given-names>I</given-names>
+                  </string-name>, <string-name>
+                     <surname>Apperley</surname> 
+                     <given-names>JF</given-names>
+                  </string-name>, <string-name>
+                     <surname>Dierickx</surname> 
+                     <given-names>D</given-names>
+                  </string-name>, <string-name>
+                     <surname>Evens</surname> 
+                     <given-names>AM</given-names>
+                  </string-name>, <string-name>
+                     <surname>Fumagalli</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <etal>et al.</etal>
+               </person-group> 
+               <article-title>Hematologic malignancies in pregnancy: management guidelines from an international consensus meeting</article-title>. <source>J Clin Oncol</source>. <year>2016</year> 
+               <month>Feb</month>;<volume>34</volume>(<issue>5</issue>):<fpage>501</fpage>–<lpage>8</lpage>. <pub-id pub-id-type="doi">10.1200/JCO.2015.62.4445</pub-id>
+               <pub-id pub-id-type="pmid">26628463</pub-id>
+               <issn>0732-183X</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b5">
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Ward</surname> 
+                     <given-names>RM</given-names>
+                  </string-name>, <string-name>
+                     <surname>Bristow</surname> 
+                     <given-names>RE</given-names>
+                  </string-name>
+               </person-group>. <article-title>Cancer and pregnancy: recent developments</article-title>. <source>Curr Opin Obstet Gynecol</source>. <year>2002</year> 
+               <month>Dec</month>;<volume>14</volume>(<issue>6</issue>):<fpage>613</fpage>–<lpage>7</lpage>. <pub-id pub-id-type="doi">10.1097/00001703-200212000-00007</pub-id>
+               <pub-id pub-id-type="pmid">12441701</pub-id>
+               <issn>1040-872X</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b6">
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Haas</surname> 
+                     <given-names>JF</given-names>
+                  </string-name>
+               </person-group>. <article-title>Pregnancy in association with a newly diagnosed cancer: a population-based epidemiologic assessment</article-title>. <source>Int J Cancer</source>. <year>1984</year> 
+               <month>Aug</month>;<volume>34</volume>(<issue>2</issue>):<fpage>229</fpage>–<lpage>35</lpage>. <pub-id pub-id-type="doi">10.1002/ijc.2910340214</pub-id>
+               <pub-id pub-id-type="pmid">6469398</pub-id>
+               <issn>0020-7136</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b7">
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Terek</surname> 
+                     <given-names>MC</given-names>
+                  </string-name>, <string-name>
+                     <surname>Ozkinay</surname> 
+                     <given-names>E</given-names>
+                  </string-name>, <string-name>
+                     <surname>Zekioglu</surname> 
+                     <given-names>O</given-names>
+                  </string-name>, <string-name>
+                     <surname>Erhan</surname> 
+                     <given-names>Y</given-names>
+                  </string-name>, <string-name>
+                     <surname>Cagirgan</surname> 
+                     <given-names>S</given-names>
+                  </string-name>, <string-name>
+                     <surname>Pehlivan</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <etal>et al.</etal>
+               </person-group> 
+               <article-title>Acute leukemia in pregnancy with ovarian metastasis: a case report and review of the literature</article-title>. <source>Int J Gynecol Cancer</source>. <year>2003</year> 
+               <month>Nov-Dec</month>;<volume>13</volume>(<issue>6</issue>):<fpage>904</fpage>–<lpage>8</lpage>. <pub-id pub-id-type="doi">10.1111/j.1525-1438.2003.13401.x</pub-id>
+               <pub-id pub-id-type="pmid">14675333</pub-id>
+               <issn>1048-891X</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b8">
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Smith</surname> 
+                     <given-names>LH</given-names>
+                  </string-name>, <string-name>
+                     <surname>Danielsen</surname> 
+                     <given-names>B</given-names>
+                  </string-name>, <string-name>
+                     <surname>Allen</surname> 
+                     <given-names>ME</given-names>
+                  </string-name>, <string-name>
+                     <surname>Cress</surname> 
+                     <given-names>R</given-names>
+                  </string-name>
+               </person-group>. <article-title>Cancer associated with obstetric delivery: results of linkage with the California cancer registry</article-title>. <source>Am J Obstet Gynecol</source>. <year>2003</year> 
+               <month>Oct</month>;<volume>189</volume>(<issue>4</issue>):<fpage>1128</fpage>–<lpage>35</lpage>. <pub-id pub-id-type="doi">10.1067/S0002-9378(03)00537-4</pub-id>
+               <pub-id pub-id-type="pmid">14586366</pub-id>
+               <issn>0002-9378</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b9">
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Eskander</surname> 
+                     <given-names>RN</given-names>
+                  </string-name>, <string-name>
+                     <surname>Tarsa</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <string-name>
+                     <surname>Herbst</surname> 
+                     <given-names>KD</given-names>
+                  </string-name>, <string-name>
+                     <surname>Kelly</surname> 
+                     <given-names>TF</given-names>
+                  </string-name>
+               </person-group>. <article-title>Chronic myelocytic leukemia in pregnancy: a case report describing successful treatment using multimodal therapy</article-title>. <source>J Obstet Gynaecol Res</source>. <year>2011</year> 
+               <month>Nov</month>;<volume>37</volume>(<issue>11</issue>):<fpage>1731</fpage>–<lpage>3</lpage>. <pub-id pub-id-type="doi">10.1111/j.1447-0756.2011.01591.x</pub-id>
+               <pub-id pub-id-type="pmid">21790885</pub-id>
+               <issn>1341-8076</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b10">
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Adès</surname> 
+                     <given-names>L</given-names>
+                  </string-name>, <string-name>
+                     <surname>Sanz</surname> 
+                     <given-names>MA</given-names>
+                  </string-name>, <string-name>
+                     <surname>Chevret</surname> 
+                     <given-names>S</given-names>
+                  </string-name>, <string-name>
+                     <surname>Montesinos</surname> 
+                     <given-names>P</given-names>
+                  </string-name>, <string-name>
+                     <surname>Chevallier</surname> 
+                     <given-names>P</given-names>
+                  </string-name>, <string-name>
+                     <surname>Raffoux</surname> 
+                     <given-names>E</given-names>
+                  </string-name>, <etal>et al.</etal>
+               </person-group> 
+               <article-title>Treatment of newly diagnosed acute promyelocytic leukemia (APL): a comparison of French-Belgian-Swiss and PETHEMA results</article-title>. <source>Blood</source>. <year>2008</year> 
+               <month>Feb</month>;<volume>111</volume>(<issue>3</issue>):<fpage>1078</fpage>–<lpage>84</lpage>. <pub-id pub-id-type="doi">10.1182/blood-2007-07-099978</pub-id>
+               <pub-id pub-id-type="pmid">17975017</pub-id>
+               <issn>0006-4971</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b11">
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Tallman</surname> 
+                     <given-names>MS</given-names>
+                  </string-name>, <string-name>
+                     <surname>Altman</surname> 
+                     <given-names>JK</given-names>
+                  </string-name>
+               </person-group>. <article-title>How I treat acute promyelocytic leukemia</article-title>. <source>Blood</source>. <year>2009</year> 
+               <month>Dec</month>;<volume>114</volume>(<issue>25</issue>):<fpage>5126</fpage>–<lpage>35</lpage>. <pub-id pub-id-type="doi">10.1182/blood-2009-07-216457</pub-id>
+               <pub-id pub-id-type="pmid">19797519</pub-id>
+               <issn>0006-4971</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b12">
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Dombret</surname> 
+                     <given-names>H</given-names>
+                  </string-name>, <string-name>
+                     <surname>Gardin</surname> 
+                     <given-names>C</given-names>
+                  </string-name>
+               </person-group>. <article-title>An update of current treatments for adult acute myeloid leukemia</article-title>. <source>Blood</source>. <year>2016</year> 
+               <month>Jan</month>;<volume>127</volume>(<issue>1</issue>):<fpage>53</fpage>–<lpage>61</lpage>. <pub-id pub-id-type="doi">10.1182/blood-2015-08-604520</pub-id>
+               <pub-id pub-id-type="pmid">26660429</pub-id>
+               <issn>0006-4971</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b13">
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Iland</surname> 
+                     <given-names>HJ</given-names>
+                  </string-name>, <string-name>
+                     <surname>Bradstock</surname> 
+                     <given-names>K</given-names>
+                  </string-name>, <string-name>
+                     <surname>Supple</surname> 
+                     <given-names>SG</given-names>
+                  </string-name>, <string-name>
+                     <surname>Catalano</surname> 
+                     <given-names>A</given-names>
+                  </string-name>, <string-name>
+                     <surname>Collins</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <string-name>
+                     <surname>Hertzberg</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <etal>et al.</etal>; <collab>Australasian Leukaemia and Lymphoma Group</collab>
+               </person-group>. <article-title>All-trans-retinoic acid, idarubicin, and IV arsenic trioxide as initial therapy in acute promyelocytic leukemia (APML4)</article-title>. <source>Blood</source>. <year>2012</year> 
+               <month>Aug</month>;<volume>120</volume>(<issue>8</issue>):<fpage>1570</fpage>–<lpage>80</lpage>. <pub-id pub-id-type="doi">10.1182/blood-2012-02-410746</pub-id>
+               <pub-id pub-id-type="pmid">22715121</pub-id>
+               <issn>0006-4971</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b14">
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Vandenbriele</surname> 
+                     <given-names>C</given-names>
+                  </string-name>, <string-name>
+                     <surname>Dierickx</surname> 
+                     <given-names>D</given-names>
+                  </string-name>, <string-name>
+                     <surname>Amant</surname> 
+                     <given-names>F</given-names>
+                  </string-name>, <string-name>
+                     <surname>Delforge</surname> 
+                     <given-names>M</given-names>
+                  </string-name>
+               </person-group>. <article-title>The treatment of hematologic malignancies in pregnancy</article-title>. <source>Facts Views Vis Obgyn</source>. <year>2010</year>;<volume>2</volume>(<issue>2</issue>):<fpage>74</fpage>–<lpage>87</lpage>.<pub-id pub-id-type="pmid">25302102</pub-id>
+               <issn>2032-0418</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b15">
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Amant</surname> 
+                     <given-names>F</given-names>
+                  </string-name>, <string-name>
+                     <surname>Vandenbroucke</surname> 
+                     <given-names>T</given-names>
+                  </string-name>, <string-name>
+                     <surname>Verheecke</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <string-name>
+                     <surname>Fumagalli</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <string-name>
+                     <surname>Halaska</surname> 
+                     <given-names>MJ</given-names>
+                  </string-name>, <string-name>
+                     <surname>Boere</surname> 
+                     <given-names>I</given-names>
+                  </string-name>, <etal>et al.</etal>; <collab>International Network on Cancer, Infertility, and Pregnancy (INCIP)</collab>
+               </person-group>. <article-title>Pediatric Outcome after Maternal Cancer Diagnosed during Pregnancy</article-title>. <source>N Engl J Med</source>. <year>2015</year> 
+               <month>Nov</month>;<volume>373</volume>(<issue>19</issue>):<fpage>1824</fpage>–<lpage>34</lpage>. <pub-id pub-id-type="doi">10.1056/NEJMoa1508913</pub-id>
+               <pub-id pub-id-type="pmid">26415085</pub-id>
+               <issn>0028-4793</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b16">
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Pajntar</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <string-name>
+                     <surname>Trojner Bregar</surname> 
+                     <given-names>A</given-names>
+                  </string-name>
+               </person-group>. <article-title>Carski rez. Ljubljana</article-title>. <source>Med Razgl</source>. <year>2015</year>.<issn>0025-8121</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b17">
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Pajntar</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <string-name>
+                     <surname>Novak Antolič</surname> 
+                     <given-names>Ž</given-names>
+                  </string-name>, <string-name>
+                     <surname>Lučovnik</surname> 
+                     <given-names>M</given-names>
+                  </string-name>
+               </person-group>. <article-title>Nosečnost in vodenje poroda. Ljubljana</article-title>. <source>Med Razgl</source>. <year>2015</year>.<issn>0025-8121</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b18">
+            <mixed-citation publication-type="unknown" specific-use="unparsed">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Mittal</surname> 
+                     <given-names>P</given-names>
+                  </string-name>, <string-name>
+                     <surname>Suri</surname> 
+                     <given-names>J</given-names>
+                  </string-name>, <string-name>
+                     <surname>Bansiwal</surname> 
+                     <given-names>R.</given-names>
+                  </string-name>
+               </person-group> 
+               <article-title>Massive Splenomegaly in Pregnancy: a review of three cases.</article-title> Journal of evolution of medical and dental sciences. <year>2013</year>;2(27):5042–5046.</mixed-citation>
+         </ref>
+         <ref id="b19">
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Tiede</surname> 
+                     <given-names>A</given-names>
+                  </string-name>, <string-name>
+                     <surname>Rand</surname> 
+                     <given-names>JH</given-names>
+                  </string-name>, <string-name>
+                     <surname>Budde</surname> 
+                     <given-names>U</given-names>
+                  </string-name>, <string-name>
+                     <surname>Ganser</surname> 
+                     <given-names>A</given-names>
+                  </string-name>, <string-name>
+                     <surname>Federici</surname> 
+                     <given-names>AB</given-names>
+                  </string-name>, <string-name>
+                     <surname>Federici</surname> 
+                     <given-names>AB</given-names>
+                  </string-name>
+               </person-group>. <article-title>How I treat the acquired von Willebrand syndrome</article-title>. <source>Blood</source>. <year>2011</year> 
+               <month>Jun</month>;<volume>117</volume>(<issue>25</issue>):<fpage>6777</fpage>–<lpage>85</lpage>. <pub-id pub-id-type="doi">10.1182/blood-2010-11-297580</pub-id>
+               <pub-id pub-id-type="pmid">21540459</pub-id>
+               <issn>0006-4971</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b20">
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Zuckerman</surname> 
+                     <given-names>T</given-names>
+                  </string-name>, <string-name>
+                     <surname>Ganzel</surname> 
+                     <given-names>C</given-names>
+                  </string-name>, <string-name>
+                     <surname>Tallman</surname> 
+                     <given-names>MS</given-names>
+                  </string-name>, <string-name>
+                     <surname>Rowe</surname> 
+                     <given-names>JM</given-names>
+                  </string-name>
+               </person-group>. <article-title>How I treat hematologic emergencies in adults with acute leukemia</article-title>. <source>Blood</source>. <year>2012</year> 
+               <month>Sep</month>;<volume>120</volume>(<issue>10</issue>):<fpage>1993</fpage>–<lpage>2002</lpage>. <pub-id pub-id-type="doi">10.1182/blood-2012-04-424440</pub-id>
+               <pub-id pub-id-type="pmid">22700723</pub-id>
+               <issn>0006-4971</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b21">
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Chandra</surname> 
+                     <given-names>S</given-names>
+                  </string-name>, <string-name>
+                     <surname>Tripathi</surname> 
+                     <given-names>AK</given-names>
+                  </string-name>, <string-name>
+                     <surname>Mishra</surname> 
+                     <given-names>S</given-names>
+                  </string-name>, <string-name>
+                     <surname>Amzarul</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <string-name>
+                     <surname>Vaish</surname> 
+                     <given-names>AK</given-names>
+                  </string-name>
+               </person-group>. <article-title>Physiological changes in hematological parameters during pregnancy</article-title>. <source>Indian J Hematol Blood Transfus</source>. <year>2012</year> 
+               <month>Sep</month>;<volume>28</volume>(<issue>3</issue>):<fpage>144</fpage>–<lpage>6</lpage>. <pub-id pub-id-type="doi">10.1007/s12288-012-0175-6</pub-id>
+               <pub-id pub-id-type="pmid">23997449</pub-id>
+               <issn>0971-4502</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b22">
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Kuvin</surname> 
+                     <given-names>SF</given-names>
+                  </string-name>, <string-name>
+                     <surname>Brecher</surname> 
+                     <given-names>G</given-names>
+                  </string-name>
+               </person-group>. <article-title>Differential neutrophil counts in pregnancy</article-title>. <source>N Engl J Med</source>. <year>1962</year> 
+               <month>Apr</month>;<volume>266</volume>(<issue>17</issue>):<fpage>877</fpage>–<lpage>8</lpage>. <pub-id pub-id-type="doi">10.1056/NEJM196204262661708</pub-id>
+               <pub-id pub-id-type="pmid">14460983</pub-id>
+               <issn>0028-4793</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b23">
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Molberg</surname> 
+                     <given-names>P</given-names>
+                  </string-name>, <string-name>
+                     <surname>Johnson</surname> 
+                     <given-names>C</given-names>
+                  </string-name>, <string-name>
+                     <surname>Brown</surname> 
+                     <given-names>TS</given-names>
+                  </string-name>
+               </person-group>. <article-title>Leukocytosis in labor: what are its implications?</article-title> 
+               <source>Fam Pract Res J</source>. <year>1994</year> 
+               <month>Sep</month>;<volume>14</volume>(<issue>3</issue>):<fpage>229</fpage>–<lpage>36</lpage>.<pub-id pub-id-type="pmid">7976474</pub-id>
+               <issn>0270-2304</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b24">
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Lindqvist</surname> 
+                     <given-names>P</given-names>
+                  </string-name>, <string-name>
+                     <surname>Dahlbäck</surname> 
+                     <given-names>B</given-names>
+                  </string-name>, <string-name>
+                     <surname>Marŝál</surname> 
+                     <given-names>K</given-names>
+                  </string-name>
+               </person-group>. <article-title>Thrombotic risk during pregnancy: a population study</article-title>. <source>Obstet Gynecol</source>. <year>1999</year> 
+               <month>Oct</month>;<volume>94</volume>(<issue>4</issue>):<fpage>595</fpage>–<lpage>9</lpage>. <pub-id pub-id-type="doi">10.1097/00006250-199910000-00021</pub-id>
+               <pub-id pub-id-type="pmid">10511366</pub-id>
+               <issn>0029-7844</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b25">
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Landolfi</surname> 
+                     <given-names>R</given-names>
+                  </string-name>, <string-name>
+                     <surname>Di Gennaro</surname> 
+                     <given-names>L</given-names>
+                  </string-name>, <string-name>
+                     <surname>Barbui</surname> 
+                     <given-names>T</given-names>
+                  </string-name>, <string-name>
+                     <surname>De Stefano</surname> 
+                     <given-names>V</given-names>
+                  </string-name>, <string-name>
+                     <surname>Finazzi</surname> 
+                     <given-names>G</given-names>
+                  </string-name>, <string-name>
+                     <surname>Marfisi</surname> 
+                     <given-names>R</given-names>
+                  </string-name>, <etal>et al.</etal>; <collab>European Collaboration on Low-Dose Aspirin in Polycythemia Vera (ECLAP)</collab>
+               </person-group>. <article-title>Leukocytosis as a major thrombotic risk factor in patients with polycythemia vera</article-title>. <source>Blood</source>. <year>2007</year> 
+               <month>Mar</month>;<volume>109</volume>(<issue>6</issue>):<fpage>2446</fpage>–<lpage>52</lpage>. <pub-id pub-id-type="doi">10.1182/blood-2006-08-042515</pub-id>
+               <pub-id pub-id-type="pmid">17105814</pub-id>
+               <issn>0006-4971</issn>
+            </mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

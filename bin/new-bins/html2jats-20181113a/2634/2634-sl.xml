@@ -1,0 +1,1355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD with MathML3 v1.1 20151215//EN" "JATS-journalpublishing1-mathml3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink"
+         dtd-version="1.1"
+         xml:lang="sl"
+         article-type="other">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher-id">Zdrav Vestn</journal-id>
+         <journal-id journal-id-type="nlm-ta">Zdrav Vestn</journal-id>
+         <journal-id journal-id-type="doi">Zdrav Vestn</journal-id>
+         <journal-title-group>
+            <journal-title>Zdravniški vestnik</journal-title>
+            <trans-title-group xml:lang="en">
+               <trans-title>Slovenian Medical Journal</trans-title>
+            </trans-title-group>
+            <abbrev-journal-title>Zdrav Vestn</abbrev-journal-title>
+         </journal-title-group>
+         <issn publication-format="ppub" pub-type="ppub">1318-0347</issn>
+         <issn publication-format="epub" pub-type="epub">1581-0224</issn>
+         <issn-l>0350-0063</issn-l>
+         <publisher>
+            <publisher-name xml:lang="sl">Slovensko zdravniško društvo</publisher-name>
+            <publisher-name xml:lang="en">Slovenian Medical Association</publisher-name>
+            <publisher-loc xml:lang="sl">Ljubljana, Slovenia</publisher-loc>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.6016/ZdravVestn.2634</article-id>
+         <article-id pub-id-type="publisher-id">2634</article-id>
+         <article-categories>
+            <subj-group subj-group-type="discipline" xml:lang="en">
+               <subject>Medicine and health sciences</subject>
+               <subj-group>
+                  <subject>Oncology</subject>
+               </subj-group>
+            </subj-group>
+            <subj-group subj-group-type="discipline" xml:lang="sl">
+               <subject>Medicina/Zdravstvo</subject>
+               <subj-group>
+                  <subject>Onkologija</subject>
+               </subj-group>
+            </subj-group>
+            <subj-group subj-group-type="article-type" xml:lang="en">
+               <subject>Professional article</subject>
+            </subj-group>
+            <subj-group subj-group-type="article-type" xml:lang="sl">
+               <subject>Strokovni članek</subject>
+            </subj-group>
+            <subj-group subj-group-type="heading" xml:lang="sl">
+               <subject>Onkologija</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title xml:lang="sl">Radiooznačeni peptidi v nuklearni medicini</article-title>
+            <trans-title-group>
+               <trans-title xml:lang="en">Radiolabelled peptides in nuclear medicine</trans-title>
+            </trans-title-group>
+            <alt-title alt-title-type="running-head" xml:lang="sl">Radiooznačeni peptidi v nuklearni medicini</alt-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Krošelj</surname>
+                  <given-names>Marko</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1">1</xref>
+            </contrib>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Kolenc Peitl</surname>
+                  <given-names>Petra</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1">1</xref>
+            </contrib>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Sočan</surname>
+                  <given-names>Aljaž</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1">1</xref>
+            </contrib>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Leskovec</surname>
+                  <given-names>Marijana</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1">1</xref>
+            </contrib>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Mlinarič Raščan</surname>
+                  <given-names>Irena</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff2">2</xref>
+            </contrib>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Gmeiner</surname>
+                  <given-names>Tanja</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff2">2</xref>
+               <xref ref-type="corresp" rid="corr"/>
+            </contrib>
+         </contrib-group>
+         <aff-alternatives id="aff1">
+            <aff xml:lang="sl">
+               <label>1</label>
+               <institution>Klinika za nuklearno medicino, Univerzitetni klinični center Ljubljana, Ljubljana, Slovenija</institution>
+            </aff>
+            <aff xml:lang="en">
+               <label>1</label>
+               <institution>Klinika za nuklearno medicino, Univerzitetni klinični center Ljubljana, Ljubljana, Slovenia</institution>
+            </aff>
+         </aff-alternatives>
+         <aff-alternatives id="aff2">
+            <aff xml:lang="sl">
+               <label>2</label>
+               <institution>Fakulteta za farmacijo, Univerza v Ljubljani, Ljubljana, Slovenija</institution>
+            </aff>
+            <aff xml:lang="en">
+               <label>2</label>
+               <institution>Faculty of Pharmacy, University of Ljubljana, Ljubljana, Slovenia</institution>
+            </aff>
+         </aff-alternatives>
+         <author-notes>
+            <fn fn-type="conflict" xml:lang="en">
+               <p>The authors have declared that no competing interests exist.</p>
+            </fn>
+            <fn fn-type="conflict" xml:lang="sl">
+               <p>Avtorji so izjavili, da ne obstajajo nobeni konkurenčni interesi.</p>
+            </fn>
+            <corresp id="corr">Tanja Gmeiner, e-mail: <email xlink:type="simple">tanja.gmeiner@ffa.uni-lj.si</email>
+            </corresp>
+         </author-notes>
+         <pub-date pub-type="ppub">
+            <month>10</month>
+            <year>2018</year>
+         </pub-date>
+         <pub-date pub-type="epub">
+            <month>10</month>
+            <year>2018</year>
+         </pub-date>
+         <volume>87</volume>
+         <issue>9–10</issue>
+         <fpage>471</fpage>
+         <lpage>84</lpage>
+         <history>
+            <date date-type="received">
+               <day>7</day>
+               <month>10</month>
+               <year>2017</year>
+            </date>
+            <date date-type="accepted">
+               <day>12</day>
+               <month>9</month>
+               <year>2017</year>
+            </date>
+         </history>
+         <permissions>
+            <copyright-statement xml:lang="en">Copyright © 2018, Slovenian Medical Association (SZD)</copyright-statement>
+            <copyright-statement xml:lang="sl">© 2018, Slovensko zdravniško društvo (SZD)</copyright-statement>
+            <copyright-year>2018</copyright-year>
+            <copyright-holder xml:lang="en">Slovenian Medical Association (SZD)</copyright-holder>
+            <copyright-holder xml:lang="sl">Slovensko zdravniško društvo (SZD)</copyright-holder>
+            <license xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                     xlink:type="simple"
+                     xml:lang="en">
+               <license-p>This is an open access article distributed under the terms of the
+          <ext-link ext-link-type="uri"
+                            xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                            xlink:type="simple">Creative Commons Attribution-NonCommercial
+            License</ext-link>, which permits unrestricted use, distribution, and
+          reproduction in any medium, provided the original author and source are
+          credited and only for non-commercial purposes. </license-p>
+            </license>
+            <license xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                     xlink:type="simple"
+                     xml:lang="sl">
+               <license-p>To je članek z odprtim dostopom, ki ga lahko uporabite pod pogoji iz
+          <ext-link ext-link-type="uri"
+                            xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                            xlink:type="simple">Creative Commons Priznanje avtorstva-Nekomercialno
+            licence</ext-link>. ki dovoljuje distribucijo, predelavo ali
+          prilagoditev, ter gradijo na njem, v nekomercialne namene, z navedbo avtorja
+          in izvirnega dela.</license-p>
+            </license>
+         </permissions>
+         <abstract xml:lang="sl">
+            <title>Izvleček</title>
+            <p>Nuklearna medicina pri obravnavi onkoloških bolnikov omogoča slikovni prikaz oziroma umeščenost tumorjev, ciljano zdravljenje ter spremljanje uspešnosti zdravljenja. Visoko specifične radiooznačene peptidne učinkovine lahko izkoristimo za ciljanje tumorskih celic, ki imajo na svoji površini čezmerno izražene receptorje za te učinkovine. Enako peptidno učinkovino lahko radiooznačimo tako z diagnostičnimi kot terapevtskimi radionuklidi. Ti teranostični pari učinkovin omogočajo personalizirani pristop pri obravnavi bolnikov. V preglednem članku opisujemo dva sistema teranostičnih parov, ki jih v nuklearni medicini uporabljamo za diagnosticiranje ter zdravljenje tumorjev. Klasičen primer takšnih teranostičnih parov so radiooznačeni analogi somatostatina, ki se rutinsko uporabljajo pri diagnosticiranju ter zdravljenju nevroendokrinih tumorjev (NET) s čezmerno izraženimi receptorji za somatostatin. Radiooznačeni analogi minigastrina, ki se vežejo na receptorje za holecistokinin-2, pa so primerni za diagnosticiranje medularnega raka ščitnice (MTC), za uporabnost in varnost pri zdravljenju pa še potekajo klinična preskušanja.</p>
+         </abstract>
+         <trans-abstract xml:lang="en">
+            <title>Abstract</title>
+            <p>Nuclear medicine plays an important role in the management of oncology patients. It enables visualization and localization of tumours, targeted radionuclide therapy and monitoring patient response to therapy. Highly specific peptide molecules can target tumour cells with overexpressed receptors for regulatory peptides and their analogues. When these peptides are radiolabelled, we can use them either for diagnosis or therapy, depending on the radionuclide used. These theranostic pairs enable nuclear medicine a personalized approach to patient management. The purpose of this review is to describe the overview of radiolabelled peptides and to present two theranostic systems used in nuclear medicine. Classical examples of theranostic pairs are radiolabelled somatostatin analogues that are routinely used in diagnosis and targeted radionuclide therapy of neuroendocrine neoplasms (NEN). On the other hand, radiolabelled minigastrin analogues can be used for the diagnosis of metastatic medullary thyroid carcinoma (MTC) and have a potential to be used also in targeted radionuclide therapy.</p>
+         </trans-abstract>
+         <kwd-group xml:lang="sl">
+            <kwd>radiooznačeni peptidi</kwd>
+            <kwd>teranostiki</kwd>
+            <kwd>radiofarmaki</kwd>
+            <kwd>somatostatin</kwd>
+            <kwd>minigastrin</kwd>
+         </kwd-group>
+         <kwd-group xml:lang="en">
+            <kwd>radiolabelled peptides</kwd>
+            <kwd>theranostics</kwd>
+            <kwd>radiopharmaceuticals</kwd>
+            <kwd>somatostatin</kwd>
+            <kwd>minigastrin</kwd>
+         </kwd-group>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>TotalReferences</meta-name>
+               <meta-value>32</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ReferencesParsed</meta-name>
+               <meta-value>29</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ReferencesBillable</meta-name>
+               <meta-value>30</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>LinkServices</meta-name>
+               <meta-value>pubmed-crossref</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ReferencesLinked</meta-name>
+               <meta-value>26</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ReferencesLinkedDOI</meta-name>
+               <meta-value>22</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ReferencesLinkedPMID</meta-name>
+               <meta-value>25</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>JournalReferences</meta-name>
+               <meta-value>26</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>BookReferences</meta-name>
+               <meta-value>1</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>BookChapterReferences</meta-name>
+               <meta-value>3</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ConferenceReferences</meta-name>
+               <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ElectronicReferences</meta-name>
+               <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>DissertationReferences</meta-name>
+               <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>LegalReferences</meta-name>
+               <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>StandardReferences</meta-name>
+               <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>OtherReferences</meta-name>
+               <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>UnknownReferences</meta-name>
+               <meta-value>2</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ReferencesSemiParsed</meta-name>
+               <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ReferencesBookUnparsed</meta-name>
+               <meta-value>1</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>EditorialStyle</meta-name>
+               <meta-value>ICMJE-WHO</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <body>
+      <sec id="s1" sec-type="Uvod">
+         <label>1</label>
+         <title>Uvod</title>
+         <sec id="s1.1" sec-type="Radiofarmaki">
+            <label>1.1</label>
+            <title>Radiofarmaki</title>
+            <p>Nuklearna medicina<italic> </italic>uporablja odprte vire radioaktivnega sevanja pri diagnosticiranju in zdravljenju različnih patofizioloških stanj. Pri obravnavi onkoloških bolnikov omogoča nuklearna medicina prikazovanje oz. umeščenost tumorskih celic, ciljano zdravljenje oziroma uničevanje prizadetih/spremenjenih celic in spremljanje uspešnosti zdravljenja. Radiofarmaki so osnova vsakega nuklearnomedicinskega posega in so sestavljeni iz radioaktivne komponente (radionuklida oz. radioizotopa) ter farmacevtske komponente (vektorska ali nosilna molekula), na katero vežemo radionuklid. Za dostavo radioaktivnosti v celice, tkiva oz. organe je odgovorna farmacevtska komponenta, pri čemer izkoriščamo morfološke značilnosti in/ali (pato)fiziološke procese. Glede na vrsto radionuklida lahko radiofarmake uporabljamo za diagnosticiranje ali zdravljenje (<xref ref-type="table" rid="table1">Tabela 1</xref>).</p>
+            <table-wrap position="anchor" id="table1">
+               <label>Tabela 1:</label>
+               <caption>
+                  <p> Najpogosteje uporabljeni radionuklidi (PET, SPECT in terapevtski radionuklidi), njihove razpolovne dobe (T<sub>1/2</sub>), tip sevanja ter način pridobivanja.</p>
+               </caption>
+               <table>
+                  <colgroup>
+                     <col/>
+                     <col/>
+                     <col/>
+                     <col/>
+                     <col/>
+                  </colgroup>
+                  <thead>
+                     <tr>
+                        <th/>
+                        <th>Radionuklid</th>
+                        <th>T<sub>1/2</sub>
+                        </th>
+                        <th>Tip sevanja</th>
+                        <th>Pridobivanje</th>
+                     </tr>
+                  </thead>
+                  <tbody>
+                     <tr>
+                        <td rowspan="4">PET</td>
+                        <td>ogljik-11 (<sup>11</sup>C)</td>
+                        <td>20,3 min</td>
+                        <td>β<sup>+ </sup>(100 %)</td>
+                        <td>ciklotron</td>
+                     </tr>
+                     <tr>
+                        <td>fluor-18 (<sup>18</sup>F)</td>
+                        <td>110 min</td>
+                        <td>β<sup>+ </sup>(97 %)</td>
+                        <td>ciklotron</td>
+                     </tr>
+                     <tr>
+                        <td>baker-64 (<sup>64</sup>Cu)</td>
+                        <td>12,8 h</td>
+                        <td>β<sup>+ </sup>(19 %)</td>
+                        <td>ciklotron</td>
+                     </tr>
+                     <tr>
+                        <td>galij-68 (<sup>68</sup>Ga)</td>
+                        <td>67,6 min</td>
+                        <td>β<sup>+ </sup>(89 %)</td>
+                        <td>generator</td>
+                     </tr>
+                     <tr>
+                        <td rowspan="4">SPECT</td>
+                        <td>cirkonij-89 (<sup>89</sup>Zr)</td>
+                        <td>78,4 h</td>
+                        <td>β<sup>+ </sup>(23 %)</td>
+                        <td>ciklotron</td>
+                     </tr>
+                     <tr>
+                        <td>jod-124 (<sup>124</sup>I)</td>
+                        <td>4.17 dni</td>
+                        <td>β<sup>+ </sup>(23 %)</td>
+                        <td>ciklotron</td>
+                     </tr>
+                     <tr>
+                        <td>galij-67 (<sup>67</sup>Ga)</td>
+                        <td>78,26 h</td>
+                        <td>γ</td>
+                        <td>ciklotron</td>
+                     </tr>
+                     <tr>
+                        <td>tehnecij-99m (<sup>99m</sup>Tc)</td>
+                        <td>6,0 h</td>
+                        <td>γ</td>
+                        <td>generator</td>
+                     </tr>
+                     <tr>
+                        <td rowspan="5">Terapija</td>
+                        <td>indij-111 (<sup>111</sup>In)</td>
+                        <td>67,9 h</td>
+                        <td>γ</td>
+                        <td>ciklotron</td>
+                     </tr>
+                     <tr>
+                        <td>itrij-90 (<sup>90</sup>Y)</td>
+                        <td>64,0 h</td>
+                        <td>β<sup>-</sup>
+                        </td>
+                        <td>generator</td>
+                     </tr>
+                     <tr>
+                        <td>jod-131 (<sup>131</sup>I)</td>
+                        <td>8 dni</td>
+                        <td>β<sup>-</sup>
+                        </td>
+                        <td>fisija</td>
+                     </tr>
+                     <tr>
+                        <td>lutecij-177 (<sup>177</sup>Lu)</td>
+                        <td>6,71 dni</td>
+                        <td>β<sup>-</sup>
+                        </td>
+                        <td>reaktor</td>
+                     </tr>
+                     <tr>
+                        <td>bizmut-213 (<sup>213</sup>Bi)</td>
+                        <td>45 min</td>
+                        <td>α</td>
+                        <td>generator</td>
+                     </tr>
+                  </tbody>
+               </table>
+            </table-wrap>
+            <p>Večina radiofarmakov se uporablja v diagnostične namene z uporabo radionuklidov, ki izsevajo bodisi žarke gama (indij-111, tehnecij-99m) ali pozitrone, ki se po združitvi z elektronom anihilirajo in izsevajo dva žarka gama pod kotom 180 ° (glej poglavje 1.3.). Za zdravljenje oz. ciljano radionuklidno terapijo pa uporabljamo radionuklide, ki pri razpadu izsevajo delce beta (jod-131, lutecij-177, itrij-90) ali alfa (bizmut-213). Pri interakciji s celicami ti delci povzročijo visoko gostoto poškodb, kar ima za posledico celično okvaro in/ali smrt celice. Citotoksičnost je lahko posledica neposredne ionizacije DNA, ali pa do nje pride posredno preko tvorbe radikalov, ki reagirajo z DNA. Radiofarmaki, označeni s terapevtskimi radionuklidi, morajo v čim večjem obsegu delovati lokalno v obolelem organu ali tumorju, saj lahko sicer poškodujejo tudi zdrava (netarčna) tkiva, kar lahko vodi v neželene stranske učinke ciljane radionuklidne terapije.</p>
+            <p>Tumorske celice se od zdravih razlikujejo tudi po tem, da imajo na svoji površini drugače izražene receptorje za regulacijske peptide. Radioznačeni peptidi, ki se specifično vežejo na receptorje, so pomembna skupina zdravil, saj imajo visoko afiniteto in specifičnost za ta receptorska mesta in omogočajo vizualizacijo in/ali ciljano uničevanje tumorskih celic. Radiooznačeni peptidi so ponavadi sestavljeni iz peptidnega dela, ki je odgovoren za vezavo na receptor, distančnika, s katerim moduliramo farmakokinetične lastnosti, ter bifunkcionalnega kelatorja, ki omogoča vezavo radionuklida (<xref ref-type="fig" rid="fig1">Slika 1</xref>).</p>
+            <fig position="anchor" id="fig1">
+               <label>Slika 1:</label>
+               <caption>
+                  <p> Značilna struktura radiooznačenih peptidnih učinkovin. C-terminalni del peptida, odgovoren za specifično vezavo na tarčo (receptor), distančnik, s katerim vplivamo na farmakokinetiko, ter bifunkcionalni kelator (BFK) za vezavo radionuklida.</p>
+               </caption>
+               <p>
+                  <graphic xlink:href="2634-web-resources/image/2634-1.jpg"/>
+               </p>
+            </fig>
+            <p>Za slikovno diagnostiko ter ciljano terapijo različnih tumorjev so razvili veliko peptidnih radiofarmakov, med katerimi jih je kar nekaj v vsakodnevni klinični uporabi. V <xref ref-type="table" rid="table2">Tabeli 2</xref> so povzeti glavni receptorski tarčni sistemi, ki so čezmerno izraženi pri različnih tumorjih in so tarče peptidnih radiofarmakov. Kot »dostavni sistem« lahko uporabljamo naravne ali sintetične analoge regulacijskih peptidov.</p>
+            <table-wrap position="anchor" id="table2">
+               <label>Tabela 2:</label>
+               <caption>
+                  <p> Glavna področja razvoja peptidnih radiofarmakov. Faza razvoja: 1 – rutinska klinična uporaba, 2 – klinične študije, 3 – predklinične študije. Povzeto po (<xref ref-type="bibr" rid="b1">1</xref>)</p>
+               </caption>
+               <table>
+                  <colgroup>
+                     <col/>
+                     <col/>
+                     <col/>
+                     <col/>
+                  </colgroup>
+                  <thead>
+                     <tr>
+                        <th>Tumor</th>
+                        <th>Tarča (receptor)</th>
+                        <th>Peptid</th>
+                        <th>Faza razvoja</th>
+                     </tr>
+                  </thead>
+                  <tbody>
+                     <tr>
+                        <td>Nevroendokrini tumorji (NET), gastroenteropankreatični tumorji, ne- Hodgkingov limfom, paraganglioma, melanom, drobnocelični rak pljuč</td>
+                        <td>SSTR 1–5 (<italic>angl.</italic>
+                           <italic> </italic>somatostatin receptors); somatostatinski receptorji podtipov 1–5</td>
+                        <td>Somatostatin</td>
+                        <td>1</td>
+                     </tr>
+                     <tr>
+                        <td>Rak prostate, trebušne slinavke, želodca, drobnocelični rak pljuč</td>
+                        <td>GRPR (<italic>angl.</italic>
+                           <italic> </italic>gastrin releasing peptide receptor); gastrin sproščujoči peptid</td>
+                        <td>Bombesin</td>
+                        <td>2</td>
+                     </tr>
+                     <tr>
+                        <td>Medularni karcinom ščitnice (<italic>angl. </italic>medullary thyroid carcinoma, MTC), drobnocelični rak pljuč, astrocitom, stromalni rak jajčnikov</td>
+                        <td>CCK2R (<italic>angl.</italic>
+                           <italic> </italic>cholecystokinine 2 receptor);<italic> </italic>receptor za holecistokinin 2)</td>
+                        <td>CCK/gastrin</td>
+                        <td>2</td>
+                     </tr>
+                     <tr>
+                        <td>Insulinom, gastrinom, feokromocitom, paragangliom, MTC</td>
+                        <td>GLP–1R (<italic>angl.</italic>
+                           <italic> </italic>glucagon-like peptide-1 receptor); receptor za glukogonu podoben peptid-1</td>
+                        <td>Eksendin</td>
+                        <td>2</td>
+                     </tr>
+                     <tr>
+                        <td>Rak možganov, pljuč, jajčnikov, dojk</td>
+                        <td>α<sub>v</sub>β<sub>3</sub>-integrin</td>
+                        <td>RGD</td>
+                        <td>2</td>
+                     </tr>
+                     <tr>
+                        <td>Melanom</td>
+                        <td>MC1R (<italic>angl.</italic>
+                           <italic> </italic>melanocortin 1 receptor) receptor za melanokortin 1</td>
+                        <td>α-MSH</td>
+                        <td>2</td>
+                     </tr>
+                     <tr>
+                        <td>Drobnocelični rak pljuč, rak debelega črevesja, prostate, dojk</td>
+                        <td>NTR1 (<italic>angl.</italic>
+                           <italic> </italic>neurotensin receptor 1); receptor za nevrotenzin 1</td>
+                        <td>Nevrotenzin</td>
+                        <td>2</td>
+                     </tr>
+                     <tr>
+                        <td>Rak dojk, prostate</td>
+                        <td>NPYR (<italic>angl.</italic>
+                           <italic> </italic>neuropeptide Y receptor); receptor za nevropeptid Y</td>
+                        <td>NPY</td>
+                        <td>3</td>
+                     </tr>
+                     <tr>
+                        <td>Glioblastom, astrocitom, MTC</td>
+                        <td>NK1R (angl.<italic> </italic>neurokinin 1 receptor); receptor za nevrokinin 1</td>
+                        <td>Substanca P</td>
+                        <td>2</td>
+                     </tr>
+                     <tr>
+                        <td>Rak dojk, pljuč, prostate</td>
+                        <td>Receptor CXCR4 (<italic>angl.</italic>
+                           <italic> </italic>C-X-C chemokine receptor type 4); kemokinski receptor C–X-C tipa 4</td>
+                        <td>CXCR4</td>
+                        <td>2</td>
+                     </tr>
+                  </tbody>
+               </table>
+            </table-wrap>
+         </sec>
+         <sec id="s1.2" sec-type="Razvoj radiofarmakov">
+            <label>1.2</label>
+            <title>Razvoj radiofarmakov</title>
+            <p>Razvoj radiofarmakov je podoben razvoju neradioaktivnih klasičnih zdravil, vendar ima zaradi radioaktivne narave tudi določene posebnosti. Pri razvoju »tradicionalnih« zdravil je eden od ciljev doseči povišano plazemsko koncentracijo učinkovine, ki naj bi bila za doseganje učinka na tarčne organe čimbolj konstantna. Pri radiofarmakih pa želimo doseči sorazmerno hiter plazemski očistek, ki omogoča ravno dovolj časa, da se radiofarmak nakopiči v tarčnem organu, medtem ko se »preostanek« radiofarmaka hitro izloči. S tem dosežemo, da je večina radioaktivnosti v tarčnem organu hitro po i.v. aplikaciji. Specifičnost umeščenosti pri klasičnih zdravilih ni kritična za razvoj, saj je lahko koncentracija učinkovine visoka tako na mestu, kjer želimo biološki odgovor, kot tudi v netarčnih tkivih. Pri radiofarmakih je specifičnost umeščenosti zelo pomembna, saj se tako izognemo povišanemu sevanju v netarčnih organih, kar ima za posledico slabo kakovost slik in/ali povzročitev sevalnih poškodb v netarčnem tkivu, – zato je pri razvoju radiofarmakov osrednjega pomena t. i. razmerje tarčni organ / ozadje (<xref ref-type="bibr" rid="b2">2</xref>). Ne glede na omenjene posebnosti ima razvoj peptidnih radiofarmakov podobno pot kot razvoj klasičnih zdravil. Na <xref ref-type="fig" rid="fig2">Sliki 2</xref> so podrobno predstavljeni koraki pri razvoju peptidnih radiofarmakov. Glavna posebnost razvoja radiofarmakov je radiooznačevanje z izbranim radionuklidom, ki usmerja izbor ter optimizacijo metode radiooznačevanja.</p>
+            <fig position="anchor" id="fig2">
+               <label>Slika 2:</label>
+               <caption>
+                  <p> Glavni koraki pri razvoju peptidnih radiofarmakov. Povzeto po (<xref ref-type="bibr" rid="b3">3</xref>).</p>
+               </caption>
+               <p>
+                  <graphic xlink:href="2634-web-resources/image/2634-2.png"/>
+               </p>
+            </fig>
+            <p>Razvoj peptidne kemije omogoča načrtovanje, strukturno analizo ter sintezo novih peptidnih molekul z izboljšanimi lastnostmi (povišana specifičnost, moč vezave na tarčne molekule) za uporabo v nuklearni medicini:</p>
+            <list>
+               <list-item>
+                  <label>•</label>
+                  <p>Optimizacija vezave na receptorje. Z uporabo računalniškega modeliranja ter informacij o strukturi tarčnih molekul lahko načrtujemo peptide z visoko afiniteto (IC<sub>50 </sub>vrednosti radiooznačenih peptidov v nanomolarnem območju) do tarčnih receptorjev na tumorskih celicah.</p>
+               </list-item>
+               <list-item>
+                  <label>•</label>
+                  <p>Izboljšanje kemijskih lastnosti radiooznačenih peptidov. S povečanjem hidrofilnosti teh molekul lahko zmanjšamo kopičenje v jetrih in/ali zmanjšamo vezavo na plazemske proteine.</p>
+               </list-item>
+               <list-item>
+                  <label>•</label>
+                  <p>Izboljšanje metabolične (plazemske) stabilnosti z vpeljavo nenaravnih D-amino kislin, uporabo cikličnih peptidov ali peptidomimetikov. Razpad radiooznačenih peptidov v plazmi povzroči nastanek metabolitov, ki imajo spremenjene farmakokinetične lastnosti, kar lahko vodi do neželenih učinkov.</p>
+               </list-item>
+               <list-item>
+                  <label>•</label>
+                  <p>Uporaba različnih kelatorjev za preprečevanje »sproščanja« radionuklida iz kompleksa. »Sproščanje« radionuklidov lahko predvsem pri uporabi terapevtskih radionuklidov vodi v toksičnost zaradi biodistribucije prostega radionuklida (<xref ref-type="bibr" rid="b4">4</xref>). Izbrani kelatorji ne smejo vplivati na vezavno kinetiko radiooznačenega peptida, vendar morajo omogočiti stabilno vezavo radionuklida. Nekateri kelatorski sistemi omogočajo vezavo različnih radionuklidov (diagnostičnih, terapevtskih), kar izkoriščamo v t. i. teranostičnem pristopu pri obravnavi bolnikov (<xref ref-type="bibr" rid="b5">5</xref>).</p>
+               </list-item>
+               <list-item>
+                  <label>•</label>
+                  <p>Naboj, lipofilnost ter stabilnost radiofarmakov <italic>in vivo</italic>
+                     <italic> </italic>vplivajo na pot izločanja. Z modificiranjem radiooznačenih peptidov lahko vplivamo na te lastnosti tako, da izločanje radiooznačenih peptidov poteka večinoma skozi ledvice, kar je najbolj zaželeno. Na ta način omogočimo najhitrejše izločanje »nevezane« radioaktivnosti, s čimer se izognemo povišanemu sevanju v netarčnih organih.</p>
+               </list-item>
+            </list>
+         </sec>
+         <sec id="s1.3" sec-type="Slikovne preiskave v nuklearni medicini">
+            <label>1.3</label>
+            <title>Slikovne preiskave v nuklearni medicini</title>
+            <p>Večina (95 %) vseh nuklearnomedicinskih postopkov je diagnostičnih. Obstajata dve glavni skupini diagnostičnih preiskav, ki se delita glede na uporabljene radionuklide ter glede na princip zaznavanja radioaktivnosti:</p>
+            <list>
+               <list-item>
+                  <label>1.</label>
+                  <p>Planarna scintigrafija, pri kateri uporabljamo radionuklide, ki neposredno izsevajo žarke gama oz. fotone (sevalci gama) in jih zaznamo s planarno kamero gama, s katero lahko prikažemo statične ali dinamične dvodimenzionalne slike.</p>
+               </list-item>
+               <list-item>
+                  <label>2.</label>
+                  <p>Računalniška tomografija, ki je lahko:</p>
+               </list-item>
+            </list>
+            <p>•Enofotonska izsevna tomografija oz. SPECT (<italic>angl.</italic> single photon emission computed tomography), pri kateri uporabljamo sevalce gama. Zaznamo jih lahko z eno- ali večglavim detektorskim sistemom iz različnih kotov. Z uporabo rekonstrukcijskih algoritmov obdelamo dobljene podatke ter prikažemo tridimenzionalno sliko porazdelitve radiofarmaka.</p>
+            <p>•Pozitronska izsevna tomografija oz. PET (<italic>angl</italic>
+               <italic>.</italic> positron emission tomography), pri kateri uporabljamo radionuklide, ki izsevajo pozitrone. Ti se po združitvi z elektronom anihilirajo in izsevajo dva gama žarka pod kotom 180 ° in energijo 511 keV. Ko oba fotona skoraj sočasno zazna obroč detektorjev v snemalniku PET, lahko na osi med mestoma detekcije natančnougotovimo mesto, kjer se je anihilacija zgodila, kar nam da informacijo o mestu kopičenja radiofarmaka. (<xref ref-type="fig" rid="fig3">Slika 3</xref>).</p>
+            <fig position="anchor" id="fig3">
+               <label>Slika 3:</label>
+               <caption>
+                  <p> Princip zaznavanja radioaktivnosti. <italic>Levo</italic>: enofotonska izsevna tomografija oz. SPECT (zaznava fotonov z enim ali večglavim detektorskim sistemom iz različnih kotov). <italic>Desno</italic>: pozitronska izsevna tomografija oz. PET (zaznava fotonskih parov, ki nastanejo po združitvi pozitrona z elektronom).</p>
+               </caption>
+               <p>
+                  <graphic xlink:href="2634-web-resources/image/2634-3.jpg"/>
+               </p>
+            </fig>
+            <p>Pri obeh principih nastane nuklearnomedicinska slika z detekcijo nekaj milijonov fotonov (planarna scintigrafija, SPECT) oz. fotonskih parov (PET). Večina novejših snemalnikov je povezanih z rentgensko računalniško tomografijo (<italic>angl.</italic> computed tomography, CT). Medtem ko nam SPECT oz. PET nudita informacije o funkciji (fiziologiji, patofiziologiji) tkiv in organov, nam CT nudi informacijo o morfologiji. S kombinacijo obeh tehnik (SPECT/CT oz. PET/CT) lahko v eni preiskavi pridobimo slikovno informacijo o določenem procesu ter njegovo natančno umestitev. Z združevanjem (fuzijo) informacij lahko občutno izboljšamo diagnostično vrednost nekaterih preiskav. CT poleg morfologije omogoča tudi korekcijo t. i. slabljenja oz. atenuacije žarkov gama. Ti izhajajo iz telesa preiskovanca in različno slabijo glede na njihovo lego v različnih tkivih telesa; npr. v zraku v pljučih je atenuacija minimalna, v kosteh pa obsežna (<xref ref-type="bibr" rid="b6">6</xref>,<xref ref-type="bibr" rid="b7">7</xref>). Na združeni (zliti) sliki prikazujemo morfološke (CT) podatke v sivi lestvici, funkcijske (SPECT, PET) pa v barvni lestvici in tako funkcijsko informacijo natačno umestimo in prikažemo. Na <xref ref-type="fig" rid="fig4">Sliki 4</xref> je prikazana scintigrafija somatostatinskih receptorjev z radiooznačenimi analogi somatostatina, katerih razvoj podrobneje opisujemo v nadaljevanju.</p>
+            <fig position="anchor" id="fig4">
+               <label>Slika 4:</label>
+               <caption>
+                  <p> Scintigrafija somatostatinskih receptorjev z radiooznačenim peptidom 99mTc-HYNICTOC. A: morfološki prikaz s CT; B: SPECT; C: zlita slika SPECT/CT; D: SPECT prikaz celotnega telesa. S puščico označeno kopičenje radiofarmaka v repu trebušne slinavke. Vir: Arhiv Klinike za nuklearno medicino, UKC Ljubljana.</p>
+               </caption>
+               <p>
+                  <graphic xlink:href="2634-web-resources/image/2634-4.jpg"/>
+               </p>
+            </fig>
+         </sec>
+      </sec>
+      <sec id="s2" sec-type="Radiooznačeni analogi somatostatina">
+         <label>2</label>
+         <title>Radiooznačeni analogi somatostatina</title>
+         <p>Somatostatin je peptidni hormon, ki se izloča predvsem v prebavilih ter možganih in zavira izločanje mnogih endokrinih hormonov, kot so inzulin, glukagon ter gastrin (<xref ref-type="bibr" rid="b8">8</xref>). Biološki odgovor sproži z vezavo na družino somatostatinskih receptorjev, ki je sestavljena iz 5 podtipov (sst1-sst5), pri čemer so v tumorjih najpogosteje izraženi sst2. V nuklearni medicini so daleč najbolj uporabljeni radiooznačeni analogi somatostatina (sst), ki se uporabljajo pri diagnosticiranju in zdravljenju nevroendokrinih tumorjev (NET). Nevroendokrini tumorji se razvijejo iz celic nevroendokrinega sistema. Prisotni so v številnih organih človeškega telesa (64 % v prebavilih, 28 % v dihalih, preostali pa so NET ščitnice, kože, nadledvične žleze ter živčnih celic). So redki tumorji, a njihova incidenca v zadnjih letih narašča. Incidenčna stopnja NET prebavil (GEP NET) je 5,25/100.000 na leto, prevalenca pa je 35/100.000, kar jih uvršča na drugo mesto v skupini tumorjev prebavil. Diagnosticiranje NET zajema klinično sliko, laboratorijske preiskave, kot sta kromogranin A in 5-hidroksiindolocetna kislina, ter slikovne preiskave. Slikovna preiskava izbire je CT ali MRI v kombinaciji s scintigrafijo somatostatinskih receptorjev, ki je kot samostojna slikovna preiskava diagnostično najobčutljivejša (<xref ref-type="bibr" rid="b9">9</xref>).</p>
+         <p>Molekularna osnova za razvoj radiooznačenih analogov somatostatina je visoka izraženost receptorjev v plazemski membrani tumorskih celic. Čezmerna izraženost ter gostota somatostatinskih receptorjev je dokazana pri večini NET, med katere spadajo GEP NET, feokromocitom, paragangliom, nevroblastom in meningeom. Pri inzulinomu, limfomih, raku na dojki, hepatocelularnem karcinomu, medularnem raku ščitnice in drobnoceličnem raku pljuč pa je incidenca ter gostota receptorjev nižja (<xref ref-type="bibr" rid="b10">10</xref>). Somatostatin je pri fizioloških pogojih prisoten v dveh oblikah: kot 14- oz. 28-aminokislinska molekula (SS14 in SS28). Radiooznačeni endogeni peptidi za klinično uporabo niso primerni, saj je njihova stabilnost <italic>in vivo</italic>
+            <italic> </italic>neustrezna. Plazemski razpolovni čas somatostatina-14 je le 2–3 min. Za uspešno uporabo v klinični praksi morajo imeti radiooznačeni peptidi plazemski razpolovni čas 1 uro ali več, kar omogoča izvedbo celotnega nuklearno-medicinskega posega (<xref ref-type="bibr" rid="b11">11</xref>,<xref ref-type="bibr" rid="b12">12</xref>). V ta namen se uporabljajo krajši sintetični oktapeptidi, kot so npr. oktreotid, lanreotid ter vapreotid (<xref ref-type="bibr" rid="b8">8</xref>).</p>
+         <p>Radiooznačeni analogi somatostatina, ki so podrobneje opisani v nadaljevanju, imajo optimalne lastnosti za klinično uporabo: vezavno afiniteto do receptorjev v nanomolarnem območju, hitro internalizacijo agonistov po vezavi na receptor, ustrezno farmakokinetiko, izločanje skozi ledvice ter visoko stabilnost kompleksa radionuklid – kelator, zaradi katere ne prihaja do sproščanja radionuklida <italic>in vivo</italic>.</p>
+         <p>Na <xref ref-type="fig" rid="fig5">sliki 5</xref> so predstavljeni klinično najpogosteje uporabljani analogi somatostatina. Večinoma uporabljamo oktapeptidne derivate, kot so oktreotid, [Tyr3]oktreotid (TOC), [1-NaI3]oktreotid (NOC) ter [Tyr3, Thr8]oktreotid (TATE). Za radiooznačevanje peptidne derivate konjugiramo z različnimi bifunkcionalnimi kelatorji. Prvi široko uporabljeni analog somatostatina je bil z DTPA konjugirani oktreotid, radiooznačen z indijem-111 (<sup>111</sup>In-DTPA-oktreotid; Octreoscan®). Na Kliniki za nuklearno medicino UKC Ljubljana uporabljamo s tehnecijem-99m (<sup>99m</sup>Tc) radiooznačen hidrazinonikotinamid-[Tyr3]oktreotid (<sup>99m</sup>Tc-HYNICTOC), ki ima v primerjavi z registriranim <sup>111</sup>In-DTPA-oktreotidom več prednosti: izboljšane farmakokinetične lastnosti, višjo afiniteto do receptorja sst2, manjšo sevalno obremenitev za preiskovanca ter nižjo ceno (<xref ref-type="bibr" rid="b13">13</xref>). Za radiooznačevanje s kovinskimi (3+) radionuklidi namesto DTPA uporabljamo makrociklični kelator DOTA, ki s kovinskimi 3+ radionuklidi tvori termodinamsko stabilne komplekse. To omogoča t. i. personalizirano obravnavo bolnikov z uporabo teranostičnih parov, ko isti dostavni sistem uporabimo za radiooznačevanje z različnimi radionuklidi. Tako dobljeni radiofarmaki so uporabni za diagnosticiranje, dozimetrijo in terapijo. Za slikovno diagnostiko lahko z DOTA konjugirani [Tyr3]oktreotid (DOTATOC) radiooznačimo z <sup>111</sup>In (SPECT) ali galijem-68 (PET), kar omogoča umestitev tumorja in/ali metastaz ter oceno prejetega odmerka radioaktivnega sevanja v tumorju in netarčnih tkivih (t. i. dozimetrija). DOTATOC lahko radiooznačimo tudi s terapevtskimi radionuklidi, kot so itrij-90 ter lutecij-177 (sevalca delcev β-) ter bizmut-213 (sevalec delcev α), ki se razlikujejo po dosegu citotoksičnega učinka v tkivu, kar omogoča izbor radionuklida glede na velikost tumorja. Primer odziva bolnika po ciljani radionuklidni terapiji NET je prikazan na <xref ref-type="fig" rid="fig6">Sliki 6</xref>.</p>
+         <fig position="anchor" id="fig5">
+            <label>Slika 5:</label>
+            <caption>
+               <p> Strukturna formula oktreotida. Menjava aminokislin na mestu 3 in 8 vodi v zvišano afiniteto do različnih podtipov receptorjev za somatostatin. Na levi strani so strukture bifunkcionalnih kelatorjev (R), ki omogočajo radiooznačevanje z navedenimi diagnostičnimi in terapevtskimi radionuklidi: a) aciklični DTPA (dietilentriamin pentaocetna kislina), b) makrociklični DOTA (1,4,7,10-tetraazaciklododekan-1,4,7,10-tetraocetna kislina) ter c) HYNIC (hidrazinonikotinska kislina).</p>
+            </caption>
+            <p>
+               <graphic xlink:href="2634-web-resources/image/2634-5.jpg"/>
+            </p>
+            <p>Povzeto po (<xref ref-type="bibr" rid="b12">12</xref>).</p>
+         </fig>
+      </sec>
+      <sec id="s3" sec-type="Radiooznačeni analogi minigastrina">
+         <label>3</label>
+         <title>Radiooznačeni analogi minigastrina</title>
+         <p>Gastrin je linearni peptidni hormon, ki se sintetizira v endokrinih celicah G, ki se nahajajo v antrumu želodca, in se izloča iz njih. Gastrin se izloča pod vplivom dražljajev iz hrane (peptidov in aminokislin), raztegnitve stene želodca ter tudi pod vplivom avtonomnega živčevja. V telesu ga najpogosteje najdemo v treh oblikah: gastrin-34, gastrin-17 ter gastrin-14 (poimenovan tudi minigastrin). Glavne funkcije gastrina v telesu so stimulacija peristaltike v želodcu, tankem in debelem črevesu, stimulacija sekrecije HCl, praznjenje želodca, izločanja inzulina ter stimulacija izločanja HCO<sub>3- </sub>in encimov pankreasa.</p>
+         <fig position="anchor" id="fig6">
+            <label>Slika 6:</label>
+            <caption>
+               <p> Odziv bolnika z metastatskim NET na zdravljenje s ciljano radionuklidno terapijo (7400 MBq <sup>177</sup>Lu-DOTATATE). <italic>Zgoraj</italic>: Scintigrafija somatostatinskih receptorjev z <sup>99m</sup>Tc-HYNIC-TOC pred zdravljenjem (1a-c SPECT posnetki iz različni projekcij: 1a transverzalni, 1b sagitalni in 1c koronalni posnetek; 1d-e zlita SPECT/CT slika). Dobro vidna metastaza v jetrih (<italic>rdeča puščica</italic>). <italic>Spodaj</italic>: Kontrolni scintigram z <sup>99m</sup>Tc-HYNIC-TOC 6 mesecev po terapiji: zmanjšano kopičenje radiofarmaka (velikost in intenzivnost barve), kar kaže na delni odziv bolnika po terapiji (2a-c SPECT posnetki, 2d-e zlita SPECT/CT slika).</p>
+            </caption>
+            <p>
+               <graphic xlink:href="2634-web-resources/image/2634-6.jpg"/>
+            </p>
+            <p>Vir: Arhiv Klinike za nuklearno medicino, UKC Ljubljana.</p>
+         </fig>
+         <p>Holecistokinin (CCK) je peptidni hormon, ki se sintetizira in izloča iz endokrinih celic I, ki so v mukozi tankega črevesa. Najdemo ga tudi v centralnem živčnem sistemu in perifernem živčevju, ki oživčuje prebavila, kjer najverjetneje deluje kot nevrotransmiter (<xref ref-type="bibr" rid="b14">14</xref>,<xref ref-type="bibr" rid="b15">15</xref>). Odgovoren je za krčenje mehurja, izločanje encimov iz trebušne slinavke ter sproščanje Oddijevega sfinktra, kar pospeši izločanje žolča v črevesje. Strukturno sta si gastrin in holecistokinin zelo podobna, saj imata na biološko aktivnem C-terminalnem mestu pet enakih aminokislin (-Gly-Trp-Met-Asp-Phe-NH<sub>2</sub>). Zaradi teh strukturnih elementov izkazujeta podobne fiziološke ter farmakološke odzive po vezavi na družino membranskih receptorjev, povezanih s proteinom G (<xref ref-type="bibr" rid="b16">16</xref>). Holecistokinin se veže na receptor za holecistokinin 1 (CCK<sub>1</sub>R) ter na receptor za holecistokinin 2 (CCK<sub>2</sub>R), gastrin pa ima vezavno afiniteto le do CCK<sub>2</sub>R, ki ga zato imenujemo tudi gastrinski receptor. Odkritje, da sta CCK<sub>1</sub>R in CCK<sub>2</sub>R čezmerno izražena pri določenih tipih tumorskih celic, je osnova za razvoj radiooznačenih analogov holecistokinina in gastrina. Pri človeških tumorjih je pogosteje izražen CCK<sub>2</sub>R, in sicer pri medularnem raku ščitnice (92 %), astrocitomu (65 %) ter stromalnem raku jajčnikov (100 %). V manjšem odstotku so prisotnost CCK<sub>2</sub>R dokazali pri gastroenteropankreatičnem raku, raku na dojki ter adenokarcinomu jajčnikov (<xref ref-type="bibr" rid="b17">17</xref>,<xref ref-type="bibr" rid="b18">18</xref>). Dve raziskavi sta pokazali tudi visoko incidenco CCK<sub>2</sub>R pri drobnoceličnem raku pljuč (89 % oz. 59 %). Nedrobnocelični raki pljuč teh receptorjev ne izražajo (<xref ref-type="bibr" rid="b17">17</xref>,<xref ref-type="bibr" rid="b19">19</xref>).</p>
+         <p>Medularni rak ščitnice (MTC) predstavlja okoli 3,5 % vseh rakov ščitnice in se uvršča med redke bolezni. MTC se ponavadi pojavi kot ščitnični gomolj ali povečan cervikalni limfni vozel. Je nevroendokrini tumor, ki izhaja iz parafolikularnih ščitničnih celic (celic C), ki sintetizirajo in izločajo kalcitonin ter karcinoembrionalni antigen (CEA). Ker celice C ne izražajo gena za natrij-jodidni simporter (NIS), metastaze MTC ne kopičijo radioaktivnega jodida, zato je obravnava in zdravljenje te bolezni bolj zahtevno od ostalih vrst ščitničnega raka (<xref ref-type="bibr" rid="b20">20</xref>). Pri MTC je 10-letno preživetje okoli 75 %, vendar se to drastično zniža pri napredovali oz. metastatski obliki (40 %). MTC ponavadi metastazira v pljuča, jetra, kosti in možgane. Pri večini bolnikov je bolezen ob odkritju že napredovala (<xref ref-type="bibr" rid="b21">21</xref>). Kljub agresivnemu kirurškemu zdravljenju se pri skoraj 50 % bolnikov bolezen ponovno pojavi. Pri prisotnosti metastaz je cilj zmanjšanje simptomov ter izboljšanje kakovosti življenja. Pri metastatskem MTC kemoterapija zaradi omejene učinkovitosti ter visoke toksičnosti ni priporočljiva. Pri uporabi novejših zaviralcev tirozin kinaz, kot sta Vandetanib in Cabozatinib, pa učinkovitost še ni potrjena, hkrati pa se v terapevtskih odmerkih pojavljajo neželeni učinki (<xref ref-type="bibr" rid="b22">22</xref>,<xref ref-type="bibr" rid="b23">23</xref>). Odkritje, da so receptorji CCK<sub>2</sub>R pri MTC čezmerno izraženi, je molekularna osnova za razvoj radioznačenih analogov minigastrina kot novih radiofarmakov pri diagnosticiranju metastatskega MTC. Še pomembnejša pa je možnost uporabe teh analogov v ciljani radionuklidni terapiji MTC, ki bi lahko postala učinkovita metoda zdravljenja metastatskega MTC.</p>
+         <p>Prvi opisani analog je bil z jodom-131 (<sup>131</sup>I) radiooznačen humani gastrin-I, ki je sintetični peptid iz 17 aminokislin s piroglutamatnim preostankom na N-terminalnem delu. Ima visoko vezavno afiniteto do CCK<sub>2</sub>R, ne pa tudi do CCK<sub>1</sub>R (<xref ref-type="bibr" rid="b24">24</xref>). V raziskavi, v kateri so primerjali 18 radiojodiranih CCK in gastrinskih analogov, so ugotovili, da je za vezavo na CCK<sub>2</sub>R pomembno zaporedje štirih aminokislin na C-terminalnem delu peptida (Trp-Met-Asp-Phe-NH<sub>2</sub>). Zaradi nestabilnosti radiojodiranih analogov, kjer se <sup>131</sup>I po internalizaciji ne zadrži v celicah, temveč se iz njih izloči, so preverjali tudi z dietilentriamin pentaocetno kislino (DTPA) konjugirane analoge, ki so jih radiooznačili z indijem-111 (<sup>111</sup>In). Za razliko od radiojodiranih aminokislin se aminokisline, konjugirane z bifunkcionalnimi kelatorji (DTPA, DOTA, ipd.) ter radiooznačeni z radioaktivnimi izotopi kovin, zadržijo v lizosomih, zato ne pride do izplavljanja radionuklida iz celice (t. i. “metabolic trapping”) (<xref ref-type="bibr" rid="b25">25</xref>). V primerjavi različnih analogov minigastrina (gastrin-14; Leu-(Glu)<sub>5</sub>-Ala-Tyr-Gly-Trp-Met-Asp-Phe-NH<sub>2</sub>) <italic>in vitro</italic>
+            <italic> </italic>so ugotovili, da z zamenjavo levcina z D-glutaminsko kislino pride do zvišanja metabolične stabilnosti, zato so ta analog uporabili tudi v kliničnih preizkušanjih. Kljub dobremu kopičenju v tumorju se je izkazalo, da je glavna težava tega analoga zelo visok privzem v ledvicah (<xref ref-type="bibr" rid="b26">26</xref>).</p>
+         <p>Nadaljnji razvoj analogov minigastrina je temeljil na izboljšavah v farmakokinetiki ter iskanju idealnega radiofarmaka za uporabo pri diagnosticiranju ter predvsem ciljani radionuklidni terapiji tumorjev z izraženimi CCK<sub>2</sub>R. Problema, s katerima so se raziskovalci soočili, sta nizek privzem radiooznačenih analogov v tumorsko celico ali visok privzem v ledvicah. Visok privzem radiooznačenih peptidov v ledvicah je odgovoren za nefrotoksičnost, ki je glavni neželeni učinek teh analogov pri ciljani radionuklidni terapiji.</p>
+         <p>V primerjalni študiji treh minigastrinskih analogov, označenih s <sup>99m</sup>Tc, so ugotovili, da lahko privzem radiooznačenega peptida v ledvice znižajo s sočasnim injiciranjem peptidov iz poliglutaminskih kislin (Glu). S študijo na mišjih modelih so ugotovili, da najboljše razmerje med tumorjem ter netarčnimi tkivi izkazuje analog, ki med kelatorjem ter C-terminalnim delom peptida vsebuje dodatno amino kislino glicin (<xref ref-type="bibr" rid="b27">27</xref>). Pri študiji z DOTA konjugiranimi minigastrinskimi analogi se je z odstranitvijo pentaglutamatnega zaporedja aminokislin iz minigastrina (MG11) privzem v tumor zmanjšal za 3-krat, hkrati pa se je zmanjšal tudi ponovni privzem v ledvicah kar za 20-krat. Izsledki teh študij so nakazali, da uvajanje ustreznega distančnika lahko statistično značilno vpliva na farmakokinetske lastnosti minigastrinskih analogov (<xref ref-type="fig" rid="fig7">Slika 7</xref>) (<xref ref-type="bibr" rid="b28">28</xref>).</p>
+         <fig position="anchor" id="fig7">
+            <label>Slika 7:</label>
+            <caption>
+               <p> 
+                  <italic>Zgoraj</italic>: Struktura minigastrina (gastrin-14, H-Leu-(Glu)<sub>5</sub>-Ala-Tyr-Gly-Trp-Met-Asp-Phe-NH<sub>2</sub>), ki je spojina vodnica pri razvoju radiooznačenih analogov minigastrina. <italic>Spodaj</italic>: Struktura minigastrinskega analoga PP11 (CP04). Uvedba 6 D- glutaminskih kislin (rdeče) kot distančnik je izjemno izboljšala farmakokinetične lastnosti ter metabolno stabilnost v primerjavi z doslej razvitimi analogi minigastrina.</p>
+            </caption>
+            <p>
+               <graphic xlink:href="2634-web-resources/image/2634-7.jpg"/>
+            </p>
+         </fig>
+         <p>Pri nadaljnji optimizaciji in razvoju metabolično stabilnih analogov minigastrina je pomemben delež prispevala tudi raziskovalna skupina Klinike za nuklearno medicino UKC Ljubljana. Velik korak naprej v razvoju metabolično stabilnih analogov minigastrina je bila uvedba nenaravnih hidrofilnih D-aminokislin v distančniku (<xref ref-type="fig" rid="fig7">Slika 7</xref>). Distančnik brez naboja iz 6 D-glutaminov se je izkazal kot optimalna rešitev, saj se je metabolična stabilnost povečala kar do 500-krat v primerjavi z drugimi analogi znotraj serije. Hkrati z zvišanjem stabilnosti se je pri nekaterih analogih znižal ponovni privzem v ledvicah, s čimer se je razmerje tumor <italic>proti</italic> netarčna tkiva povečalo tudi do 60-krat (<xref ref-type="bibr" rid="b29">29</xref>). Nekateri od opisanih analogov so bili testirani pod standardiziranimi pogoji v skupnem evropskem projektu COST (BM0607; Targeted Radionuclide Therapy). 12 minigastrinskih analogov CCK/ so okarakterizirali tako <italic>in vitro</italic>
+            <italic> </italic>kot <italic>in vivo. </italic>V primerjalni študiji so primerjali vezavno afiniteto do receptorjev, internalizacijske lastnosti, biološko stabilnost, metabolizem ter biodistribucijo radiooznačenih analogov. Najboljše lastnosti so izkazovale 3 spojine: nabit linearni peptid s 6 D-glutaminskimi kislinami v distančniku (PP11; DOTA-(D-Glu)<sub>6</sub>-Ala-Tyr-Gly-Trp-Met-Asp-Phe-NH<sub>2</sub>), divalentni analog (MGD5; DOTA-Gly-Ser-Cys-(Glu-Ala-Tyr-Gly-Trp-Nle-Asp-Phe-NH<sub>2</sub>)<sub>2</sub>) ter ciklični peptid (ciklo- MG1; DOTA-DGlu-(Ala-Tyr)-DLys-Trp-Met-Asp-Phe-NH<sub>2</sub> (ciklo DGlu-DLys)). Za uporabo v fazi I kliničnega preskušanja je bil izbran analog PP11 (oz. CP04), radiooznačen z <sup>111</sup>In in <sup>177</sup>Lu, saj je zaradi visoke metabolične stabilnost v tkivnih homogenatih in v humanem serumu izkazoval najboljše lastnosti tudi za uporabo v ciljani radionuklidni terapiji (<xref ref-type="bibr" rid="b30">30</xref>-<xref ref-type="bibr" rid="b32">32</xref>).</p>
+      </sec>
+      <sec id="s4" sec-type="Zaključek">
+         <label>4</label>
+         <title>Zaključek</title>
+         <p>Visoka specifičnost in afiniteta regulacijskih peptidov oz. njihovih analogov do tarčnih receptorjev na tumorskih celicah je predpogoj za njihovo uspešno uporabo v nuklearni medicini. Z radiooznačevanjem teh peptidov lahko do tumorskih celic dostavimo različne radionuklide (diagnostične in terapevtske), kar nuklearni medicini omogoča personalizirani pristop pri obravnavi bolnikov. Slikovna diagnostika omogoča odkrivanje in zamejitev bolezni, načrtovanje optimalnega načina zdravljenja ter ocenjevanje uspešnosti zdravljenja, ciljana radionuklidna terapija pa omogoča tudi uspešno zdravljenje. Dolgoletna uspešna uporaba radiooznačenih analogov somatostatina kaže na velik potencial teranostičnih parov tudi pri ostalih tumorjih s čezmerno izraženimi receptorji za regulacijske peptide. Radiooznačeni analogi minigastrina so se že izkazali kot uspešno diagnostično orodje pri metastatskem MTC, za varno in ustrezno zdravljenje pa je potrebno še dodatno klinično preskušanje.</p>
+      </sec>
+   </body>
+   <back>
+      <ref-list>
+         <ref id="b1">
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Fani</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <string-name>
+                     <surname>Maecke</surname> 
+                     <given-names>HR</given-names>
+                  </string-name>
+               </person-group>. <article-title>Radiopharmaceutical development of radiolabelled peptides</article-title>. <source>Eur J Nucl Med Mol Imaging</source>. <year>2012</year> 
+               <month>Feb</month>;<volume>39</volume>(<issue>1</issue> 
+               <supplement>Suppl 1</supplement>):<fpage>S11</fpage>–<lpage>30</lpage>. <pub-id pub-id-type="doi">10.1007/s00259-011-2001-z</pub-id>
+               <pub-id pub-id-type="pmid">22388624</pub-id>
+               <issn>1619-7070</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b2">
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Aloj</surname> 
+                     <given-names>L</given-names>
+                  </string-name>, <string-name>
+                     <surname>Panico</surname> 
+                     <given-names>MR</given-names>
+                  </string-name>, <string-name>
+                     <surname>Caracó</surname> 
+                     <given-names>C</given-names>
+                  </string-name>, <string-name>
+                     <surname>Zannetti</surname> 
+                     <given-names>A</given-names>
+                  </string-name>, <string-name>
+                     <surname>Del Vecchio</surname> 
+                     <given-names>S</given-names>
+                  </string-name>, <string-name>
+                     <surname>Di Nuzzo</surname> 
+                     <given-names>C</given-names>
+                  </string-name>, <etal>et al.</etal>
+               </person-group> 
+               <article-title>Radiolabeling approaches for cholecystokinin B receptor imaging</article-title>. <source>Biopolymers</source>. <year>2002</year>;<volume>66</volume>(<issue>6</issue>):<fpage>370</fpage>–<lpage>80</lpage>. <pub-id pub-id-type="doi">10.1002/bip.10347</pub-id>
+               <pub-id pub-id-type="pmid">12658724</pub-id>
+               <issn>0006-3525</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b3">
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Dash</surname> 
+                     <given-names>A</given-names>
+                  </string-name>, <string-name>
+                     <surname>Chakraborty</surname> 
+                     <given-names>S</given-names>
+                  </string-name>, <string-name>
+                     <surname>Pillai</surname> 
+                     <given-names>MR</given-names>
+                  </string-name>, <string-name>
+                     <surname>Knapp</surname> 
+                     <given-names>FF</given-names> 
+                     <suffix>Jr</suffix>
+                  </string-name>
+               </person-group>. <article-title>Peptide receptor radionuclide therapy: an overview</article-title>. <source>Cancer Biother Radiopharm</source>. <year>2015</year> 
+               <month>Mar</month>;<volume>30</volume>(<issue>2</issue>):<fpage>47</fpage>–<lpage>71</lpage>. <pub-id pub-id-type="doi">10.1089/cbr.2014.1741</pub-id>
+               <pub-id pub-id-type="pmid">25710506</pub-id>
+               <issn>1084-9785</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b4">
+            <mixed-citation publication-type="book-chapter" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Cremonesi</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <string-name>
+                     <surname>Schuchardt</surname> 
+                     <given-names>C</given-names>
+                  </string-name>
+               </person-group>. <chapter-title>Dosimetry for Peptide Receptor Radionuclide Therapy</chapter-title>. <source>Baum RP, ur. Therapeutic Nuclear Medicine</source>. <publisher-name>Springer</publisher-name>; <year>2014</year>. pp. <fpage>769</fpage>–<lpage>79</lpage>.</mixed-citation>
+         </ref>
+         <ref id="b5">
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Baum</surname> 
+                     <given-names>RP</given-names>
+                  </string-name>, <string-name>
+                     <surname>Kulkarni</surname> 
+                     <given-names>HR</given-names>
+                  </string-name>
+               </person-group>. <article-title>Theranostics: from molecular imaging using Ga-68 labeled tracers and PET/CT to personalized radionuclide therapy-the Bad Berka experience</article-title>. <source>Theranostics</source>. <year>2012</year>;<volume>2</volume>(<issue>5</issue>):<fpage>437</fpage>–<lpage>47</lpage>. <pub-id pub-id-type="doi">10.7150/thno.3645</pub-id>
+               <pub-id pub-id-type="pmid">22768024</pub-id>
+               <issn>1838-7640</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b6">
+            <mixed-citation publication-type="book-chapter" specific-use="unparsed">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Ležaić</surname> 
+                     <given-names>L</given-names>
+                  </string-name>, <string-name>
+                     <surname>Fettich</surname> 
+                     <given-names>J</given-names>
+                  </string-name>
+               </person-group>. Zlivanje nuklearnomedicinskih in radioloških preiskav: PET/CT in SPECT/CT. In: Fras Z, Poredoš P, ur. Zbornik prispevkov: 53 Tavčarjevi dnevi; 3.-5. november 2011; Portorož, Slovenija. V Ljubljani : Medicinska fakulteta; <year>2011</year>. p. 329–37.</mixed-citation>
+         </ref>
+         <ref id="b7">
+            <mixed-citation publication-type="book-chapter" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Lodge</surname> 
+                     <given-names>MA</given-names>
+                  </string-name>, <string-name>
+                     <surname>Frey</surname> 
+                     <given-names>EC</given-names>
+                  </string-name>
+               </person-group>. <chapter-title>Nuclear Medicine Imaging Devices</chapter-title>. In: <person-group person-group-type="editor">
+                  <string-name>
+                     <surname>Bailey</surname> 
+                     <given-names>DL</given-names>
+                  </string-name>, <string-name>
+                     <surname>Humm</surname> 
+                     <given-names>JL</given-names>
+                  </string-name>, <role>editors</role>
+               </person-group>. <source>Todd-Pokropek A, Aswegen Av, ur. Nuclear Medicine Physics: A Handbook for Teachers and Students. Dunaj</source>. <publisher-name>IAEA</publisher-name>; <year>2014</year>. pp. <fpage>312</fpage>–<lpage>97</lpage>.</mixed-citation>
+         </ref>
+         <ref id="b8">
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Appetecchia</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <string-name>
+                     <surname>Baldelli</surname> 
+                     <given-names>R</given-names>
+                  </string-name>
+               </person-group>. <article-title>Somatostatin analogues in the treatment of gastroenteropancreatic neuroendocrine tumours, current aspects and new perspectives</article-title>. <source>J Exp Clin Cancer Res</source>. <year>2010</year> 
+               <month>Mar</month>;<volume>29</volume>(<issue>1</issue>):<fpage>19</fpage>. <pub-id pub-id-type="doi">10.1186/1756-9966-29-19</pub-id>
+               <pub-id pub-id-type="pmid">20196864</pub-id>
+               <issn>0392-9078</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b9">
+            <mixed-citation publication-type="unknown" specific-use="unparsed">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Moltara</surname> 
+                     <given-names>ME</given-names>
+                  </string-name>, <string-name>
+                     <surname>Ocvirk</surname> 
+                     <given-names>J</given-names>
+                  </string-name>
+               </person-group>. <article-title>Nevroendokrini tumorji prebavil.</article-title> ONKOLOGIJA/pregledi. <year>2011</year>(2):88–92.</mixed-citation>
+         </ref>
+         <ref id="b10">
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Reubi</surname> 
+                     <given-names>JC</given-names>
+                  </string-name>
+               </person-group>. <article-title>Peptide receptors as molecular targets for cancer diagnosis and therapy</article-title>. <source>Endocr Rev</source>. <year>2003</year> 
+               <month>Aug</month>;<volume>24</volume>(<issue>4</issue>):<fpage>389</fpage>–<lpage>427</lpage>. <pub-id pub-id-type="doi">10.1210/er.2002-0007</pub-id>
+               <pub-id pub-id-type="pmid">12920149</pub-id>
+               <issn>0163-769X</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b11">
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Schottelius</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <string-name>
+                     <surname>Wester</surname> 
+                     <given-names>HJ</given-names>
+                  </string-name>
+               </person-group>. <article-title>Molecular imaging targeting peptide receptors</article-title>. <source>Methods</source>. <year>2009</year> 
+               <month>Jun</month>;<volume>48</volume>(<issue>2</issue>):<fpage>161</fpage>–<lpage>77</lpage>. <pub-id pub-id-type="doi">10.1016/j.ymeth.2009.03.012</pub-id>
+               <pub-id pub-id-type="pmid">19324088</pub-id>
+               <issn>1046-2023</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b12">
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Maecke</surname> 
+                     <given-names>HR</given-names>
+                  </string-name>, <string-name>
+                     <surname>Reubi</surname> 
+                     <given-names>JC</given-names>
+                  </string-name>
+               </person-group>. <article-title>Somatostatin receptors as targets for nuclear medicine imaging and radionuclide treatment</article-title>. <source>J Nucl Med</source>. <year>2011</year> 
+               <month>Jun</month>;<volume>52</volume>(<issue>6</issue>):<fpage>841</fpage>–<lpage>4</lpage>. <pub-id pub-id-type="doi">10.2967/jnumed.110.084236</pub-id>
+               <pub-id pub-id-type="pmid">21571797</pub-id>
+               <issn>0161-5505</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b13">
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Gabriel</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <string-name>
+                     <surname>Decristoforo</surname> 
+                     <given-names>C</given-names>
+                  </string-name>, <string-name>
+                     <surname>Donnemiller</surname> 
+                     <given-names>E</given-names>
+                  </string-name>, <string-name>
+                     <surname>Ulmer</surname> 
+                     <given-names>H</given-names>
+                  </string-name>, <string-name>
+                     <surname>Watfah Rychlinski</surname> 
+                     <given-names>C</given-names>
+                  </string-name>, <string-name>
+                     <surname>Mather</surname> 
+                     <given-names>SJ</given-names>
+                  </string-name>, <etal>et al.</etal>
+               </person-group> 
+               <article-title>An intrapatient comparison of 99mTc-EDDA/HYNIC-TOC with 111In-DTPA-octreotide for diagnosis of somatostatin receptor-expressing tumors</article-title>. <source>J Nucl Med</source>. <year>2003</year> 
+               <month>May</month>;<volume>44</volume>(<issue>5</issue>):<fpage>708</fpage>–<lpage>16</lpage>.<pub-id pub-id-type="pmid">12732671</pub-id>
+               <issn>0161-5505</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b14">
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Owyang</surname> 
+                     <given-names>C</given-names>
+                  </string-name>, <string-name>
+                     <surname>Logsdon</surname> 
+                     <given-names>CD</given-names>
+                  </string-name>
+               </person-group>. <article-title>New insights into neurohormonal regulation of pancreatic secretion</article-title>. <source>Gastroenterology</source>. <year>2004</year> 
+               <month>Sep</month>;<volume>127</volume>(<issue>3</issue>):<fpage>957</fpage>–<lpage>69</lpage>. <pub-id pub-id-type="doi">10.1053/j.gastro.2004.05.002</pub-id>
+               <pub-id pub-id-type="pmid">15362050</pub-id>
+               <issn>0016-5085</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b15">
+            <mixed-citation publication-type="unknown" specific-use="linked">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Mutt</surname> 
+                     <given-names>V.</given-names>
+                  </string-name>
+               </person-group> 
+               <article-title>Secretin and cholecystokinin.</article-title> Gastrointestinal hormones. <year>1988</year>:251–320. <pub-id pub-id-type="doi">10.1016/B978-0-12-027311-9.50012-3</pub-id>
+            </mixed-citation>
+         </ref>
+         <ref id="b16">
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Dufresne</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <string-name>
+                     <surname>Seva</surname> 
+                     <given-names>C</given-names>
+                  </string-name>, <string-name>
+                     <surname>Fourmy</surname> 
+                     <given-names>D</given-names>
+                  </string-name>
+               </person-group>. <article-title>Cholecystokinin and gastrin receptors</article-title>. <source>Physiol Rev</source>. <year>2006</year> 
+               <month>Jul</month>;<volume>86</volume>(<issue>3</issue>):<fpage>805</fpage>–<lpage>47</lpage>. <pub-id pub-id-type="doi">10.1152/physrev.00014.2005</pub-id>
+               <pub-id pub-id-type="pmid">16816139</pub-id>
+               <issn>0031-9333</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b17">
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Reubi</surname> 
+                     <given-names>JC</given-names>
+                  </string-name>, <string-name>
+                     <surname>Schaer</surname> 
+                     <given-names>JC</given-names>
+                  </string-name>, <string-name>
+                     <surname>Waser</surname> 
+                     <given-names>B</given-names>
+                  </string-name>
+               </person-group>. <article-title>Cholecystokinin(CCK)-A and CCK-B/gastrin receptors in human tumors</article-title>. <source>Cancer Res</source>. <year>1997</year> 
+               <month>Apr</month>;<volume>57</volume>(<issue>7</issue>):<fpage>1377</fpage>–<lpage>86</lpage>.<pub-id pub-id-type="pmid">9102227</pub-id>
+               <issn>0008-5472</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b18">
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Charron</surname> 
+                     <given-names>CL</given-names>
+                  </string-name>, <string-name>
+                     <surname>Hickey</surname> 
+                     <given-names>JL</given-names>
+                  </string-name>, <string-name>
+                     <surname>Nsiama</surname> 
+                     <given-names>TK</given-names>
+                  </string-name>, <string-name>
+                     <surname>Cruickshank</surname> 
+                     <given-names>DR</given-names>
+                  </string-name>, <string-name>
+                     <surname>Turnbull</surname> 
+                     <given-names>WL</given-names>
+                  </string-name>, <string-name>
+                     <surname>Luyt</surname> 
+                     <given-names>LG</given-names>
+                  </string-name>
+               </person-group>. <article-title>Molecular imaging probes derived from natural peptides</article-title>. <source>Nat Prod Rep</source>. <year>2016</year> 
+               <month>Jun</month>;<volume>33</volume>(<issue>6</issue>):<fpage>761</fpage>–<lpage>800</lpage>. <pub-id pub-id-type="doi">10.1039/C5NP00083A</pub-id>
+               <pub-id pub-id-type="pmid">26911790</pub-id>
+               <issn>0265-0568</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b19">
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Matsumori</surname> 
+                     <given-names>Y</given-names>
+                  </string-name>, <string-name>
+                     <surname>Katakami</surname> 
+                     <given-names>N</given-names>
+                  </string-name>, <string-name>
+                     <surname>Ito</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <string-name>
+                     <surname>Taniguchi</surname> 
+                     <given-names>T</given-names>
+                  </string-name>, <string-name>
+                     <surname>Iwata</surname> 
+                     <given-names>N</given-names>
+                  </string-name>, <string-name>
+                     <surname>Takaishi</surname> 
+                     <given-names>T</given-names>
+                  </string-name>, <etal>et al.</etal>
+               </person-group> 
+               <article-title>Cholecystokinin-B/gastrin receptor: a novel molecular probe for human small cell lung cancer</article-title>. <source>Cancer Res</source>. <year>1995</year> 
+               <month>Jan</month>;<volume>55</volume>(<issue>2</issue>):<fpage>276</fpage>–<lpage>9</lpage>.<pub-id pub-id-type="pmid">7812957</pub-id>
+               <issn>0008-5472</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b20">
+            <mixed-citation publication-type="book" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Salavati</surname> 
+                     <given-names>A</given-names>
+                  </string-name>, <string-name>
+                     <surname>Puranik</surname> 
+                     <given-names>A</given-names>
+                  </string-name>, <string-name>
+                     <surname>Kulkarni</surname> 
+                     <given-names>HR</given-names>
+                  </string-name>, <string-name>
+                     <surname>Budiawan</surname> 
+                     <given-names>H</given-names>
+                  </string-name>, <string-name>
+                     <surname>Baum</surname> 
+                     <given-names>RP</given-names>
+                  </string-name>
+               </person-group>. <source>Peptide Receptor Radionuclide Therapy (PRRT) of Medullary and Nonmedullary Thyroid Cancer Using Radiolabeled Somatostatin Analogues. Semin Nucl Med</source>. <publisher-name>Elsevier</publisher-name>; <year>2016</year>. pp. <fpage>215</fpage>–<lpage>24</lpage>.</mixed-citation>
+         </ref>
+         <ref id="b21">
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Saad</surname> 
+                     <given-names>MF</given-names>
+                  </string-name>, <string-name>
+                     <surname>Ordonez</surname> 
+                     <given-names>NG</given-names>
+                  </string-name>, <string-name>
+                     <surname>Rashid</surname> 
+                     <given-names>RK</given-names>
+                  </string-name>, <string-name>
+                     <surname>Guido</surname> 
+                     <given-names>JJ</given-names>
+                  </string-name>, <string-name>
+                     <surname>Hill</surname> 
+                     <given-names>CS</given-names> 
+                     <suffix>Jr</suffix>
+                  </string-name>, <string-name>
+                     <surname>Hickey</surname> 
+                     <given-names>RC</given-names>
+                  </string-name>, <etal>et al.</etal>
+               </person-group> 
+               <article-title>Medullary carcinoma of the thyroid. A study of the clinical features and prognostic factors in 161 patients</article-title>. <source>Medicine (Baltimore)</source>. <year>1984</year> 
+               <month>Nov</month>;<volume>63</volume>(<issue>6</issue>):<fpage>319</fpage>–<lpage>42</lpage>. <pub-id pub-id-type="doi">10.1097/00005792-198411000-00001</pub-id>
+               <pub-id pub-id-type="pmid">6503683</pub-id>
+               <issn>0025-7974</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b22">
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Šabani</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <string-name>
+                     <surname>Jelovac</surname> 
+                     <given-names>DB</given-names>
+                  </string-name>, <string-name>
+                     <surname>Petrović</surname> 
+                     <given-names>MB</given-names>
+                  </string-name>, <string-name>
+                     <surname>Gavrić</surname> 
+                     <given-names>M</given-names>
+                  </string-name>
+               </person-group>. <article-title>Management of Advanced Medullary Thyroid Carcinoma</article-title>. <source>Journal of Tumor.</source> 
+               <year>2014</year>;<volume>2</volume>(<issue>8</issue>):<fpage>202</fpage>–<lpage>7</lpage>.</mixed-citation>
+         </ref>
+         <ref id="b23">
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Wells</surname> 
+                     <given-names>SA</given-names> 
+                     <suffix>Jr</suffix>
+                  </string-name>, <string-name>
+                     <surname>Robinson</surname> 
+                     <given-names>BG</given-names>
+                  </string-name>, <string-name>
+                     <surname>Gagel</surname> 
+                     <given-names>RF</given-names>
+                  </string-name>, <string-name>
+                     <surname>Dralle</surname> 
+                     <given-names>H</given-names>
+                  </string-name>, <string-name>
+                     <surname>Fagin</surname> 
+                     <given-names>JA</given-names>
+                  </string-name>, <string-name>
+                     <surname>Santoro</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <etal>et al.</etal>
+               </person-group> 
+               <article-title>Vandetanib in patients with locally advanced or metastatic medullary thyroid cancer: a randomized, double-blind phase III trial</article-title>. <source>J Clin Oncol</source>. <year>2012</year> 
+               <month>Jan</month>;<volume>30</volume>(<issue>2</issue>):<fpage>134</fpage>–<lpage>41</lpage>. <pub-id pub-id-type="doi">10.1200/JCO.2011.35.5040</pub-id>
+               <pub-id pub-id-type="pmid">22025146</pub-id>
+               <issn>0732-183X</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b24">
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Behr</surname> 
+                     <given-names>TM</given-names>
+                  </string-name>, <string-name>
+                     <surname>Jenner</surname> 
+                     <given-names>N</given-names>
+                  </string-name>, <string-name>
+                     <surname>Radetzky</surname> 
+                     <given-names>S</given-names>
+                  </string-name>, <string-name>
+                     <surname>Béhe</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <string-name>
+                     <surname>Gratz</surname> 
+                     <given-names>S</given-names>
+                  </string-name>, <string-name>
+                     <surname>Yücekent</surname> 
+                     <given-names>S</given-names>
+                  </string-name>, <etal>et al.</etal>
+               </person-group> 
+               <article-title>Targeting of cholecystokinin-B/gastrin receptors in vivo: preclinical and initial clinical evaluation of the diagnostic and therapeutic potential of radiolabelled gastrin</article-title>. <source>Eur J Nucl Med</source>. <year>1998</year> 
+               <month>Apr</month>;<volume>25</volume>(<issue>4</issue>):<fpage>424</fpage>–<lpage>30</lpage>. <pub-id pub-id-type="doi">10.1007/s002590050241</pub-id>
+               <pub-id pub-id-type="pmid">9553173</pub-id>
+               <issn>0340-6997</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b25">
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Gotthardt</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <string-name>
+                     <surname>Boermann</surname> 
+                     <given-names>OC</given-names>
+                  </string-name>, <string-name>
+                     <surname>Behr</surname> 
+                     <given-names>TM</given-names>
+                  </string-name>, <string-name>
+                     <surname>Béhé</surname> 
+                     <given-names>MP</given-names>
+                  </string-name>, <string-name>
+                     <surname>Oyen</surname> 
+                     <given-names>WJ</given-names>
+                  </string-name>
+               </person-group>. <article-title>Development and clinical application of peptide-based radiopharmaceuticals</article-title>. <source>Curr Pharm Des</source>. <year>2004</year>;<volume>10</volume>(<issue>24</issue>):<fpage>2951</fpage>–<lpage>63</lpage>. <pub-id pub-id-type="doi">10.2174/1381612043383502</pub-id>
+               <pub-id pub-id-type="pmid">15379661</pub-id>
+               <issn>1381-6128</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b26">
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Béhé</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <string-name>
+                     <surname>Becker</surname> 
+                     <given-names>W</given-names>
+                  </string-name>, <string-name>
+                     <surname>Gotthardt</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <string-name>
+                     <surname>Angerstein</surname> 
+                     <given-names>C</given-names>
+                  </string-name>, <string-name>
+                     <surname>Behr</surname> 
+                     <given-names>TM</given-names>
+                  </string-name>
+               </person-group>. <article-title>Improved kinetic stability of DTPA- dGlu as compared with conventional monofunctional DTPA in chelating indium and yttrium: preclinical and initial clinical evaluation of radiometal labelled minigastrin derivatives</article-title>. <source>Eur J Nucl Med Mol Imaging</source>. <year>2003</year> 
+               <month>Aug</month>;<volume>30</volume>(<issue>8</issue>):<fpage>1140</fpage>–<lpage>6</lpage>. <pub-id pub-id-type="doi">10.1007/s00259-003-1178-1</pub-id>
+               <pub-id pub-id-type="pmid">12768330</pub-id>
+               <issn>1619-7070</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b27">
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Nock</surname> 
+                     <given-names>BA</given-names>
+                  </string-name>, <string-name>
+                     <surname>Maina</surname> 
+                     <given-names>T</given-names>
+                  </string-name>, <string-name>
+                     <surname>Béhé</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <string-name>
+                     <surname>Nikolopoulou</surname> 
+                     <given-names>A</given-names>
+                  </string-name>, <string-name>
+                     <surname>Gotthardt</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <string-name>
+                     <surname>Schmitt</surname> 
+                     <given-names>JS</given-names>
+                  </string-name>, <etal>et al.</etal>
+               </person-group> 
+               <article-title>CCK-2/gastrin receptor-targeted tumor imaging with (99m)Tc-labeled minigastrin analogs</article-title>. <source>J Nucl Med</source>. <year>2005</year> 
+               <month>Oct</month>;<volume>46</volume>(<issue>10</issue>):<fpage>1727</fpage>–<lpage>36</lpage>.<pub-id pub-id-type="pmid">16204724</pub-id>
+               <issn>0161-5505</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b28">
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>von Guggenberg</surname> 
+                     <given-names>E</given-names>
+                  </string-name>, <string-name>
+                     <surname>Sallegger</surname> 
+                     <given-names>W</given-names>
+                  </string-name>, <string-name>
+                     <surname>Helbok</surname> 
+                     <given-names>A</given-names>
+                  </string-name>, <string-name>
+                     <surname>Ocak</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <string-name>
+                     <surname>King</surname> 
+                     <given-names>R</given-names>
+                  </string-name>, <string-name>
+                     <surname>Mather</surname> 
+                     <given-names>SJ</given-names>
+                  </string-name>, <etal>et al.</etal>
+               </person-group> 
+               <article-title>Cyclic minigastrin analogues for gastrin receptor scintigraphy with technetium-99m: preclinical evaluation</article-title>. <source>J Med Chem</source>. <year>2009</year> 
+               <month>Aug</month>;<volume>52</volume>(<issue>15</issue>):<fpage>4786</fpage>–<lpage>93</lpage>. <pub-id pub-id-type="doi">10.1021/jm900400w</pub-id>
+               <pub-id pub-id-type="pmid">19591486</pub-id>
+               <issn>0022-2623</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b29">
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Kolenc-Peitl</surname> 
+                     <given-names>P</given-names>
+                  </string-name>, <string-name>
+                     <surname>Mansi</surname> 
+                     <given-names>R</given-names>
+                  </string-name>, <string-name>
+                     <surname>Tamma</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <string-name>
+                     <surname>Gmeiner-Stopar</surname> 
+                     <given-names>T</given-names>
+                  </string-name>, <string-name>
+                     <surname>Sollner-Dolenc</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <string-name>
+                     <surname>Waser</surname> 
+                     <given-names>B</given-names>
+                  </string-name>, <etal>et al.</etal>
+               </person-group> 
+               <article-title>Highly improved metabolic stability and pharmacokinetics of indium-111-DOTA-gastrin conjugates for targeting of the gastrin receptor</article-title>. <source>J Med Chem</source>. <year>2011</year> 
+               <month>Apr</month>;<volume>54</volume>(<issue>8</issue>):<fpage>2602</fpage>–<lpage>9</lpage>. <pub-id pub-id-type="doi">10.1021/jm101279a</pub-id>
+               <pub-id pub-id-type="pmid">21456601</pub-id>
+               <issn>0022-2623</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b30">
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Aloj</surname> 
+                     <given-names>L</given-names>
+                  </string-name>, <string-name>
+                     <surname>Aurilio</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <string-name>
+                     <surname>Rinaldi</surname> 
+                     <given-names>V</given-names>
+                  </string-name>, <string-name>
+                     <surname>D’Ambrosio</surname> 
+                     <given-names>L</given-names>
+                  </string-name>, <string-name>
+                     <surname>Tesauro</surname> 
+                     <given-names>D</given-names>
+                  </string-name>, <string-name>
+                     <surname>Peitl</surname> 
+                     <given-names>PK</given-names>
+                  </string-name>, <etal>et al.</etal>
+               </person-group> 
+               <article-title>Comparison of the binding and internalization properties of 12 DOTA-coupled and (1)(1)(1)In-labelled CCK2/gastrin receptor binding peptides: a collaborative project under COST Action BM0607</article-title>. <source>Eur J Nucl Med Mol Imaging</source>. <year>2011</year>;<volume>38</volume>(<issue>8</issue>):<fpage>1417</fpage>–<lpage>25</lpage>. <pub-id pub-id-type="doi">10.1007/s00259-011-1816-y</pub-id>
+               <pub-id pub-id-type="pmid">21523391</pub-id>
+               <issn>1619-7070</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b31">
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Laverman</surname> 
+                     <given-names>P</given-names>
+                  </string-name>, <string-name>
+                     <surname>Joosten</surname> 
+                     <given-names>L</given-names>
+                  </string-name>, <string-name>
+                     <surname>Eek</surname> 
+                     <given-names>A</given-names>
+                  </string-name>, <string-name>
+                     <surname>Roosenburg</surname> 
+                     <given-names>S</given-names>
+                  </string-name>, <string-name>
+                     <surname>Peitl</surname> 
+                     <given-names>PK</given-names>
+                  </string-name>, <string-name>
+                     <surname>Maina</surname> 
+                     <given-names>T</given-names>
+                  </string-name>, <etal>et al.</etal>
+               </person-group> 
+               <article-title>Comparative biodistribution of 12 (1)(1)(1)In-labelled gastrin/CCK2 receptor-targeting peptides</article-title>. <source>Eur J Nucl Med Mol Imaging</source>. <year>2011</year>;<volume>38</volume>(<issue>8</issue>):<fpage>1410</fpage>–<lpage>6</lpage>. <pub-id pub-id-type="doi">10.1007/s00259-011-1806-0</pub-id>
+               <pub-id pub-id-type="pmid">21461732</pub-id>
+               <issn>1619-7070</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b32">
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Ocak</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <string-name>
+                     <surname>Helbok</surname> 
+                     <given-names>A</given-names>
+                  </string-name>, <string-name>
+                     <surname>Rangger</surname> 
+                     <given-names>C</given-names>
+                  </string-name>, <string-name>
+                     <surname>Peitl</surname> 
+                     <given-names>PK</given-names>
+                  </string-name>, <string-name>
+                     <surname>Nock</surname> 
+                     <given-names>BA</given-names>
+                  </string-name>, <string-name>
+                     <surname>Morelli</surname> 
+                     <given-names>G</given-names>
+                  </string-name>, <etal>et al.</etal>
+               </person-group> 
+               <article-title>Comparison of biological stability and metabolism of CCK2 receptor targeting peptides, a collaborative project under COST BM0607</article-title>. <source>Eur J Nucl Med Mol Imaging</source>. <year>2011</year> 
+               <month>Aug</month>;<volume>38</volume>(<issue>8</issue>):<fpage>1426</fpage>–<lpage>35</lpage>. <pub-id pub-id-type="doi">10.1007/s00259-011-1818-9</pub-id>
+               <pub-id pub-id-type="pmid">21528387</pub-id>
+               <issn>1619-7070</issn>
+            </mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

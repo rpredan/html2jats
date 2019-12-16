@@ -1,0 +1,2363 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD with MathML3 v1.1 20151215//EN" "JATS-journalpublishing1-mathml3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink"
+         dtd-version="1.1"
+         xml:lang="sl"
+         article-type="other">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher-id">Zdrav Vestn</journal-id>
+         <journal-id journal-id-type="nlm-ta">Zdrav Vestn</journal-id>
+         <journal-id journal-id-type="doi">Zdrav Vestn</journal-id>
+         <journal-title-group>
+            <journal-title>Zdravniški vestnik</journal-title>
+            <trans-title-group xml:lang="en">
+               <trans-title>Slovenian Medical Journal</trans-title>
+            </trans-title-group>
+            <abbrev-journal-title>Zdrav Vestn</abbrev-journal-title>
+         </journal-title-group>
+         <issn publication-format="ppub" pub-type="ppub">1318-0347</issn>
+         <issn publication-format="epub" pub-type="epub">1581-0224</issn>
+         <issn-l>0350-0063</issn-l>
+         <publisher>
+            <publisher-name xml:lang="sl">Slovensko zdravniško društvo</publisher-name>
+            <publisher-name xml:lang="en">Slovenian Medical Association</publisher-name>
+            <publisher-loc xml:lang="sl">Ljubljana, Slovenia</publisher-loc>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.6016/ZdravVestn.2866</article-id>
+         <article-id pub-id-type="publisher-id">2866</article-id>
+         <article-categories>
+            <subj-group subj-group-type="discipline" xml:lang="en">
+               <subject>Medicine and health sciences</subject>
+               <subj-group>
+                  <subject>Microbiology and immunology</subject>
+               </subj-group>
+            </subj-group>
+            <subj-group subj-group-type="discipline" xml:lang="sl">
+               <subject>Medicina/Zdravstvo</subject>
+               <subj-group>
+                  <subject>Mikrobiologija in imunologija</subject>
+               </subj-group>
+            </subj-group>
+            <subj-group subj-group-type="article-type" xml:lang="en">
+               <subject>Professional article</subject>
+            </subj-group>
+            <subj-group subj-group-type="article-type" xml:lang="sl">
+               <subject>Strokovni članek</subject>
+            </subj-group>
+            <subj-group subj-group-type="heading" xml:lang="sl">
+               <subject>Mikrobiologija in imunologija</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title xml:lang="sl">Sodobni pristop k intenzivnemu zdravljenju bolnikov s hudim akutnim pankreatitisom</article-title>
+            <trans-title-group>
+               <trans-title xml:lang="en">A modern approach to the intensive treatment of patients with severe acute pancreatitis</trans-title>
+            </trans-title-group>
+            <alt-title alt-title-type="running-head" xml:lang="sl">Sodobni pristop k intenzivnem zdravljenju bolnikov s hudim akutnim pankreatitisom</alt-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Mirkovič</surname>
+                  <given-names>Tomislav</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1">1</xref>
+               <xref ref-type="corresp" rid="corr"/>
+            </contrib>
+         </contrib-group>
+         <aff-alternatives id="aff1">
+            <aff xml:lang="sl">
+               <label>1</label>
+               <institution>Klinični oddelek za anesteziologijo in intenzivno terapijo operativnih strok, Kirurška klinika, Univerzitetni klinični center Ljubljana, Ljubljana, Slovenija</institution>
+            </aff>
+            <aff xml:lang="en">
+               <label>1</label>
+               <institution>Department of Anaesthetics and Surgical Intensive Care, Division of Surgery, University Medical Centre Ljubljana, Ljubljana, Slovenia</institution>
+            </aff>
+         </aff-alternatives>
+         <author-notes>
+            <fn fn-type="conflict" xml:lang="en">
+               <p>The authors have declared that no competing interests exist.</p>
+            </fn>
+            <fn fn-type="conflict" xml:lang="sl">
+               <p>Avtorji so izjavili, da ne obstajajo nobeni konkurenčni interesi.</p>
+            </fn>
+            <corresp id="corr">Tomislav Mirkovič, e-mail: <email xlink:type="simple"/>
+            </corresp>
+         </author-notes>
+         <pub-date pub-type="ppub">
+            <month>8</month>
+            <year>2019</year>
+         </pub-date>
+         <pub-date pub-type="epub">
+            <month>8</month>
+            <year>2019</year>
+         </pub-date>
+         <volume>88</volume>
+         <issue>7–8</issue>
+         <fpage>387</fpage>
+         <lpage>405</lpage>
+         <history>
+            <date date-type="received">
+               <day>25</day>
+               <month>1</month>
+               <year>2019</year>
+            </date>
+            <date date-type="accepted">
+               <day>16</day>
+               <month>10</month>
+               <year>2018</year>
+            </date>
+         </history>
+         <permissions>
+            <copyright-statement xml:lang="en">Copyright © 2019, Slovenian Medical Association (SZD)</copyright-statement>
+            <copyright-statement xml:lang="sl">© 2019, Slovensko zdravniško društvo (SZD)</copyright-statement>
+            <copyright-year>2019</copyright-year>
+            <copyright-holder xml:lang="en">Slovenian Medical Association (SZD)</copyright-holder>
+            <copyright-holder xml:lang="sl">Slovensko zdravniško društvo (SZD)</copyright-holder>
+            <license xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                     xlink:type="simple"
+                     xml:lang="en">
+               <license-p>This is an open access article distributed under the terms of the
+          <ext-link ext-link-type="uri"
+                            xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                            xlink:type="simple">Creative Commons Attribution-NonCommercial
+            License</ext-link>, which permits unrestricted use, distribution, and
+          reproduction in any medium, provided the original author and source are
+          credited and only for non-commercial purposes. </license-p>
+            </license>
+            <license xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                     xlink:type="simple"
+                     xml:lang="sl">
+               <license-p>To je članek z odprtim dostopom, ki ga lahko uporabite pod pogoji iz
+          <ext-link ext-link-type="uri"
+                            xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                            xlink:type="simple">Creative Commons Priznanje avtorstva-Nekomercialno
+            licence</ext-link>. ki dovoljuje distribucijo, predelavo ali
+          prilagoditev, ter gradijo na njem, v nekomercialne namene, z navedbo avtorja
+          in izvirnega dela.</license-p>
+            </license>
+         </permissions>
+         <abstract xml:lang="sl">
+            <title>Izvleček</title>
+            <p>Hud akutni pankreatitis (HAP) je akutna vnetna bolezen trebušne slinavke, ki je še vedno povezana z visoko obolevnostjo in smrtnostjo. Glavna značilnost bolezni je hud sistemski vnetni odgovor organizma, ki velikokrat vodi v odpoved več organskih sistemov. Za oceno optimalnega načina zdravljenja je potreben individualni pristop, ki temelji na pozornem spremljanju kliničnih znakov, intenzivnem monitoriranju ter krvnih in slikovnih preiskavah. Infekcijski zapleti dodatno otežijo potek bolezni in pomembno vplivajo na večjo smrtnost pri bolnikih, ki so preživeli prvo vnetno fazo bolezni. Diagnosticiranje okužene nekroze trebušne slinavke je pogosto težavna naloga. Edina jasna indikacija za protimikrobno zdravljenje HAP je dokazana okužena nekroza trebušne slinavke. Če stanje bolnika omogoča, se ta hrani enteralno, v nasprotnem primeru pa parenteralno oziroma kombinirano. Sodobno kirurško zdravljenje HAP temelji na odloženih kirurških posegih, ki naj vključujejo različne minimalno invazivne tehnike. Intenzivno zdravljenje bolnikov s HAP obsega podporno zdravljenje ter preprečevanje zapletov.</p>
+         </abstract>
+         <trans-abstract xml:lang="en">
+            <title>Abstract</title>
+            <p>Severe acute pancreatitis (SAP) is an acute inflammatory disorder of the pancreas which is associated with significant morbidity and mortality. The main characteristic of the disease is severe systemic inflammation which can be complicated by multiorgan failure and infection of pancreatic necrosis. Repeated assessment of the severity of SAP, based on clinical signs, intensive care monitoring, blood tests and imaging tools should be performed to determine the optimal way of treatment for each patient. Infectious complications in SAP are considerable problem and have an impact on outcome in patients who survived the first inflammatory hit of the disease. The diagnosis of infected pancreatic necrosis is often challenging. At this moment, the only rational indication for antibiotic treatment is documented infection. If the patient’s condition allows, enteral nutrition should be implemented, otherwise pareneteral or combined nutrition is advised. Surgical treatment of SAP is nowadays delayed and includes minimally invasive techniques. The intensive care of SAP patients is oriented towards supportive treatment and prevention of complications.</p>
+         </trans-abstract>
+         <kwd-group xml:lang="sl">
+            <kwd>hud akutni pankreatitis</kwd>
+            <kwd>nekroza trebušne slinavke</kwd>
+            <kwd>okužba</kwd>
+            <kwd>vnetje</kwd>
+            <kwd>odpoved organov</kwd>
+            <kwd>ARDS</kwd>
+            <kwd>zaščitno predihavanje</kwd>
+            <kwd>znotrajtrebušna hipertenzija</kwd>
+            <kwd>parenteralna prehrana</kwd>
+            <kwd>enteralna prehrana</kwd>
+            <kwd>epiduralna analgezija</kwd>
+            <kwd>minimalno invazivni kirurški postopki</kwd>
+         </kwd-group>
+         <kwd-group xml:lang="en">
+            <kwd>severe acute pancreatitis</kwd>
+            <kwd>pancreatic necrosis</kwd>
+            <kwd>infection</kwd>
+            <kwd>inflammation</kwd>
+            <kwd>multiorgan failure</kwd>
+            <kwd>ARDS</kwd>
+            <kwd>protective ventilation</kwd>
+            <kwd>intraabdominal hypertension</kwd>
+            <kwd>parenteral nutrition</kwd>
+            <kwd>enteral nutrition</kwd>
+            <kwd>epidural analgesia</kwd>
+            <kwd>minimal invasive operative procedures</kwd>
+         </kwd-group>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>TotalReferences</meta-name>
+               <meta-value>75</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ReferencesParsed</meta-name>
+               <meta-value>72</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ReferencesBillable</meta-name>
+               <meta-value>71</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>LinkServices</meta-name>
+               <meta-value>pubmed-crossref</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ReferencesLinked</meta-name>
+               <meta-value>67</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ReferencesLinkedDOI</meta-name>
+               <meta-value>63</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ReferencesLinkedPMID</meta-name>
+               <meta-value>65</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>JournalReferences</meta-name>
+               <meta-value>69</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>BookReferences</meta-name>
+               <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>BookChapterReferences</meta-name>
+               <meta-value>4</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ConferenceReferences</meta-name>
+               <meta-value>1</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ElectronicReferences</meta-name>
+               <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>DissertationReferences</meta-name>
+               <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>LegalReferences</meta-name>
+               <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>StandardReferences</meta-name>
+               <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>OtherReferences</meta-name>
+               <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>UnknownReferences</meta-name>
+               <meta-value>1</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ReferencesSemiParsed</meta-name>
+               <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ReferencesBookUnparsed</meta-name>
+               <meta-value>1</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>EditorialStyle</meta-name>
+               <meta-value>ICMJE-WHO</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <body>
+      <sec id="s1" sec-type="Uvod">
+         <label>1</label>
+         <title>Uvod</title>
+         <p>Hud akutni pankreatitis (HAP) je nevarna akutna vnetna bolezen trebušne slinavke, ki je povezana z visoko obolevnostjo in smrtnostjo. Glede na podatke nekaterih raziskav, lahko smrtnost zaradi HAP presega 80 % (<xref ref-type="bibr" rid="b1">1</xref>). Na oddelku za intenzivno terapijo kirurških strok (CIT, UKC Ljubljana) se je v obdobju 2015–2018 zdravilo 35 bolnikov s HAP. Za zgodnjo fazo bolezni je značilen hud sistemski vnetni odgovor organizma (<italic>angl.</italic> systemic inflammatory response syndrome, SIRS), ki lahko prizadene različne organske sisteme (<italic>angl.</italic> multiorgan dysfunction syndrome, MODS) ter povzroči večorgansko odpoved (<italic>angl.</italic> multiorgan failure, MOF). V poznejših fazah se lahko bolezen zaplete z okužbo trebušne slinavke in t. i. obpankreasne nekrozo ter sepso. Pred desetletji je bilo temeljno zdravljenje HAP kirurško, vendar se je v zadnjih desetletjih pristop spremenil. Razlog za spremembe so številna poročila, ki kažejo na večjo stopnjo preživetja pri bolnikih, ki so bili zdravljeni z manj invazivnimi posegi ali pa so bili operirani kasneje (<xref ref-type="bibr" rid="b1">1</xref>,<xref ref-type="bibr" rid="b2">2</xref>,<xref ref-type="bibr" rid="b3">3</xref>).</p>
+      </sec>
+      <sec id="s2" sec-type="Definicija in razdelitev AP">
+         <label>2</label>
+         <title>Definicija in razdelitev AP</title>
+         <p>Ko govorimo o zdravljenju HAP, si je dobro prej orisati razdelitev pankreatitisov glede na resnost bolezni. Stopnjo oziroma resnost akutnega pankreatitisa (AP) lahko ocenimo na osnovi dveh razdelitev; to sta t. i. revidirana Atlantska razdelitev (<xref ref-type="table" rid="table1">Tabela 1</xref>) in na determinantah zasnovana razdelitev (<italic>angl.</italic> determinant based severity classification, DBSC) (<xref ref-type="table" rid="table2">Tabela 2</xref>) (<xref ref-type="bibr" rid="b1">1</xref>).</p>
+         <table-wrap position="anchor" id="table1">
+            <label>Tabela 1:</label>
+            <caption>
+               <p> Revidirana Atlantska razdelitev AP.</p>
+            </caption>
+            <table>
+               <colgroup>
+                  <col/>
+                  <col/>
+                  <col/>
+                  <col/>
+               </colgroup>
+               <thead>
+                  <tr>
+                     <th/>
+                     <th>Blag AP</th>
+                     <th>Zmeren AP</th>
+                     <th>Hud AP</th>
+                  </tr>
+               </thead>
+               <tbody>
+                  <tr>
+                     <td/>
+                     <td>obe merili</td>
+                     <td>eno ali drugo merilo</td>
+                     <td/>
+                  </tr>
+                  <tr>
+                     <td>Odpoved organskega sistema</td>
+                     <td>Odsoten</td>
+                     <td>
+                        <p>prehodno</p>
+                        <p>(&lt; 48 ur)</p>
+                     </td>
+                     <td>
+                        <p>trajno</p>
+                        <p>(&gt; 48 ur)</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td>Lokalni ali sistemski zapleti</td>
+                     <td>Odsotno</td>
+                     <td>prisotno</td>
+                     <td>(običajno prisotno – niso nujni za razdelitev)</td>
+                  </tr>
+               </tbody>
+            </table>
+         </table-wrap>
+         <table-wrap position="anchor" id="table2">
+            <label>Tabela 2:</label>
+            <caption>
+               <p> Na determinantah zasnovana razdelitev – DBSC.</p>
+            </caption>
+            <table>
+               <colgroup>
+                  <col/>
+                  <col/>
+                  <col/>
+                  <col/>
+                  <col/>
+               </colgroup>
+               <thead>
+                  <tr>
+                     <th>Determinanta</th>
+                     <th>Blag AP</th>
+                     <th>Zmeren AP</th>
+                     <th>Hud AP</th>
+                     <th>Kritični AP</th>
+                  </tr>
+               </thead>
+               <tbody>
+                  <tr>
+                     <td/>
+                     <td>obe merili</td>
+                     <td>eno ali drugo merilo</td>
+                     <td>katero koli merilo</td>
+                     <td>obe merili</td>
+                  </tr>
+                  <tr>
+                     <td>Lokalni</td>
+                     <td>ni nekroze</td>
+                     <td>sterilna nekroza</td>
+                     <td>okužena nekroza</td>
+                     <td>okužena nekroza</td>
+                  </tr>
+                  <tr>
+                     <td>Sistemski</td>
+                     <td>ni organske disfunkcije</td>
+                     <td>prehodna (&lt; 48 ur) organska disfunkcija</td>
+                     <td>trajna (&gt; 48 ur) organska disfunkcija</td>
+                     <td>trajna (&gt; 48 ur) organska disfunkcija</td>
+                  </tr>
+               </tbody>
+            </table>
+         </table-wrap>
+         <p>Teoretično ima slednja razdelitev boljšo napovedno vrednost glede pričakovane smrtnosti. Slaba stran DBSC pa je, da je potrebno oceniti morebitno prisotnost nekroze, kar je možno le z računalniškotomografskim (CT) slikanjem s kontrastom, kar pa v prvih dneh pogosto še ni potrebno. Morfološka delitev AP obsega tri temeljne oblike, med katerimi obstajajo tekoči prehodi: a) edemasti, b) nekrotizirajoči in c) hemoragični pankreatitis. Edemasti pankreatitis poteka praviloma klinično blago, medtem ko stopnje bolezni z nekrozami in krvavitvami potekajo s hudo klinično sliko in pogostimi zapleti (<xref ref-type="bibr" rid="b1">1</xref>).</p>
+      </sec>
+      <sec id="s3" sec-type="Etiologija">
+         <label>3</label>
+         <title>Etiologija</title>
+         <p>AP najpogosteje nastane zaradi vzrokov v žolčniku (biliarna etiologija) ali zaradi zlorabe alkohola (alkoholna etiologija). V manjšem odstotku je AP posledica zapore izvodil trebušne slinavke ali Vaterijeve papile, bolezni dvanajstnika, poškodb, okužb (aids), motenj prekrvitve, hiperparatiroidizma, hiperlipidemije, diabetične kome, nosečnosti, alergij in avtoimunskih bolezni, jemanja zdravil in strupov, dednih dejavnikov, reakcij na posege (npr. ERCP in ERP) (<xref ref-type="bibr" rid="b4">4</xref>).</p>
+      </sec>
+      <sec id="s4" sec-type="Patogeneza">
+         <label>4</label>
+         <title>Patogeneza</title>
+         <p>Patogeneza AP je pojasnjena le delno. Parenhimske acinusne celice trebušne slinavke imajo v normalnih pogojih v cimogenih zrncih dobro zavarovane neaktivne proteolitične encime (funkcijske beljakovine). V neaktivni obliki jih vzdržujejo številni varovalni mehanizmi, ki preprečujejo samodejno aktiviranje teh encimov (α-1-antitripsin). Ko ta obramba odpove, sprožilni dejavniki povzročijo aktiviranje majhnih količin tripsinogena v vodih in izvodilcih trebušne slinavke, čemur sledi burna verižna reakcija z aktiviranjem fosfolipaze A2, kolagenaze, elastaze, kimotripsina in kalikreina. Sledi okvara strukturnih lipoproteinov celičnih membran, nato pa samoprebava acinarnih celic, žilnih struktur in maščevja, ob čemer se dodatno sproščajo in aktivirajo velike količine proteaz in lipaz. Posledica je nekroza manjših ali večjih lobulov in lipoliza (steatonekroza). Vnetni proces pa se zlahka širi preko anatomske meje trebušne slinavke, ki nima lastne vezivne ovojnice (<xref ref-type="fig" rid="fig1">Slika 1</xref>) (<xref ref-type="bibr" rid="b5">5</xref>).</p>
+         <fig position="anchor" id="fig1">
+            <label>Slika 1:</label>
+            <caption>
+               <p> Vzročni dejavniki in patogeneza AP (prirejeno po Creutzfeldu in Lankischu).</p>
+            </caption>
+            <p>
+               <graphic xlink:href="2886-web-resources/image/zdravvestn-2886-sl-01.png"/>
+            </p>
+         </fig>
+         <p>V primeru zapore skupnega izvodila trebušne slinavke in biliarnih vodov se v patogenezo razvoja pankreatitisa vključijo še sestavine žolča, kot je prikazano na <xref ref-type="fig" rid="fig2">Sliki 2</xref> (<xref ref-type="bibr" rid="b5">5</xref>).</p>
+         <fig position="anchor" id="fig2">
+            <label>Slika 2:</label>
+            <caption>
+               <p> Delovanje žolča na trebušno slinavko (prirejeno po Creutzfeldu in Schmidtu).</p>
+            </caption>
+            <p>
+               <graphic xlink:href="2886-web-resources/image/zdravvestn-2886-sl-02.png"/>
+            </p>
+         </fig>
+         <p>Kot produkt proteolize nastajajo vazoaktivni amini, ki delujejo toksično na oddaljene organe (srce, pljuča, ledvice) in so odgovorni za nastanek kliničnih znakov, značilnih za SIRS (hipotenzija, tahikardija, zvišana telesna temperatura) (<xref ref-type="fig" rid="fig3">Slika 3</xref>) (<xref ref-type="bibr" rid="b6">6</xref>).</p>
+         <fig position="anchor" id="fig3">
+            <label>Slika 3:</label>
+            <caption>
+               <p> Patofiziologija akutnega pankreatitisa.</p>
+               <p>Legenda: IL-1, IL-6, IL-8, IL-10, IL-11 – interlevkini, NO – dušikov monoksid, PAF – faktor aktiviranja trombocitov, SIRS – sindrom vnetnega odgovora, ARDS – akutni sindrom dihalnega distresa</p>
+            </caption>
+            <p>
+               <graphic xlink:href="2886-web-resources/image/zdravvestn-2886-sl-03.png"/>
+            </p>
+         </fig>
+      </sec>
+      <sec id="s5"
+           sec-type="Prepoznavanje in zdravljenje disfunkcije organskih sistemov">
+         <label>5</label>
+         <title>Prepoznavanje in zdravljenje disfunkcije organskih sistemov</title>
+         <sec id="s5.1" sec-type="Krvni obtok">
+            <label>5.1</label>
+            <title>Krvni obtok</title>
+            <p>Praviloma so bolniki s HAP hemodinamsko nestabilni, zaradi česar je potrebno bolnika že od začetka bolezni intenzivno spremljati in zdraviti (<xref ref-type="bibr" rid="b1">1</xref>,<xref ref-type="bibr" rid="b6">6</xref>). Natančen in usmerjen klinični pregled sicer ni dovolj zanesljiv, vendar omogoča pravilno in racionalno uporabo natančnejših in pogosto invazivnejših metod hemodinamskega nadzora. Cilj natančnega hemodinamskega nadzora je oceniti arterijski tlak in njegovo zadostnost, pretok in njegovo zadostnost, srčno polnitev ter funkcijo srca, saj SIRS, ki je prisoten že v začetku HAP, vpliva na vse navedene parametre krvnega obtoka. Osnovni cilj zdravljenja hemodinamske nestabilnosti je zagotavljanje zadostnega prenosa kisika in normalno delovanje organov. Usmerjen klinični pregled nadgradimo še z laboratorijsko analizo krvi, ultrazvočno preiskavo (UZ) srca in invazivnejšimi metodami hemodinamskega nadzora, s katerimi želimo opredeliti delovanje srca, tekočinski status, pretok in njegovo zadostnost.</p>
+            <p>S klinično oceno lahko ocenimo krvni tlak (otip centralnih in perifernih pulzov je mogoč, ko je krvni tlak vsaj 50 mmHg), polnjenost desnega prekata (z opazovanjem pulziranja notranjih jugularnih ven lahko ocenimo osrednji venski tlak (CVP) – slab kazalnik odzivnosti na tekočine), polnjenost levega prekata (klinično ni mogoče zanesljivo ugotoviti tlaka v levem preddvoru – z avskuliranjem lahko ugotovimo pljučno kongestijo ali prisotnost tretjega srčnega tona, ki govorita v prid povišanega tlaka, vendar se je ta metoda pokazala kot nezanesljiva pri kritično bolnih), zadostnost pretoka (pretok skozi kožo – temperatura in barva kože, kapilarna polnitev; pretok skozi centralni živčni sistem – motnje zavesti; pretok skozi ledvica – ocena urnih diurez; pretok skozi srce – motnje srčnega ritma in/ali stenokardije). Z dodatnimi laboratorijskimi in biokemijskimi analizami arterijske in venske krvi dobimo podrobnejši vpogled v stanje prenosa kisika (<italic>angl.</italic> oxygene delivery, DO<sub>2</sub>), tj. na koncentracijo hemoglobina, PaO<sub>2</sub> in SaO<sub>2</sub> ter kazalce njegove zadostnosti – laktat, nasičenost krvi z O<sub>2</sub> v zgornji votli veni – ScvO<sub>2</sub>; možen vpogled v etiologijo hemodinamske nestabilnosti – nizek Hb (anemija, krvavitev), povišan troponin in/ali proBNP (popuščanje srca), povišani vnetni kazalci (sepsa); ter na prizadetost različnih organov in organskih sistemov (dušični retenti, jetrni testi, testi koagulacije krvi …) (<xref ref-type="bibr" rid="b7">7</xref>). Vsakemu bolniku s sumom na hemodinamsko nestabilnost posnamemo tudi EKG (objektivna opredelitev morebitnih motenj srčnega ritma ali ishemije srčne mišice) in naredimo rentgenogram prsnih organov (objektivna opredelitev znakov popuščanja srca ali povišane prepustnosti alveolokapilarne membrane) (<xref ref-type="bibr" rid="b7">7</xref>).</p>
+            <p>Ko pri bolniku ugotovimo hemodinamsko nestabilnost (klinični znaki, hipotenzija, povišan laktat, znižana ScvO<sub>2</sub>), moramo izbrati preiskave, s katerimi bomo bolnikovo stanje natančneje opredelili. Izbira metode hemodinamskega nadzora je odvisna od bolnikovega stanja, razpoložljive opreme, znanja in izurjenosti osebja na oddelku. Ne glede na metodo, si moramo ob koncu natančne hemodinamske ocene odgovoriti na vprašanja:</p>
+            <list>
+               <list-item>
+                  <label>1.</label>
+                  <p>Kolikšen je arterijski tlak in ali je zadosten?</p>
+               </list-item>
+               <list-item>
+                  <label>2.</label>
+                  <p>Kolikšen je pretok in ali je zadosten?</p>
+               </list-item>
+               <list-item>
+                  <label>3.</label>
+                  <p>Kakšna je funkcija srca?</p>
+               </list-item>
+               <list-item>
+                  <label>4.</label>
+                  <p>Kolikšna je srčna polnitev in ali je zadostna?</p>
+               </list-item>
+            </list>
+            <p>K 1. Najnižjo vrednost arterijskega tlaka, ki še omogoča zadostno prekrvitev organov, moramo določiti individualno za vsakega bolnika. Pri hemodinamsko nestabilnih priporočamo neprekinjeno invazivno merjenje v periferni ali centralni arteriji (<xref ref-type="bibr" rid="b8">8</xref>).</p>
+            <p>K 2. Globalni pretok predstavlja minutni srčni iztis (<italic>angl.</italic> cardiac output, CO), ki ga lahko merimo sorazmerno enostavno z več metodami. Običajno oceno pretoka začnemo z UZ srca, ki pa ne omogoča neprekinjenega merjenja. Od obposteljnih metod se na intenzivnih oddelkih najpogosteje uporablja termodilucijska metoda in metoda analize krivulje pulznega vala (<xref ref-type="bibr" rid="b8">8</xref>,<xref ref-type="bibr" rid="b9">9</xref>).</p>
+            <p>Termodilucija je najpogostejša obposteljna metoda za merjenje CO. Glede na položaj merilnega katetra ločimo pljučno termodilucijo (pljučni arterijski – Swan-Ganzov – kateter, PAK), pri kateri bolus mrzle tekočine vbrizgamo v centralno veno, temperaturo krvi pa spremljamo v pljučni arteriji, in transpulmonalno termodilucijo (npr. PiCCO™, VolumeView™), pri kateri bolus mrzle tekočine vbrizgamo v centralno veno, ta nato potuje preko desnega srca in pljučnega krvnega obtoka v levo srce, temperaturo pa spremljamo v eni od velikih arterij. Na podoben način izmeri CO tudi sistem LiDCO™, le da namesto termodilucije uporablja dilucijo litija. Takšen način merjenja CO zahteva invazivne posege – kateterizacijo desnega srca (PAK) ali kateterizacijo centralne vene in ene od velikih arterij (PiCCO™, VolumeView™), medtem ko tehnologija LiDCO™dovoljuje kaniliranje tudi manjše periferne arterije. Za oceno utripnega volumna (<italic>angl.</italic> stroke volume, SV) z analizo krivulje arterijskega pulznega vala so razvili različne metode, med katerimi sta najpomembnejša Windkesselov model in Fourierjeva transformacija, ki upoštevata upor, zmogljivost, impedanco in inertnost žilnega sistema. Tako dokaj zanesljivo ocenimo oz. izračunamo SV. Potreben je kakovosten arterijski signal, ki je odvisen od dejanskega SV, mehanskih lastnosti arterijskega sistema, mesta meritve (centralna/periferna arterija) in natančnosti meritve. Tako izračunani SV izraža dejanski SV. Na tak način od utripa do utripa merita CO sistema PiCCO™ in EV1000™. Oba potrebujeta občasno kalibriranje s transpulmonalno termodilucijo. Nekateri sistemi (npr. Flotrack Vigileo, LiDCO rapid …) merijo CO neprekinjeno z analizo krivulje arterijskega pulznega vala in pri tem ne potrebujejo kalibriranja. Tak način merjenja CO je manj invaziven, saj zanj potrebujemo le periferno arterijsko linijo (<xref ref-type="bibr" rid="b10">10</xref>).</p>
+            <p>K 3 Funkcijo srca sicer posredno izraža tudi izmerjeni minutni srčni iztis, vendar omogoča oceno dimenzij srčnih votlin, funkcije obeh prekatov, srčnih zaklopk in osrčnika le UZ preiskava. Pomembno je ugotoviti tudi, ali srce ohranja zadosten pretok le na račun povišanih polnilnih tlakov (srčno popuščanje) (<xref ref-type="bibr" rid="b7">7</xref>).</p>
+            <p>K 4 Večina sistemov, ki omogočajo merjenje pretoka (PiCCO™, EV1000™, LiDCO™), omogoča tudi določitev številnih dinamičnih (variabilnost utripnega volumna – <italic>angl.</italic>
+               <italic> </italic>stroke volume variability, SVV, variabilnost pulznega vala – <italic>angl.</italic> pulse pressure variability, PPV) in statičnih (CVP, celokupni volumen srca ob koncu diastole – <italic>angl.</italic> global end-diastolic volume, GEDV in volumen krvi v prsnem košu – <italic>angl.</italic> intrathoracic blood volume, ITBV) volumskih in tlačnih kazalcev srčne polnitve.</p>
+            <p>S takim načinom spremljanja hemodinamsko nestabilnega bolnika dobimo dobre podatke za to, koliko volumna dati bolniku in ali bolnik potrebuje za vzdrževanje zadovoljivega pretoka še dodatno inotropno in/ali vazoaktivno podporo. Cilj zdravljenja hemodinamsko nestabilnega bolnika je v čim krajšem času (pravilo zlate ure) normalizirati njegov prenos kisika. Nezadostno ali pretirano nadomeščanje tekočin še dodatno pospeši proces odpovedovanja organov, kar je močno povezano z zgodnjo smrtnostjo (<xref ref-type="bibr" rid="b10">10</xref>,<xref ref-type="bibr" rid="b11">11</xref>,<xref ref-type="bibr" rid="b12">12</xref>). Prevelika tekočinska obremenitev, kot se je prakticirala včasih, dandanes ni več sprejemljiva zaradi številnih negativnih učinkov in posledičnih zapletov (povečanje intraabdominalne hipertenzije – IAH, hiperkloremična acidoza, ARDS). Glede na podatke randomiziranih kontroliranih raziskav je konzervativno tekočinsko zdravljenje v primerjavi z liberalnejšim načinom dovajanja tekočin povezano z manjšo smrtnostjo (OR 0,4) in manjšo pojavnostjo organske odpovedi (OR 0.69) (<xref ref-type="bibr" rid="b3">3</xref>). Pri tem si lahko pomagamo z dinamičnimi parametri polnitve, kot sta SVV in PPV, ki so boljši kazalniki polnitve desnega srca od statičnih parametrov, in jih prej omenjene tehnike neprekinjeno izračunavajo ob dejstvu, da so bolniki mehansko predihavani in da imajo ritmično srčno akcijo (<xref ref-type="bibr" rid="b10">10</xref>,<xref ref-type="bibr" rid="b14">14</xref>,<xref ref-type="bibr" rid="b15">15</xref>). Združenji International Association of Pancreatology (IAP) in American Pancreatic Association (APA) priporočata uporabo uravnoteženih elektrolitskih infuzij. Rezultati nekaterih raziskav kažejo, da je uporaba koloidnih raztopin povezana s povečano smrtnostjo bolnikov s HAP (<xref ref-type="bibr" rid="b16">16</xref>-<xref ref-type="bibr" rid="b18">18</xref>).</p>
+         </sec>
+         <sec id="s5.2" sec-type="Predihavanje">
+            <label>5.2</label>
+            <title>Predihavanje</title>
+            <p>Akutna dihalna stiska (ADS) pri HAP je najpogosteje kombinacija hipoksemične in hiperkapnične dihalne odpovedi. Hipoksemija je posledica okvare na kapilarnem endotelu in v primeru aspiracije lahko tudi alveolnem epitelu, kar vodi v razvoj ARDS. Te spremembe so patofiziološka osnova za nastanek neujemanja med predihavanjem in perfuzijo, za zmanjšanje difuzijske kapacitivnosti kisika in za nastanek desno-levega intrapulmonarnega obvoda. Po drugi strani pa nastanek ileusa, ascitesa in zaplinjenost (meteorizem) črevesja povečajo znotrajtrebušni tlak (IAT), ki skupaj s plevralnimi izlivi zmanjša podajnost dihalnega sistema. To vse povečuje dihalno delo, kar vodi v izčrpanost dihalnih mišic in nastanek hiperkapnične dihalne odpovedi. Bolniki s HAP imajo hude bolečine, zato uporaba močnih opioidnih analgetikov lahko povzroči depresijo dihalnega centra in tako poslabša hiperkapnično ADS. Pri blagih oblikah AP je mogoče bolniku pomagati z neinvazivnim predihavanjem, vendar le če gre za hipoksemično ADS, medtem ko je pri bolniku s HAP dihalna podpora večinoma invazivna in v celoti temelji na algoritmih zasnovanih na protektivnem predihavanju. Vsi pristopi, ki se običajno uporabljajo pri bolnikih z ARDS za nastavitvene parametre protektivnega predihavanja (glej spodaj), se lahko uporabijo tudi pri bolnikih z ARDS, ki je posledica HAP. Obračanje na trebuh je razmeroma kontraindicirano, če je IAT visok, ali po operaciji v trebuhu, zato se zdravljenje nadaljuje le s stalnim nadzorovanjem podtlaka – vakumska terapija (VAC). Primarni cilji mehanskega predihavanja bolnika s ARDS so zagotoviti ustrezno izmenjavo plinov in zmanjšati tveganje za poškodbo pljuč, povzročeno s predihavanjem (<italic>angl.</italic> ventilatory induced lung injury, VILI). Tako farmakološke (mišična relaksacija z uporabo nevro-mišičnih blokatorjev, NMBA, inhalacijski vazodilatatorji, kortikosteroidi) kot nefarmakološke strategije (rekrutiranja pljuč, izbira pravega tlaka ob koncu izdiha (<italic>angl.</italic> positive end expiratory pressure, PEEPa), nastavitev dihalnega volumna, ciljno usmerjenost O<sub>2</sub> in CO<sub>2</sub> pri zaščiteni predihovalni strategiji, obračanje na trebuh in pomoč zunajtelesne membranske oksigenacije, ECMO) se uporabljajo za doseganje tega cilja (<xref ref-type="bibr" rid="b19">19</xref>,<xref ref-type="bibr" rid="b20">20</xref>).</p>
+            <p>Sila težnosti je glavni razlog za kolabiranje dorzalnega dela pljučnega parenhima pri bolniku z ARDS. Ta pojav je še bolj izrazit pri zunajpljučnem ARDS, kot je pri HAP, kjer dvignjena prepona zaradi povišanega IAT še bolj stisne pljuča. IAH zelo vpliva tako na pljuča kot na celotni dihalni sistem in tudi na ostale periferne organe. Ob povečani prepustnosti pljučnih kapilar, ki je že prisotna ob ARDS, IAH še poveča okvaro pljuč in edem, ker zmanjšuje pljučno limfno drenažo in poveča pritisk znotraj prsnega koša. To lahko privede do nastanka atelektaz pljuč in zapiranja majhnih dihalnih poti ter tako poslabša mehaniko dihanja in izmenjavo plinov. V teh predelih se med vsakim dihalnim ciklusom pljučno tkivo med vdihom odpira in med vsakim izdihom kolabira, kar privede do nastanka atelektravme. Talmor je s sodelavci opisal protokol nastavitve pozitivnega tlaka na koncu izdiha (PEEP) z uporabo transpulmonalnega tlaka (T<sub>TP</sub>). T<sub>TP</sub> predstavlja razliko med tlakom v zračnih poteh (T<sub>DP</sub>) in tlakom v požiralniku (T<sub>ESO</sub>) in mora imeti pozitivno vrednost na koncu izdiha, da prepreči kolabiranje pljučnega tkiva in nastanek atelektaz v hrbtnih predelih pljuč (<xref ref-type="bibr" rid="b21">21</xref>). Tlak v požiralniku se običajno meri na ravni srca in zrcali tlak v okolišnjem priležnem pljučnem tkivu. Tlak v požiralniku ni enak tlaku v plevralni votlini, vendar pa spremembe tlaka v požiralniku zelo dobro zrcalijo spremembe tlaka v plevralni votlini. V tej Talmorjevi študiji je nastavitev PEEP, ki so jo nastavili tako, da je T<sub>TP</sub> imel pozitivno vrednost ob koncu izdiha, izboljšala oksigenacijo, podajnost dihalnega sistema in kumulativno preživetje v primerjavi s konvencionalnim protokolom, ki je temeljil na uporabi tabel ARDSnet PaO<sub>2</sub>/ FiO<sub>2</sub> (<xref ref-type="bibr" rid="b22">22</xref>). Danes ni zadostnih podatkov randomiziranih raziskav o tem, kako voditi ARDS bolnike z IAH, čeprav je bilo podanih nekaj predlogov. Optimalno nastavljeni parametri predihavanja bolnikov z ARDS in IAH bi morali vsebovati:</p>
+            <p>1.merjenje intraabdominalnega tlaka in tlaka v požiralniku ter hemodinamsko monitoriranje;</p>
+            <list>
+               <list-item>
+                  <label>2.</label>
+                  <p>nastavitve parametrov predihavanja z zaščitnim dihalnim volumnom z uporabo rekrutacijskih manevrov in nastavitvijo vrednosti PEEP, ob čemer dosežemo najboljšo podajnost dihalnega sistema ali pljuč;</p>
+               </list-item>
+               <list-item>
+                  <label>3.</label>
+                  <p>globoko sediranje z nevromišično paralizo ali brez nje pri hudem ARDS;</p>
+               </list-item>
+               <list-item>
+                  <label>4.</label>
+                  <p>odprtje trebuha pri bolnikih z znaki abdominalnega utesnitvenega sindroma (AKS) (<xref ref-type="bibr" rid="b23">23</xref>,<xref ref-type="bibr" rid="b24">24</xref>).</p>
+               </list-item>
+            </list>
+         </sec>
+         <sec id="s5.3" sec-type="Znotrajtrebušna hipertenzija (IAH)">
+            <label>5.3</label>
+            <title>Znotrajtrebušna hipertenzija (IAH)</title>
+            <p>Pojavnost IAH pri HAP je med 60 % in 85 %, zato se merjenje znotrajtrebušnega tlaka priporoča pri vsakem bolniku s HAP, ki je sprejet v enoto intenzivne terapije (<xref ref-type="bibr" rid="b24">24</xref>,<xref ref-type="bibr" rid="b25">25</xref>). Glavni razlogi za pojav IAH so proces vnetja v retroperiotalnem prostoru, nastanek ascitesa in ter razvoj ileusa. Svetovno združenje za abdominalni kompartment sindrom (<italic>angl.</italic> World society for abdominal compartment syndrome – WSACS ) je opisalo 4 stopnje IAH (<xref ref-type="bibr" rid="b25">25</xref>):</p>
+            <p>1. stopnja: tlak IAT 12–15 mmHg;</p>
+            <p>2. stopnja: IAT 16–20 mmHg;</p>
+            <p>3. stopnja: IAT 21–25 mmHg;</p>
+            <p>4. stopnja: IAT več kot 25 mmHg.</p>
+            <p>Za normalno delovanje trebušnih organov mora biti abdominalni perfuzijski tlak (APT) večji ali enak 60 mmHg. APT je razlika med srednjim arterijskim tlakom (SAT) in znotrajtrebušnim tlakom (IAT) (APT = SAT– IAT). Sindrom trebušnega kompartmenta (SAK) se pojavi, ko je IAT večji od 20 mmHg in APT ≤ 60 mmHg, poleg obeh dejavnikov pa mora biti prisotna še odpoved vsaj enega trebušnega organa, najpogosteje ledvic (<xref ref-type="bibr" rid="b25">25</xref>). Drugi pomemben dejavnik je hitrost nastanka IAH. Pri akutnem razvoju (v nekaj urah) se SAK lahko pojavi tudi že pri nižjih vrednostih IAT in APT. Kadar pa se IAH razvije v nekaj tednih ali mesecih (pri nosečnosti in debelosti), se SAK ne pojavi. Pri bolnikih s HAP bi morali meriti IAT na vsakih 4 do 6 ur. V vsakodnevni praksi se IAT meri z uporabo dodatnih tlačnih pretvornikov, ki so povezani z urinskim katetrom. Alternativni pristop je vstavitev dodatnega »balonskega katetra« v trebuh ali vstavitev sonde NutriVent™. Ta sonda meri tlak v požiralniku (T<sub>ESO)</sub>, ki je potreben za izračun transpulmonalnega tlaka T<sub>TP</sub> in tlak v želodcu (T<sub>GA</sub>), ki predstavlja znotrajtrebušnega (<xref ref-type="bibr" rid="b26">26</xref>). Z uporabo nekirurških tehnik moramo vzdrževati IAT ≤ 15 mmHg, APT ≥ 60 mmHg, ob čemer ne sme priti do znakov odpovedovanja trebušnih organov.</p>
+            <p>Nekirurške tehnike so:</p>
+            <p>1.Izboljšanje podajnosti trebušne stene:</p>
+            <p>•zadostna analgezija in/ali sediranje,</p>
+            <p>•nagnjenje trupa ne za več kot 20 °,</p>
+            <p>•uporaba Trendelenburgovega položaja (če je možno),</p>
+            <p>•uporaba NMBA.</p>
+            <list>
+               <list-item>
+                  <label>2.</label>
+                  <p>Odstranitev vsebin iz znotrajtrebušnih votlin:</p>
+               </list-item>
+            </list>
+            <p>•želodčna in/ali črevesna dekompresija z vstavitvijo želodčne (NGS) ali črevesne cevke,</p>
+            <p>•uporaba prokinetikov,</p>
+            <p>•uporaba klistirja,</p>
+            <p>•zmanjšanje ali opustitev enteralnega hranjenja,</p>
+            <p>•kolonoskopska dekompresija debelega črevesja,</p>
+            <p>•vstavitev urinskega katetra.</p>
+            <list>
+               <list-item>
+                  <label>3.</label>
+                  <p>Optimizacija tekočinskega zdravljenja:</p>
+               </list-item>
+            </list>
+            <p>•omejitev količine vnešenih tekočin,</p>
+            <p>•dajanje diuretika pri hemodinamsko stabilnih bolnikih,</p>
+            <p>•v primeru oligurične in anurične ALO je potrebno pričeti nadomestno zdravljenje s hemodializo.</p>
+            <list>
+               <list-item>
+                  <label>4.</label>
+                  <p>Optimizacija sistemskega in področnega pretoka krvi:</p>
+               </list-item>
+            </list>
+            <p>•stalno hemodinamsko monitoriranje za optimiziranje volumske obremenitve in uporaba inotropnih oz. vazoaktivnih zdravil za optimalni prenos kisika;</p>
+            <p>•optimalno predihavanje (glej poglavje 5.2).</p>
+            <p>Kirurški posegi za dekompresijo se morajo izvesti, če nastopi sekundarni SAK, pri katerem je IAP, kljub že opravljenem nekirurškemu posredovanju, nad 20 mmHg in pride do znakov odpovedovanja trebušnih organov. Kirurška laparostomija se bi morala izvesti kot mediana laparotomija ali pa še bolje kot transverzalna bilateralna laparatomija (<xref ref-type="bibr" rid="b27">27</xref>,<xref ref-type="bibr" rid="b28">28</xref>). Trenutno se za začasno laparatomijo uporabljajo tri različne tehnike: a) tehnika za zaprtje kože; b) tehnika za zaprtje fascij; c) tehnika za zaprtje z uporabo stalnega nadzorovanega podtlaka (tehnika VAC).</p>
+         </sec>
+         <sec id="s5.4" sec-type="Nadzor okužbe">
+            <label>5.4</label>
+            <title>Nadzor okužbe</title>
+            <p>Več kot 80 % smrtnih primerov pri bolnikih s HAP je posledica sekundarnega vnetja trebušne slinavke in/ali nekroze ob trebušni slinavki (<xref ref-type="bibr" rid="b29">29</xref>). Glavni vir teh okužb so črevesni mikrobioti, ki v tkivo trebušne slinavke pridejo/vdrejo iz hiperpermeabilnega črevesja med sistemskim vnetjem. Najbolj pogosti patogeni so <italic>E.Coli</italic> (26 %), <italic>Pseudomonas spp. </italic>(16 %), <italic>Staphylococcus </italic>spp. (15 %), <italic>Klebsiella</italic> spp. (10 %), <italic>Proteus</italic> spp. (10 %), <italic>Streptococcus</italic> spp. (4 %), <italic>Enterococcus </italic>spp. in anaerobne bakterije (16 %). Po pravilu pride do glivične superinfekcije kasneje v razvoju bolezni, običajno v roku nekaj tednov ali celo mesecev po vnetju (<xref ref-type="bibr" rid="b16">16</xref>).</p>
+            <p>Danes nimamo zadostnih podatkov o učinkovitosti profilaktičnega zdravljenja z antibiotiki (<xref ref-type="bibr" rid="b30">30</xref>). V preglednem članku Villatora s sod., ki je zajemal 7 randomiziranih preiskav na 404 bolnikih, niso našli vidnejše razlike v smrtnosti med bolniki, ki so prejemali profilaktično antibiotike, in tistimi, ki so prejemali placebo (8,4 % proti 14,4 %, NS). Hkrati tudi ni bilo razlik v številu vnetih nekroz med obema skupinama (19,7 % proti 24,4 %, NS). Dokazali pa so, da je bil v skupini z antibiotično zaščito statistično značilno nižji delež celotnih okužb (37,5 % proti 51,9 %). Prav tako ni bilo razlik med skupinama v potrebi po kirurškem zdravljenju in pogostosti glivnih okužb. Ko so primerjali skupine bolnikov glede na skupine antibiotikov, ki so jih prejemali, so ugotovili, da pri uporabi kombinacije fluorokinolonov z metronidazolom ni bilo razlik v smrtnosti, pogostosti okužb pankreatičnih nekroz in pogostosti celotnih okužb. Pri bolnikih, ki so prejemali zaščitno antibiotično zdravljenje z imipenemom, so zaznali statistično značilno manj okužb pankreatičnih nekroz, ni pa bilo pomembnega vpliva na izboljšanje preživetja. Zato tudi ti avtorji ugotavljajo, da je trenutno premalo kakovostnih podatkov o uporabi antibiotikov pri akutnem pankreatitisu za profilakso (<xref ref-type="bibr" rid="b31">31</xref>). Leta 2012 je bila objavljena še ena metaanaliza, v katero je bilo vključenih 622 bolnikov s HAP iz 11 randomiziranih raziskav. Tudi v tej raziskavi niso potrdili pozitivnega učinka profilaktičnega dajanja antibiotikov na preživetje. Ocenili so, da bi bilo treba zdraviti 1.429 bolnikov, da bi preprečili eno smrt (<xref ref-type="bibr" rid="b32">32</xref>). Do podobnih ugotovitev so prišli tudi Wittau in sodelavci, ki so v metaanalizo vključili 14 randomiziranih raziskav z 841 bolniki. Ugotovili so, da so smrtnost, pogostost okužb pankreatičnih nekroz, pogostost nepankreatičnih okužb in število kirurških ukrepov primerljivi med skupino bolnikov, ki je prejemala antibiotično zaščito, in kontrolno skupino (<xref ref-type="bibr" rid="b30">30</xref>). V prospektivni randomizirani raziskavi so Maraví-Poma in sodelavci dokazali 3-kratni porast pojavnosti lokalnih in sistemskih glivnih okužb pri bolnikih z akutnim pankreatitisom, ki so dalj časa prejemali zaščito z antibiotiki (<xref ref-type="bibr" rid="b33">33</xref>). Nesmotrna raba antibiotikov je povezana tudi z nastankom driske, povezane z antibiotiki, ali driske, povzročene s<italic> </italic>povzročiteljem<italic> Clostridium difficile </italic>in selekcijo bakterij, odpornih proti številnim antibiotikom. Glede na vse te podatke lahko sklenemo, da slaba učinkovitost antibiotične profilakse in njeni neželeni učinki prevladajo nad pozitivnimi učinki, zato profilakse rutinsko ne uporabljamo (<xref ref-type="bibr" rid="b34">34</xref>). Antibiotike zato uporabljamo samo takrat, ko obstaja velik sum na okužbo ali dokazana okužba (<xref ref-type="bibr" rid="b16">16</xref>). V prvih 7 do 10 dneh antibiotikov ne predpisujemo za zdravljenje zapletov akutnega pankreatitisa, ampak za zdravljenje drugih okužb, kot so holangitis, z žilnimi katetri povezane okužbe, bakteriemije, okužba sečil ali pljučnica. Klinično gledano je zelo težko razlikovati med sterilno in okuženo nekrozo. Na okužbo nekroze trebušne slinavke in tkiva ob njej pomislimo, kadar imamo bolnika, pri katerem se klinična slika po 7–10 dneh ne umirja ali ima izražen SIRS. Pri takšnem bolniku je smiselno opraviti CT-vodeno igelno aspiracijo za odvzem kužnin in nato začeti antibiotično zdravljenje. O okuženi nekrozi trebušne slinavke govorimo, če smo v aspiratu dokazali bakterije ali so na CT vidni vključki zraka v nekrotičnih predelih. Če se načrtuje perkutano dreniranje zaradi zdravljenja lokalnih posegov, ni treba posebej izvajati še CT-vodene aspiracijske punkcije. Antibiotično zdravljenje pogosto kombiniramo s kirurškim zdravljenjem.</p>
+            <p>Trenutno ni zadosti kakovostnih podatkov, ki bi omogočali trdna priporočila glede vrste izkustvenega antibiotičnega zdravljenja okuženih nekroz trebušne slinavke. Več raziskav je posvečenih analizi prodiranja antibiotikov v tkivo trebušne slinavke. Imipenem in ertapenem dobro prodirata v tkivo trebušne slinavke, kjer dosegata koncentracije nad minimalnimi inhibicijskimi koncentracijami za najpogostejše povzročitelje okužb pri akutnem pankreatitisu (<xref ref-type="bibr" rid="b35">35</xref>,<xref ref-type="bibr" rid="b36">36</xref>). Podobni podatki so na voljo tudi za moxifloxacin (<xref ref-type="bibr" rid="b37">37</xref>). Ko so <italic>in vitro</italic> na modelu akutnega pankreatitisa primerjali učinkovitost teh antibiotikov proti bakterijam, ki so jih pogosto osamili iz pankreatičnih nekroz (<italic>E</italic>.<italic> coli</italic>,<italic> Enterobacter cloacae</italic>,<italic> Enterococcus faecalis </italic>in<italic> Bacteroides fragilis</italic>), so ugotovili, da so vsi trije antibiotiki podobno učinkoviti, vendar je moksifloksacin učinkovitejši proti <italic>E. cloacae</italic>, <italic>E. faecalis</italic> in anaerobom v mešanih kulturah. Ertapenem pa je bil neučinkovit proti enterokokom (<xref ref-type="bibr" rid="b37">37</xref>). Natančnih podatkov o trajanju zdravljenja trenutno ni. Večina avtorjev predlaga, da se zdravljenje nadaljuje vsaj 14 dni po odstranitvi vira vnetja (<xref ref-type="bibr" rid="b16">16</xref>,<xref ref-type="bibr" rid="b34">34</xref>,<xref ref-type="bibr" rid="b39">39</xref>).</p>
+            <p>Smrtnost pri bolnikih s HAP in vneto nekrozo trebušne slinavke dosega tudi 30 %. Večina, do 80 %, je posledica septičnih zapletov. Kadar imamo bolnike z okuženimi nekrozami trebušne slinavke in večorgansko odpovedjo, ki so zdravljeni brez dodatnih kirurških posegov, se smrtnost približuje 100 % (<xref ref-type="bibr" rid="b40">40</xref>). S pridruženim kirurškim zdravljenjem se smrtnost zniža. Nizozemski raziskovalci so pokazali, da je preživetje boljše pri tistih bolnikih, pri katerih so uporabili stopenjski kirurški pristop (perkutana drenaža ali endoskopska transluminalna drenaža, ki ji sledi minimalno invazivna retroperitonealna nekrosektomija), kakor pri bolnikih, pri katerih so opravili odprto nekrosektomijo. Če je mogoče, je smiselno kirurške posege odložiti vsaj do 4. tedna po začetku značilne klinične slike, da pride do omejitve nekroze z granulacijskim tkivom oziroma ovojnico (<xref ref-type="bibr" rid="b41">41</xref>). Abscesi trebušne slinavke se pojavijo pozno v poteku bolezni; za večino zadošča perkutana drenaža v kombinaciji z antibiotičnim zdravljenjem. Če ne dosežemo kliničnega izboljšanja in absces še obstaja, je potrebno opraviti kirurško dreniranje. Ko je HAP povezan s holangitisom, je nujno potrebno v prvih 24 urah izvesti endoskopsko retrogradno holangiopankreatografijo (ERCP), medtem ko pri ostalih biliarnih pankreatitisih ni dovolj podatkov za določitev ustreznega obdobja, ko je potrebno opraviti ERCP (<xref ref-type="bibr" rid="b16">16</xref>). Najpogostejši zapleti, povezani z okužbami, ki nastanejo po kirurški nekrosektomiji, so dodatna vnetja preostalega tkiva trebušne slinavke in druga pogosta bolnišnična vnetja (npr. pljučnica, povezana z mehanskim predihavanjem, okužbe, povezane s osrednjimi katetri itd.). Behraman in sodelavci so v 17,8 % primerov opisali pojav pooperativne pankreatične okužbe pri bolnikih, ki so jim opravili elektivno resekcijo nekroze trebušne slinavke. Od tega so polimikrobne okužbe opažali pri 55 % bolnikov. Dolgotrajna uporaba vankomicina pa vodi do pojava na vankomicin odpornih enterokokov (<xref ref-type="bibr" rid="b42">42</xref>).</p>
+         </sec>
+         <sec id="s5.5" sec-type="Prehrana">
+            <label>5.5</label>
+            <title>Prehrana</title>
+            <p>Že desetletja se razpravlja o primerni in optimalni prehrani pri zdravljenju HAP. T.i. strategijo »bowl at rest« so konvencionalno uvedli v zdravljenje HAP pred več kot 30 leti in je danes preživeta (<xref ref-type="bibr" rid="b43">43</xref>-<xref ref-type="bibr" rid="b45">45</xref>). Ne glede na to, pa dietne omejitve slabšajo bolnikovo podhranjenost zaradi neravnovesja med zmanjšanim vnosom hrane in višjimi prehranskimi zahtevami med samim potekom bolezni, kar še nadalje vodi v povečanje katabolizma, bakterijskih translokacij (<xref ref-type="bibr" rid="b46">46</xref>) in tudi smrti (<xref ref-type="bibr" rid="b47">47</xref>). Dokazi kliničnih raziskav so pokazali, da parenteralna prehrana (PP) preprečuje stimulacijo trebušne slinavke, medtem ko ima enteralna prehrana (EP) veliko drugih prednosti. Težko pa je v vsakodnevni praksi predvideti, ali bodo bolniki s HAP dobro prenašali EP (<xref ref-type="bibr" rid="b48">48</xref>). Z uvajanjem še dodatnih prehranskih dodatkov so poskušali zagotoviti dodatne imunske regulativne in antioksidativne učinke. Dokazano je bilo, da probiotiki in prebiotiki pomagajo stabilizirati motnje v črevesni pregradi. Ne glede na to, pa trenutno ni trdnih dokazov o tem, da probiotiki zmanjšujejo smrtnost pri kritično bolnih (<xref ref-type="bibr" rid="b49">49</xref>,<xref ref-type="bibr" rid="b50">50</xref>). Imunonutriente (npr. glutamin in omega-3 maščobne kisline) so dodali v parenteralne in enteralne formule zaradi imunosupresivne in vnetne narave bolezni same zato, da bi modulirali imunske funkcije, zmanjšali pretirani vnetni odziv in ponovno vzpostavili homeostazo v tkivih in organih (<xref ref-type="bibr" rid="b51">51</xref>,<xref ref-type="bibr" rid="b52">52</xref>). Dodatki z antioksidativnimi lastnostmi, kot sta glutamin in vitamin C, zagotavljajo še dodatne ugodne učinke na potek bolezni (<xref ref-type="bibr" rid="b53">53</xref>). V metaanalizi Yao-a H. in sodelavcev, v kateri so primerjali PP s EP pri bolnikih s HAP, je bila EP povezana s pomembnim zmanjšanjem celotne smrtnosti (razmerje tveganja (RR) = 0,36, 95-odstotni interval zaupanja (CI) 0,20–0,65, P = 0,001) in manjšo večorgansko odpovedjo (RR = 0,39, 95-odstotni CI 0,21–0,73, P = 0,003). Analizo zaključujejo z ugotovitvijo, da bi morala biti EP primarni način prehrane kritično bolnih s HAP (<xref ref-type="bibr" rid="b54">54</xref>). Če bolnik ne prenaša oralnega hranjenja, kar je pri HAP pravilo, je treba v prvih 72 urah dajati enteralno hranjenje skozi nazogastrično ali nasojejunalno hranilno cevko. PP je treba zmanjšati zaradi tveganj okužbe in drugih zapletov, ki so ji pridruženi. Samo če enteralna pot ni na voljo ali jo bolnik slabo prenaša, se lahko prične s uvajanjem PP. V splošnem velja, da ima prehranska podpora velik pomen pri kliničnem obravnavanju HAP, čeprav optimalni čas hranjenja ostaja nerazjasnjen. Ker trenutni sistem ocenjevanja še ni izpopolnjen, je težko napovedati prehransko toleranco pri bolnikih s HAP. Različni prehranski dodatki, v kombinaciji s PP, EP in trenutnimi kliničnimi možnostmi, so zanimiva tema za prihodnje raziskave in bi lahko privedle do novih obetavnih rezultatov (<xref ref-type="bibr" rid="b55">55</xref>). Opravljena je bila še metaanaliza, kjer so primerjali zgodnjo (v prvih 48 ur – ZEN) in pozno (po 48 urah – PEN) enteralno prehrano. Prišli so do zaključkov, da je ZEN pomembnejša od PEN pri bolnikih s HAP. Vseeno pa bi moralo biti na tem področju napravljenih še več študij, da bi lahko z večjo gotovostjo potrdili te rezultate (<xref ref-type="bibr" rid="b56">56</xref>). Sicer obstajajo navodila za prehrano bolnika s HAP v smernicah ESPEN (<xref ref-type="bibr" rid="b57">57</xref>):</p>
+            <p>1.energija 25–35 kcal/kg TT/dan;</p>
+            <list>
+               <list-item>
+                  <label>2.</label>
+                  <p>1,2–1,5 gr beljakovin/kg TT/dan;</p>
+               </list-item>
+               <list-item>
+                  <label>3.</label>
+                  <p>3–6 gr ogljikovih hidratov/kg TT/dan, da se doseže koncentracija glukoze v krvi med 6 in 10 mmol/L;</p>
+               </list-item>
+               <list-item>
+                  <label>4.</label>
+                  <p>do 2g lipidov/kg TT/dan, da se doseže koncentracije trigliceridov v krvi pod 12 mmol/L.</p>
+               </list-item>
+            </list>
+         </sec>
+         <sec id="s5.6" sec-type="Nadzor bolečine">
+            <label>5.6</label>
+            <title>Nadzor bolečine</title>
+            <p>Bolečina je glavni znak akutnega pankreatitisa in eden poglavitnih vzrokov za sprejem večine bolnikov na različne oddelke bolnišnic (<xref ref-type="bibr" rid="b58">58</xref>-<xref ref-type="bibr" rid="b60">60</xref>). Trenutno ni obsežnejših raziskav o farmakologiji nadzora bolečine pri akutnem pankreatitisu, kar je po svoje presenetljivo, saj je bolečina pomemben simptom v razvoju bolezni. Enako ni zadostnih dokazov o učinkovitosti različnih farmakoloških snovi, ki se uporabljajo za zdravljenje različnih oblik akutnega pankreatitisa. Pri zdravljenju akutnega pankreatitisa se najpogosteje uporabljajo naslednje učinkovine in tehnike, ki lajšajo bolečino: a) <italic>nesteroidna protivnetna zdravila (NSAID)</italic>; b) različne <italic>opioidne</italic> učinkovine in c) <italic>epiduralna anestezija</italic>, ki je v zadnjem času glede na novejše študije veliko pridobila na veljavi. Glede intravenskega protibolečinskega zdravljenja se zdaj priporoča multimodalni pristop k zdravljenju hude bolečine pri HAP kot kombinacija opioidnih učinkovin (fentanyl, sufentanil, piritramid …), NSAID in paracetamola, če niso zaradi drugih vzrokov kontraindicirani v teh kombinacijah. Predvsem to velja pri ledvični insuficienci, ko pride do kopičenja opioidnih učinkovin oziroma njihovih aktivnih presnovkov.</p>
+            <p>Kar zadeva zdravljenje bolečine z <italic>NSAID</italic> pri akutnem pankreatitisu je v literaturi moč najti veliko protislovij. Po eni strani obstajajo različna poročila o možnostih, da NSAID lahko celo povzročijo akutni pankreatitis (<xref ref-type="bibr" rid="b61">61</xref>-<xref ref-type="bibr" rid="b64">64</xref>). Po drugi strani pa so NSAID uporabili za preprečevanje akutnega pankreatitisa, ki ga je povzročil ERCP (<xref ref-type="bibr" rid="b65">65</xref>). V metaanalizi, ki so jo opravili Pezzilli R in sod., so avtorji poskušali odgovoriti na vprašanja, ali lahko NSAID povzročijo akutni pankreatitis, ali je njihova profilaktična uporaba sposobna preprečiti nastanek akutnega pankreatitis po ERCP in ali so ta zdravila sposobna obvladati bolečine pri akutnem pankreatitisu. Prišli so do več zaključkov:</p>
+            <list>
+               <list-item>
+                  <label>•</label>
+                  <p>z uporabo NSAID obstaja do neke mere tveganje za nastanek akutnega pankreatitisa, zato se v klinični praksi zdi, da je naproksen prednostni analgetik, ki ima najmanjšo možnost za nastanek akutnega pankreatitisa;</p>
+               </list-item>
+               <list-item>
+                  <label>•</label>
+                  <p>tako diklofenak kot indometacin lahko znatno zmanjšata tveganje za nastanek akutnega pankreatitisa po ERCP, kar ima za posledico večje klinične in ekonomske koristi;</p>
+               </list-item>
+               <list-item>
+                  <label>•</label>
+                  <p>in ne nepomembno: z NSAID lahko pri bolnikih z AP zadovoljivo nadziramo bolečino (<xref ref-type="bibr" rid="b67">67</xref>).</p>
+               </list-item>
+            </list>
+            <p>Vendar pa so potrebne nadaljnje klinične študije o najboljših NSAID, ki se uporabljajo v klinični praksi.</p>
+            <p>Naslednji primer je uporaba diklofenaka. To je zdravilo, ki se v veliki meri uporablja za zdravljenje bolečin pri akutnem pankreatitisu. Uporaben je pri preprečevanju pankreatitisa po ERCP, vendar se šteje za glavno zdravilo iz skupine NSAID, ki je odgovorno za povzročitev akutnega pankreatitisa pri splošnem prebivalstvu (<xref ref-type="bibr" rid="b65">65</xref>,<xref ref-type="bibr" rid="b66">66</xref>).</p>
+            <p>Pri HAP so vedno prisotne hude bolečine. Tukaj obstaja veliko različnih izbir zdravil za zmanjševanje bolečine. Dodatno se pogosto uporabljajo močni analgetiki iz skupine opiodnih analgetikov. Analgetiki so pogosto bolniku dovajajo preko infuzijskih tekočin ali pa preko epiduralnega katetra. Včasih si bolnik sam lahko prilagaja odmerek analgetikov in od tod tudi izvira poimenovanje takega pristopa k zdravljenju bolečine kot analgetska terapija pod nadzorom bolnika‘ (<italic>angl.</italic> patient-controlled analgesia, PCA). Pri tem načinu je uporaba prevelikega odmerka posameznega zdravila manj verjetna.</p>
+            <p>
+               <italic>Opioidi</italic> se zdijo primerna izbira za zdravljenje hude bolečine pri HAP. V primerjavi z ostalimi analgetiki lahko zmanjšajo potrebo po dodatni analgeziji. Trenutno ni nobene razlike v zvezi s tveganjem za zaplete pankreatitisa ali s klinično resnimi neželenimi dogodki med opioidi in drugimi načini analgezije. Nedavno objavljena metaanaliza o AP je vsebovala 5 randomiziranih preiskav in skupno 227 bolnikov (starih med 23 in 76 let, od katerih je bilo 65 % moških) (<xref ref-type="bibr" rid="b67">67</xref>). Opioidi, vključeni v raziskavo, so bili: buprenorfin (v žilo ali v mišico), petidin (v mišico), pentazocin (v žilo), fentanil (skozi kožo – transdermalno) in morfin (podkožno). Buprenorfin je nenarkotični analgetik z boljšimi učinki kot prokain in za razliko od prokaina ne poslabša AP, saj ne povzroča krčenja Oddijevega sfinktra (<xref ref-type="bibr" rid="b68">68</xref>). Buprenorfin ima podobne analgetične učinke kot petidin. Ena randomirizirana preiskava, ki je primerjala subkutano dovajan morfin in intravensko dovajan metamizol, ni poročala o bistvenem zmanjšanju intenzivnosti bolečine (primarni rezultat) (RR 0,50, 95 % CI od 0,19 do 1,33) (<xref ref-type="bibr" rid="b68">68</xref>). Tri študije so primerjale analgezijo med opioidnimi učinkovinami in neopioidnimi učinkovinami. Po izključitvi ene študije, v kateri so bili opioidi uporabljeni z neprekinjeno intravensko infuzijo, se je zmanjšalo število bolnikov, ki so potrebovali dodatno analgezijo (RR 0,53, 95 % CI od 0,3 do 0,93). Samo ena študija ni zabeležila razlike o potrebi po dodatnih analgetikih med bolniki, ki so prejeli buprenorfin ali petidin (RR 0,82, 95 % CI od 0,61 do 1,10). Pri nobenem od testiranih zdravil ni prišlo do dodatnih zapletov, povezanih s pankreatitisom, kakor tudi ni bilo nobenih resnih kliničnih ali življenjsko nevarnih dogodkov. Prav tako ni bilo nobenih razlik, ugotovljenih med zdravljenjem z opioidi in neopioidi, ali med vrsto neželenih dogodkov (slabost, bruhanje in zaspanost po sediranju). V vseh študijah so zabeležili le eno smrt pri uporabi prokaina (<xref ref-type="bibr" rid="b68">68</xref>). Ena randomizirana presikava, ki je primerjala petidin z buprenorfinom, vbrizganim v mišico, je poročala o nepomembnih razlikah v dodatnem analgetiku, neželenih dogodkih in preživetju. Druga randomizirana preiskava, ki pa je primerjala fentanil s placebom, ni ugotovila nobene razlike v neželenih dogodkih.</p>
+            <p>
+               <italic>Epiduralna anestezija (EA)</italic> se pogosto uporablja za sprožitev analgezije v obdobju ob operaciji, kakor tudi za zmanjšanje bolečine pri bolnikih s HAP (<xref ref-type="bibr" rid="b69">69</xref>). Poleg tega so eksperimentalne študije pokazale posebno ugoden učinek EA pri bolnikih s HAP, ki so ga pripisali blokadi simpatičnega živca, zaradi česar pride do redistribucije splanhničnega krvnega pretoka s povečanim pretokom krvi v sicer neprekrvljene predele trebušne slinavke (<xref ref-type="bibr" rid="b70">70</xref>,<xref ref-type="bibr" rid="b71">71</xref>).</p>
+            <p>Prva randomizirana raziskava o uporabi EA za zdravljenje akutnega pankreatitisa je pokazala, da ni bilo dodatnih zapletov, ki bi bili povezani s samim epiduralnim postopkom, niti okužbe, povezane z epiduralnimi katetri, oziroma hemodinamskih zapleove v srednjem času 5,7 dni trajanja epiduralne anestezije (<xref ref-type="bibr" rid="b72">72</xref>). Avtorji so lahko pokazali znatno izboljšanje krvnega pretoka skozi trebušno slinavko, kar so opazili pri 13 (43 %) od 30 meritev v skupini EA in pri 2 (7 %) od 27 meritev v kontrolni skupini. V skupini EA nihče od bolnikov ni razvil klinične sepse, en sam bolnik pa je potreboval intubiranje, medtem ko je v kontrolni skupini šest bolnikov potrebovalo intubiranje zaradi akutne dihalne stiske (intubiranih je bilo 7,7 % proti 27,3 %, oziroma P = 0,22). Poleg tega uporaba antibiotikov ni bila drugačna pri obeh skupinah (61,5 % bolnikov v skupini EA in 68,2 % v kontrolni skupini, P = 0,689) in tudi trajanje zdravljenja ni bilo drugačno. Med hospitalizacijo je skupina EA razvila 9 primerov lokalnih in regionalnih zapletov in 10 primerov sistemskih zapletov v primerjavi s kontrolno skupino, v katerih je bilo 12 primerov lokalnih in regionalnih in 13 sistemskih zapletov. Ocena po lestvici VAS je pokazala izboljšanje subjektivne bolečine v prvih 12 dneh v skupini EA v primerjavi s kontrolno skupino, s pomembno razliko na dan izvajanja EA in še deset dni. Rezultati za srednjo vrednost bolečine na lestvici od 1 do 10 so bili pred randomizacijo 6,5 proti 7,31, P = 0,57; po izvedbi EA 1,6 proti 3,5, P = 0,02; na prvi dan 0,57 proti 2, P = 0,06; na 5. dan 1,86 proti 1,38, P = 0,69; na dan deset 0,2 proti 2,33, P = 0,034; na dan dvanajst 0 proti 2,8, P = 0,071. Zaključek študije je bil, da je EA varen postopek, ki znatno poveča pretok krvi v trebušni slinavki, za to se manjkrat razvije nekroza, zato kaže na trend izboljšanja kliničnih izidov pri bolnikih s HAP (<xref ref-type="bibr" rid="b72">72</xref>).</p>
+         </sec>
+         <sec id="sPreprečevanje_globoke_venske_tromboze"
+              sec-type="Preprečevanje globoke venske tromboze">
+            <title>Preprečevanje globoke venske tromboze</title>
+            <p>Pri vseh bolnikih s HAP se priporoča profilaksa globoke venske tromboze (<xref ref-type="bibr" rid="b6">6</xref>). Povečevanje prokoagulantnih vnetnih mediatorjev, venska staza, krčenje različnih žil v tem področju in masnem učinku zaradi vnete in otekle trebušne slinavke prispeva k nastanku tromboze vranične in/ali portalne vene, ki se pojavi v do 20 % med potekom bolezni. Ko je diagnoza potrjena, se začne terapevtsko zdravljenje s heparinom. Standardni nefrakcionirani heparin ima prednosti pred nizkomolekularnim heparinom, saj je poceni, odmerjanje je enostavno, ima predvidljivo kinetiko in razpoložljivi antidot, ki pride v poštev predvsem zaradi velikokrat ponavljajočih se kirurški posegov (<xref ref-type="bibr" rid="b73">73</xref>).</p>
+         </sec>
+         <sec id="sKirurško_zdravljenje" sec-type="Kirurško zdravljenje">
+            <title>Kirurško zdravljenje</title>
+            <p>
+               <italic>Endoskopska nekrozektomija. </italic>Endoskopsko transgastrično resekcijo (ETR) so pred kratkim dodali na seznam zdravljenja nekroz trebušne slinavke. V primerjavi z odprto kirurgijo je manjša randomizirana študija dokazala, da je pri ETR manj pridruženih velikih zapletov (20 % proti 80 %) in manjkrat nastanejo fistule na trebušni slinavki (10 % proti 70 %) ter da le manjšino bolnikov, obravnavanih z ETR, po posegu premestijo v EIT (<xref ref-type="bibr" rid="b2">2</xref>). Čeprav so ti rezultati zelo obetajoči, je potrebno pravo vlogo ETR v široki paleti bolnikov s hudo obliko AP še podrobneje opredeliti. Ta ukrep je predvsem dolgotrajen in zahteva veliko postopkov za dreiranje in odstranitev mrtvine.</p>
+            <p>
+               <italic>Minimalno invazivna kirurgija. </italic>Minimalno invazivno retroperitonealno nekrosektomijo trebušne slinavke so tudi pred kratkim uvedli kot način zdravljenja HAP, da bi se izognili transperitonealnemu pristopu (<xref ref-type="bibr" rid="b1">1</xref>,<xref ref-type="bibr" rid="b42">42</xref>). Po uvedbi perkutanega drena pod kontrolo CT, se ta dren uporablja kot vodilo za retroperitonealni endoskopski pristop. Čeprav ima ta tehnika svoje omejitve, pa je že več študij objavilo odlične rezultate pri izbranih bolnikih. Ta minimalno invazivni pristop predstavlja tudi drugi del naprednega pristopa, ki ga je predstavila nizozemska delovna skupina za akutni pankreatitis (<xref ref-type="bibr" rid="b38">38</xref>). Pri tej metodi gre za atraktivno tehniko, če so nekroze dostopne za retroperitonealni pristop, kot so npr. nekroze glave trebušne slinavke (<xref ref-type="bibr" rid="b74">74</xref>).</p>
+            <p>
+               <italic>Kirurški odprti pristop. </italic>Raziskave so pokazale visoko obolevnost in umrljivost po odprtem kirurškem pristopu, ki se zato odsvetuje v vseh primerih, ko bolnikovo stanje to sploh dopušča. Kirurško zdravljenje je najpogosteje potrebno v primeru okuženih nekroz, ki pa morajo biti dobro omejene. Najpogostejša zapleta pri odprtem kirurškem pristopu sta fistula trebušne slinavke in poškodba črevesja.</p>
+            <p>Doslej, razen raziskave PANTER, ni randomiziranih raziskav, ki bi primerjale različne kirurške pristope, zato je tudi retrospektivna analiza s tega področja pomanjkljiva, torej nekih dobro utemeljenih zaključkov še ni (<xref ref-type="bibr" rid="b1">1</xref>,<xref ref-type="bibr" rid="b3">3</xref>). Pri bolnikih, operiranih z minimalno invazivno tehniko, je bilo tveganje za odpovedovanje organov občutno manjše [OR 0,16, ob 90 % intervalu zaupanja (CI) 0,06–0,39] (<xref ref-type="bibr" rid="b1">1</xref>).</p>
+         </sec>
+      </sec>
+      <sec id="sZaključek" sec-type="Zaključek">
+         <title>Zaključek</title>
+         <p>V intenzivni medicini je HAP še vedno težko klinično stanje s pogostimi zapleti in visoko smrtnostjo. Glavna patofiziološka mehanizma, ki vplivata na končni izid, sta nekontrolirani sistemski vnetni odgovor, ki se začne že v zgodnji fazi, in okužba nekroze trebušne slinavke v kasnejših fazah bolezni. Pred- in pooperativni nadzor bolnikov s HAP mora vsebovati intenzivno spremljanje in pravočasno podporno zdravljenje za zmanjševanje okvare različnih organskih sistemov. Pravočasno prepoznavanje in zdravljenje možnih zapletov, še posebej okužb, izboljša izid te hude bolezni.</p>
+      </sec>
+   </body>
+   <back>
+      <ref-list>
+         <ref id="b1">
+            <label>1.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>De Waele</surname> 
+                     <given-names>JJ</given-names>
+                  </string-name>
+               </person-group>. <article-title>Acute pancreatitis</article-title>. <source>Curr Opin Crit Care</source>. <year>2014</year> 
+               <month>Apr</month>;<volume>20</volume>(<issue>2</issue>):<fpage>189</fpage>–<lpage>95</lpage>. <pub-id pub-id-type="doi">10.1097/MCC.0000000000000068</pub-id>
+               <pub-id pub-id-type="pmid">24553339</pub-id>
+               <issn>1070-5295</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b2">
+            <label>2.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Bakker</surname> 
+                     <given-names>OJ</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>van Santvoort</surname> 
+                     <given-names>HC</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>van Brunschot</surname> 
+                     <given-names>S</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Geskus</surname> 
+                     <given-names>RB</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Besselink</surname> 
+                     <given-names>MG</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Bollen</surname> 
+                     <given-names>TL</given-names>
+                  </string-name>, <etal>et al.</etal>; <collab>Dutch Pancreatitis Study Group</collab>
+               </person-group>. <article-title>Endoscopic transgastric vs surgical necrosectomy for infected necrotizing pancreatitis: a randomized trial</article-title>. <source>JAMA</source>. <year>2012</year> 
+               <month>Mar</month>;<volume>307</volume>(<issue>10</issue>):<fpage>1053</fpage>–<lpage>61</lpage>. <pub-id pub-id-type="doi">10.1001/jama.2012.276</pub-id>
+               <pub-id pub-id-type="pmid">22416101</pub-id>
+               <issn>0098-7484</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b3">
+            <label>3.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Besselink</surname> 
+                     <given-names>MG</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>van Santvoort</surname> 
+                     <given-names>HC</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Witteman</surname> 
+                     <given-names>BJ</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Gooszen</surname> 
+                     <given-names>HG</given-names>
+                  </string-name>; <collab>Dutch Acute Pancreatitis Study Group</collab>
+               </person-group>. <article-title>Management of severe acute pancreatitis: it’s all about timing</article-title>. <source>Curr Opin Crit Care</source>. <year>2007</year> 
+               <month>Apr</month>;<volume>13</volume>(<issue>2</issue>):<fpage>200</fpage>–<lpage>6</lpage>. <pub-id pub-id-type="doi">10.1097/MCC.0b013e328015b8af</pub-id>
+               <pub-id pub-id-type="pmid">17327743</pub-id>
+               <issn>1070-5295</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b4">
+            <label>4. </label>
+            <mixed-citation publication-type="book-chapter" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Lankisch</surname> 
+                     <given-names>PG</given-names>
+                  </string-name>
+               </person-group>. <chapter-title>Aetilology of acute pancreatitis</chapter-title>. In: <person-group person-group-type="editor">
+                  <string-name name-style="western">
+                     <surname>Glazer</surname> 
+                     <given-names>G</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Ranson</surname> 
+                     <given-names>JH</given-names>
+                  </string-name>, <role>editors</role>
+               </person-group>. <source>Acute pancreatitis</source>. <publisher-loc>London</publisher-loc>: <publisher-name>Bailliere Tindall</publisher-name>; <year>1988</year>. pp. <fpage>167</fpage>–<lpage>81</lpage>.</mixed-citation>
+         </ref>
+         <ref id="b5">
+            <label>5. </label>
+            <mixed-citation publication-type="book-chapter" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Lankisch</surname> 
+                     <given-names>PG</given-names>
+                  </string-name>
+               </person-group>. <chapter-title>Pathogenesis of pancreatic inflammation</chapter-title>. In: <person-group person-group-type="editor">
+                  <string-name name-style="western">
+                     <surname>Glazer</surname> 
+                     <given-names>G</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Ranson</surname> 
+                     <given-names>JH</given-names>
+                  </string-name>, <role>editors</role>
+               </person-group>. <source>Acute pancreatitis</source>. <publisher-loc>London</publisher-loc>: <publisher-name>Bailliere Tindall</publisher-name>; <year>1988</year>. pp. <fpage>182</fpage>–<lpage>93</lpage>.</mixed-citation>
+         </ref>
+         <ref id="b6">
+            <label>6. </label>
+            <mixed-citation publication-type="book-chapter" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>McMahon</surname> 
+                     <given-names>MJ</given-names>
+                  </string-name>
+               </person-group>. <chapter-title>Acute pancreatitis</chapter-title>. In: <person-group person-group-type="editor">
+                  <string-name name-style="western">
+                     <surname>Misiewicz</surname> 
+                     <given-names>JJ</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Pounder</surname> 
+                     <given-names>RE</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Venables</surname> 
+                     <given-names>CW</given-names>
+                  </string-name>, <role>editors</role>
+               </person-group>. <source>Diseases of the gut and pancreas</source>. <publisher-loc>Oxford</publisher-loc>: <publisher-name>Blackwell</publisher-name>; <year>1994</year>. pp. <fpage>427</fpage>–<lpage>40</lpage>.</mixed-citation>
+         </ref>
+         <ref id="b7">
+            <label>7.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Voga</surname> 
+                     <given-names>G</given-names>
+                  </string-name>
+               </person-group>. <article-title>Ocena srčne funkcije in stanja cirkulacije pri kritično bolnih</article-title>. <source>Zdrav Vestn</source>. <year>2007</year>;<volume>76</volume>:<fpage>19</fpage>–<lpage>27</lpage>.<issn>0350-0063</issn>
+               <annotation>
+                  <p content-type="warning">Edifix has not found an issue number in the journal reference. Please check the volume/issue information. (Ref. 7 "Voga, 2007")</p>
+               </annotation>
+            </mixed-citation>
+         </ref>
+         <ref id="b8">
+            <label>8.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Magder</surname> 
+                     <given-names>S</given-names>
+                  </string-name>
+               </person-group>. <article-title>Invasive hemodynamic monitoring</article-title>. <source>Crit Care Clin</source>. <year>2015</year> 
+               <month>Jan</month>;<volume>31</volume>(<issue>1</issue>):<fpage>67</fpage>–<lpage>87</lpage>. <pub-id pub-id-type="doi">10.1016/j.ccc.2014.08.004</pub-id>
+               <pub-id pub-id-type="pmid">25435479</pub-id>
+               <issn>0749-0704</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b9">
+            <label>9.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Pinsky</surname> 
+                     <given-names>MR</given-names>
+                  </string-name>
+               </person-group>. <article-title>Functional hemodynamic monitoring</article-title>. <source>Crit Care Clin</source>. <year>2015</year> 
+               <month>Jan</month>;<volume>31</volume>(<issue>1</issue>):<fpage>89</fpage>–<lpage>111</lpage>. <pub-id pub-id-type="doi">10.1016/j.ccc.2014.08.005</pub-id>
+               <pub-id pub-id-type="pmid">25435480</pub-id>
+               <issn>0749-0704</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b10">
+            <label>10.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Cecconi</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <etal>et al.</etal>
+               </person-group> 
+               <article-title>Consensus on circulatory shock and hemodynamic monitoring. Task force of the ESICM</article-title>. <source>Intensive Care Med</source>. <year>2014</year>;<volume>40</volume>:<fpage>1795</fpage>–<lpage>815</lpage>. <pub-id pub-id-type="doi">10.1007/s00134-014-3525-z</pub-id>
+               <pub-id pub-id-type="pmid">25392034</pub-id>
+               <issn>0342-4642</issn>
+               <annotation>
+                  <p content-type="warning">Edifix has not updated this reference because the article title in PubMed significantly differs from the author's original. The PubMed reference is <underline>Cecconi M, De Backer D, Antonelli M, Beale R, Bakker J, Hofer C, et al. Consensus on circulatory shock and hemodynamic monitoring. Task force of the European Society of Intensive Care Medicine. Intensive Care Med. 2014 Dec;40(12):1795–815</underline>. (Ref. 10 "Cecconi, et al., 2014")</p>
+               </annotation>
+            </mixed-citation>
+         </ref>
+         <ref id="b11">
+            <label>11.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Blum</surname> 
+                     <given-names>T</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Maisonneuve</surname> 
+                     <given-names>P</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Lowenfels</surname> 
+                     <given-names>AB</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Lankisch</surname> 
+                     <given-names>PG</given-names>
+                  </string-name>
+               </person-group>. <article-title>Fatal outcome in acute pancreatitis: its occurrence and early prediction</article-title>. <source>Pancreatology</source>. <year>2001</year>;<volume>1</volume>(<issue>3</issue>):<fpage>237</fpage>–<lpage>41</lpage>. <pub-id pub-id-type="doi">10.1159/000055817</pub-id>
+               <pub-id pub-id-type="pmid">12120201</pub-id>
+               <issn>1424-3903</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b12">
+            <label>12.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Mutinga</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Rosenbluth</surname> 
+                     <given-names>A</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Tenner</surname> 
+                     <given-names>SM</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Odze</surname> 
+                     <given-names>RR</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Sica</surname> 
+                     <given-names>GT</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Banks</surname> 
+                     <given-names>PA</given-names>
+                  </string-name>
+               </person-group>. <article-title>Does mortality occur early or late in acute pancreatitis?</article-title> 
+               <source>Int J Pancreatol</source>. <year>2000</year> 
+               <month>Oct</month>;<volume>28</volume>(<issue>2</issue>):<fpage>91</fpage>–<lpage>5</lpage>. <pub-id pub-id-type="doi">10.1385/IJGC:28:2:091</pub-id>
+               <pub-id pub-id-type="pmid">11128978</pub-id>
+               <issn>0169-4197</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b13">
+            <label>13.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Wu</surname> 
+                     <given-names>BU</given-names>
+                  </string-name>
+               </person-group>. <article-title>Editorial: fluid resuscitation in acute pancreatitis: striking the right balance</article-title>. <source>Am J Gastroenterol</source>. <year>2011</year> 
+               <month>Oct</month>;<volume>106</volume>(<issue>10</issue>):<fpage>1851</fpage>–<lpage>2</lpage>. <pub-id pub-id-type="doi">10.1038/ajg.2011.241</pub-id>
+               <pub-id pub-id-type="pmid">21979206</pub-id>
+               <issn>0002-9270</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b14">
+            <label>14.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Cherpanath</surname> 
+                     <given-names>TG</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Geerts</surname> 
+                     <given-names>BF</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Lagrand</surname> 
+                     <given-names>WK</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Schultz</surname> 
+                     <given-names>MJ</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Groeneveld</surname> 
+                     <given-names>AB</given-names>
+                  </string-name>
+               </person-group>. <article-title>Basic concepts of fluid responsiveness</article-title>. <source>Neth Heart J</source>. <year>2013</year> 
+               <month>Dec</month>;<volume>21</volume>(<issue>12</issue>):<fpage>530</fpage>–<lpage>6</lpage>. <pub-id pub-id-type="doi">10.1007/s12471-013-0487-7</pub-id>
+               <pub-id pub-id-type="pmid">24170232</pub-id>
+               <issn>1568-5888</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b15">
+            <label>15.	</label>
+            <mixed-citation publication-type="conference" specific-use="unparsed">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Grassi</surname> 
+                     <given-names>P</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Lo Nigro</surname> 
+                     <given-names>L</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Berlot</surname> 
+                     <given-names>G</given-names>
+                  </string-name>, <etal>et al.</etal>
+               </person-group> 
+               <article-title>Pulse pressure variation as a predictor of fluid responsiveness in mechanically ventilated patients with spontaneous breathing activity: a pragmatic observational study.</article-title> HCR Proc Intensive Care Cardiovasc Anesth. <year>2013</year>; 5(2): 98–109.</mixed-citation>
+         </ref>
+         <ref id="b16">
+            <label>16.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <article-title>Working group IAP/APA acute pancreatitis guidelines. IAP/APA evidence-based guidelines for management of acute pancreatitis</article-title>. <source>Pancreatology</source>. <year>2013</year>;<volume>13</volume>(<issue>4</issue>):<fpage>1</fpage>–<lpage>15</lpage>. <pub-id pub-id-type="doi">10.1016/j.pan.2013.07.063</pub-id>
+               <issn>1424-3903</issn>
+               <annotation>
+                  <p content-type="warning">Crossref reports the title is "<underline>IAP/APA evidence-based guidelines for the management of acute pancreatitis</underline>". (Ref. 16 "Working group IAP/APA acute, 2013")</p>
+                  <p content-type="warning">Crossref reports the first page should be "e1", not "1". (Ref. 16 "Working group IAP/APA acute, 2013")</p>
+                  <p content-type="warning">This reference lacks authors. Please proof carefully. (Ref. 16 "Working group IAP/APA acute, 2013")</p>
+               </annotation>
+            </mixed-citation>
+         </ref>
+         <ref id="b17">
+            <label>17.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Wu</surname> 
+                     <given-names>BU</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Hwang</surname> 
+                     <given-names>JQ</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Gardner</surname> 
+                     <given-names>TH</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Repas</surname> 
+                     <given-names>K</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Delee</surname> 
+                     <given-names>R</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Yu</surname> 
+                     <given-names>S</given-names>
+                  </string-name>, <etal>et al.</etal>
+               </person-group> 
+               <article-title>Lactated Ringer’s solution reduces systemic inflammation compared with saline in patients with acute pancreatitis</article-title>. <source>Clin Gastroenterol Hepatol</source>. <year>2011</year> 
+               <month>Aug</month>;<volume>9</volume>(<issue>8</issue>):<fpage>710</fpage>–<lpage>717.e1</lpage>. <pub-id pub-id-type="doi">10.1016/j.cgh.2011.04.026</pub-id>
+               <pub-id pub-id-type="pmid">21645639</pub-id>
+               <issn>1542-3565</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b18">
+            <label>18.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Perel</surname> 
+                     <given-names>P</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Roberts</surname> 
+                     <given-names>I</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Ker</surname> 
+                     <given-names>K</given-names>
+                  </string-name>
+               </person-group>. <article-title>Colloids versus crysalloids for fluid resuscitation in critically ill patients. Cohrane database</article-title>. <source>Syst Rev</source>. <year>2013</year>;<volume>•••</volume>:<fpage>CD000567</fpage>.<issn>2046-4053</issn>
+               <annotation>
+                  <p content-type="warning">Edifix has not found an issue number in the journal reference. Please check the volume/issue information. (Ref. 18 "Perel, Roberts, Ker, 2013")</p>
+               </annotation>
+            </mixed-citation>
+         </ref>
+         <ref id="b19">
+            <label>19.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Pelosi</surname> 
+                     <given-names>P</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Gama de Abreu</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Rocco</surname> 
+                     <given-names>PR</given-names>
+                  </string-name>
+               </person-group>. <article-title>New and conventional strategies for lung recruitment in acute respiratory distress syndrome</article-title>. <source>Crit Care</source>. <year>2010</year>;<volume>14</volume>(<issue>2</issue>):<fpage>210</fpage>–<lpage>6</lpage>. <pub-id pub-id-type="doi">10.1186/cc8851</pub-id>
+               <pub-id pub-id-type="pmid">20236454</pub-id>
+               <issn>1364-8535</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b20">
+            <label>20.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Umbrello</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Formenti</surname> 
+                     <given-names>P</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Bolgiaghi</surname> 
+                     <given-names>L</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Chiumello</surname> 
+                     <given-names>D</given-names>
+                  </string-name>
+               </person-group>. <article-title>Current concepts of ARDS: A narrative review</article-title>. <source>Int J Mol Sci</source>. <year>2016</year> 
+               <month>Dec</month>;<volume>18</volume>(<issue>1</issue>):<fpage>1</fpage>–<lpage>20</lpage>. <pub-id pub-id-type="doi">10.3390/ijms18010064</pub-id>
+               <pub-id pub-id-type="pmid">28036088</pub-id>
+               <issn>1661-6596</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b21">
+            <label>21.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Talmor</surname> 
+                     <given-names>D</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Sarge</surname> 
+                     <given-names>T</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Malhotra</surname> 
+                     <given-names>A</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>O’Donnell</surname> 
+                     <given-names>CR</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Ritz</surname> 
+                     <given-names>R</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Lisbon</surname> 
+                     <given-names>A</given-names>
+                  </string-name>, <etal>et al.</etal>
+               </person-group> 
+               <article-title>Mechanical ventilation guided by esophageal pressure in acute lung injury</article-title>. <source>N Engl J Med</source>. <year>2008</year> 
+               <month>Nov</month>;<volume>359</volume>(<issue>20</issue>):<fpage>2095</fpage>–<lpage>104</lpage>. <pub-id pub-id-type="doi">10.1056/NEJMoa0708638</pub-id>
+               <pub-id pub-id-type="pmid">19001507</pub-id>
+               <issn>0028-4793</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b22">
+            <label>22.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Pelosi</surname> 
+                     <given-names>P</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Vargas</surname> 
+                     <given-names>M</given-names>
+                  </string-name>
+               </person-group>. <article-title>Mechanical ventilation and intra-abdominal hypertension: ‘Beyond Good and Evil’</article-title>. <source>Crit Care</source>. <year>2012</year> 
+               <month>Dec</month>;<volume>16</volume>(<issue>6</issue>):<fpage>187</fpage>. <pub-id pub-id-type="doi">10.1186/cc11874</pub-id>
+               <pub-id pub-id-type="pmid">23256904</pub-id>
+               <issn>1364-8535</issn>
+               <annotation>
+                  <p content-type="warning">The page range was updated but differs from the author's original: <underline>18–8</underline>. (Ref. 22 "Pelosi, Vargas, 2012")</p>
+               </annotation>
+            </mixed-citation>
+         </ref>
+         <ref id="b23">
+            <label>23.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Ruiz Ferrón</surname> 
+                     <given-names>F</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Tejero Pedregosa</surname> 
+                     <given-names>A</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Ruiz García</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Ferrezuelo Mata</surname> 
+                     <given-names>A</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Pérez Valenzuela</surname> 
+                     <given-names>J</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Quirós Barrera</surname> 
+                     <given-names>R</given-names>
+                  </string-name>, <etal>et al.</etal>
+               </person-group> 
+               <article-title>[Intraabdominal and thoracic pressure in critically ill patients with suspected intraabdominal hypertension]</article-title>. <source>Med Intensiva</source>. <year>2011</year> 
+               <month>Jun-Jul</month>;<volume>35</volume>(<issue>5</issue>):<fpage>274</fpage>–<lpage>9</lpage>. <pub-id pub-id-type="doi">10.1016/j.medine.2011.02.001</pub-id>
+               <pub-id pub-id-type="pmid">21497415</pub-id>
+               <issn>0210-5691</issn>
+               <annotation>
+                  <p content-type="warning">PubMed reports the vernacular (Spanish) article title is <underline>Presión intraabdominal y torácica en pacientes críticos con sospecha de hipertensión intraabdominal.</underline>. (Ref. 23 "Ruiz Ferrón, Tejero Pedregosa, Ruiz García, Ferrezuelo Mata, Pérez Valenzuela, Quirós Barrera, et al., 2011")</p>
+               </annotation>
+            </mixed-citation>
+         </ref>
+         <ref id="b24">
+            <label>24.	</label>
+            <mixed-citation publication-type="book-chapter" specific-use="unparsed">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Mirković</surname> 
+                     <given-names>T</given-names>
+                  </string-name>
+               </person-group>. <chapter-title>Akutni pankreatitis.</chapter-title> In:Pavel-Eržen V, ur. 22.tečaj CEEA. Ljubljna: Slovensko združenje za anesteziologijo in intenzivno medicino, Slovensko zdravniško društvo; <year>2014</year>. p. 73 –90.<annotation>
+                  <p content-type="warning">Edifix Bibliographic Reference Processing failed to fully style this reference. Please check the copyediting. (Ref. 24 "Mirković, 2014")</p>
+               </annotation>
+            </mixed-citation>
+         </ref>
+         <ref id="b25">
+            <label>25.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Kirkpatrick</surname> 
+                     <given-names>AW</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Roberts</surname> 
+                     <given-names>DJ</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>De Waele</surname> 
+                     <given-names>J</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Jaeschke</surname> 
+                     <given-names>R</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Malbrain</surname> 
+                     <given-names>ML</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>De Keulenaer</surname> 
+                     <given-names>B</given-names>
+                  </string-name>, <etal>et al.</etal>; <collab>Pediatric Guidelines Sub-Committee for the World Society of the Abdominal Compartment Syndrome</collab>
+               </person-group>. <article-title>Intra-abdominal hypertension and the abdominal compartment syndrome: updated consensus definitions and clinical practice guidelines from the World Society of the Abdominal Compartment Syndrome</article-title>. <source>Intensive Care Med</source>. <year>2013</year> 
+               <month>Jul</month>;<volume>39</volume>(<issue>7</issue>):<fpage>1190</fpage>–<lpage>206</lpage>. <pub-id pub-id-type="doi">10.1007/s00134-013-2906-z</pub-id>
+               <pub-id pub-id-type="pmid">23673399</pub-id>
+               <issn>0342-4642</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b26">
+            <label>26.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Chiumello</surname> 
+                     <given-names>D</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Gallazzi</surname> 
+                     <given-names>E</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Marino</surname> 
+                     <given-names>A</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Berto</surname> 
+                     <given-names>V</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Mietto</surname> 
+                     <given-names>C</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Cesana</surname> 
+                     <given-names>B</given-names>
+                  </string-name>, <etal>et al.</etal>
+               </person-group> 
+               <article-title>A validation study of a new nasogastric polyfunctional catheter</article-title>. <source>Intensive Care Med</source>. <year>2011</year> 
+               <month>May</month>;<volume>37</volume>(<issue>5</issue>):<fpage>791</fpage>–<lpage>5</lpage>. <pub-id pub-id-type="doi">10.1007/s00134-011-2178-4</pub-id>
+               <pub-id pub-id-type="pmid">21365314</pub-id>
+               <issn>0342-4642</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b27">
+            <label>27.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>De Waele</surname> 
+                     <given-names>JJ</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Hoste</surname> 
+                     <given-names>EA</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Malbrain</surname> 
+                     <given-names>ML</given-names>
+                  </string-name>
+               </person-group>. <article-title>Decompressive laparotomy for abdominal compartment syndrome—a critical analysis</article-title>. <source>Crit Care</source>. <year>2006</year>;<volume>10</volume>(<issue>2</issue>):<fpage>R51</fpage>. <pub-id pub-id-type="doi">10.1186/cc4870</pub-id>
+               <pub-id pub-id-type="pmid">16569255</pub-id>
+               <issn>1364-8535</issn>
+               <annotation>
+                  <p content-type="warning">The page range was updated but differs from the author's original: <underline>51–8</underline>. (Ref. 27 "De Waele, Hoste, Malbrain, 2006")</p>
+               </annotation>
+            </mixed-citation>
+         </ref>
+         <ref id="b28">
+            <label>28.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Leppäniemi</surname> 
+                     <given-names>A</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Mentula</surname> 
+                     <given-names>P</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Hienonen</surname> 
+                     <given-names>P</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Kemppainen</surname> 
+                     <given-names>E</given-names>
+                  </string-name>
+               </person-group>. <article-title>Transverse laparostomy is feasible and effective in the treatment of abdominal compartment syndrome in severe acute pancreatitis</article-title>. <source>World J Emerg Surg</source>. <year>2008</year> 
+               <month>Jan</month>;<volume>3</volume>(<issue>1</issue>):<fpage>6</fpage>. <pub-id pub-id-type="doi">10.1186/1749-7922-3-6</pub-id>
+               <pub-id pub-id-type="pmid">18234076</pub-id>
+               <issn>1749-7922</issn>
+               <annotation>
+                  <p content-type="warning">The page range was updated but differs from the author's original: <underline>3–6</underline>. (Ref. 28 "Leppäniemi, Mentula, Hienonen, Kemppainen, 2008")</p>
+               </annotation>
+            </mixed-citation>
+         </ref>
+         <ref id="b29">
+            <label>29.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Maher</surname> 
+                     <given-names>MM</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Lucey</surname> 
+                     <given-names>BC</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Gervais</surname> 
+                     <given-names>DA</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Mueller</surname> 
+                     <given-names>PR</given-names>
+                  </string-name>
+               </person-group>. <article-title>Acute pancreatitis: the role of imaging and interventional radiology</article-title>. <source>Cardiovasc Intervent Radiol</source>. <year>2004</year> 
+               <month>May-Jun</month>;<volume>27</volume>(<issue>3</issue>):<fpage>208</fpage>–<lpage>25</lpage>. <pub-id pub-id-type="doi">10.1007/s00270-003-1907-7</pub-id>
+               <pub-id pub-id-type="pmid">15024494</pub-id>
+               <issn>0174-1551</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b30">
+            <label>30.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Wittau</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Mayer</surname> 
+                     <given-names>B</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Scheele</surname> 
+                     <given-names>J</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Henne-Bruns</surname> 
+                     <given-names>D</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Dellinger</surname> 
+                     <given-names>EP</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Isenmann</surname> 
+                     <given-names>R</given-names>
+                  </string-name>
+               </person-group>. <article-title>Systematic review and meta-analysis of antibiotic prophylaxis in severe acute pancreatitis</article-title>. <source>Scand J Gastroenterol</source>. <year>2011</year> 
+               <month>Mar</month>;<volume>46</volume>(<issue>3</issue>):<fpage>261</fpage>–<lpage>70</lpage>. <pub-id pub-id-type="doi">10.3109/00365521.2010.531486</pub-id>
+               <pub-id pub-id-type="pmid">21067283</pub-id>
+               <issn>0036-5521</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b31">
+            <label>31.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Villatoro</surname> 
+                     <given-names>E</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Mulla</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Larvin</surname> 
+                     <given-names>M</given-names>
+                  </string-name>
+               </person-group>. <article-title>Antibiotic therapy for prophylaxis against infection of pancreatic necrosis in acute pancreatitis</article-title>. <source>Cochrane Database Syst Rev</source>. <year>2010</year> 
+               <month>May</month>;<volume>12</volume>(<issue>5</issue>):<fpage>CD002941</fpage>. <pub-id pub-id-type="doi">10.1002/14651858.CD002941.pub3</pub-id>
+               <pub-id pub-id-type="pmid">20464721</pub-id>
+               <issn>1469-493X</issn>
+               <annotation>
+                  <p content-type="warning">CrossMark reports an erratum (or similar issue). The CrossMark type is "new_version". Additional information can be found at https://doi.org/10.1002/14651858.CD002941.pub2. (Ref. 31 "Villatoro, Mulla, Larvin, 2010")</p>
+               </annotation>
+            </mixed-citation>
+         </ref>
+         <ref id="b32">
+            <label>32.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Jiang</surname> 
+                     <given-names>K</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Huang</surname> 
+                     <given-names>W</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Yang</surname> 
+                     <given-names>XN</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Xia</surname> 
+                     <given-names>Q</given-names>
+                  </string-name>
+               </person-group>. <article-title>Present and future of prophylactic antibiotics for severe acute pancreatitis</article-title>. <source>World J Gastroenterol</source>. <year>2012</year> 
+               <month>Jan</month>;<volume>18</volume>(<issue>3</issue>):<fpage>279</fpage>–<lpage>84</lpage>. <pub-id pub-id-type="doi">10.3748/wjg.v18.i3.279</pub-id>
+               <pub-id pub-id-type="pmid">22294832</pub-id>
+               <issn>1007-9327</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b33">
+            <label>33.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Wittau</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Mayer</surname> 
+                     <given-names>B</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Scheele</surname> 
+                     <given-names>J</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Henne-Bruns</surname> 
+                     <given-names>D</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Dellinger</surname> 
+                     <given-names>EP</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Isenmann</surname> 
+                     <given-names>R</given-names>
+                  </string-name>
+               </person-group>. <article-title>Systematic review and meta-analysis of antibiotic prophylaxis in severe acute pancreatitis</article-title>. <source>Scand J Gastroenterol</source>. <year>2011</year> 
+               <month>Mar</month>;<volume>46</volume>(<issue>3</issue>):<fpage>261</fpage>–<lpage>70</lpage>. <pub-id pub-id-type="doi">10.3109/00365521.2010.531486</pub-id>
+               <pub-id pub-id-type="pmid">21067283</pub-id>
+               <issn>0036-5521</issn>
+               <annotation>
+                  <p content-type="warning">Reference 33 "Wittau, Mayer, Scheele, Henne-Bruns, Dellinger, Isenmann, 2011" is a duplicate. Please compare it to reference 30.</p>
+               </annotation>
+            </mixed-citation>
+         </ref>
+         <ref id="b34">
+            <label>34.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Maraví-Poma</surname> 
+                     <given-names>E</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Gener</surname> 
+                     <given-names>J</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Alvarez-Lerma</surname> 
+                     <given-names>F</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Olaechea</surname> 
+                     <given-names>P</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Blanco</surname> 
+                     <given-names>A</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Domínguez-Muñoz</surname> 
+                     <given-names>JE</given-names>
+                  </string-name>; <collab>Spanish Group for the Study of Septic Complications in Severe Acute Pancreatitis</collab>
+               </person-group>. <article-title>Early antibiotic treatment (prophylaxis) of septic complications in severe acute necrotizing pancreatitis: a prospective, randomized, multicenter study comparing two regimens with imipenem-cilastatin</article-title>. <source>Intensive Care Med</source>. <year>2003</year> 
+               <month>Nov</month>;<volume>29</volume>(<issue>11</issue>):<fpage>1974</fpage>–<lpage>80</lpage>. <pub-id pub-id-type="doi">10.1007/s00134-003-1956-z</pub-id>
+               <pub-id pub-id-type="pmid">14551680</pub-id>
+               <issn>0342-4642</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b35">
+            <label>35.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Greenberg</surname> 
+                     <given-names>JA</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Hsu</surname> 
+                     <given-names>J</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Bawazeer</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Marshall</surname> 
+                     <given-names>J</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Friedrich</surname> 
+                     <given-names>JO</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Nathens</surname> 
+                     <given-names>A</given-names>
+                  </string-name>, <etal>et al.</etal>
+               </person-group> 
+               <article-title>Clinical practice guideline: management of acute pancreatitis</article-title>. <source>Can J Surg</source>. <year>2016</year> 
+               <month>Apr</month>;<volume>59</volume>(<issue>2</issue>):<fpage>128</fpage>–<lpage>40</lpage>. <pub-id pub-id-type="doi">10.1503/cjs.015015</pub-id>
+               <pub-id pub-id-type="pmid">27007094</pub-id>
+               <issn>0008-428X</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b36">
+            <label>36.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Brattström</surname> 
+                     <given-names>C</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Malmborg</surname> 
+                     <given-names>AS</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Tydén</surname> 
+                     <given-names>G</given-names>
+                  </string-name>
+               </person-group>. <article-title>Penetration of imipenem into human pancreatic juice following single intravenous dose administration</article-title>. <source>Chemotherapy</source>. <year>1989</year>;<volume>35</volume>(<issue>2</issue>):<fpage>83</fpage>–<lpage>7</lpage>. <pub-id pub-id-type="doi">10.1159/000238652</pub-id>
+               <pub-id pub-id-type="pmid">2758871</pub-id>
+               <issn>0009-3157</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b37">
+            <label>37.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Wittau</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Wagner</surname> 
+                     <given-names>E</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Kaever</surname> 
+                     <given-names>V</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Koal</surname> 
+                     <given-names>T</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Henne-Bruns</surname> 
+                     <given-names>D</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Isenmann</surname> 
+                     <given-names>R</given-names>
+                  </string-name>
+               </person-group>. <article-title>Intraabdominal tissue concentration of ertapenem</article-title>. <source>J Antimicrob Chemother</source>. <year>2006</year> 
+               <month>Feb</month>;<volume>57</volume>(<issue>2</issue>):<fpage>312</fpage>–<lpage>6</lpage>. <pub-id pub-id-type="doi">10.1093/jac/dki459</pub-id>
+               <pub-id pub-id-type="pmid">16396920</pub-id>
+               <issn>0305-7453</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b38">
+            <label>38.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Wacke</surname> 
+                     <given-names>R</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Förster</surname> 
+                     <given-names>S</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Adam</surname> 
+                     <given-names>U</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Mundkowski</surname> 
+                     <given-names>RG</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Klar</surname> 
+                     <given-names>E</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Hopt</surname> 
+                     <given-names>UT</given-names>
+                  </string-name>, <etal>et al.</etal>
+               </person-group> 
+               <article-title>Penetration of moxifloxacin into the human pancreas following a single intravenous or oral dose</article-title>. <source>J Antimicrob Chemother</source>. <year>2006</year> 
+               <month>Nov</month>;<volume>58</volume>(<issue>5</issue>):<fpage>994</fpage>–<lpage>9</lpage>. <pub-id pub-id-type="doi">10.1093/jac/dkl353</pub-id>
+               <pub-id pub-id-type="pmid">16956903</pub-id>
+               <issn>0305-7453</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b39">
+            <label>39.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Schubert</surname> 
+                     <given-names>S</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Dalhoff</surname> 
+                     <given-names>A</given-names>
+                  </string-name>
+               </person-group>. <article-title>Activity of moxifloxacin, imipenem, and ertapenem against Escherichia coli, Enterobacter cloacae, Enterococcus faecalis, and Bacteroides fragilis in monocultures and mixed cultures in an in vitro pharmacokinetic/pharmacodynamic model simulating concentrations in the human pancreas</article-title>. <source>Antimicrob Agents Chemother</source>. <year>2012</year> 
+               <month>Dec</month>;<volume>56</volume>(<issue>12</issue>):<fpage>6434</fpage>–<lpage>6</lpage>. <pub-id pub-id-type="doi">10.1128/AAC.00872-12</pub-id>
+               <pub-id pub-id-type="pmid">23070164</pub-id>
+               <issn>0066-4804</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b40">
+            <label>40.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Whitcomb</surname> 
+                     <given-names>DC</given-names>
+                  </string-name>
+               </person-group>. <article-title>Clinical practice. Acute pancreatitis</article-title>. <source>N Engl J Med</source>. <year>2006</year> 
+               <month>May</month>;<volume>354</volume>(<issue>20</issue>):<fpage>2142</fpage>–<lpage>50</lpage>. <pub-id pub-id-type="doi">10.1056/NEJMcp054958</pub-id>
+               <pub-id pub-id-type="pmid">16707751</pub-id>
+               <issn>0028-4793</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b41">
+            <label>41.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Gloor</surname> 
+                     <given-names>B</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Müller</surname> 
+                     <given-names>CA</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Worni</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Martignoni</surname> 
+                     <given-names>ME</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Uhl</surname> 
+                     <given-names>W</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Büchler</surname> 
+                     <given-names>MW</given-names>
+                  </string-name>
+               </person-group>. <article-title>Late mortality in patients with severe acute pancreatitis</article-title>. <source>Br J Surg</source>. <year>2001</year> 
+               <month>Jul</month>;<volume>88</volume>(<issue>7</issue>):<fpage>975</fpage>–<lpage>9</lpage>. <pub-id pub-id-type="doi">10.1046/j.0007-1323.2001.01813.x</pub-id>
+               <pub-id pub-id-type="pmid">11442530</pub-id>
+               <issn>0007-1323</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b42">
+            <label>42.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>van Santvoort</surname> 
+                     <given-names>HC</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Besselink</surname> 
+                     <given-names>MG</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Bakker</surname> 
+                     <given-names>OJ</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Hofker</surname> 
+                     <given-names>HS</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Boermeester</surname> 
+                     <given-names>MA</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Dejong</surname> 
+                     <given-names>CH</given-names>
+                  </string-name>, <etal>et al.</etal>; <collab>Dutch Pancreatitis Study Group</collab>
+               </person-group>. <article-title>A step-up approach or open necrosectomy for necrotizing pancreatitis</article-title>. <source>N Engl J Med</source>. <year>2010</year> 
+               <month>Apr</month>;<volume>362</volume>(<issue>16</issue>):<fpage>1491</fpage>–<lpage>502</lpage>. <pub-id pub-id-type="doi">10.1056/NEJMoa0908821</pub-id>
+               <pub-id pub-id-type="pmid">20410514</pub-id>
+               <issn>0028-4793</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b43">
+            <label>43.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Behrman</surname> 
+                     <given-names>SW</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Bahr</surname> 
+                     <given-names>MH</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Dickson</surname> 
+                     <given-names>PV</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Zarzaur</surname> 
+                     <given-names>BL</given-names>
+                  </string-name>
+               </person-group>. <article-title>The microbiology of secondary and postoperative pancreatic infections: implications for antimicrobial management</article-title>. <source>Arch Surg</source>. <year>2011</year> 
+               <month>May</month>;<volume>146</volume>(<issue>5</issue>):<fpage>613</fpage>–<lpage>9</lpage>. <pub-id pub-id-type="doi">10.1001/archsurg.2011.85</pub-id>
+               <pub-id pub-id-type="pmid">21576614</pub-id>
+               <issn>0004-0010</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b44">
+            <label>44.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Klein</surname> 
+                     <given-names>S</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Kinney</surname> 
+                     <given-names>J</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Jeejeebhoy</surname> 
+                     <given-names>K</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Alpers</surname> 
+                     <given-names>D</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Hellerstein</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Murray</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <etal>et al.</etal>
+               </person-group> 
+               <article-title>Nutrition support in clinical practice: review of published data and recommendations for future research directions. National Institutes of Health, American Society for Parenteral and Enteral Nutrition, and American Society for Clinical Nutrition</article-title>. <source>JPEN J Parenter Enteral Nutr</source>. <year>1997</year> 
+               <month>May-Jun</month>;<volume>21</volume>(<issue>3</issue>):<fpage>133</fpage>–<lpage>56</lpage>. <pub-id pub-id-type="doi">10.1177/0148607197021003133</pub-id>
+               <pub-id pub-id-type="pmid">9168367</pub-id>
+               <issn>0148-6071</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b45">
+            <label>45.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Singh</surname> 
+                     <given-names>VK</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Moran</surname> 
+                     <given-names>RA</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Afghani</surname> 
+                     <given-names>E</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>de-Madaria</surname> 
+                     <given-names>E</given-names>
+                  </string-name>
+               </person-group>. <article-title>Treating acute pancreatitis: what’s new?</article-title> 
+               <source>Expert Rev Gastroenterol Hepatol</source>. <year>2015</year> 
+               <month>Jul</month>;<volume>9</volume>(<issue>7</issue>):<fpage>901</fpage>–<lpage>11</lpage>. <pub-id pub-id-type="doi">10.1586/17474124.2015.1048225</pub-id>
+               <pub-id pub-id-type="pmid">25982517</pub-id>
+               <issn>1747-4124</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b46">
+            <label>46.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Janisch</surname> 
+                     <given-names>NH</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Gardner</surname> 
+                     <given-names>TB</given-names>
+                  </string-name>
+               </person-group>. <article-title>Advances in management of acute pancreatitis</article-title>. <source>Gastroenterol Clin North Am</source>. <year>2016</year> 
+               <month>Mar</month>;<volume>45</volume>(<issue>1</issue>):<fpage>1</fpage>–<lpage>8</lpage>. <pub-id pub-id-type="doi">10.1016/j.gtc.2015.10.004</pub-id>
+               <pub-id pub-id-type="pmid">26895677</pub-id>
+               <issn>0889-8553</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b47">
+            <label>47.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Fritz</surname> 
+                     <given-names>S</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Hackert</surname> 
+                     <given-names>T</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Hartwig</surname> 
+                     <given-names>W</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Rossmanith</surname> 
+                     <given-names>F</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Strobel</surname> 
+                     <given-names>O</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Schneider</surname> 
+                     <given-names>L</given-names>
+                  </string-name>, <etal>et al.</etal>
+               </person-group> 
+               <article-title>Bacterial translocation and infected pancreatic necrosis in acute necrotizing pancreatitis derives from small bowel rather than from colon</article-title>. <source>Am J Surg</source>. <year>2010</year> 
+               <month>Jul</month>;<volume>200</volume>(<issue>1</issue>):<fpage>111</fpage>–<lpage>7</lpage>. <pub-id pub-id-type="doi">10.1016/j.amjsurg.2009.08.019</pub-id>
+               <pub-id pub-id-type="pmid">20637344</pub-id>
+               <issn>0002-9610</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b48">
+            <label>48.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Petrov</surname> 
+                     <given-names>MS</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>van Santvoort</surname> 
+                     <given-names>HC</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Besselink</surname> 
+                     <given-names>MG</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>van der Heijden</surname> 
+                     <given-names>GJ</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Windsor</surname> 
+                     <given-names>JA</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Gooszen</surname> 
+                     <given-names>HG</given-names>
+                  </string-name>
+               </person-group>. <article-title>Enteral nutrition and the risk of mortality and infectious complications in patients with severe acute pancreatitis: a meta-analysis of randomized trials</article-title>. <source>Arch Surg</source>. <year>2008</year> 
+               <month>Nov</month>;<volume>143</volume>(<issue>11</issue>):<fpage>1111</fpage>–<lpage>7</lpage>. <pub-id pub-id-type="doi">10.1001/archsurg.143.11.1111</pub-id>
+               <pub-id pub-id-type="pmid">19015471</pub-id>
+               <issn>0004-0010</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b49">
+            <label>49.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Lodewijkx</surname> 
+                     <given-names>PJ</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Besselink</surname> 
+                     <given-names>MG</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Witteman</surname> 
+                     <given-names>BJ</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Schepers</surname> 
+                     <given-names>NJ</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Gooszen</surname> 
+                     <given-names>HG</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>van Santvoort</surname> 
+                     <given-names>HC</given-names>
+                  </string-name>, <etal>et al.</etal>
+               </person-group> 
+               <article-title>Nutrition in acute pancreatitis: a critical review Jacobson BC, Vander Vliet MB, Hughes MD, Maurer R, McManus K, Banks PA. A prospective, randomized trial of clear liquids versus low-fat solid diet as the initial meal in mild acute pancreatitis</article-title>. <source>Clin Gastroenterol Hepatol</source>. <year>2007</year>;<volume>5</volume>(<issue>8</issue>):<fpage>946</fpage>–<lpage>51</lpage>. <pub-id pub-id-type="doi">10.1016/j.cgh.2007.04.012</pub-id>
+               <issn>1542-3565</issn>
+               <annotation>
+                  <p content-type="warning">Edifix has not updated the authors because of a name mismatch. Please compare "Lodewijkx" with "Jacobson", "Besselink" with "Vander Vliet", "Witteman" with "Hughes", "Schepers" with "Maurer", "Gooszen" with "McManus", and "van Santvoort" with "Banks". The Crossref authors are <underline>Jacobson BC, Vander Vliet MB, Hughes MD, Maurer R, McManus K, Banks PA</underline>. (Ref. 49 "Lodewijkx, Besselink, Witteman, Schepers, Gooszen, van Santvoort, et al., 2007")</p>
+               </annotation>
+            </mixed-citation>
+         </ref>
+         <ref id="b50">
+            <label>50.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Muftuoglu</surname> 
+                     <given-names>MA</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Isikgor</surname> 
+                     <given-names>S</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Tosun</surname> 
+                     <given-names>S</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Saglam</surname> 
+                     <given-names>A</given-names>
+                  </string-name>
+               </person-group>. <article-title>Effects of probiotics on the severity of experimental acute pancreatitis</article-title>. <source>Eur J Clin Nutr</source>. <year>2006</year> 
+               <month>Apr</month>;<volume>60</volume>(<issue>4</issue>):<fpage>464</fpage>–<lpage>8</lpage>. <pub-id pub-id-type="doi">10.1038/sj.ejcn.1602338</pub-id>
+               <pub-id pub-id-type="pmid">16340953</pub-id>
+               <issn>0954-3007</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b51">
+            <label>51.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Barraud</surname> 
+                     <given-names>D</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Bollaert</surname> 
+                     <given-names>PE</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Gibot</surname> 
+                     <given-names>S</given-names>
+                  </string-name>
+               </person-group>. <article-title>Impact of the administration of probiotics on mortality in critically ill adult patients: a meta-analysis of randomized controlled trials</article-title>. <source>Chest</source>. <year>2013</year> 
+               <month>Mar</month>;<volume>143</volume>(<issue>3</issue>):<fpage>646</fpage>–<lpage>55</lpage>. <pub-id pub-id-type="doi">10.1378/chest.12-1745</pub-id>
+               <pub-id pub-id-type="pmid">23460153</pub-id>
+               <issn>0012-3692</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b52">
+            <label>52.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Lei</surname> 
+                     <given-names>QC</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Wang</surname> 
+                     <given-names>XY</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Xia</surname> 
+                     <given-names>XF</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Zheng</surname> 
+                     <given-names>HZ</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Bi</surname> 
+                     <given-names>JC</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Tian</surname> 
+                     <given-names>F</given-names>
+                  </string-name>, <etal>et al.</etal>
+               </person-group> 
+               <article-title>The role of omega-3 fatty acids in acute pancreatitis: a meta-analysis of randomized controlled trials</article-title>. <source>Nutrients</source>. <year>2015</year> 
+               <month>Mar</month>;<volume>7</volume>(<issue>4</issue>):<fpage>2261</fpage>–<lpage>73</lpage>. <pub-id pub-id-type="doi">10.3390/nu7042261</pub-id>
+               <pub-id pub-id-type="pmid">25835048</pub-id>
+               <issn>2072-6643</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b53">
+            <label>53.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Jafari</surname> 
+                     <given-names>T</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Feizi</surname> 
+                     <given-names>A</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Askari</surname> 
+                     <given-names>G</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Fallah</surname> 
+                     <given-names>AA</given-names>
+                  </string-name>
+               </person-group>. <article-title>Parenteral immunonutrition in patients with acute pancreatitis: a systematic review and meta-analysis</article-title>. <source>Clin Nutr</source>. <year>2015</year> 
+               <month>Feb</month>;<volume>34</volume>(<issue>1</issue>):<fpage>35</fpage>–<lpage>43</lpage>. <pub-id pub-id-type="doi">10.1016/j.clnu.2014.05.008</pub-id>
+               <pub-id pub-id-type="pmid">24931755</pub-id>
+               <issn>0261-5614</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b54">
+            <label>54.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Pérez</surname> 
+                     <given-names>S</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Pereda</surname> 
+                     <given-names>J</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Sabater</surname> 
+                     <given-names>L</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Sastre</surname> 
+                     <given-names>J</given-names>
+                  </string-name>
+               </person-group>. <article-title>Redox signaling in acute pancreatitis</article-title>. <source>Redox Biol</source>. <year>2015</year> 
+               <month>Aug</month>;<volume>5</volume>:<fpage>1</fpage>–<lpage>14</lpage>. <pub-id pub-id-type="doi">10.1016/j.redox.2015.01.014</pub-id>
+               <pub-id pub-id-type="pmid">25778551</pub-id>
+               <issn>2213-2317</issn>
+               <annotation>
+                  <p content-type="warning">Edifix has not found an issue number in the journal reference. Please check the volume/issue information. (Ref. 54 "Perez, Pereda, Sabater, Sastre, 2015")</p>
+               </annotation>
+            </mixed-citation>
+         </ref>
+         <ref id="b55">
+            <label>55.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Yao</surname> 
+                     <given-names>H</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>He</surname> 
+                     <given-names>C</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Deng</surname> 
+                     <given-names>L</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Liao</surname> 
+                     <given-names>G</given-names>
+                  </string-name>
+               </person-group>. <article-title>Enteral versus parenteral nutrition in critically ill patients with severe pancreatitis: a meta-analysis</article-title>. <source>Eur J Clin Nutr</source>. <year>2018</year> 
+               <month>Jan</month>;<volume>72</volume>(<issue>1</issue>):<fpage>66</fpage>–<lpage>8</lpage>. <pub-id pub-id-type="doi">10.1038/ejcn.2017.139</pub-id>
+               <pub-id pub-id-type="pmid">28901335</pub-id>
+               <issn>0954-3007</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b56">
+            <label>56.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Pan</surname> 
+                     <given-names>LL</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Li</surname> 
+                     <given-names>J</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Shamoon</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Bhatia</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Sun</surname> 
+                     <given-names>J</given-names>
+                  </string-name>
+               </person-group>. <article-title>Recent Advances on Nutrition in Treatment of Acute Pancreatitis</article-title>. <source>Front Immunol</source>. <year>2017</year> 
+               <month>Jun</month>;<volume>8</volume>:<fpage>762</fpage>. <pub-id pub-id-type="doi">10.3389/fimmu.2017.00762</pub-id>
+               <pub-id pub-id-type="pmid">28713382</pub-id>
+               <issn>1664-3224</issn>
+               <annotation>
+                  <p content-type="warning">CrossMark reports an erratum (or similar issue). The CrossMark type is "corrigendum". Additional information can be found at https://doi.org/10.3389/fimmu.2018.00849. (Ref. 56 "Pan, Li, Shamoon, Bhatia, Sun, 2017")</p>
+                  <p content-type="warning">Edifix has not found an issue number in the journal reference. Please check the volume/issue information. (Ref. 56 "Pan, Li, Shamoon, Bhatia, Sun, 2017")</p>
+               </annotation>
+            </mixed-citation>
+         </ref>
+         <ref id="b57">
+            <label>57.   </label>
+            <mixed-citation publication-type="unknown" specific-use="unparsed">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Feng</surname> 
+                     <given-names>P</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>He</surname> 
+                     <given-names>C</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Liao</surname> 
+                     <given-names>G</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Chen</surname> 
+                     <given-names>Y</given-names>
+                  </string-name>
+               </person-group>. Early enteral nutrition versus delayed enteral nutrition in acute pancreatitis A PRISMA-compliant systematic review and meta-analysis. Medicine <year>2017</year>; 96:46 (e8648)</mixed-citation>
+         </ref>
+         <ref id="b58">
+            <label>58.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Meier</surname> 
+                     <given-names>R</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Beglinger</surname> 
+                     <given-names>C</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Layer</surname> 
+                     <given-names>P</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Gullo</surname> 
+                     <given-names>L</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Keim</surname> 
+                     <given-names>V</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Laugier</surname> 
+                     <given-names>R</given-names>
+                  </string-name>, <etal>et al.</etal>; <collab>ESPEN Consensus Group</collab>; <collab>European Society of Parenteral and Enteral Nutrition</collab>
+               </person-group>. <article-title>ESPEN guidelines on nutrition in acute pancreatitis</article-title>. <source>Clin Nutr</source>. <year>2002</year> 
+               <month>Apr</month>;<volume>21</volume>(<issue>2</issue>):<fpage>173</fpage>–<lpage>83</lpage>. <pub-id pub-id-type="doi">10.1054/clnu.2002.0543</pub-id>
+               <pub-id pub-id-type="pmid">12056792</pub-id>
+               <issn>0261-5614</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b59">
+            <label>59.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Jakobs</surname> 
+                     <given-names>R</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Adamek</surname> 
+                     <given-names>MU</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>von Bubnoff</surname> 
+                     <given-names>AC</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Riemann</surname> 
+                     <given-names>JF</given-names>
+                  </string-name>; <collab>R. Jakobs, M. U. Adamek, A. C. Von</collab>
+               </person-group>. <article-title>Buprenorphine or procaine for pain relief in acute pancreatitis. A prospective randomized study</article-title>. <source>Scand J Gastroenterol</source>. <year>2000</year> 
+               <month>Dec</month>;<volume>35</volume>(<issue>12</issue>):<fpage>1319</fpage>–<lpage>23</lpage>. <pub-id pub-id-type="doi">10.1080/003655200453692</pub-id>
+               <pub-id pub-id-type="pmid">11199374</pub-id>
+               <issn>0036-5521</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b60">
+            <label>60.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Stevens</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Esler</surname> 
+                     <given-names>R</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Asher</surname> 
+                     <given-names>G</given-names>
+                  </string-name>
+               </person-group>. <article-title>Transdermal fentanyl for the management of acute pancreatitis pain</article-title>. <source>Appl Nurs Res</source>. <year>2002</year> 
+               <month>May</month>;<volume>15</volume>(<issue>2</issue>):<fpage>102</fpage>–<lpage>10</lpage>. <pub-id pub-id-type="doi">10.1053/apnr.2002.29532</pub-id>
+               <pub-id pub-id-type="pmid">11994827</pub-id>
+               <issn>0897-1897</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b61">
+            <label>61.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Kahl</surname> 
+                     <given-names>S</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Zimmermann</surname> 
+                     <given-names>S</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Pross</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Schulz</surname> 
+                     <given-names>HU</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Schmidt</surname> 
+                     <given-names>U</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Malfertheiner</surname> 
+                     <given-names>P</given-names>
+                  </string-name>
+               </person-group>. <article-title>Procaine hydrochloride fails to relieve pain in patients with acute pancreatitis</article-title>. <source>Digestion</source>. <year>2004</year>;<volume>69</volume>(<issue>1</issue>):<fpage>5</fpage>–<lpage>9</lpage>. <pub-id pub-id-type="doi">10.1159/000076541</pub-id>
+               <pub-id pub-id-type="pmid">14755147</pub-id>
+               <issn>0012-2823</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b62">
+            <label>62.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Mennecier</surname> 
+                     <given-names>D</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Ceppa</surname> 
+                     <given-names>F</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Sinayoko</surname> 
+                     <given-names>L</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Corberand</surname> 
+                     <given-names>D</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Harnois</surname> 
+                     <given-names>F</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Thiolet</surname> 
+                     <given-names>C</given-names>
+                  </string-name>, <etal>et al.</etal>
+               </person-group> 
+               <article-title>[Acute pancreatitis after treatment by celecoxib]</article-title>. <source>Gastroenterol Clin Biol</source>. <year>2007</year> 
+               <month>Aug-Sep</month>;<volume>31</volume>(<issue>8-9 Pt 1</issue>):<fpage>668</fpage>–<lpage>9</lpage>. <pub-id pub-id-type="doi">10.1016/S0399-8320(07)91915-6</pub-id>
+               <pub-id pub-id-type="pmid">17925765</pub-id>
+               <issn>0399-8320</issn>
+               <annotation>
+                  <p content-type="warning">PubMed reports the vernacular (French) article title is <underline>Pancréatite aiguë survenant après la prise de celecoxib.</underline>. (Ref. 62 "Mennecier, Ceppa, Sinayoko, Corberand, Harnois, Thiolet, et al., 2007")</p>
+               </annotation>
+            </mixed-citation>
+         </ref>
+         <ref id="b63">
+            <label>63.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Heluwaert</surname> 
+                     <given-names>F</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Pofelski</surname> 
+                     <given-names>J</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Germain</surname> 
+                     <given-names>E</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Roblin</surname> 
+                     <given-names>X</given-names>
+                  </string-name>
+               </person-group>. <article-title>[Piroxicam and acute pancreatitis]</article-title>. <source>Gastroenterol Clin Biol</source>. <year>2006</year> 
+               <month>Apr</month>;<volume>30</volume>(<issue>4</issue>):<fpage>635</fpage>–<lpage>6</lpage>. <pub-id pub-id-type="doi">10.1016/S0399-8320(06)73248-1</pub-id>
+               <pub-id pub-id-type="pmid">16733395</pub-id>
+               <issn>0399-8320</issn>
+               <annotation>
+                  <p content-type="warning">PubMed reports the vernacular (French) article title is <underline>Pancréatite aiguë au piroxicam.</underline>. (Ref. 63 "Heluwaert, Pofelski, Germain, Roblin, 2006")</p>
+               </annotation>
+            </mixed-citation>
+         </ref>
+         <ref id="b64">
+            <label>64.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Mété</surname> 
+                     <given-names>D</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Milon</surname> 
+                     <given-names>A</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Belon</surname> 
+                     <given-names>G</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Gatina</surname> 
+                     <given-names>JH</given-names>
+                  </string-name>
+               </person-group>. <article-title>[Acute pancreatitis and ketoprofen]</article-title>. <source>Gastroenterol Clin Biol</source>. <year>2001</year> 
+               <month>Jun-Jul</month>;<volume>25</volume>(<issue>6-7</issue>):<fpage>721</fpage>–<lpage>2</lpage>.<pub-id pub-id-type="pmid">11673744</pub-id>
+               <issn>0399-8320</issn>
+               <annotation>
+                  <p content-type="warning">PubMed reports the vernacular (French) article title is <underline>Pancréatite aiguë et kétoprofène.</underline>. (Ref. 64 "Mété, Milon, Belon, Gatina, 2001")</p>
+               </annotation>
+            </mixed-citation>
+         </ref>
+         <ref id="b65">
+            <label>65.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Aygencel</surname> 
+                     <given-names>G</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Akbuga</surname> 
+                     <given-names>B</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Keles</surname> 
+                     <given-names>A</given-names>
+                  </string-name>
+               </person-group>. <article-title>Acute pancreatitis following naproxen intake</article-title>. <source>Eur J Emerg Med</source>. <year>2006</year> 
+               <month>Dec</month>;<volume>13</volume>(<issue>6</issue>):<fpage>372</fpage>. <pub-id pub-id-type="doi">10.1097/01.mej.0000224428.51623.b2</pub-id>
+               <pub-id pub-id-type="pmid">17091064</pub-id>
+               <issn>0969-9546</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b66">
+            <label>66.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Murray</surname> 
+                     <given-names>B</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Carter</surname> 
+                     <given-names>R</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Imrie</surname> 
+                     <given-names>C</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Evans</surname> 
+                     <given-names>S</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>O’Suilleabhain</surname> 
+                     <given-names>C</given-names>
+                  </string-name>
+               </person-group>. <article-title>Diclofenac reduces the incidence of acute pancreatitis after endoscopic retrograde cholangiopancreatography</article-title>. <source>Gastroenterology</source>. <year>2003</year> 
+               <month>Jun</month>;<volume>124</volume>(<issue>7</issue>):<fpage>1786</fpage>–<lpage>91</lpage>. <pub-id pub-id-type="doi">10.1016/S0016-5085(03)00384-6</pub-id>
+               <pub-id pub-id-type="pmid">12806612</pub-id>
+               <issn>0016-5085</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b67">
+            <label>67.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Pezzilli</surname> 
+                     <given-names>R</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Morselli-Labate</surname> 
+                     <given-names>AM</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Corinaldesi</surname> 
+                     <given-names>R</given-names>
+                  </string-name>
+               </person-group>. <article-title>NSAIDs and Acute Pancreatitis: A Systematic Review</article-title>. <source>Pharmaceuticals (Basel)</source>. <year>2010</year> 
+               <month>Mar</month>;<volume>3</volume>(<issue>3</issue>):<fpage>558</fpage>–<lpage>71</lpage>. <pub-id pub-id-type="doi">10.3390/ph3030558</pub-id>
+               <pub-id pub-id-type="pmid">27713268</pub-id>
+               <issn>1424-8247</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b68">
+            <label>68.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Basurto Ona</surname> 
+                     <given-names>X</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Rigau Comas</surname> 
+                     <given-names>D</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Urrútia</surname> 
+                     <given-names>G</given-names>
+                  </string-name>
+               </person-group>. <article-title>Opioids for acute pancreatitis pain</article-title>. <source>Cochrane Database Syst Rev</source>. <year>2013</year> 
+               <month>Jul</month>;(<issue>7</issue>):<fpage>CD009179</fpage>.<pub-id pub-id-type="pmid">23888429</pub-id>
+               <issn>1469-493X</issn>
+               <annotation>
+                  <p content-type="warning">Edifix has not found a volume number in the journal reference. Please check the volume/issue information. (Ref. 68 "Basurto Ona, Rigau Comas, Urrútia, 2013")</p>
+               </annotation>
+            </mixed-citation>
+         </ref>
+         <ref id="b69">
+            <label>69.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Takeda</surname> 
+                     <given-names>K</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Takada</surname> 
+                     <given-names>T</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Kawarada</surname> 
+                     <given-names>Y</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Hirata</surname> 
+                     <given-names>K</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Mayumi</surname> 
+                     <given-names>T</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Yoshida</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <etal>et al.</etal>; <collab>JPN</collab>
+               </person-group>. <article-title>JPN Guidelines for the management of acute pancreatitis: medical management of acute pancreatitis</article-title>. <source>J Hepatobiliary Pancreat Surg</source>. <year>2006</year>;<volume>13</volume>(<issue>1</issue>):<fpage>42</fpage>–<lpage>7</lpage>. <pub-id pub-id-type="doi">10.1007/s00534-005-1050-8</pub-id>
+               <pub-id pub-id-type="pmid">16463210</pub-id>
+               <issn>0944-1166</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b70">
+            <label>70.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Bernhardt</surname> 
+                     <given-names>A</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Kortgen</surname> 
+                     <given-names>A</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Niesel</surname> 
+                     <given-names>HC</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Goertz</surname> 
+                     <given-names>A</given-names>
+                  </string-name>
+               </person-group>. <article-title>[Using epidural anesthesia in patients with acute pancreatitis—prospective study of 121 patients]</article-title>. <source>Anaesthesiol Reanim</source>. <year>2002</year>;<volume>27</volume>(<issue>1</issue>):<fpage>16</fpage>–<lpage>22</lpage>.<pub-id pub-id-type="pmid">11908096</pub-id>
+               <issn>0323-4983</issn>
+               <annotation>
+                  <p content-type="warning">PubMed reports the vernacular (German) article title is <underline>Anwendung der Epiduralanästhesie bei Patienten mit akuter Pankreatitis—Prospektive Untersuchung an 121 Patienten.</underline>. (Ref. 70 "Bernhardt, Kortgen, Niesel, Goertz, 2002")</p>
+               </annotation>
+            </mixed-citation>
+         </ref>
+         <ref id="b71">
+            <label>71.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Sielenkämper</surname> 
+                     <given-names>AW</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Eicker</surname> 
+                     <given-names>K</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Van Aken</surname> 
+                     <given-names>H</given-names>
+                  </string-name>
+               </person-group>. <article-title>Thoracic epidural anesthesia increases mucosal perfusion in ileum of rats</article-title>. <source>Anesthesiology</source>. <year>2000</year> 
+               <month>Sep</month>;<volume>93</volume>(<issue>3</issue>):<fpage>844</fpage>–<lpage>51</lpage>. <pub-id pub-id-type="doi">10.1097/00000542-200009000-00036</pub-id>
+               <pub-id pub-id-type="pmid">10969320</pub-id>
+               <issn>0003-3022</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b72">
+            <label>72.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Freise</surname> 
+                     <given-names>H</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Anthonsen</surname> 
+                     <given-names>S</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Fischer</surname> 
+                     <given-names>LG</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Van Aken</surname> 
+                     <given-names>HK</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Sielenkämper</surname> 
+                     <given-names>AW</given-names>
+                  </string-name>
+               </person-group>. <article-title>Continuous thoracic epidural anesthesia induces segmental sympathetic block in the awake rat</article-title>. <source>Anesth Analg</source>. <year>2005</year> 
+               <month>Jan</month>;<volume>100</volume>(<issue>1</issue>):<fpage>255</fpage>–<lpage>62</lpage>. <pub-id pub-id-type="doi">10.1213/01.ANE.0000140253.65577.1C</pub-id>
+               <pub-id pub-id-type="pmid">15616087</pub-id>
+               <issn>0003-2999</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b73">
+            <label>73.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Sadowski</surname> 
+                     <given-names>SM</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Andres</surname> 
+                     <given-names>A</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Morel</surname> 
+                     <given-names>P</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Schiffer</surname> 
+                     <given-names>E</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Frossard</surname> 
+                     <given-names>JL</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Platon</surname> 
+                     <given-names>A</given-names>
+                  </string-name>, <etal>et al.</etal>
+               </person-group> 
+               <article-title>Epidural anesthesia improves pancreatic perfusion and decreases the severity of acute pancreatitis</article-title>. <source>World J Gastroenterol</source>. <year>2015</year> 
+               <month>Nov</month>;<volume>21</volume>(<issue>43</issue>):<fpage>12448</fpage>–<lpage>56</lpage>. <pub-id pub-id-type="doi">10.3748/wjg.v21.i43.12448</pub-id>
+               <pub-id pub-id-type="pmid">26604652</pub-id>
+               <issn>1007-9327</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b74">
+            <label>74.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Banks</surname> 
+                     <given-names>PA</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Freeman</surname> 
+                     <given-names>ML</given-names>
+                  </string-name>; <collab>Practice Parameters Committee of the American College of Gastroenterology</collab>
+               </person-group>. <article-title>Practice guidelines in acute pancreatitis</article-title>. <source>Am J Gastroenterol</source>. <year>2006</year> 
+               <month>Oct</month>;<volume>101</volume>(<issue>10</issue>):<fpage>2379</fpage>–<lpage>400</lpage>. <pub-id pub-id-type="doi">10.1111/j.1572-0241.2006.00856.x</pub-id>
+               <pub-id pub-id-type="pmid">17032204</pub-id>
+               <issn>0002-9270</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b75">
+            <label>75.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Fong</surname> 
+                     <given-names>ZV</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Fagenholz</surname> 
+                     <given-names>PJ</given-names>
+                  </string-name>
+               </person-group>. <article-title>Minimally invasive debridement for infected pancreatic necrosis</article-title>. <source>J Gastrointest Surg</source>. <year>2018</year>.<pub-id pub-id-type="pmid">30097963</pub-id>
+               <issn>1091-255X</issn>
+               <annotation>
+                  <p content-type="warning">Edifix has not updated this reference because the year differs from the author original and the volume and first page are missing. The PubMed reference is <underline>Fong ZV, Fagenholz PJ. Minimally Invasive Debridement for Infected Pancreatic Necrosis. J Gastrointest Surg. 2019 Jan;23(1):185–91</underline>. (Ref. 75 "Fong, Fagenholz, 2018")</p>
+               </annotation>
+            </mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

@@ -1,0 +1,2393 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD with MathML3 v1.1 20151215//EN" "JATS-journalpublishing1-mathml3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink"
+         dtd-version="1.1"
+         xml:lang="sl"
+         article-type="other">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher-id">Zdrav Vestn</journal-id>
+         <journal-id journal-id-type="nlm-ta">Zdrav Vestn</journal-id>
+         <journal-id journal-id-type="doi">Zdrav Vestn</journal-id>
+         <journal-title-group>
+            <journal-title>Zdravniški vestnik</journal-title>
+            <trans-title-group xml:lang="en">
+               <trans-title>Slovenian Medical Journal</trans-title>
+            </trans-title-group>
+            <abbrev-journal-title>Zdrav Vestn</abbrev-journal-title>
+         </journal-title-group>
+         <issn publication-format="ppub" pub-type="ppub">1318-0347</issn>
+         <issn publication-format="epub" pub-type="epub">1581-0224</issn>
+         <issn-l>0350-0063</issn-l>
+         <publisher>
+            <publisher-name xml:lang="sl">Slovensko zdravniško društvo</publisher-name>
+            <publisher-name xml:lang="en">Slovenian Medical Association</publisher-name>
+            <publisher-loc xml:lang="sl">Ljubljana, Slovenia</publisher-loc>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.6016/ZdravVestn.2851</article-id>
+         <article-id pub-id-type="publisher-id">2851</article-id>
+         <article-categories>
+            <subj-group subj-group-type="discipline" xml:lang="en">
+               <subject>Medicine and health sciences</subject>
+               <subj-group>
+                  <subject>Oncology</subject>
+               </subj-group>
+            </subj-group>
+            <subj-group subj-group-type="discipline" xml:lang="sl">
+               <subject>Medicina/Zdravstvo</subject>
+               <subj-group>
+                  <subject>Onkologija</subject>
+               </subj-group>
+            </subj-group>
+            <subj-group subj-group-type="article-type" xml:lang="en">
+               <subject>Review article</subject>
+            </subj-group>
+            <subj-group subj-group-type="article-type" xml:lang="sl">
+               <subject>Pregledni znanstveni članek</subject>
+            </subj-group>
+            <subj-group subj-group-type="heading" xml:lang="sl">
+               <subject>Onkologija</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title xml:lang="sl">Farmakogenetski označevalci v terapiji akutne limfoblastne levkemije pri otrocih</article-title>
+            <trans-title-group>
+               <trans-title xml:lang="en">Pharmacogenetic markers in the therapy of childhood acute lymphoblastic leukemia</trans-title>
+            </trans-title-group>
+            <alt-title alt-title-type="running-head" xml:lang="sl">Farmakogenetski označevalci v terapiji akutne limfoblastne levkemije pri otrocih</alt-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Šmid</surname>
+                  <given-names>Alenka</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1">1</xref>
+            </contrib>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Jazbec</surname>
+                  <given-names>Janez</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff2">2</xref>
+            </contrib>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Mlinarič Raščan</surname>
+                  <given-names>Irena</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1">1</xref>
+               <xref ref-type="corresp" rid="corr"/>
+            </contrib>
+         </contrib-group>
+         <aff-alternatives id="aff1">
+            <aff xml:lang="sl">
+               <label>1</label>
+               <institution>Fakulteta za farmacijo, Univerza v Ljubljani, Ljubljana, Slovenija</institution>
+            </aff>
+            <aff xml:lang="en">
+               <label>1</label>
+               <institution>Faculty of Pharacy, University of Ljubljana, Ljubljana, Slovenia</institution>
+            </aff>
+         </aff-alternatives>
+         <aff-alternatives id="aff2">
+            <aff xml:lang="sl">
+               <label>2</label>
+               <institution>Klinični oddelek za hematologijo in onkologijo, Pediatrična klinika, Univerzitetni klinični center Ljubljana, Ljubljana, Slovenija</institution>
+            </aff>
+            <aff xml:lang="en">
+               <label>2</label>
+               <institution>Unit of Oncology and Haematology, Division of Paediatrics, University Medical Centre Ljubljana, Ljubljana, Slovenia</institution>
+            </aff>
+         </aff-alternatives>
+         <author-notes>
+            <fn fn-type="conflict" xml:lang="en">
+               <p>The authors have declared that no competing interests exist.</p>
+            </fn>
+            <fn fn-type="conflict" xml:lang="sl">
+               <p>Avtorji so izjavili, da ne obstajajo nobeni konkurenčni interesi.</p>
+            </fn>
+            <corresp id="corr">Irena Mlinarič Raščan, e-mail: <email xlink:type="simple"/>
+            </corresp>
+         </author-notes>
+         <pub-date pub-type="ppub">
+            <month>6</month>
+            <year>2019</year>
+         </pub-date>
+         <pub-date pub-type="epub">
+            <month>6</month>
+            <year>2019</year>
+         </pub-date>
+         <volume>88</volume>
+         <issue>5–6</issue>
+         <fpage>235</fpage>
+         <lpage>48</lpage>
+         <history>
+            <date date-type="received">
+               <day>2</day>
+               <month>7</month>
+               <year>2018</year>
+            </date>
+            <date date-type="accepted">
+               <day>5</day>
+               <month>4</month>
+               <year>2019</year>
+            </date>
+         </history>
+         <permissions>
+            <copyright-statement xml:lang="en">Copyright © 2019, Slovenian Medical Association (SZD)</copyright-statement>
+            <copyright-statement xml:lang="sl">© 2019, Slovensko zdravniško društvo (SZD)</copyright-statement>
+            <copyright-year>2019</copyright-year>
+            <copyright-holder xml:lang="en">Slovenian Medical Association (SZD)</copyright-holder>
+            <copyright-holder xml:lang="sl">Slovensko zdravniško društvo (SZD)</copyright-holder>
+            <license xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                     xlink:type="simple"
+                     xml:lang="en">
+               <license-p>This is an open access article distributed under the terms of the
+          <ext-link ext-link-type="uri"
+                            xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                            xlink:type="simple">Creative Commons Attribution-NonCommercial
+            License</ext-link>, which permits unrestricted use, distribution, and
+          reproduction in any medium, provided the original author and source are
+          credited and only for non-commercial purposes. </license-p>
+            </license>
+            <license xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                     xlink:type="simple"
+                     xml:lang="sl">
+               <license-p>To je članek z odprtim dostopom, ki ga lahko uporabite pod pogoji iz
+          <ext-link ext-link-type="uri"
+                            xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                            xlink:type="simple">Creative Commons Priznanje avtorstva-Nekomercialno
+            licence</ext-link>. ki dovoljuje distribucijo, predelavo ali
+          prilagoditev, ter gradijo na njem, v nekomercialne namene, z navedbo avtorja
+          in izvirnega dela.</license-p>
+            </license>
+         </permissions>
+         <abstract xml:lang="sl">
+            <title>Izvleček</title>
+            <p>Posamezniku prilagojeno zdravljenje predstavlja sodoben koncept v medicinski praksi, ki temelji na spoznanju, da se posamezniki različno odzivajo na določeno terapijo. Osrednji element prilagojenega zdravljenja predstavljajo biološki označevalci, med katere uvrščamo tudi genetske. Med najuspešnejše primere uvajanja farmakogenetskih označevalcev v klinično prakso z namenom prilagajati odmerjanje zdravil posamezniku sodi zdravljenje akutne limfoblastne levkemije (ALL). Ta predstavlja približno 80 % vseh oblik levkemije, ki se pojavijo pri otrocih, mlajših od 15 let, kar jo uvršča na prvo mesto po pogostosti raka v otroštvu. V zadnjih desetletjih smo bili priča izjemnemu napredku na področju zdravljenja ALL, kljub temu pa je le-to še vedno neuspešno pri nekaterih bolnikih bodisi zaradi toksičnih stranskih učinkov, bodisi zaradi neučinkovitosti uporabljenih zdravil, kar vodi v ponovitev bolezni. Dodaten problem predstavljajo še dolgoročni toksični učinki kemoterapije, ki se lahko pojavijo tudi več let po zaključenem zdravljenju. Prav iz teh razlogov se je v zadnjih letih veliko študij posvetilo odkrivanju bioloških označevalcev, na podlagi katerih bi lahko zdravljenje prilagodili posamezniku in s tem izboljšali njegovo učinkovitost in varnost.</p>
+            <p>Najbolje proučeni so genetski dejavniki, povezani s toksičnostjo 6-merkaptopurina (6-MP), ki predstavlja temelj vzdrževalnega zdravljenja ALL. Encim tiopurin-S-metiltransferaza (TPMT) igra poglavitno vlogo pri deaktiviranju tiopurinov in v veliki meri vpliva na razlike v odzivu posameznikov na zdravljenje. Znano je, da so za znižane encimske aktivnosti v največji meri odgovorni polimorfizmi v genu za <italic>TPMT</italic>, vendar je ujemanje med genotipom in encimsko aktivnostjo nepopolno. V zadnjem desetletju so identificirali nove farmakogenetske označevalce, povezane s toksičnostjo 6-MP in drugih zdravil, ki se uporabljajo za zdravljenje otroške ALL, vendar se še ne uporabljajo v klinični praksi.</p>
+         </abstract>
+         <trans-abstract xml:lang="en">
+            <title>Abstract</title>
+            <p>Personalised medicine is a contemporary concept in medical practice, based on the observation that individuals respond differently to a particular therapy. Biomarkers, which include genetic markers, are a central element in the development of personalised medicine. Acute lymphoblastic leukaemia (ALL) therapy is among the most successful examples of the implementation of pharmacogenetic markers into clinical practice in order to adjust the dosage of drugs to an individual. ALL accounts for approximately 80% of all forms of leukaemia occurring in children under the age of 15 years, making it the most common childhood cancer. Despite drastic improvements in the treatment of childhood ALL over the past decades, treatment is still unsuccessful in some patients either due to toxic effects, or due to the inefficacy of the drugs used, which leads to a recurrence of the disease. An additional problem is associated with the long-term toxic effects of chemotherapy, which may occur several years after the treatment has been completed. In order to improve safety and efficacy, numerous studies have been performed aiming to identify biomarkers which would enable tailoring treatment to the individual patient and improve treatment’s efficacy and safety.</p>
+            <p>Of these, the genetic factors associated with the toxicity of 6-mercaptopurine (6-MP), which is the cornerstone of maintenance treatment of ALL, have been studied most thoroughly. Thiopurine S- methyltransferase (TPMT) is a polymorphic enzyme which plays a major role in the deactivation of thiopurines and to a large extent accounts for the differences in individuals’ response to treatment. It has long been known that polymorphisms in the TPMT gene are largely responsible for reduced enzymatic activities, but numerous studies have shown that the accordance between genotype and enzyme activity is incomplete. In many studies published over the past decade, new pharmacogenetic markers have been associated with toxic effects of 6-MP as well as other drugs used for ALL therapy; however, they are not yet used in clinical practice.</p>
+         </trans-abstract>
+         <kwd-group xml:lang="sl">
+            <kwd>posamezniku prilagojeno zdravljenje</kwd>
+            <kwd>farmakogenetika</kwd>
+            <kwd>akutna limfoblastna levkemija</kwd>
+            <kwd>tiopurin-S-metiltransferaza</kwd>
+            <kwd>tiopurini</kwd>
+         </kwd-group>
+         <kwd-group xml:lang="en">
+            <kwd>personalized medicine</kwd>
+            <kwd>pharmacogenetics</kwd>
+            <kwd>acute lymphoblastic leukaemia</kwd>
+            <kwd>thiopurine-S-methyltransferase</kwd>
+            <kwd>thiopurines</kwd>
+         </kwd-group>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>TotalReferences</meta-name>
+               <meta-value>77</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ReferencesParsed</meta-name>
+               <meta-value>33</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ReferencesBillable</meta-name>
+               <meta-value>41</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>LinkServices</meta-name>
+               <meta-value>pubmed-crossref</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ReferencesLinked</meta-name>
+               <meta-value>39</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ReferencesLinkedDOI</meta-name>
+               <meta-value>38</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ReferencesLinkedPMID</meta-name>
+               <meta-value>31</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>JournalReferences</meta-name>
+               <meta-value>33</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>BookReferences</meta-name>
+               <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>BookChapterReferences</meta-name>
+               <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ConferenceReferences</meta-name>
+               <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ElectronicReferences</meta-name>
+               <meta-value>5</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>DissertationReferences</meta-name>
+               <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>LegalReferences</meta-name>
+               <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>StandardReferences</meta-name>
+               <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>OtherReferences</meta-name>
+               <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>UnknownReferences</meta-name>
+               <meta-value>39</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ReferencesSemiParsed</meta-name>
+               <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ReferencesBookUnparsed</meta-name>
+               <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>EditorialStyle</meta-name>
+               <meta-value>ICMJE-WHO</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <body>
+      <sec id="s1" sec-type="Uvod">
+         <label>1</label>
+         <title>Uvod</title>
+         <p>Akutna limfoblastna levkemija (ALL) predstavlja približno 80 % vseh oblik levkemije, ki se pojavijo pri otrocih, mlajših od 15 let, kar jo uvršča na prvo mesto po pogostosti raka v otroštvu (<xref ref-type="bibr" rid="b1">1</xref>). Zdravljenje otroške ALL je v zadnjih desetletjih izjemno napredovalo, tako da je trenutno pričakovano preživetje skoraj 90 % (<xref ref-type="bibr" rid="b2">2</xref>). Najpomembnejši prispevek k izboljšanju izidov zdravljenja ALL lahko pripišemo napredku na področju razumevanja genetike bolezni in odkritjem številnih bioloških označevalcev, ki omogočajo razvrščanje bolnikov v skupine s tveganjem in izbiro učinkovitejše sheme zdravljenja. Biološke označevalce, ki so pomembni za napoved kliničnega izida, lahko v splošnem delimo v dve skupini. V prvo skupino uvrščamo napovedne biološke označevalce, ki so v pomoč pri napovedovanju verjetnega poteka bolezni ne glede na zdravljenje. Bolniki se na podlagi teh označevalcev razvrščajo v podskupine z različnimi pričakovanimi izidi bolezni (<xref ref-type="bibr" rid="b3">3</xref>). V drugo skupino pa sodijo napovedni biološki označevalci, ki so v pomoč pri napovedovanju izida bolezni, a tudi pri izbiri ustreznega zdravljenja, in sicer tako glede izbire kot odmerjanja optimalnega zdravila. Z njihovo pomočjo lahko identificiramo bolnike, pri katerih obstaja večja verjetnost za pojav toksičnih učinkov, zato jim skladno s tem prilagodimo zdravljenje (<xref ref-type="bibr" rid="b3">3</xref>). V preglednem članku bomo kratko predstavili metode in pristope k proučevanju bioloških označevalcev in povzeli novejša odkritja na področju napovednih farmakogenetskih označevalcev pri zdravljenju otroške ALL.</p>
+      </sec>
+      <sec id="s2" sec-type="Pristopi k proučevanju bioloških označevalcev">
+         <label>2</label>
+         <title>Pristopi k proučevanju bioloških označevalcev</title>
+         <p>Sodobne raziskave na področju odkrivanja novih farmakogenetskih označevalcev potekajo na različnih ravneh od celičnih in živalskih modelov do retrospektivnih in prospektivnih kliničnih preskušanj, ki so zasnovani bodisi na t. i. hipotetičnih ali nehipotetičnih pristopih. Klasični hipotetični pristopi v odkrivanju bioloških označevalcev temeljijo na korelaciji med posameznim genom, proteinom ali metabolitom in farmakološkim odgovorom. Postavljena hipoteza izhaja iz predhodnega znanja, za njeno preverjanje pa se oblikuje specifičen eksperiment. Z napredkom v razvoju visoko zmogljivih »omskih« tehnologij, ki omogočajo hkratno merjenje več tisoč spremenljivk, se je pričel uveljavljati tudi t. i. nehipotetični pristop. Ta temelji na analizi genoma, transkriptoma, proteoma in/ali metaboloma in obdelavi podatkov z naprednimi bioinformatičnimi in statističnimi orodji in omogoča širše razumevanje in nov uvid v molekularne mehanizme, ki so odgovorni za posameznikov odziv na zdravljenje.</p>
+         <p>Večina do sedaj objavljenih študij na področju farmakogenetskih označevalcev, ki bi omogočili posamezniku prilagojeno zdravljenje otroške ALL, temelji na hipotetičnem pristopu – gre za t. i. študije kandidatnih genov.</p>
+      </sec>
+      <sec id="s3" sec-type="Zdravljenje ALL">
+         <label>3</label>
+         <title>Zdravljenje ALL</title>
+         <p>Pri zdravljenju ALL ima bistveno vlogo kombinirana kemoterapija, ki jo bolniki prejemajo v obdobju dveh ali treh let. Na izbiro intenzivnosti zdravljenja vpliva predvsem ocena tveganja za ponovitev bolezni, ki temelji na nekaterih kliničnih in laboratorijskih dejavnikih, kot so starost, število levkocitov ob diagnozi, imunofenotip, citogenetske in genetske nepravilnosti, prisotnost ekstramedularne bolezni in levkemije v centralnem živčnem sistemu ter zgodnji odziv na zdravljenje. Podrobneje so napovedni dejavniki predstavljeni v <xref ref-type="table" rid="table1">Tabeli 1</xref>.</p>
+         <table-wrap position="anchor" id="table1">
+            <label>Tabela 1:</label>
+            <caption>
+               <p> Napovedni dejavniki pri otrocih z ALL (<xref ref-type="bibr" rid="b4">4</xref>-<xref ref-type="bibr" rid="b14">14</xref>).</p>
+            </caption>
+            <table>
+               <colgroup>
+                  <col/>
+                  <col/>
+               </colgroup>
+               <thead>
+                  <tr>
+                     <th>Ugodna prognoza</th>
+                     <th>Neugodna prognoza</th>
+                  </tr>
+               </thead>
+               <tbody>
+                  <tr>
+                     <th content-type="table-subhead" colspan="2">Starost ob diagnozi</th>
+                  </tr>
+                  <tr>
+                     <td>
+                        <p>•Od 1 do &lt; 10 let</p>
+                     </td>
+                     <td>
+                        <p>•&lt; 1 leta</p>
+                        <p>•≥ 10 let</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <th content-type="table-subhead" colspan="2">Št. levkocitov ob diagnozi</th>
+                  </tr>
+                  <tr>
+                     <td>
+                        <p>•&lt;50.000/μL</p>
+                     </td>
+                     <td>
+                        <p>•≥ 50.000/μL</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <th content-type="table-subhead" colspan="2">Imunofenotip</th>
+                  </tr>
+                  <tr>
+                     <td>
+                        <p>•Običajna B-celična ALL (CD10 pozitivna)</p>
+                     </td>
+                     <td>
+                        <p>•T-celična ALL</p>
+                        <p>•pro B-celična ALL (CD10 negativna)</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <th content-type="table-subhead" colspan="2">Levkemija v centralnem živčne sistemu (CŽS)</th>
+                  </tr>
+                  <tr>
+                     <td>
+                        <p>•Negativno (CŽS 1)</p>
+                     </td>
+                     <td>
+                        <p>•Pozitivno (CŽS 3)</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <th content-type="table-subhead" colspan="2">Citogenetske in genetske značilnosti</th>
+                  </tr>
+                  <tr>
+                     <td>
+                        <p>•Indeks DNA &gt; 1.16</p>
+                        <p>•hipediploidnost (&gt; 50 kromosomov)</p>
+                     </td>
+                     <td>
+                        <p>•Indeks DNA &lt; 1.0</p>
+                        <p>•hipoploidnost (&lt; 44 kromosomov)</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td>
+                        <p>•t(12;21): ETV6-RUNX1</p>
+                        <p>•znana tudi kot TEL-AML1</p>
+                     </td>
+                     <td>
+                        <p>•t(9;22): BCR/ABL (kromosom filadelfija);</p>
+                        <p>•t(4;11): MLL/AF4</p>
+                        <p>•t(1;19): TCF3-PBX1 (tudi E2A-PBX1)</p>
+                        <p>•iAMP21 (slabša prognoza le v primeru zdravljenja s standardnimi shemami)</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td>
+                        <p>•Delecija ERG</p>
+                     </td>
+                     <td>
+                        <p>•delecija IKZF1</p>
+                        <p>•mutacija v JAK2</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <th content-type="table-subhead" colspan="2">Zgodnji odziv na zdravljenje</th>
+                  </tr>
+                  <tr>
+                     <td>
+                        <p>•&lt;0,01 % minimalne preostale bolezni (MRD) po 7 dneh zdravljenja s prednizonom (določeno v periferni krvi) in po končani indukcijski fazi (določeno v kostnem mozgu)</p>
+                     </td>
+                     <td>
+                        <p>•&gt; 0,01 % minimalne preostale bolezni (MRD) v periferni krvi po 7 dneh zdravljenja s prednizonom in enim intratekalnim odmerkom metotreksata.</p>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+         </table-wrap>
+         <p>Za zdravljenje ALL se uporabljajo različne sheme, ki so jih razvile skupine strokovnjakov, kot so nemška skupina Berlin-Frankfurt-Münster Group (BFM) (<xref ref-type="bibr" rid="b15">15</xref>), skupina bolnišnice St. Jude Children‘s Research Hospital (SJCRH) (<xref ref-type="bibr" rid="b16">16</xref>), skupina inštituta Dana-Farber Cancer Institute ALL Consortium (DFC) (<xref ref-type="bibr" rid="b17">17</xref>), skupina Children’s Oncology Group (COG) (<xref ref-type="bibr" rid="b18">18</xref>) in skandinavsko združenje Nordic Society of Paediatric Haematology and Oncology (NOPHO) (<xref ref-type="bibr" rid="b19">19</xref>), vse pa vključujejo kemoterapijo, ki je razdeljena v tri faze zdravljenja:</p>
+         <list>
+            <list-item>
+               <label>1.</label>
+               <p>Faza uvodnega intenzivnega zdravljenja (indukcija). Cilj te faze je doseči popolno remisijo in običajno traja štiri do pet tednov. Zdravljenje temelji na kombinaciji treh ali štirih zdravilnih učinkovin, in sicer vinkristina, kortikosteroida (prednizon ali deksametazon) in L-asparaginaze z antraciklinom (doksorubicin ali daunorubicin) ali brez njega. Četrto ali peto zdravilno učinkovino (antraciklin in/ali ciklofosfamid) običajno prejmejo otroci, ki so razvrščeni v skupino (ALL) z visokim ali zelo visokim tveganjem (<xref ref-type="bibr" rid="b20">20</xref>).</p>
+            </list-item>
+            <list-item>
+               <label>2.</label>
+               <p>Faza ponovnega intenzivnega zdravljenja (konsolidacija in reindukcija). Cilj konsolidacijske faze je uničenje preostalih (rezidualnih) levkemičnih celic, ki ostanejo po indukcijski fazi. Gre za intenzivno terapijo, pri kateri se uporabljajo podobne kombinacije zdravilnih učinkovin kot v prvi fazi, v režim zdravljenja pa so vključeni še metotreksat v visokih odmerkih v kombinaciji s 6-merkaptopurinom (6-MP), vinkristin in glukokortikoid. Bolniki 20–30 tednov neprekinjeno prejemajo tudi L-asparaginazo. Fazi konsolidacije običajno sledi še t. i. reindukcijska faza zdravljenja, v kateri bolniki prejmejo kemoterapijo, ki je po sestavi zelo podobna kot v fazi indukcije (<xref ref-type="bibr" rid="b20">20</xref>).</p>
+            </list-item>
+            <list-item>
+               <label>3.</label>
+               <p>Vzdrževalna faza. Običajno traja dve leti ali več in temelji na dnevnem peroralnem jemanju 6-MP in tedenskem peroralnem jemanju metotreksata s periodičnimi odmerki vinkristina in deksametazona ali brez njiju (<xref ref-type="bibr" rid="b20">20</xref>).</p>
+            </list-item>
+         </list>
+         <p>Za preprečitev razširitve levkemičnih celic v centralnem živčnem sistemu (CŽS) poteka še preventivno zdravljenje CŽS, in sicer v obliki intratekalne in sistemske kemoterapije, včasih tudi obsevanja glave. Pri bolnikih z ALL z visokim tveganjem se izvaja tudi alogenična presaditev krvotvornih matičnih celic (<xref ref-type="bibr" rid="b20">20</xref>,<xref ref-type="bibr" rid="b21">21</xref>).</p>
+         <p>Zdravljenje otrok z ALL v Sloveniji je v obdobju 1967–1973 potekalo po protokolu, prirejenem po različnih shemah zdravljenja, v obdobju 1973–1983 pa v skladu s shemo, povzeto po Pediatric Oncology Group (POG). Nato so se od leta 1983 dalje uporabljale različne sheme, povzete po protokolih nemške skupine Berlin–Frankfurt-Münster (ALL-BFM 83, ALL- BFM 86, ALL- BFM 90, ALL- BFM 95, protokol študije ALL IC BFM 2002 in ALL BFM 2010) (<xref ref-type="bibr" rid="b1">1</xref>,<xref ref-type="bibr" rid="b22">22</xref>).</p>
+         <p>Kljub izjemnemu napredku v zadnjih desetletjih je zdravljenje ALL v nekaterih primerih še vedno neuspešno bodisi zaradi toksičnih stranskih učinkov, med katerimi so lahko tudi življenjsko ogrožajoči, bodisi zaradi neučinkovitosti uporabljenih zdravil, kar vodi v ponovitev bolezni (<xref ref-type="bibr" rid="b20">20</xref>). Med najpomembnejše neželene učinke vinkristina uvrščamo hematološko toksičnost in nevrotoksičnost (<xref ref-type="bibr" rid="b23">23</xref>), medtem ko so najpomembnejši neželeni učinki L-asparaginaze alergijske reakcije, vključno z anafilakso, motnje strjevanja krvi in pankreatitis (<xref ref-type="bibr" rid="b24">24</xref>). Pri bolnikih, ki dalj časa jemljejo glukokortikoide, se lahko v levkemičnih celicah razvije rezistentnost na steroide, pojavljajo pa se tudi neželeni učinki, kot so pogoste okužbe ali sepsa, osteonekroza, diabetes in miopatija (<xref ref-type="bibr" rid="b25">25</xref>). Pri zdravljenju z metotreksatom lahko pride do neželenih učinkov na prebavilih, okvare sluznice ali mukozitisa, hepatotoksičnosti, nefrotoksičnosti ali do zavore delovanja kostnega mozga in nevrotoksičnosti (<xref ref-type="bibr" rid="b26">26</xref>). Pri uporabi 6-MP pa lahko pride do zavore delovanja kostnega mozga in hepatotoksičnosti, ki lahko v nekaterih primerih zahtevajo hospitalizacijo in prekinitev zdravljenja (<xref ref-type="bibr" rid="b22">22</xref>,<xref ref-type="bibr" rid="b27">27</xref>). Poleg neželenih učinkov, ki se pojavljajo med samo terapijo, problem predstavljajo tudi dolgoročni toksični učinki kemoterapije, kot so kardiomiopatija, osteonekroza in sekundarni tumorji, ki se lahko pojavijo tudi več let po zaključenem zdravljenju (<xref ref-type="bibr" rid="b28">28</xref>,<xref ref-type="bibr" rid="b29">29</xref>).</p>
+      </sec>
+      <sec id="s4"
+           sec-type="Farmakogenetski označevalci toksičnosti zdravljenja ALL">
+         <label>4</label>
+         <title>Farmakogenetski označevalci toksičnosti zdravljenja ALL</title>
+         <p>Zaradi omenjenih neželenih učinkov, ki se lahko pojavijo med zdravljenjem ALL, se je v zadnjih letih veliko študij posvetilo odkrivanju novih z zdravljenjem povezanih bioloških označevalcev, ki bi omogočili posamezniku prilagojen izbor in odmerjanje zdravil. Med temi so najbolje proučili farmakogenetske dejavnike, ki so povezani s toksičnostjo 6-merkaptopurina v vzdrževalni fazi zdravljenja ALL (opisani v poglavjih 4.1. in 4.2.), nekoliko manj pa farmakogenetski dejavniki, ki so povezani z zdravili, ki se uporabljajo v preostalih fazah zdravljenja (opisani v poglavju 4.3.).</p>
+         <sec id="s4.1"
+              sec-type="Tiopurin-S-metiltransferaza (TPMT) kot napovedni farmakogenetski označevalec toksičnosti 6-merkaptopurina v vzdrževalni fazi zdravljenja ALL">
+            <label>4.1</label>
+            <title>Tiopurin-S-metiltransferaza (TPMT) kot napovedni farmakogenetski označevalec toksičnosti 6-merkaptopurina v vzdrževalni fazi zdravljenja ALL</title>
+            <p>Ene prvih študij kandidatnih genov pri zdravljenju ALL so študije tiopurin-S- metiltransferaze (TPMT), ki sodi med najuspešnejše klinično uporabne farmakogenetske označevalce za prilagajanje odmerjanja 6-MP. Ta predstavlja osnovo dolgoročnega vzdrževalnega zdravljenja ALL, ki poleg azatioprina (AZA) in 6-tiogvanina (6-TG) sodi med tiopurinske učinkovine. Tiopurini so predzdravila, ki preko aktivnih presnovkov delujejo citotoksično in imunosupresivno. Zato se poleg zdravljenja ALL uporabljajo tudi pri nekaterih avtoimunskih boleznih, kot sta na primer Chronova bolezen in ulcerativni kolitis, in za preprečevanje zavrnitve organov po presaditvah (<xref ref-type="bibr" rid="b30">30</xref>).</p>
+            <p>Poglavitni mehanizem citotoksičnega delovanja tiopurinov je vgrajevanje 6-tiogvanozinov (6-TGN) v DNA. To sproži mehanizem popravljanja neujemanja, ki je neuspešen, kar vodi v prekinitev hčerinske verige DNA. V naslednji fazi celičnega cikla pride zaradi porušene strukture DNA do zaustavitve celičnega cikla in programirane celične smrti (apoptoze) (<xref ref-type="bibr" rid="b31">31</xref>). Poleg tega lahko apoptozo 6-TGN sprožijo tudi neposredno preko mitohondrijske poti, pri čemer so v signalizacijski poti vpleteni proteini Rac1, Bcl-xL in NF-κB (<xref ref-type="bibr" rid="b32">32</xref>). Kot potencialni mehanizem za doseganje imunosupresivnega učinka, ki pa po vsej verjetnosti manj prispeva k citotoksičnemu učinku, se v literaturi omenja tudi zaviranje <italic>de novo </italic>sinteze purinskih nukleotidov (DNPS) zaradi nastanka 6-metiltioinozin-5'-monofosfata (MeTIMP) pri presnovi tiopurinov (<xref ref-type="bibr" rid="b33">33</xref>).</p>
+            <p>Presnova tiopurinov, ki je shematsko predstavljena na <xref ref-type="fig" rid="fig1">Sliki 1</xref>, poteka po treh glavnih poteh. Fosforibozilacija s hipoksantin-gvanin fosforiboziltransferazo (HPRT) predstavlja aktivacijsko pot, pri čemer preko številnih vmesnih presnovkov, kot je na primer tioinozinmonofosfat (TIMP), vodi v sintezo aktivnih 6-TGN. Po drugi strani predstavljata oksidacija s ksantin oksidazo (XO) in S-metilacija s TPMT deaktivacijski poti tiopurinov (<xref ref-type="bibr" rid="b45">45</xref>). Ker se XO izraža predvsem v jetrih in črevesju, je ta encim pomemben pri metabolizmu prvega prehoda, pri čemer se v neaktivno tiosečno kislino pretvori približno 84 % odmerka 6-MP. Kljub temu, da je XO polimorfen encim, zaradi česar obstajajo med posamezniki razlike v encimski aktivnosti, pa študije doslej še niso ugotovile njihovega pomembnega vpliva na izid zdravljenja ALL (<xref ref-type="bibr" rid="b34">34</xref>). Druga pot deaktiviranja tiopurinov, ki je poglavitna predvsem v krvotvornih tkivih, poteka preko <italic>S</italic>-metilacije s TPMT, pri čemer nastane neaktivni 6-metilmerkaptopurin (6-MMP). V nasprotju z XO je variabilnost v encimski aktivnosti TPMT, ki je v veliki meri posledica prisotnosti polimorfizmov v genu <italic>TPMT</italic>, poglavitni vzrok za različne odzive posameznikov na zdravljenje s 6-MP.</p>
+            <fig position="anchor" id="fig1">
+               <label>Slika 1:</label>
+               <caption>
+                  <p> Poenostavljena shema presnove in mehanizma delovanja tiopurinov. </p>
+               </caption>
+               <p>
+                  <graphic xlink:href="2851-web-resources/image/zdravvestn-2851-sl-01.png"/>
+               </p>
+               <p>Rdeče obrobljeni so aktivni presnovki z opisom mehanizma delovanja, vijolično obrobljeni so neaktivni presnovki. 6-MP: 6-metilmerkaptopurin; 6-MeMP: 6-metilmerkaptopurin; 6-MeTG: 6- metiltiogvanin; 6-TG: 6-tiogvanin; AZA: azatioprin; DNPS: <italic>de novo</italic> sinteza purinov; dTGTP: deoksitiogvanozin trifosfat; GMPS: gvanozin monofosfat sintaza; HPRT: hipoksantin:gvanin fosforiboziltransferaza; IMPDH: inozin monofosfat dehidrogenaza; ITPA: inozin trifosfat dehidrogenaza; MeTGMP: metiltiogvanozin monofosfat;  MeTIMP: metiltioinozin monofosfat; TGMP: tiogvanozin monofosfat; TIMP: tioinozin monofosfat; TITP: tioinozin trifosfat; TK: tiosečna kislina; TXMP: tioksantozin monofosfat; XO: ksantin oksidaza; TPMT: tiopurin S- metiltransferaza</p>
+            </fig>
+            <p>Tiopurin S-metiltransferaza (TPMT; EC 2.1.1.67) je citosolni encim, ki se uvršča v družino od S-adenozilmetionina odvisnih metiltransferaz. Čeprav je njegova vloga pri presnovi tiopurinov dobro ovrednotena, pa njegova endogena vloga in endogeni substrat še vedno nista poznana. Encimska aktivnost TPMT se med posamezniki precej razlikuje. Porazdelitev aktivnosti v kavkaški populaciji je trimodalna, pri čemer 89–94 % posameznikov izkazuje visoko oziroma normalno, 6–11 % posameznikov srednjo in 0,3 % posameznikov nizko encimsko aktivnost (<xref ref-type="bibr" rid="b35">35</xref>). Poglavitni vzrok za znižanje aktivnosti pripisujemo prisotnosti polimorfizmov v genu <italic>TPMT</italic>. Do sedaj je bilo odkritih že 42 polimorfizmov (<xref ref-type="bibr" rid="b36">36</xref>), najpogostejši in klinično najbolj pomembni polimorfizmi, ki so odgovorni za zmanjšano aktivnost TPMT, pa so predvsem TPMT*3A (rs1142345 in rs1800460), TPMT*3C (rs1142345), in TPMT*2 (rs1800462) (<xref ref-type="bibr" rid="b37">37</xref>). Zaradi zmanjšane aktivnosti TPMT pride do povečanega nastajanja aktivnih presnovkov, ti pa lahko v primeru prekomernega kopičenja v zdravih celicah povzročijo hude neželene učinke, med katerimi je najpogostejša zavora delovanja kostnega mozga. Da bi se izognili hudim neželenim učinkom, je zato odmerek 6-MP priporočljivo prej prilagoditi. Konzorcij za implementacijo farmakogenomike v klinično prakso (Clinical Pharmacogenomics Implementation Consortium, CPIC) v svojih smernicah priporoča, naj se pri bolnikih z enim variantnim alelom TPMT odmerek zmanjša na 30–70 % standardnega odmerka 6-MP, pri bolnikih z dvema variantnima aleloma TPMT pa kar za 90 % standardnega odmerka (<xref ref-type="bibr" rid="b38">38</xref>). Določanje polimorfizmov v genu <italic>TPMT</italic> pred uvedbo zdravljenja s 6-MP sicer predstavlja hiter, enostaven in cenovno ugoden test, vendar številne študije ugotavljajo, da pri določenem številu bolnikov zgolj iz genotipa ne moremo predvideti encimske aktivnosti TPMT in odziva na zdravljenje (<xref ref-type="bibr" rid="b39">39</xref>-<xref ref-type="bibr" rid="b41">41</xref>). Poleg genotipa <italic>TPMT </italic>na encimsko aktivnost namreč vplivajo tudi nekateri drugi dejavniki, med katerimi je tudi S-adenozilmetionin (SAM) – kofaktor TPMT in metilni donor v številnih reakcijah metilacije. V več študijah smo pokazali, da višje koncentracije SAM korelirajo z višjimi aktivnostmi TPMT in sicer zaradi posttranslacijske stabilizacije encima (<xref ref-type="bibr" rid="b42">42</xref>-<xref ref-type="bibr" rid="b44">44</xref>). Preko vpliva na koncentracijo SAM lahko tako vplivajo tudi številni drugi polimorfizmi, ki se nahajajo v genih metioninskega ali folatnega cikla, ki so predstavljeni na <xref ref-type="fig" rid="fig2">Sliki 2</xref>.</p>
+            <fig position="anchor" id="fig2">
+               <label>Slika 2:</label>
+               <caption>
+                  <p> Shema folatnega in metioninskega cikla. </p>
+               </caption>
+               <p>
+                  <graphic xlink:href="2851-web-resources/image/zdravvestn-2851-sl-02.png"/>
+               </p>
+               <p>B12: vitamin B12; oks-B12: oksidirana oblika vitamina B12; BHMT: betain-homocistein metiltransferaza; DHFR: dihidrofolat reduktaza; DHF: dihidrofolat; FOLH1: folat hidrolaza; Fol-MG: folat monoglutamat; Fol-PG: folat poliglutamat; GNMT: glicin N-metiltransferaza; Me-B12: metiliran vitamin B12; MAT: metionin adenoziltransferaza; MTHFD1: metilentetrahidrofolat dehidrogenaza 1; MTHFR: 5,10-metilentetrahidrofolat reduktaza, MTR: metionin sintaza; MTRR: metionin sintaza reduktaza; SAM: S-adenozil metionin; SAH: S-adenozil homocistein; TYMS: timidilat sintaza; SHMT: serin hidroksimetiltransferaza; THF: tetrahidrofolat.</p>
+            </fig>
+            <p>SAM namreč nastaja iz metionina v metioninskem ciklu, po prenosu metilne skupine se pretvori v S-adenozil homocistein (SAH), ta pa naprej v homocistein. Homocistein nato vstopi v pot transsulfuracije ali se pretvori nazaj v metionin, pri čemer je substrat v reakciji 5-metiltetrahidrofolat (5-metil-THF). Ta nastaja v reakciji, ki jo katalizira 5,10- metilentetrahidrofolat reduktaza (MTHFR), eden najpomembnejših encimov folatnega cikla (<xref ref-type="fig" rid="fig2">Slika 2</xref>). Polimorfizmi v genu <italic>MTHFR</italic>, ki vplivajo na encimsko aktivnost tako preko vpliva na koncentracijo 5-metil-THF in SAM, zato lahko vplivajo na aktivnost TPMT in toksičnost 6-MP. V retrospektivni študiji pri pediatričnih bolnikih z ALL v Sloveniji smo pokazali, da prisotnost vsaj enega variantnega alela <italic>MTHFR </italic>677C &gt; T (rs1801133) in/ali 1298A &gt; C (rs1801131) sočasno s prisotnim variantnim alelom <italic>TPMT</italic>*3A ali <italic>TPMT*3C </italic>prispeva k povečani toksičnosti vzdrževalnega zdravljenja (<xref ref-type="bibr" rid="b45">45</xref>). Z neželenimi učinki med vzdrževalnim zdravljenjem sta bila povezana še dva polimorfizma v genih, povezanih s folatnim oziroma metioninskim ciklom, in sicer polimorfizma rs61886492 v genu <italic>FOLH1 </italic>(<xref ref-type="bibr" rid="b46">46</xref>) in rs10948059 v genu <italic>GNMT </italic>(<xref ref-type="bibr" rid="b47">47</xref>). Gen <italic>FOLH1 </italic>kodira encim folat hidrolazo, ki je udeležen v folatnem ciklu, medtem ko <italic>GNMT</italic> kodira encim glicin-N-metiltransferazo, ključni encim pri vzdrževanju ravnotežja metilacije v celici in pomemben regulator znotrajcelične koncentracije S-adenozilmetionina (<xref ref-type="bibr" rid="b48">48</xref>).</p>
+         </sec>
+         <sec id="s4.2"
+              sec-type="Drugi farmakogenetski dejavniki, povezani s toksičnostjo v vzdrževalnem zdravljenju ALL">
+            <label>4.2</label>
+            <title>Drugi farmakogenetski dejavniki, povezani s toksičnostjo v vzdrževalnem zdravljenju ALL</title>
+            <p>V zadnjih letih je bilo objavljenih več študij, ki kažejo, da so s toksičnostjo vzdrževalnega zdravljenja povezani tudi nekateri polimorfizmi v genu za nudiks hidrolazo 15 (<italic>NUDT15</italic>)<italic>. </italic>NUDT15 je nukleozid difosfataza, ki celice varuje pred oksidativnimi poškodbami DNA z razgrajevanjem oksidiranih purinskih nukleozid trifosfatov. Zaradi strukturne podobnosti lahko NUDT15 razgrajuje tudi deoksi-tiogvanozin trifosfat, ki je aktivni metabolit 6-MP. V primeru, da ima posameznik, ki prejema 6-MP, v genu <italic>NUDT15 </italic>polimorfizem, ki zmanjša encimsko aktivnost, lahko to vodi do prevelikega kopičenja aktivnih presnovkov in s tem do čezmerne toksičnosti zdravila. Do sedaj je bilo opisanih 7 polimorfizmov, ki so povezani z nižjo encimsko aktivnostjo NUDT15 in toksičnostjo tiopurinov, med katerimi pa je najpomembnejši polimorfizem c.415C &gt; T (rs116855232), ki je bil opisan v več neodvisnih študijah. Pokazano je bilo, da imajo posamezniki z variantnim alelom T večje tveganje za pojav neželenih učinkov zaradi zavore kostnega mozga v primerjavi s posamezniki z alelom divjega tipa C (<xref ref-type="bibr" rid="b49">49</xref>-<xref ref-type="bibr" rid="b51">51</xref>). Dokazi o povezanosti polimorfizmov v genu <italic>NUDT15 </italic>so številni, vendar pa so bili razen enega do sedaj vsi opisani le v azijskih in hispanskih populacijah (<xref ref-type="bibr" rid="b52">52</xref>), zato je njihov vpliv in pomen v ostalih populacijah precej manjši.</p>
+            <p>S toksičnostjo vzdrževalnega zdravljenja so v nekaterih študijah povezovali tudi polimorfizme v genih <italic>PACSIN2 </italic>in <italic>ITPA</italic>. <italic>PACSIN2 </italic>kodira substrat protein kinaze C in kazein kinaze v nevronih 2 (PACSIN2), ki med drugim sodeluje v procesih endocitoze, organizaciji membrane in membranskem prenosu in dinamiki aktinskega citoskeleta. Polimorfizem rs2413739 se je kot kandidatni dejavnik z vplivom na aktivnost TPMT pokazal v asociacijski študiji na celotnem genomu, ki je bila izvedena v vzorcih celičnih linij Hapmap in potrjena v skupini 286 pediatričnih bolnikov z ALL. Pri bolnikih s prisotnima dvema variantnima aleloma <italic>PACSIN2 </italic>rs2413739 so izmerili nižje aktivnosti TPMT, poleg tega so imeli ti bolniki večje tveganje za pojav gastrointestinalne toksičnosti (<xref ref-type="bibr" rid="b53">53</xref>). V retrospektivni študiji, ki je vključevala skupino pediatričnih bolnikov z ALL v Sloveniji, so imeli bolniki z genotipom <italic>TPMT </italic>divjega tipa in z dvema variantnima aleloma <italic>PACSIN2 </italic>rs2413739 večje tveganje za pojav hematološke toksičnosti v primerjavi z bolniki brez variantnega alela ali samo enim (<xref ref-type="bibr" rid="b47">47</xref>).</p>
+            <p>
+               <italic>ITPA </italic>kodira encim inozin trifosfatazo, ki katalizira hidrolizo inozin trifosfata (ITP) do inozin monofosfata (IMP) in na ta način preprečuje kopičenje škodljivih nukleotidov v celici. ITPA sodeluje tudi v metabolizmu 6-MP, v katerem katalizira pretvorbo tioinozin trifosfata (TITP) v tioinozin monofosfat (TIMP), kot je prikazano na <xref ref-type="fig" rid="fig1">Sliki 1</xref>. Najpogosteje proučevana polimorfizma, ki zmanjšata aktivnost encima ITPA, sta 94C &gt; A (rs1127354) in IVS2 + 21A &gt; C (rs7270101). Prisotnost prvega so tako v nekaterih študijah povezovali z večjo pojavnostjo febrilne nevtropenije, predvsem pri bolnikih, ki so imeli zdravljenje prilagojeno na genotip <italic>TPMT</italic> (<xref ref-type="bibr" rid="b54">54</xref>) in z večjim tveganjem za hepatotoksičnost (<xref ref-type="bibr" rid="b55">55</xref>). Prisotnost vsaj enega nefunkcionalnega alela (94C &gt; A in/ali IVS2 + 21A &gt; C) je bila v študiji, ki je vključevala pediatrične bolnike z ALL v Sloveniji, povezana z daljšim preživetjem brez dogodka oziroma manjšim tveganjem za pojav zgodnjega relapsa (<xref ref-type="bibr" rid="b56">56</xref>).</p>
+         </sec>
+         <sec id="s4.3"
+              sec-type="Farmakogenetski dejavniki, povezani s toksičnimi učinki v ostalih fazah zdravljenja ALL">
+            <label>4.3</label>
+            <title>Farmakogenetski dejavniki, povezani s toksičnimi učinki v ostalih fazah zdravljenja ALL</title>
+            <p>V zadnjih letih so obširno proučevali tudi farmakogenetske dejavnike, povezane s toksičnostjo in učinkovitostjo metotreksata, ki se v visokih odmerkih uporablja v konsolidacijski fazi zdravljenja otroške ALL. V študijah kandidatnih genov so proučevali predvsem pogoste polimorfizme v genih za encime, povezane s folatnim ciklom, kot so MTHFR, metionin sintaza reduktaza (MTRR), timidilat sintaza (TYMS), dihidrofolat reduktaza (DHFR), metilentetrahidrofolat dehidrogenaza (MTHFD1) in serin hidroksimetiltransferaza (SHMT1) (<xref ref-type="bibr" rid="b57">57</xref>-<xref ref-type="bibr" rid="b60">60</xref>). Med temi sta bila gotovo najbolj proučevana polimorfizma <italic>MTHFR </italic>677C &gt; T (rs1801133) in 1298A &gt; C (rs1801131), ki sta povezana z znižano encimsko aktivnostjo in za katera so nekatere študije pokazale povezanost s hematološko toksičnostjo, preživetjem ali izpostavljenostjo zdravilu, medtem ko druge te povezave niso potrdile (<xref ref-type="bibr" rid="b61">61</xref>,<xref ref-type="bibr" rid="b62">62</xref>). Poleg genov folatnega cikla so številne študije proučevale tudi vpliv polimorfizmov v genih, ki bi lahko vplivali na farmakokinetiko metotreksata. V asociacijski študiji na celotnem genomu, ki so jo izvedli Trevino in sodelavci, so prvič identificirali nekatere pogoste polimorfizme v genu za organski anionski prenašalec SLCO1B<italic>, </italic>ki so bili povezani z očistkom metotreksata in gastrointestinalno toksičnostjo (<xref ref-type="bibr" rid="b63">63</xref>). SLCO1B1 sodeluje pri prenosu metotreksata iz krvi v hepatocite, polimorfizmi v genu pa so bili povezani tako z zvečano kot zmanjšano funkcijo prenašalca (<xref ref-type="bibr" rid="b64">64</xref>). Očistek metotreksata in posledično učinkovitost in toksičnost zdravljenja so v nekaterih študijah povezovali tudi s polimorfizmi v genih, ki kodirajo druge prenašalce in sicer <italic>ABCB1, </italic>za katerega obstaja več dokazov (<xref ref-type="bibr" rid="b65">65</xref>-<xref ref-type="bibr" rid="b67">67</xref>), ter <italic>ABCC2, ABCC3 in</italic>
+               <italic> ABCC4</italic>, za katere so o povezavi z očistkom in toksičnostjo metotreksata poročali le v posameznih študijah (<xref ref-type="bibr" rid="b67">67</xref>-<xref ref-type="bibr" rid="b69">69</xref>). Tu omenjeni in nekateri ostali polimorfizmi, ki so bili povezani s toksičnostjo in učinkovitostjo metotreksata v konsolidacijski fazi zdravljenja ALL so našteti tudi v <xref ref-type="table" rid="table2">Tabeli 2</xref>, obširneje pa opisani tudi v drugih preglednih člankih (<xref ref-type="bibr" rid="b61">61</xref>,<xref ref-type="bibr" rid="b70">70</xref>).</p>
+            <p>Farmakogenetski označevalci, ki so povezani s toksičnostjo preostalih učinkovin, ki se uporabljajo za zdravljenje ALL, so zaenkrat še slabše raziskani. V posameznih študijah so ugotavljali, da imajo posamezniki, ki nosijo alel HLA-DRB*07:01, večje tveganje za pojav preobčutljivostne reakcije pri zdravljenju z L-asparaginazo, ki se pri ALL uporablja tako v indukcijski kot v konsolidacijski fazi (<xref ref-type="bibr" rid="b71">71</xref>). Z večjim tveganjem za preobčutljivost so v nekaterih študijah povezovali tudi več polimorfizmov v genu <italic>GRIA1</italic>, ki kodira za podenoto receptorja AMPA, tetramernega ionotropnega transmembranskega glutamatnega receptorja, ki se nahaja v centralnem živčnem sistemu (<xref ref-type="bibr" rid="b72">72</xref>). Z neodzivnostjo na glukokortikoide, ki se uporabljajo v konsolidacijski fazi zdravljenja ALL, so bili povezani posamezni polimorfizmi v genu za prenašalec ABCB1, ki so bili povezani s povečanim izražanjem le-tega, medtem ko so bili polimorfizmi v genih <italic>TYMS, VDR </italic>
+               <italic>Fok1, SERPINE1 </italic>in <italic>ACP1 </italic>povezani z večjim tveganjem za pojav osteonekroze (<xref ref-type="bibr" rid="b73">73</xref>-<xref ref-type="bibr" rid="b75">75</xref>). Ti in nekateri drugi geni, katerih polimorfizmi so bili povezani s toksičnostjo in učinkovitostjo zdravil za ALL, so našteti v <xref ref-type="table" rid="table2">Tabeli 2</xref>.</p>
+            <table-wrap position="anchor" id="table2">
+               <label>Tabela 2:</label>
+               <caption>
+                  <p> Geni, povezani s toksičnostjo zdravilnih učinkovin v terapiji ALL. Našteti so geni, katerih polimorfizmi so glede na podatkovno zbirko PharmGKB (<xref ref-type="bibr" rid="b76">76</xref>) potencialni označevalci toksičnosti pri zdravljenju otroške ALL. Za posamezni gen je navedena tudi stopnja dokazov glede na klasifikacijo PharmGKB.</p>
+               </caption>
+               <table>
+                  <colgroup>
+                     <col/>
+                     <col/>
+                  </colgroup>
+                  <thead>
+                     <tr>
+                        <th>Učinkovina in gen</th>
+                        <th>Stopnja dokazov*</th>
+                     </tr>
+                  </thead>
+                  <tbody>
+                     <tr>
+                        <th content-type="table-subhead" colspan="2">6-merkaptopurin (6-MP)</th>
+                     </tr>
+                     <tr>
+                        <td>
+                           <italic>TPMT</italic>
+                        </td>
+                        <td align="right">1A</td>
+                     </tr>
+                     <tr>
+                        <td>
+                           <italic>NUDT15</italic>
+                        </td>
+                        <td align="right">1B</td>
+                     </tr>
+                     <tr>
+                        <td>
+                           <italic>MTHFR; GNMT; </italic>
+                           <italic>FOLH1; ITPA; PACSIN2</italic>
+                        </td>
+                        <td align="right">3</td>
+                     </tr>
+                     <tr>
+                        <th content-type="table-subhead" colspan="2">Metotreksat</th>
+                     </tr>
+                     <tr>
+                        <td>
+                           <italic>ABCB1; SLCO1B1</italic>
+                        </td>
+                        <td align="right">2A</td>
+                     </tr>
+                     <tr>
+                        <td>
+                           <italic>MTRR</italic>
+                        </td>
+                        <td align="right">2B</td>
+                     </tr>
+                     <tr>
+                        <td>
+                           <italic>GSTP1; </italic>
+                           <italic>ABCC2; ABCC3; ABCC4; DHFR; GGH; ARID5B; MTHFR; ITPA; TYMS; SHMT1; </italic>
+                           <italic>MTHFD1; CCND1; NALCN</italic>
+                        </td>
+                        <td align="right">3</td>
+                     </tr>
+                     <tr>
+                        <th content-type="table-subhead" colspan="2">Asparaginaza</th>
+                     </tr>
+                     <tr>
+                        <td>
+                           <italic>GRIA1; HLA-DRB1; SOD2; PNPLA3; </italic>
+                           <italic>CPA2; NFATC2</italic>
+                        </td>
+                        <td align="right">3</td>
+                     </tr>
+                     <tr>
+                        <th content-type="table-subhead" colspan="2">Vinkristin</th>
+                     </tr>
+                     <tr>
+                        <td>
+                           <italic>CEP72</italic>
+                        </td>
+                        <td align="right">2B</td>
+                     </tr>
+                     <tr>
+                        <td>
+                           <italic>ABCB1</italic>
+                        </td>
+                        <td align="right">3</td>
+                     </tr>
+                     <tr>
+                        <th content-type="table-subhead" colspan="2">Glukokortikoidi (deksametazon)</th>
+                     </tr>
+                     <tr>
+                        <td>
+                           <italic>SERPINE1; TYMS; VDR FokI; ACP1; CNTNAP2</italic>
+                        </td>
+                        <td align="right">3</td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table-wrap-foot>
+                  <p>*Klasifikacija stopnje dokazov: (1A) Za kombinacijo polimorfizmov v genu in učinkovine obstajajo klinične smernice Združenja za implementacijo farmakogenetike v klinično prakso (CPIC) ali posameznih združenj zdravniške stroke. (1B) Za kombinacijo polimorfizmov v genu in učinkovine obstajajo številni trdni dokazi o povezanosti s toksičnostjo ali z učinkovitostjo, ki so bili prikazani v več neodvisnih študijah. (2A) Kombinacija polimorfizma v genu in učinkovine sodi med zelo pomembne farmakogene, za katere je poznan njihov funkcionalni pomen. (2B) Za kombinacijo polimorfizma in učinkovine obstajajo srednje trdni dokazi o povezanosti s toksičnostjo ali z učinkovitostjo. Povezava je prikazana v več kot eni študiji, vendar pa lahko obstajajo tudi študije, ki povezave ne potrjujejo, ali pa je vpliv polimorfizma majhen. (3) Povezanost kombinacije polimorfizma in učinkovine s toksičnostjo ali učinkovitostjo je prikazana v eni pomembni, a še ne ponovljeni študiji, ali pa so dokazi o povezanosti iz različnih študij nekonsistentni.</p>
+               </table-wrap-foot>
+            </table-wrap>
+         </sec>
+      </sec>
+      <sec id="s5" sec-type="Zaključek">
+         <label>5</label>
+         <title>Zaključek</title>
+         <p>Sodobni pristopi v medicini so usmerjeni v posamezniku prilagojeno zdravljenje, ki lahko, v primerjavi s tradicionalnim pristopom, omogoči bolj učinkovito in varno uporabo zdravil, zmanjša stranske učinke in zagotavlja stroškovno učinkovito farmacevtsko oskrbo. Tak pristop je osnovan na selektivnih in občutljivih bioloških označevalcih, zato je njihovo proučevanje postalo osrednji element tako v procesu razvoja zdravil kot v obdobju po pridobitvi dovoljenja za promet z zdravilom (<xref ref-type="bibr" rid="b77">77</xref>).</p>
+         <p>Eden prvih napovednih farmakogenetskih označevalcev, ki je bil uspešno uveden v klinično prakso, je genotip <italic>TPMT</italic>, ki se uporablja za prilagoditev odmerka 6-MP pri otrocih z ALL. Kot potencialne farmakogenetske označevalce za napoved toksičnosti 6-MP smo v naših študijah identificirali tudi polimorfizme v genu <italic>MTHFR </italic>in <italic>PACSIN2</italic>, vendar pa se le-ti zaradi pomanjkanja zadostnega števila ponovitvenih študij trenutno še ne uporabljajo v klinični praksi. V Sloveniji lahko zdravniki za bolnike, ki se zdravijo s tiopurini, naročijo določitev genotipov <italic>TPMT </italic>in <italic>MTHFR</italic> kakor tudi meritve koncentracij metabolitov 6-MP/AZA v krvi v Laboratoriju za molekularno diagnostiko, ki deluje v okviru Fakultete za farmacijo Univerze v Ljubljani.</p>
+      </sec>
+   </body>
+   <back>
+      <ref-list>
+         <ref id="b1">
+            <label>1.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Jazbec</surname> 
+                     <given-names>J</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Rajic</surname> 
+                     <given-names>V</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Karas-Kuzelicki</surname> 
+                     <given-names>N</given-names>
+                  </string-name>
+               </person-group>. <article-title>Leukemias of Childhood</article-title>. <source>Zdr Vestn-Slov Med J.</source> 
+               <year>2008</year> 
+               <month>Apr</month>;<volume>77</volume>:<fpage>I25</fpage>–<lpage>30</lpage>.</mixed-citation>
+         </ref>
+         <ref id="b2">
+            <label>2.        </label>
+            <mixed-citation publication-type="unknown" specific-use="unparsed">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Pui</surname> 
+                     <given-names>C-H</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Evans</surname> 
+                     <given-names>WE. A</given-names>
+                  </string-name>
+               </person-group> 50-Year Journey to Cure Childhood Acute Lymphoblastic Leukemia. Semin Hematol. 1. julij <year>2013</year>.;50(3):185–96.</mixed-citation>
+         </ref>
+         <ref id="b3">
+            <label>3.        </label>
+            <mixed-citation publication-type="unknown" specific-use="linked">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Oldenhuis</surname> 
+                     <given-names>CN</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Oosting</surname> 
+                     <given-names>SF</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Gietema</surname> 
+                     <given-names>JA</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>de Vries</surname> 
+                     <given-names>EG</given-names>
+                  </string-name>
+               </person-group>. <article-title>Prognostic versus predictive value of biomarkers in oncology.</article-title> Eur J Cancer. maj <year>2008</year>.;44(7):946–53. <pub-id pub-id-type="doi">10.1016/j.ejca.2008.03.006</pub-id>
+            </mixed-citation>
+         </ref>
+         <ref id="b4">
+            <label>4.        </label>
+            <mixed-citation publication-type="unknown" specific-use="linked">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Friedmann</surname> 
+                     <given-names>AM</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Weinstein</surname> 
+                     <given-names>HJ</given-names>
+                  </string-name>
+               </person-group>. <article-title>The Role of Prognostic Features in the Treatment of Childhood Acute Lymphoblastic Leukemia.</article-title> The Oncologist. 8. januar <year>2000</year>.;5(4):321–8. <pub-id pub-id-type="doi">10.1634/theoncologist.5-4-321</pub-id>
+            </mixed-citation>
+         </ref>
+         <ref id="b5">
+            <label>5.        </label>
+            <mixed-citation publication-type="unknown" specific-use="unparsed">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Burger</surname> 
+                     <given-names>B</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Zimmermann</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Mann</surname> 
+                     <given-names>G</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Kuhl</surname> 
+                     <given-names>J</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Loning</surname> 
+                     <given-names>L</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Riehm</surname> 
+                     <given-names>H</given-names>
+                  </string-name>
+               </person-group>, in sod. Diagnostic cerebrospinal fluid examination in children with acute lymphoblastic leukemia: significance of low leukocyte counts with blasts or traumatic lumbar puncture. J Clin Oncol. 15. januar <year>2003</year>.;21(2):184–8.</mixed-citation>
+         </ref>
+         <ref id="b6">
+            <label>6.        </label>
+            <mixed-citation publication-type="unknown" specific-use="unparsed">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Kaspers</surname> 
+                     <given-names>GJ</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Smets</surname> 
+                     <given-names>LA</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Pieters</surname> 
+                     <given-names>R</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Van Zantwijk</surname> 
+                     <given-names>CH</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Van Wering</surname> 
+                     <given-names>ER</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Veerman</surname> 
+                     <given-names>AJ</given-names>
+                  </string-name>
+               </person-group>. <article-title>Favorable prognosis of hyperdiploid common acute lymphoblastic leukemia may be explained by sensitivity to antimetabolites and other drugs: results of an in vitro study.</article-title> Blood. 1. februar <year>1995</year>.;85(3):751–6.</mixed-citation>
+         </ref>
+         <ref id="b7">
+            <label>7.        </label>
+            <mixed-citation publication-type="unknown" specific-use="unparsed">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Loh</surname> 
+                     <given-names>ML</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Goldwasser</surname> 
+                     <given-names>MA</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Silverman</surname> 
+                     <given-names>LB</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Poon</surname> 
+                     <given-names>WM</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Vattikuti</surname> 
+                     <given-names>S</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Cardoso</surname> 
+                     <given-names>A</given-names>
+                  </string-name>
+               </person-group>, in sod. Prospective analysis of TEL/AML1-positive patients treated on Dana-Farber Cancer Institute Consortium Protocol 95-01. Blood. 1. junij <year>2006</year>.;107(11):4508–13.</mixed-citation>
+         </ref>
+         <ref id="b8">
+            <label>8.        </label>
+            <mixed-citation publication-type="unknown" specific-use="unparsed">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Schrappe</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Arico</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Harbott</surname> 
+                     <given-names>J</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Biondi</surname> 
+                     <given-names>A</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Zimmermann</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Conter</surname> 
+                     <given-names>V</given-names>
+                  </string-name>
+               </person-group>, in sod. Philadelphia chromosome-positive (Ph+) childhood acute lymphoblastic leukemia: good initial steroid response allows early prediction of a favorable treatment outcome. Blood. 15. oktober <year>1998</year>.;92(8):2730–41.</mixed-citation>
+         </ref>
+         <ref id="b9">
+            <label>9.        </label>
+            <mixed-citation publication-type="unknown" specific-use="unparsed">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Johansson</surname> 
+                     <given-names>B</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Moorman</surname> 
+                     <given-names>AV</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Haas</surname> 
+                     <given-names>OA</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Watmore</surname> 
+                     <given-names>AE</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Cheung</surname> 
+                     <given-names>KL</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Swanton</surname> 
+                     <given-names>S</given-names>
+                  </string-name>
+               </person-group>, in sod. Hematologic malignancies with t(4;11)(q21;q23)--a cytogenetic, morphologic, immunophenotypic and clinical study of 183 cases. European 11q23 Workshop participants. Leukemia. maj <year>1998</year>.;12(5):779–87.</mixed-citation>
+         </ref>
+         <ref id="b10">
+            <label>10.      </label>
+            <mixed-citation publication-type="unknown" specific-use="unparsed">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Crist</surname> 
+                     <given-names>WM</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Carroll</surname> 
+                     <given-names>AJ</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Shuster</surname> 
+                     <given-names>JJ</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Behm</surname> 
+                     <given-names>FG</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Whitehead</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Vietti</surname> 
+                     <given-names>TJ</given-names>
+                  </string-name>
+               </person-group>, in sod. Poor prognosis of children with pre-B acute lymphoblastic leukemia is associated with the t(1;19)(q23;p13): a Pediatric Oncology Group study. Blood. 1. julij <year>1990</year>.;76(1):117–22.</mixed-citation>
+         </ref>
+         <ref id="b11">
+            <label>11.      </label>
+            <mixed-citation publication-type="unknown" specific-use="unparsed">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Heerema</surname> 
+                     <given-names>NA</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Carroll</surname> 
+                     <given-names>AJ</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Devidas</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Loh</surname> 
+                     <given-names>ML</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Borowitz</surname> 
+                     <given-names>MJ</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Gastier-Foster</surname> 
+                     <given-names>JM</given-names>
+                  </string-name>
+               </person-group>, in sod. Intrachromosomal amplification of chromosome 21 is associated with inferior outcomes in children with acute lymphoblastic leukemia treated in contemporary standard-risk children’s oncology group studies: a report from the children’s oncology group. J Clin Oncol. 20. september <year>2013</year>.;31(27):3397–402.</mixed-citation>
+         </ref>
+         <ref id="b12">
+            <label>12.      </label>
+            <mixed-citation publication-type="unknown" specific-use="unparsed">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Mullighan</surname> 
+                     <given-names>CG</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Su</surname> 
+                     <given-names>X</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Zhang</surname> 
+                     <given-names>J</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Radtke</surname> 
+                     <given-names>I</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Phillips</surname> 
+                     <given-names>LA</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Miller</surname> 
+                     <given-names>CB</given-names>
+                  </string-name>
+               </person-group>, in sod. Deletion of IKZF1 and prognosis in acute lymphoblastic leukemia. N Engl J Med. 29. januar <year>2009</year>.;360(5):470–80.</mixed-citation>
+         </ref>
+         <ref id="b13">
+            <label>13.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Clappier</surname> 
+                     <given-names>E</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Auclerc</surname> 
+                     <given-names>MF</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Rapion</surname> 
+                     <given-names>J</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Bakkus</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Caye</surname> 
+                     <given-names>A</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Khemiri</surname> 
+                     <given-names>A</given-names>
+                  </string-name>, <etal>et al.</etal>
+               </person-group> 
+               <article-title>An intragenic ERG deletion is a marker of an oncogenic subtype of B-cell precursor acute lymphoblastic leukemia with a favorable outcome despite frequent IKZF1 deletions</article-title>. <source>Leukemia</source>. <year>2014</year> 
+               <month>Jan</month>;<volume>28</volume>(<issue>1</issue>):<fpage>70</fpage>–<lpage>7</lpage>. <pub-id pub-id-type="doi">10.1038/leu.2013.277</pub-id>
+               <pub-id pub-id-type="pmid">24064621</pub-id>
+               <issn>0887-6924</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b14">
+            <label>14.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Borowitz</surname> 
+                     <given-names>MJ</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Devidas</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Hunger</surname> 
+                     <given-names>SP</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Bowman</surname> 
+                     <given-names>WP</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Carroll</surname> 
+                     <given-names>AJ</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Carroll</surname> 
+                     <given-names>WL</given-names>
+                  </string-name>, <etal>et al.</etal>; <collab>Children’s Oncology Group</collab>
+               </person-group>. <article-title>Clinical significance of minimal residual disease in childhood acute lymphoblastic leukemia and its relationship to other prognostic factors: a Children’s Oncology Group study</article-title>. <source>Blood</source>. <year>2008</year> 
+               <month>Jun</month>;<volume>111</volume>(<issue>12</issue>):<fpage>5477</fpage>–<lpage>85</lpage>. <pub-id pub-id-type="doi">10.1182/blood-2008-01-132837</pub-id>
+               <pub-id pub-id-type="pmid">18388178</pub-id>
+               <issn>0006-4971</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b15">
+            <label>15.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Möricke</surname> 
+                     <given-names>A</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Zimmermann</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Reiter</surname> 
+                     <given-names>A</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Henze</surname> 
+                     <given-names>G</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Schrauder</surname> 
+                     <given-names>A</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Gadner</surname> 
+                     <given-names>H</given-names>
+                  </string-name>, <etal>et al.</etal>
+               </person-group> 
+               <article-title>Long-term results of five consecutive trials in childhood acute lymphoblastic leukemia performed by the ALL-BFM study group from 1981 to 2000</article-title>. <source>Leukemia</source>. <year>2010</year> 
+               <month>Feb</month>;<volume>24</volume>(<issue>2</issue>):<fpage>265</fpage>–<lpage>84</lpage>. <pub-id pub-id-type="doi">10.1038/leu.2009.257</pub-id>
+               <pub-id pub-id-type="pmid">20010625</pub-id>
+               <issn>0887-6924</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b16">
+            <label>16.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Pui</surname> 
+                     <given-names>CH</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Pei</surname> 
+                     <given-names>D</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Sandlund</surname> 
+                     <given-names>JT</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Ribeiro</surname> 
+                     <given-names>RC</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Rubnitz</surname> 
+                     <given-names>JE</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Raimondi</surname> 
+                     <given-names>SC</given-names>
+                  </string-name>, <etal>et al.</etal>
+               </person-group> 
+               <article-title>Long-term results of St Jude Total Therapy Studies 11, 12, 13A, 13B, and 14 for childhood acute lymphoblastic leukemia</article-title>. <source>Leukemia</source>. <year>2010</year> 
+               <month>Feb</month>;<volume>24</volume>(<issue>2</issue>):<fpage>371</fpage>–<lpage>82</lpage>. <pub-id pub-id-type="doi">10.1038/leu.2009.252</pub-id>
+               <pub-id pub-id-type="pmid">20010620</pub-id>
+               <issn>0887-6924</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b17">
+            <label>17.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Silverman</surname> 
+                     <given-names>LB</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Stevenson</surname> 
+                     <given-names>KE</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>O’Brien</surname> 
+                     <given-names>JE</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Asselin</surname> 
+                     <given-names>BL</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Barr</surname> 
+                     <given-names>RD</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Clavell</surname> 
+                     <given-names>L</given-names>
+                  </string-name>, <etal>et al.</etal>
+               </person-group> 
+               <article-title>Long-term results of Dana-Farber Cancer Institute ALL Consortium protocols for children with newly diagnosed acute lymphoblastic leukemia (1985-2000)</article-title>. <source>Leukemia</source>. <year>2010</year> 
+               <month>Feb</month>;<volume>24</volume>(<issue>2</issue>):<fpage>320</fpage>–<lpage>34</lpage>. <pub-id pub-id-type="doi">10.1038/leu.2009.253</pub-id>
+               <pub-id pub-id-type="pmid">20016537</pub-id>
+               <issn>0887-6924</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b18">
+            <label>18.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Hunger</surname> 
+                     <given-names>SP</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Loh</surname> 
+                     <given-names>ML</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Whitlock</surname> 
+                     <given-names>JA</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Winick</surname> 
+                     <given-names>NJ</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Carroll</surname> 
+                     <given-names>WL</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Devidas</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <etal>et al.</etal>; <collab>COG Acute Lymphoblastic Leukemia Committee</collab>
+               </person-group>. <article-title>Children’s Oncology Group’s 2013 blueprint for research: acute lymphoblastic leukemia</article-title>. <source>Pediatr Blood Cancer</source>. <year>2013</year> 
+               <month>Jun</month>;<volume>60</volume>(<issue>6</issue>):<fpage>957</fpage>–<lpage>63</lpage>. <pub-id pub-id-type="doi">10.1002/pbc.24420</pub-id>
+               <pub-id pub-id-type="pmid">23255467</pub-id>
+               <issn>1545-5009</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b19">
+            <label>19.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Schmiegelow</surname> 
+                     <given-names>K</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Forestier</surname> 
+                     <given-names>E</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Hellebostad</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Heyman</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Kristinsson</surname> 
+                     <given-names>J</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Söderhäll</surname> 
+                     <given-names>S</given-names>
+                  </string-name>, <etal>et al.</etal>; <collab>Nordic Society of Paediatric Haematology and Oncology</collab>
+               </person-group>. <article-title>Long-term results of NOPHO ALL-92 and ALL-2000 studies of childhood acute lymphoblastic leukemia</article-title>. <source>Leukemia</source>. <year>2010</year> 
+               <month>Feb</month>;<volume>24</volume>(<issue>2</issue>):<fpage>345</fpage>–<lpage>54</lpage>. <pub-id pub-id-type="doi">10.1038/leu.2009.251</pub-id>
+               <pub-id pub-id-type="pmid">20010622</pub-id>
+               <issn>0887-6924</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b20">
+            <label>20.	</label>
+            <mixed-citation publication-type="web-page" specific-use="unparsed">PDQ® Pediatric Treatment Editorial Board. PDQ Childhood Acute Lymphoblastic Leukemia Treatment. Bethesda, MD: National Cancer Institute. Posodobljeno: 30. november <year>2018</year>. Dostopno na: <ext-link ext-link-type="uri"
+                         xlink:href="https://www.cancer.gov/types/leukemia/hp/child-all-treatment-pdq">https://www.cancer.gov/types/leukemia/hp/child-all-treatment-pdq</ext-link> [citirano 4. januar 2019].</mixed-citation>
+         </ref>
+         <ref id="b21">
+            <label>21.      </label>
+            <mixed-citation publication-type="unknown" specific-use="unparsed">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Balduzzi</surname> 
+                     <given-names>A</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Valsecchi</surname> 
+                     <given-names>MG</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Uderzo</surname> 
+                     <given-names>C</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>De Lorenzo</surname> 
+                     <given-names>P</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Klingebiel</surname> 
+                     <given-names>T</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Peters</surname> 
+                     <given-names>C</given-names>
+                  </string-name>
+               </person-group>, in sod. Chemotherapy versus allogeneic transplantation for very-high-risk childhood acute lymphoblastic leukaemia in first complete remission: comparison by genetic randomisation in an international prospective study. Lancet. 20. avgust <year>2005</year>.;366(9486):635–42.</mixed-citation>
+         </ref>
+         <ref id="b22">
+            <label>22.	</label>
+            <mixed-citation publication-type="web-page" specific-use="unparsed">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Kuželički</surname> 
+                     <given-names>NK</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Šmid</surname> 
+                     <given-names>A</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Raščan</surname> 
+                     <given-names>IM</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Jazbec</surname> 
+                     <given-names>J</given-names>
+                  </string-name>
+               </person-group>. 6-MP based maintenance therapy of childhood ALL in Slovenia: a retrospective study from 1970 to 2004. Slov Med J [Internet]. 7. april <year>2015</year>;84(2). Dostopno na: <ext-link ext-link-type="uri"
+                         xlink:href="https://vestnik.szd.si/index.php/ZdravVest/article/view/1016">https://vestnik.szd.si/index.php/ZdravVest/article/view/1016</ext-link>
+            </mixed-citation>
+         </ref>
+         <ref id="b23">
+            <label>23.      </label>
+            <mixed-citation publication-type="unknown" specific-use="unparsed">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Crews</surname> 
+                     <given-names>K</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Lew</surname> 
+                     <given-names>G</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Pei</surname> 
+                     <given-names>D</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Cheng</surname> 
+                     <given-names>C</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Bao</surname> 
+                     <given-names>J</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Zheng</surname> 
+                     <given-names>J</given-names>
+                  </string-name>
+               </person-group>, in sod. Genome-Wide Association Analyses Identify Susceptibility Loci For Vincristine-Induced Peripheral Neuropathy In Children With Acute Lymphoblastic Leukemia. Blood. 15. november <year>2013</year>.;122(21):618–618.</mixed-citation>
+         </ref>
+         <ref id="b24">
+            <label>24.      </label>
+            <mixed-citation publication-type="unknown" specific-use="linked">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Hijiya</surname> 
+                     <given-names>N</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Sluis</surname> 
+                     <given-names>IM</given-names> 
+                     <surname>van der</surname>
+                  </string-name>
+               </person-group>. <article-title>Asparaginase-associated toxicity in children with acute lymphoblastic leukemia.</article-title> Leuk Lymphoma. 2. april <year>2016</year>.;57(4):748–57. <pub-id pub-id-type="doi">10.3109/10428194.2015.1101098</pub-id>
+            </mixed-citation>
+         </ref>
+         <ref id="b25">
+            <label>25.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Inaba</surname> 
+                     <given-names>H</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Pui</surname> 
+                     <given-names>CH</given-names>
+                  </string-name>
+               </person-group>. <article-title>Glucocorticoid use in acute lymphoblastic leukemia: comparison of prednisone and dexamethasone</article-title>. <source>Lancet Oncol</source>. <year>2010</year> 
+               <month>Nov</month>;<volume>11</volume>(<issue>11</issue>):<fpage>1096</fpage>–<lpage>106</lpage>. <pub-id pub-id-type="doi">10.1016/S1470-2045(10)70114-5</pub-id>
+               <pub-id pub-id-type="pmid">20947430</pub-id>
+               <issn>1470-2045</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b26">
+            <label>26.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Schmiegelow</surname> 
+                     <given-names>K</given-names>
+                  </string-name>
+               </person-group>. <article-title>Advances in individual prediction of methotrexate toxicity: a review</article-title>. <source>Br J Haematol</source>. <year>2009</year> 
+               <month>Sep</month>;<volume>146</volume>(<issue>5</issue>):<fpage>489</fpage>–<lpage>503</lpage>. <pub-id pub-id-type="doi">10.1111/j.1365-2141.2009.07765.x</pub-id>
+               <pub-id pub-id-type="pmid">19538530</pub-id>
+               <issn>0007-1048</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b27">
+            <label>27.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Schmiegelow</surname> 
+                     <given-names>K</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Nielsen</surname> 
+                     <given-names>SN</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Frandsen</surname> 
+                     <given-names>TL</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Nersting</surname> 
+                     <given-names>J</given-names>
+                  </string-name>
+               </person-group>. <article-title>Mercaptopurine/Methotrexate maintenance therapy of childhood acute lymphoblastic leukemia: clinical facts and fiction</article-title>. <source>J Pediatr Hematol Oncol</source>. <year>2014</year> 
+               <month>Oct</month>;<volume>36</volume>(<issue>7</issue>):<fpage>503</fpage>–<lpage>17</lpage>. <pub-id pub-id-type="doi">10.1097/MPH.0000000000000206</pub-id>
+               <pub-id pub-id-type="pmid">24936744</pub-id>
+               <issn>1077-4114</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b28">
+            <label>28.	</label>
+            <mixed-citation publication-type="web-page" specific-use="unparsed">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Nachman</surname> 
+                     <given-names>JB</given-names>
+                  </string-name>
+               </person-group>. Osteonecrosis in childhood ALL [Internet]. Let. 117. <year>2011</year>. 2298–2299 str. Dostopno na: <ext-link ext-link-type="uri"
+                         xlink:href="http://www.bloodjournal.org/bloodjournal/117/8/2298.full.pdf">http://www.bloodjournal.org/bloodjournal/117/8/2298.full.pdf</ext-link>
+            </mixed-citation>
+         </ref>
+         <ref id="b29">
+            <label>29.      </label>
+            <mixed-citation publication-type="unknown" specific-use="unparsed">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Robison</surname> 
+                     <given-names>LL</given-names>
+                  </string-name>
+               </person-group>. Late Effects of Acute Lymphoblastic Leukemia Therapy in Patients Diagnosed at 0-20 Years of Age. ASH Educ Program Book. 10. december <year>2011</year>.;2011(1):238–42.</mixed-citation>
+         </ref>
+         <ref id="b30">
+            <label>30.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Lennard</surname> 
+                     <given-names>L</given-names>
+                  </string-name>
+               </person-group>. <article-title>The clinical pharmacology of 6-mercaptopurine</article-title>. <source>Eur J Clin Pharmacol</source>. <year>1992</year>;<volume>43</volume>(<issue>4</issue>):<fpage>329</fpage>–<lpage>39</lpage>. <pub-id pub-id-type="doi">10.1007/BF02220605</pub-id>
+               <pub-id pub-id-type="pmid">1451710</pub-id>
+               <issn>0031-6970</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b31">
+            <label>31.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Karran</surname> 
+                     <given-names>P</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Attard</surname> 
+                     <given-names>N</given-names>
+                  </string-name>
+               </person-group>. <article-title>Thiopurines in current medical practice: molecular mechanisms and contributions to therapy-related cancer</article-title>. <source>Nat Rev Cancer</source>. <year>2008</year> 
+               <month>Jan</month>;<volume>8</volume>(<issue>1</issue>):<fpage>24</fpage>–<lpage>36</lpage>. <pub-id pub-id-type="doi">10.1038/nrc2292</pub-id>
+               <pub-id pub-id-type="pmid">18097462</pub-id>
+               <issn>1474-175X</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b32">
+            <label>32.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Tiede</surname> 
+                     <given-names>I</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Fritz</surname> 
+                     <given-names>G</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Strand</surname> 
+                     <given-names>S</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Poppe</surname> 
+                     <given-names>D</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Dvorsky</surname> 
+                     <given-names>R</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Strand</surname> 
+                     <given-names>D</given-names>
+                  </string-name>, <etal>et al.</etal>
+               </person-group> 
+               <article-title>CD28-dependent Rac1 activation is the molecular target of azathioprine in primary human CD4+ T lymphocytes</article-title>. <source>J Clin Invest</source>. <year>2003</year> 
+               <month>Apr</month>;<volume>111</volume>(<issue>8</issue>):<fpage>1133</fpage>–<lpage>45</lpage>. <pub-id pub-id-type="doi">10.1172/JCI16432</pub-id>
+               <pub-id pub-id-type="pmid">12697733</pub-id>
+               <issn>0021-9738</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b33">
+            <label>33.	</label>
+            <mixed-citation publication-type="web-page" specific-use="unparsed">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Dervieux</surname> 
+                     <given-names>T</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Brenner</surname> 
+                     <given-names>TL</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Hon</surname> 
+                     <given-names>YY</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Zhou</surname> 
+                     <given-names>Y</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Hancock</surname> 
+                     <given-names>ML</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Sandlund</surname> 
+                     <given-names>JT</given-names>
+                  </string-name>
+               </person-group>. in sod. De novo purine synthesis inhibition and antileukemic effects of mercaptopurine alone or in combination with methotrexate in vivo [Internet]. Let. 100. <year>2002</year>. 1240–1247 str. Dostopno na: <ext-link ext-link-type="uri"
+                         xlink:href="http://www.bloodjournal.org/bloodjournal/100/4/1240.full.pdf">http://www.bloodjournal.org/bloodjournal/100/4/1240.full.pdf</ext-link>
+            </mixed-citation>
+         </ref>
+         <ref id="b34">
+            <label>34.      </label>
+            <mixed-citation publication-type="unknown" specific-use="linked">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Panetta</surname> 
+                     <given-names>JC</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Evans</surname> 
+                     <given-names>WE</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Cheok</surname> 
+                     <given-names>MH</given-names>
+                  </string-name>
+               </person-group>. <article-title>Mechanistic mathematical modelling of mercaptopurine effects on cell cycle of human acute lymphoblastic leukaemia cells.</article-title> Br J Cancer. 16. januar <year>2006</year>.;94(1):93–100. <pub-id pub-id-type="doi">10.1038/sj.bjc.6602893</pub-id>
+            </mixed-citation>
+         </ref>
+         <ref id="b35">
+            <label>35.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Weinshilboum</surname> 
+                     <given-names>R</given-names>
+                  </string-name>
+               </person-group>. <article-title>Thiopurine pharmacogenetics: clinical and molecular studies of thiopurine methyltransferase</article-title>. <source>Drug Metab Dispos</source>. <year>2001</year> 
+               <month>Apr</month>;<volume>29</volume>(<issue>4 Pt 2</issue>):<fpage>601</fpage>–<lpage>5</lpage>.<pub-id pub-id-type="pmid">11259360</pub-id>
+               <issn>0090-9556</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b36">
+            <label>36.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Appell</surname> 
+                     <given-names>ML</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Berg</surname> 
+                     <given-names>J</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Duley</surname> 
+                     <given-names>J</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Evans</surname> 
+                     <given-names>WE</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Kennedy</surname> 
+                     <given-names>MA</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Lennard</surname> 
+                     <given-names>L</given-names>
+                  </string-name>, <etal>et al.</etal>
+               </person-group> 
+               <article-title>Nomenclature for alleles of the thiopurine methyltransferase gene</article-title>. <source>Pharmacogenet Genomics</source>. <year>2013</year> 
+               <month>Apr</month>;<volume>23</volume>(<issue>4</issue>):<fpage>242</fpage>–<lpage>8</lpage>. <pub-id pub-id-type="doi">10.1097/FPC.0b013e32835f1cc0</pub-id>
+               <pub-id pub-id-type="pmid">23407052</pub-id>
+               <issn>1744-6872</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b37">
+            <label>37.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Milek</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Murn</surname> 
+                     <given-names>J</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Jaksic</surname> 
+                     <given-names>Z</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Lukac Bajalo</surname> 
+                     <given-names>J</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Jazbec</surname> 
+                     <given-names>J</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Mlinaric Rascan</surname> 
+                     <given-names>I</given-names>
+                  </string-name>
+               </person-group>. <article-title>Thiopurine S-methyltransferase pharmacogenetics: genotype to phenotype correlation in the Slovenian population</article-title>. <source>Pharmacology</source>. <year>2006</year>;<volume>77</volume>(<issue>3</issue>):<fpage>105</fpage>–<lpage>14</lpage>. <pub-id pub-id-type="doi">10.1159/000093278</pub-id>
+               <pub-id pub-id-type="pmid">16691038</pub-id>
+               <issn>0031-7012</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b38">
+            <label>38.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Relling</surname> 
+                     <given-names>MV</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Schwab</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Whirl-Carrillo</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Suarez-Kurtz</surname> 
+                     <given-names>G</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Pui</surname> 
+                     <given-names>CH</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Stein</surname> 
+                     <given-names>CM</given-names>
+                  </string-name>
+               </person-group>. <article-title>in sod. Clinical Pharmacogenetics Implementation Consortium (CPIC) guideline for thiopurine dosing based on TPMT and NUDT15 genotypes: 2018 update</article-title>. <source>Clin Pharmacol Ther</source>. <year>2018</year> 
+               <month>Nov</month>;<volume>•••</volume>:<fpage>17</fpage>.<issn>0009-9236</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b39">
+            <label>39.      </label>
+            <mixed-citation publication-type="unknown" specific-use="unparsed">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Hindorf</surname> 
+                     <given-names>U</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Appell</surname> 
+                     <given-names>ML</given-names>
+                  </string-name>
+               </person-group>. Genotyping should be considered the primary choice for pre-treatment evaluation of thiopurine methyltransferase function. J Crohns Colitis. julij <year>2012</year>.;6(6):655–9.</mixed-citation>
+         </ref>
+         <ref id="b40">
+            <label>40.      </label>
+            <mixed-citation publication-type="unknown" specific-use="unparsed">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Ford</surname> 
+                     <given-names>L</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Kampanis</surname> 
+                     <given-names>P</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Berg</surname> 
+                     <given-names>J.</given-names>
+                  </string-name>
+               </person-group> Thiopurine S-methyltransferase genotype-phenotype concordance: used as a quality assurance tool to help control the phenotype assay. Ann Clin Biochem. marec <year>2009</year>.;46(Pt 2):152–4.</mixed-citation>
+         </ref>
+         <ref id="b41">
+            <label>41.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Chouchana</surname> 
+                     <given-names>L</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Narjoz</surname> 
+                     <given-names>C</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Roche</surname> 
+                     <given-names>D</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Golmard</surname> 
+                     <given-names>JL</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Pineau</surname> 
+                     <given-names>B</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Chatellier</surname> 
+                     <given-names>G</given-names>
+                  </string-name>, <etal>et al.</etal>
+               </person-group> 
+               <article-title>Interindividual variability in TPMT enzyme activity: 10 years of experience with thiopurine pharmacogenetics and therapeutic drug monitoring</article-title>. <source>Pharmacogenomics</source>. <year>2014</year> 
+               <month>Apr</month>;<volume>15</volume>(<issue>6</issue>):<fpage>745</fpage>–<lpage>57</lpage>. <pub-id pub-id-type="doi">10.2217/pgs.14.32</pub-id>
+               <pub-id pub-id-type="pmid">24897283</pub-id>
+               <issn>1462-2416</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b42">
+            <label>42.      </label>
+            <mixed-citation publication-type="unknown" specific-use="unparsed">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Karas-Kuzelicki</surname> 
+                     <given-names>N</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Smid</surname> 
+                     <given-names>A</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Tamm</surname> 
+                     <given-names>R</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Metspalu</surname> 
+                     <given-names>A</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Mlinaric-Rascan</surname> 
+                     <given-names>I</given-names>
+                  </string-name>
+               </person-group>. From pharmacogenetics to pharmacometabolomics: SAM modulates TPMT activity. Pharmacogenomics. avgust <year>2014</year>.;15(11):1437–49.</mixed-citation>
+         </ref>
+         <ref id="b43">
+            <label>43.      </label>
+            <mixed-citation publication-type="unknown" specific-use="unparsed">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Milek</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Karas Kuzelicki</surname> 
+                     <given-names>N</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Smid</surname> 
+                     <given-names>A</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Mlinaric-Rascan</surname> 
+                     <given-names>I.</given-names>
+                  </string-name>
+               </person-group> S-adenosylmethionine regulates thiopurine methyltransferase activity and decreases 6-mercaptopurine cytotoxicity in MOLT lymphoblasts. Biochem Pharmacol. 15. junij <year>2009</year>.;77(12):1845–53.</mixed-citation>
+         </ref>
+         <ref id="b44">
+            <label>44.      </label>
+            <mixed-citation publication-type="unknown" specific-use="unparsed">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Milek</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Smid</surname> 
+                     <given-names>A</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Tamm</surname> 
+                     <given-names>R</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Kuzelicki</surname> 
+                     <given-names>NK</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Metspalu</surname> 
+                     <given-names>A</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Mlinaric-Rascan</surname> 
+                     <given-names>I</given-names>
+                  </string-name>
+               </person-group>. Post-translational stabilization of thiopurine S-methyltransferase by S-adenosyl-L-methionine reveals regulation of TPMT*1 and *3C allozymes. Biochem Pharmacol. 1. april <year>2012</year>.;83(7):969–76.</mixed-citation>
+         </ref>
+         <ref id="b45">
+            <label>45.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Karas-Kuzelicki</surname> 
+                     <given-names>N</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Jazbec</surname> 
+                     <given-names>J</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Milek</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Mlinaric-Rascan</surname> 
+                     <given-names>I</given-names>
+                  </string-name>
+               </person-group>. <article-title>Heterozygosity at the TPMT gene locus, augmented by mutated MTHFR gene, predisposes to 6-MP related toxicities in childhood ALL patients</article-title>. <source>Leukemia</source>. <year>2009</year> 
+               <month>May</month>;<volume>23</volume>(<issue>5</issue>):<fpage>971</fpage>–<lpage>4</lpage>. <pub-id pub-id-type="doi">10.1038/leu.2008.317</pub-id>
+               <pub-id pub-id-type="pmid">18987660</pub-id>
+               <issn>0887-6924</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b46">
+            <label>46.      </label>
+            <mixed-citation publication-type="unknown" specific-use="unparsed">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Dorababu</surname> 
+                     <given-names>P</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Naushad</surname> 
+                     <given-names>SM</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Linga</surname> 
+                     <given-names>VG</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Gundeti</surname> 
+                     <given-names>S</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Nagesh</surname> 
+                     <given-names>N</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Kutala</surname> 
+                     <given-names>VK</given-names>
+                  </string-name>
+               </person-group>, in sod. Genetic variants of thiopurine and folate metabolic pathways determine 6-MP-mediated hematological toxicity in childhood ALL. Pharmacogenomics. julij <year>2012</year>.;13(9):1001–8.</mixed-citation>
+         </ref>
+         <ref id="b47">
+            <label>47.      </label>
+            <mixed-citation publication-type="unknown" specific-use="unparsed">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Smid</surname> 
+                     <given-names>A</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Karas-Kuzelicki</surname> 
+                     <given-names>N</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Jazbec</surname> 
+                     <given-names>J</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Mlinaric-Rascan</surname> 
+                     <given-names>I.</given-names>
+                  </string-name>
+               </person-group> PACSIN2 polymorphism is associated with thiopurine-induced hematological toxicity in children with acute lymphoblastic leukaemia undergoing maintenance therapy. Sci Rep. 25. julij <year>2016</year>.;6:30244.</mixed-citation>
+         </ref>
+         <ref id="b48">
+            <label>48.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Rutherford</surname> 
+                     <given-names>K</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Daggett</surname> 
+                     <given-names>V</given-names>
+                  </string-name>
+               </person-group>. <article-title>Polymorphisms and disease: hotspots of inactivation in methyltransferases</article-title>. <source>Trends Biochem Sci</source>. <year>2010</year> 
+               <month>Oct</month>;<volume>35</volume>(<issue>10</issue>):<fpage>531</fpage>–<lpage>8</lpage>. <pub-id pub-id-type="doi">10.1016/j.tibs.2010.03.007</pub-id>
+               <pub-id pub-id-type="pmid">20382027</pub-id>
+               <issn>0968-0004</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b49">
+            <label>49.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Chiengthong</surname> 
+                     <given-names>K</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Ittiwut</surname> 
+                     <given-names>C</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Muensri</surname> 
+                     <given-names>S</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Sophonphan</surname> 
+                     <given-names>J</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Sosothikul</surname> 
+                     <given-names>D</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Seksan</surname> 
+                     <given-names>P</given-names>
+                  </string-name>, <etal>et al.</etal>
+               </person-group> 
+               <article-title>NUDT15 c.415C&gt;T increases risk of 6-mercaptopurine induced myelosuppression during maintenance therapy in children with acute lymphoblastic leukemia</article-title>. <source>Haematologica</source>. <year>2016</year> 
+               <month>Jan</month>;<volume>101</volume>(<issue>1</issue>):<fpage>e24</fpage>–<lpage>6</lpage>. <pub-id pub-id-type="doi">10.3324/haematol.2015.134775</pub-id>
+               <pub-id pub-id-type="pmid">26405151</pub-id>
+               <issn>0390-6078</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b50">
+            <label>50.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Tanaka</surname> 
+                     <given-names>Y</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Kato</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Hasegawa</surname> 
+                     <given-names>D</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Urayama</surname> 
+                     <given-names>KY</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Nakadate</surname> 
+                     <given-names>H</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Kondoh</surname> 
+                     <given-names>K</given-names>
+                  </string-name>, <etal>et al.</etal>
+               </person-group> 
+               <article-title>Susceptibility to 6-MP toxicity conferred by a NUDT15 variant in Japanese children with acute lymphoblastic leukaemia</article-title>. <source>Br J Haematol</source>. <year>2015</year> 
+               <month>Oct</month>;<volume>171</volume>(<issue>1</issue>):<fpage>109</fpage>–<lpage>15</lpage>. <pub-id pub-id-type="doi">10.1111/bjh.13518</pub-id>
+               <pub-id pub-id-type="pmid">26033531</pub-id>
+               <issn>0007-1048</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b51">
+            <label>51.      </label>
+            <mixed-citation publication-type="unknown" specific-use="unparsed">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Yang</surname> 
+                     <given-names>JJ</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Landier</surname> 
+                     <given-names>W</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Yang</surname> 
+                     <given-names>W</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Liu</surname> 
+                     <given-names>C</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Hageman</surname> 
+                     <given-names>L</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Cheng</surname> 
+                     <given-names>C</given-names>
+                  </string-name>
+               </person-group>, in sod. Inherited NUDT15 Variant Is a Genetic Determinant of Mercaptopurine Intolerance in Children With Acute Lymphoblastic Leukemia. J Clin Oncol. 10. april <year>2015</year>.;33(11):1235–42.</mixed-citation>
+         </ref>
+         <ref id="b52">
+            <label>52.      </label>
+            <mixed-citation publication-type="unknown" specific-use="unparsed">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Moriyama</surname> 
+                     <given-names>T</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Yang</surname> 
+                     <given-names>Y-L</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Nishii</surname> 
+                     <given-names>R</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Ariffin</surname> 
+                     <given-names>H</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Liu</surname> 
+                     <given-names>C</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Lin</surname> 
+                     <given-names>T-N</given-names>
+                  </string-name>
+               </person-group>, in sod. Novel variants in NUDT15 and thiopurine intolerance in children with acute lymphoblastic leukemia from diverse ancestry. Blood. 7. september <year>2017</year>.;130(10):1209–12.</mixed-citation>
+         </ref>
+         <ref id="b53">
+            <label>53.      </label>
+            <mixed-citation publication-type="unknown" specific-use="unparsed">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Stocco</surname> 
+                     <given-names>G</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Yang</surname> 
+                     <given-names>W</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Crews</surname> 
+                     <given-names>KR</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Thierfelder</surname> 
+                     <given-names>WE</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Decorti</surname> 
+                     <given-names>G</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Londero</surname> 
+                     <given-names>M</given-names>
+                  </string-name>
+               </person-group>, in sod. PACSIN2 polymorphism influences TPMT activity and mercaptopurine-related gastrointestinal toxicity. Hum Mol Genet. 1. november <year>2012</year>.;21(21):4793–804.</mixed-citation>
+         </ref>
+         <ref id="b54">
+            <label>54.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Stocco</surname> 
+                     <given-names>G</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Cheok</surname> 
+                     <given-names>MH</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Crews</surname> 
+                     <given-names>KR</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Dervieux</surname> 
+                     <given-names>T</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>French</surname> 
+                     <given-names>D</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Pei</surname> 
+                     <given-names>D</given-names>
+                  </string-name>, <etal>et al.</etal>
+               </person-group> 
+               <article-title>Genetic polymorphism of inosine triphosphate pyrophosphatase is a determinant of mercaptopurine metabolism and toxicity during treatment for acute lymphoblastic leukemia</article-title>. <source>Clin Pharmacol Ther</source>. <year>2009</year> 
+               <month>Feb</month>;<volume>85</volume>(<issue>2</issue>):<fpage>164</fpage>–<lpage>72</lpage>. <pub-id pub-id-type="doi">10.1038/clpt.2008.154</pub-id>
+               <pub-id pub-id-type="pmid">18685564</pub-id>
+               <issn>0009-9236</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b55">
+            <label>55.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Wan Rosalina</surname> 
+                     <given-names>WR</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Teh</surname> 
+                     <given-names>LK</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Mohamad</surname> 
+                     <given-names>N</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Nasir</surname> 
+                     <given-names>A</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Yusoff</surname> 
+                     <given-names>R</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Baba</surname> 
+                     <given-names>AA</given-names>
+                  </string-name>, <etal>et al.</etal>
+               </person-group> 
+               <article-title>Polymorphism of ITPA 94C&gt;A and risk of adverse effects among patients with acute lymphoblastic leukaemia treated with 6-mercaptopurine</article-title>. <source>J Clin Pharm Ther</source>. <year>2012</year> 
+               <month>Apr</month>;<volume>37</volume>(<issue>2</issue>):<fpage>237</fpage>–<lpage>41</lpage>. <pub-id pub-id-type="doi">10.1111/j.1365-2710.2011.01272.x</pub-id>
+               <pub-id pub-id-type="pmid">21545474</pub-id>
+               <issn>0269-4727</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b56">
+            <label>56.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Smid</surname> 
+                     <given-names>A</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Karas-Kuzelicki</surname> 
+                     <given-names>N</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Milek</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Jazbec</surname> 
+                     <given-names>J</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Mlinaric-Rascan</surname> 
+                     <given-names>I</given-names>
+                  </string-name>
+               </person-group>. <article-title>Association of ITPA genotype with event-free survival and relapse rates in children with acute lymphoblastic leukemia undergoing maintenance therapy</article-title>. <source>PLoS One</source>. <year>2014</year> 
+               <month>Oct</month>;<volume>9</volume>(<issue>10</issue>):<fpage>e109551</fpage>. <pub-id pub-id-type="doi">10.1371/journal.pone.0109551</pub-id>
+               <pub-id pub-id-type="pmid">25303517</pub-id>
+               <issn>1932-6203</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b57">
+            <label>57.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Huang</surname> 
+                     <given-names>L</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Tissing</surname> 
+                     <given-names>WJ</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>de Jonge</surname> 
+                     <given-names>R</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>van Zelst</surname> 
+                     <given-names>BD</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Pieters</surname> 
+                     <given-names>R</given-names>
+                  </string-name>
+               </person-group>. <article-title>Polymorphisms in folate-related genes: association with side effects of high-dose methotrexate in childhood acute lymphoblastic leukemia</article-title>. <source>Leukemia</source>. <year>2008</year> 
+               <month>Sep</month>;<volume>22</volume>(<issue>9</issue>):<fpage>1798</fpage>–<lpage>800</lpage>. <pub-id pub-id-type="doi">10.1038/leu.2008.66</pub-id>
+               <pub-id pub-id-type="pmid">18368069</pub-id>
+               <issn>0887-6924</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b58">
+            <label>58.      </label>
+            <mixed-citation publication-type="unknown" specific-use="unparsed">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Radtke</surname> 
+                     <given-names>S</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Zolk</surname> 
+                     <given-names>O</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Renner</surname> 
+                     <given-names>B</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Paulides</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Zimmermann</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Moricke</surname> 
+                     <given-names>A</given-names>
+                  </string-name>
+               </person-group>, in sod. Germline genetic variations in methotrexate candidate genes are associated with pharmacokinetics, toxicity, and outcome in childhood acute lymphoblastic leukemia. Blood. 27. junij <year>2013</year>.;121(26):5145–53.</mixed-citation>
+         </ref>
+         <ref id="b59">
+            <label>59.      </label>
+            <mixed-citation publication-type="unknown" specific-use="linked">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Erculj</surname> 
+                     <given-names>N</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Kotnik</surname> 
+                     <given-names>BF</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Debeljak</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Jazbec</surname> 
+                     <given-names>J</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Dolzan</surname> 
+                     <given-names>V</given-names>
+                  </string-name>
+               </person-group>. <article-title>Influence of folate pathway polymorphisms on high-dose methotrexate-related toxicity and survival in childhood acute lymphoblastic leukemia.</article-title> Leuk Lymphoma. junij <year>2012</year>.;53(6):1096–104. <pub-id pub-id-type="doi">10.3109/10428194.2011.639880</pub-id>
+            </mixed-citation>
+         </ref>
+         <ref id="b60">
+            <label>60.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Krajinovic</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Costea</surname> 
+                     <given-names>I</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Primeau</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Dulucq</surname> 
+                     <given-names>S</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Moghrabi</surname> 
+                     <given-names>A</given-names>
+                  </string-name>
+               </person-group>. <article-title>Combining several polymorphisms of thymidylate synthase gene for pharmacogenetic analysis</article-title>. <source>Pharmacogenomics J</source>. <year>2005</year>;<volume>5</volume>(<issue>6</issue>):<fpage>374</fpage>–<lpage>80</lpage>. <pub-id pub-id-type="doi">10.1038/sj.tpj.6500332</pub-id>
+               <pub-id pub-id-type="pmid">16130010</pub-id>
+               <issn>1470-269X</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b61">
+            <label>61.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Lopez-Lopez</surname> 
+                     <given-names>E</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Martin-Guerrero</surname> 
+                     <given-names>I</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Ballesteros</surname> 
+                     <given-names>J</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Garcia-Orad</surname> 
+                     <given-names>A</given-names>
+                  </string-name>
+               </person-group>. <article-title>A systematic review and meta-analysis of <italic>MTHFR</italic> polymorphisms in methotrexate toxicity prediction in pediatric acute lymphoblastic leukemia</article-title>. <source>Pharmacogenomics J</source>. <year>2013</year> 
+               <month>Dec</month>;<volume>13</volume>(<issue>6</issue>):<fpage>498</fpage>–<lpage>506</lpage>. <pub-id pub-id-type="doi">10.1038/tpj.2012.44</pub-id>
+               <pub-id pub-id-type="pmid">23089671</pub-id>
+               <issn>1470-269X</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b62">
+            <label>62.      </label>
+            <mixed-citation publication-type="unknown" specific-use="linked">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Umerez</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Gutierrez-Camino</surname> 
+                     <given-names>Á</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Muñoz-Maldonado</surname> 
+                     <given-names>C</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Martin-Guerrero</surname> 
+                     <given-names>I</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Garcia-Orad</surname> 
+                     <given-names>A.</given-names>
+                  </string-name>
+               </person-group> 
+               <article-title>MTHFR polymorphisms in childhood acute lymphoblastic leukemia: influence on methotrexate therapy.</article-title> Pharmacogenomics Pers Med. 27. marec <year>2017</year>.;10:69–78. <pub-id pub-id-type="doi">10.2147/PGPM.S107047</pub-id>
+            </mixed-citation>
+         </ref>
+         <ref id="b63">
+            <label>63.      </label>
+            <mixed-citation publication-type="unknown" specific-use="unparsed">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Treviño</surname> 
+                     <given-names>LR</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Shimasaki</surname> 
+                     <given-names>N</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Yang</surname> 
+                     <given-names>W</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Panetta</surname> 
+                     <given-names>JC</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Cheng</surname> 
+                     <given-names>C</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Pei</surname> 
+                     <given-names>D</given-names>
+                  </string-name>
+               </person-group>, in sod. Germline Genetic Variation in an Organic Anion Transporter Polypeptide Associated With Methotrexate Pharmacokinetics and Clinical Effects. J Clin Oncol. 10. december <year>2009</year>.;27(35):5972–8.</mixed-citation>
+         </ref>
+         <ref id="b64">
+            <label>64.      </label>
+            <mixed-citation publication-type="unknown" specific-use="unparsed">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Ramsey</surname> 
+                     <given-names>LB</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Bruun</surname> 
+                     <given-names>GH</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Yang</surname> 
+                     <given-names>W</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Treviño</surname> 
+                     <given-names>LR</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Vattathil</surname> 
+                     <given-names>S</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Scheet</surname> 
+                     <given-names>P</given-names>
+                  </string-name>
+               </person-group>, in sod. Rare versus common variants in pharmacogenetics: SLCO1B1 variation and methotrexate disposition. Genome Res. 1. januar <year>2012</year>.;22(1):1–8.</mixed-citation>
+         </ref>
+         <ref id="b65">
+            <label>65.      </label>
+            <mixed-citation publication-type="unknown" specific-use="unparsed">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Liu</surname> 
+                     <given-names>S-G</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Gao</surname> 
+                     <given-names>C</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Zhang</surname> 
+                     <given-names>R-D</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Zhao</surname> 
+                     <given-names>X-X</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Cui</surname> 
+                     <given-names>L</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Li</surname> 
+                     <given-names>W-J</given-names>
+                  </string-name>
+               </person-group>, in sod. Polymorphisms in methotrexate transporters and their relationship to plasma methotrexate levels, toxicity of high-dose methotrexate, and outcome of pediatric acute lymphoblastic leukemia. Oncotarget. 11. maj <year>2017</year>.;8(23):37761–72.</mixed-citation>
+         </ref>
+         <ref id="b66">
+            <label>66.      </label>
+            <mixed-citation publication-type="unknown" specific-use="unparsed">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Zgheib</surname> 
+                     <given-names>NK</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Akra-Ismail</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Aridi</surname> 
+                     <given-names>C</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Mahfouz</surname> 
+                     <given-names>R</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Abboud</surname> 
+                     <given-names>MR</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Solh</surname> 
+                     <given-names>H</given-names>
+                  </string-name>
+               </person-group>, in sod. Genetic polymorphisms in candidate genes predict increased toxicity with methotrexate therapy in Lebanese children with acute lymphoblastic leukemia. Pharmacogenet Genomics. avgust <year>2014</year>.;24(8):387–96.</mixed-citation>
+         </ref>
+         <ref id="b67">
+            <label>67.      </label>
+            <mixed-citation publication-type="unknown" specific-use="linked">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Gervasini</surname> 
+                     <given-names>G</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>de Murillo</surname> 
+                     <given-names>SG</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Jiménez</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>de la Maya</surname> 
+                     <given-names>MD</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Vagace</surname> 
+                     <given-names>JM</given-names>
+                  </string-name>
+               </person-group>. <article-title>Effect of polymorphisms in transporter genes on dosing, efficacy and toxicity of maintenance therapy in children with acute lymphoblastic leukemia.</article-title> Gene. 10. september <year>2017</year>.;628:72–7. <pub-id pub-id-type="doi">10.1016/j.gene.2017.07.025</pub-id>
+            </mixed-citation>
+         </ref>
+         <ref id="b68">
+            <label>68.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Simon</surname> 
+                     <given-names>N</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Marsot</surname> 
+                     <given-names>A</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Villard</surname> 
+                     <given-names>E</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Choquet</surname> 
+                     <given-names>S</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Khe</surname> 
+                     <given-names>HX</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Zahr</surname> 
+                     <given-names>N</given-names>
+                  </string-name>, <etal>et al.</etal>
+               </person-group> 
+               <article-title>Impact of ABCC2 polymorphisms on high-dose methotrexate pharmacokinetics in patients with lymphoid malignancy</article-title>. <source>Pharmacogenomics J</source>. <year>2013</year> 
+               <month>Dec</month>;<volume>13</volume>(<issue>6</issue>):<fpage>507</fpage>–<lpage>13</lpage>. <pub-id pub-id-type="doi">10.1038/tpj.2012.37</pub-id>
+               <pub-id pub-id-type="pmid">23069858</pub-id>
+               <issn>1470-269X</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b69">
+            <label>69.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Ansari</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Sauty</surname> 
+                     <given-names>G</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Labuda</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Gagné</surname> 
+                     <given-names>V</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Rousseau</surname> 
+                     <given-names>J</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Moghrabi</surname> 
+                     <given-names>A</given-names>
+                  </string-name>, <etal>et al.</etal>
+               </person-group> 
+               <article-title>Polymorphism in multidrug resistance-associated protein gene 3 is associated with outcomes in childhood acute lymphoblastic leukemia</article-title>. <source>Pharmacogenomics J</source>. <year>2012</year> 
+               <month>Oct</month>;<volume>12</volume>(<issue>5</issue>):<fpage>386</fpage>–<lpage>94</lpage>. <pub-id pub-id-type="doi">10.1038/tpj.2011.17</pub-id>
+               <pub-id pub-id-type="pmid">21606946</pub-id>
+               <issn>1470-269X</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b70">
+            <label>70.      </label>
+            <mixed-citation publication-type="unknown" specific-use="linked">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Campbell</surname> 
+                     <given-names>JM</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Bateman</surname> 
+                     <given-names>E</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Stephenson</surname> 
+                     <given-names>MD</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Bowen</surname> 
+                     <given-names>JM</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Keefe</surname> 
+                     <given-names>DM</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Peters</surname> 
+                     <given-names>MDJ</given-names>
+                  </string-name>
+               </person-group>. <article-title>Methotrexate-induced toxicity pharmacogenetics: an umbrella review of systematic reviews and meta-analyses.</article-title> Cancer Chemother Pharmacol. 1. julij <year>2016</year>.;78(1):27–39. <pub-id pub-id-type="doi">10.1007/s00280-016-3043-5</pub-id>
+            </mixed-citation>
+         </ref>
+         <ref id="b71">
+            <label>71.	</label>
+            <mixed-citation publication-type="web-page" specific-use="unparsed">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Fernandez</surname> 
+                     <given-names>CA</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Smith</surname> 
+                     <given-names>C</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Yang</surname> 
+                     <given-names>W</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Daté</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Bashford</surname> 
+                     <given-names>D</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Larsen</surname> 
+                     <given-names>E</given-names>
+                  </string-name>
+               </person-group>. in sod. HLA-DRB1*07:01 is associated with a higher risk of asparaginase allergies [Internet]. Let. 124. <year>2014</year>. 1266–1276 str. Dostopno na: <ext-link ext-link-type="uri"
+                         xlink:href="http://www.bloodjournal.org/bloodjournal/124/8/1266.full.pdf">http://www.bloodjournal.org/bloodjournal/124/8/1266.full.pdf</ext-link>
+            </mixed-citation>
+         </ref>
+         <ref id="b72">
+            <label>72.      </label>
+            <mixed-citation publication-type="unknown" specific-use="unparsed">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Chen</surname> 
+                     <given-names>SH</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Pei</surname> 
+                     <given-names>D</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Yang</surname> 
+                     <given-names>W</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Cheng</surname> 
+                     <given-names>C</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Jeha</surname> 
+                     <given-names>S</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Cox</surname> 
+                     <given-names>NJ</given-names>
+                  </string-name>
+               </person-group>, in sod. Genetic variations in GRIA1 on chromosome 5q33 related to asparaginase hypersensitivity. Clin Pharmacol Ther. avgust <year>2010</year>.;88(2):191–6.</mixed-citation>
+         </ref>
+         <ref id="b73">
+            <label>73.      </label>
+            <mixed-citation publication-type="unknown" specific-use="unparsed">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Relling</surname> 
+                     <given-names>MV</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Yang</surname> 
+                     <given-names>W</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Das</surname> 
+                     <given-names>S</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Cook</surname> 
+                     <given-names>EH</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Rosner</surname> 
+                     <given-names>GL</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Neel</surname> 
+                     <given-names>M</given-names>
+                  </string-name>
+               </person-group>, in sod. Pharmacogenetic risk factors for osteonecrosis of the hip among children with leukemia. J Clin Oncol. 1. oktober <year>2004</year>.;22(19):3930–6.</mixed-citation>
+         </ref>
+         <ref id="b74">
+            <label>74.      </label>
+            <mixed-citation publication-type="unknown" specific-use="unparsed">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>French</surname> 
+                     <given-names>D</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Hamilton</surname> 
+                     <given-names>LH</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Mattano</surname> 
+                     <given-names>LA</given-names> 
+                     <suffix>Jr</suffix>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Sather</surname> 
+                     <given-names>HN</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Devidas</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Nachman</surname> 
+                     <given-names>JB</given-names>
+                  </string-name>
+               </person-group>, in sod. A PAI-1 (SERPINE1) polymorphism predicts osteonecrosis in children with acute lymphoblastic leukemia: a report from the Children’s Oncology Group. Blood. 1. maj <year>2008</year>.;111(9):4496–9.</mixed-citation>
+         </ref>
+         <ref id="b75">
+            <label>75.      </label>
+            <mixed-citation publication-type="unknown" specific-use="unparsed">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Kawedia</surname> 
+                     <given-names>JD</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Kaste</surname> 
+                     <given-names>SC</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Pei</surname> 
+                     <given-names>D</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Panetta</surname> 
+                     <given-names>JC</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Cai</surname> 
+                     <given-names>X</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Cheng</surname> 
+                     <given-names>C</given-names>
+                  </string-name>
+               </person-group>, in sod. Pharmacokinetic, pharmacodynamic, and pharmacogenetic determinants of osteonecrosis in children with acute lymphoblastic leukemia. Blood. 24. februar <year>2011</year>.;117(8):2340–7; quiz 2556.</mixed-citation>
+         </ref>
+         <ref id="b76">
+            <label>76.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Whirl-Carrillo</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>McDonagh</surname> 
+                     <given-names>EM</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Hebert</surname> 
+                     <given-names>JM</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Gong</surname> 
+                     <given-names>L</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Sangkuhl</surname> 
+                     <given-names>K</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Thorn</surname> 
+                     <given-names>CF</given-names>
+                  </string-name>, <etal>et al.</etal>
+               </person-group> 
+               <article-title>Pharmacogenomics knowledge for personalized medicine</article-title>. <source>Clin Pharmacol Ther</source>. <year>2012</year> 
+               <month>Oct</month>;<volume>92</volume>(<issue>4</issue>):<fpage>414</fpage>–<lpage>7</lpage>. <pub-id pub-id-type="doi">10.1038/clpt.2012.96</pub-id>
+               <pub-id pub-id-type="pmid">22992668</pub-id>
+               <issn>0009-9236</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b77">
+            <label>77.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Day</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Rutkowski</surname> 
+                     <given-names>JL</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Feuerstein</surname> 
+                     <given-names>GZ</given-names>
+                  </string-name>
+               </person-group>. <article-title>Translational medicine—a paradigm shift in modern drug discovery and development: the role of biomarkers</article-title>. <source>Adv Exp Med Biol</source>. <year>2009</year>;<volume>655</volume>:<fpage>1</fpage>–<lpage>12</lpage>. <pub-id pub-id-type="doi">10.1007/978-1-4419-1132-2_1</pub-id>
+               <pub-id pub-id-type="pmid">20047030</pub-id>
+               <issn>0065-2598</issn>
+            </mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

@@ -1,0 +1,2091 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD with MathML3 v1.1 20151215//EN" "JATS-journalpublishing1-mathml3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink"
+         dtd-version="1.1"
+         xml:lang="sl"
+         article-type="other">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher-id">Zdrav Vestn</journal-id>
+         <journal-id journal-id-type="nlm-ta">Zdrav Vestn</journal-id>
+         <journal-id journal-id-type="doi">Zdrav Vestn</journal-id>
+         <journal-title-group>
+            <journal-title>Zdravniški vestnik</journal-title>
+            <trans-title-group xml:lang="en">
+               <trans-title>Slovenian Medical Journal</trans-title>
+            </trans-title-group>
+            <abbrev-journal-title>Zdrav Vestn</abbrev-journal-title>
+         </journal-title-group>
+         <issn publication-format="ppub" pub-type="ppub">1318-0347</issn>
+         <issn publication-format="epub" pub-type="epub">1581-0224</issn>
+         <issn-l>0350-0063</issn-l>
+         <publisher>
+            <publisher-name xml:lang="sl">Slovensko zdravniško društvo</publisher-name>
+            <publisher-name xml:lang="en">Slovenian Medical Association</publisher-name>
+            <publisher-loc xml:lang="sl">Ljubljana, Slovenia</publisher-loc>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.6016/ZdravVestn.2802</article-id>
+         <article-id pub-id-type="publisher-id">2802</article-id>
+         <article-categories>
+            <subj-group subj-group-type="discipline" xml:lang="en">
+               <subject>Medicine and health sciences</subject>
+               <subj-group>
+                  <subject>Neurobiology</subject>
+               </subj-group>
+            </subj-group>
+            <subj-group subj-group-type="discipline" xml:lang="sl">
+               <subject>Medicina/Zdravstvo</subject>
+               <subj-group>
+                  <subject>Nevrobiologija</subject>
+               </subj-group>
+            </subj-group>
+            <subj-group subj-group-type="article-type" xml:lang="en">
+               <subject>Professional article</subject>
+            </subj-group>
+            <subj-group subj-group-type="article-type" xml:lang="sl">
+               <subject>Strokovni članek</subject>
+            </subj-group>
+            <subj-group subj-group-type="heading" xml:lang="sl">
+               <subject>Nevrobiologija</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title xml:lang="sl">Ishemična možganska kap pri otrocih in mladostnikih: Zgodnja prepoznava in akutna obravnava</article-title>
+            <trans-title-group>
+               <trans-title xml:lang="en">Ischemic stroke in childhood and adolescence: Early detection and acute treatment</trans-title>
+            </trans-title-group>
+            <alt-title alt-title-type="running-head" xml:lang="sl">Ishemična možganska kap pri otrocih in mladostnikih</alt-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Kavčič</surname>
+                  <given-names>Alja</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1">1</xref>
+            </contrib>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Rener Primec</surname>
+                  <given-names>Zvonka</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1">1</xref>
+            </contrib>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Perković Benedik</surname>
+                  <given-names>Mirjana</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1">1</xref>
+            </contrib>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Pečarič Meglič</surname>
+                  <given-names>Nuška</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff2">2</xref>
+            </contrib>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Osredkar</surname>
+                  <given-names>Damjan</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1">1</xref>
+               <xref ref-type="corresp" rid="corr"/>
+            </contrib>
+         </contrib-group>
+         <aff-alternatives id="aff1">
+            <aff xml:lang="sl">
+               <label>1</label>
+               <institution>Klinični oddelek za otroško, mladostniško in razvojno nevrologijo, Pediatrična klinika, Univerzitetni klinični center Ljubljana, Ljubljana, Slovenija</institution>
+            </aff>
+            <aff xml:lang="en">
+               <label>1</label>
+               <institution>Department of Child, Adolescent and Developmental Neurology, Division of Paediatrics, University Medical Centre Ljubljana, Ljubljana, Slovenia</institution>
+            </aff>
+         </aff-alternatives>
+         <aff-alternatives id="aff2">
+            <aff xml:lang="sl">
+               <label>2</label>
+               <institution>Klinični inštitut za radiologijo, Univerzitetni klinični center Ljubljana, Ljubljana, Slovenija</institution>
+            </aff>
+            <aff xml:lang="en">
+               <label>2</label>
+               <institution>Institute of Radiology, University Medical Centre Ljubljana, Ljubljana, Slovenia</institution>
+            </aff>
+         </aff-alternatives>
+         <author-notes>
+            <fn fn-type="conflict" xml:lang="en">
+               <p>The authors have declared that no competing interests exist.</p>
+            </fn>
+            <fn fn-type="conflict" xml:lang="sl">
+               <p>Avtorji so izjavili, da ne obstajajo nobeni konkurenčni interesi.</p>
+            </fn>
+            <corresp id="corr">Damjan Osredkar, e-mail: <email xlink:type="simple"/>
+            </corresp>
+         </author-notes>
+         <pub-date pub-type="ppub">
+            <month>4</month>
+            <year>2019</year>
+         </pub-date>
+         <pub-date pub-type="epub">
+            <month>4</month>
+            <year>2019</year>
+         </pub-date>
+         <volume>88</volume>
+         <issue>3–4</issue>
+         <fpage>184</fpage>
+         <lpage>96</lpage>
+         <history>
+            <date date-type="received">
+               <day>13</day>
+               <month>2</month>
+               <year>2018</year>
+            </date>
+            <date date-type="accepted">
+               <day>17</day>
+               <month>1</month>
+               <year>2019</year>
+            </date>
+         </history>
+         <permissions>
+            <copyright-statement xml:lang="en">Copyright © 2019, Slovenian Medical Association (SZD)</copyright-statement>
+            <copyright-statement xml:lang="sl">© 2019, Slovensko zdravniško društvo (SZD)</copyright-statement>
+            <copyright-year>2019</copyright-year>
+            <copyright-holder xml:lang="en">Slovenian Medical Association (SZD)</copyright-holder>
+            <copyright-holder xml:lang="sl">Slovensko zdravniško društvo (SZD)</copyright-holder>
+            <license xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                     xlink:type="simple"
+                     xml:lang="en">
+               <license-p>This is an open access article distributed under the terms of the
+          <ext-link ext-link-type="uri"
+                            xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                            xlink:type="simple">Creative Commons Attribution-NonCommercial
+            License</ext-link>, which permits unrestricted use, distribution, and
+          reproduction in any medium, provided the original author and source are
+          credited and only for non-commercial purposes. </license-p>
+            </license>
+            <license xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                     xlink:type="simple"
+                     xml:lang="sl">
+               <license-p>To je članek z odprtim dostopom, ki ga lahko uporabite pod pogoji iz
+          <ext-link ext-link-type="uri"
+                            xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                            xlink:type="simple">Creative Commons Priznanje avtorstva-Nekomercialno
+            licence</ext-link>. ki dovoljuje distribucijo, predelavo ali
+          prilagoditev, ter gradijo na njem, v nekomercialne namene, z navedbo avtorja
+          in izvirnega dela.</license-p>
+            </license>
+         </permissions>
+         <abstract xml:lang="sl">
+            <title>Izvleček</title>
+            <p>Ishemična možganska kap je v pediatrični populaciji redka, vendar predstavlja pomemben vzrok nevrološke oviranosti pri otrocih in mladostnikih. Z razvojem in dostopnostjo nevroradiološke diagnostike je danes prepoznava ishemične možganske kapi zgodnejša. Vzroki in dejavniki tveganja za ishemično možgansko kap pri otroku se pomembno razlikujejo od vzrokov pri odraslih, prav tako obstajajo pomembne razlike med neonatalnim in kasnejšimi starostnimi obdobji. Med najpogostejšimi vzroki ishemične možganske kapi v pediatrični populaciji so vaskulopatije, embolije pri prirojenih srčnih napakah in protrombotična stanja. Pogosto je vpletenih več dejavnikov hkrati. Klinična slika možganske kapi pri otroku v akutni fazi ni vedno jasno izražena, zato se diagnoza lahko postavi z zakasnitvijo. Možganska kap pri otroku ne povzroči le izgube določenih možganskih funkcij, temveč vpliva na celostni razvoj otroka.</p>
+            <p>Z namenom zgodnjega prepoznavanja možganske kapi prispevek posebno pozornost namenja opisu različnih kliničnih slik možganske kapi pri otrocih ter dejavnikom tveganja zanjo. Članek podaja tudi trenutne smernice oz. priporočila s področja akutne obravnave in zdravljenja, katerih cilj je zmanjšanje obsega možganske okvare in izboljšanje izida pri otroku. Prispevek obravnava pediatrično ishemično možgansko kap, ki jo opredeljuje starostno obdobje med 28. dnem in 18. letom starosti.</p>
+         </abstract>
+         <trans-abstract xml:lang="en">
+            <title>Abstract</title>
+            <p>Stroke in childhood is a rare but important cause of neurological disability in children. Due to the development and availability of neuroradiological investigations childhood stroke can be recognized earlier. Aetiology and risk factors of stroke in childhood differ largely from stroke in adulthood, as do causes in the neonatal period from those in childhood. The most frequent risk factors for arterial ischaemic stroke in childhood and adolescence are arteriopathies, congenital heart diseases and thrombophilias. There can be more than one risk factor involved. Clinical presentation of stroke is diverse, and diagnosis is often delayed. Not only can stroke lead to a loss of certain brain functions, it may also have devastating consequences for a child’s development.</p>
+            <p>Due to the importance of early detection, this article focuses on major risk factors and different clinical presentations of ischaemic stroke in children. To minimize the damage and to provide better outcomes, we outline recent guidelines for acute management of paediatric stroke. Recommendations regarding stroke management in this article are intended for paediatric population from one month to including 18 years of age.</p>
+         </trans-abstract>
+         <kwd-group xml:lang="sl">
+            <kwd>možganska kap</kwd>
+            <kwd>otroci</kwd>
+            <kwd>vzrok</kwd>
+            <kwd>dejavniki tveganja</kwd>
+            <kwd>klinična slika</kwd>
+            <kwd>akutna obravnava</kwd>
+         </kwd-group>
+         <kwd-group xml:lang="en">
+            <kwd>stroke</kwd>
+            <kwd>children</kwd>
+            <kwd>etiology</kwd>
+            <kwd>risk factors</kwd>
+            <kwd>clinical presentation</kwd>
+            <kwd>acute management</kwd>
+         </kwd-group>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>TotalReferences</meta-name>
+               <meta-value>57</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ReferencesParsed</meta-name>
+               <meta-value>48</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ReferencesBillable</meta-name>
+               <meta-value>47</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>LinkServices</meta-name>
+               <meta-value>pubmed-crossref</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ReferencesLinked</meta-name>
+               <meta-value>46</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ReferencesLinkedDOI</meta-name>
+               <meta-value>46</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ReferencesLinkedPMID</meta-name>
+               <meta-value>44</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>JournalReferences</meta-name>
+               <meta-value>48</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>BookReferences</meta-name>
+               <meta-value>1</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>BookChapterReferences</meta-name>
+               <meta-value>3</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ConferenceReferences</meta-name>
+               <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ElectronicReferences</meta-name>
+               <meta-value>4</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>DissertationReferences</meta-name>
+               <meta-value>1</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>LegalReferences</meta-name>
+               <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>StandardReferences</meta-name>
+               <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>OtherReferences</meta-name>
+               <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>UnknownReferences</meta-name>
+               <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ReferencesSemiParsed</meta-name>
+               <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ReferencesBookUnparsed</meta-name>
+               <meta-value>4</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>EditorialStyle</meta-name>
+               <meta-value>ICMJE-WHO</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <body>
+      <sec id="s1" sec-type="Uvod">
+         <label>1</label>
+         <title>Uvod</title>
+         <p>Možganska kap (MK) je posledica okvare možganskih celic zaradi žilnih vzrokov (<xref ref-type="bibr" rid="b1">1</xref>). Delimo jo na ishemično in hemoragično. Ishemična MK (IMK) je nenadna, žariščna motnja prekrvitve možganskega tkiva. Pri IMK pride do nepovratne ishemije možganskega tkiva. Kadar gre za prehodno oziroma popravljivo ishemijo, govorimo o prehodnem ishemičnem napadu (<italic>angl.</italic> transient ischemic attack, TIA). Nevrološki znaki se v tem primeru akutno pojavijo in izzvenijo brez trajnih posledic (<xref ref-type="bibr" rid="b2">2</xref>). Med hemoragične MK (HMK) uvrščamo vsako intraventrikularno, intraparenhimsko in subarahnoidno krvavitev, ki ni posledica poškodbe (<xref ref-type="bibr" rid="b3">3</xref>,<xref ref-type="bibr" rid="b4">4</xref>). Za razliko od odrasle populacije, v kateri je IMK najpogostejša oblika MK, sta incidenci IMK in HMK v otroškem obdobju primerljivi (<xref ref-type="bibr" rid="b5">5</xref>). V posebno skupino MK spada tromboza venskih sinusov, ki lahko povzroči ishemijo in/ali znotrajmožgansko krvavitev (<xref ref-type="bibr" rid="b1">1</xref>). Pri otrocih je tromboza venskih sinusov redka, najpogosteje se pojavlja ob trombofilijah. Drugi možni vzroki so anemija, dehidracija in kronične bolezni (<xref ref-type="bibr" rid="b3">3</xref>,<xref ref-type="bibr" rid="b6">6</xref>).</p>
+         <p>Tveganje za MK (ishemično in hemoragično) je najvišje v prvem mesecu življenja. Incidenca v novorojenčkovem obdobju je primerljiva z incidenco v odrasli dobi (<xref ref-type="bibr" rid="b7">7</xref>,<xref ref-type="bibr" rid="b8">8</xref>). Dejavniki tveganja za MK v neonatalnem obdobju se razlikujejo od dejavnikov, ki nastopajo kasneje. Pediatrična MK se nanaša na starostno obdobje od 28. dne do vključno 18. leta starosti in jo obravnavamo ločeno.</p>
+         <p>Po neonatalnem obdobju je incidenca IMK v pediatrični populaciji med 2 in 8/100.000 otrok na leto (povprečno 2,3/100.000 otrok na leto) v razvitem svetu. IMK se uvršča med 10 najpogostejših vzrokov umrljivosti otrok (<xref ref-type="bibr" rid="b9">9</xref>,<xref ref-type="bibr" rid="b10">10</xref>). Kar 50–80 % otrok, ki preživi IMK, ima doživljenjske nevrološke okvare v obliki gibalnih ter kognitivnih motenj (<xref ref-type="bibr" rid="b11">11</xref>).</p>
+         <p>V kar dveh tretjinah primerov se IMK pojavi nenadno, pri prej zdravem otroku; le 25 % otrok z IMK ima bolezen, ki predstavlja večje tveganje – npr. prirojene srčne napake. Vzroki IMK pri otrocih in mladostnikih so praviloma drugačni kot pri odraslih, medtem ko je klinična slika pri mladostniku enaka kot pri odraslih, pri malem otroku pa so simptomi in znaki lahko prikriti (<xref ref-type="bibr" rid="b3">3</xref>,<xref ref-type="bibr" rid="b5">5</xref>,<xref ref-type="bibr" rid="b6">6</xref>).</p>
+         <p>Diagnoza IMK se v pediatričnem obdobju lahko postavi z zakasnitvijo, ker je ozaveščenost o pojavljanju IMK v otroštvu v širši družbi nižja in ker je klinična slika pri otrocih, zlasti mlajših, lahko drugačna kot pri odraslih (<xref ref-type="bibr" rid="b12">12</xref>-<xref ref-type="bibr" rid="b16">16</xref>).</p>
+         <p>V Sloveniji povprečno obravnavamo 5 otrok z IMK na leto (<xref ref-type="bibr" rid="b17">17</xref>). Po delitvi dela med bolnišnicami iz leta 2011, zdravimo vse otroke z IMK na Kliničnem oddelku za otroško, mladostniško in razvojno nevrologijo Pediatrične klinike v Ljubljani, zato je ob vsakem sumu na IMK potreben takojšen posvet z otroškim nevrologom v pripravljenosti na Pediatrični kliniki v Ljubljani (01 522 7146), zunaj rednega delovnega časa pa je treba stopiti v stik z njim preko nadzornega dežurnega zdravnika na Pediatrični kliniki (01 522 8857).</p>
+      </sec>
+      <sec id="s2"
+           sec-type="Vzroki in dejavniki tveganja za nastanek IMK pri otroku in mladostniku">
+         <label>2</label>
+         <title>Vzroki in dejavniki tveganja za nastanek IMK pri otroku in mladostniku</title>
+         <p>Dejavniki tveganja za IMK pri otrocih se pomembno razlikujejo od odrasle populacije, pri kateri so najpogostejši dejavniki tveganja ateroskleroza, arterijska hipertenzija, metabolni sindrom in sladkorna bolezen. Ti dejavniki imajo v pediatričnem obdobju zanemarljivo vlogo (<xref ref-type="bibr" rid="b3">3</xref>,<xref ref-type="bibr" rid="b14">14</xref>,<xref ref-type="bibr" rid="b18">18</xref>). V otroštvu in adolescenci je dve tretjini IMK posledica različnih arterijopatij ter prirojenih srčnih bolezni, sledijo protrombotična stanja (pridobljena ali prirojena), akutne ali kronične sistemske bolezni, okužbe, maligne bolezni, hemoglobinopatije itn. (<xref ref-type="bibr" rid="b6">6</xref>,<xref ref-type="bibr" rid="b9">9</xref>,<xref ref-type="bibr" rid="b14">14</xref>). Pogosto je sočasno vpletenih več dejavnikov (<xref ref-type="bibr" rid="b19">19</xref>). Dejavnike tveganja in vzroke IMK povzema <xref ref-type="table" rid="table1">Tabela 1</xref>.</p>
+         <table-wrap position="anchor" id="table1">
+            <label>Tabela 1:</label>
+            <caption>
+               <p> Vzroki IMK v otroštvu (<xref ref-type="bibr" rid="b3">3</xref>,<xref ref-type="bibr" rid="b19">19</xref>-<xref ref-type="bibr" rid="b25">25</xref>).</p>
+            </caption>
+            <table>
+               <colgroup>
+                  <col/>
+                  <col/>
+               </colgroup>
+               <thead>
+                  <tr>
+                     <th colspan="2">Vzroki</th>
+                  </tr>
+               </thead>
+               <tbody>
+                  <tr>
+                     <td>Arterijopatije</td>
+                     <td>
+                        <p>Vnetne in imunsko pogojene:</p>
+                        <list>
+                           <list-item>
+                              <label>•</label>
+                              <p>žariščna možganska arterijopatija:</p>
+                           </list-item>
+                        </list>
+                        <p>•post-VZV arterijopatija,</p>
+                        <p>•prehodna angiopatija,</p>
+                        <list>
+                           <list-item>
+                              <label>•</label>
+                              <p>Primarni vaskulitis OŽ.</p>
+                           </list-item>
+                           <list-item>
+                              <label>•</label>
+                              <p>Sekundarni vaskulitis OŽ; SLE, PAN, KVČB, arteritis Takayashu.</p>
+                           </list-item>
+                        </list>
+                        <p>Infekcijske: Lymska bolezen, virusi skupine coxsackie, influenza A, enterovirusi, parvovirus B19, mikoplazmoza, bakterijski ali tuberkulozni meningitis, HIV.</p>
+                        <p>Ostalo:</p>
+                        <list>
+                           <list-item>
+                              <label>•</label>
+                              <p>arterijska disekcija,</p>
+                           </list-item>
+                        </list>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td>Srčno-žilne bolezni</td>
+                     <td>
+                        <p>Operacije/posegi na srcu (zlasti znotraj zadnjih 72 h) in ZTMO,</p>
+                        <p>Prirojene srčne napake z desno-levim šantom in cianozo,</p>
+                        <p>Bakterijski endokarditis ali miokarditis,</p>
+                        <p>Huda disfunkcija prekatov,</p>
+                        <p>Kardiomiopatija,</p>
+                        <p>Anevrizma preddvornega pretina,</p>
+                        <p>Okvara preddvornega pretina,</p>
+                        <p>Bolezni zaklopk,</p>
+                        <p>Odprto ovalno okno,</p>
+                        <p>Venska tromboza in desno-levi šant.</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td>Protrombotična stanja</td>
+                     <td>
+                        <p>Faktor V Leiden,</p>
+                        <p>Hiperlipoproteinemija A,</p>
+                        <p>Protrombin – mutacija 20210A,</p>
+                        <p>Pomanjkanje metilentetrahidrofolat reduktaze,</p>
+                        <p>Hiperhomocistinemija,</p>
+                        <p>Pomanjkanje proteina S ali C,</p>
+                        <p>Pomanjkanje antitrombina III,</p>
+                        <p>Antifosfolipidni sindrom, lupusni antikoagulanti, antikardiolipinska protitelesa,</p>
+                        <p>Sindrom lepljivih trombocitov.</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td>Hematološka stanja</td>
+                     <td>
+                        <p>Sideropenična anemija,</p>
+                        <p>Srpastocelična anemija,</p>
+                        <p>Levkemija,</p>
+                        <p>Hemolitični uremični sindrom,</p>
+                        <p>Imunska trombocitopenična purpura,</p>
+                        <p>Trombotična trombocitopenična purpura.</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td>Zdravila, droge</td>
+                     <td>
+                        <p>Oralni kontraceptivi,</p>
+                        <p>Kemoterapija (L-asparginaza),</p>
+                        <p>Kokain, metamfetamini,</p>
+                        <p>Triptani, ergot alkaloidi.</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td>Drugo</td>
+                     <td>
+                        <p>Migrene,</p>
+                        <p>Prirojene presnovne bolezni: Fabryjeva bolezen, homocistinurija, mitohondrijske bolezni,</p>
+                        <p>Vročina &gt; 48 h, sepsa, šok, dehidracija, acidoza, hipoksija.</p>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+            <table-wrap-foot>
+               <p>OŽ – osrednje živčevje, SLE – sistemski lupus erythematosus, PAN – polyarteritis nodosa, KVČB – kronična vnetna <italic>črevesna</italic>
+                  <italic> </italic>bolezen, ZTMO – zunajtelesna membranska oksigenacija.</p>
+            </table-wrap-foot>
+         </table-wrap>
+      </sec>
+      <sec id="s3" sec-type="Klinična slika">
+         <label>3</label>
+         <title>Klinična slika</title>
+         <p>Za IMK je značilna hitro razvijajoča se klinična slika žariščnih ali/in globalnih motenj delovanja možganov, izjemoma pa je lahko IMK tudi klinično nema (<xref ref-type="bibr" rid="b16">16</xref>). V klinični sliki IMK pri otrocih, mlajših od treh let, so lahko v akutni fazi vodilni nespecifični simptomi in znaki, kot so bruhanje, razdražljivost, epileptični napadi in motnje zavesti, medtem ko so žariščni nevrološki izpadi le diskretno izraženi (<xref ref-type="bibr" rid="b16">16</xref>).</p>
+         <p>Zgolj na podlagi klinične slike je nemogoče ločevati IMK od HMK, prav tako je velikokrat težko ločiti IMK od nekaterih nežilnih nevroloških stanj. Različni avtorji so pri 20 % otrok z utemeljenim sumom na MK po opravljeni diagnostiki ugotovili, da gre za stanja, ki MK posnemajo (<italic>angl.</italic>
+            <italic> </italic>stroke mimics) – migrena, okužba OŽ, epilepsija, zastrupitve, presnovne motnje, možganski tumorji, psihiatrične bolezni itn. (<xref ref-type="bibr" rid="b18">18</xref>,<xref ref-type="bibr" rid="b26">26</xref>,<xref ref-type="bibr" rid="b27">27</xref>).</p>
+         <p>V pediatričnem obbobju si, enako kot pri odraslih, pri zgodnjem prepoznavanju MK lahko pomagamo z akronimom GROM (Govor, Roka, Obraz, Minuta) (<xref ref-type="bibr" rid="b27">27</xref>,<xref ref-type="bibr" rid="b28">28</xref>), ki zajema najpogostejše klinične slike MK, kot so afazija, hemipareza z obrazno asimetrijo ter poudarja pomen hitrega ukrepanja. Vendar pa odsotnost teh kliničnih znakov ne izključuje MK.</p>
+         <p>Glede na ugotovitve številnih študij, ki so jih povzeli v britanskih smernicah leta 2017 (<xref ref-type="bibr" rid="b20">20</xref>), se klinične slike IMK in HMK pri otrocih, starejših od treh let med seboj niso bistveno razlikovale, najpogostejši simptomi v obeh skupinah so bili:</p>
+         <list>
+            <list-item>
+               <label>•</label>
+               <p>žariščni nevrološki znaki,</p>
+            </list-item>
+            <list-item>
+               <label>•</label>
+               <p>epileptični napadi in</p>
+            </list-item>
+            <list-item>
+               <label>•</label>
+               <p>glavobol.</p>
+            </list-item>
+         </list>
+         <p>Ostali simptomi MK pri otrocih so lahko:</p>
+         <list>
+            <list-item>
+               <label>•</label>
+               <p>spremembe v razpoloženju in vedenju (od razdražljivosti pri mlajših do kompleksnejših kognitivnih sprememb pri starejših otrocih);</p>
+            </list-item>
+            <list-item>
+               <label>•</label>
+               <p>motnje ravnotežja in koordinacije (vrtoglavica, ataksija);</p>
+            </list-item>
+            <list-item>
+               <label>•</label>
+               <p>slabost in bruhanje;</p>
+            </list-item>
+            <list-item>
+               <label>•</label>
+               <p>bolečina v vratu in</p>
+            </list-item>
+            <list-item>
+               <label>•</label>
+               <p>znaki zvišanega znotrajlobanjskega tlaka (motnje zavesti – od zaspanosti do kome, napeta velika mečava, znak zahajajočega sonca, edem papile vidnega živca).</p>
+            </list-item>
+         </list>
+         <p>Pri obravnavi otroka s sumom na MK se moramo zavedati, da lahko simptomi močno variirajo glede na starost in področje prizadetega žilja ter funkcijo okvarjenega možganskega tkiva.</p>
+      </sec>
+      <sec id="s4" sec-type="Diagnostična obravnava">
+         <label>4</label>
+         <title>Diagnostična obravnava</title>
+         <p>Anamneza in klinični pregled. V anamnezi so pomembni podatki o nedavnih okužbah, prebolelih noricah (v zadnjem letu), cepljenju, avtoimunih boleznih, žilnih boleznih, možganski kapi ali nagnjenosti k venskim trombozam v družini. Ob kliničnem pregledu smo pozorni na dismorfne značilnosti ter nevrokutana znamenja.</p>
+         <p>S krvnimi preiskavami je potrebno preveriti hemogram (vključno z mikroskopskim pregledom krvnega razmaza in številom retikulocitov), raven železa in transferina, ionogram, koagulogram ter osnovne biokemične preiskave (CRP, SR, transaminaze, sečnina in kreatinin), po potrebi pa so potrebne še dodatne preiskave (navedene v <xref ref-type="table" rid="table3">Tabeli 3</xref>).</p>
+         <table-wrap position="anchor" id="table2">
+            <label>Tabela 2:</label>
+            <caption>
+               <p> Prednosti in slabosti MR in CT preiskav pri postavljanju diagnoze IMK (<xref ref-type="bibr" rid="b15">15</xref>,<xref ref-type="bibr" rid="b30">30</xref>-<xref ref-type="bibr" rid="b34">34</xref>).</p>
+            </caption>
+            <table>
+               <colgroup>
+                  <col/>
+                  <col/>
+                  <col/>
+               </colgroup>
+               <thead>
+                  <tr>
+                     <th/>
+                     <th>Prednosti</th>
+                     <th>Pomanjkljivosti</th>
+                  </tr>
+               </thead>
+               <tbody>
+                  <tr>
+                     <td>MRI</td>
+                     <td>
+                        <list>
+                           <list-item>
+                              <label>•</label>
+                              <p>velika občutljivost za akutno ishemijo,</p>
+                           </list-item>
+                        </list>
+                     </td>
+                     <td>
+                        <list>
+                           <list-item>
+                              <label>•</label>
+                              <p>omejena dostopnost,</p>
+                           </list-item>
+                        </list>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td>CT</td>
+                     <td>
+                        <list>
+                           <list-item>
+                              <label>•</label>
+                              <p>večja dostopnost,</p>
+                           </list-item>
+                        </list>
+                     </td>
+                     <td>
+                        <list>
+                           <list-item>
+                              <label>•</label>
+                              <p>ionizirajoče sevanje,</p>
+                           </list-item>
+                        </list>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+         </table-wrap>
+         <p>Zlati standard za postavitev diagnoze in opredelitev vrste IMK je magnetnoresonančna tomografija (MRI). Kadar sumimo na znotrajlobanjsko krvavitev, je na mestu urgentna računalniška tomografija (CT) glave (<xref ref-type="bibr" rid="b20">20</xref>,<xref ref-type="bibr" rid="b29">29</xref>,<xref ref-type="bibr" rid="b30">30</xref>). <xref ref-type="table" rid="table2">Tabela 2</xref> povzema prednosti in pomanjkljivosti obeh slikovnodiagnostičnih preiskav.</p>
+         <table-wrap position="anchor" id="table3">
+            <label>Tabela 3:</label>
+            <caption>
+               <p> Diagnostični protokol za obravnavo otrok z IMK.</p>
+            </caption>
+            <table>
+               <colgroup>
+                  <col/>
+               </colgroup>
+               <thead>
+                  <tr>
+                     <th>Diagnostični protokol za obravnavo otrok in mladostnikov z IMK</th>
+                  </tr>
+               </thead>
+               <tbody>
+                  <tr>
+                     <td>Nevroradiološke preiskave: MRI + MRA glave in vratnih žil.</td>
+                  </tr>
+                  <tr>
+                     <td>
+                        <p>Hematološke preiskave:</p>
+                        <p>•kompletna krvna slika, CRP, sedimentacija,</p>
+                        <p>•osnovni testi hemostaze, D-dimer, koncentracija fibrinogena,</p>
+                        <p>•rezistenca aktivirane beljakovine C (APC rezistenca),</p>
+                        <p>•aktivnost proteina C,</p>
+                        <p>•molekularne genetske preiskave na mutacije v genu za faktor V Leiden in mutacije v genu za protrombin,</p>
+                        <p>•prosti in celotni protein S,</p>
+                        <p>•aktivnost antitrombina III (AT III),</p>
+                        <p>•določitev koagulacijskih faktorjev VII, VIII in XII,</p>
+                        <p>•aktivnost plazminogena,</p>
+                        <p>•lupusni antikoagulanti in antikardiolipinska protitelesa.</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td>
+                        <p>Biokemične preiskave</p>
+                        <p>•laktat v plazmi (in v likvorju),</p>
+                        <p>•amonijev ion v plazmi,</p>
+                        <p>•urat v plazmi,</p>
+                        <p>•določitev aminokislin v plazmi,</p>
+                        <p>•določitev organskih kislin v urinu,</p>
+                        <p>•plazemski homocistein in določitev mutacije v genu za MTHFR,</p>
+                        <p>•lipidogram (lipoprotein (a), holesterol).</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td>Mikrobiološke preiskave krvi in likvorja (VZV), serološke preiskave na <italic>Borrelio burgdorferi</italic> in druge povzročitelje, glede na klinično sliko.</td>
+                  </tr>
+                  <tr>
+                     <td>EKG, EEG.</td>
+                  </tr>
+                  <tr>
+                     <td>TTE.</td>
+                  </tr>
+                  <tr>
+                     <td>TCD s kontrastnim sredstvom za ugotavljanje desno-levega šanta z Valsalvinim manevrom.</td>
+                  </tr>
+               </tbody>
+            </table>
+            <table-wrap-foot>
+               <p>CRP – C- reaktivni protein, MTHFR – metilentetrahidrofolatreduktaza, EKG – elektrokardiogram, EEG – elektroencefalogram, TTE – transtorakalna ehokardiografija, TCD – transkranialna doplerska preiskava. Preiskave opravimo postopoma, v nekaj dneh, nabor urgentih preiskav je podan v prvem delu tega poglavja.</p>
+            </table-wrap-foot>
+         </table-wrap>
+         <p>Smernice priporočajo uporabo MRI vedno in prednostno, znotraj ene ure po sprejemu otroka v obravnavo (<xref ref-type="bibr" rid="b20">20</xref>,<xref ref-type="bibr" rid="b30">30</xref>). V primeru, da MRI ni na voljo, opravimo urgentno CT in CT angiografijo (CTA) pri vsakem otroku, pri katerem postavimo sum na MK, zato da izključimo morebitne znotraj-lobanjske krvavitve. V primeru sprememb na CT, ki nakazujejo ishemijo, čim prej opravimo še MRI za natančnejšo opredelitev stanja. V primeru negativne CT preiskave prav tako opravimo MRI (praviloma znotraj 24 ur) z magnetnoresonančno angiografijo (MRA), ki mora zajemati ožilje od aortnega loka do verteksa. Če imamo na voljo samo računalniškotomografsko angiografijo (CTA), je potrebna enako obsežna preslikava žilja (<xref ref-type="bibr" rid="b20">20</xref>,<xref ref-type="bibr" rid="b30">30</xref>). MRI pri diagnosticiranju IMK obsega aksialno T2 obteženo slikanje in koronarno slikanje z inverzijo magnetizacije (<italic>angl.</italic>
+            <italic> </italic>fluid attenuation inversion recovery, FLAIR), sagitalno T1 obteženo slikanje, difuzijsko obteženo slikanje (<italic>angl.</italic> diffusion weighted imaging, DWI) v treh ravninah in slikanje z gradientnim odmevom (<italic>angl.</italic> gradient echo, GRE). Neujemanje sprememb na difuzijskem in perfuzijskem slikanju (<italic>angl</italic>
+            <italic>.</italic> perfusion-weighted imaging, PWI) uporabljamo za iskanje morda še rešljivega možganskega tkiva (<xref ref-type="bibr" rid="b35">35</xref>). V kolikor z navedenimi preiskavami ne moremo jasno opredeliti žilne patologije, se ob sumu na vaskulopatijo po posvetu s pediatričnim in interventnim radiologom odločimo za digitalno subtrakcijsko angiografijo (DSA) (<xref ref-type="bibr" rid="b20">20</xref>).</p>
+         <p>Nadaljnje preiskave so usmerjeno e v opredelitev dejavnikov tveganja in vzrokov za nastanek IMK. V <xref ref-type="table" rid="table3">Tabeli 3</xref> predstavljamo diagnostični protokol za obravnavo otrok z IMK Kliničnega oddelka za otroško, mladostniško in razvojno nevrologijo Pediatrične klinike v Ljubljani, ki nam omogoča pravočasno prepoznavo dejavnikov tveganja in izbiro ustreznih terapevtskih ukrepov (<xref ref-type="bibr" rid="b19">19</xref>,<xref ref-type="bibr" rid="b24">24</xref>).</p>
+      </sec>
+      <sec id="s5" sec-type="Priporočila za akutno terapevtsko obravnavo">
+         <label>5</label>
+         <title>Priporočila za akutno terapevtsko obravnavo</title>
+         <p>Zaradi raznolikosti vzrokov je obravnava otroka z IMK vedno multidisciplinarna in zahteva sodelovanje pediatričnega nevrologa z drugimi specialisti, kot so nevroradiolog, vaskularni nevrolog, pediatrični hematolog, pediatrični kardiolog, pediatrični imunolog ter nevrokirurg. Kadar razmišljamo o akutni terapevtski obravnavi, se pediatrični nevrolog v pripravljenosti na Pediatrični kliniki, ki vodi dogovarjanje glede zdravljenja, zaradi učinkovitejše organizacije zdravljenja lahko posvetuje tudi z nevrologom za odrasle, ki je dosegljiv na telefonu projekta TeleKap.</p>
+         <sec id="s5.1" sec-type="Tromboliza in trombektomija">
+            <label>5.1</label>
+            <title>Tromboliza in trombektomija</title>
+            <p>Pri odraslih bolnikih z IMK je v akutni fazi znotraj časovnega terapevtskega okna uveljavljeno zdravljenje z raztapljanjem (trombolizo) ali z mehansko odstranitvijo (trombektomijo) krvnega strdka. Za trombolizo se uporablja zdravilo alteplaza (rekombinantni tkivni aktivator plazminogena – rtPA). Zaenkrat v pediatrični populaciji še ni izvedenih dovolj randomiziranih raziskav z zadostnim številom preiskovancev, ki bi opredelile optimalne odmerke rtPA za akutno zdravljenje IMK v različnih starostnih obdobjih, prav tako ni dovolj varnostnih podatkov ter študij o izidih zdravljenja pri otrocih. Tromboliza zato še vedno ni del standardne obravnave otrok z IMK (<xref ref-type="bibr" rid="b28">28</xref>,<xref ref-type="bibr" rid="b31">31</xref>,<xref ref-type="bibr" rid="b36">36</xref>,<xref ref-type="bibr" rid="b37">37</xref>), vendar različna novejša priporočila dopuščajo možnost trombolitičnega zdravljenja otrok z IMK glede na izsledke manjših raziskav in klinične izkušnje strokovnjakov (<xref ref-type="bibr" rid="b26">26</xref>,<xref ref-type="bibr" rid="b36">36</xref>,<xref ref-type="bibr" rid="b38">38</xref>), če so izpolnjena merila za uporabo trombolize (<xref ref-type="bibr" rid="b20">20</xref>,<xref ref-type="bibr" rid="b39">39</xref>). Nekatera merila za izvedbo tromobolize so zaradi pomanjkanja podatkov enaka kot pri odraslih – npr. izvedba v manj kot 4,5 urah po pričetku simptomov ali znakov IMK (<xref ref-type="bibr" rid="b20">20</xref>,<xref ref-type="bibr" rid="b26">26</xref>). Izpolnjeni pa morajo biti tudi naslednji pogoji:</p>
+            <list>
+               <list-item>
+                  <label>•</label>
+                  <p>starost več kot 2 leti,</p>
+               </list-item>
+               <list-item>
+                  <label>•</label>
+                  <p>prisotnost žariščnih nevroloških znakov,</p>
+               </list-item>
+               <list-item>
+                  <label>•</label>
+                  <p>s slikovno diagnostiko prikazana reverzibilna ishemija brez znakov znotraj-lobanjske krvavitve,</p>
+               </list-item>
+               <list-item>
+                  <label>•</label>
+                  <p>stanje zavesti, ki dosega manj kot A po lestvici AVPU (<italic>angl.</italic> Alert Voice Pain Unresponsive).</p>
+               </list-item>
+            </list>
+            <p>Kontraindikacije za trombolizo so navedene v <xref ref-type="table" rid="table4">Tabeli 4</xref>.</p>
+            <table-wrap position="anchor" id="table4">
+               <label>Tabela 4:</label>
+               <caption>
+                  <p> Kontraindikacije za trombolizo pri otroški IMK. Tabela je povzeta po tuji literaturi (<xref ref-type="bibr" rid="b26">26</xref>,<xref ref-type="bibr" rid="b40">40</xref>,<xref ref-type="bibr" rid="b41">41</xref>). </p>
+               </caption>
+               <table>
+                  <colgroup>
+                     <col/>
+                     <col/>
+                  </colgroup>
+                  <thead>
+                     <tr>
+                        <th colspan="2">Kontraindikacije za trombolizo</th>
+                     </tr>
+                  </thead>
+                  <tbody>
+                     <tr>
+                        <td rowspan="2">Anamneza</td>
+                        <td>
+                           <p>Absolutne:</p>
+                           <list>
+                              <list-item>
+                                 <label>•</label>
+                                 <p>več kot 4,5 ur od začetka težav,</p>
+                              </list-item>
+                           </list>
+                        </td>
+                     </tr>
+                     <tr>
+                        <td>
+                           <p>Relativne:</p>
+                           <list>
+                              <list-item>
+                                 <label>•</label>
+                                 <p>arterijska punkcija na nestisljivem mestu ter lumbalna punkcija znotraj zadnjih 7 dni,</p>
+                              </list-item>
+                           </list>
+                        </td>
+                     </tr>
+                     <tr>
+                        <td rowspan="2">Dejavniki pri bolniku</td>
+                        <td>
+                           <p>Absolutne:</p>
+                           <list>
+                              <list-item>
+                                 <label>•</label>
+                                 <p>sistolni tlak &gt; 15 % nad 95. percentilo za določeno starost,</p>
+                              </list-item>
+                           </list>
+                        </td>
+                     </tr>
+                     <tr>
+                        <td>
+                           <p>Relativne:</p>
+                           <list>
+                              <list-item>
+                                 <label>•</label>
+                                 <p>klinični znaki za miokardni infarkt ali mio-/perikarditis, potrebna je kardiološka evaluacija.</p>
+                              </list-item>
+                           </list>
+                        </td>
+                     </tr>
+                     <tr>
+                        <td>Etiologija IMK</td>
+                        <td>
+                           <p>Relativne:</p>
+                           <list>
+                              <list-item>
+                                 <label>•</label>
+                                 <p>endokarditis, srpastocelična anemija, embolizmi (maščobni, zračni), bolezen Moyamoya, primarni vaskulitis OŽ ali sekundarni vaskulitis (razen žariščne cerebralne arterijopatije).</p>
+                              </list-item>
+                           </list>
+                        </td>
+                     </tr>
+                     <tr>
+                        <td rowspan="2">Slikovna diagnostika</td>
+                        <td>
+                           <p>Absolutne:</p>
+                           <list>
+                              <list-item>
+                                 <label>•</label>
+                                 <p>akutna znotrajlobanjska krvavitev,</p>
+                              </list-item>
+                           </list>
+                        </td>
+                     </tr>
+                     <tr>
+                        <td>
+                           <p>Relativne</p>
+                           <list>
+                              <list-item>
+                                 <label>•</label>
+                                 <p>Simptomi subarahnoidne krvavitve, kljub negativnemu CT/MR.</p>
+                              </list-item>
+                           </list>
+                        </td>
+                     </tr>
+                     <tr>
+                        <td>Laboratorijski izvidi</td>
+                        <td>
+                           <p>Absolutne</p>
+                           <list>
+                              <list-item>
+                                 <label>•</label>
+                                 <p>krvni sladkor &lt; 2,8 mmol/L ali &gt; 22,2 mmol/L,</p>
+                              </list-item>
+                           </list>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </table-wrap>
+            <p>Optimalni odmerki rtPA pri otrocih zaenkrat niso znani, večina centrov uporablja enake odmerke kot pri odraslih. Celokupni odmerek znaša 0,9 mg/kg – 10 % celotnega odmerka damo v začetnem intravenskem bolusu v 1 minuti, sledi preostalih 90 % odmerka v eno-urni infuziji. Potreben je nadzor življenjskih funkcij, zlasti arterijskega tlaka (<xref ref-type="bibr" rid="b26">26</xref>,<xref ref-type="bibr" rid="b36">36</xref>).</p>
+            <p>Mehanska revaskularizacija ali trombektomija je s študijami podprt način zdravljenja IMK pri odraslih pri zapori sprednjega možganskega žilja do 6 ur po začetku simptomov (<xref ref-type="bibr" rid="b42">42</xref>). V pediatrični populaciji je za trombektomijo sorazmrno malo podatkov o uporabi in rezultatih, zato se zaenkrat ne izvaja rutinsko.</p>
+         </sec>
+         <sec id="s5.2" sec-type="Antiagregacijsko zdravljenje">
+            <label>5.2</label>
+            <title>Antiagregacijsko zdravljenje</title>
+            <p>Če ni kontraindikacij, začnemo zdravljenje s 5 mg/kg acetilsalicilne kisline do maksimalnega odmerka 300 mg dnevno znotraj prvih 24 ur po diagnosticiranju IMK (<xref ref-type="fig" rid="fig1">Slika 1</xref>).</p>
+            <fig position="anchor" id="fig1">
+               <label>Slika 1:</label>
+               <caption>
+                  <p> Shema akutne obravnave MK (<xref ref-type="bibr" rid="b20">20</xref>,<xref ref-type="bibr" rid="b29">29</xref>,<xref ref-type="bibr" rid="b30">30</xref>,<xref ref-type="bibr" rid="b55">55</xref>).</p>
+                  <p>V primeru, da MR ni na voljo, se lahko opravi tudi CT, ki je sicer manj občutljiv za ishemične spremembe. Kadar na CT ni vidnih odstopanj od normale, klinična slika pa je sumljiva za MK, je zato potrebno dodatno opraviti še MRI. Kadar je na CT vidna znotraj-lobanjska krvavitev, je potreben takojšen posvet z nevrokirurgom ter nevroradiologom. V primeru obsežnega infarkta v področju srednje cerebralne arterije je potrebno posvetovanje z nevrokirurgom glede možnosti dekompresivne kraniektomije. Povišan krvni tlak zdravimo, kadar je predvidena tromboliza in je krvni tlak &gt; 15 % nad 95. percentilo za določeno starost ali kadar so prisotni znaki hipertenzivne encefalopatije ali okvare drugih organov (srca, ledvic). Posnemovalci MK: migrena, okužba OŽ, epilepsija, zastrupitve, presnovne motnje, možganski tumorji, psihiatrične bolezni itn.</p>
+               </caption>
+               <p>
+                  <graphic xlink:href="2802-web-resources/image/zdravvestn-2802-sl-01.png"/>
+               </p>
+               <p>GCS – Glasgow Coma Scale, IKT – intrakranialni tlak</p>
+            </fig>
+            <p>Ob odločitvi za trombolizo odložimo zdravljenje z acetilsalicilno kislino za 24 ur. Po 14 dneh zdravljenja z višjim odmerkom acetilsalicilne kisline se odmerek lahko zniža na 1–3 mg/kg, do končnega odmerka 75–100 mg dnevno (<xref ref-type="bibr" rid="b20">20</xref>,<xref ref-type="bibr" rid="b39">39</xref>,<xref ref-type="bibr" rid="b43">43</xref>). Kontraindikacije za zdravljenje z acetilsalicilno kislino so: motnje strjevanja krvi, trombocitopenija, znotrajlobanjska krvavitev, aktivna krvavitev iz prebavil, znana alergija na acetilsalicilno kislino, povečano tveganje za nastanek Reyevega sindroma ob boleznih jeter ali ledvic, prirojenih metabolnih boleznih ter prebolevanju okužb z virusom Influence in virusom <italic>Varicella zoster</italic>. V teh primerih je možna uporaba drugih antiagregacijskih zdravil (npr. klopidogrel) (<xref ref-type="bibr" rid="b43">43</xref>). Glede na etiologijo IMK je ob tem potreben tudi razmislek o smiselnosti antikoagulacijskega, imunosupresivnega ter antimikrobnega zdravljenja.</p>
+         </sec>
+         <sec id="s5.3" sec-type="Antikoagulacijsko zdravljenje">
+            <label>5.3</label>
+            <title>Antikoagulacijsko zdravljenje</title>
+            <p>Med arterijopatijami v pediatričnem obdobju in pri mladih odraslih je pomemben vzrok IMK disekcija vratnega ali možganskega žilja, na katero je potrebno pomisliti zlasti, če je v anamnezi prisotna poškodba v predelu vratu ali glave. Če je IMK posledica disekcije, je potrebno antikoagulacijsko zdravljenje z nizkomolekularnim heparinom v trajanju najmanj 6 tednov (<xref ref-type="bibr" rid="b20">20</xref>,<xref ref-type="bibr" rid="b39">39</xref>).</p>
+            <p>Antikoagulacijsko zdravljenje običajno pričnemo tudi ob sumu ali že dokazanih kardioembolizmih. Zdravljenje traja najmanj 3 mesece, o vrsti antikoagulacijskega zdravljenja, zlasti ob kompleksnih srčnih napakah, se odločamo skupaj kardiologi in hematologi (<xref ref-type="bibr" rid="b20">20</xref>,<xref ref-type="bibr" rid="b39">39</xref>). Posebna podskupina so kardioembolizmi preko odprtega ovalnega okna, predvsem ob prisotnosti protrombotičnega stanja. V tem primeru je možno katetrsko zapiranje ovalnega okna (<xref ref-type="bibr" rid="b39">39</xref>,<xref ref-type="bibr" rid="b44">44</xref>).</p>
+         </sec>
+         <sec id="s5.4" sec-type="Imunosupresivno in antimikrobno zdravljenje">
+            <label>5.4</label>
+            <title>Imunosupresivno in antimikrobno zdravljenje</title>
+            <p>Vnetje žilne stene arterij (vaskulitis) je pomemben vzrok oziroma dejavnik tveganja za nastanek IMK v pediatričnem obdobju (<xref ref-type="bibr" rid="b23">23</xref>,<xref ref-type="bibr" rid="b45">45</xref>). Za zdravljenje primarne bolezni v nekaterih centrih antitrombotičnem zdravljenju dodajo imunosupresivno zdravljenje. Različne študije so opisovale boljši izid zdravljenja, preprečitev napredovanja stenoze arterij in ponovitev IMK ob sočasnem imunosupresivnem zdravljenju (<xref ref-type="bibr" rid="b46">46</xref>-<xref ref-type="bibr" rid="b49">49</xref>). Zaenkrat je premalo podatkov, ki bi dokazali nesporno korist imunosupresivnega zdravljenja, zato je odločitev individualna glede na klinično sliko (<xref ref-type="bibr" rid="b50">50</xref>). Pri zdravljenju IMK v sklopu primarnega vaskulitisa osrednjega živčevja je potrebno sodelovanje s pediatričnim revmatologom; pri teh bolnikih poleg antitrombotičnega in steroidnega zdravljenja z visokimi odmerki, dodamo še drugo imunosupresivno zdravilo (npr. ciklofosfamid) (<xref ref-type="bibr" rid="b51">51</xref>,<xref ref-type="bibr" rid="b52">52</xref>).</p>
+            <p>Kot posebno entiteto je potrebno omeniti VZV-arterijopatijo, kjer lahko s PCR (<italic>angl</italic>
+               <italic>.</italic> polymerase chain reaction) metodo pri posameznih primerih dokažemo prisotnost virusa VZV v likvorju. V tem primeru je potrebno tudi zdravljenje z aciklovirjem v intravenski obliki in sodelovanje z infektologom (<xref ref-type="bibr" rid="b49">49</xref>,<xref ref-type="bibr" rid="b53">53</xref>).</p>
+            <p>Vaskulitis in posledične ishemične dogodke lahko povzroča tudi bakterija <italic>Borrelia burgdorferi</italic>, sicer pri manjšem deležu (0,3–1 %) bolnikov, ki imajo dokazano Lymsko boreliozo. Zgodnja diagnoza in zdravljenje sta ključna za dober izid tega redkega, a nevarnega zapleta. Priporočena zdravila so ceftriakson, cefotaksim ali penicillin G v intravenski obliki. Učinkovit je tudi peroralni doksiciklin (<xref ref-type="bibr" rid="b54">54</xref>).</p>
+         </sec>
+         <sec id="s5.5" sec-type="Nevrokirurški ukrepi">
+            <label>5.5</label>
+            <title>Nevrokirurški ukrepi</title>
+            <p>Ob obsežni IMK in prisotnih motnjah zavesti je v akutni fazi, po opravljeni nujni slikovni diagnostiki, potreben takojšen posvet z nevroradiologom, vaskularnim nevrologom ter nevrokirurgom. Pri otrocih, ki imajo obsežen infarkt srednje možganske arterije, se lahko razvije obsežni možganski edem do stopnje, ki zahteva dekompresivno kraniektomijo (<xref ref-type="bibr" rid="b55">55</xref>,<xref ref-type="bibr" rid="b56">56</xref>). Dekompresivno kraniektomijo potrebujejo tudi posamezni primeri bolnikov v akutni fazi IMK zadnje kotanje zaradi nastajajočega možganskega edema in nevarnosti herniacije (<xref ref-type="bibr" rid="b20">20</xref>).</p>
+         </sec>
+         <sec id="s5.6" sec-type="Zdravljenje bolnikov s srpastocelično anemijo (SA)">
+            <label>5.6</label>
+            <title>Zdravljenje bolnikov s srpastocelično anemijo (SA)</title>
+            <p>V Sloveniji še nismo obravnavali primera bolnika s SA, ki bi imel IMK v pediatričnem starostnem obdobju, medtem ko je drugod po svetu SA pogosto eden glavnih vzrokov za IMK pri otrocih. Pri vseh bolnikih z znano SA in akutnimi nevrološkimi znaki je priporočljivo urgentno zdravljenje s transfuzijo krvi, ki zniža delež HbS pod 30 % in zviša Hb preko 100–110 g/L. Navadno so za doseganje tega cilja potrebne izmenjevalne transfuzije. V primeru, da izmenjalna transfuzija ni na voljo znotraj šestih ur po diagnosticiranju, je potrebna dopolnilna transfuzija za dvig Hb preko 100 g/L in izboljšanje prekrvitve možganov. Sicer morajo bolniki s SA prejemati redne transfuzije krvi, ki vzdržujejo raven Hb nad 90 g/L in HbS pod 30 % (<xref ref-type="bibr" rid="b20">20</xref>).</p>
+         </sec>
+      </sec>
+      <sec id="s6" sec-type="Napoved izida">
+         <label>6</label>
+         <title>Napoved izida</title>
+         <p>Čeprav so danes na voljo različne diagnostične metode za hitro prepoznavanje in uveljavljeni terapevtski postopki, s katerimi posledice IMK vsaj zamejimo, če jih že ne uspemo preprečiti, so študije pokazale, da ima kar dve tretjini otrok, ki utrpijo IMK, različne nevrološke težave vse življenje. Slabšo napoved izida imajo otroci z dokazano bilateralno ishemijo ter hudo motnjo zavesti ob samem ishemičnem dogodku. IMK v sklopu arterijopatij naj bi bila najpogosteje povezana s kasnejšimi nevrološkimi posledicami v otroški populaciji. Arterijopatije med vsemi dejavniki predstavljajo tudi najvišje tveganje za ponovitev IMK (<xref ref-type="bibr" rid="b57">57</xref>).</p>
+      </sec>
+      <sec id="s7" sec-type="Zaključek">
+         <label>7</label>
+         <title>Zaključek</title>
+         <p>S prispevkom želimo okrepiti ozaveščenost zdravnikov o pojavljanju IMK v pediatrični populaciji, s tem pa povečati možnost pravočasnega prepoznavanja IMK in s tem ustrezno akutno obravnavo. S hitrim diagnosticiranjem se poveča uspešnost zdravljenja, kar zmanjša obseg okvare možganskega tkiva in možnost dolgotrajnih nevroloških posledic. Zaradi raznolike patologije in dejavnikov tveganja za IMK v pediatrični dobi ter dejstva, da gre za razmeroma redko bolezen, je nujno sodelovanje pediatričnega nevrologa s specialisti z več področij pediatrije na terciarni ravni, z nevroradiologom, nevrokirurgom ter nevrologom v centru za možgansko kap.</p>
+      </sec>
+   </body>
+   <back>
+      <ref-list>
+         <ref id="b1">
+            <label>1.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Sacco</surname> 
+                     <given-names>RL</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Kasner</surname> 
+                     <given-names>SE</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Broderick</surname> 
+                     <given-names>JP</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Caplan</surname> 
+                     <given-names>LR</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Connors</surname> 
+                     <given-names>JJ</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Culebras</surname> 
+                     <given-names>A</given-names>
+                  </string-name>, <etal>et al.</etal>; <collab>American Heart Association Stroke Council, Council on Cardiovascular Surgery and Anesthesia</collab>; <collab>Council on Cardiovascular Radiology and Intervention</collab>; <collab>Council on Cardiovascular and Stroke Nursing</collab>; <collab>Council on Epidemiology and Prevention</collab>; <collab>Council on Peripheral Vascular Disease</collab>; <collab>Council on Nutrition, Physical Activity and Metabolism</collab>
+               </person-group>. <article-title>An updated definition of stroke for the 21st century: a statement for healthcare professionals from the American Heart Association/American Stroke Association</article-title>. <source>Stroke</source>. <year>2013</year> 
+               <month>Jul</month>;<volume>44</volume>(<issue>7</issue>):<fpage>2064</fpage>–<lpage>89</lpage>. <pub-id pub-id-type="doi">10.1161/STR.0b013e318296aeca</pub-id>
+               <pub-id pub-id-type="pmid">23652265</pub-id>
+               <issn>0039-2499</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b2">
+            <label>2.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Uchiyama</surname> 
+                     <given-names>S</given-names>
+                  </string-name>
+               </person-group>. <article-title>The concept of acute cerebrovascular syndrome</article-title>. <source>Front Neurol Neurosci</source>. <year>2014</year>;<volume>33</volume>:<fpage>11</fpage>–<lpage>8</lpage>. <pub-id pub-id-type="doi">10.1159/000351888</pub-id>
+               <pub-id pub-id-type="pmid">24157553</pub-id>
+               <issn>1660-4431</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b3">
+            <label>3.	</label>
+            <mixed-citation publication-type="book" specific-use="unparsed">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Swaiman</surname> 
+                     <given-names>KF</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Ashwal</surname> 
+                     <given-names>S</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Ferriero</surname> 
+                     <given-names>DM</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Schor</surname> 
+                     <given-names>NF</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Finkel</surname> 
+                     <given-names>RS</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Gropman</surname> 
+                     <given-names>AL</given-names>
+                  </string-name>, <etal>et al.</etal>
+               </person-group> 
+               <source>Swaiman’s Pediatric Neurology.</source> 6th ed. Edinbourgh: Elsevier; <year>2017</year>.</mixed-citation>
+         </ref>
+         <ref id="b4">
+            <label>4.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Bruno</surname> 
+                     <given-names>CJ</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Beslow</surname> 
+                     <given-names>LA</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Witmer</surname> 
+                     <given-names>CM</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Vossough</surname> 
+                     <given-names>A</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Jordan</surname> 
+                     <given-names>LC</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Zelonis</surname> 
+                     <given-names>S</given-names>
+                  </string-name>, <etal>et al.</etal>
+               </person-group> 
+               <article-title>Haemorrhagic stroke in term and late preterm neonates</article-title>. <source>Arch Dis Child Fetal Neonatal Ed</source>. <year>2014</year> 
+               <month>Jan</month>;<volume>99</volume>(<issue>1</issue>):<fpage>F48</fpage>–<lpage>53</lpage>. <pub-id pub-id-type="doi">10.1136/archdischild-2013-304068</pub-id>
+               <pub-id pub-id-type="pmid">23995383</pub-id>
+               <issn>1359-2998</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b5">
+            <label>5.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Fullerton</surname> 
+                     <given-names>HJ</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Wu</surname> 
+                     <given-names>YW</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Zhao</surname> 
+                     <given-names>S</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Johnston</surname> 
+                     <given-names>SC</given-names>
+                  </string-name>
+               </person-group>. <article-title>Risk of stroke in children: ethnic and gender disparities</article-title>. <source>Neurology</source>. <year>2003</year> 
+               <month>Jul</month>;<volume>61</volume>(<issue>2</issue>):<fpage>189</fpage>–<lpage>94</lpage>. <pub-id pub-id-type="doi">10.1212/01.WNL.0000078894.79866.95</pub-id>
+               <pub-id pub-id-type="pmid">12874397</pub-id>
+               <issn>0028-3878</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b6">
+            <label>6.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Dlamini</surname> 
+                     <given-names>N</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Billinghurst</surname> 
+                     <given-names>L</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Kirkham</surname> 
+                     <given-names>FJ</given-names>
+                  </string-name>
+               </person-group>. <article-title>Cerebral venous sinus (sinovenous) thrombosis in children</article-title>. <source>Neurosurg Clin N Am</source>. <year>2010</year> 
+               <month>Jul</month>;<volume>21</volume>(<issue>3</issue>):<fpage>511</fpage>–<lpage>27</lpage>. <pub-id pub-id-type="doi">10.1016/j.nec.2010.03.006</pub-id>
+               <pub-id pub-id-type="pmid">20561500</pub-id>
+               <issn>1042-3680</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b7">
+            <label>7.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Nelson</surname> 
+                     <given-names>KB</given-names>
+                  </string-name>
+               </person-group>. <article-title>Perinatal ischemic stroke</article-title>. <source>Stroke</source>. <year>2007</year> 
+               <month>Feb</month>;<volume>38</volume>(<issue>2</issue> 
+               <supplement>Suppl</supplement>):<fpage>742</fpage>–<lpage>5</lpage>. <pub-id pub-id-type="doi">10.1161/01.STR.0000247921.97794.5e</pub-id>
+               <pub-id pub-id-type="pmid">17261729</pub-id>
+               <issn>0039-2499</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b8">
+            <label>8.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Mallick</surname> 
+                     <given-names>AA</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>O’Callaghan</surname> 
+                     <given-names>FJ</given-names>
+                  </string-name>
+               </person-group>. <article-title>The epidemiology of childhood stroke</article-title>. <source>Eur J Paediatr Neurol</source>. <year>2010</year> 
+               <month>May</month>;<volume>14</volume>(<issue>3</issue>):<fpage>197</fpage>–<lpage>205</lpage>. <pub-id pub-id-type="doi">10.1016/j.ejpn.2009.09.006</pub-id>
+               <pub-id pub-id-type="pmid">19879783</pub-id>
+               <issn>1090-3798</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b9">
+            <label>9.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>deVeber</surname> 
+                     <given-names>GA</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Kirton</surname> 
+                     <given-names>A</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Booth</surname> 
+                     <given-names>FA</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Yager</surname> 
+                     <given-names>JY</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Wirrell</surname> 
+                     <given-names>EC</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Wood</surname> 
+                     <given-names>E</given-names>
+                  </string-name>, <etal>et al.</etal>
+               </person-group> 
+               <article-title>Epidemiology and Outcomes of Arterial Ischemic Stroke in Children: The Canadian Pediatric Ischemic Stroke Registry</article-title>. <source>Pediatr Neurol</source>. <year>2017</year> 
+               <month>Apr</month>;<volume>69</volume>:<fpage>58</fpage>–<lpage>70</lpage>. <pub-id pub-id-type="doi">10.1016/j.pediatrneurol.2017.01.016</pub-id>
+               <pub-id pub-id-type="pmid">28254555</pub-id>
+               <issn>0887-8994</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b10">
+            <label>10.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Carey</surname> 
+                     <given-names>S</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Wrogemann</surname> 
+                     <given-names>J</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Booth</surname> 
+                     <given-names>FA</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Rafay</surname> 
+                     <given-names>MF</given-names>
+                  </string-name>
+               </person-group>. <article-title>Epidemiology, Clinical Presentation, and Prognosis of Posterior Circulation Ischemic Stroke in Children</article-title>. <source>Pediatr Neurol</source>. <year>2017</year> 
+               <month>Sep</month>;<volume>74</volume>:<fpage>41</fpage>–<lpage>50</lpage>. <pub-id pub-id-type="doi">10.1016/j.pediatrneurol.2017.05.007</pub-id>
+               <pub-id pub-id-type="pmid">28676245</pub-id>
+               <issn>0887-8994</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b11">
+            <label>11.	</label>
+            <mixed-citation publication-type="web-page" specific-use="unparsed">
+               <person-group person-group-type="author">
+                  <collab>American Heart Association</collab>
+               </person-group>. Knowing No Bounds: Stroke in Infants, Children, and Youth. Hear Dis [cited 2017 Nov 7]. Available from: <ext-link ext-link-type="uri"
+                         xlink:href="https://www.strokeassociation.org/idc/groups/heart-public/@wcm/@adv/documents/downloadable/ucm_302255.pdf">https://www.strokeassociation.org/idc/groups/heart-public/@wcm/@adv/documents/downloadable/ucm_302255.pdf</ext-link>
+            </mixed-citation>
+         </ref>
+         <ref id="b12">
+            <label>12.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Mallick</surname> 
+                     <given-names>AA</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Ganesan</surname> 
+                     <given-names>V</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Kirkham</surname> 
+                     <given-names>FJ</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Fallon</surname> 
+                     <given-names>P</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Hedderly</surname> 
+                     <given-names>T</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>McShane</surname> 
+                     <given-names>T</given-names>
+                  </string-name>, <etal>et al.</etal>
+               </person-group> 
+               <article-title>Diagnostic delays in paediatric stroke</article-title>. <source>J Neurol Neurosurg Psychiatry</source>. <year>2015</year> 
+               <month>Aug</month>;<volume>86</volume>(<issue>8</issue>):<fpage>917</fpage>–<lpage>21</lpage>. <pub-id pub-id-type="doi">10.1136/jnnp-2014-309188</pub-id>
+               <pub-id pub-id-type="pmid">25342203</pub-id>
+               <issn>0022-3050</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b13">
+            <label>13.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Gabis</surname> 
+                     <given-names>LV</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Yangala</surname> 
+                     <given-names>R</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Lenn</surname> 
+                     <given-names>NJ</given-names>
+                  </string-name>
+               </person-group>. <article-title>Time lag to diagnosis of stroke in children</article-title>. <source>Pediatrics</source>. <year>2002</year> 
+               <month>Nov</month>;<volume>110</volume>(<issue>5</issue>):<fpage>924</fpage>–<lpage>8</lpage>. <pub-id pub-id-type="doi">10.1542/peds.110.5.924</pub-id>
+               <pub-id pub-id-type="pmid">12415031</pub-id>
+               <issn>0031-4005</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b14">
+            <label>14.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Braun</surname> 
+                     <given-names>KP</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Rafay</surname> 
+                     <given-names>MF</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Uiterwaal</surname> 
+                     <given-names>CS</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Pontigon</surname> 
+                     <given-names>AM</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>DeVeber</surname> 
+                     <given-names>G</given-names>
+                  </string-name>
+               </person-group>. <article-title>Mode of onset predicts etiological diagnosis of arterial ischemic stroke in children</article-title>. <source>Stroke</source>. <year>2007</year> 
+               <month>Feb</month>;<volume>38</volume>(<issue>2</issue>):<fpage>298</fpage>–<lpage>302</lpage>. <pub-id pub-id-type="doi">10.1161/01.STR.0000254484.10680.c6</pub-id>
+               <pub-id pub-id-type="pmid">17194885</pub-id>
+               <issn>0039-2499</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b15">
+            <label>15.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>McGlennan</surname> 
+                     <given-names>C</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Ganesan</surname> 
+                     <given-names>V</given-names>
+                  </string-name>
+               </person-group>. <article-title>Delays in investigation and management of acute arterial ischaemic stroke in children</article-title>. <source>Dev Med Child Neurol</source>. <year>2008</year> 
+               <month>Jul</month>;<volume>50</volume>(<issue>7</issue>):<fpage>537</fpage>–<lpage>40</lpage>. <pub-id pub-id-type="doi">10.1111/j.1469-8749.2008.03012.x</pub-id>
+               <pub-id pub-id-type="pmid">18611205</pub-id>
+               <issn>0012-1622</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b16">
+            <label>16.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Rafay</surname> 
+                     <given-names>MF</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Pontigon</surname> 
+                     <given-names>AM</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Chiang</surname> 
+                     <given-names>J</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Adams</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Jarvis</surname> 
+                     <given-names>DA</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Silver</surname> 
+                     <given-names>F</given-names>
+                  </string-name>, <etal>et al.</etal>
+               </person-group> 
+               <article-title>Delay to diagnosis in acute pediatric arterial ischemic stroke</article-title>. <source>Stroke</source>. <year>2009</year> 
+               <month>Jan</month>;<volume>40</volume>(<issue>1</issue>):<fpage>58</fpage>–<lpage>64</lpage>. <pub-id pub-id-type="doi">10.1161/STROKEAHA.108.519066</pub-id>
+               <pub-id pub-id-type="pmid">18802206</pub-id>
+               <issn>0039-2499</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b17">
+            <label>17.	</label>
+            <mixed-citation publication-type="thesis" specific-use="unparsed">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Perkovič Benedik</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Podnar</surname> 
+                     <given-names>T</given-names>
+                  </string-name>
+               </person-group>. Odprto ovalno okno in ishemični možganskožilni dogodki neznanega vzroka pri otrocih [PhD Thesis]. Ljubljana; <year>2012</year>.</mixed-citation>
+         </ref>
+         <ref id="b18">
+            <label>18.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Shellhaas</surname> 
+                     <given-names>RA</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Smith</surname> 
+                     <given-names>SE</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>O’Tool</surname> 
+                     <given-names>E</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Licht</surname> 
+                     <given-names>DJ</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Ichord</surname> 
+                     <given-names>RN</given-names>
+                  </string-name>
+               </person-group>. <article-title>Mimics of childhood stroke: characteristics of a prospective cohort</article-title>. <source>Pediatrics</source>. <year>2006</year> 
+               <month>Aug</month>;<volume>118</volume>(<issue>2</issue>):<fpage>704</fpage>–<lpage>9</lpage>. <pub-id pub-id-type="doi">10.1542/peds.2005-2676</pub-id>
+               <pub-id pub-id-type="pmid">16882826</pub-id>
+               <issn>0031-4005</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b19">
+            <label>19.	</label>
+            <mixed-citation publication-type="book-chapter" specific-use="unparsed">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Sevsek</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Stenko</surname> 
+                     <given-names>A</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Trampuš Bakija</surname> 
+                     <given-names>A</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Perkovič Benedik</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Kitanovski</surname> 
+                     <given-names>L</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Rener-Primec</surname> 
+                     <given-names>Z</given-names>
+                  </string-name>
+               </person-group>. <chapter-title>Dejavniki tveganja pri otrocih in mladostnikih z ishemično možgansko kapjo.</chapter-title> In: Akutna možganska kap. <year>2010</year>. p. 111–24.</mixed-citation>
+         </ref>
+         <ref id="b20">
+            <label>20.	</label>
+            <mixed-citation publication-type="web-page" specific-use="unparsed">
+               <person-group person-group-type="author">
+                  <collab>Royal College of Paediatric and Child Health</collab>
+               </person-group>. <article-title>Stroke in Childhood.</article-title> Clinical guideline for diagnosis, management and rehabilitation [citirano 2017 Nov 5]. Available from: <ext-link ext-link-type="uri"
+                         xlink:href="https://www.rcpch.ac.uk/stroke-guideline">https://www.rcpch.ac.uk/stroke-guideline</ext-link>
+            </mixed-citation>
+         </ref>
+         <ref id="b21">
+            <label>21.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Mallick</surname> 
+                     <given-names>AA</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Ganesan</surname> 
+                     <given-names>V</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Kirkham</surname> 
+                     <given-names>FJ</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Fallon</surname> 
+                     <given-names>P</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Hedderly</surname> 
+                     <given-names>T</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>McShane</surname> 
+                     <given-names>T</given-names>
+                  </string-name>, <etal>et al.</etal>
+               </person-group> 
+               <article-title>Childhood arterial ischaemic stroke incidence, presenting features, and risk factors: a prospective population-based study</article-title>. <source>Lancet Neurol</source>. <year>2014</year> 
+               <month>Jan</month>;<volume>13</volume>(<issue>1</issue>):<fpage>35</fpage>–<lpage>43</lpage>. <pub-id pub-id-type="doi">10.1016/S1474-4422(13)70290-4</pub-id>
+               <pub-id pub-id-type="pmid">24304598</pub-id>
+               <issn>1474-4422</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b22">
+            <label>22.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Benedik</surname> 
+                     <given-names>MP</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Zaletel</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Meglic</surname> 
+                     <given-names>NP</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Podnar</surname> 
+                     <given-names>T</given-names>
+                  </string-name>
+               </person-group>. <article-title>A right-to-left shunt in children with arterial ischaemic stroke</article-title>. <source>Arch Dis Child</source>. <year>2011</year> 
+               <month>May</month>;<volume>96</volume>(<issue>5</issue>):<fpage>461</fpage>–<lpage>7</lpage>. <pub-id pub-id-type="doi">10.1136/adc.2010.203992</pub-id>
+               <pub-id pub-id-type="pmid">21377993</pub-id>
+               <issn>0003-9888</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b23">
+            <label>23.	</label>
+            <mixed-citation publication-type="book-chapter" specific-use="unparsed">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Perkovič Benedik</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Rener Primec</surname> 
+                     <given-names>Z</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Avčin</surname> 
+                     <given-names>T</given-names>
+                  </string-name>
+               </person-group>. <chapter-title>Primarni vaskulitis osrednjega živčnega sistema v otroškem obdobju.</chapter-title> In: Izbrana poglavja iz pediatrije. Ljubljana: Medicinska fakulteta; <year>2008</year>. p. 283–90.</mixed-citation>
+         </ref>
+         <ref id="b24">
+            <label>24.	</label>
+            <mixed-citation publication-type="book-chapter" specific-use="unparsed">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Rener Primec</surname> 
+                     <given-names>Z</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Župančič</surname> 
+                     <given-names>N</given-names>
+                  </string-name>
+               </person-group>. <chapter-title>Možganska kap pri otrocih.</chapter-title> In: Akutna možganska kap II: učbenik za zdravnike in zdravstvene delavce. <year>2007</year>. p. 23–34.</mixed-citation>
+         </ref>
+         <ref id="b25">
+            <label>25.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Rener Primec</surname> 
+                     <given-names>Z</given-names>
+                  </string-name>
+               </person-group>. <article-title>Cerebrovaskularne bolezni</article-title>. <source>Med Razgl</source>. <year>1998</year>;<volume>37</volume>(<issue>4</issue>):<fpage>390</fpage>–<lpage>8</lpage>.<issn>0025-8121</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b26">
+            <label>26.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Rivkin</surname> 
+                     <given-names>MJ</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>deVeber</surname> 
+                     <given-names>G</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Ichord</surname> 
+                     <given-names>RN</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Kirton</surname> 
+                     <given-names>A</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Chan</surname> 
+                     <given-names>AK</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Hovinga</surname> 
+                     <given-names>CA</given-names>
+                  </string-name>, <etal>et al.</etal>
+               </person-group> 
+               <article-title>Thrombolysis in pediatric stroke study</article-title>. <source>Stroke</source>. <year>2015</year> 
+               <month>Mar</month>;<volume>46</volume>(<issue>3</issue>):<fpage>880</fpage>–<lpage>5</lpage>. <pub-id pub-id-type="doi">10.1161/STROKEAHA.114.008210</pub-id>
+               <pub-id pub-id-type="pmid">25613306</pub-id>
+               <issn>0039-2499</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b27">
+            <label>27.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Ladner</surname> 
+                     <given-names>TR</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Mahdi</surname> 
+                     <given-names>J</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Gindville</surname> 
+                     <given-names>MC</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Gordon</surname> 
+                     <given-names>A</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Harris</surname> 
+                     <given-names>ZL</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Crossman</surname> 
+                     <given-names>K</given-names>
+                  </string-name>, <etal>et al.</etal>
+               </person-group> 
+               <article-title>Pediatric Acute Stroke Protocol Activation in a Children’s Hospital Emergency Department</article-title>. <source>Stroke</source>. <year>2015</year> 
+               <month>Aug</month>;<volume>46</volume>(<issue>8</issue>):<fpage>2328</fpage>–<lpage>31</lpage>. <pub-id pub-id-type="doi">10.1161/STROKEAHA.115.009961</pub-id>
+               <pub-id pub-id-type="pmid">26138119</pub-id>
+               <issn>0039-2499</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b28">
+            <label>28.	</label>
+            <mixed-citation publication-type="web-page" specific-use="unparsed">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Švigelj</surname> 
+                     <given-names>V</given-names>
+                  </string-name>
+               </person-group>. Možganska kap [citirano 2017 Dec 20]. Available from: <ext-link ext-link-type="uri"
+                         xlink:href="http://www.viktorsvigelj.si/splosni_nasveti.php/mozganska_kap.html">http://www.viktorsvigelj.si/splosni_nasveti.php/mozganska_kap.html</ext-link>
+            </mixed-citation>
+         </ref>
+         <ref id="b29">
+            <label>29.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Steinlin</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Mackay</surname> 
+                     <given-names>MT</given-names>
+                  </string-name>
+               </person-group>. <article-title>Emergency management of ischemic stroke in children</article-title>. <source>Curr Treat Options Neurol</source>. <year>2015</year> 
+               <month>May</month>;<volume>17</volume>(<issue>5</issue>):<fpage>349</fpage>. <pub-id pub-id-type="doi">10.1007/s11940-015-0349-2</pub-id>
+               <pub-id pub-id-type="pmid">25854652</pub-id>
+               <issn>1092-8480</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b30">
+            <label>30.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Mirsky</surname> 
+                     <given-names>DM</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Beslow</surname> 
+                     <given-names>LA</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Amlie-Lefond</surname> 
+                     <given-names>C</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Krishnan</surname> 
+                     <given-names>P</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Laughlin</surname> 
+                     <given-names>S</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Lee</surname> 
+                     <given-names>S</given-names>
+                  </string-name>, <etal>et al.</etal>; <collab>International Paediatric Stroke Study Neuroimaging Consortium and the Paediatric Stroke Neuroimaging Consortium</collab>
+               </person-group>. <article-title>Pathways for Neuroimaging of Childhood Stroke</article-title>. <source>Pediatr Neurol</source>. <year>2017</year> 
+               <month>Apr</month>;<volume>69</volume>:<fpage>11</fpage>–<lpage>23</lpage>. <pub-id pub-id-type="doi">10.1016/j.pediatrneurol.2016.12.004</pub-id>
+               <pub-id pub-id-type="pmid">28274641</pub-id>
+               <issn>0887-8994</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b31">
+            <label>31.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Yock-Corrales</surname> 
+                     <given-names>A</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Mackay</surname> 
+                     <given-names>MT</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Mosley</surname> 
+                     <given-names>I</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Maixner</surname> 
+                     <given-names>W</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Babl</surname> 
+                     <given-names>FE</given-names>
+                  </string-name>
+               </person-group>. <article-title>Acute childhood arterial ischemic and hemorrhagic stroke in the emergency department</article-title>. <source>Ann Emerg Med</source>. <year>2011</year> 
+               <month>Aug</month>;<volume>58</volume>(<issue>2</issue>):<fpage>156</fpage>–<lpage>63</lpage>. <pub-id pub-id-type="doi">10.1016/j.annemergmed.2010.10.013</pub-id>
+               <pub-id pub-id-type="pmid">21310508</pub-id>
+               <issn>0196-0644</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b32">
+            <label>32.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Husson</surname> 
+                     <given-names>B</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Lasjaunias</surname> 
+                     <given-names>P</given-names>
+                  </string-name>
+               </person-group>. <article-title>Radiological approach to disorders of arterial brain vessels associated with childhood arterial stroke-a comparison between MRA and contrast angiography</article-title>. <source>Pediatr Radiol</source>. <year>2004</year> 
+               <month>Jan</month>;<volume>34</volume>(<issue>1</issue>):<fpage>10</fpage>–<lpage>5</lpage>. <pub-id pub-id-type="doi">10.1007/s00247-003-1109-0</pub-id>
+               <pub-id pub-id-type="pmid">14669061</pub-id>
+               <issn>0301-0449</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b33">
+            <label>33.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Jung</surname> 
+                     <given-names>S</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Gilgen</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Slotboom</surname> 
+                     <given-names>J</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>El-Koussy</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Zubler</surname> 
+                     <given-names>C</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Kiefer</surname> 
+                     <given-names>C</given-names>
+                  </string-name>, <etal>et al.</etal>
+               </person-group> 
+               <article-title>Factors that determine penumbral tissue loss in acute ischaemic stroke</article-title>. <source>Brain</source>. <year>2013</year> 
+               <month>Dec</month>;<volume>136</volume>(<issue>Pt 12</issue>):<fpage>3554</fpage>–<lpage>60</lpage>. <pub-id pub-id-type="doi">10.1093/brain/awt246</pub-id>
+               <pub-id pub-id-type="pmid">24065722</pub-id>
+               <issn>0006-8950</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b34">
+            <label>34.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Dieleman</surname> 
+                     <given-names>N</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>van der Kolk</surname> 
+                     <given-names>AG</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Zwanenburg</surname> 
+                     <given-names>JJ</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Harteveld</surname> 
+                     <given-names>AA</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Biessels</surname> 
+                     <given-names>GJ</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Luijten</surname> 
+                     <given-names>PR</given-names>
+                  </string-name>, <etal>et al.</etal>
+               </person-group> 
+               <article-title>Imaging intracranial vessel wall pathology with magnetic resonance imaging: current prospects and future directions</article-title>. <source>Circulation</source>. <year>2014</year> 
+               <month>Jul</month>;<volume>130</volume>(<issue>2</issue>):<fpage>192</fpage>–<lpage>201</lpage>. <pub-id pub-id-type="doi">10.1161/CIRCULATIONAHA.113.006919</pub-id>
+               <pub-id pub-id-type="pmid">25001624</pub-id>
+               <issn>0009-7322</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b35">
+            <label>35.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Wouters</surname> 
+                     <given-names>A</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Lemmens</surname> 
+                     <given-names>R</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Dupont</surname> 
+                     <given-names>P</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Thijs</surname> 
+                     <given-names>V</given-names>
+                  </string-name>
+               </person-group>. <article-title>Wake-up stroke and stroke of unknown onset: a critical review</article-title>. <source>Front Neurol</source>. <year>2014</year> 
+               <month>Aug</month>;<volume>5</volume>:<fpage>153</fpage>. <pub-id pub-id-type="doi">10.3389/fneur.2014.00153</pub-id>
+               <pub-id pub-id-type="pmid">25161646</pub-id>
+               <issn>1664-2295</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b36">
+            <label>36.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Rener-Primec</surname> 
+                     <given-names>Z</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Švigelj</surname> 
+                     <given-names>V</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Vesel</surname> 
+                     <given-names>S</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Lovrič</surname> 
+                     <given-names>D</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Škofljanec</surname> 
+                     <given-names>A</given-names>
+                  </string-name>
+               </person-group>. <article-title>Safe use of alteplase in a 10 months old infant with cardio-embolic stroke</article-title>. <source>Eur J Paediatr Neurol</source>. <year>2013</year> 
+               <month>Sep</month>;<volume>17</volume>(<issue>5</issue>):<fpage>522</fpage>–<lpage>5</lpage>. <pub-id pub-id-type="doi">10.1016/j.ejpn.2013.03.007</pub-id>
+               <pub-id pub-id-type="pmid">23603009</pub-id>
+               <issn>1090-3798</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b37">
+            <label>37.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Bernard</surname> 
+                     <given-names>TJ</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Rivkin</surname> 
+                     <given-names>MJ</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Scholz</surname> 
+                     <given-names>K</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>deVeber</surname> 
+                     <given-names>G</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Kirton</surname> 
+                     <given-names>A</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Gill</surname> 
+                     <given-names>JC</given-names>
+                  </string-name>, <etal>et al.</etal>; <collab>Thrombolysis in Pediatric Stroke Study</collab>
+               </person-group>. <article-title>Emergence of the primary pediatric stroke center: impact of the thrombolysis in pediatric stroke trial</article-title>. <source>Stroke</source>. <year>2014</year> 
+               <month>Jul</month>;<volume>45</volume>(<issue>7</issue>):<fpage>2018</fpage>–<lpage>23</lpage>. <pub-id pub-id-type="doi">10.1161/STROKEAHA.114.004919</pub-id>
+               <pub-id pub-id-type="pmid">24916908</pub-id>
+               <issn>0039-2499</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b38">
+            <label>38.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Amlie-Lefond</surname> 
+                     <given-names>C</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Chan</surname> 
+                     <given-names>AK</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Kirton</surname> 
+                     <given-names>A</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>deVeber</surname> 
+                     <given-names>G</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Hovinga</surname> 
+                     <given-names>CA</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Ichord</surname> 
+                     <given-names>R</given-names>
+                  </string-name>, <etal>et al.</etal>; <collab>Thrombolysis in Pediatric Stroke (TIPS) Investigators</collab>
+               </person-group>. <article-title>Thrombolysis in acute childhood stroke: design and challenges of the thrombolysis in pediatric stroke clinical trial</article-title>. <source>Neuroepidemiology</source>. <year>2009</year>;<volume>32</volume>(<issue>4</issue>):<fpage>279</fpage>–<lpage>86</lpage>. <pub-id pub-id-type="doi">10.1159/000203076</pub-id>
+               <pub-id pub-id-type="pmid">19223687</pub-id>
+               <issn>0251-5350</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b39">
+            <label>39.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Monagle</surname> 
+                     <given-names>P</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Chan</surname> 
+                     <given-names>AK</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Goldenberg</surname> 
+                     <given-names>NA</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Ichord</surname> 
+                     <given-names>RN</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Journeycake</surname> 
+                     <given-names>JM</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Nowak-Göttl</surname> 
+                     <given-names>U</given-names>
+                  </string-name>, <etal>et al.</etal>
+               </person-group> 
+               <article-title>Antithrombotic therapy in neonates and children: Antithrombotic Therapy and Prevention of Thrombosis, 9th ed: American College of Chest Physicians Evidence-Based Clinical Practice Guidelines</article-title>. <source>Chest</source>. <year>2012</year> 
+               <month>Feb</month>;<volume>141</volume>(<issue>2</issue> 
+               <supplement>Suppl</supplement>):<fpage>e737S</fpage>–<lpage>801S</lpage>. <pub-id pub-id-type="doi">10.1378/chest.11-2308</pub-id>
+               <pub-id pub-id-type="pmid">22315277</pub-id>
+               <issn>0012-3692</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b40">
+            <label>40.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Rivkin</surname> 
+                     <given-names>MJ</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Bernard</surname> 
+                     <given-names>TJ</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Dowling</surname> 
+                     <given-names>MM</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Amlie-Lefond</surname> 
+                     <given-names>C</given-names>
+                  </string-name>
+               </person-group>. <article-title>Guidelines for Urgent Management of Stroke in Children</article-title>. <source>Pediatr Neurol</source>. <year>2016</year> 
+               <month>Mar</month>;<volume>56</volume>:<fpage>8</fpage>–<lpage>17</lpage>. <pub-id pub-id-type="doi">10.1016/j.pediatrneurol.2016.01.016</pub-id>
+               <pub-id pub-id-type="pmid">26969237</pub-id>
+               <issn>0887-8994</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b41">
+            <label>41.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Fugate</surname> 
+                     <given-names>JE</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Rabinstein</surname> 
+                     <given-names>AA</given-names>
+                  </string-name>
+               </person-group>. <article-title>Absolute and Relative Contraindications to IV rt-PA for Acute Ischemic Stroke</article-title>. <source>Neurohospitalist</source>. <year>2015</year> 
+               <month>Jul</month>;<volume>5</volume>(<issue>3</issue>):<fpage>110</fpage>–<lpage>21</lpage>. <pub-id pub-id-type="doi">10.1177/1941874415578532</pub-id>
+               <pub-id pub-id-type="pmid">26288669</pub-id>
+               <issn>1941-8744</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b42">
+            <label>42.	</label>
+            <mixed-citation publication-type="web-page" specific-use="unparsed">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Furlan</surname> 
+                     <given-names>AJ</given-names>
+                  </string-name>
+               </person-group>. Endovascular Therapy for Stroke - It’s about Time. N Engl J Med  [citied 2017 Nov 16]. Available from: <ext-link ext-link-type="uri"
+                         xlink:href="http://www.nejm.org/doi/abs/10.1056/NEJMe1503217%5Cnpapers3://publication/doi/10.1056/NEJMe1503217">http://www.nejm.org/doi/abs/10.1056/NEJMe1503217%5Cnpapers3://publication/doi/10.1056/NEJMe1503217</ext-link>
+            </mixed-citation>
+         </ref>
+         <ref id="b43">
+            <label>43.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Roach</surname> 
+                     <given-names>ES</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Golomb</surname> 
+                     <given-names>MR</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Adams</surname> 
+                     <given-names>R</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Biller</surname> 
+                     <given-names>J</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Daniels</surname> 
+                     <given-names>S</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Deveber</surname> 
+                     <given-names>G</given-names>
+                  </string-name>, <etal>et al.</etal>; <collab>American Heart Association Stroke Council</collab>; <collab>Council on Cardiovascular Disease in the Young</collab>
+               </person-group>. <article-title>Management of stroke in infants and children: a scientific statement from a Special Writing Group of the American Heart Association Stroke Council and the Council on Cardiovascular Disease in the Young</article-title>. <source>Stroke</source>. <year>2008</year> 
+               <month>Sep</month>;<volume>39</volume>(<issue>9</issue>):<fpage>2644</fpage>–<lpage>91</lpage>. <pub-id pub-id-type="doi">10.1161/STROKEAHA.108.189696</pub-id>
+               <pub-id pub-id-type="pmid">18635845</pub-id>
+               <issn>0039-2499</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b44">
+            <label>44.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Benedik</surname> 
+                     <given-names>MP</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Zaletel</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Meglic</surname> 
+                     <given-names>NP</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Podnar</surname> 
+                     <given-names>T</given-names>
+                  </string-name>
+               </person-group>. <article-title>A right-to-left shunt in children with arterial ischaemic stroke</article-title>. <source>Arch Dis Child</source>. <year>2011</year> 
+               <month>May</month>;<volume>96</volume>(<issue>5</issue>):<fpage>461</fpage>–<lpage>7</lpage>. <pub-id pub-id-type="doi">10.1136/adc.2010.203992</pub-id>
+               <pub-id pub-id-type="pmid">21377993</pub-id>
+               <issn>0003-9888</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b45">
+            <label>45.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Perkovič Benedik</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Rener Primec</surname> 
+                     <given-names>Z</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Krajnc</surname> 
+                     <given-names>N</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Pečarič Meglič</surname> 
+                     <given-names>N</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Župančič</surname> 
+                     <given-names>N</given-names>
+                  </string-name>
+               </person-group>. <article-title>Primary CNS angiitis - a rare cause of stroke in children, remains diagnostic and therapeutic challenge</article-title>. <source>Eur J Paediatr Neurol</source>. <year>2009</year>;<volume>•••</volume>:<fpage>13</fpage>.<issn>1090-3798</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b46">
+            <label>46.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Braun</surname> 
+                     <given-names>KP</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Bulder</surname> 
+                     <given-names>MM</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Chabrier</surname> 
+                     <given-names>S</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Kirkham</surname> 
+                     <given-names>FJ</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Uiterwaal</surname> 
+                     <given-names>CS</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Tardieu</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <etal>et al.</etal>
+               </person-group> 
+               <article-title>The course and outcome of unilateral intracranial arteriopathy in 79 children with ischaemic stroke</article-title>. <source>Brain</source>. <year>2009</year> 
+               <month>Feb</month>;<volume>132</volume>(<issue>Pt 2</issue>):<fpage>544</fpage>–<lpage>57</lpage>. <pub-id pub-id-type="doi">10.1093/brain/awn313</pub-id>
+               <pub-id pub-id-type="pmid">19039009</pub-id>
+               <issn>0006-8950</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b47">
+            <label>47.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Amlie-Lefond</surname> 
+                     <given-names>C</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Fullerton</surname> 
+                     <given-names>HJ</given-names>
+                  </string-name>
+               </person-group>. <article-title>Rashes, sniffles, and stroke: a role for infection in ischemic stroke of childhood</article-title>. <source>Infect Disord Drug Targets</source>. <year>2010</year> 
+               <month>Apr</month>;<volume>10</volume>(<issue>2</issue>):<fpage>67</fpage>–<lpage>75</lpage>. <pub-id pub-id-type="doi">10.2174/187152610790963465</pub-id>
+               <pub-id pub-id-type="pmid">20166975</pub-id>
+               <issn>1871-5265</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b48">
+            <label>48.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Eleftheriou</surname> 
+                     <given-names>D</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Ganesan</surname> 
+                     <given-names>V</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Hong</surname> 
+                     <given-names>Y</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Klein</surname> 
+                     <given-names>NJ</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Brogan</surname> 
+                     <given-names>PA</given-names>
+                  </string-name>
+               </person-group>. <article-title>Endothelial injury in childhood stroke with cerebral arteriopathy: a cross-sectional study</article-title>. <source>Neurology</source>. <year>2012</year> 
+               <month>Nov</month>;<volume>79</volume>(<issue>21</issue>):<fpage>2089</fpage>–<lpage>96</lpage>. <pub-id pub-id-type="doi">10.1212/WNL.0b013e3182752c7e</pub-id>
+               <pub-id pub-id-type="pmid">23077025</pub-id>
+               <issn>0028-3878</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b49">
+            <label>49.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Edwards</surname> 
+                     <given-names>HB</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Mallick</surname> 
+                     <given-names>AA</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>O’Callaghan</surname> 
+                     <given-names>FJ</given-names>
+                  </string-name>
+               </person-group>. <article-title>Immunotherapy for arterial ischaemic stroke in childhood: a systematic review</article-title>. <source>Arch Dis Child</source>. <year>2017</year> 
+               <month>May</month>;<volume>102</volume>(<issue>5</issue>):<fpage>410</fpage>–<lpage>5</lpage>. <pub-id pub-id-type="doi">10.1136/archdischild-2016-311034</pub-id>
+               <pub-id pub-id-type="pmid">27864289</pub-id>
+               <issn>0003-9888</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b50">
+            <label>50.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Rener Primec</surname> 
+                     <given-names>Z</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Kitanovski</surname> 
+                     <given-names>L</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Perkovič Benedik</surname> 
+                     <given-names>M</given-names>
+                  </string-name>
+               </person-group>. <article-title>Early relapse of arterial ischemic stroke in children and adolescents should be prevented</article-title>. <source>Eur J Paediatr Neurol</source>. <year>2011</year>;<volume>15</volume>:<fpage>S85</fpage>. <pub-id pub-id-type="doi">10.1016/S1090-3798(11)70290-2</pub-id>
+               <issn>1090-3798</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b51">
+            <label>51.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Bernard</surname> 
+                     <given-names>TJ</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Fenton</surname> 
+                     <given-names>LZ</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Apkon</surname> 
+                     <given-names>SD</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Boada</surname> 
+                     <given-names>R</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Wilkening</surname> 
+                     <given-names>GN</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Wilkinson</surname> 
+                     <given-names>CC</given-names>
+                  </string-name>, <etal>et al.</etal>
+               </person-group> 
+               <article-title>Biomarkers of hypercoagulability and inflammation in childhood-onset arterial ischemic stroke</article-title>. <source>J Pediatr</source>. <year>2010</year> 
+               <month>Apr</month>;<volume>156</volume>(<issue>4</issue>):<fpage>651</fpage>–<lpage>6</lpage>. <pub-id pub-id-type="doi">10.1016/j.jpeds.2009.10.034</pub-id>
+               <pub-id pub-id-type="pmid">20022340</pub-id>
+               <issn>0022-3476</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b52">
+            <label>52.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Benseler</surname> 
+                     <given-names>S</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Pohl</surname> 
+                     <given-names>D</given-names>
+                  </string-name>
+               </person-group>. <article-title>Childhood central nervous system vasculitis</article-title>. <source>Handb Clin Neurol</source>. <year>2013</year>;<volume>112</volume>:<fpage>1065</fpage>–<lpage>78</lpage>. <pub-id pub-id-type="doi">10.1016/B978-0-444-52910-7.00024-6</pub-id>
+               <pub-id pub-id-type="pmid">23622312</pub-id>
+               <issn>0072-9752</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b53">
+            <label>53.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Miravet</surname> 
+                     <given-names>E</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Danchaivijitr</surname> 
+                     <given-names>N</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Basu</surname> 
+                     <given-names>H</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Saunders</surname> 
+                     <given-names>DE</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Ganesan</surname> 
+                     <given-names>V</given-names>
+                  </string-name>
+               </person-group>. <article-title>Clinical and radiological features of childhood cerebral infarction following varicella zoster virus infection</article-title>. <source>Dev Med Child Neurol</source>. <year>2007</year> 
+               <month>Jun</month>;<volume>49</volume>(<issue>6</issue>):<fpage>417</fpage>–<lpage>22</lpage>. <pub-id pub-id-type="doi">10.1111/j.1469-8749.2007.00417.x</pub-id>
+               <pub-id pub-id-type="pmid">17518925</pub-id>
+               <issn>0012-1622</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b54">
+            <label>54.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Back</surname> 
+                     <given-names>T</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Grünig</surname> 
+                     <given-names>S</given-names>
+                  </string-name>
+               </person-group>. <article-title>Neuroborreliosis-associated cerebral vasculitis—an update</article-title>. <source>Neurol Psychiatry Brain Res</source>. <year>2016</year>;<volume>22</volume>(<issue>3–4</issue>):<fpage>162</fpage>–<lpage>6</lpage>. <pub-id pub-id-type="doi">10.1016/j.npbr.2016.09.002</pub-id>
+               <issn>0941-9500</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b55">
+            <label>55.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Shah</surname> 
+                     <given-names>S</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Murthy</surname> 
+                     <given-names>SB</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Whitehead</surname> 
+                     <given-names>WE</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Jea</surname> 
+                     <given-names>A</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Nassif</surname> 
+                     <given-names>LM</given-names>
+                  </string-name>
+               </person-group>. <article-title>Decompressive hemicraniectomy in pediatric patients with malignant middle cerebral artery infarction: case series and review of the literature</article-title>. <source>World Neurosurg</source>. <year>2013</year> 
+               <month>Jul-Aug</month>;<volume>80</volume>(<issue>1-2</issue>):<fpage>126</fpage>–<lpage>33</lpage>. <pub-id pub-id-type="doi">10.1016/j.wneu.2013.06.001</pub-id>
+               <pub-id pub-id-type="pmid">23791748</pub-id>
+               <issn>1878-8750</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b56">
+            <label>56.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Smith</surname> 
+                     <given-names>SE</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Kirkham</surname> 
+                     <given-names>FJ</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Deveber</surname> 
+                     <given-names>G</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Millman</surname> 
+                     <given-names>G</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Dirks</surname> 
+                     <given-names>PB</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Wirrell</surname> 
+                     <given-names>E</given-names>
+                  </string-name>, <etal>et al.</etal>
+               </person-group> 
+               <article-title>Outcome following decompressive craniectomy for malignant middle cerebral artery infarction in children</article-title>. <source>Dev Med Child Neurol</source>. <year>2011</year> 
+               <month>Jan</month>;<volume>53</volume>(<issue>1</issue>):<fpage>29</fpage>–<lpage>33</lpage>. <pub-id pub-id-type="doi">10.1111/j.1469-8749.2010.03775.x</pub-id>
+               <pub-id pub-id-type="pmid">20804513</pub-id>
+               <issn>0012-1622</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b57">
+            <label>57.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Goldenberg</surname> 
+                     <given-names>NA</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Bernard</surname> 
+                     <given-names>TJ</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Fullerton</surname> 
+                     <given-names>HJ</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Gordon</surname> 
+                     <given-names>A</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>deVeber</surname> 
+                     <given-names>G</given-names>
+                  </string-name>; <collab>International Pediatric Stroke Study Group</collab>
+               </person-group>. <article-title>Antithrombotic treatments, outcomes, and prognostic factors in acute childhood-onset arterial ischaemic stroke: a multicentre, observational, cohort study</article-title>. <source>Lancet Neurol</source>. <year>2009</year> 
+               <month>Dec</month>;<volume>8</volume>(<issue>12</issue>):<fpage>1120</fpage>–<lpage>7</lpage>. <pub-id pub-id-type="doi">10.1016/S1474-4422(09)70241-8</pub-id>
+               <pub-id pub-id-type="pmid">19801204</pub-id>
+               <issn>1474-4422</issn>
+            </mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

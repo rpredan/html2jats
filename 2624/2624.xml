@@ -1,0 +1,2161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD with MathML3 v1.1 20151215//EN" "JATS-journalpublishing1-mathml3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink"
+         dtd-version="1.1"
+         xml:lang="sl"
+         article-type="other">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher-id">Zdrav Vestn</journal-id>
+         <journal-id journal-id-type="nlm-ta">Zdrav Vestn</journal-id>
+         <journal-id journal-id-type="doi">Zdrav Vestn</journal-id>
+         <journal-title-group>
+            <journal-title>Zdravniški vestnik</journal-title>
+            <trans-title-group xml:lang="en">
+               <trans-title>Slovenian Medical Journal</trans-title>
+            </trans-title-group>
+            <abbrev-journal-title>Zdrav Vestn</abbrev-journal-title>
+         </journal-title-group>
+         <issn publication-format="ppub" pub-type="ppub">1318-0347</issn>
+         <issn publication-format="epub" pub-type="epub">1581-0224</issn>
+         <issn-l>0350-0063</issn-l>
+         <publisher>
+            <publisher-name xml:lang="sl">Slovensko zdravniško društvo</publisher-name>
+            <publisher-name xml:lang="en">Slovenian Medical Association</publisher-name>
+            <publisher-loc xml:lang="sl">Ljubljana, Slovenia</publisher-loc>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.6016/ZdravVestn.2624</article-id>
+         <article-id pub-id-type="publisher-id">2624</article-id>
+         <article-categories>
+            <subj-group subj-group-type="discipline" xml:lang="en">
+               <subject>Medicine and health sciences</subject>
+               <subj-group>
+                  <subject>Cardiovascular system</subject>
+               </subj-group>
+            </subj-group>
+            <subj-group subj-group-type="discipline" xml:lang="sl">
+               <subject>Medicina/Zdravstvo</subject>
+               <subj-group>
+                  <subject>Srce in ožilje</subject>
+               </subj-group>
+            </subj-group>
+            <subj-group subj-group-type="article-type" xml:lang="en">
+               <subject>Professional article</subject>
+            </subj-group>
+            <subj-group subj-group-type="article-type" xml:lang="sl">
+               <subject>Strokovni članek</subject>
+            </subj-group>
+            <subj-group subj-group-type="heading" xml:lang="sl">
+               <subject>Srce in ožilje</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title xml:lang="sl">Strokovno stališče Združenja za anesteziologijo in intenzivno medicino o uporabi sugamadeksa</article-title>
+            <trans-title-group>
+               <trans-title xml:lang="en">Position statement of the Slovenian society of anaesthesiology and intensive care medicine on the use of sugammadex</trans-title>
+            </trans-title-group>
+            <alt-title alt-title-type="running-head" xml:lang="sl">Strokovno stališče združenja za anesteziologijo in intenzivno medicino o uporabi sugamadeksa</alt-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Požar Lukanović</surname>
+                  <given-names>Neva</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1">1</xref>
+            </contrib>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Dević</surname>
+                  <given-names>Dragan</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff2">2</xref>
+            </contrib>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Kandare</surname>
+                  <given-names>Rajko</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff2">2</xref>
+            </contrib>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Mekiš</surname>
+                  <given-names>Dušan</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff3">3</xref>
+            </contrib>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Novak Janković</surname>
+                  <given-names>Vesna</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1">1</xref>
+            </contrib>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Novak Supe</surname>
+                  <given-names>Barbka</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff4">4</xref>
+            </contrib>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Pekle Golež</surname>
+                  <given-names>Ana</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff4">4</xref>
+            </contrib>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Spindler Vesel</surname>
+                  <given-names>Alenka</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1">1</xref>
+               <xref ref-type="corresp" rid="corr"/>
+            </contrib>
+         </contrib-group>
+         <aff-alternatives id="aff1">
+            <aff xml:lang="sl">
+               <label>1</label>
+               <institution>Anesteziologija in intenzivna terapija operativnih strok, Kirurška klinika, Univerzitetni klinični center Ljubljana, Ljubljana</institution>
+            </aff>
+            <aff xml:lang="en">
+               <label>1</label>
+               <institution>Department of Anaesthetics and Surgical Intensive Care, Division of Surgery, University Medical Centre Ljubljana, Ljubljana, Slovenia</institution>
+            </aff>
+         </aff-alternatives>
+         <aff-alternatives id="aff2">
+            <aff xml:lang="sl">
+               <label>2</label>
+               <institution>Oddelek za anesteziologijo, intenzivno medicino operativnih strok in terapijo bolečin, Splošna bolnišnica Celje, Celje</institution>
+            </aff>
+            <aff xml:lang="en">
+               <label>2</label>
+               <institution>Department of Anaesthesiology, Intensive Care and Pain Management, General Hospital Celje, Celje, Slovenia</institution>
+            </aff>
+         </aff-alternatives>
+         <aff-alternatives id="aff3">
+            <aff xml:lang="sl">
+               <label>3</label>
+               <institution>Oddelek za anesteziologijo, intenzivno terapijo in terapijo bolečin, Univerzitetni klinični center Maribor, Maribor</institution>
+            </aff>
+            <aff xml:lang="en">
+               <label>3</label>
+               <institution>Department of Anaesthesiology, Intensive Care and Pain Management, University medical centre Maribor, Maribor, Slovenia</institution>
+            </aff>
+         </aff-alternatives>
+         <aff-alternatives id="aff4">
+            <aff xml:lang="sl">
+               <label>4</label>
+               <institution>Anesteziologija in intenzivna terapija operativnih strok, Sektor operativnih dejavnosti, Onkološki inštitut Ljubljana, Ljubljana</institution>
+            </aff>
+            <aff xml:lang="en">
+               <label>4</label>
+               <institution>Department of anesthesiology and intensive care, Institute of Oncology Ljubljana, Ljubljana, Slovenia</institution>
+            </aff>
+         </aff-alternatives>
+         <author-notes>
+            <fn fn-type="conflict" xml:lang="en">
+               <p>The authors have declared that no competing interests exist.</p>
+            </fn>
+            <fn fn-type="conflict" xml:lang="sl">
+               <p>Avtorji so izjavili, da ne obstajajo nobeni konkurenčni interesi.</p>
+            </fn>
+            <corresp id="corr">Alenka Spindler Vesel, e-mail: <email xlink:type="simple">alenka.spindler@guest.arnes.si</email>
+            </corresp>
+         </author-notes>
+         <pub-date pub-type="ppub">
+            <month>6</month>
+            <year>2018</year>
+         </pub-date>
+         <pub-date pub-type="epub">
+            <month>6</month>
+            <year>2018</year>
+         </pub-date>
+         <volume>87</volume>
+         <issue>5–6</issue>
+         <fpage>281</fpage>
+         <lpage>8</lpage>
+         <history>
+            <date date-type="received">
+               <day>21</day>
+               <month>6</month>
+               <year>2017</year>
+            </date>
+            <date date-type="accepted">
+               <day>28</day>
+               <month>11</month>
+               <year>2017</year>
+            </date>
+         </history>
+         <permissions>
+            <copyright-statement xml:lang="en">Copyright © 2018, Slovenian Medical Association (SZD)</copyright-statement>
+            <copyright-statement xml:lang="sl">© 2018, Slovensko zdravniško društvo (SZD)</copyright-statement>
+            <copyright-year>2018</copyright-year>
+            <copyright-holder xml:lang="en">Slovenian Medical Association (SZD)</copyright-holder>
+            <copyright-holder xml:lang="sl">Slovensko zdravniško društvo (SZD)</copyright-holder>
+            <license xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                     xlink:type="simple"
+                     xml:lang="en">
+               <license-p>This is an open access article distributed under the terms of the
+          <ext-link ext-link-type="uri"
+                            xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                            xlink:type="simple">Creative Commons Attribution-NonCommercial
+            License</ext-link>, which permits unrestricted use, distribution, and
+          reproduction in any medium, provided the original author and source are
+          credited and only for non-commercial purposes. </license-p>
+            </license>
+            <license xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                     xlink:type="simple"
+                     xml:lang="sl">
+               <license-p>To je članek z odprtim dostopom, ki ga lahko uporabite pod pogoji iz
+          <ext-link ext-link-type="uri"
+                            xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                            xlink:type="simple">Creative Commons Priznanje avtorstva-Nekomercialno
+            licence</ext-link>. ki dovoljuje distribucijo, predelavo ali
+          prilagoditev, ter gradijo na njem, v nekomercialne namene, z navedbo avtorja
+          in izvirnega dela.</license-p>
+            </license>
+         </permissions>
+         <abstract xml:lang="sl">
+            <title>Izvleček</title>
+            <p>V prispevku predstavljamo strokovna stališča za uporabo specifičnega vezalca aminosteroidnih mišičnih relaksantov, sugamadeksa, v najpogostejših kliničnih okoliščinah. Te so: nujna intubacija, ko bolnika ni mogoče niti predihavati niti intubirati, pri bolnikih z živčno-mišičnimi boleznimi, z jetrno okvaro, z ledvično okvaro, pri alergiji na sugamadeks, pri alergiji na rokuronij, v primeru zaostale mišične relaksacije ter pri uporabi mišičnega relaksanta kratek čas po uporabi sugamadeksa. Kot učinkovino izbire ga uporabimo pri motnjah srčnega ritma, KOPB, astmi, živčno-mišičnih boleznih, bolezenski debelosti, pri neprekinjeni infuziji aminoglikozidnih mišičnih relaksantov med operacijo. Med operacijo je zato potrebno nadzorovati živčno-mišični blok zaradi različnega odziva bolnikov na mišični relaksant. Samo klinični testi niso ustrezna zamenjava za objektivni nadzor nad povratkom mišične moči.</p>
+         </abstract>
+         <trans-abstract xml:lang="en">
+            <title>Abstract</title>
+            <p>We present our position statement for the use of sugammadex, a specific binder for aminosteroid muscle relaxants, in the most common clinical circumstances (in the case of an emergency intubation, when the patient cannot be ventilated or intubated; in patients with neuro-muscular disease, in patients with liver failure, in patients with renal failure, in patients with allergic reaction to sugammadex or to rocuronium, in cases of residual muscle relaxation and when we have to use a muscle relaxant short time after sugammadex application). Sugammadex is the drug of choice in cases of cardiac arhythmia, COPD, asthma, neuro-muscular diseases, pathological obesity, intraoperative use of continuous infusion of aminoglycoside muscle relaxants. It is therefore necessary to control the neuro-muscular block during surgery due to different response of patients to the muscle relaxant. Clinical tests alone are not an adequate substitute for objective control of muscular strength recovery.</p>
+         </trans-abstract>
+         <kwd-group xml:lang="sl">
+            <kwd>živčno-mišični blok</kwd>
+            <kwd>sugamadeks</kwd>
+         </kwd-group>
+         <kwd-group xml:lang="en">
+            <kwd>neuromuscular block</kwd>
+            <kwd>sugammadex</kwd>
+         </kwd-group>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>TotalReferences</meta-name>
+               <meta-value>66</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ReferencesParsed</meta-name>
+               <meta-value>65</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ReferencesBillable</meta-name>
+               <meta-value>60</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>LinkServices</meta-name>
+               <meta-value>pubmed-crossref</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ReferencesLinked</meta-name>
+               <meta-value>61</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ReferencesLinkedDOI</meta-name>
+               <meta-value>51</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ReferencesLinkedPMID</meta-name>
+               <meta-value>58</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>JournalReferences</meta-name>
+               <meta-value>62</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>BookReferences</meta-name>
+               <meta-value>1</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>BookChapterReferences</meta-name>
+               <meta-value>2</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ConferenceReferences</meta-name>
+               <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ElectronicReferences</meta-name>
+               <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>DissertationReferences</meta-name>
+               <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>LegalReferences</meta-name>
+               <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>StandardReferences</meta-name>
+               <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>OtherReferences</meta-name>
+               <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>UnknownReferences</meta-name>
+               <meta-value>1</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ReferencesSemiParsed</meta-name>
+               <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ReferencesBookUnparsed</meta-name>
+               <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>EditorialStyle</meta-name>
+               <meta-value>ICMJE-WHO</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <body>
+      <sec id="s1" sec-type="Uvod">
+         <label>1</label>
+         <title>Uvod</title>
+         <p>V zadnjih letih smo v Sloveniji dobili novo učinkovino, s katero lahko hitro in učinkovito povrnemo mišično moč bolnikom, pri katerih je bilo med operacijo potrebno zagotoviti živčno-mišični blok (ŽMB), zanj pa smo uporabili aminoglikozidni mišični relaksant rokuronij ali vekuronij. Da bi prispevali k izboljšanju varnosti bolnikov po kirurških posegih, pri katerih smo uporabili ta dva mišična relaksanta, smo izdelali strokovna stališča, v katerih predstavljamo uporabo specifičnega vezalca aminosteroidnih mišičnih relaksantov sugamadeksa v najpogostejših kliničnih okoliščinah. Strokovna stališča za uporabo sugamadexa so bila sprejeta na sekcijskem sestanku Slovenskega združenja za anesteziologijo in intenzivno medicino 29. 11. 2016, potrjena na SS za anesteziologijo dne 28. 10. 2017 in GSS SZD dne 14. 11. 2017.</p>
+      </sec>
+      <sec id="s2" sec-type="Nadzor globine živčno-mišične blokade">
+         <label>2</label>
+         <title>Nadzor globine živčno-mišične blokade</title>
+         <p>Z vzdrževanjem globoke živčno-mišične blokade (ŽMB) med posegom ter s čim prejšnjo vzpostavitvijo popolne mišične moči na koncu operacije zagotovimo negibnost bolnika med operacijo, zmanjšamo možnost zapletov med operacijo, zagotovimo optimalne pogoje za delo kirurga, skrajšamo čas operacije in omogočimo varno ekstubiranje (<xref ref-type="bibr" rid="b1">1</xref>-<xref ref-type="bibr" rid="b15">15</xref>). Med operacijo je treba nadzorovati ŽMB zaradi različnega odziva bolnikov na mišični relaksant, za zagotovitev primerne globine bloka za intubiranje ter za kirurški poseg in povrnitev primerne mišične moči za ekstubiranje, s čimer preprečimo zaplete zaradi zaostale relaksacije (<xref ref-type="bibr" rid="b16">16</xref>,<xref ref-type="bibr" rid="b17">17</xref>). Te je več pri debelosti, pri starostnikih, pri boleznih ledvic, jeter in pljuč.</p>
+         <p>Za objektivni nadzor ŽMB in zaostale relaksacije se najpogosteje uporablja zaporedje štirih dražljajev (<italic>angl.</italic> train of four, TOF), stimulacija »double burst«, tetanična stimulacija, posamezni zgibi in postetanično število (<italic>angl.</italic> posttetanic count, PTC). TOF je število odgovorov na električno stimulacijo. Stopnja mišične blokade (TOFr) se opredeljuje z deležem pri primerjavi četrtega odgovora s prvim. O zaostali relaksaciji govorimo pri razmerju TOF ≤ 0,7. Vrednost TOF ≥ 0,9 kaže na zanesljiv povratek mišične moči. Samo klinični testi niso ustrezna zamenjava za objektivni nadzor nad povratkom mišične moči (<xref ref-type="fig" rid="fig1">Slika 1</xref>) (<xref ref-type="bibr" rid="b18">18</xref>-<xref ref-type="bibr" rid="b20">20</xref>).</p>
+         <fig position="anchor" id="fig1">
+            <label>Slika 1:</label>
+            <caption>
+               <p> Klinični testi za ugotavljanje povratka mišične moči (TOF &lt; 90 %) (<xref ref-type="bibr" rid="b18">18</xref>).</p>
+            </caption>
+            <p>
+               <graphic xlink:href="2624-web-resources/image/2624-1.png"/>
+            </p>
+         </fig>
+         <p>O intenzivnem ŽMB govorimo, ko ni odgovora na draženje TOF in PTC. Pri globokem bloku dosežemo odgovor na PTC, ne pa na draženje TOF. Za srednje izraženo blok je značilen povrnjen odgovor na draženje (TOF (<xref ref-type="fig" rid="fig2">Slika 2</xref>) (<xref ref-type="bibr" rid="b21">21</xref>).</p>
+         <fig position="anchor" id="fig2">
+            <label>Slika 2:</label>
+            <caption>
+               <p> Globina živčno-mišičnega bloka (<xref ref-type="bibr" rid="b21">21</xref>).</p>
+            </caption>
+            <p>
+               <graphic xlink:href="2624-web-resources/image/2624-2.png"/>
+            </p>
+         </fig>
+         <p>Nadzor intenzivnosti ŽMB se priporoča vedno, ko bolnika relaksiramo z nedepolarizirajočimi mišičnimi relaksanti ter pred uporabo sugamadeksa (<xref ref-type="bibr" rid="b19">19</xref>,<xref ref-type="bibr" rid="b22">22</xref>).</p>
+         <p>Merjenje odziva na električno draženje na primikalki palca je trenutno edina praktična metoda za oceno globine mišične relaksacije.</p>
+         <p>Z uporabo sugamadeksa lahko hitro povrnemo mišično moč, saj odmerek prilagajamo globini blokade in ne starosti in spolu (<xref ref-type="table" rid="table1">Tabela 1</xref>) (<xref ref-type="bibr" rid="b22">22</xref>-<xref ref-type="bibr" rid="b25">25</xref>). Odmerjamo ga glede na idealno telesno težo.</p>
+         <table-wrap position="anchor" id="table1">
+            <label>Tabela 1:</label>
+            <caption>
+               <p> Priporočilo za odmerjanje sugamadeksa glede na globino živčno-mišičnega bloka (<xref ref-type="bibr" rid="b22">22</xref>-<xref ref-type="bibr" rid="b25">25</xref>).</p>
+            </caption>
+            <table>
+               <colgroup>
+                  <col/>
+                  <col/>
+                  <col/>
+               </colgroup>
+               <thead>
+                  <tr>
+                     <th>Globina bloka</th>
+                     <th>Meritev</th>
+                     <th>Sugamadeks</th>
+                  </tr>
+               </thead>
+               <tbody>
+                  <tr>
+                     <td>plitev</td>
+                     <td>
+                        <p>TOF 4</p>
+                        <p>TOF r 0,4–0,9</p>
+                     </td>
+                     <td>&lt; 2 mg/kg</td>
+                  </tr>
+                  <tr>
+                     <td>zmeren</td>
+                     <td>
+                        <p>TOF 1–2</p>
+                        <p>TOF r &lt; 0,4</p>
+                     </td>
+                     <td>2 mg/kg</td>
+                  </tr>
+                  <tr>
+                     <td>globok</td>
+                     <td>
+                        <p>TOF 0</p>
+                        <p>PTC &gt; 1</p>
+                     </td>
+                     <td>4 mg/kg</td>
+                  </tr>
+                  <tr>
+                     <td>intenziven</td>
+                     <td>
+                        <p>TOF 0</p>
+                        <p>PTC 0</p>
+                     </td>
+                     <td>16 mg/kg</td>
+                  </tr>
+               </tbody>
+            </table>
+         </table-wrap>
+         <p>Lahko ga uporabljamo za ŽMB pri carskem rezu in pri doječih materah. V poskusih na živalih niso odkrili teratogenih učinkov. Za varno uporabo pri otrocih do 2 let ni znanih podatkov.</p>
+      </sec>
+      <sec id="s3"
+           sec-type="Uporaba sugamadeksa pri nujni intubaciji, ko bolnika ni mogoče niti predihavati, niti intubirati">
+         <label>3</label>
+         <title>Uporaba sugamadeksa pri nujni intubaciji, ko bolnika ni mogoče niti predihavati, niti intubirati</title>
+         <p>V primerih, ko so uporabili rokuronij v odmerkih 1,2 mg / kg (za nujno vstavitev dihalne cevke) in bolnika ni mogoče niti predihavati niti intubirati, se lahko za prekinitev živčno-mišičnega bloka uporabi sugamadeks v odmerkih 16 mg/kg (<xref ref-type="bibr" rid="b26">26</xref>-<xref ref-type="bibr" rid="b29">29</xref>).</p>
+         <p>Da bi se izognili takšnim situacijam, moramo v primerih, ko je predvidena težka intubacija in nujna vstavitev dihalne cevke z rokuronijem, izdelati načrt, ki naj vsebuje:</p>
+         <list>
+            <list-item>
+               <label>•</label>
+               <p>izračun ustreznega odmerka sugamadeksa za urgentno prekinitev ŽMB;</p>
+            </list-item>
+            <list-item>
+               <label>•</label>
+               <p>mesto shranjevanja in zadostno količino sugamadeksa za nujne primere (v neposredni bližini) operacijskih prostorov.</p>
+            </list-item>
+         </list>
+      </sec>
+      <sec id="s4"
+           sec-type="Ponovitev dajanja mišičnega relaksanta kratek čas po uporabi sugamadeksa">
+         <label>4</label>
+         <title>Ponovitev dajanja mišičnega relaksanta kratek čas po uporabi sugamadeksa</title>
+         <p>V redkih primerih, ko je potrebno ponoviti ŽMB v zgodnjem obdobju po operaciji (nekaj minut ali nekaj ur po uporabi sugamadeksa), obstajajo 3 možnosti:</p>
+         <list>
+            <list-item>
+               <label>•</label>
+               <p>uporaba sukcinilholina,</p>
+            </list-item>
+            <list-item>
+               <label>•</label>
+               <p>uporaba benzil-izokinolonskih relaksantov,</p>
+            </list-item>
+            <list-item>
+               <label>•</label>
+               <p>ponovna uporaba rokuronija (<xref ref-type="table" rid="table2">Tabela 2</xref>).</p>
+            </list-item>
+         </list>
+         <table-wrap position="anchor" id="table2">
+            <label>Tabela 2:</label>
+            <caption>
+               <p> Primeren čas za ponovno uporabo rokuronija oz. vekuronija po odmerku sugamadeksa (do 4 mg/kg) (<xref ref-type="bibr" rid="b30">30</xref>,<xref ref-type="bibr" rid="b31">31</xref>).</p>
+            </caption>
+            <table>
+               <colgroup>
+                  <col/>
+                  <col/>
+               </colgroup>
+               <thead>
+                  <tr>
+                     <th>Čas po dekurarizaciji</th>
+                     <th>Živčno-mišični relaksant in odmerek</th>
+                  </tr>
+               </thead>
+               <tbody>
+                  <tr>
+                     <td>
+                        <italic>5 minut</italic>
+                     </td>
+                     <td>1,2 mg/kg rokuronija</td>
+                  </tr>
+                  <tr>
+                     <td>
+                        <italic>4 ure</italic>
+                     </td>
+                     <td>0,6 mg/kg rokuronija ali 0,1 mg/kg vekuronija</td>
+                  </tr>
+               </tbody>
+            </table>
+         </table-wrap>
+         <p>Hitrost nastopa ŽMB in njegovo trajanje sta nepredvidljiva. Odvisna sta od delovanja ledvic, odmerka rokuronija, odmerka pred tem uporabljenega sugamadeksa in od časa, ki je pretekel od njegove uporabe. V takem primeru je potrebno uporabiti živčno-mišični nadzor (<xref ref-type="bibr" rid="b27">27</xref>,<xref ref-type="bibr" rid="b30">30</xref>,<xref ref-type="bibr" rid="b31">31</xref>).</p>
+      </sec>
+      <sec id="s5"
+           sec-type="Uporaba sugamadeksa pri bolnikih z živčno-mišičnimi boleznimi">
+         <label>5</label>
+         <title>Uporaba sugamadeksa pri bolnikih z živčno-mišičnimi boleznimi</title>
+         <p>V skupino bolnikov z živčno mišičnimi boleznimi spadajo bolniki z:</p>
+         <list>
+            <list-item>
+               <label>•</label>
+               <p>mišičnimi distrofijami,</p>
+            </list-item>
+            <list-item>
+               <label>•</label>
+               <p>miotoničnimi distrofijami,</p>
+            </list-item>
+            <list-item>
+               <label>•</label>
+               <p>družinskimi periodičnimi paralizami,</p>
+            </list-item>
+            <list-item>
+               <label>•</label>
+               <p>miastenijo gravis,</p>
+            </list-item>
+            <list-item>
+               <label>•</label>
+               <p>miasteničnim sindromom,</p>
+            </list-item>
+            <list-item>
+               <label>•</label>
+               <p>poliradikulonevritisom (sindrom Guillain Barre),</p>
+            </list-item>
+            <list-item>
+               <label>•</label>
+               <p>multiplo sklerozo,</p>
+            </list-item>
+            <list-item>
+               <label>•</label>
+               <p>Huntingtonovo boleznijo.</p>
+            </list-item>
+         </list>
+         <p>Bolniki z razvito klinično sliko imajo parezo ali paralizo ter atrofijo nekaterih mišic ali mišičnih skupin. Za vse bolnike z živčno-mišičnimi boleznimi je značilna spremenjena farmakodinamika in povečana občutljivost na mišični relaksant (<xref ref-type="bibr" rid="b32">32</xref>,<xref ref-type="bibr" rid="b33">33</xref>).</p>
+         <p>Pri bolnikih z živčno-mišičnimi boleznimi splošna anestezija z uporabo mišičnega relaksanta zahteva zmanjšanje odmerka/prilagoditev odmerka mišičnega relaksanta ter obvezno uporabo nadziranja globine ŽMB. Klasična prekinitev ŽMB z zaviralci acetilholiesteraze lahko pri bolnikih z živčno-mišičnimi boleznimi ne ustreza. Uporaba mišičnega relaksanta z nenadzorovano in neustrezno antagonizacijo ŽMB poveča tveganje, da je po operaciji prisotna zaostala mišična relaksacija ter je zato potrebna mehanična dihalna podpora, kar zahteva zdravljenje v enoti za intenzivno terapijo. Pri bolnikih z živčno-mišičnimi boleznimi priporočamo uporabo rokuronija za izvedbo nujne vstavitve dihalne cevke, kakor tudi za mišično relaksacijo med splošno anestezijo. Globino ŽMB je potrebno nadzorovati, ustrezno prilagajati posamezne odmerke rokuronija ter ŽMB ob koncu anestezije prekiniti s sugamadeksom (<xref ref-type="bibr" rid="b34">34</xref>-<xref ref-type="bibr" rid="b49">49</xref>).</p>
+         <p>Pri bolnikih z živčno-mišičnimi boleznimi se odsvetuje uporaba leptosukcina. Uporabe drugih mišičnih relaksantov pa ne priporočamo zaradi povečanega tveganja za zaostalo mišično relaksacijo po operaciji (<xref ref-type="bibr" rid="b32">32</xref>,<xref ref-type="bibr" rid="b33">33</xref>).</p>
+      </sec>
+      <sec id="s6" sec-type="Uporaba sugamadeksa pri bolnikih z jetrno okvaro">
+         <label>6</label>
+         <title>Uporaba sugamadeksa pri bolnikih z jetrno okvaro</title>
+         <p>Pri bolnikih z blago do zmerno jetrno okvaro ali za kirurške posege na jetrih lahko uporabljamo sugamadeks brez omejitev. Odločitev o uporabi sugamadeksa pri bolnikih s hudo jetrno okvaro, zlasti če jo spremljajo motnje strjevanja krvi, pa naj se dobro pretehta. Kolikor sugamadeks pri teh bolnikih vendarle uporabimo, je obvezen nadzor ŽMB in podaljšan nadzor bolnika po operaciji. Pri bolnikih z znanimi motnjami strjevanja krvi priporočajo nadzor aPTČ, PČ in INR po dajanju sugamadeksa (<xref ref-type="bibr" rid="b50">50</xref>-<xref ref-type="bibr" rid="b52">52</xref>).</p>
+      </sec>
+      <sec id="s7" sec-type="Uporaba sugamadeksa pri bolnikih z ledvično okvaro">
+         <label>7</label>
+         <title>Uporaba sugamadeksa pri bolnikih z ledvično okvaro</title>
+         <p>Pri bolnikih s hudo ledvično okvaro (vključno s tistimi na dializi (očistek kreatinina &lt; 30 ml/min)) uporabe sugamadeksa ne priporočamo. Z raziskavami pri bolnikih s hudo ledvično okvaro niso pridobili dovolj podatkov o varnosti, ki bi podpirala uporabo sugamadeksa. Če se pri teh bolnikih zaradi spremljajočih bolezni kljub temu odločimo za prekinitev ŽMB s sugamadeksom, so v posameznih primerih odstranili kompleks sugamadeksa in rokuronija iz krvnega obtoka z dializo z velikimi pretoki. Pri bolnikih z blago ali zmerno ledvično okvaro (očistek kreatinina ≥ 30 in &lt; 80 ml/min) so priporočeni odmerki enaki kot za vse odrasle bolnike brez ledvične okvare (<xref ref-type="bibr" rid="b53">53</xref>,<xref ref-type="bibr" rid="b54">54</xref>).</p>
+      </sec>
+      <sec id="s8" sec-type="Alergija na sugamadeks">
+         <label>8</label>
+         <title>Alergija na sugamadeks</title>
+         <p>Incidenca alergije na sugamadeks je 0,3 %. Še posebej skrbno moramo bolnika nadzorovati v obdobju 5 minut po vbrizganju sugamadeksa, da hitro prepoznamo in takoj zdravimo alergične reakcije na sugamadeks, ki lahko ogrozijo bolnikovo življenje. Alergija na sugamadeks je kontraindikacija za njegovo uporabo (<xref ref-type="bibr" rid="b55">55</xref>-<xref ref-type="bibr" rid="b57">57</xref>).</p>
+      </sec>
+      <sec id="s9"
+           sec-type="Uporaba sugamadeksa pri bolnikih z alergijo na rokuronij">
+         <label>9</label>
+         <title>Uporaba sugamadeksa pri bolnikih z alergijo na rokuronij</title>
+         <p>Sugamadeks lahko pomaga pri zdravljenju nekaterih bolnikov z anafilaksijo, za katero sumimo, da jo je povzročil rokuronij, čeprav način delovanja sugamadeksa v teh okoliščinah ni jasen. To velja posebej v okoliščinah, ko ostali konvencionalni ukrepi niso uspešni in je ogroženo bolnikovo življenje. Priporočajo zgodnje dajanje sugamadeksa v velikih odmerkih (16 mg / kg) (<xref ref-type="bibr" rid="b58">58</xref>,<xref ref-type="bibr" rid="b59">59</xref>).</p>
+      </sec>
+      <sec id="s10" sec-type="Uporaba sugamadeksa pri zaostali relaksaciji">
+         <label>10</label>
+         <title>Uporaba sugamadeksa pri zaostali relaksaciji</title>
+         <p>Zaostala relaksacija je razmeroma pogosta po operacijah, pri katerih je potreben globok ŽMB do konca operacije. Opazimo pa jo lahko tudi pri bolnikih, pri katerih se je čas delovanja mišičnega relaksanta zaradi individualnega odgovora podaljšal. Zaostalo relaksacijo definiramo kot nepričakovano podaljšanje ŽMB po splošni anesteziji.</p>
+         <p>Dejavniki tveganja za nastanek zaostalega ŽMB so:</p>
+         <list>
+            <list-item>
+               <label>•</label>
+               <p>čas od zadnjega odmerka relaksanta (rokuronij, vekuronij);</p>
+            </list-item>
+            <list-item>
+               <label>•</label>
+               <p>presnova (različna odzivnost bolnika na odmerke mišičnega relaksanta);</p>
+            </list-item>
+            <list-item>
+               <label>•</label>
+               <p>lastnosti bolnikov (debelost, starostniki, spremljajoče bolezni – jetrna okvara, ledvična okvara, KOPB, živčno-mišične bolezni);</p>
+            </list-item>
+            <list-item>
+               <label>•</label>
+               <p>zdravila s sinergističnim delovanjem z mišičnim relaksantom (aminoglikozidni antibiotiki, litij, verapamil);</p>
+            </list-item>
+            <list-item>
+               <label>•</label>
+               <p>hipotermija/acidoza.</p>
+            </list-item>
+         </list>
+         <p>Uporaba mišičnega relaksanta in nezadostna prekinitev ŽMB so dejavniki tveganja za zaplete po operaciji (<xref ref-type="bibr" rid="b60">60</xref>-<xref ref-type="bibr" rid="b63">63</xref>).</p>
+      </sec>
+      <sec id="s11" sec-type="Prekinitev ŽMB">
+         <label>11</label>
+         <title>Prekinitev ŽMB</title>
+         <p>Zaviralce acetilholinesteraze (neostigmin) lahko uporabimo za povrnitev mišične moči pri zmernem mišičnem bloku (TOF = 1–2). Neostigmin uporabljamo v odmerkih 0,05–0,07 mg/kgt. V praksi se uporablja 2,5 mg neostigmina skupaj z 1 mg atropina. Ni pa učinkovit pri globoki mišični blokadi (TOF = 0, PTC 1).</p>
+         <p>Če ugotovimo s TOF ali kliničnimi znaki prisotnost zaostalega ŽMB po uporabi neostigmina, lahko popolno povrnitev mišične moči dosežemo s sugamadeksom v odmerku 2 mg/kg. Če ugotovimo zaostalo ŽMB kljub uporabi učinkovin za prekinitev ŽMB, moramo zagotoviti ustrezno oksigenacijo in standardni nadzor. Če je dihanje bolnika še vedno nezadostno, ga ponovno intubiramo ali ga intubiranega premestimo v enoto za intenzivno zdravljenje zaradi nadaljevanja podpore dihanju. Vzdržujemo normokarbijo in normotermijo. Če je potrebno, bolnika sediramo (propofol, midazolam) (<xref ref-type="bibr" rid="b64">64</xref>,<xref ref-type="bibr" rid="b65">65</xref>).</p>
+      </sec>
+      <sec id="s12" sec-type="Priporočene indikacije za uporabo sugamadeksa">
+         <label>12</label>
+         <title>Priporočene indikacije za uporabo sugamadeksa</title>
+         <p>Pri nekaterih bolezenskih stanjih je sugamadeks za prekinitev ŽMB učinkovina izbire. Ta stanja zajemajo:</p>
+         <list>
+            <list-item>
+               <label>•</label>
+               <p>motnje srčnega ritma;</p>
+            </list-item>
+            <list-item>
+               <label>•</label>
+               <p>KOPB, astma;</p>
+            </list-item>
+            <list-item>
+               <label>•</label>
+               <p>živčno-mišične bolezni;</p>
+            </list-item>
+            <list-item>
+               <label>•</label>
+               <p>bolezenska debelost;</p>
+            </list-item>
+            <list-item>
+               <label>•</label>
+               <p>uporaba neprekinjene infuzije aminoglikozidnih mišičnih relaksantov med operacijo.</p>
+            </list-item>
+         </list>
+         <p>ŽMB ni potrebno antagonizirati pri TOFr ≥ 0,9 (<xref ref-type="bibr" rid="b63">63</xref>).</p>
+      </sec>
+   </body>
+   <back>
+      <ref-list>
+         <ref id="b1">
+            <label>1.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Lemmens</surname> 
+                     <given-names>HJ</given-names>
+                  </string-name>, <string-name>
+                     <surname>El-Orbany</surname> 
+                     <given-names>MI</given-names>
+                  </string-name>, <string-name>
+                     <surname>Berry</surname> 
+                     <given-names>J</given-names>
+                  </string-name>, <string-name>
+                     <surname>Morte</surname> 
+                     <given-names>JB</given-names> 
+                     <suffix>Jr</suffix>
+                  </string-name>, <string-name>
+                     <surname>Martin</surname> 
+                     <given-names>G</given-names>
+                  </string-name>
+               </person-group>. <article-title>Reversal of profound vecuronium-induced neuromuscular block under sevoflurane anesthesia: sugammadex versus neostigmine</article-title>. <source>BMC Anesthesiol</source>. <year>2010</year> 
+               <month>Sep</month>;<volume>10</volume>(<issue>1</issue>):<fpage>15</fpage>. <pub-id pub-id-type="doi">10.1186/1471-2253-10-15</pub-id>
+               <pub-id pub-id-type="pmid">20809967</pub-id>
+               <issn>1471-2253</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b2">
+            <label>2.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Ogunnaike</surname> 
+                     <given-names>BO</given-names>
+                  </string-name>, <string-name>
+                     <surname>Jones</surname> 
+                     <given-names>SB</given-names>
+                  </string-name>, <string-name>
+                     <surname>Jones</surname> 
+                     <given-names>DB</given-names>
+                  </string-name>, <string-name>
+                     <surname>Provost</surname> 
+                     <given-names>D</given-names>
+                  </string-name>, <string-name>
+                     <surname>Whitten</surname> 
+                     <given-names>CW</given-names>
+                  </string-name>
+               </person-group>. <article-title>Anesthetic considerations for bariatric surgery</article-title>. <source>Anesth Analg</source>. <year>2002</year> 
+               <month>Dec</month>;<volume>95</volume>(<issue>6</issue>):<fpage>1793</fpage>–<lpage>805</lpage>. <pub-id pub-id-type="doi">10.1097/00000539-200212000-00061</pub-id>
+               <pub-id pub-id-type="pmid">12456461</pub-id>
+               <issn>0003-2999</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b3">
+            <label>3.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Meretoja</surname> 
+                     <given-names>OA</given-names>
+                  </string-name>
+               </person-group>. <article-title>Neuromuscular block and current treatment strategies for its reversal in children</article-title>. <source>Paediatr Anaesth</source>. <year>2010</year> 
+               <month>Jul</month>;<volume>20</volume>(<issue>7</issue>):<fpage>591</fpage>–<lpage>604</lpage>. <pub-id pub-id-type="doi">10.1111/j.1460-9592.2010.03335.x</pub-id>
+               <pub-id pub-id-type="pmid">20642658</pub-id>
+               <issn>1155-5645</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b4">
+            <label>4.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Chassard</surname> 
+                     <given-names>D</given-names>
+                  </string-name>, <string-name>
+                     <surname>Bryssine</surname> 
+                     <given-names>B</given-names>
+                  </string-name>, <string-name>
+                     <surname>Golfier</surname> 
+                     <given-names>F</given-names>
+                  </string-name>, <string-name>
+                     <surname>Raupp</surname> 
+                     <given-names>C</given-names>
+                  </string-name>, <string-name>
+                     <surname>Raudrant</surname> 
+                     <given-names>D</given-names>
+                  </string-name>, <string-name>
+                     <surname>Boulétreau</surname> 
+                     <given-names>P</given-names>
+                  </string-name>
+               </person-group>. <article-title>[Gynecologic laparoscopy with or without curare]</article-title>. <source>Ann Fr Anesth Reanim</source>. <year>1996</year>;<volume>15</volume>(<issue>7</issue>):<fpage>1013</fpage>–<lpage>7</lpage>. <pub-id pub-id-type="doi">10.1016/S0750-7658(96)89470-6</pub-id>
+               <pub-id pub-id-type="pmid">9180976</pub-id>
+               <issn>0750-7658</issn>
+               <annotation>
+                  <p content-type="warning">PubMed reports the vernacular (French) article title is <underline>Coelioscopie gynécologique avec ou sans curare.</underline>. (Ref. 4 "Chassard, Bryssine, Golfier, Raupp, Raudrant, Boulétreau, 1996")</p>
+               </annotation>
+            </mixed-citation>
+         </ref>
+         <ref id="b5">
+            <label>5.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Rossiter</surname> 
+                     <given-names>JD</given-names>
+                  </string-name>, <string-name>
+                     <surname>Wood</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <string-name>
+                     <surname>Lockwood</surname> 
+                     <given-names>A</given-names>
+                  </string-name>, <string-name>
+                     <surname>Lewis</surname> 
+                     <given-names>K</given-names>
+                  </string-name>
+               </person-group>. <article-title>Operating conditions for ocular surgery under general anaesthesia: an eccentric problem</article-title>. <source>Eye (Lond)</source>. <year>2006</year> 
+               <month>Jan</month>;<volume>20</volume>(<issue>1</issue>):<fpage>55</fpage>–<lpage>8</lpage>. <pub-id pub-id-type="doi">10.1038/sj.eye.6701789</pub-id>
+               <pub-id pub-id-type="pmid">15650757</pub-id>
+               <issn>0950-222X</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b6">
+            <label>6.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Chui</surname> 
+                     <given-names>PT</given-names>
+                  </string-name>, <string-name>
+                     <surname>Gin</surname> 
+                     <given-names>T</given-names>
+                  </string-name>, <string-name>
+                     <surname>Oh</surname> 
+                     <given-names>TE</given-names>
+                  </string-name>
+               </person-group>. <article-title>Anaesthesia for laparoscopic general surgery</article-title>. <source>Anaesth Intensive Care</source>. <year>1993</year> 
+               <month>Apr</month>;<volume>21</volume>(<issue>2</issue>):<fpage>163</fpage>–<lpage>71</lpage>.<pub-id pub-id-type="pmid">8517506</pub-id>
+               <issn>0310-057X</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b7">
+            <label>7.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Welliver</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <string-name>
+                     <surname>McDonough</surname> 
+                     <given-names>J</given-names>
+                  </string-name>, <string-name>
+                     <surname>Kalynych</surname> 
+                     <given-names>N</given-names>
+                  </string-name>, <string-name>
+                     <surname>Redfern</surname> 
+                     <given-names>R</given-names>
+                  </string-name>
+               </person-group>. <article-title>Discovery, development, and clinical application of sugammadex sodium, a selective relaxant binding agent</article-title>. <source>Drug Des Devel Ther</source>. <year>2009</year> 
+               <month>Feb</month>;<volume>2</volume>:<fpage>49</fpage>–<lpage>59</lpage>.<pub-id pub-id-type="pmid">19920893</pub-id>
+               <issn>1177-8881</issn>
+               <annotation>
+                  <p content-type="warning">Edifix has not found an issue number in the journal reference. Please check the volume/issue information. (Ref. 7 "Welliver, McDonough, Kalynych, Redfern, 2008")</p>
+               </annotation>
+            </mixed-citation>
+         </ref>
+         <ref id="b8">
+            <label>8.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Mencke</surname> 
+                     <given-names>T</given-names>
+                  </string-name>, <string-name>
+                     <surname>Echternach</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <string-name>
+                     <surname>Kleinschmidt</surname> 
+                     <given-names>S</given-names>
+                  </string-name>, <string-name>
+                     <surname>Lux</surname> 
+                     <given-names>P</given-names>
+                  </string-name>, <string-name>
+                     <surname>Barth</surname> 
+                     <given-names>V</given-names>
+                  </string-name>, <string-name>
+                     <surname>Plinkert</surname> 
+                     <given-names>PK</given-names>
+                  </string-name> 
+                  <etal>et al.</etal>
+               </person-group> 
+               <article-title>Laryngeal morbidity and quality of tracheal intubation: a randomized controlled trial</article-title>. <source>Anesthesiology</source>. <year>2003</year> 
+               <month>May</month>;<volume>98</volume>(<issue>5</issue>):<fpage>1049</fpage>–<lpage>56</lpage>. <pub-id pub-id-type="doi">10.1097/00000542-200305000-00005</pub-id>
+               <pub-id pub-id-type="pmid">12717124</pub-id>
+               <issn>0003-3022</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b9">
+            <label>9.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Murphy</surname> 
+                     <given-names>GS</given-names>
+                  </string-name>
+               </person-group>. <article-title>Residual neuromuscular blockade: incidence, assessment, and relevance in the postoperative period</article-title>. <source>Minerva Anestesiol</source>. <year>2006</year> 
+               <month>Mar</month>;<volume>72</volume>(<issue>3</issue>):<fpage>97</fpage>–<lpage>109</lpage>.<pub-id pub-id-type="pmid">16493386</pub-id>
+               <issn>0375-9393</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b10">
+            <label>10.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Eikermann</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <string-name>
+                     <surname>Blobner</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <string-name>
+                     <surname>Groeben</surname> 
+                     <given-names>H</given-names>
+                  </string-name>, <string-name>
+                     <surname>Rex</surname> 
+                     <given-names>C</given-names>
+                  </string-name>, <string-name>
+                     <surname>Grote</surname> 
+                     <given-names>T</given-names>
+                  </string-name>, <string-name>
+                     <surname>Neuhäuser</surname> 
+                     <given-names>M</given-names>
+                  </string-name> 
+                  <etal>et al.</etal>
+               </person-group> 
+               <article-title>Postoperative upper airway obstruction after recovery of the train of four ratio of the adductor pollicis muscle from neuromuscular blockade</article-title>. <source>Anesth Analg</source>. <year>2006</year> 
+               <month>Mar</month>;<volume>102</volume>(<issue>3</issue>):<fpage>937</fpage>–<lpage>42</lpage>. <pub-id pub-id-type="doi">10.1213/01.ane.0000195233.80166.14</pub-id>
+               <pub-id pub-id-type="pmid">16492855</pub-id>
+               <issn>0003-2999</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b11">
+            <label>11.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Berg</surname> 
+                     <given-names>H</given-names>
+                  </string-name>, <string-name>
+                     <surname>Roed</surname> 
+                     <given-names>J</given-names>
+                  </string-name>, <string-name>
+                     <surname>Viby-Mogensen</surname> 
+                     <given-names>J</given-names>
+                  </string-name>, <string-name>
+                     <surname>Mortensen</surname> 
+                     <given-names>CR</given-names>
+                  </string-name>, <string-name>
+                     <surname>Engbaek</surname> 
+                     <given-names>J</given-names>
+                  </string-name>, <string-name>
+                     <surname>Skovgaard</surname> 
+                     <given-names>LT</given-names>
+                  </string-name> 
+                  <etal>et al.</etal>
+               </person-group> 
+               <article-title>Residual neuromuscular block is a risk factor for postoperative pulmonary complications. A prospective, randomised, and blinded study of postoperative pulmonary complications after atracurium, vecuronium and pancuronium</article-title>. <source>Acta Anaesthesiol Scand</source>. <year>1997</year> 
+               <month>Oct</month>;<volume>41</volume>(<issue>9</issue>):<fpage>1095</fpage>–<lpage>103</lpage>. <pub-id pub-id-type="doi">10.1111/j.1399-6576.1997.tb04851.x</pub-id>
+               <pub-id pub-id-type="pmid">9366929</pub-id>
+               <issn>0001-5172</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b12">
+            <label>12.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Bissinger</surname> 
+                     <given-names>U</given-names>
+                  </string-name>, <string-name>
+                     <surname>Schimek</surname> 
+                     <given-names>F</given-names>
+                  </string-name>, <string-name>
+                     <surname>Lenz</surname> 
+                     <given-names>G</given-names>
+                  </string-name>
+               </person-group>. <article-title>Postoperative residual paralysis and respiratory status: a comparative study of pancuronium and vecuronium</article-title>. <source>Physiol Res</source>. <year>2000</year>;<volume>49</volume>(<issue>4</issue>):<fpage>455</fpage>–<lpage>62</lpage>.<pub-id pub-id-type="pmid">11072806</pub-id>
+               <issn>0862-8408</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b13">
+            <label>13.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Sundman</surname> 
+                     <given-names>E</given-names>
+                  </string-name>, <string-name>
+                     <surname>Witt</surname> 
+                     <given-names>H</given-names>
+                  </string-name>, <string-name>
+                     <surname>Olsson</surname> 
+                     <given-names>R</given-names>
+                  </string-name>, <string-name>
+                     <surname>Ekberg</surname> 
+                     <given-names>O</given-names>
+                  </string-name>, <string-name>
+                     <surname>Kuylenstierna</surname> 
+                     <given-names>R</given-names>
+                  </string-name>, <string-name>
+                     <surname>Eriksson</surname> 
+                     <given-names>LI</given-names>
+                  </string-name>
+               </person-group>. <article-title>The incidence and mechanisms of pharyngeal and upper esophageal dysfunction in partially paralyzed humans: pharyngeal videoradiography and simultaneous manometry after atracurium</article-title>. <source>Anesthesiology</source>. <year>2000</year> 
+               <month>Apr</month>;<volume>92</volume>(<issue>4</issue>):<fpage>977</fpage>–<lpage>84</lpage>. <pub-id pub-id-type="doi">10.1097/00000542-200004000-00014</pub-id>
+               <pub-id pub-id-type="pmid">10754616</pub-id>
+               <issn>0003-3022</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b14">
+            <label>14.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Gätke</surname> 
+                     <given-names>MR</given-names>
+                  </string-name>, <string-name>
+                     <surname>Viby-Mogensen</surname> 
+                     <given-names>J</given-names>
+                  </string-name>, <string-name>
+                     <surname>Rosenstock</surname> 
+                     <given-names>C</given-names>
+                  </string-name>, <string-name>
+                     <surname>Jensen</surname> 
+                     <given-names>FS</given-names>
+                  </string-name>, <string-name>
+                     <surname>Skovgaard</surname> 
+                     <given-names>LT</given-names>
+                  </string-name>
+               </person-group>. <article-title>Postoperative muscle paralysis after rocuronium: less residual block when acceleromyography is used</article-title>. <source>Acta Anaesthesiol Scand</source>. <year>2002</year> 
+               <month>Feb</month>;<volume>46</volume>(<issue>2</issue>):<fpage>207</fpage>–<lpage>13</lpage>. <pub-id pub-id-type="doi">10.1034/j.1399-6576.2002.460216.x</pub-id>
+               <pub-id pub-id-type="pmid">11942873</pub-id>
+               <issn>0001-5172</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b15">
+            <label>15.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Hayes</surname> 
+                     <given-names>AH</given-names>
+                  </string-name>, <string-name>
+                     <surname>Mirakhur</surname> 
+                     <given-names>RK</given-names>
+                  </string-name>, <string-name>
+                     <surname>Breslin</surname> 
+                     <given-names>DS</given-names>
+                  </string-name>, <string-name>
+                     <surname>Reid</surname> 
+                     <given-names>JE</given-names>
+                  </string-name>, <string-name>
+                     <surname>McCourt</surname> 
+                     <given-names>KC</given-names>
+                  </string-name>
+               </person-group>. <article-title>Postoperative residual block after intermediate-acting neuromuscular blocking drugs</article-title>. <source>Anaesthesia</source>. <year>2001</year> 
+               <month>Apr</month>;<volume>56</volume>(<issue>4</issue>):<fpage>312</fpage>–<lpage>8</lpage>. <pub-id pub-id-type="doi">10.1046/j.1365-2044.2001.01921.x</pub-id>
+               <pub-id pub-id-type="pmid">11284816</pub-id>
+               <issn>0003-2409</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b16">
+            <label>16.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Debaene</surname> 
+                     <given-names>B</given-names>
+                  </string-name>, <string-name>
+                     <surname>Plaud</surname> 
+                     <given-names>B</given-names>
+                  </string-name>, <string-name>
+                     <surname>Dilly</surname> 
+                     <given-names>MP</given-names>
+                  </string-name>, <string-name>
+                     <surname>Donati</surname> 
+                     <given-names>F</given-names>
+                  </string-name>
+               </person-group>. <article-title>Residual paralysis in the PACU after a single intubating dose of nondepolarizing muscle relaxant with an intermediate duration of action</article-title>. <source>Anesthesiology</source>. <year>2003</year> 
+               <month>May</month>;<volume>98</volume>(<issue>5</issue>):<fpage>1042</fpage>–<lpage>8</lpage>. <pub-id pub-id-type="doi">10.1097/00000542-200305000-00004</pub-id>
+               <pub-id pub-id-type="pmid">12717123</pub-id>
+               <issn>0003-3022</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b17">
+            <label>17.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Baillard</surname> 
+                     <given-names>C</given-names>
+                  </string-name>, <string-name>
+                     <surname>Clec’h</surname> 
+                     <given-names>C</given-names>
+                  </string-name>, <string-name>
+                     <surname>Catineau</surname> 
+                     <given-names>J</given-names>
+                  </string-name>, <string-name>
+                     <surname>Salhi</surname> 
+                     <given-names>F</given-names>
+                  </string-name>, <string-name>
+                     <surname>Gehan</surname> 
+                     <given-names>G</given-names>
+                  </string-name>, <string-name>
+                     <surname>Cupa</surname> 
+                     <given-names>M</given-names>
+                  </string-name> 
+                  <etal>et al.</etal>
+               </person-group> 
+               <article-title>Postoperative residual neuromuscular block: a survey of management</article-title>. <source>Br J Anaesth</source>. <year>2005</year> 
+               <month>Nov</month>;<volume>95</volume>(<issue>5</issue>):<fpage>622</fpage>–<lpage>6</lpage>. <pub-id pub-id-type="doi">10.1093/bja/aei240</pub-id>
+               <pub-id pub-id-type="pmid">16183681</pub-id>
+               <issn>0007-0912</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b18">
+            <label>18.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Cammu</surname> 
+                     <given-names>G</given-names>
+                  </string-name>, <string-name>
+                     <surname>De Witte</surname> 
+                     <given-names>J</given-names>
+                  </string-name>, <string-name>
+                     <surname>De Veylder</surname> 
+                     <given-names>J</given-names>
+                  </string-name>, <string-name>
+                     <surname>Byttebier</surname> 
+                     <given-names>G</given-names>
+                  </string-name>, <string-name>
+                     <surname>Vandeput</surname> 
+                     <given-names>D</given-names>
+                  </string-name>, <string-name>
+                     <surname>Foubert</surname> 
+                     <given-names>L</given-names>
+                  </string-name> 
+                  <etal>et al.</etal>
+               </person-group> 
+               <article-title>Postoperative residual paralysis in outpatients versus inpatients</article-title>. <source>Anesth Analg</source>. <year>2006</year> 
+               <month>Feb</month>;<volume>102</volume>(<issue>2</issue>):<fpage>426</fpage>–<lpage>9</lpage>. <pub-id pub-id-type="doi">10.1213/01.ane.0000195543.61123.1f</pub-id>
+               <pub-id pub-id-type="pmid">16428537</pub-id>
+               <issn>0003-2999</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b19">
+            <label>19. </label>
+            <mixed-citation publication-type="book" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Viby-Mogensen</surname> 
+                     <given-names>J</given-names>
+                  </string-name>
+               </person-group>. <source>Poglavje 39. Neuromuscular Monitoring. V: Miller’s Anesthesia</source>. <publisher-loc>Philadelphia</publisher-loc>: <publisher-name>Elsevier</publisher-name>; <year>2005</year>. pp. <fpage>1551</fpage>–<lpage>69</lpage>.</mixed-citation>
+         </ref>
+         <ref id="b20">
+            <label>20.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Kopman</surname> 
+                     <given-names>AF</given-names>
+                  </string-name>
+               </person-group>. <article-title>Neuromuscular monitoring: old issues, new controversies</article-title> 
+               <comment>[Fuchs-Buder T, Claudius C, Skovgaard LT]</comment>. <source>J Crit Care</source>. <year>2009</year> 
+               <month>Mar</month>;<volume>24</volume>(<issue>1</issue>):<fpage>11</fpage>–<lpage>20</lpage>. <pub-id pub-id-type="doi">10.1016/j.jcrc.2008.02.008</pub-id>
+               <pub-id pub-id-type="pmid">19272534</pub-id>
+               <issn>0883-9441</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b21">
+            <label>21.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Fuchs-Buder</surname> 
+                     <given-names>T</given-names>
+                  </string-name>, <string-name>
+                     <surname>Claudius</surname> 
+                     <given-names>C</given-names>
+                  </string-name>, <string-name>
+                     <surname>Skovgaard</surname> 
+                     <given-names>LT</given-names>
+                  </string-name>, <string-name>
+                     <surname>Eriksson</surname> 
+                     <given-names>LI</given-names>
+                  </string-name>, <string-name>
+                     <surname>Mirakhur</surname> 
+                     <given-names>RK</given-names>
+                  </string-name>, <string-name>
+                     <surname>Viby-Mogensen</surname> 
+                     <given-names>J</given-names>
+                  </string-name>; <collab>8th International Neuromuscular Meeting</collab>
+               </person-group>. <article-title>Good clinical research practice in pharmacodynamic studies of neuromuscular blocking agents II: the Stockholm revision</article-title>. <source>Acta Anaesthesiol Scand</source>. <year>2007</year> 
+               <month>Aug</month>;<volume>51</volume>(<issue>7</issue>):<fpage>789</fpage>–<lpage>808</lpage>. <pub-id pub-id-type="doi">10.1111/j.1399-6576.2007.01352.x</pub-id>
+               <pub-id pub-id-type="pmid">17635389</pub-id>
+               <issn>0001-5172</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b22">
+            <label>22.      </label>
+            <mixed-citation publication-type="unknown" specific-use="unparsed">
+               <person-group person-group-type="author">
+                  <collab>WATAG</collab>
+               </person-group>: <article-title>Sugammadex Guidelines</article-title>- July <year>2013</year>.</mixed-citation>
+         </ref>
+         <ref id="b23">
+            <label>23.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Kopman</surname> 
+                     <given-names>AF</given-names>
+                  </string-name>, <string-name>
+                     <surname>Eikermann</surname> 
+                     <given-names>M</given-names>
+                  </string-name>
+               </person-group>. <article-title>Antagonism of non-depolarising neuromuscular block: current practice</article-title>. <source>Anaesthesia</source>. <year>2009</year> 
+               <month>Mar</month>;<volume>64</volume> 
+               <supplement>Suppl 1</supplement>:<fpage>22</fpage>–<lpage>30</lpage>. <pub-id pub-id-type="doi">10.1111/j.1365-2044.2008.05867.x</pub-id>
+               <pub-id pub-id-type="pmid">19222428</pub-id>
+               <issn>0003-2409</issn>
+               <annotation>
+                  <p content-type="warning">Edifix has not found an issue number in the journal reference. Please check the volume/issue information. (Ref. 23 "Kopman, Eikermann, 2009")</p>
+               </annotation>
+            </mixed-citation>
+         </ref>
+         <ref id="b24">
+            <label>24.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>White</surname> 
+                     <given-names>PF</given-names>
+                  </string-name>, <string-name>
+                     <surname>Tufanogullari</surname> 
+                     <given-names>B</given-names>
+                  </string-name>, <string-name>
+                     <surname>Sacan</surname> 
+                     <given-names>O</given-names>
+                  </string-name>, <string-name>
+                     <surname>Pavlin</surname> 
+                     <given-names>EG</given-names>
+                  </string-name>, <string-name>
+                     <surname>Viegas</surname> 
+                     <given-names>OJ</given-names>
+                  </string-name>, <string-name>
+                     <surname>Minkowitz</surname> 
+                     <given-names>HS</given-names>
+                  </string-name> 
+                  <etal>et al.</etal>
+               </person-group> 
+               <article-title>The effect of residual neuromuscular blockade on the speed of reversal with sugammadex</article-title>. <source>Anesth Analg</source>. <year>2009</year> 
+               <month>Mar</month>;<volume>108</volume>(<issue>3</issue>):<fpage>846</fpage>–<lpage>51</lpage>. <pub-id pub-id-type="doi">10.1213/ane.0b013e31818a9932</pub-id>
+               <pub-id pub-id-type="pmid">19224792</pub-id>
+               <issn>0003-2999</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b25">
+            <label>25.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Jones</surname> 
+                     <given-names>KR</given-names>
+                  </string-name>, <string-name>
+                     <surname>Caldwell</surname> 
+                     <given-names>JE</given-names>
+                  </string-name>, <string-name>
+                     <surname>Brull</surname> 
+                     <given-names>SJ</given-names>
+                  </string-name>, <string-name>
+                     <surname>Soto</surname> 
+                     <given-names>RG</given-names>
+                  </string-name>
+               </person-group>. <article-title>Reversal of profound rocuronium-induced blockade with sugamadex</article-title>. <source>Anesthesiology</source>. <year>2008</year>;<volume>109</volume>(<issue>5</issue>):<fpage>816</fpage>–<lpage>24</lpage>. <pub-id pub-id-type="doi">10.1097/ALN.0b013e31818a3fee</pub-id>
+               <pub-id pub-id-type="pmid">18946293</pub-id>
+               <issn>0003-3022</issn>
+               <annotation>
+                  <p content-type="warning">Edifix has not updated this reference because the article title in PubMed significantly differs from the author's original. The PubMed reference is <underline>Jones RK, Caldwell JE, Brull SJ, Soto RG. Reversal of profound rocuronium-induced blockade with sugammadex: a randomized comparison with neostigmine. Anesthesiology. 2008 Nov;109(5):816–24</underline>. (Ref. 25 "Jones, Caldwell, Brull, Soto, 2008")</p>
+               </annotation>
+            </mixed-citation>
+         </ref>
+         <ref id="b26">
+            <label>26.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Ledowski</surname> 
+                     <given-names>T</given-names>
+                  </string-name>
+               </person-group>. <article-title>Sugammadex: what do we know and what do we still need to know? A review of the recent (2013 to 2014) literature</article-title>. <source>Anaesth Intensive Care</source>. <year>2015</year> 
+               <month>Jan</month>;<volume>43</volume>(<issue>1</issue>):<fpage>14</fpage>–<lpage>22</lpage>.<pub-id pub-id-type="pmid">25579285</pub-id>
+               <issn>0310-057X</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b27">
+            <label>27.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Schaller</surname> 
+                     <given-names>SJ</given-names>
+                  </string-name>, <string-name>
+                     <surname>Fink</surname> 
+                     <given-names>H</given-names>
+                  </string-name>
+               </person-group>. <article-title>Sugammadex as a reversal agent for neuromuscular block: an evidence-based review</article-title>. <source>Core Evid</source>. <year>2013</year>;<volume>8</volume>:<fpage>57</fpage>–<lpage>67</lpage>.<pub-id pub-id-type="pmid">24098155</pub-id>
+               <issn>1555-1741</issn>
+               <annotation>
+                  <p content-type="warning">Edifix has not found an issue number in the journal reference. Please check the volume/issue information. (Ref. 27 "Schaller, Fink, 2013")</p>
+               </annotation>
+            </mixed-citation>
+         </ref>
+         <ref id="b28">
+            <label>28.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Bisschops</surname> 
+                     <given-names>MM</given-names>
+                  </string-name>, <string-name>
+                     <surname>Holleman</surname> 
+                     <given-names>C</given-names>
+                  </string-name>, <string-name>
+                     <surname>Huitink</surname> 
+                     <given-names>JM</given-names>
+                  </string-name>
+               </person-group>. <article-title>Can sugammadex save a patient in a simulated ‘cannot intubate, cannot ventilate’ situation?</article-title> 
+               <source>Anaesthesia</source>. <year>2010</year> 
+               <month>Sep</month>;<volume>65</volume>(<issue>9</issue>):<fpage>936</fpage>–<lpage>41</lpage>. <pub-id pub-id-type="doi">10.1111/j.1365-2044.2010.06455.x</pub-id>
+               <pub-id pub-id-type="pmid">21198485</pub-id>
+               <issn>0003-2409</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b29">
+            <label>29.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Ackerman</surname> 
+                     <given-names>AG</given-names>
+                  </string-name>, <string-name>
+                     <surname>Russ</surname> 
+                     <given-names>S</given-names>
+                  </string-name>, <string-name>
+                     <surname>Puttick</surname> 
+                     <given-names>N</given-names>
+                  </string-name>, <string-name>
+                     <surname>Kessell</surname> 
+                     <given-names>G</given-names>
+                  </string-name>
+               </person-group>. <article-title>Availability and storage of sugammadex for emergency use</article-title>. <source>Anaesthesia</source>. <year>2011</year> 
+               <month>Feb</month>;<volume>66</volume>(<issue>2</issue>):<fpage>139</fpage>–<lpage>40</lpage>. <pub-id pub-id-type="doi">10.1111/j.1365-2044.2010.06595.x</pub-id>
+               <pub-id pub-id-type="pmid">21254994</pub-id>
+               <issn>0003-2409</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b30">
+            <label>30.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Kim</surname> 
+                     <given-names>YH</given-names>
+                  </string-name>
+               </person-group>. <article-title>Repeat dosing of rocuronium-sugammadex: unpredictable</article-title>. <source>Korean J Anesthesiol</source>. <year>2014</year> 
+               <month>Jul</month>;<volume>67</volume>(<issue>1</issue>):<fpage>1</fpage>–<lpage>3</lpage>. <pub-id pub-id-type="doi">10.4097/kjae.2014.67.1.1</pub-id>
+               <pub-id pub-id-type="pmid">25097730</pub-id>
+               <issn>2005-6419</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b31">
+            <label>31.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Fabregat-López</surname> 
+                     <given-names>J</given-names>
+                  </string-name>, <string-name>
+                     <surname>Veiga-Ruiz</surname> 
+                     <given-names>G</given-names>
+                  </string-name>, <string-name>
+                     <surname>Dominguez-Serrano</surname> 
+                     <given-names>N</given-names>
+                  </string-name>, <string-name>
+                     <surname>García-Martinez</surname> 
+                     <given-names>MR</given-names>
+                  </string-name>
+               </person-group>. <article-title>Re-establishment of neuromuscular block by rocuronium after sugammadex administration</article-title>. <source>Can J Anaesth</source>. <year>2011</year> 
+               <month>Jul</month>;<volume>58</volume>(<issue>7</issue>):<fpage>658</fpage>–<lpage>9</lpage>. <pub-id pub-id-type="doi">10.1007/s12630-011-9499-1</pub-id>
+               <pub-id pub-id-type="pmid">21468657</pub-id>
+               <issn>0832-610X</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b32">
+            <label>32. </label>
+            <mixed-citation publication-type="book-chapter" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Dierdorf</surname> 
+                     <given-names>SF</given-names>
+                  </string-name>, <string-name>
+                     <surname>Scott Walton</surname> 
+                     <given-names>J</given-names>
+                  </string-name>, <string-name>
+                     <surname>Stasic</surname> 
+                     <given-names>AF</given-names>
+                  </string-name>
+               </person-group>. <chapter-title>Rare Coexisting Diseases</chapter-title>. In: <person-group person-group-type="editor">
+                  <string-name>
+                     <surname>Barash</surname> 
+                     <given-names>PG</given-names>
+                  </string-name> 
+                  <etal>et al.</etal>, <role>editors</role>
+               </person-group>. <source>Clinical anesthesia</source>. <edition>7th ed.</edition> 
+               <publisher-loc>Philadelphia</publisher-loc>: <publisher-name>Lippincott Williams &amp; Wilkins</publisher-name>; <year>2013</year>. pp. <fpage>612</fpage>–<lpage>40</lpage>.<annotation>
+                  <p content-type="warning">"Et al" found after fewer than 6 authors. Please check reference (Ref. 32 "Dierdorf, Scott Walton, Stasic, 2013")</p>
+               </annotation>
+            </mixed-citation>
+         </ref>
+         <ref id="b33">
+            <label>33. </label>
+            <mixed-citation publication-type="book-chapter" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Fleisher</surname> 
+                     <given-names>LA</given-names>
+                  </string-name>, <string-name>
+                     <surname>Mythen</surname> 
+                     <given-names>M</given-names>
+                  </string-name>
+               </person-group>. <chapter-title>Anesthetic Implications of Concurrent Diseases</chapter-title>. In: <person-group person-group-type="editor">
+                  <string-name>
+                     <surname>Miller</surname> 
+                     <given-names>RD</given-names>
+                  </string-name> 
+                  <etal>et al.</etal>, <role>editors</role>
+               </person-group>. <source>Miller’s Anesthesia</source>. <edition>8th ed.</edition> 
+               <publisher-loc>Philadelphia</publisher-loc>: <publisher-name>Elsevier Saunders</publisher-name>; <year>2015</year>. pp. <fpage>1156</fpage>–<lpage>225</lpage>.<annotation>
+                  <p content-type="warning">"Et al" found after fewer than 6 authors. Please check reference (Ref. 33 "Fleisher, Mythen, 2015")</p>
+               </annotation>
+            </mixed-citation>
+         </ref>
+         <ref id="b34">
+            <label>34.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Schaller</surname> 
+                     <given-names>SJ</given-names>
+                  </string-name>, <string-name>
+                     <surname>Fink</surname> 
+                     <given-names>H</given-names>
+                  </string-name>
+               </person-group>. <article-title>Sugammadex as a reversal agent for neuromuscular block: an evidence-based review</article-title>. <source>Core Evid</source>. <year>2013</year>;<volume>8</volume>:<fpage>57</fpage>–<lpage>67</lpage>.<pub-id pub-id-type="pmid">24098155</pub-id>
+               <issn>1555-1741</issn>
+               <annotation>
+                  <p content-type="warning">Reference 34 "Schaller, Fink, 2013" is a duplicate. Please compare it to reference 27.</p>
+                  <p content-type="warning">Edifix has not found an issue number in the journal reference. Please check the volume/issue information. (Ref. 34 "Schaller, Fink, 2013")</p>
+               </annotation>
+            </mixed-citation>
+         </ref>
+         <ref id="b35">
+            <label>35.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Lobaz</surname> 
+                     <given-names>S</given-names>
+                  </string-name>, <string-name>
+                     <surname>Clymer</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <string-name>
+                     <surname>Sammut</surname> 
+                     <given-names>M</given-names>
+                  </string-name>
+               </person-group>. <article-title>Safety and Efficacy of Sugammadex for Neuromuscular Blockade Reversal</article-title>. <source>Clin Med Insights Ther</source>. <year>2014</year>;<volume>6</volume>:<fpage>1</fpage>–<lpage>14</lpage>. <pub-id pub-id-type="doi">10.4137/CMT.S10241</pub-id>
+               <issn>1179-559X</issn>
+               <annotation>
+                  <p content-type="warning">Crossref reports the first page should be "CMT.S10241", not "1". (Ref. 35 "Lobaz, Clymer, Sammut, 2014")</p>
+                  <p content-type="warning">The reference title appears to be set in title case rather than sentence case. (Ref. 35 "Lobaz, Clymer, Sammut, 2014")</p>
+                  <p content-type="warning">Edifix has not found an issue number in the journal reference. Please check the volume/issue information. (Ref. 35 "Lobaz, Clymer, Sammut, 2014")</p>
+               </annotation>
+            </mixed-citation>
+         </ref>
+         <ref id="b36">
+            <label>36.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>de Boer</surname> 
+                     <given-names>HD</given-names>
+                  </string-name>, <string-name>
+                     <surname>van Esmond</surname> 
+                     <given-names>J</given-names>
+                  </string-name>, <string-name>
+                     <surname>Booij</surname> 
+                     <given-names>LH</given-names>
+                  </string-name>, <string-name>
+                     <surname>Driessen</surname> 
+                     <given-names>JJ</given-names>
+                  </string-name>
+               </person-group>. <article-title>Reversal of rocuronium-induced profound neuromuscular block by sugammadex in Duchenne muscular dystrophy</article-title>. <source>Paediatr Anaesth</source>. <year>2009</year> 
+               <month>Dec</month>;<volume>19</volume>(<issue>12</issue>):<fpage>1226</fpage>–<lpage>8</lpage>. <pub-id pub-id-type="doi">10.1111/j.1460-9592.2009.03178.x</pub-id>
+               <pub-id pub-id-type="pmid">19863737</pub-id>
+               <issn>1155-5645</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b37">
+            <label>37.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Baumgartner</surname> 
+                     <given-names>P</given-names>
+                  </string-name>
+               </person-group>. <article-title>Rocuronium and sugammadex in myotonic dystrophy</article-title>. <source>Anaesth Intensive Care</source>. <year>2010</year> 
+               <month>Sep</month>;<volume>38</volume>(<issue>5</issue>):<fpage>959</fpage>–<lpage>60</lpage>.<pub-id pub-id-type="pmid">20865895</pub-id>
+               <issn>0310-057X</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b38">
+            <label>38.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Suzuki</surname> 
+                     <given-names>T</given-names>
+                  </string-name>, <string-name>
+                     <surname>Nameki</surname> 
+                     <given-names>K</given-names>
+                  </string-name>, <string-name>
+                     <surname>Shimizu</surname> 
+                     <given-names>H</given-names>
+                  </string-name>, <string-name>
+                     <surname>Shimizu</surname> 
+                     <given-names>Y</given-names>
+                  </string-name>, <string-name>
+                     <surname>Nakamura</surname> 
+                     <given-names>R</given-names>
+                  </string-name>, <string-name>
+                     <surname>Ogawa</surname> 
+                     <given-names>S</given-names>
+                  </string-name>
+               </person-group>. <article-title>Efficacy of rocuronium and sugammadex in a patient with dermatomyositis</article-title>. <source>Br J Anaesth</source>. <year>2012</year> 
+               <month>Apr</month>;<volume>108</volume>(<issue>4</issue>):<fpage>703</fpage>. <pub-id pub-id-type="doi">10.1093/bja/aes087</pub-id>
+               <pub-id pub-id-type="pmid">22419633</pub-id>
+               <issn>0007-0912</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b39">
+            <label>39.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Petrun</surname> 
+                     <given-names>AM</given-names>
+                  </string-name>, <string-name>
+                     <surname>Mekis</surname> 
+                     <given-names>D</given-names>
+                  </string-name>, <string-name>
+                     <surname>Kamenik</surname> 
+                     <given-names>M</given-names>
+                  </string-name>
+               </person-group>. <article-title>Successful use of rocuronium and sugammadex in a patient with myasthenia</article-title>. <source>Eur J Anaesthesiol</source>. <year>2010</year> 
+               <month>Oct</month>;<volume>27</volume>(<issue>10</issue>):<fpage>917</fpage>–<lpage>8</lpage>. <pub-id pub-id-type="doi">10.1097/EJA.0b013e3283392593</pub-id>
+               <pub-id pub-id-type="pmid">20375901</pub-id>
+               <issn>0265-0215</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b40">
+            <label>40.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Unterbuchner</surname> 
+                     <given-names>C</given-names>
+                  </string-name>, <string-name>
+                     <surname>Fink</surname> 
+                     <given-names>H</given-names>
+                  </string-name>, <string-name>
+                     <surname>Blobner</surname> 
+                     <given-names>M</given-names>
+                  </string-name>
+               </person-group>. <article-title>The use of sugammadex in a patient with myasthenia gravis</article-title>. <source>Anaesthesia</source>. <year>2010</year> 
+               <month>Mar</month>;<volume>65</volume>(<issue>3</issue>):<fpage>302</fpage>–<lpage>5</lpage>. <pub-id pub-id-type="doi">10.1111/j.1365-2044.2009.06236.x</pub-id>
+               <pub-id pub-id-type="pmid">20105151</pub-id>
+               <issn>0003-2409</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b41">
+            <label>41.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>de Boer</surname> 
+                     <given-names>HD</given-names>
+                  </string-name>, <string-name>
+                     <surname>van Egmond</surname> 
+                     <given-names>J</given-names>
+                  </string-name>, <string-name>
+                     <surname>Driessen</surname> 
+                     <given-names>JJ</given-names>
+                  </string-name>, <string-name>
+                     <surname>Booij</surname> 
+                     <given-names>LH</given-names>
+                  </string-name>
+               </person-group>. <article-title>Sugammadex in patients with myasthenia gravis</article-title>. <source>Anaesthesia</source>. <year>2010</year> 
+               <month>Jun</month>;<volume>65</volume>(<issue>6</issue>):<fpage>653</fpage>. <pub-id pub-id-type="doi">10.1111/j.1365-2044.2010.06360.x</pub-id>
+               <pub-id pub-id-type="pmid">20565409</pub-id>
+               <issn>0003-2409</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b42">
+            <label>42.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Vymazal</surname> 
+                     <given-names>T</given-names>
+                  </string-name>, <string-name>
+                     <surname>Krecmerova</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <string-name>
+                     <surname>Bicek</surname> 
+                     <given-names>V</given-names>
+                  </string-name>, <string-name>
+                     <surname>Lischke</surname> 
+                     <given-names>R</given-names>
+                  </string-name>
+               </person-group>. <article-title>Feasibility of full and rapid neuromuscular blockade recovery with sugammadex in myasthenia gravis patients undergoing surgery - a series of 117 cases</article-title>. <source>Ther Clin Risk Manag</source>. <year>2015</year> 
+               <month>Oct</month>;<volume>11</volume>:<fpage>1593</fpage>–<lpage>6</lpage>. <pub-id pub-id-type="doi">10.2147/TCRM.S93009</pub-id>
+               <pub-id pub-id-type="pmid">26508869</pub-id>
+               <issn>1176-6336</issn>
+               <annotation>
+                  <p content-type="warning">Edifix has not found an issue number in the journal reference. Please check the volume/issue information. (Ref. 42 "Vymazal, Krecmerova, Bicek, Lischke, 2015")</p>
+               </annotation>
+            </mixed-citation>
+         </ref>
+         <ref id="b43">
+            <label>43.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Stewart</surname> 
+                     <given-names>PA</given-names>
+                  </string-name>, <string-name>
+                     <surname>Phillips</surname> 
+                     <given-names>S</given-names>
+                  </string-name>, <string-name>
+                     <surname>De Boer</surname> 
+                     <given-names>HD</given-names>
+                  </string-name>
+               </person-group>. <article-title>Sugammadex reversal of rocuronium-induced neuromuscular blockade in two types of neuromuscular disorders: myotonic dystrophy and spinal muscular atrophy</article-title>. <source>Rev Esp Anestesiol Reanim</source>. <year>2013</year> 
+               <month>Apr</month>;<volume>60</volume>(<issue>4</issue>):<fpage>226</fpage>–<lpage>9</lpage>. <pub-id pub-id-type="doi">10.1016/j.redar.2012.07.007</pub-id>
+               <pub-id pub-id-type="pmid">22947194</pub-id>
+               <issn>0034-9356</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b44">
+            <label>44.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Vilela</surname> 
+                     <given-names>H</given-names>
+                  </string-name>, <string-name>
+                     <surname>Santos</surname> 
+                     <given-names>J</given-names>
+                  </string-name>, <string-name>
+                     <surname>Colaço</surname> 
+                     <given-names>J</given-names>
+                  </string-name>, <string-name>
+                     <surname>Oliveira</surname> 
+                     <given-names>E</given-names>
+                  </string-name>, <string-name>
+                     <surname>Canas-da-Silva</surname> 
+                     <given-names>P</given-names>
+                  </string-name>
+               </person-group>. <article-title>Reversal of neuromuscular blockade with sugammadex in a patient with spinal muscular atrophy type III (Kugelberg-Welander syndrome)</article-title>. <source>J Anesth</source>. <year>2012</year> 
+               <month>Apr</month>;<volume>26</volume>(<issue>2</issue>):<fpage>306</fpage>–<lpage>7</lpage>. <pub-id pub-id-type="doi">10.1007/s00540-011-1308-z</pub-id>
+               <pub-id pub-id-type="pmid">22198219</pub-id>
+               <issn>0913-8668</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b45">
+            <label>45.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Kelsaka</surname> 
+                     <given-names>E</given-names>
+                  </string-name>, <string-name>
+                     <surname>Karakaya</surname> 
+                     <given-names>D</given-names>
+                  </string-name>, <string-name>
+                     <surname>Zengin</surname> 
+                     <given-names>EC</given-names>
+                  </string-name>
+               </person-group>. <article-title>Use of sugammadex in a patient with amyotrophic lateral sclerosis</article-title>. <source>Med Princ Pract</source>. <year>2013</year>;<volume>22</volume>(<issue>3</issue>):<fpage>304</fpage>–<lpage>6</lpage>. <pub-id pub-id-type="doi">10.1159/000343168</pub-id>
+               <pub-id pub-id-type="pmid">23075763</pub-id>
+               <issn>1011-7571</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b46">
+            <label>46.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Khan</surname> 
+                     <given-names>MH</given-names>
+                  </string-name>, <string-name>
+                     <surname>Banerjee</surname> 
+                     <given-names>A</given-names>
+                  </string-name>
+               </person-group>. <article-title>Anaesthesia and orphan disease: sugammadex in a patient with Huntington’s disease undergoing thyroid lobectomy</article-title>. <source>Eur J Anaesthesiol</source>. <year>2012</year> 
+               <month>Dec</month>;<volume>29</volume>(<issue>12</issue>):<fpage>593</fpage>–<lpage>5</lpage>. <pub-id pub-id-type="doi">10.1097/EJA.0b013e328356472a</pub-id>
+               <pub-id pub-id-type="pmid">22935957</pub-id>
+               <issn>0265-0215</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b47">
+            <label>47.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Jakubiak</surname> 
+                     <given-names>J</given-names>
+                  </string-name>, <string-name>
+                     <surname>Gaszyński</surname> 
+                     <given-names>T</given-names>
+                  </string-name>, <string-name>
+                     <surname>Gaszyński</surname> 
+                     <given-names>W</given-names>
+                  </string-name>
+               </person-group>. <article-title>Neuromuscular block reversal with sugammadex in a morbidly obese patient with myasthenia gravis</article-title>. <source>Anaesthesiol Intensive Ther</source>. <year>2012</year> 
+               <month>Jan-Mar</month>;<volume>44</volume>(<issue>1</issue>):<fpage>28</fpage>–<lpage>30</lpage>.<pub-id pub-id-type="pmid">23801510</pub-id>
+               <issn>1731-2515</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b48">
+            <label>48.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Stourac</surname> 
+                     <given-names>P</given-names>
+                  </string-name>, <string-name>
+                     <surname>Krikava</surname> 
+                     <given-names>I</given-names>
+                  </string-name>, <string-name>
+                     <surname>Seidlova</surname> 
+                     <given-names>J</given-names>
+                  </string-name>, <string-name>
+                     <surname>Strazevska</surname> 
+                     <given-names>E</given-names>
+                  </string-name>, <string-name>
+                     <surname>Huser</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <string-name>
+                     <surname>Hruban</surname> 
+                     <given-names>L</given-names>
+                  </string-name> 
+                  <etal>et al.</etal>
+               </person-group> 
+               <article-title>Sugammadex in a parturient with myotonic dystrophy</article-title>. <source>Br J Anaesth</source>. <year>2013</year> 
+               <month>Apr</month>;<volume>110</volume>(<issue>4</issue>):<fpage>657</fpage>–<lpage>8</lpage>. <pub-id pub-id-type="doi">10.1093/bja/aet037</pub-id>
+               <pub-id pub-id-type="pmid">23508494</pub-id>
+               <issn>0007-0912</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b49">
+            <label>49.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Sungur</surname> 
+                     <given-names>Z</given-names>
+                  </string-name>, <string-name>
+                     <surname>Sentürk</surname> 
+                     <given-names>M</given-names>
+                  </string-name>
+               </person-group>. <article-title>Anaesthesia for thymectomy in adult and juvenile myasthenic patients</article-title>. <source>Curr Opin Anaesthesiol</source>. <year>2016</year> 
+               <month>Feb</month>;<volume>29</volume>(<issue>1</issue>):<fpage>14</fpage>–<lpage>9</lpage>. <pub-id pub-id-type="doi">10.1097/ACO.0000000000000272</pub-id>
+               <pub-id pub-id-type="pmid">26545147</pub-id>
+               <issn>0952-7907</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b50">
+            <label>50.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Fujita</surname> 
+                     <given-names>A</given-names>
+                  </string-name>, <string-name>
+                     <surname>Ishibe</surname> 
+                     <given-names>N</given-names>
+                  </string-name>, <string-name>
+                     <surname>Yoshihara</surname> 
+                     <given-names>T</given-names>
+                  </string-name>, <string-name>
+                     <surname>Ohashi</surname> 
+                     <given-names>J</given-names>
+                  </string-name>, <string-name>
+                     <surname>Makino</surname> 
+                     <given-names>H</given-names>
+                  </string-name>, <string-name>
+                     <surname>Ikeda</surname> 
+                     <given-names>M</given-names>
+                  </string-name> 
+                  <etal>et al.</etal>
+               </person-group> 
+               <article-title>Rapid reversal of neuromuscular blockade by sugammadex after continuous infusion of rocuronium in patients with liver dysfunction undergoing hepatic surgery</article-title>. <source>Acta Anaesthesiol Taiwan</source>. <year>2014</year> 
+               <month>Jun</month>;<volume>52</volume>(<issue>2</issue>):<fpage>54</fpage>–<lpage>8</lpage>. <pub-id pub-id-type="doi">10.1016/j.aat.2014.04.007</pub-id>
+               <pub-id pub-id-type="pmid">25016508</pub-id>
+               <issn>1875-4597</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b51">
+            <label>51.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Welliver</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <string-name>
+                     <surname>Cheek</surname> 
+                     <given-names>D</given-names>
+                  </string-name>, <string-name>
+                     <surname>Osterbrink</surname> 
+                     <given-names>J</given-names>
+                  </string-name>, <string-name>
+                     <surname>McDonough</surname> 
+                     <given-names>J</given-names>
+                  </string-name>
+               </person-group>. <article-title>Worldwide experience with sugammadex sodium: implications for the United States</article-title>. <source>AANA J</source>. <year>2015</year> 
+               <month>Apr</month>;<volume>83</volume>(<issue>2</issue>):<fpage>107</fpage>–<lpage>15</lpage>.<pub-id pub-id-type="pmid">26016169</pub-id>
+               <issn>0094-6354</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b52">
+            <label>52.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Ezri</surname> 
+                     <given-names>T</given-names>
+                  </string-name>, <string-name>
+                     <surname>Boaz</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <string-name>
+                     <surname>Sherman</surname> 
+                     <given-names>A</given-names>
+                  </string-name>, <string-name>
+                     <surname>Armaly</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <string-name>
+                     <surname>Berlovitz</surname> 
+                     <given-names>Y</given-names>
+                  </string-name>
+               </person-group>. <article-title>Sugammadex: an update</article-title>. <source>JCCM</source>. <year>2016</year>;<volume>2</volume>:<fpage>16</fpage>–<lpage>21</lpage>.<annotation>
+                  <p content-type="warning">Edifix does not recognize the journal "JCCM". If this is a valid journal title, please send this reference to journals@inera.com for addition to our journal database. (Ref. 52 "Ezri, Boaz, Sherman, Armaly, Berlovitz, 2016")</p>
+                  <p content-type="warning">Edifix has not found an issue number in the journal reference. Please check the volume/issue information. (Ref. 52 "Ezri, Boaz, Sherman, Armaly, Berlovitz, 2016")</p>
+               </annotation>
+            </mixed-citation>
+         </ref>
+         <ref id="b53">
+            <label>11.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>de Souza</surname> 
+                     <given-names>CM</given-names>
+                  </string-name>, <string-name>
+                     <surname>Tardelli</surname> 
+                     <given-names>MA</given-names>
+                  </string-name>, <string-name>
+                     <surname>Tedesco</surname> 
+                     <given-names>H</given-names>
+                  </string-name>, <string-name>
+                     <surname>Garcia</surname> 
+                     <given-names>NN</given-names>
+                  </string-name>, <string-name>
+                     <surname>Caparros</surname> 
+                     <given-names>MP</given-names>
+                  </string-name>, <string-name>
+                     <surname>Alvarez-Gomez</surname> 
+                     <given-names>JA</given-names>
+                  </string-name> 
+                  <etal>et al.</etal>
+               </person-group> 
+               <article-title>Efficacy and safety of sugammadex in the reversal of deep neuromuscular blockade induced by rocuronium in patients with end-stage renal disease: A comparative prospective clinical trial</article-title>. <source>Eur J Anaesthesiol</source>. <year>2015</year> 
+               <month>Oct</month>;<volume>32</volume>(<issue>10</issue>):<fpage>681</fpage>–<lpage>6</lpage>. <pub-id pub-id-type="doi">10.1097/EJA.0000000000000312</pub-id>
+               <pub-id pub-id-type="pmid">26225497</pub-id>
+               <issn>0265-0215</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b54">
+            <label>53.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>de Souza</surname> 
+                     <given-names>CM</given-names>
+                  </string-name>, <string-name>
+                     <surname>Tardelli</surname> 
+                     <given-names>MA</given-names>
+                  </string-name>, <string-name>
+                     <surname>Tedesco</surname> 
+                     <given-names>H</given-names>
+                  </string-name>, <string-name>
+                     <surname>Garcia</surname> 
+                     <given-names>NN</given-names>
+                  </string-name>, <string-name>
+                     <surname>Caparros</surname> 
+                     <given-names>MP</given-names>
+                  </string-name>, <string-name>
+                     <surname>Alvarez-Gomez</surname> 
+                     <given-names>JA</given-names>
+                  </string-name> 
+                  <etal>et al.</etal>
+               </person-group> 
+               <article-title>Efficacy and safety of sugammadex in the reversal of deep neuromuscular blockade induced by rocuronium in patients with end-stage renal disease: A comparative prospective clinical trial</article-title>. <source>Eur J Anaesthesiol</source>. <year>2015</year> 
+               <month>Oct</month>;<volume>32</volume>(<issue>10</issue>):<fpage>681</fpage>–<lpage>6</lpage>. <pub-id pub-id-type="doi">10.1097/EJA.0000000000000312</pub-id>
+               <pub-id pub-id-type="pmid">26225497</pub-id>
+               <issn>0265-0215</issn>
+               <annotation>
+                  <p content-type="warning">Reference 53 "de Souza, Tardelli, Tedesco, Garcia, Caparros, Alvarez-Gomez, et al., 2015" is a duplicate. Please compare it to reference 11.</p>
+               </annotation>
+            </mixed-citation>
+         </ref>
+         <ref id="b55">
+            <label>54.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Panhuizen</surname> 
+                     <given-names>IF</given-names>
+                  </string-name>, <string-name>
+                     <surname>Gold</surname> 
+                     <given-names>SJ</given-names>
+                  </string-name>, <string-name>
+                     <surname>Buerkle</surname> 
+                     <given-names>C</given-names>
+                  </string-name>, <string-name>
+                     <surname>Snoeck</surname> 
+                     <given-names>MM</given-names>
+                  </string-name>, <string-name>
+                     <surname>Harper</surname> 
+                     <given-names>NJ</given-names>
+                  </string-name>, <string-name>
+                     <surname>Kaspers</surname> 
+                     <given-names>MJ</given-names>
+                  </string-name> 
+                  <etal>et al.</etal>
+               </person-group> 
+               <article-title>Efficacy, safety and pharmacokinetics of sugammadex 4 mg kg<sup>-1</sup> for reversal of deep neuromuscular blockade in patients with severe renal impairment</article-title>. <source>Br J Anaesth</source>. <year>2015</year> 
+               <month>May</month>;<volume>114</volume>(<issue>5</issue>):<fpage>777</fpage>–<lpage>84</lpage>. <pub-id pub-id-type="doi">10.1093/bja/aet586</pub-id>
+               <pub-id pub-id-type="pmid">25829395</pub-id>
+               <issn>0007-0912</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b56">
+            <label>55.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Tsur</surname> 
+                     <given-names>A</given-names>
+                  </string-name>, <string-name>
+                     <surname>Kalansky</surname> 
+                     <given-names>A</given-names>
+                  </string-name>
+               </person-group>. <article-title>Hypersensitivity associated with sugammadex administration: a systematic review</article-title>. <source>Anaesthesia</source>. <year>2014</year> 
+               <month>Nov</month>;<volume>69</volume>(<issue>11</issue>):<fpage>1251</fpage>–<lpage>7</lpage>. <pub-id pub-id-type="doi">10.1111/anae.12736</pub-id>
+               <pub-id pub-id-type="pmid">24848211</pub-id>
+               <issn>0003-2409</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b57">
+            <label>56.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Takazawa</surname> 
+                     <given-names>T</given-names>
+                  </string-name>, <string-name>
+                     <surname>Mitsuhata</surname> 
+                     <given-names>H</given-names>
+                  </string-name>, <string-name>
+                     <surname>Mertes</surname> 
+                     <given-names>PM</given-names>
+                  </string-name>
+               </person-group>. <article-title>Sugammadex and rocuronium-induced anaphylaxis</article-title>. <source>J Anesth</source>. <year>2016</year> 
+               <month>Apr</month>;<volume>30</volume>(<issue>2</issue>):<fpage>290</fpage>–<lpage>7</lpage>. <pub-id pub-id-type="doi">10.1007/s00540-015-2105-x</pub-id>
+               <pub-id pub-id-type="pmid">26646837</pub-id>
+               <issn>0913-8668</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b58">
+            <label>57.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Simons</surname> 
+                     <given-names>FE</given-names>
+                  </string-name>, <string-name>
+                     <surname>Ardusso</surname> 
+                     <given-names>LR</given-names>
+                  </string-name>, <string-name>
+                     <surname>Bilò</surname> 
+                     <given-names>MB</given-names>
+                  </string-name>, <string-name>
+                     <surname>El-Gamal</surname> 
+                     <given-names>YM</given-names>
+                  </string-name>, <string-name>
+                     <surname>Ledford</surname> 
+                     <given-names>DK</given-names>
+                  </string-name>, <string-name>
+                     <surname>Ring</surname> 
+                     <given-names>J</given-names>
+                  </string-name> 
+                  <etal>et al.</etal>; <collab>World Allergy Organization</collab>
+               </person-group>. <article-title>World allergy organization guidelines for the assessment and management of anaphylaxis</article-title>. <source>World Allergy Organ J</source>. <year>2011</year> 
+               <month>Feb</month>;<volume>4</volume>(<issue>2</issue>):<fpage>13</fpage>–<lpage>37</lpage>. <pub-id pub-id-type="doi">10.1097/WOX.0b013e318211496c</pub-id>
+               <pub-id pub-id-type="pmid">23268454</pub-id>
+               <issn>1939-4551</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b59">
+            <label>58.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Leysen</surname> 
+                     <given-names>J</given-names>
+                  </string-name>, <string-name>
+                     <surname>Bridts</surname> 
+                     <given-names>CH</given-names>
+                  </string-name>, <string-name>
+                     <surname>De Clerck</surname> 
+                     <given-names>LS</given-names>
+                  </string-name>, <string-name>
+                     <surname>Vercauteren</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <string-name>
+                     <surname>Lambert</surname> 
+                     <given-names>J</given-names>
+                  </string-name>, <string-name>
+                     <surname>Weyler</surname> 
+                     <given-names>JJ</given-names>
+                  </string-name> 
+                  <etal>et al.</etal>
+               </person-group> 
+               <article-title>Allergy to rocuronium: from clinical suspicion to correct diagnosis</article-title>. <source>Allergy</source>. <year>2011</year> 
+               <month>Aug</month>;<volume>66</volume>(<issue>8</issue>):<fpage>1014</fpage>–<lpage>9</lpage>. <pub-id pub-id-type="doi">10.1111/j.1398-9995.2011.02569.x</pub-id>
+               <pub-id pub-id-type="pmid">21375539</pub-id>
+               <issn>0105-4538</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b60">
+            <label>59.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Barthel</surname> 
+                     <given-names>F</given-names>
+                  </string-name>, <string-name>
+                     <surname>Stojeba</surname> 
+                     <given-names>N</given-names>
+                  </string-name>, <string-name>
+                     <surname>Lyons</surname> 
+                     <given-names>G</given-names>
+                  </string-name>, <string-name>
+                     <surname>Biermann</surname> 
+                     <given-names>C</given-names>
+                  </string-name>, <string-name>
+                     <surname>Diemunsch</surname> 
+                     <given-names>P</given-names>
+                  </string-name>
+               </person-group>. <article-title>Sugammadex in rocuronium anaphylaxis: dose matters</article-title>. <source>Br J Anaesth</source>. <year>2012</year> 
+               <month>Oct</month>;<volume>109</volume>(<issue>4</issue>):<fpage>646</fpage>–<lpage>7</lpage>. <pub-id pub-id-type="doi">10.1093/bja/aes332</pub-id>
+               <pub-id pub-id-type="pmid">22976863</pub-id>
+               <issn>0007-0912</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b61">
+            <label>60.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Debaene</surname> 
+                     <given-names>B</given-names>
+                  </string-name>, <string-name>
+                     <surname>Plaud</surname> 
+                     <given-names>B</given-names>
+                  </string-name>, <string-name>
+                     <surname>Dilly</surname> 
+                     <given-names>MP</given-names>
+                  </string-name>, <string-name>
+                     <surname>Donati</surname> 
+                     <given-names>F</given-names>
+                  </string-name>
+               </person-group>. <article-title>Residual paralysis in the PACU after a single intubating dose of nondepolarizing muscle relaxant with an intermediate duration of action</article-title>. <source>Anesthesiology</source>. <year>2003</year> 
+               <month>May</month>;<volume>98</volume>(<issue>5</issue>):<fpage>1042</fpage>–<lpage>8</lpage>. <pub-id pub-id-type="doi">10.1097/00000542-200305000-00004</pub-id>
+               <pub-id pub-id-type="pmid">12717123</pub-id>
+               <issn>0003-3022</issn>
+               <annotation>
+                  <p content-type="warning">Reference 60 "Debaene, Plaud, Dilly, Donati, 2003" is a duplicate. Please compare it to reference 16.</p>
+               </annotation>
+            </mixed-citation>
+         </ref>
+         <ref id="b62">
+            <label>61.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Baillard</surname> 
+                     <given-names>C</given-names>
+                  </string-name>, <string-name>
+                     <surname>Clec’h</surname> 
+                     <given-names>C</given-names>
+                  </string-name>, <string-name>
+                     <surname>Catineau</surname> 
+                     <given-names>J</given-names>
+                  </string-name>, <string-name>
+                     <surname>Salhi</surname> 
+                     <given-names>F</given-names>
+                  </string-name>, <string-name>
+                     <surname>Gehan</surname> 
+                     <given-names>G</given-names>
+                  </string-name>, <string-name>
+                     <surname>Cupa</surname> 
+                     <given-names>M</given-names>
+                  </string-name> 
+                  <etal>et al.</etal>
+               </person-group> 
+               <article-title>Postoperative residual neuromuscular block: a survey of management</article-title>. <source>Br J Anaesth</source>. <year>2005</year> 
+               <month>Nov</month>;<volume>95</volume>(<issue>5</issue>):<fpage>622</fpage>–<lpage>6</lpage>. <pub-id pub-id-type="doi">10.1093/bja/aei240</pub-id>
+               <pub-id pub-id-type="pmid">16183681</pub-id>
+               <issn>0007-0912</issn>
+               <annotation>
+                  <p content-type="warning">Reference 61 "Baillard, Clec’h, Catineau, Salhi, Gehan, Cupa, et al., 2005" is a duplicate. Please compare it to reference 17.</p>
+               </annotation>
+            </mixed-citation>
+         </ref>
+         <ref id="b63">
+            <label>62.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Cammu</surname> 
+                     <given-names>G</given-names>
+                  </string-name>, <string-name>
+                     <surname>De Witte</surname> 
+                     <given-names>J</given-names>
+                  </string-name>, <string-name>
+                     <surname>De Veylder</surname> 
+                     <given-names>J</given-names>
+                  </string-name>, <string-name>
+                     <surname>Byttebier</surname> 
+                     <given-names>G</given-names>
+                  </string-name>, <string-name>
+                     <surname>Vandeput</surname> 
+                     <given-names>D</given-names>
+                  </string-name>, <string-name>
+                     <surname>Foubert</surname> 
+                     <given-names>L</given-names>
+                  </string-name> 
+                  <etal>et al.</etal>
+               </person-group> 
+               <article-title>Postoperative residual paralysis in outpatients versus inpatients</article-title>. <source>Anesth Analg</source>. <year>2006</year> 
+               <month>Feb</month>;<volume>102</volume>(<issue>2</issue>):<fpage>426</fpage>–<lpage>9</lpage>. <pub-id pub-id-type="doi">10.1213/01.ane.0000195543.61123.1f</pub-id>
+               <pub-id pub-id-type="pmid">16428537</pub-id>
+               <issn>0003-2999</issn>
+               <annotation>
+                  <p content-type="warning">Reference 62 "Cammu, De Witte, De Veylder, Byttebier, Vandeput, Foubert, et al., 2006" is a duplicate. Please compare it to reference 18.</p>
+               </annotation>
+            </mixed-citation>
+         </ref>
+         <ref id="b64">
+            <label>63.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Fuchs-Buder</surname> 
+                     <given-names>T</given-names>
+                  </string-name>
+               </person-group>. <article-title>The use of sugammadex in clinical practice: which patients are most likely to benefit?</article-title> 
+               <source>Curr Anesthesiol Rep</source>. <year>2016</year>;<volume>6</volume>(<issue>2</issue>):<fpage>185</fpage>–<lpage>91</lpage>. <pub-id pub-id-type="doi">10.1007/s40140-016-0157-6</pub-id>
+               <issn>1523-3855</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b65">
+            <label>64.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Farooq</surname> 
+                     <given-names>K</given-names>
+                  </string-name>, <string-name>
+                     <surname>Hunter</surname> 
+                     <given-names>JM</given-names>
+                  </string-name>
+               </person-group>. <article-title>Neuromuscular blocking agents and reversal agents</article-title>. <source>Anaesth Intensive Care Med</source>. <year>2014</year>;<volume>15</volume>(<issue>6</issue>):<fpage>295</fpage>–<lpage>9</lpage>. <pub-id pub-id-type="doi">10.1016/j.mpaic.2014.03.011</pub-id>
+               <issn>1472-0299</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b66">
+            <label>65.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Carron</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <string-name>
+                     <surname>Zarantonello</surname> 
+                     <given-names>F</given-names>
+                  </string-name>, <string-name>
+                     <surname>Tellaroli</surname> 
+                     <given-names>P</given-names>
+                  </string-name>, <string-name>
+                     <surname>Ori</surname> 
+                     <given-names>C</given-names>
+                  </string-name>
+               </person-group>. <article-title>Efficacy and safety of sugammadex compared to neostigmine for reversal of neuromuscular blockade: a meta-analysis of randomized controlled trials</article-title>. <source>J Clin Anesth</source>. <year>2016</year> 
+               <month>Dec</month>;<volume>35</volume>:<fpage>1</fpage>–<lpage>12</lpage>. <pub-id pub-id-type="doi">10.1016/j.jclinane.2016.06.018</pub-id>
+               <pub-id pub-id-type="pmid">27871504</pub-id>
+               <issn>0952-8180</issn>
+               <annotation>
+                  <p content-type="warning">Edifix has not found an issue number in the journal reference. Please check the volume/issue information. (Ref. 65 "Carron, Zarantonello, Tellaroli, Ori, 2016")</p>
+               </annotation>
+            </mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

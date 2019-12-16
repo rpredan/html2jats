@@ -1,0 +1,2216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD with MathML3 v1.1 20151215//EN" "JATS-journalpublishing1-mathml3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink"
+         dtd-version="1.1"
+         xml:lang="sl"
+         article-type="other">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher-id">Zdrav Vestn</journal-id>
+         <journal-id journal-id-type="nlm-ta">Zdrav Vestn</journal-id>
+         <journal-id journal-id-type="doi">Zdrav Vestn</journal-id>
+         <journal-title-group>
+            <journal-title>Zdravniški vestnik</journal-title>
+            <trans-title-group xml:lang="en">
+               <trans-title>Slovenian Medical Journal</trans-title>
+            </trans-title-group>
+            <abbrev-journal-title>Zdrav Vestn</abbrev-journal-title>
+         </journal-title-group>
+         <issn publication-format="ppub" pub-type="ppub">1318-0347</issn>
+         <issn publication-format="epub" pub-type="epub">1581-0224</issn>
+         <issn-l>0350-0063</issn-l>
+         <publisher>
+            <publisher-name xml:lang="sl">Slovensko zdravniško društvo</publisher-name>
+            <publisher-name xml:lang="en">Slovenian Medical Association</publisher-name>
+            <publisher-loc xml:lang="sl">Ljubljana, Slovenia</publisher-loc>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.6016/ZdravVestn.2932</article-id>
+         <article-id pub-id-type="publisher-id">2932</article-id>
+         <article-categories>
+            <subj-group subj-group-type="discipline" xml:lang="en">
+               <subject>Medicine and health sciences</subject>
+               <subj-group>
+                  <subject>Public health (occupational medicine)</subject>
+               </subj-group>
+            </subj-group>
+            <subj-group subj-group-type="discipline" xml:lang="sl">
+               <subject>Medicina/Zdravstvo</subject>
+               <subj-group>
+                  <subject> Javno zdravstvo (varstvo pri delu)</subject>
+               </subj-group>
+            </subj-group>
+            <subj-group subj-group-type="article-type" xml:lang="en">
+               <subject>Review article</subject>
+            </subj-group>
+            <subj-group subj-group-type="article-type" xml:lang="sl">
+               <subject>Pregledni znanstveni članek</subject>
+            </subj-group>
+            <subj-group subj-group-type="heading" xml:lang="sl">
+               <subject> Javno zdravstvo (varstvo pri delu)</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title xml:lang="sl">Uporaba mitohondrijske DNA v forenzičnih preiskavah</article-title>
+            <trans-title-group>
+               <trans-title xml:lang="en">Mitochondrial DNA in forensic analyses</trans-title>
+            </trans-title-group>
+            <alt-title alt-title-type="running-head" xml:lang="sl">Molekularnogenetski vidiki preiskav starodavne DNA</alt-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Zupanič Pajnič</surname>
+                  <given-names>Irena</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1">1</xref>
+               <xref ref-type="corresp" rid="corr"/>
+            </contrib>
+         </contrib-group>
+         <aff-alternatives id="aff1">
+            <aff xml:lang="sl">
+               <label>1</label>
+               <institution>Inštitut za sodno medicino, Medicinska fakulteta, Univerza v Ljubljani, Ljubljana, Slovenija</institution>
+            </aff>
+            <aff xml:lang="en">
+               <label>1</label>
+               <institution>Institute of Forensic Medicine, Faculty of medicine, University of Ljubljana, Ljubljana, Slovenia</institution>
+            </aff>
+         </aff-alternatives>
+         <author-notes>
+            <fn fn-type="conflict" xml:lang="en">
+               <p>The authors have declared that no competing interests exist.</p>
+            </fn>
+            <fn fn-type="conflict" xml:lang="sl">
+               <p>Avtorji so izjavili, da ne obstajajo nobeni konkurenčni interesi.</p>
+            </fn>
+            <corresp id="corr">Irena Zupanič Pajnič, e-mail: <email xlink:type="simple"/>
+            </corresp>
+         </author-notes>
+         <pub-date pub-type="ppub">
+            <month>Volume</month>
+            <year>88</year>
+         </pub-date>
+         <pub-date pub-type="epub">
+            <month>Volume</month>
+            <year>88</year>
+         </pub-date>
+         <volume>88</volume>
+         <issue>Epub ahead of print</issue>
+         <fpage>1</fpage>
+         <lpage>17</lpage>
+         <history>
+            <date date-type="received">
+               <day>29</day>
+               <month>1</month>
+               <year>2019</year>
+            </date>
+            <date date-type="accepted">
+               <day>14</day>
+               <month>8</month>
+               <year>2019</year>
+            </date>
+         </history>
+         <permissions>
+            <copyright-statement xml:lang="en">Copyright © 2019, Slovenian Medical Association (SZD)</copyright-statement>
+            <copyright-statement xml:lang="sl">© 2019, Slovensko zdravniško društvo (SZD)</copyright-statement>
+            <copyright-year>2019</copyright-year>
+            <copyright-holder xml:lang="en">Slovenian Medical Association (SZD)</copyright-holder>
+            <copyright-holder xml:lang="sl">Slovensko zdravniško društvo (SZD)</copyright-holder>
+            <license xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                     xlink:type="simple"
+                     xml:lang="en">
+               <license-p>This is an open access article distributed under the terms of the
+          <ext-link ext-link-type="uri"
+                            xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                            xlink:type="simple">Creative Commons Attribution-NonCommercial
+            License</ext-link>, which permits unrestricted use, distribution, and
+          reproduction in any medium, provided the original author and source are
+          credited and only for non-commercial purposes. </license-p>
+            </license>
+            <license xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                     xlink:type="simple"
+                     xml:lang="sl">
+               <license-p>To je članek z odprtim dostopom, ki ga lahko uporabite pod pogoji iz
+          <ext-link ext-link-type="uri"
+                            xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                            xlink:type="simple">Creative Commons Priznanje avtorstva-Nekomercialno
+            licence</ext-link>. ki dovoljuje distribucijo, predelavo ali
+          prilagoditev, ter gradijo na njem, v nekomercialne namene, z navedbo avtorja
+          in izvirnega dela.</license-p>
+            </license>
+         </permissions>
+         <abstract xml:lang="sl">
+            <title>Izvleček</title>
+            <p>Prispevek na pregleden način opisuje uporabo mitohondrijske DNA (mtDNA) v forenzičnih preiskavah. Pri starih in slabo ohranjenih bioloških vzorcih tipizacija jedrne DNA pogosto ni uspešna, lahko pa preiskujemo polimorfizme mtDNA, ki je zaradi številnih kopij na celico in krožne oblike manj izpostavljena razgradnji in se ohrani daljši čas. Osredinili se bomo na kontrolno regijo mtDNA, ki je zaradi svoje polimorfnosti v forenzičnih preiskavah najbolj uporabna, in opozorili na heteroplazmijo, ki jo je potrebno upoštevati pri identifikaciji posameznikov in bioloških sledi. Slabo ohranjeni biološki vzorci so predvsem stari skeletni ostanki – kosti in zobje, stari nohti, feces, urin ter izpadli lasje. Pri slednjih gre za mikrosledove, ki jih kriminalisti pogosto najdejo na krajih kaznivih dejanj. Posamezen tip biološkega materiala bomo podrobneje opisali. Poleg zgradbe bomo namenili posebno pozornost vplivom okolja na ohranitev DNA v posameznem tipu biološkega materiala, optimizaciji ekstrakcijskih metod za učinkovito izolacijo in optimalno vzorčenje. Zaradi nizkih količin DNA so ti vzorci izpostavljeni kontaminaciji z DNA oseb, ki sodelujejo pri postopkih zbiranja in genetskih preiskavah. Za preprečevanje in sledenje morebitni kontaminaciji upoštevamo različne ukrepe, ki jih bomo opisali. Uporaba mtDNA je v forenzični dejavnosti zelo široka, zato bomo prispevek zaključili s predstavitvijo preiskav mtDNA v Sloveniji in po svetu.</p>
+         </abstract>
+         <trans-abstract xml:lang="en">
+            <title>Abstract</title>
+            <p>This review article presents mitochondrial DNA (mtDNA) analyses in forensic genetics. Typing of nuclear DNA in old and poorly preserved biological samples is often unsuccessful and instead of nuclear DNA, mtDNA polymorphisms can be used for human identification. Due to its multy copy nature and circular conformation, MtDNA is less prone to degradation and is retained longer. The most polymorphic control region is regularly used in forensic casework, and mtDNA heteroplasmy must be considered in the identification cases and analyses of biological traces. The poorly preserved biological samples are mainly old skeletal remains - bones and teeth, old nails, feces, urine and hair shafts. The latter are micro traces, often found by criminalists at crime scenes. We will describe each type of biological material in more detail. In addition to morphological structure, we will pay special attention to the environmental impacts on the preservation of DNA in each type of biological material, optimization of extraction methods for effective isolation and optimal sampling. Due to low amounts of DNA, these samples are exposed to DNA contamination from personnel involved in sampling procedures and genetic testing. Different measures used to prevent and track potential contamination will be described. MtDNA analyses are often used in forensics to solve different cases, and some applications of mtDNA in Slovenia and worldwide will be discussed.</p>
+         </trans-abstract>
+         <kwd-group xml:lang="sl">
+            <kwd>arheogenetika</kwd>
+            <kwd>človeški skeletni ostanki</kwd>
+            <kwd>poškodovana DNA</kwd>
+            <kwd>kontaminacija</kwd>
+         </kwd-group>
+         <kwd-group xml:lang="en">
+            <kwd>archaeogenetics</kwd>
+            <kwd>human skeletal remains</kwd>
+            <kwd>damaged DNA</kwd>
+            <kwd>contamination</kwd>
+         </kwd-group>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>TotalReferences</meta-name>
+               <meta-value>80</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ReferencesParsed</meta-name>
+               <meta-value>75</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ReferencesBillable</meta-name>
+               <meta-value>75</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>LinkServices</meta-name>
+               <meta-value>pubmed-crossref</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ReferencesLinked</meta-name>
+               <meta-value>73</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ReferencesLinkedDOI</meta-name>
+               <meta-value>68</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ReferencesLinkedPMID</meta-name>
+               <meta-value>72</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>JournalReferences</meta-name>
+               <meta-value>74</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>BookReferences</meta-name>
+               <meta-value>2</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>BookChapterReferences</meta-name>
+               <meta-value>1</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ConferenceReferences</meta-name>
+               <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ElectronicReferences</meta-name>
+               <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>DissertationReferences</meta-name>
+               <meta-value>2</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>LegalReferences</meta-name>
+               <meta-value>1</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>StandardReferences</meta-name>
+               <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>OtherReferences</meta-name>
+               <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>UnknownReferences</meta-name>
+               <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ReferencesSemiParsed</meta-name>
+               <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ReferencesBookUnparsed</meta-name>
+               <meta-value>2</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>EditorialStyle</meta-name>
+               <meta-value>ICMJE-WHO</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <body>
+      <sec id="s1" sec-type="Uvod">
+         <label>1</label>
+         <title>Uvod</title>
+         <p>Na Inštitutu za sodno medicino Medicinske fakultete Univerze v Ljubljani od leta 1996 opravljamo molekularnogenetsko identifikacijo oseb in bioloških sledi ter preverjamo bližnje sorodstvene povezave z metodo genetskega profiliranja jedrne DNA (<xref ref-type="bibr" rid="b1">1</xref>), pri kateri preiskujemo dolžinske polimorfizme mikrosatelitskih lokusov razmeroma dobro ohranjenih bioloških vzorcev. Vendar pa z metodo genetskega profiliranja jedrne DNA identifikacija starih in slabo ohranjenih bioloških materialov pogosto ni uspešna. Zato smo leta 2004 uvedli metodo tipizacije mtDNA (<xref ref-type="bibr" rid="b2">2</xref>). Problematični biološki vzorci so stari skeletni ostanki (kosti in zobje), slabo ohranjeni ali močno poškodovani človeški posmrtni ostanki (v letalskih, železniških in prometnih nesrečah, eksplozijah in požarih zoglenela in močno poškodovana trupla, žrtve naravnih nesreč, terorističnih napadov ali vojn), stari nohti, feces in urin ter mikrosledovi v kriminalističnih primerih (zlasti izpadli, telogeni, lasje, ki jih kriminalisti pogosto najdejo na kraju kaznivega dejanja). Našteti biološki materiali vsebujejo zelo malo jedrne DNA, ali pa je ta preveč razgrajena za pridobitev mikrosatelitskega genetskega profila. Zato opravimo preiskave sekvenčnih polimorfizmov mtDNA, saj se ta nahaja v celici v številnih kopijah in je zaradi krožne oblike manj izpostavljena razgradnji. To ji omogoča daljšo ohranitev v starih in slabo ohranjenih bioloških materialih (<xref ref-type="bibr" rid="b3">3</xref>). Pri tipizaciji mtDNA preiskujemo polimorfizme najbolj variabilne nekodirajoče kontrolne regije (hipervariabilne regije HVI, HVII in HVIII), dodatno pa povečamo diskriminacijsko moč s preiskavo enonukleotidnih polimorfizmov (<italic>angl.</italic> Single Nucleotide Polymorphism, SNP) kodirajoče regije, kar nam poveča možnost razlikovanja oseb z identičnimi haplotipi kontrolne regije (<xref ref-type="bibr" rid="b4">4</xref>). Ob metodi genetskega profiliranja jedrne DNA nam tipizacija mtDNA v rutinskih preiskavah omogoča celosten pristop k molekularnogenetskim identifikacijam biološkega materiala v sodni medicini in kriminalistiki. Kadar analiza jedrne DNA zaradi premajhne količine genetskega materiala ali njegove razgrajenosti ni uspešna, uporabimo za identifikacijo metodo tipizacije mtDNA.</p>
+         <p>Del člankov, ki so navedeni v poglavju Literatura, sem pregledala v doktorski disertaciji (<xref ref-type="bibr" rid="b5">5</xref>), manjši del pa jih je v magistrskem delu pregledal Marcel Obal (<xref ref-type="bibr" rid="b6">6</xref>) in jih v tem preglednem članku povzemamo.</p>
+      </sec>
+      <sec id="s2" sec-type="Mitohondrijski genom">
+         <label>2</label>
+         <title>Mitohondrijski genom</title>
+         <p>Mitohondrijska DNA pri človeku predstavlja 0,3 % genomske DNA. Je dvoverižna, kovalentno zaprta krožna molekula, ki jo sestavljata zunanja težka veriga (veriga H) in notranja lahka veriga (veriga L). Prva vsebuje več purinskih baz, druga pa je bogata s pirimidinskimi bazami. MtDNA je dolga 16.569 bp in ima v celoti določeno nukleotidno zaporedje (<xref ref-type="bibr" rid="b7">7</xref>). Sestavljena je iz prevladujoče konservativne kodirajoče regije s 37 geni in variabilne nekodirajoče kontrolne regije. Mitohondriji se ne tvorijo na novo, ampak nastanejo z rastjo in delitvijo obstoječih v vsaki celični generaciji. Celoten proces podvajanja se uravnava in zagotavlja v celici stalno količino mtDNA (<xref ref-type="bibr" rid="b8">8</xref>). Mutacije v mtDNA lahko povzročajo dedne bolezni, ki se dedujejo po materi in se prenesejo na vse njene potomce, ne glede na spol. Vzrok je v tem, da vsi mitohondriji v jajčnih celicah (pri sesalcih oociti vsebujejo približno 200.000 molekul mtDNA) izvirajo iz izolirane populacije molekul mtDNA. Pri raziskavah zgodnjih faz embrionalnega razvoja so namreč ugotovili, da se nahaja v ženski primordialni klični liniji le nekaj molekul mtDNA (<xref ref-type="bibr" rid="b8">8</xref>). Bendall (<xref ref-type="bibr" rid="b9">9</xref>) predpostavlja, da je za človeka značilen mehanizem genetskega ozkega grla, ki vsebuje zelo nizko število segregacijskih enot, saj je opazil razlike v stopnji heteroplazmije že v eni generaciji (med potomci iste matere) in segregacijo heteroplazmije v homoplazmijo že v dveh generacijah. Mehanizem ozkega grla z malim številom segregacijskih enot omogoča hitro fiksiranje mutacij v mtDNA (<xref ref-type="bibr" rid="b10">10</xref>).</p>
+         <p>Človeške celice vsebujejo številne kopije mitohondrijskega genoma, kar daje, v primerjavi z le dvema kopijama jedrnega genoma, veliko večjo možnost ekstrakcije mtDNA iz starih ali slabo ohranjenih vzorcev, kot so (izpadli) telogeni lasje, stare kosti, zobje, feces, urin in nohti (<xref ref-type="bibr" rid="b11">11</xref>). Vsaka celica vsebuje približno 500 mitohondrijev, vsak mitohondrij 5 do 10 molekul mtDNA; tako se v metabolno aktivnih celicah nahaja 1000 do 10.000 molekul mtDNA. Veliko mitohondrijev vsebujejo srčno tkivo (polovico prostornine citoplazme tvorijo mitohondriji) ter jetrno in mišično tkivo. Največ molekul mtDNA vsebujejo oociti, najmanj pa spermijske celice (le nekaj 100) (<xref ref-type="bibr" rid="b8">8</xref>). Pri identifikaciji starih in slabo ohranjenih bioloških materialov je prednost uporabe mtDNA pred jedrno DNA tudi v tem, da se ohrani daljši čas, saj jo pred razgradnjo z eksonukleazami ščitita krožna oblika in mitohondrijska ovojnica (<xref ref-type="bibr" rid="b12">12</xref>). Zaradi naštetih lastnosti mtDNA lahko biološke vzorce, katerih tipizacija jedrne DNA ni uspešna, identificiramo s polimorfizmi mtDNA, vendar zaradi odsotnosti rekombinacije identificiramo maternalno linijo, ki ji biološki vzorec ali sled pripada, in ne posameznika.</p>
+         <p>Mitohondriji se nahajajo v citoplazmi, zato se mtDNA deduje neodvisno od jedrnega genoma. Pri človeku se mtDNA deduje po materi. Zaradi maternalnega dedovanja in odsotnosti rekombinacije obravnavamo nukleotidno zaporedje mtDNA kot enolokusno ali haplotipsko (<xref ref-type="bibr" rid="b13">13</xref>). MtDNA se v nespremenjeni obliki prenese na vse materine potomce ne glede na spol, zato uporabljamo njena nukleotidna zaporedja kot označevalce za maternalne rodovnike, kar je potrebno upoštevati pri izbiri referenčnega oziroma primerjalnega vzorca v identifikacijskih testih. Osebe z enakimi zaporedji nukleotidov mtDNA imajo skupnega ženskega prednika (<xref ref-type="bibr" rid="b3">3</xref>), kar je osnova za prepoznavanje bioloških vzorcev s tipizacijo mtDNA.</p>
+      </sec>
+      <sec id="s3" sec-type="Kontrolna regija mtDNA">
+         <label>3</label>
+         <title>Kontrolna regija mtDNA</title>
+         <p>Najbolj variabilni del mtDNA je 1122 bp dolga nekodirajoča kontrolna regija. Natančneje lahko omejimo sekvenčni polimorfizem predvsem na dva, 300 do 400 bp dolga, hipervariabilna segmenta, ki se nahajata znotraj zanke D (<xref ref-type="bibr" rid="b14">14</xref>). Prvi segment, ki ga najdemo na mestu 16.024–16.365, imenujemo hipervariabilna regija 1 (HVI), drugega, na mestu 73–340, pa hipervariabilna regija 2 (HVII). Obe regiji sta med osebami, nesorodnimi po materini liniji, zelo polimorfni (<xref ref-type="bibr" rid="b3">3</xref>). HVI ima večje število sekvenčno variabilnih mest in nižjo frekvenco posameznih polimorfizmov, HVII pa manjše število sekvenčnih polimorfizmov, ki imajo višjo frekvenco (<xref ref-type="bibr" rid="b15">15</xref>). Poleg regij HVI in HVII je v kontrolni regiji mtDNA tudi regija HVIII (na mestu 438–574), katere variabilnost je veliko manjša kot variabilnost regij HVI in HVII (<xref ref-type="bibr" rid="b16">16</xref>). Kontrolna regija mtDNA ima vsaj 5-krat višjo mutacijsko stopnjo kot preostala mtDNA (<xref ref-type="bibr" rid="b17">17</xref>). Zaradi svoje polimorfnosti je najbolj raziskano področje molekule mtDNA, zato je izredno uporabna za identifikacijo (<xref ref-type="bibr" rid="b18">18</xref>). Evropejci kavkazijske rase se med seboj razlikujemo na regijah HVI in HVII povprečno na 8 nukleotidnih mestih, kar je približno 1,5-odstotna nukleotidna raznolikost (<xref ref-type="bibr" rid="b19">19</xref>). Raznolikost mtDNA je 5- do 10-krat višja med rasami kot znotraj posameznih ras, ki so med seboj precej podobne (<xref ref-type="bibr" rid="b20">20</xref>). Raznolikost znotraj črnske rase je veliko večja kot znotraj azijske, belske ali hispanske rase, po variabilnosti pa črnski rasi sledi azijska rasa (<xref ref-type="bibr" rid="b17">17</xref>). Zaradi velike variabilnosti mtDNA znotraj in med populacijami lahko s polimorfizmi mtDNA ugotavljamo genetsko strukturo populacij, filogenetske odnose med njimi ter migracije in moderno poselitev sveta.</p>
+         <p>Nukleotidno zaporedje lahke verige mtDNA, ki nam v forenzičnih preiskavah služi kot referenčni standard pri določanju nomenklature haplotipov mtDNA, je prvi opisal Anderson (<xref ref-type="bibr" rid="b7">7</xref>) in ga zato imenujemo Andersonova sekvenca ali Cambridge Reference Sequence (CRS) (<xref ref-type="bibr" rid="b13">13</xref>). Nomenklatura haplotipov mtDNA temelji na priporočilih komisije ISFG (International Society for Forensic Genetics) in skupine EDNAP (European DNA profiling group) (<xref ref-type="bibr" rid="b13">13</xref>). Kadar opazimo razliko med preiskovanim haplotipom mtDNA in Andersonovo sekvenco, označimo le nukleotidna mesta, na katerih smo razliko opazili, pri čemer navajamo sekvenčne razlike v lahki verigi mtDNA (<xref ref-type="bibr" rid="b21">21</xref>).</p>
+         <p>Pri uporabi mtDNA v forenzične namene moramo biti pozorni na možen pojav heteroplazmije (heterogenost molekul mtDNA znotraj posameznika). V preteklosti je veljalo mnenje, da je mtDNA posameznika homoplazmična, danes pa vemo, da je heteroplazmija do določene mere prisotna pri vseh ljudeh, vendar z nizko stopnjo (pri 5–10 % ljudi) (<xref ref-type="bibr" rid="b22">22</xref>). Heteroplazmija je prisotnost dveh ali več tipov molekul mtDNA v citoplazmi; od tod ime heteroplazmija. Bolj splošno pa heteroplazmijo opredelimo kot mešanico multiplih (običajno dveh glavnih) populacij mtDNA pri posamezniku. Heteroplazmija lahko nastopa na ravni celic (posamezna celica je homoplazmična, različne celice pa so med seboj heteroplazmične), na ravni mitohondrijev (posamezen mitohondrij je homoplazmičen, različni mitohondriji so med seboj heteroplazmični, zato je posamezna celica heteroplazmična) in na ravni molekul mtDNA (posamezen mitohondrij je heteroplazmičen) (<xref ref-type="bibr" rid="b23">23</xref>). Pri regijah HVI in HVII sta bili opaženi dve vrsti heteroplazmije, in sicer točkovna in dolžinska. Dolžinska je v populaciji veliko pogostejša in se kaže kot variacija v številu citozinskih baz v homopolimernem odseku (<xref ref-type="bibr" rid="b19">19</xref>). Točkovna heteroplazmija se v populaciji redkeje pojavlja od dolžinske (<xref ref-type="bibr" rid="b24">24</xref>). Heteroplazmija se podeduje ali je posledica somatskih mutacij, do katerih pride v času življenja posameznika (<xref ref-type="bibr" rid="b22">22</xref>). Kadar je stopnja heteroplazmije visoka in je prisotna v vseh tkivih, je najverjetneje podedovana od matere; če nastopa le v posameznih tkivih, je posledica somatskih mutacij. Stopnja heteroplazmije se med različnimi tkivi razlikuje in narašča s starostjo posameznika, najvišja pa je pri laseh (<xref ref-type="bibr" rid="b25">25</xref>). V forenzičnih preiskavah je bila prvič opisana heteroplazmija v kontrolni regiji mtDNA pri identifikaciji ruskega carja Nikolaja II (<xref ref-type="bibr" rid="b26">26</xref>,<xref ref-type="bibr" rid="b27">27</xref>). Heteroplazmično mesto 16169 so potrdili tudi pri carjevem bratu Georgiju Romanovu, medtem ko je pri 4 generacije oddaljenih še živečih sorodnikih zaradi segregacije heteroplazmije prišlo na tem mestu do homoplazmije. Identičnost haplotipov carja in njegovega brata je dokončno potrdila pozitivno identifikacijo skeletnih ostankov carja Nikolaja II (<xref ref-type="bibr" rid="b27">27</xref>). Tudi Parsons (<xref ref-type="bibr" rid="b28">28</xref>) ugotavlja, da je za človeka značilna zelo hitra segregacija sekvenčnih variant med generacijami, saj je opazil segregacijo heteroplazmije v homoplazmijo že v dveh generacijah.</p>
+         <p>Mitohondrijski genom ima 5- do10-krat višjo mutacijsko stopnjo od jedrnega, kar je verjetno posledica pogostih napak pri podvajanju in nižje učinkovitosti popravljalnih mehanizmov. Metabolno aktivnejša tkiva z višjimi energetskimi potrebami zaradi oksidativnih poškodb hitreje kopičijo mutacije (<xref ref-type="bibr" rid="b25">25</xref>). Zaradi visokih mutacijskih stopenj mtDNA lahko opazimo razlike med haplotipi že med bližnjimi sorodniki po materini liniji (na primer med materjo in otrokom), razlike med haplotipi pa lahko opazimo tudi v somatskih tkivih, zlasti kot posledico segregacije obstoječe heteroplazmije pri posamezniku. To pomeni, da lahko pride do razlik med haplotipi mtDNA med različnimi lasmi in/ali tkivi znotraj posameznika (<xref ref-type="bibr" rid="b24">24</xref>). Poznavanje mutacijske stopnje kontrolne regije mtDNA je pomembno tako za evolucijske študije kot za forenzične identifikacijske teste. Povprečno se mutacijska stopnja kontrolne regije mtDNA ocenjuje na 10<sup>–5</sup> do 10<sup>–6</sup> mutacij na nukleotid na generacijo (<xref ref-type="bibr" rid="b29">29</xref>). Parsons (<xref ref-type="bibr" rid="b28">28</xref>) je določil mutacijsko stopnjo na 0,03 mutacij na generacijo. Če je skupna dolžina regij HVI in HVII mtDNA 608 bp in predpostavimo, da traja ena generacija 20 let, lahko ocenimo to mutacijsko stopnjo na 2,5 mutacij/nukleotid/milijon let.</p>
+         <p>Problematične, slabo ohranjene biološke vzorce, ki jih v forenzičnih raziskavah najpogosteje preiskujemo s tipizacijo mtDNA, predstavljajo stari skeletni ostanki – kosti in zobje, stari nohti, mikrosledovi v kriminalističnih primerih – zlasti izpadli, telogeni, lasje ter feces in urin.</p>
+      </sec>
+      <sec id="s4" sec-type="Kosti">
+         <label>4</label>
+         <title>Kosti</title>
+         <p>Kosti glede na obliko delimo na dolge, kratke, ploščate, nepravilnih oblik in sezamoidne. Makroskopsko delimo kostninino na kompaktno in spongiozno. Prva je gosta in neporozna, razmerje med površino in prostornino je majhno, druga pa je močno porozna in ima veliko razmerje med površino in prostornino. Kompaktna sestavlja zunanji del koncev dolgih kosti (epifiza) in ploščatih kosti ter srednji del dolgih kosti (diafiza). Spongiozno najdemo v notranjosti ploščatih kosti in v koncih dolgih kosti. Srednji deli dolgih kosti so znotraj votli – prostor imenujemo medularni kanal, zapolnjuje ga rumeni kostni mozeg (<xref ref-type="bibr" rid="b30">30</xref>). Kompaktno kostnino sestavljajo ponavljajoče se strukturne enote, imenovane osteoni. Skozi središče vsakega od njih vzdolž kosti poteka centralni (Harvesov) kanal, v katerem so krvne in limfne žile ter živci, prečno pa Harvesove kanale med seboj povezujejo Volkmannovi kanali. V vsakem osteonu Harvesov kanal obdajajo koncentrične lamele, med njimi pa so področja, imenovana lakune, v katerih se nahajajo zrele kostne celice osteociti. Lakune so med seboj povezane s kanalikuli, majhnimi kanali, ki sodelujejo pri prenosu hranilnih snovi iz Harvesovega kanala do osteocita in pri odvajanju odpadnih snovi iz osteocita. Spongiozna kostnina ne vsebuje osteonov, temveč jo sestavljajo trabekule, premrežene kostne ploščice, ki prav tako vsebujejo lamele, lakune, osteocite in kanalikule, ter rdeč kostni mozeg, ki vsebuje krvne žile, ki prehranjujejo osteocite. Zaradi krhkosti spongiozne kostnine le-ta potrebuje zunanjo zaščitno plast kompaktne kostnine (<xref ref-type="bibr" rid="b31">31</xref>).</p>
+         <p>Mikroskopsko kost sestavljajo celice in medceličnina. Medceličnina sestoji iz organskega in anorganskega dela. Organski del v največji meri predstavlja kolagen tipa I in nekateri drugi proteini in glikoproteini (glikozaminoglikani, osteokalcin, osteonektin, osteopontin, sialoprotein), anorganski del pa hidroksiapatit, sestavljen iz kalcijevih in fosfatnih ionov. Celice, ki sestavljajo kosti, so osteoblasti, osteociti in osteoklasti ter sodelujejo v gradnji, resorpciji in mineralizaciji kosti. Aktivni osteoblasti so nezrele kostne celice in sodelujejo pri izgradnji medceličnine; izločajo hormone (prostaglandine) in encim (alkalna fosfataza), ki sodelujejo pri mineralizaciji, prav tako pa izločajo organski del kostnega matriksa, ki se imenuje osteoid. Sestavlja ga mešanica proteinov, izmed katerih večinski delež predstavlja kolagen tipa I. Osteoid z vezavo s hidroksiapatitom povzroči mineralizacijo kosti in ji da trdnost in togost. Skozi proces osteogeneze se osteoblasti ujamejo v osteoid in se po mineralizaciji preoblikujejo v osteocite. Osteoklasti so celice, ki sodelujejo v resorpciji kosti, nahajajo se na kostni površini v prostorih, imenovanih Howshipove lakune (<xref ref-type="bibr" rid="b30">30</xref>).</p>
+         <p>V kostnem tkivu (prav tako v zobeh) je DNA veliko bolj stabilna kot v ostalih tkivih. Kemp in Smith (<xref ref-type="bibr" rid="b32">32</xref>) sta zagovornika hipoteze, ki pravi, da omogoča stabilnost DNA in njeno ohranitev v starih skeletnih ostankih vezava DNA na hidroksiapatit, pri čemer se negativno nabite fosfatne skupine molekule DNA vežejo na hidroksilna mesta na hidroksiapatitu, ki je glavna kostna masa. To hipotezo potrjuje dejstvo, da se ob povečani degradaciji hidroksiapatita ohrani v kosti manj DNA. S časom je zaradi dejavnikov okolja kost vedno bolj porozna, kar zmanjša možnost pridobitve DNA (<xref ref-type="bibr" rid="b30">30</xref>). Prve uspešno izvedene preiskave DNA, pridobljene iz kosti, so opravili Hochmeister (<xref ref-type="bibr" rid="b33">33</xref>) in Hagelbergova (<xref ref-type="bibr" rid="b34">34</xref>), ki je pri molekularnoantropoloških preiskavah kosti, starih od 300 do 5.500 let, ugotovila, da je ohranjenost DNA v kosteh odvisna predvsem od pogojev, v katerih so se skeletni ostanki nahajali, manj pa od same starosti skeletnih ostankov. Za preiskavo DNA iz skeletnih ostankov se najpogosteje uporabljajo stegnenice, golenice, zobje ter skalnice senčnic (<xref ref-type="bibr" rid="b35">35</xref>-<xref ref-type="bibr" rid="b37">37</xref>), nekatere novejše raziskave pa kažejo velik potencial majhnih spongioznih kosti dlani in stopal ter pogačic (<xref ref-type="bibr" rid="b38">38</xref>,<xref ref-type="bibr" rid="b39">39</xref>). Metoda ekstrakcije DNA iz kosti je ena najzahtevnejših in najdaljših ekstrakcijskih metod v forenzičnih genetskih preiskavah. Svežih kosti za pridobitev genomske DNA ni potrebno prej dekalcificirati, pri starih kosteh pa nam dekalcifikacija omogoča pridobitev večje količine DNA (<xref ref-type="bibr" rid="b33">33</xref>).</p>
+      </sec>
+      <sec id="s5" sec-type="Zobje">
+         <label>5</label>
+         <title>Zobje</title>
+         <p>Za genetsko identifikacijo skeletiziranih, močno poškodovanih ali razpadlih človeških posmrtnih ostankov so zobje zelo dober, če ne celo najboljši vir DNA, saj so skriti v čeljustnih kosteh, dodatno pa jih ščitijo še jezik, lična sluznica in sklenina. V primerjavi s kostmi je DNA v zobeh bolj zaščitena, saj predstavljajo trda zobna tkiva, ki obdajajo pulpno votlino, fizično zaščito zobne pulpe. Trda zobna tkiva se ohranijo v številnih skrajnih okoliščinah, saj niso podvržena hitri razgradnji po zakopu in raztapljanju v vodi. Alvarez Garcia (<xref ref-type="bibr" rid="b40">40</xref>) je preučeval vpliv okolja na razgradnjo DNA v zobeh in ugotovil, da pride najhitreje do razgradnje DNA v vodi, nato v zemlji in nato na zraku. V starih zobeh je DNA izredno stabilna, saj je, podobno kot v starih kosteh, vezana na hidroksiapatit. Rubio s sodelavci (<xref ref-type="bibr" rid="b41">41</xref>) ugotavlja, da največ DNA v zobnih tkivih propade v prvih dveh letih po smrti.</p>
+         <p>Anatomsko lahko zob razdelimo na tri dele: krona, ki predstavlja zgornji del, in korenina, ki predstavlja spodnji z alveolno kostjo obdan del, ter vrat, ki predstavlja stičišče krone in korenine. Zunanjo plast krone prekriva sklenina, ki je najtrše tkivo v človeškem telesu. Skoraj v celoti je mineralnega izvora in ne vsebuje celic. Korenina zoba je prekrita s cementom, ki je mineralizirano tkivo, sestavljeno iz hidroksiapatita, kolagena in drugih nekolagenskih proteinov. Delimo ga v dve vrsti glede na prisotnost ali odsotnost celic (cementocitov) (<xref ref-type="bibr" rid="b42">42</xref>). Cement brez celic se nahaja v vratnem delu zobne korenine in povezuje zob z obzobnimi tkivi. Cement, ki vsebuje v medceličnino ujete celice, se nahaja v apikalnem delu zobne korenine in v furkacijskem področju zoba, tj. tam, kjer se razhajajo korenine večkoreninskih zob (<xref ref-type="bibr" rid="b43">43</xref>). Lahko ga primerjamo s kostnim tkivom, kjer so v lakunah ujeti osteociti, saj prav tako služi kot dober vir DNA, a je po svoji funkciji in strukturi drugačen; ni ožiljen, oživčen, ne vsebuje kostnega mozga, ni podvržen nenehnemu remodeliranju, v življenju posameznika pa se nenehno debeli (<xref ref-type="bibr" rid="b42">42</xref>,<xref ref-type="bibr" rid="b43">43</xref>). Na meji med krono in korenino – v področju, imenovanem zobni vrat – se stikata sklenina in cement, pod njima pa se nahaja zobovina (dentin), ki ščiti zobno pulpo. Zobovina in pulpa predstavljata glavnino zoba in sta v nasprotju s sklenino bogata s celicami, večinoma gre za odontoblaste in fibroblaste. Zobovino sestavljajo hidroksiapatit, kolagen tipa I in voda (<xref ref-type="bibr" rid="b42">42</xref>). Najbogatejši vir DNA v zobeh je zobna pulpa. Ta je v pulpni votlini dobro zaščitena, vse dokler je zob trdno zasidran v alveolni kosti. Če je zob shranjen v suhem okolju, pride do dehidriranja zobne pulpe in mumifikacije, kar zaustavi nekrotične in gnilobne procese in omogoča dobro ohranjenost DNA. Če je mikrookolje vlažno, pulpa hitro zgnije. Suho okolje in nižja temperatura v kombinaciji s kratkim posmrtnim intervalom so za ohranitev DNA v pulpi najugodnejši, v nasprotnem primeru pa se DNA ohrani v trdnih zobnih tkivih (<xref ref-type="bibr" rid="b42">42</xref>).V primerih, ko je posmrtni interval dolg in je verjetnost razgradnje zobne pulpe velika, lahko opravimo tipizacijo mtDNA, katere glavni vir je dentin – ostanki podaljškov odontoblastov v dentinskih kanalih pa tudi cementociti v cementu (<xref ref-type="bibr" rid="b44">44</xref>). Zunanje tkivo – sklenina ščiti tkiva, ki so v notranjosti zoba, pred zunanjimi dejavniki, kot so denimo UV sevanje, mikroorganizmi in višje temperature. Sklenina ima pore in je neprepustna za molekule, ki so večje od vode, ter tako ščiti zob tudi po smrti organizma. Pore v zobovini so manjše od por v kostnem tkivu, kar prispeva k boljši ohranjenosti zob v primerjavi s kostmi.</p>
+         <p>Na količino in kakovost DNA v zobu vplivajo tudi bolezni zob, hkrati pa slednje zvišajo možnosti kontaminacije. Pri kariesu mikroorganizmi lokalno razgradijo mineralizirano zobno tkivo, kar omogoči vdor bakterij v pulpo. V kombinaciji z napredovalo parodontozo lahko karies uniči zobni cement, saj je le-ta v tem primeru izpostavljen ustni votlini in tako dostopen mikroorganizmom (<xref ref-type="bibr" rid="b42">42</xref>). Higgins in sodelavci (<xref ref-type="bibr" rid="b45">45</xref>) s preučevanjem zobovine in zobnega cementa, kot dveh morebitnih najugodnejših virov DNA v zobeh, prihajajo do zaključkov, da obstaja razlika v količini DNA med zobmi iste osebe in med različnimi tkivi istega zoba. Pri vzorčenju priporočajo uporabo zdravih, endodontsko nezdravljenih zob, če takih ni na voljo, pa je DNA bolj smiselno pridobiti iz zobnega cementa v predelu korenine in ne iz celega zoba (<xref ref-type="bibr" rid="b43">43</xref>). Za genetsko preiskavo si zobje po primernosti sledijo v naslednjem vrstnem redu: endodontsko nezdravljeni kočnik, ličnik, podočnik in sekalec. Pridobitev DNA iz zoba je mogoča bodisi z resekcijo zoba ter ekstrakcijo zobne pulpe, bodisi z zmletjem celega zoba ali pa z zmletjem le koreninskega dela, če ima zob karies (<xref ref-type="bibr" rid="b43">43</xref>).</p>
+      </sec>
+      <sec id="s6" sec-type="Nohti">
+         <label>6</label>
+         <title>Nohti</title>
+         <p>Nohti so se razvili le pri primatih in predstavljajo roženo tvorbo epidermisa kože. Epidermis v glavnem tvorijo keratinociti, ki izdelujejo vlaknasti protein keratin. V višje ležečih plasteh epidermisa se keratinociti spreminjajo v roževinaste luske. Poroženevanje ali keratinizacija je proces, v katerem se keratinociti postopno v različnih plasteh epidermisa izdiferencirajo v korneocite, izpolnjene s keratinom in drugimi beljakovinami. Keratinizacija se konča po kemičnih spremembah, katerih rezultat so disulfidne povezave keratinskih filamentov. Keratin kože imenujemo mehki keratin, keratin las in nohtov pa trdi keratin, ki za razliko od mehkega vsebuje veliko disulfidnih skupin. Mehki keratin se lušči, trdega pa je potrebno rezati (<xref ref-type="bibr" rid="b46">46</xref>). V primeru identifikacije močno razpadlega ali ekshumiranega trupla pridobimo genetski material, če je le možno, iz nohtov. Ti se, podobno kot lasje, ohranijo dolgo po smrti in so v naravnem okolju manj izpostavljeni mikrobni razgradnji, saj obstaja le nekaj specializiranih mikroorganizmov, ki lahko uporabljajo keratin kot hranilo (<xref ref-type="bibr" rid="b47">47</xref>). Najprimernejši so nohti na palcih nog, saj so najdebelejši (<xref ref-type="bibr" rid="b48">48</xref>). Za razliko od zob in kosti je postopek izolacije genomske DNA iz nohtov bistveno krajši in manj zahteven. Cline (<xref ref-type="bibr" rid="b49">49</xref>) je uspešno sekveniral do 270 bp dolge fragmente mtDNA iz nohtov, ekshumiranih 36 let po pokopu. Splošno velja, da je iz razmeroma svežih nohtov moč pridobiti jedrne profile, pri starih nohtih pa je večinoma uspešna analiza mtDNA. Če je noht nalakiran z lakom, je potrebno lak odstraniti, saj zavira reakcijo PCR (<xref ref-type="bibr" rid="b49">49</xref>). Večina standardnih metod za pridobitev DNA iz keratiniziranih tkiv (nohti in lasje) zahteva zaradi prisotnosti disulfidnih vezi med keratinskimi proteini večdnevno inkubacijo v ekstrakcijskem pufru, ki poleg proteinaze K vsebuje tudi DTT (ta cepi disulfidne vezi med polipeptidi). Za polno aktivnost proteinaze K je potrebna prisotnost ionov Ca<sup>2+</sup>. Hellmann (<xref ref-type="bibr" rid="b50">50</xref>) je v TN<sub>Ca</sub>-pufru EDTA zamenjal z ioni Ca<sup>2+</sup> in dosegel popolno razgradnjo keratiniziranega nohta (ali lasnega stebla) že v 2–5 urah, zaradi česar je čas, potreben za pridobitev DNA iz nohtov (ali las), bistveno krajši kot iz kosti ali zob.</p>
+      </sec>
+      <sec id="s7" sec-type="Lasje">
+         <label>7</label>
+         <title>Lasje</title>
+         <p>Las je rožena, elastična tvorba epidermisa. V kožo je vložen v tulcu ali foliklu. Med nosečnostjo se pri embriju razvijejo vsi lasni folikli, iz katerih nato v življenju ciklično izraščajo in izpadajo lasje (<xref ref-type="bibr" rid="b22">22</xref>). V lasnem steblu sta dve populaciji mitohondrijev - ena iz matriksnih celic in druga iz melanocit. Posledica dveh populacij mitohondrijev je mešanje različnih genskih skladov molekul mtDNA, ki imajo lahko različne haplotipe in so torej potencialno heteroplazmični. Eno samo lasno steblo lahko ima vzdolž različnih delov stebla različna razmerja heteroplazmičnih variant oziroma so lahko različna razmerja heteroplazmičnih variant prisotna med lasmi, ki izvirajo iz istega folikla (<xref ref-type="bibr" rid="b22">22</xref>,<xref ref-type="bibr" rid="b51">51</xref>).</p>
+         <p>Lasje imajo tri faze rasti. Prva faza je anagena ali aktivna faza, v kateri so lasje 2 do 8 let. Sledi ji katagena ali razgrajevalna faza, ki traja 2 do 4 tedne (<xref ref-type="bibr" rid="b52">52</xref>). V tej prehodni fazi se zaključi mitotska aktivnost matriksnih celic lasnega folikla. Po katageni fazi se lasje nahajajo 2 do 4 mesece v telogeni ali počivajoči fazi, dokler ne izpadejo iz lasišča. Začetek zadnje, telogene faze naznanja skrčitev lasne korenine in njeno potiskanje proti površini lasišča. Po delovanju proteinaz nastane v koži iz vidne čebulice lasne korenine nevidna paličasta korenina, bogata s keratini, povezanimi z disulfidnimi vezmi. Telogena korenina dosega le še 1/3 dolžine korenine v anageni fazi. V telogeni fazi pride do programirane celične smrti – apoptoze, katere rezultat je keratinizacija celičnih proteinov, razgradnja jedra in izguba oziroma razgradnja jedrne DNA. Pod telogeno korenino se začne tvoriti nov anageni las, telogeni pa izpade iz lasišča. Populacija matriksnih celic in dermalna papila za nov anageni las torej izvirata iz starega telogenega lasu, nov las pa se tvori na istem mestu, kot je stari izpadel. Telogeni folikel postane zopet anageni (<xref ref-type="bibr" rid="b22">22</xref>). Ko las izpade iz lasnega folikla, pride do dehidracije celic, zato popolnoma keratiniziran las vsebuje manj kot 10 % vode. Vsak dan nam izpade 50 do 100 telogenih las. Na lasišču imamo 100.000 do 150.000 las, od tega je 80 do 90 % anagenih in približno 10 % telogenih. Katagenih las je malo, saj traja katagena faza le 2 do 4 tedne (<xref ref-type="bibr" rid="b52">52</xref>). Pri anagenih in katagenih laseh se jedrna DNA nahaja v čebulici lasne korenine in celicah lasnega tulca, ki obkrožajo lasno korenino. Večino jedrne DNA vsebuje lasna korenina, lasni tulec je vsebuje zelo malo. Pred ekstrakcijo DNA iz las je nujno potrebno opraviti mikroskopsko analizo, saj je prisotnost jedrne DNA odvisna od morfologije lasu. Korenine anagenih in katagenih las so odlični kandidati za analizo jedrne DNA. Telogeni lasje imajo le nevidno paličasto, keratinizirano korenino in popolnoma keratinizirano lasno steblo (<xref ref-type="bibr" rid="b22">22</xref>). Zato je pri izpadlih – telogenih laseh, ki jih na kraju kaznivega dejanja kriminalisti najpogosteje najdejo, večinoma uspešna le analiza mtDNA (<xref ref-type="bibr" rid="b53">53</xref>).</p>
+         <p>V lasnem steblu so pigmentna zrnca melanina, ki določajo barvo las. Eumelanin je v rjavih in črnih laseh, feomelanin v rdečih in svetlih laseh. S standardnimi ekstrakcijskimi postopki melanina ne moremo ločiti od DNA in inhibira reakcijo PCR (<xref ref-type="bibr" rid="b54">54</xref>). Nekateri forenzični strokovnjaki (<xref ref-type="bibr" rid="b54">54</xref>) domnevajo, da pogosto šamponiranje in barvanje las negativno vplivata na količino izolirane DNA, vendar McNevin (<xref ref-type="bibr" rid="b55">55</xref>) negativnega učinka kozmetičnih sredstev ni opazil. Različni avtorji (<xref ref-type="bibr" rid="b50">50</xref>,<xref ref-type="bibr" rid="b54">54</xref>) poudarjajo pri preiskavah lasnih stebel potrebo po odstranjevanju površinske kontaminacije.</p>
+         <p>Malo je znanega o posmrtnih spremembah mtDNA v laseh. Če so poškodbe DNA podobne kot v drugih tkivih, lahko pričakujemo oksidativno in hidrolitično depurinacijo, hidrolitično deaminacijo in fragmentacijo, ki so posledica izpostavljenosti ionizirajočemu sevanju in UV – svetlobi (<xref ref-type="bibr" rid="b47">47</xref>). Graffy (<xref ref-type="bibr" rid="b53">53</xref>) v primerih identifikacije pogrešanih oseb, še posebno, če je bilo truplo najdeno nekaj mesecev ali let po smrti, priporoča izolacijo DNA iz kosti, tudi če so lasje ohranjeni, saj so analize starih las problematične, pogosto tudi neuspešne.</p>
+      </sec>
+      <sec id="s8" sec-type="Feces">
+         <label>8</label>
+         <title>Feces</title>
+         <p>Človeško blato ali madeži človeškega blata na toaletnem papirju ali obleki so v redkih primerih edini dokazni material, najden na kraju kaznivega dejanja. Pri spolnih zlorabah je možno najti majhne količine blata na penisu posiljevalca. S tipizacijo DNA lahko ugotovimo izvor človeškega blata in osumljenca oziroma žrtev povežemo (ali ne) s kaznivim dejanjem.</p>
+         <p>Feces je končni produkt prebave, ki poteka v prebavilih. Ta je obložen z epitelom, ki se regenerira na dva do šest dni. Pri človeku se tako iz prebavil dnevno odlušči 17 milijard celic (<xref ref-type="bibr" rid="b56">56</xref>). Glede na to, da dnevno izločimo 100–200 gramov blata in da celica vsebuje približno 6 pg genomske DNA, lahko ocenimo, da miligram blata teoretično vsebuje 300–600 ng DNA. Vendar praktično iz fecesa pridobimo veliko manj DNA, saj večino odluščenih celic in njihove DNA v procesu prebave prebavni encimi in bakterije razgradijo. Intestinalno oblogo tvorijo stebričaste absorptivne celice in čašaste celice. V fecesu poleg teh dveh tipov epitelnih celic najdemo tudi luskaste celice iz epitela analnega kanala, ki se odluščijo ob iztiskanju blata. Levkocitov, ki so sicer prisotni v intestinalni oblogi, v fecesu običajno ne najdemo. Z mikroskopsko analizo blata so dokazali prisotnost nukleiranih odluščenih epitelnih celic, ki so v fecesu glavni vir DNA in nakazujejo možnost pridobitve jedrne DNA. Vendar vsebuje feces zelo veliko bakterij (v debelem črevesu in danki je 10<sup>11</sup> bakterijskih celic na gram črevesne vsebine), ki degradirajo DNA, in ogromno snovi, ki inhibirajo reakcijo PCR (<xref ref-type="bibr" rid="b57">57</xref>).</p>
+         <p>Vsebnost DNA v fecesu ljudi močno variira in je individualno specifična, kar sta dokazala tako Jahnson (<xref ref-type="bibr" rid="b56">56</xref>) kot Vandenberg (<xref ref-type="bibr" rid="b58">58</xref>). Na koncentracijo iz fecesa izolirane DNA vplivajo količina blata in interval gibanja peristaltike, razgradnja odluščenih epitelnih celic in DNA v blatu, izpostavljenost blata zunanjim dejavnikom ter učinkovitost ekstrakcijske procedure. Tako je možno pridobiti največ genomske DNA iz svežega in zamrznjenega blata, z daljšanjem izpostavljenosti zunanjim dejavnikom pa se stopnjuje bakterijska razgradnja DNA in razgradnja zaradi razgrajevalnih snovi, ki se v človeškem blatu nahajajo (npr. žolčne kisline). Odluščene epitelne celice v fecesu niso enakomerno razporejene. Gibanje peristaltike povzroča mešanje črevesne vsebine, zato so vsi deli fecesa občasno izpostavljeni epitelni površini črevesa. Mešanje je manj intenzivno v rektumu in analnem kanalu, kjer pride ob iztiskanju do dodatnega luščenja epitelnih celic, zato so najverjetneje na površini blata večje količine epitelnih celic. Vandenberg (<xref ref-type="bibr" rid="b58">58</xref>) zato priporočata ekstrakcijo DNA iz blata, odvzetega iz površine.</p>
+      </sec>
+      <sec id="s9" sec-type="Urin">
+         <label>9</label>
+         <title>Urin</title>
+         <p>V forenzični dejavnosti je urin zanimiv zlasti v primerih, ko je potrebno ugotoviti identiteto urina, prej odvzetega za forenzične toksikološke ali alkoholimetrične preiskave ter kontrole dopinga (<xref ref-type="bibr" rid="b59">59</xref>). V teh primerih se namreč lahko pojavi sum, da urin ne pripada preiskovancu (ali so ga preiskovanci zamenjali že v ambulanti pri samem odvzemu vzorca, ali pa je prišlo do zamenjave vzorcev ob analizi v laboratoriju). Preverjanje izvora urinskega vzorca ni preprosto, saj ima urin v primerjavi z ostalimi telesnimi tekočinami zelo malo celic. V zdravem človeškem urinu najdemo le do 500 nukleiranih celic na mililiter urina. Največ je levkocitov (300–500 celic/ml urina), v majhnem številu pa so prisotne tudi epitelne celice (<xref ref-type="bibr" rid="b60">60</xref>). Urin žensk vsebuje večje število nukleiranih celic (zlasti epitelne celice iz nožničnega trakta) kot urin moških, zato običajno pridobimo petkrat več DNA iz urina žensk (<xref ref-type="bibr" rid="b61">61</xref>). Proces hidrolize celic v urinu in kontaminacije z mikroorganizmi (bakterije, glive) nastopi praktično takoj po uriniranju, zato je dobro svežemu urinu pred shranjevanjem dodati snovi, ki preprečijo rast mikroorganizmov, zmanjšajo aktivnost encimov in stabilizirajo DNA. Različni avtorji predlagajo uporabo različnih prezervativov in shranjevanje vzorcev pri različnih temperaturah (<xref ref-type="bibr" rid="b62">62</xref>). Količina genomske DNA, ki jo je moč pridobiti iz vzorca urina, je odvisna od spola, od pogojev, v katerih so urin shranili, od časa shranjevanja, od obsežnosti mikrobne kontaminacije, od sproščanja nukleaz iz hidroliziranih celic in od metode izolacije, ki jo uporabimo za pridobitev DNA (<xref ref-type="bibr" rid="b62">62</xref>). Če tipizacija jedrne DNA ni uspešna, tipiziramo mtDNA.</p>
+      </sec>
+      <sec id="s10" sec-type="Ukrepi za preprečevanje kontaminacije DNA">
+         <label>10</label>
+         <title>Ukrepi za preprečevanje kontaminacije DNA</title>
+         <p>Kemijski dejavniki okolja (čas, sončna svetloba, temperatura, vlažnost…) in biološki dejavniki okolja (prisotnost mikroorganizmov), kateremu so človeški posmrtni ostanki ali človeški izločki podvrženi, povzročajo razgradnjo genetskega materiala in kontaminacijo z DNA bakterij in gliv. Najslabše vpliva na človeški dedni material izpostavljenost visokim temperaturam, visoki vlažnosti in neposredni sončni svetlobi ter mikroorganizmom, ki s svojimi encimi cepijo molekulo DNA (na mikrobno razgradnjo v največji meri vpliva vlaga). Tovrstne kontaminacije, ki v največji meri vpliva na uspešnost tipizacije mtDNA, ne moremo preprečiti. Preprečimo pa lahko najnevarnejši tip kontaminacije, to je kontaminacija s človeškim biološkim materialom oziroma sodobno človeško DNA. Zaradi nizke vsebnosti DNA in njene razgrajenosti v starih ali slabo ohranjenih bioloških materialih so tovrstni forenzični vzorci zelo dovzetni za kontaminacijo s sodobno DNA (<xref ref-type="bibr" rid="b32">32</xref>), do katere lahko pride pri zbiranju in shranjevanju dokaznega materiala ali med samo tipizacijo v laboratoriju. Pri starih kosteh, zobeh in telogenih laseh je najpogostejša površinska kontaminacija zaradi neprimernega rokovanja z dokaznim materialom. Površinsko kontaminacijo odstranjujemo z različnimi metodami. Med njimi so najpogostejše spiranje v vodi, detergentu, kislini, etanolu ali belilu, obsevanje z UV-svetlobo, pri kosteh fizično odstranjevanje površine in kot zadnja možnost pridobitev DNA iz materiala, odvzetega iz notranjosti kosti ali zoba. Za učinkovito odstranevanje površinske kontaminacije se običajno uporablja različna kombinacija naštetih tehnik.</p>
+         <p>Uporabo belila (natrijev hipoklorit) kot sredstva za odstranjevanje kontaminacije iz površine starih kosti ali zob je preučeval Kemp (<xref ref-type="bibr" rid="b32">32</xref>) in ugotovil, da belilo uniči kontaminacijsko DNA na površini kosti ali zob, saj jo z oksidativnim delovanjem razcepi na kratke fragmente, endogena DNA pa ostane nepoškodovana. Vzrok za to je izredna stabilnost DNA, ki se v starih kosteh in zobeh veže na hidroksiapatit, ki jo ščiti pred kemijsko razgradnjo. Belilo je potrebno nato odstraniti s spiranjem z vodo in etanolom. Pri zobeh je zobna pulpa, ki je glavni vir DNA, zaprta v pulpni votlini in obdana s trdimi tkivi (sklenina, dentin in cement), zato je manj izpostavljena kontaminaciji (<xref ref-type="bibr" rid="b63">63</xref>). Večina raziskovalcev (<xref ref-type="bibr" rid="b54">54</xref>) uporablja za dekontaminacijo površine zob podobno kot pri kosteh zaporedno spiranje v detergentu, vodi in etanolu ter obsevanje z UV-svetlobo. Če je zob poškodovan (zlomljen ali prizadet z zobno gnilobo) njegovo površino dekontaminiramo le s spiranjem v vodi in obsevanjem z UV-svetlobo (<xref ref-type="bibr" rid="b54">54</xref>). Površina lasnega stebla je zaradi hidrofobne narave keratinskih proteinov vodoodporna in zato na nek način zaščitena pred kontaminacijo, če pa že pride do nje, se jo da sprati z zaporednim večkratnim spiranjem v detergentu, etanolu in vodi (<xref ref-type="bibr" rid="b53">53</xref>,<xref ref-type="bibr" rid="b54">54</xref>). Cline (<xref ref-type="bibr" rid="b49">49</xref>) opozarja, da lahko uporaba previsokih koncentracij belila (10-odstotno belilo), kislin (1N HCl) in ekstrakcijskih pufrov (z dodano proteinazo K in SDS) kot sredstev za odstranjevanje površinske kontaminacije iz nohtov poškoduje endogeno DNA nohta.</p>
+         <p>Poleg površinske kontaminacije s sodobno DNA je možna še kontaminacija s predhodnimi produkti reakcije PCR ali kontaminacija reagentov, plastike in druge laboratorijske opreme. V Laboratoriju za molekularno genetiko Inštituta za sodno medicino v Ljubljani zato v izogib kontaminaciji vedno sledimo priporočilom za njeno preprečevanje (<xref ref-type="bibr" rid="b13">13</xref>,<xref ref-type="bibr" rid="b19">19</xref>,<xref ref-type="bibr" rid="b32">32</xref>,<xref ref-type="bibr" rid="b64">64</xref>,<xref ref-type="bibr" rid="b65">65</xref>). Uporabljamo dvojne sterilne laboratorijske rokavice, ki jih za vsak vzorec menjamo, kirurške maske za obraz, zaščitne kape, zaščitne prevleke za čevlje in zaščitno haljo za enkratno uporabo. Vse delovne površine pred in po delu očistimo z belilom, vodo in etanolom. Če je možno, jih čez noč izpostavimo tudi UV-sevanju. Orodja in pripomočke za čiščenje, brušenje in mletje kosti in zob po uporabi očistimo na enak način kot delovne površine, jih steriliziramo in čez noč ter pred začetkom dela izpostavimo UV-sevanju. Na enak način po sterilizaciji čez noč in pred začetkom dela UV-sevanju izpostavimo vse pripomočke, orodja, reagente in laboratorijsko plastiko. Za vsak vzorec uporabimo nova, čista orodja in pripomočke. Izdelano imamo eliminacijsko podatkovno zbirko DNA, v kateri so shranjeni profili mtDNA laboratorijskega osebja in oseb, ki so v kateri koli fazi zbiranja in shranjevanja forenzičnih vzorcev – zlasti skeletnih ostankov, prišle v stik z njimi. Vzorce eliminacijske zbirke analiziramo ločeno od forenzičnih vzorcev in ločeno od referenčnih vzorcev (sorodniki ali osebni predmeti pogrešane osebe pri identifikacijskih postopkih). Prostorsko med seboj ločimo različne dele analize, da preprečimo morebitno kontaminacijo s produkti PCR. Pomnoženih produktov PCR nikoli ne vnašamo v prostore za pripravo vzorcev in reagentov, izolacijo DNA in pripravo reakcij PCR; slednji so med seboj prav tako ločeni. Čiščenje in mletje kosti in zob poteka v popolnoma ločenem prostoru, kjer mehansko čistimo vzorce kosti v zaprti citostatični komori, da preprečimo navzkrižno kontaminacijo vzorcev s kostnim prahom. Ta prostor uporabljamo zgolj za pripravo tovrstnih vzorcev (kosti, zobje, telogeni lasje, stari nohti), ne pa tudi za pripravo vzorcev, ki vsebujejo večje količine DNA, kot denimo vzorci krvi in sline. V pomnoževanje produktov z reakcijo PCR vedno vključimo negativno kontrolo, da zaznamo kakršno koli kontaminacijo z DNA ali s produkti PCR. Prav tako vedno vključimo negativno kontrolo v postopek ekstrakcije DNA, da preverimo čistost ekstrakcijskih reagentov, laboratorijske plastike in morebitno navzkrižno kontaminacijo vzorcev. Dobljena nukleotidna zaporedja forenzičnih vzorcev primerjamo z eliminacijsko podatkovno zbirko profilov mtDNA. MtDNA vedno sekveniramo v obe smeri, s čimer zagotovimo pravilnost določitve nukleotidnega zaporedja. Preiskave forenzičnih vzorcev, ki vsebujejo nizke količine mtDNA, ponovimo vsaj dvakrat – tako preverimo, ali dobljeni rezultati med seboj sovpadajo (<xref ref-type="bibr" rid="b66">66</xref>).</p>
+      </sec>
+      <sec id="s11" sec-type="Primeri preiskav mtDNA">
+         <label>11</label>
+         <title>Primeri preiskav mtDNA</title>
+         <p>Mitohondrijski genom je zelo uporaben za določanje identitete starih posmrtnih ostankov ter preučevanje genealoških odnosov, saj lahko kot referenčni vzorec uporabimo tudi nekaj generacij oddaljene sorodnike po materini liniji (<xref ref-type="bibr" rid="b3">3</xref>). Tako so s tipizacijo mtDNA identificirali francoskega prestolonaslednika Ludvika XVII, katerega srce je po usmrtitvi izrezal zdravnik in se je ohranilo vse do danes. Iz preko 200 let starega srca pridobljeni haplotip mtDNA so primerjali s haplotipom mtDNA las Marije Antoinette in njenih še živečih potomcev po materini liniji. Z identičnostjo haplotipov so dokazali, da je bil desetletni deček, ki je leta 1795 umrl v ječi Temple, res sin Ludvika XVI. in Marije Antoinette (<xref ref-type="bibr" rid="b67">67</xref>). S pomočjo polimorfizmov mtDNA in primerjavo s še živečimi sorodniki po materini liniji so identificirali tudi skeletne ostanke Martina Bormanna, enega najbolj radikalnih Hitlerjevih sodelavcev (<xref ref-type="bibr" rid="b68">68</xref>). S tipizacijo jedrne in mtDNA so identificirali brata Reinholda Messnerja (<xref ref-type="bibr" rid="b69">69</xref>) ter leta 1960 pokopane člane gverilske organizacije Che Guevara v Boliviji (<xref ref-type="bibr" rid="b70">70</xref>). Velikokrat se uporablja kombinacija jedrnih in mtDNA polimorfizmov za identificiranje žrtev množičnih nesreč, kot so letalske nesreče, potresi in požari (<xref ref-type="bibr" rid="b71">71</xref>). Ena najbolj odmevnih molekularnogenetskih identifikacij skeletnih ostankov je bila identifikacija ruske vladarske družine Romanov (<xref ref-type="bibr" rid="b26">26</xref>,<xref ref-type="bibr" rid="b27">27</xref>), pri kateri je bilo potrebno za pozitivno identifikacijo analizirati tako jedrno kot mitohondrijsko DNA. S pomočjo jedrne DNA so lahko preverili maternalno in paternalno povezanost družinskih članov v grobišču, niso pa mogli odgovoriti na vprašanje, ali gre dejansko za posmrtne ostanke družine Romanov. Jedrna DNA namreč omogoča le preverjanje bližnjih sorodstvenih odnosov, preverjanje sorodnosti med daljnimi sorodniki, ki so med seboj ločeni z nekaj generacijami pa zaradi rekombinacije ni mogoče. Preverjanje daljnih sorodstvenih povezav je možno z analizo linearnih genetskih označevalcev, kot sta kromosom Y in mtDNA, saj se dedujeta v nespremenjeni obliki. Pri družini Romanov so preverili identičnost skeletnih ostankov tako, da so nukleotidna zaporedja mtDNA primerjali z nekaj generacij oddaljenimi, a še živečimi potomci po materini liniji. Molekularnogenetske analize 5.000 let starega tirolskega ledenega človeka – Öetzija (<xref ref-type="bibr" rid="b72">72</xref>), neandertalca (<xref ref-type="bibr" rid="b73">73</xref>) in mnoge druge genetske analize starodavne DNA so pokazale, da je možno pridobiti mtDNA iz zelo starih človeških ostankov, ne le skeletov, ampak tudi mumificiranih mehkih tkiv različnih muzejskih in arheoloških zbirk (<xref ref-type="bibr" rid="b3">3</xref>).</p>
+         <p>S pomočjo mtDNA poteka identifikacija skeletnih ostankov ameriških vojakov, padlih v vojnah v Vietnamu, Kambodži, Laosu in na Kitajskem (2300 žrtev), v korejski vojni (8.000 žrtev) in v drugi svetovni vojni (78.000 vojakov) (<xref ref-type="bibr" rid="b11">11</xref>) ter identifikacija žrtev množičnih pobojev na ozemlju bivše Jugoslavije (100.000 žrtev) (<xref ref-type="bibr" rid="b74">74</xref>,<xref ref-type="bibr" rid="b75">75</xref>). MtDNA je izredno uporabna pri identifikaciji žrtev druge svetovne vojne v Sloveniji, kjer imamo preko 600 evidetiranih prikritih grobišč s približno 100.000 žrtvami. Največje prikrito masovno grobišče, ki smo ga v Sloveniji genetsko identificirali, je grobišče Konfin I v bližini Grčaric (<xref ref-type="bibr" rid="b76">76</xref>). Seznam žrtev, najden v arhivih, je zajemal 88 žrtev, antropološka študija izkopanih skeletov je to število potrdila. Še živeče sorodnike (brate, sestre, sinove, hčerke, nečakinje, nečake, bratrance) smo uspeli najti za 44 žrtev. Izkop v anatomski legi ni bil mogoč, zato smo genetsko preiskali vse desne stegnenice (84 kosti) ter pridobili jedrno DNA za uspešno tipizacijo mikrosatelitov iz 82 kosti, pri čemer smo s primerjavo genetskih profilov avtosomskih mikrosatelitov ter haplotipov kromosoma Y in mtDNA s sorodniki uspeli identificirati tretjino žrtev, statistične analize pa so pokazale visoko stopnjo identifikacije za 32 žrtev (<xref ref-type="bibr" rid="b76">76</xref>). Haplotipi mtDNA so nam služili za identificiranje s pomočjo sorodnikov po materini liniji. Kosti smo vrnili sorodnikom, ki so svojce pokopali v družinske grobove. Identifikacija žrtev druge svetovne vojne je zelo kompleksen proces, saj vključuje sodelovanje strokovnjakov različnih področij, genetska tipizacija je težavna zaradi slabo ohranjene DNA v starih kosteh, problematično pa je tudi iskanje sorodnikov, saj je od vojnih pobojev minilo več kot 70 let. Dokazali smo, da lahko s kombinacijo različnih genetskih označevalcev (avtosomske DNA, kromosoma Y in mtDNA) in tipizacijo bližnjih in daljnih sorodnikov ter izredno uspešno metodo ekstrakcije DNA iz skeletnih ostankov, ki smo jo razvili v našem laboratoriju (<xref ref-type="bibr" rid="b66">66</xref>), uspešno identificiramo tudi žrtve druge svetovne vojne. Identifikacija žrtev masovnega grobišča Konfin I je postavila osnovo za nadaljnje molekularnogenetske preiskave povojnih množičnih grobišč, ki smo jih v zadnjih desetih letih izvedli v Sloveniji v našem laboratoriju. Poleg storžiških žrtev (<xref ref-type="bibr" rid="b77">77</xref>) smo genetsko preiskali tudi žrtve Bodoveljske Grape (<xref ref-type="bibr" rid="b5">5</xref>), lobanjo iz Bohinja (<xref ref-type="bibr" rid="b78">78</xref>), žrtve grobišča Mačkovec (prispevek v postopku recenzije), Mače (prispevek v pripravi), Babna Gora (prispevek v postopku recenzije), Mozelj, Kržeti, Zaplana, Krimska jama in Konfin II.</p>
+      </sec>
+      <sec id="s12" sec-type="Zaključek">
+         <label>12</label>
+         <title>Zaključek</title>
+         <p>Preiskave mtDNA v forenzični dejavnosti so izredno pomembne za reševanje primerov, pri katerih preiskava jedrne DNA ni uspešna, ter primerov identifikacij, pri katerih imamo za primerjavo kot referenčni vzorec na razpolago le sorodnike po materini liniji. Le malo evropskih laboratorijev je v preteklosti uporabljalo preiskave mtDNA, saj je postopek Sangerjevega sekveniranja in ločevanja sekvenčnih produktov na kapilarni elektroforezi zamuden, mtDNA pa je zaradi številnih kopij močno izpostavljena kontaminaciji, kar je potrebno upoštevati pri organizaciji in opremi forenzičnega genetskega laboratorija, postopki pa v nasprotju s preiskavami jedrnih mikrosatelitov niso standardizirani. Z razvojem tehnologije sekveniranja naslednje generacije (<italic>angl.</italic> Next Generation Sequencing, NGS) postaja tipizacija mtDNA v forenziki hitrejša, enostavnejša, uporabniku prijaznejša, zaradi zaprtih sistemov manj podvržena kontaminaciji in standardizirana. Tako lahko danes s tehnologijo NGS na enostaven način sekveniramo ne le kontrolno regijo mtDNA, ampak tudi celoten mitohondrijski genom (<xref ref-type="bibr" rid="b51">51</xref>,<xref ref-type="bibr" rid="b79">79</xref>,<xref ref-type="bibr" rid="b80">80</xref>).</p>
+      </sec>
+   </body>
+   <back>
+      <ack>
+         <label>13</label>
+         <title>Zahvala</title>
+         <p>Zahvaljujem se Komisiji Vlade Republike Slovenije za reševanje vprašanj prikritih grobišč za opravljene izkope žrtev druge svetovne vojne.</p>
+         <p>Del študij, opisanih v preglednem članku je sofinancirala Javna agencija za raziskovalno dejavnost Republike Slovenije (ARRS) iz državnega proračuna (projekt Določitev najprimernejših skeletnih elementov za molekularno genetsko identifikacijo starih človeških posmrtnih ostankov, št. J3–8214).</p>
+      </ack>
+      <ref-list>
+         <ref id="b1">
+            <label>1.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Zupanič Pajnič</surname> 
+                     <given-names>I</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Šterlinko</surname> 
+                     <given-names>H</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Bala ic</surname> 
+                     <given-names>J</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Komel</surname> 
+                     <given-names>R</given-names>
+                  </string-name>
+               </person-group>. <article-title>Parentage testing with 14 STR loci and population data for 5 STRs in the Slovenian population</article-title>. <source>Int J Legal Med</source>. <year>2001</year>;<volume>114</volume>(<issue>3</issue>):<fpage>178</fpage>–<lpage>80</lpage>. <pub-id pub-id-type="doi">10.1007/s004140000179</pub-id>
+               <pub-id pub-id-type="pmid">11296891</pub-id>
+               <issn>0937-9827</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b2">
+            <label>2.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Zupanič Pajnič</surname> 
+                     <given-names>I</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Balažic</surname> 
+                     <given-names>J</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Komel</surname> 
+                     <given-names>R</given-names>
+                  </string-name>
+               </person-group>. <article-title>Sequence polymorphism of the mitochondrial DNA control region in the Slovenian population</article-title>. <source>Int J Legal Med</source>. <year>2004</year> 
+               <month>Feb</month>;<volume>118</volume>(<issue>1</issue>):<fpage>1</fpage>–<lpage>4</lpage>. <pub-id pub-id-type="doi">10.1007/s00414-003-0394-3</pub-id>
+               <pub-id pub-id-type="pmid">14534795</pub-id>
+               <issn>0937-9827</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b3">
+            <label>3.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Fisher</surname> 
+                     <given-names>DL</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Holland</surname> 
+                     <given-names>MM</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Mitchell</surname> 
+                     <given-names>L</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Sledzik</surname> 
+                     <given-names>PS</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Wilcox</surname> 
+                     <given-names>AW</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Wadhams</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <etal>et al.</etal>
+               </person-group> 
+               <article-title>Extraction, evaluation, and amplification of DNA from decalcified and undecalcified United States Civil War bone</article-title>. <source>J Forensic Sci</source>. <year>1993</year> 
+               <month>Jan</month>;<volume>38</volume>(<issue>1</issue>):<fpage>60</fpage>–<lpage>8</lpage>. <pub-id pub-id-type="doi">10.1520/JFS13376J</pub-id>
+               <pub-id pub-id-type="pmid">8426158</pub-id>
+               <issn>0022-1198</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b4">
+            <label>4.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Coble</surname> 
+                     <given-names>MD</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Vallone</surname> 
+                     <given-names>PM</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Just</surname> 
+                     <given-names>RS</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Diegoli</surname> 
+                     <given-names>TM</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Smith</surname> 
+                     <given-names>BC</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Parsons</surname> 
+                     <given-names>TJ</given-names>
+                  </string-name>
+               </person-group>. <article-title>Effective strategies for forensic analysis in the mitochondrial DNA coding region</article-title>. <source>Int J Legal Med</source>. <year>2006</year> 
+               <month>Jan</month>;<volume>120</volume>(<issue>1</issue>):<fpage>27</fpage>–<lpage>32</lpage>. <pub-id pub-id-type="doi">10.1007/s00414-005-0044-z</pub-id>
+               <pub-id pub-id-type="pmid">16261373</pub-id>
+               <issn>0937-9827</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b5">
+            <label>5.	</label>
+            <mixed-citation publication-type="thesis" specific-use="unparsed">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Zupanič Pajnič</surname> 
+                     <given-names>I</given-names>
+                  </string-name>
+               </person-group>. Identifikacija oseb iz starih in slabo ohranjenih bioloških materialov s polimorfizmi mitohondrijske DNA [PhD Thesis]. Ljubljana: I. Zupanič Pajnič; <year>2007</year>.</mixed-citation>
+         </ref>
+         <ref id="b6">
+            <label>6.	</label>
+            <mixed-citation publication-type="thesis" specific-use="unparsed">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Obal</surname> 
+                     <given-names>M</given-names>
+                  </string-name>
+               </person-group>. Uporaba različnih skeletnih elementov za genetsko identifikacijo žrtev druge svetovne vojne [Master ҆s Thesis]. Ljubljana: M. Obal; <year>2018</year>.</mixed-citation>
+         </ref>
+         <ref id="b7">
+            <label>7.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Anderson</surname> 
+                     <given-names>S</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Bankier</surname> 
+                     <given-names>AT</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Barrell</surname> 
+                     <given-names>BG</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>de Bruijn</surname> 
+                     <given-names>MH</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Coulson</surname> 
+                     <given-names>AR</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Drouin</surname> 
+                     <given-names>J</given-names>
+                  </string-name>, <etal>et al.</etal>
+               </person-group> 
+               <article-title>Sequence and organization of the human mitochondrial genome</article-title>. <source>Nature</source>. <year>1981</year> 
+               <month>Apr</month>;<volume>290</volume>(<issue>5806</issue>):<fpage>457</fpage>–<lpage>65</lpage>. <pub-id pub-id-type="doi">10.1038/290457a0</pub-id>
+               <pub-id pub-id-type="pmid">7219534</pub-id>
+               <issn>0028-0836</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b8">
+            <label>8.	</label>
+            <mixed-citation publication-type="book" specific-use="unparsed">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Vogel</surname> 
+                     <given-names>F</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Motulsky</surname> 
+                     <given-names>AG</given-names>
+                  </string-name>
+               </person-group>. Human genetics - problems and approaches, Springer-Verlag, Berlin, <year>1997</year>:83-87, 114-127, 145-193, 495-582, 593-594, 602-604, 610-621, 705-711.</mixed-citation>
+         </ref>
+         <ref id="b9">
+            <label>9.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Bendall</surname> 
+                     <given-names>KE</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Macaulay</surname> 
+                     <given-names>VA</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Sykes</surname> 
+                     <given-names>BC</given-names>
+                  </string-name>
+               </person-group>. <article-title>Variable levels of a heteroplasmic point mutation in individual hair roots</article-title>. <source>Am J Hum Genet</source>. <year>1997</year> 
+               <month>Dec</month>;<volume>61</volume>(<issue>6</issue>):<fpage>1303</fpage>–<lpage>8</lpage>. <pub-id pub-id-type="doi">10.1086/301636</pub-id>
+               <pub-id pub-id-type="pmid">9399894</pub-id>
+               <issn>0002-9297</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b10">
+            <label>10.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Howell</surname> 
+                     <given-names>N</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Kubacka</surname> 
+                     <given-names>I</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Mackey</surname> 
+                     <given-names>DA</given-names>
+                  </string-name>
+               </person-group>. <article-title>How rapidly does the human mitochondrial genome evolve?</article-title> 
+               <source>Am J Hum Genet</source>. <year>1996</year> 
+               <month>Sep</month>;<volume>59</volume>(<issue>3</issue>):<fpage>501</fpage>–<lpage>9</lpage>.<pub-id pub-id-type="pmid">8751850</pub-id>
+               <issn>0002-9297</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b11">
+            <label>11.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Holland</surname> 
+                     <given-names>MM</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Fisher</surname> 
+                     <given-names>DL</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Mitchell</surname> 
+                     <given-names>LG</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Rodriquez</surname> 
+                     <given-names>WC</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Canik</surname> 
+                     <given-names>JJ</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Merril</surname> 
+                     <given-names>CR</given-names>
+                  </string-name>, <etal>et al.</etal>
+               </person-group> 
+               <article-title>Mitochondrial DNA sequence analysis of human skeletal remains: identification of remains from the Vietnam War</article-title>. <source>J Forensic Sci</source>. <year>1993</year> 
+               <month>May</month>;<volume>38</volume>(<issue>3</issue>):<fpage>542</fpage>–<lpage>53</lpage>. <pub-id pub-id-type="doi">10.1520/JFS13439J</pub-id>
+               <pub-id pub-id-type="pmid">8515208</pub-id>
+               <issn>0022-1198</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b12">
+            <label>12.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Hopwood</surname> 
+                     <given-names>AJ</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Mannucci</surname> 
+                     <given-names>A</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Sullivan</surname> 
+                     <given-names>KM</given-names>
+                  </string-name>
+               </person-group>. <article-title>DNA typing from human faeces</article-title>. <source>Int J Legal Med</source>. <year>1996</year>;<volume>108</volume>(<issue>5</issue>):<fpage>237</fpage>–<lpage>43</lpage>. <pub-id pub-id-type="doi">10.1007/BF01369817</pub-id>
+               <pub-id pub-id-type="pmid">8721422</pub-id>
+               <issn>0937-9827</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b13">
+            <label>13.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Tully</surname> 
+                     <given-names>G</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Bär</surname> 
+                     <given-names>W</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Brinkmann</surname> 
+                     <given-names>B</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Carracedo</surname> 
+                     <given-names>A</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Gill</surname> 
+                     <given-names>P</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Morling</surname> 
+                     <given-names>N</given-names>
+                  </string-name>, <etal>et al.</etal>
+               </person-group> 
+               <article-title>Considerations by the European DNA profiling (EDNAP) group on the working practices, nomenclature and interpretation of mitochondrial DNA profiles</article-title>. <source>Forensic Sci Int</source>. <year>2001</year> 
+               <month>Dec</month>;<volume>124</volume>(<issue>1</issue>):<fpage>83</fpage>–<lpage>91</lpage>. <pub-id pub-id-type="doi">10.1016/S0379-0738(01)00573-4</pub-id>
+               <pub-id pub-id-type="pmid">11741765</pub-id>
+               <issn>0379-0738</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b14">
+            <label>14.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Sullivan</surname> 
+                     <given-names>KM</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Hopgood</surname> 
+                     <given-names>R</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Gill</surname> 
+                     <given-names>P</given-names>
+                  </string-name>
+               </person-group>. <article-title>Identification of human remains by amplification and automated sequencing of mitochondrial DNA</article-title>. <source>Int J Legal Med</source>. <year>1992</year>;<volume>105</volume>(<issue>2</issue>):<fpage>83</fpage>–<lpage>6</lpage>. <pub-id pub-id-type="doi">10.1007/BF02340829</pub-id>
+               <pub-id pub-id-type="pmid">1520642</pub-id>
+               <issn>0937-9827</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b15">
+            <label>15.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Piercy</surname> 
+                     <given-names>R</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Sullivan</surname> 
+                     <given-names>KM</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Benson</surname> 
+                     <given-names>N</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Gill</surname> 
+                     <given-names>P</given-names>
+                  </string-name>
+               </person-group>. <article-title>The application of mitochondrial DNA typing to the study of white Caucasian genetic identification</article-title>. <source>Int J Legal Med</source>. <year>1993</year>;<volume>106</volume>(<issue>2</issue>):<fpage>85</fpage>–<lpage>90</lpage>. <pub-id pub-id-type="doi">10.1007/BF01225046</pub-id>
+               <pub-id pub-id-type="pmid">8217870</pub-id>
+               <issn>0937-9827</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b16">
+            <label>16.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Lutz</surname> 
+                     <given-names>S</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Wittig</surname> 
+                     <given-names>H</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Weisser</surname> 
+                     <given-names>HJ</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Heizmann</surname> 
+                     <given-names>J</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Junge</surname> 
+                     <given-names>A</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Dimo-Simonin</surname> 
+                     <given-names>N</given-names>
+                  </string-name>, <etal>et al.</etal>
+               </person-group> 
+               <article-title>Is it possible to differentiate mtDNA by means of HVIII in samples that cannot be distinguished by sequencing the HVI and HVII regions?</article-title> 
+               <source>Forensic Sci Int</source>. <year>2000</year> 
+               <month>Sep</month>;<volume>113</volume>(<issue>1-3</issue>):<fpage>97</fpage>–<lpage>101</lpage>. <pub-id pub-id-type="doi">10.1016/S0379-0738(00)00222-X</pub-id>
+               <pub-id pub-id-type="pmid">10978608</pub-id>
+               <issn>0379-0738</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b17">
+            <label>17.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Cann</surname> 
+                     <given-names>RL</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Stoneking</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Wilson</surname> 
+                     <given-names>AC</given-names>
+                  </string-name>
+               </person-group>. <article-title>Mitochondrial DNA and human evolution</article-title>. <source>Nature</source>. <year>1987</year> 
+               <month>Jan</month>;<volume>325</volume>(<issue>6099</issue>):<fpage>31</fpage>–<lpage>6</lpage>. <pub-id pub-id-type="doi">10.1038/325031a0</pub-id>
+               <pub-id pub-id-type="pmid">3025745</pub-id>
+               <issn>0028-0836</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b18">
+            <label>18.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Lorente</surname> 
+                     <given-names>JA</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Entrala</surname> 
+                     <given-names>C</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Alvarez</surname> 
+                     <given-names>JC</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Lorente</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Arce</surname> 
+                     <given-names>B</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Heinrich</surname> 
+                     <given-names>B</given-names>
+                  </string-name>, <etal>et al.</etal>
+               </person-group> 
+               <article-title>Social benefits of non-criminal genetic databases: missing persons and human remains identification</article-title>. <source>Int J Legal Med</source>. <year>2002</year> 
+               <month>Jun</month>;<volume>116</volume>(<issue>3</issue>):<fpage>187</fpage>–<lpage>90</lpage>. <pub-id pub-id-type="doi">10.1007/s004140100255</pub-id>
+               <pub-id pub-id-type="pmid">12111326</pub-id>
+               <issn>0937-9827</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b19">
+            <label>19.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Bär</surname> 
+                     <given-names>W</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Brinkmann</surname> 
+                     <given-names>B</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Budowle</surname> 
+                     <given-names>B</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Carracedo</surname> 
+                     <given-names>A</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Gill</surname> 
+                     <given-names>P</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Holland</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <etal>et al.</etal>
+               </person-group> 
+               <article-title>DNA commission of the International society for forensic genetics: guidelines for mitochondrial DNA typing</article-title>. <source>Int J Legal Med</source>. <year>2000</year>;<volume>113</volume>(<issue>4</issue>):<fpage>193</fpage>–<lpage>6</lpage>. <pub-id pub-id-type="doi">10.1007/s004140000149</pub-id>
+               <pub-id pub-id-type="pmid">10929233</pub-id>
+               <issn>0937-9827</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b20">
+            <label>20.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Allen</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Engström</surname> 
+                     <given-names>AS</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Meyers</surname> 
+                     <given-names>S</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Handt</surname> 
+                     <given-names>O</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Saldeen</surname> 
+                     <given-names>T</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>von Haeseler</surname> 
+                     <given-names>A</given-names>
+                  </string-name>, <etal>et al.</etal>
+               </person-group> 
+               <article-title>Mitochondrial DNA sequencing of shed hairs and saliva on robbery caps: sensitivity and matching probabilities</article-title>. <source>J Forensic Sci</source>. <year>1998</year> 
+               <month>May</month>;<volume>43</volume>(<issue>3</issue>):<fpage>453</fpage>–<lpage>64</lpage>. <pub-id pub-id-type="doi">10.1520/JFS16169J</pub-id>
+               <pub-id pub-id-type="pmid">9608683</pub-id>
+               <issn>0022-1198</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b21">
+            <label>21.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Parson</surname> 
+                     <given-names>W</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Brandstätter</surname> 
+                     <given-names>A</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Alonso</surname> 
+                     <given-names>A</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Brandt</surname> 
+                     <given-names>N</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Brinkmann</surname> 
+                     <given-names>B</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Carracedo</surname> 
+                     <given-names>A</given-names>
+                  </string-name>, <etal>et al.</etal>
+               </person-group> 
+               <article-title>The EDNAP mitochondrial DNA population database (EMPOP) collaborative exercises: organisation, results and perspectives</article-title>. <source>Forensic Sci Int</source>. <year>2004</year> 
+               <month>Jan</month>;<volume>139</volume>(<issue>2-3</issue>):<fpage>215</fpage>–<lpage>26</lpage>. <pub-id pub-id-type="doi">10.1016/j.forsciint.2003.11.008</pub-id>
+               <pub-id pub-id-type="pmid">15040920</pub-id>
+               <issn>0379-0738</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b22">
+            <label>22.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Linch</surname> 
+                     <given-names>CA</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Whiting</surname> 
+                     <given-names>DA</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Holland</surname> 
+                     <given-names>MM</given-names>
+                  </string-name>
+               </person-group>. <article-title>Human hair histogenesis for the mitochondrial DNA forensic scientist</article-title>. <source>J Forensic Sci</source>. <year>2001</year> 
+               <month>Jul</month>;<volume>46</volume>(<issue>4</issue>):<fpage>844</fpage>–<lpage>53</lpage>. <pub-id pub-id-type="doi">10.1520/JFS15056J</pub-id>
+               <pub-id pub-id-type="pmid">11451065</pub-id>
+               <issn>0022-1198</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b23">
+            <label>23.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Wilson</surname> 
+                     <given-names>MR</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Polanskey</surname> 
+                     <given-names>D</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Replogle</surname> 
+                     <given-names>J</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>DiZinno</surname> 
+                     <given-names>JA</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Budowle</surname> 
+                     <given-names>B</given-names>
+                  </string-name>
+               </person-group>. <article-title>A family exhibiting heteroplasmy in the human mitochondrial DNA control region reveals both somatic mosaicism and pronounced segregation of mitotypes</article-title>. <source>Hum Genet</source>. <year>1997</year> 
+               <month>Aug</month>;<volume>100</volume>(<issue>2</issue>):<fpage>167</fpage>–<lpage>71</lpage>. <pub-id pub-id-type="doi">10.1007/s004390050485</pub-id>
+               <pub-id pub-id-type="pmid">9254844</pub-id>
+               <issn>0340-6717</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b24">
+            <label>24.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Tully</surname> 
+                     <given-names>G</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Barritt</surname> 
+                     <given-names>SM</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Bender</surname> 
+                     <given-names>K</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Brignon</surname> 
+                     <given-names>E</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Capelli</surname> 
+                     <given-names>C</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Dimo-Simonin</surname> 
+                     <given-names>N</given-names>
+                  </string-name>, <etal>et al.</etal>
+               </person-group> 
+               <article-title>Results of a collaborative study of the EDNAP group regarding mitochondrial DNA heteroplasmy and segregation in hair shafts</article-title>. <source>Forensic Sci Int</source>. <year>2004</year> 
+               <month>Feb</month>;<volume>140</volume>(<issue>1</issue>):<fpage>1</fpage>–<lpage>11</lpage>. <pub-id pub-id-type="doi">10.1016/S0379-0738(03)00181-6</pub-id>
+               <pub-id pub-id-type="pmid">15013160</pub-id>
+               <issn>0379-0738</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b25">
+            <label>25.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Calloway</surname> 
+                     <given-names>CD</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Reynolds</surname> 
+                     <given-names>RL</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Herrin</surname> 
+                     <given-names>GL</given-names> 
+                     <suffix>Jr</suffix>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Anderson</surname> 
+                     <given-names>WW</given-names>
+                  </string-name>
+               </person-group>. <article-title>The frequency of heteroplasmy in the HVII region of mtDNA differs across tissue types and increases with age</article-title>. <source>Am J Hum Genet</source>. <year>2000</year> 
+               <month>Apr</month>;<volume>66</volume>(<issue>4</issue>):<fpage>1384</fpage>–<lpage>97</lpage>. <pub-id pub-id-type="doi">10.1086/302844</pub-id>
+               <pub-id pub-id-type="pmid">10739761</pub-id>
+               <issn>0002-9297</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b26">
+            <label>26.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Gill</surname> 
+                     <given-names>P</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Ivanov</surname> 
+                     <given-names>PL</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Kimpton</surname> 
+                     <given-names>C</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Piercy</surname> 
+                     <given-names>R</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Benson</surname> 
+                     <given-names>N</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Tully</surname> 
+                     <given-names>G</given-names>
+                  </string-name>, <etal>et al.</etal>
+               </person-group> 
+               <article-title>Identification of the remains of the Romanov family by DNA analysis</article-title>. <source>Nat Genet</source>. <year>1994</year> 
+               <month>Feb</month>;<volume>6</volume>(<issue>2</issue>):<fpage>130</fpage>–<lpage>5</lpage>. <pub-id pub-id-type="doi">10.1038/ng0294-130</pub-id>
+               <pub-id pub-id-type="pmid">8162066</pub-id>
+               <issn>1061-4036</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b27">
+            <label>27.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Ivanov</surname> 
+                     <given-names>PL</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Wadhams</surname> 
+                     <given-names>MJ</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Roby</surname> 
+                     <given-names>RK</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Holland</surname> 
+                     <given-names>MM</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Weedn</surname> 
+                     <given-names>VW</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Parsons</surname> 
+                     <given-names>TJ</given-names>
+                  </string-name>
+               </person-group>. <article-title>Mitochondrial DNA sequence heteroplasmy in the Grand Duke of Russia Georgij Romanov establishes the authenticity of the remains of Tsar Nicholas II</article-title>. <source>Nat Genet</source>. <year>1996</year> 
+               <month>Apr</month>;<volume>12</volume>(<issue>4</issue>):<fpage>417</fpage>–<lpage>20</lpage>. <pub-id pub-id-type="doi">10.1038/ng0496-417</pub-id>
+               <pub-id pub-id-type="pmid">8630496</pub-id>
+               <issn>1061-4036</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b28">
+            <label>28.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Parsons</surname> 
+                     <given-names>TJ</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Muniec</surname> 
+                     <given-names>DS</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Sullivan</surname> 
+                     <given-names>K</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Woodyatt</surname> 
+                     <given-names>N</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Alliston-Greiner</surname> 
+                     <given-names>R</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Wilson</surname> 
+                     <given-names>MR</given-names>
+                  </string-name>, <etal>et al.</etal>
+               </person-group> 
+               <article-title>A high observed substitution rate in the human mitochondrial DNA control region</article-title>. <source>Nat Genet</source>. <year>1997</year> 
+               <month>Apr</month>;<volume>15</volume>(<issue>4</issue>):<fpage>363</fpage>–<lpage>8</lpage>. <pub-id pub-id-type="doi">10.1038/ng0497-363</pub-id>
+               <pub-id pub-id-type="pmid">9090380</pub-id>
+               <issn>1061-4036</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b29">
+            <label>29.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Bendall</surname> 
+                     <given-names>KE</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Macaulay</surname> 
+                     <given-names>VA</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Baker</surname> 
+                     <given-names>JR</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Sykes</surname> 
+                     <given-names>BC</given-names>
+                  </string-name>
+               </person-group>. <article-title>Heteroplasmic point mutations in the human mtDNA control region</article-title>. <source>Am J Hum Genet</source>. <year>1996</year> 
+               <month>Dec</month>;<volume>59</volume>(<issue>6</issue>):<fpage>1276</fpage>–<lpage>87</lpage>.<pub-id pub-id-type="pmid">8940273</pub-id>
+               <issn>0002-9297</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b30">
+            <label>30.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Campos</surname> 
+                     <given-names>PF</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Craig</surname> 
+                     <given-names>OE</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Turner-Walker</surname> 
+                     <given-names>G</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Peacock</surname> 
+                     <given-names>E</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Willerslev</surname> 
+                     <given-names>E</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Gilbert</surname> 
+                     <given-names>MT</given-names>
+                  </string-name>
+               </person-group>. <article-title>DNA in ancient bone - where is it located and how should we extract it?</article-title> 
+               <source>Ann Anat</source>. <year>2012</year> 
+               <month>Jan</month>;<volume>194</volume>(<issue>1</issue>):<fpage>7</fpage>–<lpage>16</lpage>. <pub-id pub-id-type="doi">10.1016/j.aanat.2011.07.003</pub-id>
+               <pub-id pub-id-type="pmid">21855309</pub-id>
+               <issn>0940-9602</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b31">
+            <label>31. </label>
+            <mixed-citation publication-type="book" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Allen</surname> 
+                     <given-names>C</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Harper</surname> 
+                     <given-names>V</given-names>
+                  </string-name>
+               </person-group>. <source>Laboratory Manual for Anatomy and Physiology</source>. <edition>4th ed.</edition> 
+               <publisher-loc>Hoboken (NJ)</publisher-loc>: <publisher-name>Wiley</publisher-name>; <year>2011</year>. pp. <fpage>96</fpage>–<lpage>8</lpage>.</mixed-citation>
+         </ref>
+         <ref id="b32">
+            <label>32.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Kemp</surname> 
+                     <given-names>BM</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Smith</surname> 
+                     <given-names>DG</given-names>
+                  </string-name>
+               </person-group>. <article-title>Use of bleach to eliminate contaminating DNA from the surface of bones and teeth</article-title>. <source>Forensic Sci Int</source>. <year>2005</year> 
+               <month>Nov</month>;<volume>154</volume>(<issue>1</issue>):<fpage>53</fpage>–<lpage>61</lpage>. <pub-id pub-id-type="doi">10.1016/j.forsciint.2004.11.017</pub-id>
+               <pub-id pub-id-type="pmid">16182949</pub-id>
+               <issn>0379-0738</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b33">
+            <label>33.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Hochmeister</surname> 
+                     <given-names>MN</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Budowle</surname> 
+                     <given-names>B</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Borer</surname> 
+                     <given-names>UV</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Eggmann</surname> 
+                     <given-names>U</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Comey</surname> 
+                     <given-names>CT</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Dirnhofer</surname> 
+                     <given-names>R</given-names>
+                  </string-name>
+               </person-group>. <article-title>Typing of deoxyribonucleic acid (DNA) extracted from compact bone from human remains</article-title>. <source>J Forensic Sci</source>. <year>1991</year> 
+               <month>Nov</month>;<volume>36</volume>(<issue>6</issue>):<fpage>1649</fpage>–<lpage>61</lpage>. <pub-id pub-id-type="doi">10.1520/JFS13189J</pub-id>
+               <pub-id pub-id-type="pmid">1685164</pub-id>
+               <issn>0022-1198</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b34">
+            <label>34.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Hagelberg</surname> 
+                     <given-names>E</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Sykes</surname> 
+                     <given-names>B</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Hedges</surname> 
+                     <given-names>R</given-names>
+                  </string-name>
+               </person-group>. <article-title>Ancient bone DNA amplified</article-title>. <source>Nature</source>. <year>1989</year> 
+               <month>Nov</month>;<volume>342</volume>(<issue>6249</issue>):<fpage>485</fpage>. <pub-id pub-id-type="doi">10.1038/342485a0</pub-id>
+               <pub-id pub-id-type="pmid">2586623</pub-id>
+               <issn>0028-0836</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b35">
+            <label>35.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Miloš</surname> 
+                     <given-names>A</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Selmanović</surname> 
+                     <given-names>A</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Smajlović</surname> 
+                     <given-names>L</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Huel</surname> 
+                     <given-names>RL</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Katzmarzyk</surname> 
+                     <given-names>C</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Rizvić</surname> 
+                     <given-names>A</given-names>
+                  </string-name>, <etal>et al.</etal>
+               </person-group> 
+               <article-title>Success rates of nuclear short tandem repeat typing from different skeletal elements</article-title>. <source>Croat Med J</source>. <year>2007</year> 
+               <month>Aug</month>;<volume>48</volume>(<issue>4</issue>):<fpage>486</fpage>–<lpage>93</lpage>.<pub-id pub-id-type="pmid">17696303</pub-id>
+               <issn>1332-8166</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b36">
+            <label>36.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Hansen</surname> 
+                     <given-names>HB</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Damgaard</surname> 
+                     <given-names>PB</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Margaryan</surname> 
+                     <given-names>A</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Stenderup</surname> 
+                     <given-names>J</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Lynnerup</surname> 
+                     <given-names>N</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Willerslev</surname> 
+                     <given-names>E</given-names>
+                  </string-name>, <etal>et al.</etal>
+               </person-group> 
+               <article-title>Comparing Ancient DNA Preservation in Petrous Bone and Tooth Cementum</article-title>. <source>PLoS One</source>. <year>2017</year> 
+               <month>Jan</month>;<volume>12</volume>(<issue>1</issue>):<fpage>e0170940</fpage>. <pub-id pub-id-type="doi">10.1371/journal.pone.0170940</pub-id>
+               <pub-id pub-id-type="pmid">28129388</pub-id>
+               <issn>1932-6203</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b37">
+            <label>37.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Siriboonpiputtana</surname> 
+                     <given-names>T</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Rinthachai</surname> 
+                     <given-names>T</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Shotivaranon</surname> 
+                     <given-names>J</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Peonim</surname> 
+                     <given-names>V</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Rerkamnuaychoke</surname> 
+                     <given-names>B</given-names>
+                  </string-name>
+               </person-group>. <article-title>Forensic genetic analysis of bone remain samples</article-title>. <source>Forensic Sci Int</source>. <year>2018</year> 
+               <month>Mar</month>;<volume>284</volume>:<fpage>167</fpage>–<lpage>75</lpage>. <pub-id pub-id-type="doi">10.1016/j.forsciint.2017.12.045</pub-id>
+               <pub-id pub-id-type="pmid">29408726</pub-id>
+               <issn>0379-0738</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b38">
+            <label>38.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Mundorff</surname> 
+                     <given-names>A</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Davoren</surname> 
+                     <given-names>JM</given-names>
+                  </string-name>
+               </person-group>. <article-title>Examination of DNA yield rates for different skeletal elements at increasing post mortem intervals</article-title>. <source>Forensic Sci Int Genet</source>. <year>2014</year> 
+               <month>Jan</month>;<volume>8</volume>(<issue>1</issue>):<fpage>55</fpage>–<lpage>63</lpage>. <pub-id pub-id-type="doi">10.1016/j.fsigen.2013.08.001</pub-id>
+               <pub-id pub-id-type="pmid">24315589</pub-id>
+               <issn>1872-4973</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b39">
+            <label>39.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Andronowski</surname> 
+                     <given-names>JM</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Mundorff</surname> 
+                     <given-names>AZ</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Pratt</surname> 
+                     <given-names>IV</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Davoren</surname> 
+                     <given-names>JM</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Cooper</surname> 
+                     <given-names>DM</given-names>
+                  </string-name>
+               </person-group>. <article-title>Evaluating differential nuclear DNA yield rates and osteocyte numbers among human bone tissue types: A synchrotron radiation micro-CT approach</article-title>. <source>Forensic Sci Int Genet</source>. <year>2017</year> 
+               <month>May</month>;<volume>28</volume>:<fpage>211</fpage>–<lpage>8</lpage>. <pub-id pub-id-type="doi">10.1016/j.fsigen.2017.03.002</pub-id>
+               <pub-id pub-id-type="pmid">28315820</pub-id>
+               <issn>1872-4973</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b40">
+            <label>40.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Alvarez García</surname> 
+                     <given-names>A</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Muñoz</surname> 
+                     <given-names>I</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Pestoni</surname> 
+                     <given-names>C</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Lareu</surname> 
+                     <given-names>MV</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Rodríguez-Calvo</surname> 
+                     <given-names>MS</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Carracedo</surname> 
+                     <given-names>A</given-names>
+                  </string-name>
+               </person-group>. <article-title>Effect of environmental factors on PCR-DNA analysis from dental pulp</article-title>. <source>Int J Legal Med</source>. <year>1996</year>r;<volume>109</volume>(<issue>3</issue>):<fpage>125</fpage>–<lpage>9</lpage>. <pub-id pub-id-type="doi">10.1007/BF01369671</pub-id>
+               <pub-id pub-id-type="pmid">8956985</pub-id>
+               <issn>0937-9827</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b41">
+            <label>41.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Rubio</surname> 
+                     <given-names>L</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Martinez</surname> 
+                     <given-names>LJ</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Martinez</surname> 
+                     <given-names>E</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Martin de las Heras</surname> 
+                     <given-names>S</given-names>
+                  </string-name>
+               </person-group>. <article-title>Study of short- and long-term storage of teeth and its influence on DNA</article-title>. <source>J Forensic Sci</source>. <year>2009</year> 
+               <month>Nov</month>;<volume>54</volume>(<issue>6</issue>):<fpage>1411</fpage>–<lpage>3</lpage>. <pub-id pub-id-type="doi">10.1111/j.1556-4029.2009.01159.x</pub-id>
+               <pub-id pub-id-type="pmid">19804532</pub-id>
+               <issn>0022-1198</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b42">
+            <label>42.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Higgins</surname> 
+                     <given-names>D</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Austin</surname> 
+                     <given-names>JJ</given-names>
+                  </string-name>
+               </person-group>. <article-title>Teeth as a source of DNA for forensic identification of human remains: a review</article-title>. <source>Sci Justice</source>. <year>2013</year> 
+               <month>Dec</month>;<volume>53</volume>(<issue>4</issue>):<fpage>433</fpage>–<lpage>41</lpage>. <pub-id pub-id-type="doi">10.1016/j.scijus.2013.06.001</pub-id>
+               <pub-id pub-id-type="pmid">24188345</pub-id>
+               <issn>1355-0306</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b43">
+            <label>43.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Mansour</surname> 
+                     <given-names>H</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Krebs</surname> 
+                     <given-names>O</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Sperhake</surname> 
+                     <given-names>JP</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Augustin</surname> 
+                     <given-names>C</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Koehne</surname> 
+                     <given-names>T</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Amling</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <etal>et al.</etal>
+               </person-group> 
+               <article-title>Cementum as a source of DNA in challenging forensic cases</article-title>. <source>J Forensic Leg Med</source>. <year>2018</year> 
+               <month>Feb</month>;<volume>54</volume>:<fpage>76</fpage>–<lpage>81</lpage>. <pub-id pub-id-type="doi">10.1016/j.jflm.2017.12.015</pub-id>
+               <pub-id pub-id-type="pmid">29328966</pub-id>
+               <issn>1752-928X</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b44">
+            <label>44.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Smith</surname> 
+                     <given-names>BC</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Fisher</surname> 
+                     <given-names>DL</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Weedn</surname> 
+                     <given-names>VW</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Warnock</surname> 
+                     <given-names>GR</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Holland</surname> 
+                     <given-names>MM</given-names>
+                  </string-name>
+               </person-group>. <article-title>A systematic approach to the sampling of dental DNA</article-title>. <source>J Forensic Sci</source>. <year>1993</year> 
+               <month>Sep</month>;<volume>38</volume>(<issue>5</issue>):<fpage>1194</fpage>–<lpage>209</lpage>. <pub-id pub-id-type="doi">10.1520/JFS13524J</pub-id>
+               <pub-id pub-id-type="pmid">8228888</pub-id>
+               <issn>0022-1198</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b45">
+            <label>45.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Higgins</surname> 
+                     <given-names>D</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Kaidonis</surname> 
+                     <given-names>J</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Austin</surname> 
+                     <given-names>J</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Townsend</surname> 
+                     <given-names>G</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>James</surname> 
+                     <given-names>H</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Hughes</surname> 
+                     <given-names>T</given-names>
+                  </string-name>
+               </person-group>. <article-title>Dentine and cementum as sources of nuclear DNA for use in human identification</article-title>. <source>Aust J Forensic Sci</source>. <year>2011</year>;<volume>43</volume>(<issue>4</issue>):<fpage>287</fpage>–<lpage>95</lpage>. <pub-id pub-id-type="doi">10.1080/00450618.2011.583278</pub-id>
+               <issn>0045-0618</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b46">
+            <label>46.	</label>
+            <mixed-citation publication-type="legal-doc" specific-use="unparsed">Petrovič D, Zorc M. Histologija, Univerza v Ljubljani Medicinska fakulteta Inštitut za histologijo in embriologijo, Ljubljana, 2005:35-42, 115-123, 166-168.</mixed-citation>
+         </ref>
+         <ref id="b47">
+            <label>47.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Gilbert</surname> 
+                     <given-names>MT</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Janaway</surname> 
+                     <given-names>RC</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Tobin</surname> 
+                     <given-names>DJ</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Cooper</surname> 
+                     <given-names>A</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Wilson</surname> 
+                     <given-names>AS</given-names>
+                  </string-name>
+               </person-group>. <article-title>Histological correlates of post mortem mitochondrial DNA damage in degraded hair</article-title>. <source>Forensic Sci Int</source>. <year>2006</year> 
+               <month>Jan</month>;<volume>156</volume>(<issue>2-3</issue>):<fpage>201</fpage>–<lpage>7</lpage>. <pub-id pub-id-type="doi">10.1016/j.forsciint.2005.02.019</pub-id>
+               <pub-id pub-id-type="pmid">15922527</pub-id>
+               <issn>0379-0738</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b48">
+            <label>48.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Schlenker</surname> 
+                     <given-names>A</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Grimble</surname> 
+                     <given-names>K</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Azim</surname> 
+                     <given-names>A</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Owen</surname> 
+                     <given-names>R</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Hartman</surname> 
+                     <given-names>D</given-names>
+                  </string-name>
+               </person-group>. <article-title>Toenails as an alternative source material for the extraction of DNA from decomposed human remains</article-title>. <source>Forensic Sci Int</source>. <year>2016</year> 
+               <month>Jan</month>;<volume>258</volume>:<fpage>1</fpage>–<lpage>10</lpage>. <pub-id pub-id-type="doi">10.1016/j.forsciint.2015.10.025</pub-id>
+               <pub-id pub-id-type="pmid">26610200</pub-id>
+               <issn>0379-0738</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b49">
+            <label>49.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Cline</surname> 
+                     <given-names>RE</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Laurent</surname> 
+                     <given-names>NM</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Foran</surname> 
+                     <given-names>DR</given-names>
+                  </string-name>
+               </person-group>. <article-title>The fingernails of Mary Sullivan: developing reliable methods for selectively isolating endogenous and exogenous DNA from evidence</article-title>. <source>J Forensic Sci</source>. <year>2003</year> 
+               <month>Mar</month>;<volume>48</volume>(<issue>2</issue>):<fpage>328</fpage>–<lpage>33</lpage>. <pub-id pub-id-type="doi">10.1520/JFS2002107</pub-id>
+               <pub-id pub-id-type="pmid">12664990</pub-id>
+               <issn>0022-1198</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b50">
+            <label>50.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Hellmann</surname> 
+                     <given-names>A</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Rohleder</surname> 
+                     <given-names>U</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Schmitter</surname> 
+                     <given-names>H</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Wittig</surname> 
+                     <given-names>M</given-names>
+                  </string-name>
+               </person-group>. <article-title>STR typing of human telogen hairs—a new approach</article-title>. <source>Int J Legal Med</source>. <year>2001</year>;<volume>114</volume>(<issue>4-5</issue>):<fpage>269</fpage>–<lpage>73</lpage>. <pub-id pub-id-type="doi">10.1007/s004140000175</pub-id>
+               <pub-id pub-id-type="pmid">11355409</pub-id>
+               <issn>0937-9827</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b51">
+            <label>51.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Gallimore</surname> 
+                     <given-names>JM</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>McElhoe</surname> 
+                     <given-names>JA</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Holland</surname> 
+                     <given-names>MM</given-names>
+                  </string-name>
+               </person-group>. <article-title>Assessing heteroplasmic variant drift in the mtDNA control region of human hairs using an MPS approach</article-title>. <source>Forensic Sci Int Genet</source>. <year>2018</year> 
+               <month>Jan</month>;<volume>32</volume>:<fpage>7</fpage>–<lpage>17</lpage>. <pub-id pub-id-type="doi">10.1016/j.fsigen.2017.09.013</pub-id>
+               <pub-id pub-id-type="pmid">29024924</pub-id>
+               <issn>1872-4973</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b52">
+            <label>52.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Linch</surname> 
+                     <given-names>CA</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Smith</surname> 
+                     <given-names>SL</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Prahlow</surname> 
+                     <given-names>JA</given-names>
+                  </string-name>
+               </person-group>. <article-title>Evaluation of the human hair root for DNA typing subsequent to microscopic comparison</article-title>. <source>J Forensic Sci</source>. <year>1998</year> 
+               <month>Mar</month>;<volume>43</volume>(<issue>2</issue>):<fpage>305</fpage>–<lpage>14</lpage>. <pub-id pub-id-type="doi">10.1520/JFS16137J</pub-id>
+               <pub-id pub-id-type="pmid">9544538</pub-id>
+               <issn>0022-1198</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b53">
+            <label>53.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Graffy</surname> 
+                     <given-names>EA</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Foran</surname> 
+                     <given-names>DR</given-names>
+                  </string-name>
+               </person-group>. <article-title>A simplified method for mitochondrial DNA extraction from head hair shafts</article-title>. <source>J Forensic Sci</source>. <year>2005</year> 
+               <month>Sep</month>;<volume>50</volume>(<issue>5</issue>):<fpage>1119</fpage>–<lpage>22</lpage>. <pub-id pub-id-type="doi">10.1520/JFS2005126</pub-id>
+               <pub-id pub-id-type="pmid">16225218</pub-id>
+               <issn>0022-1198</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b54">
+            <label>54.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Baker</surname> 
+                     <given-names>LE</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>McCormick</surname> 
+                     <given-names>WF</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Matteson</surname> 
+                     <given-names>KJ</given-names>
+                  </string-name>
+               </person-group>. <article-title>A silica-based mitochondrial DNA extraction method applied to forensic hair shafts and teeth</article-title>. <source>J Forensic Sci</source>. <year>2001</year> 
+               <month>Jan</month>;<volume>46</volume>(<issue>1</issue>):<fpage>126</fpage>–<lpage>30</lpage>. <pub-id pub-id-type="doi">10.1520/JFS14923J</pub-id>
+               <pub-id pub-id-type="pmid">11210897</pub-id>
+               <issn>0022-1198</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b55">
+            <label>55.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>McNevin</surname> 
+                     <given-names>D</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Wilson-Wilde</surname> 
+                     <given-names>L</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Robertson</surname> 
+                     <given-names>J</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Kyd</surname> 
+                     <given-names>J</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Lennard</surname> 
+                     <given-names>C</given-names>
+                  </string-name>
+               </person-group>. <article-title>Short tandem repeat (STR) genotyping of keratinised hair. Part 2. An optimised genomic DNA extraction procedure reveals donor dependence of STR profiles</article-title>. <source>Forensic Sci Int</source>. <year>2005</year> 
+               <month>Oct</month>;<volume>153</volume>(<issue>2-3</issue>):<fpage>247</fpage>–<lpage>59</lpage>. <pub-id pub-id-type="doi">10.1016/j.forsciint.2005.05.005</pub-id>
+               <pub-id pub-id-type="pmid">15998572</pub-id>
+               <issn>0379-0738</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b56">
+            <label>56.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Johnson</surname> 
+                     <given-names>DJ</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Martin</surname> 
+                     <given-names>LR</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Roberts</surname> 
+                     <given-names>KA</given-names>
+                  </string-name>
+               </person-group>. <article-title>STR-typing of human DNA from human fecal matter using the QIAGEN QIAamp stool mini kit</article-title>. <source>J Forensic Sci</source>. <year>2005</year> 
+               <month>Jul</month>;<volume>50</volume>(<issue>4</issue>):<fpage>802</fpage>–<lpage>8</lpage>. <pub-id pub-id-type="doi">10.1520/JFS2004428</pub-id>
+               <pub-id pub-id-type="pmid">16078481</pub-id>
+               <issn>0022-1198</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b57">
+            <label>57.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Roy</surname> 
+                     <given-names>R</given-names>
+                  </string-name>
+               </person-group>. <article-title>Analysis of human fecal material for autosomal and Y chromosome STRs</article-title>. <source>J Forensic Sci</source>. <year>2003</year> 
+               <month>Sep</month>;<volume>48</volume>(<issue>5</issue>):<fpage>1035</fpage>–<lpage>40</lpage>. <pub-id pub-id-type="doi">10.1520/JFS2002348</pub-id>
+               <pub-id pub-id-type="pmid">14535665</pub-id>
+               <issn>0022-1198</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b58">
+            <label>58.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Vandenberg</surname> 
+                     <given-names>N</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>van Oorschot</surname> 
+                     <given-names>RA</given-names>
+                  </string-name>
+               </person-group>. <article-title>Extraction of human nuclear DNA from feces samples using the QIAamp DNA Stool Mini Kit</article-title>. <source>J Forensic Sci</source>. <year>2002</year> 
+               <month>Sep</month>;<volume>47</volume>(<issue>5</issue>):<fpage>993</fpage>–<lpage>5</lpage>. <pub-id pub-id-type="doi">10.1520/JFS15502J</pub-id>
+               <pub-id pub-id-type="pmid">12353586</pub-id>
+               <issn>0022-1198</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b59">
+            <label>59.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Sípoli Marques</surname> 
+                     <given-names>MA</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Pinto Damasceno</surname> 
+                     <given-names>LM</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Gualberto Pereira</surname> 
+                     <given-names>HM</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Caldeira</surname> 
+                     <given-names>CM</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Pereira Dias</surname> 
+                     <given-names>BF</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>de Giacomo Vargens</surname> 
+                     <given-names>D</given-names>
+                  </string-name>, <etal>et al.</etal>
+               </person-group> 
+               <article-title>DNA typing: an accessory evidence in doping control</article-title>. <source>J Forensic Sci</source>. <year>2005</year> 
+               <month>May</month>;<volume>50</volume>(<issue>3</issue>):<fpage>587</fpage>–<lpage>92</lpage>.<pub-id pub-id-type="pmid">15932091</pub-id>
+               <issn>0022-1198</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b60">
+            <label>60.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Tsongalis</surname> 
+                     <given-names>GJ</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Anamani</surname> 
+                     <given-names>DE</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Wu</surname> 
+                     <given-names>AH</given-names>
+                  </string-name>
+               </person-group>. <article-title>Identification of urine specimen donors by the PM+DQA1 amplification and typing kit</article-title>. <source>J Forensic Sci</source>. <year>1996</year> 
+               <month>Nov</month>;<volume>41</volume>(<issue>6</issue>):<fpage>1031</fpage>–<lpage>4</lpage>. <pub-id pub-id-type="doi">10.1520/JFS14043J</pub-id>
+               <pub-id pub-id-type="pmid">8914292</pub-id>
+               <issn>0022-1198</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b61">
+            <label>61.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Linfert</surname> 
+                     <given-names>DR</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Wu</surname> 
+                     <given-names>AH</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Tsongalis</surname> 
+                     <given-names>GJ</given-names>
+                  </string-name>
+               </person-group>. <article-title>The effect of pathologic substances and adulterants on the DNA typing of urine</article-title>. <source>J Forensic Sci</source>. <year>1998</year> 
+               <month>Sep</month>;<volume>43</volume>(<issue>5</issue>):<fpage>1041</fpage>–<lpage>5</lpage>. <pub-id pub-id-type="doi">10.1520/JFS14354J</pub-id>
+               <pub-id pub-id-type="pmid">9729822</pub-id>
+               <issn>0022-1198</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b62">
+            <label>62.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Milde</surname> 
+                     <given-names>A</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Haas-Rochholz</surname> 
+                     <given-names>H</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Kaatsch</surname> 
+                     <given-names>HJ</given-names>
+                  </string-name>
+               </person-group>. <article-title>Improved DNA typing of human urine by adding EDTA</article-title>. <source>Int J Legal Med</source>. <year>1999</year>;<volume>112</volume>(<issue>3</issue>):<fpage>209</fpage>–<lpage>10</lpage>. <pub-id pub-id-type="doi">10.1007/s004140050237</pub-id>
+               <pub-id pub-id-type="pmid">10335891</pub-id>
+               <issn>0937-9827</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b63">
+            <label>63.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Tsuchimochi</surname> 
+                     <given-names>T</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Iwasa</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Maeno</surname> 
+                     <given-names>Y</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Koyama</surname> 
+                     <given-names>H</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Inoue</surname> 
+                     <given-names>H</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Isobe</surname> 
+                     <given-names>I</given-names>
+                  </string-name>, <etal>et al.</etal>
+               </person-group> 
+               <article-title>Chelating resin-based extraction of DNA from dental pulp and sex determination from incinerated teeth with Y-chromosomal alphoid repeat and short tandem repeats</article-title>. <source>Am J Forensic Med Pathol</source>. <year>2002</year> 
+               <month>Sep</month>;<volume>23</volume>(<issue>3</issue>):<fpage>268</fpage>–<lpage>71</lpage>. <pub-id pub-id-type="doi">10.1097/00000433-200209000-00013</pub-id>
+               <pub-id pub-id-type="pmid">12198355</pub-id>
+               <issn>0195-7910</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b64">
+            <label>64.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Rohland</surname> 
+                     <given-names>N</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Hofreiter</surname> 
+                     <given-names>M</given-names>
+                  </string-name>
+               </person-group>. <article-title>Ancient DNA extraction from bones and teeth</article-title>. <source>Nat Protoc</source>. <year>2007</year>;<volume>2</volume>(<issue>7</issue>):<fpage>1756</fpage>–<lpage>62</lpage>. <pub-id pub-id-type="doi">10.1038/nprot.2007.247</pub-id>
+               <pub-id pub-id-type="pmid">17641642</pub-id>
+               <issn>1754-2189</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b65">
+            <label>65.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Parson</surname> 
+                     <given-names>W</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Gusmão</surname> 
+                     <given-names>L</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Hares</surname> 
+                     <given-names>DR</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Irwin</surname> 
+                     <given-names>JA</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Mayr</surname> 
+                     <given-names>WR</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Morling</surname> 
+                     <given-names>N</given-names>
+                  </string-name>, <etal>et al.</etal>
+               </person-group> 
+               <article-title>DNA Commission ofthe International Society for Forensic Genetics: revised and extended guidelines for mtDNAtyping</article-title>. <source>Forensic Sci Int Genet</source>. <year>2014</year>;<volume>13</volume>:<fpage>134</fpage>–<lpage>42</lpage>. <pub-id pub-id-type="doi">10.1016/j.fsigen.2014.07.010</pub-id>
+               <pub-id pub-id-type="pmid">25117402</pub-id>
+               <issn>1872-4973</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b66">
+            <label>66.	</label>
+            <mixed-citation publication-type="book-chapter" specific-use="unparsed">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Zupanič Pajnič</surname> 
+                     <given-names>I</given-names>
+                  </string-name>
+               </person-group>. <chapter-title>Extraction of DNA from Human Skeletal Material.</chapter-title> In: Goodwin W: Forensic DNA Typing Protocols. Methods in Molecular Biology. Humana Press, New York, NY, <year>2016</year>;1420:89-108.</mixed-citation>
+         </ref>
+         <ref id="b67">
+            <label>67.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Jehaes</surname> 
+                     <given-names>E</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Decorte</surname> 
+                     <given-names>R</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Peneau</surname> 
+                     <given-names>A</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Petrie</surname> 
+                     <given-names>JH</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Boiry</surname> 
+                     <given-names>PA</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Gilissen</surname> 
+                     <given-names>A</given-names>
+                  </string-name>, <etal>et al.</etal>
+               </person-group> 
+               <article-title>Mitochondrial DNA analysis on remains of a putative son of Louis XVI, King of France and Marie-Antoinette</article-title>. <source>Eur J Hum Genet</source>. <year>1998</year> 
+               <month>Jul-Aug</month>;<volume>6</volume>(<issue>4</issue>):<fpage>383</fpage>–<lpage>95</lpage>. <pub-id pub-id-type="doi">10.1038/sj.ejhg.5200227</pub-id>
+               <pub-id pub-id-type="pmid">9781047</pub-id>
+               <issn>1018-4813</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b68">
+            <label>68.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Anslinger</surname> 
+                     <given-names>K</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Weichhold</surname> 
+                     <given-names>G</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Keil</surname> 
+                     <given-names>W</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Bayer</surname> 
+                     <given-names>B</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Eisenmenger</surname> 
+                     <given-names>W</given-names>
+                  </string-name>
+               </person-group>. <article-title>Identification of the skeletal remains of Martin Bormann by mtDNA analysis</article-title>. <source>Int J Legal Med</source>. <year>2001</year>;<volume>114</volume>(<issue>3</issue>):<fpage>194</fpage>–<lpage>6</lpage>. <pub-id pub-id-type="doi">10.1007/s004140000176</pub-id>
+               <pub-id pub-id-type="pmid">11296895</pub-id>
+               <issn>0937-9827</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b69">
+            <label>69.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Parson</surname> 
+                     <given-names>W</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Brandstätter</surname> 
+                     <given-names>A</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Niederstätter</surname> 
+                     <given-names>H</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Grubwieser</surname> 
+                     <given-names>P</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Scheithauer</surname> 
+                     <given-names>R</given-names>
+                  </string-name>
+               </person-group>. <article-title>Unravelling the mystery of Nanga Parbat</article-title>. <source>Int J Legal Med</source>. <year>2007</year> 
+               <month>Jul</month>;<volume>121</volume>(<issue>4</issue>):<fpage>309</fpage>–<lpage>10</lpage>. <pub-id pub-id-type="doi">10.1007/s00414-006-0098-6</pub-id>
+               <pub-id pub-id-type="pmid">16673142</pub-id>
+               <issn>0937-9827</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b70">
+            <label>70.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Lleonart</surname> 
+                     <given-names>R</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Riego</surname> 
+                     <given-names>E</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Saínz de la Peña</surname> 
+                     <given-names>MV</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Bacallao</surname> 
+                     <given-names>K</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Amaro</surname> 
+                     <given-names>F</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Santiesteban</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <etal>et al.</etal>
+               </person-group> 
+               <article-title>Forensic identification of skeletal remains from members of Ernesto Che Guevara’s guerrillas in Bolivia based on DNA typing</article-title>. <source>Int J Legal Med</source>. <year>2000</year>;<volume>113</volume>(<issue>2</issue>):<fpage>98</fpage>–<lpage>101</lpage>. <pub-id pub-id-type="doi">10.1007/PL00007716</pub-id>
+               <pub-id pub-id-type="pmid">10741484</pub-id>
+               <issn>0937-9827</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b71">
+            <label>71.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Mukaida</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Kimura</surname> 
+                     <given-names>H</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Takada</surname> 
+                     <given-names>Y</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Masuda</surname> 
+                     <given-names>T</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Nakata</surname> 
+                     <given-names>Y</given-names>
+                  </string-name>
+               </person-group>. <article-title>The personal identification of many samples recovered from under the sea</article-title>. <source>Forensic Sci Int</source>. <year>2000</year> 
+               <month>Sep</month>;<volume>113</volume>(<issue>1-3</issue>):<fpage>79</fpage>–<lpage>85</lpage>. <pub-id pub-id-type="doi">10.1016/S0379-0738(00)00219-X</pub-id>
+               <pub-id pub-id-type="pmid">10978605</pub-id>
+               <issn>0379-0738</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b72">
+            <label>72.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Handt</surname> 
+                     <given-names>O</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Richards</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Trommsdorff</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Kilger</surname> 
+                     <given-names>C</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Simanainen</surname> 
+                     <given-names>J</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Georgiev</surname> 
+                     <given-names>O</given-names>
+                  </string-name>, <etal>et al.</etal>
+               </person-group> 
+               <article-title>Molecular genetic analyses of the Tyrolean Ice Man</article-title>. <source>Science</source>. <year>1994</year> 
+               <month>Jun</month>;<volume>264</volume>(<issue>5166</issue>):<fpage>1775</fpage>–<lpage>8</lpage>. <pub-id pub-id-type="doi">10.1126/science.8209259</pub-id>
+               <pub-id pub-id-type="pmid">8209259</pub-id>
+               <issn>0036-8075</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b73">
+            <label>73.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Krings</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Stone</surname> 
+                     <given-names>A</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Schmitz</surname> 
+                     <given-names>RW</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Krainitzki</surname> 
+                     <given-names>H</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Stoneking</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Pääbo</surname> 
+                     <given-names>S</given-names>
+                  </string-name>
+               </person-group>. <article-title>Neandertal DNA sequences and the origin of modern humans</article-title>. <source>Cell</source>. <year>1997</year> 
+               <month>Jul</month>;<volume>90</volume>(<issue>1</issue>):<fpage>19</fpage>–<lpage>30</lpage>. <pub-id pub-id-type="doi">10.1016/S0092-8674(00)80310-4</pub-id>
+               <pub-id pub-id-type="pmid">9230299</pub-id>
+               <issn>0092-8674</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b74">
+            <label>74.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Andelinović</surname> 
+                     <given-names>S</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Sutlović</surname> 
+                     <given-names>D</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Erceg Ivkosić</surname> 
+                     <given-names>I</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Škaro</surname> 
+                     <given-names>V</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Ivkosić</surname> 
+                     <given-names>A</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Paić</surname> 
+                     <given-names>F</given-names>
+                  </string-name>, <etal>et al.</etal>
+               </person-group> 
+               <article-title>Twelve-year experience in identification of skeletal remains from mass graves</article-title>. <source>Croat Med J</source>. <year>2005</year> 
+               <month>Aug</month>;<volume>46</volume>(<issue>4</issue>):<fpage>530</fpage>–<lpage>9</lpage>.<pub-id pub-id-type="pmid">16100755</pub-id>
+               <issn>0353-9504</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b75">
+            <label>75.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Parsons</surname> 
+                     <given-names>TJ</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Huel</surname> 
+                     <given-names>RM</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Bajunović</surname> 
+                     <given-names>Z</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Rizvić</surname> 
+                     <given-names>A</given-names>
+                  </string-name>
+               </person-group>. <article-title>Large scale DNA identification: the ICMP experience</article-title>. <source>Forensic Sci Int Genet</source>. <year>2019</year> 
+               <month>Jan</month>;<volume>38</volume>:<fpage>236</fpage>–<lpage>44</lpage>. <pub-id pub-id-type="doi">10.1016/j.fsigen.2018.11.008</pub-id>
+               <pub-id pub-id-type="pmid">30469017</pub-id>
+               <issn>1872-4973</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b76">
+            <label>76.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Zupanič Pajnič</surname> 
+                     <given-names>I</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Gornjak Pogorelc</surname> 
+                     <given-names>B</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Balažic</surname> 
+                     <given-names>J</given-names>
+                  </string-name>
+               </person-group>. <article-title>Molecular genetic identification of skeletal remains from the Second World War Konfin I mass grave in Slovenia</article-title>. <source>Int J Legal Med</source>. <year>2010</year> 
+               <month>Jul</month>;<volume>124</volume>(<issue>4</issue>):<fpage>307</fpage>–<lpage>17</lpage>. <pub-id pub-id-type="doi">10.1007/s00414-010-0431-y</pub-id>
+               <pub-id pub-id-type="pmid">20217112</pub-id>
+               <issn>0937-9827</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b77">
+            <label>77.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Zupanič Pajnič</surname> 
+                     <given-names>I</given-names>
+                  </string-name>
+               </person-group>. <article-title>Molecular genetic identification of the Slovene home guard victims</article-title> 
+               <comment>[in Slovenian]</comment>. <source>Zdrav Vestn</source>. <year>2008</year>;<volume>77</volume>:<fpage>745</fpage>–<lpage>50</lpage>.<issn>0350-0063</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b78">
+            <label>78.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Zupanič Pajnič</surname> 
+                     <given-names>I</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Petaros</surname> 
+                     <given-names>A</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Balažic</surname> 
+                     <given-names>J</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Geršak</surname> 
+                     <given-names>K</given-names>
+                  </string-name>
+               </person-group>. <article-title>Searching for the mother missed since the Second World War</article-title>. <source>J Forensic Leg Med</source>. <year>2016</year> 
+               <month>Nov</month>;<volume>44</volume>:<fpage>138</fpage>–<lpage>42</lpage>. <pub-id pub-id-type="doi">10.1016/j.jflm.2016.10.015</pub-id>
+               <pub-id pub-id-type="pmid">27810583</pub-id>
+               <issn>1752-928X</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b79">
+            <label>79.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Strobl</surname> 
+                     <given-names>C</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Eduardoff</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Bus</surname> 
+                     <given-names>MM</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Allen</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Parson</surname> 
+                     <given-names>W</given-names>
+                  </string-name>
+               </person-group>. <article-title>Evaluation of the precision ID whole MtDNA genome panel for forensic analyses</article-title>. <source>Forensic Sci Int Genet</source>. <year>2018</year> 
+               <month>Jul</month>;<volume>35</volume>:<fpage>21</fpage>–<lpage>5</lpage>. <pub-id pub-id-type="doi">10.1016/j.fsigen.2018.03.013</pub-id>
+               <pub-id pub-id-type="pmid">29626805</pub-id>
+               <issn>1872-4973</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b80">
+            <label>80.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Sturk-Andreaggi</surname> 
+                     <given-names>K</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Peck</surname> 
+                     <given-names>MA</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Boysen</surname> 
+                     <given-names>C</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Dekker</surname> 
+                     <given-names>P</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>McMahon</surname> 
+                     <given-names>TP</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Marshall</surname> 
+                     <given-names>CK</given-names>
+                  </string-name>
+               </person-group>. <article-title>AQME: A forensic mitochondrial DNA analysis tool for next-generation sequencing data</article-title>. <source>Forensic Sci Int Genet</source>. <year>2017</year> 
+               <month>Nov</month>;<volume>31</volume>:<fpage>189</fpage>–<lpage>97</lpage>. <pub-id pub-id-type="doi">10.1016/j.fsigen.2017.09.010</pub-id>
+               <pub-id pub-id-type="pmid">29080494</pub-id>
+               <issn>1872-4973</issn>
+            </mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

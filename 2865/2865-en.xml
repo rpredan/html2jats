@@ -1,0 +1,1736 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD with MathML3 v1.1 20151215//EN" "JATS-journalpublishing1-mathml3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink"
+         dtd-version="1.1"
+         xml:lang="en"
+         article-type="other">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher-id">Zdrav Vestn</journal-id>
+         <journal-id journal-id-type="nlm-ta">Zdrav Vestn</journal-id>
+         <journal-id journal-id-type="doi">Zdrav Vestn</journal-id>
+         <journal-title-group>
+            <journal-title>Slovenian Medical Journal</journal-title>
+            <trans-title-group xml:lang="sl">
+               <trans-title>Zdravniški vestnik</trans-title>
+            </trans-title-group>
+            <abbrev-journal-title>Zdrav Vestn</abbrev-journal-title>
+         </journal-title-group>
+         <issn publication-format="ppub" pub-type="ppub">1318-0347</issn>
+         <issn publication-format="epub" pub-type="epub">1581-0224</issn>
+         <issn-l>0350-0063</issn-l>
+         <publisher>
+            <publisher-name xml:lang="sl">Slovensko zdravniško društvo</publisher-name>
+            <publisher-name xml:lang="en">Slovenian Medical Association</publisher-name>
+            <publisher-loc xml:lang="sl">Ljubljana, Slovenia</publisher-loc>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.6016/ZdravVestn.2865</article-id>
+         <article-id pub-id-type="publisher-id">2865</article-id>
+         <article-categories>
+            <subj-group subj-group-type="discipline" xml:lang="en">
+               <subject>Medicine and health sciences</subject>
+               <subj-group>
+                  <subject>Public health (occupational medicine)</subject>
+               </subj-group>
+            </subj-group>
+            <subj-group subj-group-type="article-type" xml:lang="en">
+               <subject>Review article</subject>
+            </subj-group>
+            <subj-group subj-group-type="heading" xml:lang="en">
+               <subject>Public health (occupational medicine)</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title xml:lang="en">Can we manage frailty at individual level by the use of information and communication technologies: a narrative literature review</article-title>
+            <trans-title-group>
+               <trans-title xml:lang="sl">Ali lahko s pomočjo informacijsko-komunikacijskih tehnologij obvladujemo krhkost na ravni posameznika: narativni pregled literature</trans-title>
+            </trans-title-group>
+            <alt-title alt-title-type="running-head" xml:lang="en">Can we manage frailty at individual level with the use of information and communication technologies</alt-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Selak</surname>
+                  <given-names>Špela</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1">1</xref>
+               <xref ref-type="corresp" rid="corr"/>
+            </contrib>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Bacaicoa</surname>
+                  <given-names>Olatz Albaina</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff2">2</xref>
+            </contrib>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Gabrovec</surname>
+                  <given-names>Branko</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1">1</xref>
+            </contrib>
+         </contrib-group>
+         <aff id="aff1" xml:lang="en">
+            <label>1</label>
+            <institution>National Institute of Public Health, Ljubljana, Slovenia</institution>
+         </aff>
+         <aff id="aff2" xml:lang="en">
+            <label>2</label>
+            <institution>Kronikgune Institute for Health Service Reseach, Spain</institution>
+         </aff>
+         <author-notes>
+            <fn fn-type="conflict" xml:lang="en">
+               <p>The authors have declared that no competing interests exist.</p>
+            </fn>
+            <fn fn-type="conflict" xml:lang="sl">
+               <p>Avtorji so izjavili, da ne obstajajo nobeni konkurenčni interesi.</p>
+            </fn>
+            <corresp id="corr">Špela Selak, e-mail: <email xlink:type="simple"/>
+            </corresp>
+         </author-notes>
+         <pub-date pub-type="ppub">
+            <month>6</month>
+            <year>2019</year>
+         </pub-date>
+         <pub-date pub-type="epub">
+            <month>6</month>
+            <year>2019</year>
+         </pub-date>
+         <volume>88</volume>
+         <issue>5–6</issue>
+         <fpage>249</fpage>
+         <lpage>62</lpage>
+         <history>
+            <date date-type="received">
+               <day>28</day>
+               <month>8</month>
+               <year>2018</year>
+            </date>
+            <date date-type="accepted">
+               <day>1</day>
+               <month>3</month>
+               <year>2019</year>
+            </date>
+         </history>
+         <permissions>
+            <copyright-statement xml:lang="en">Copyright © 2019, Slovenian Medical Association (SZD)</copyright-statement>
+            <copyright-statement xml:lang="sl">© 2019, Slovensko zdravniško društvo (SZD)</copyright-statement>
+            <copyright-year>2019</copyright-year>
+            <copyright-holder xml:lang="en">Slovenian Medical Association (SZD)</copyright-holder>
+            <copyright-holder xml:lang="sl">Slovensko zdravniško društvo (SZD)</copyright-holder>
+            <license xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                     xlink:type="simple"
+                     xml:lang="en">
+               <license-p>This is an open access article distributed under the terms of the
+          <ext-link ext-link-type="uri"
+                            xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                            xlink:type="simple">Creative Commons Attribution-NonCommercial
+            License</ext-link>, which permits unrestricted use, distribution, and
+          reproduction in any medium, provided the original author and source are
+          credited and only for non-commercial purposes. </license-p>
+            </license>
+            <license xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                     xlink:type="simple"
+                     xml:lang="sl">
+               <license-p>To je članek z odprtim dostopom, ki ga lahko uporabite pod pogoji iz
+          <ext-link ext-link-type="uri"
+                            xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                            xlink:type="simple">Creative Commons Priznanje avtorstva-Nekomercialno
+            licence</ext-link>. ki dovoljuje distribucijo, predelavo ali
+          prilagoditev, ter gradijo na njem, v nekomercialne namene, z navedbo avtorja
+          in izvirnega dela.</license-p>
+            </license>
+         </permissions>
+         <abstract xml:lang="en">
+            <title>Abstract</title>
+            <p>An increase in age-related disability and dependence is an almost inevitable consequence of population ageing, whereas frailty seems to be highly prevalent among older adults with prevalence ranging from 5 % to more than 45 %. Among the potential ways to face the challenges of ageing society are healthcare services supported by the use of information and communication technologies. The aim of this research was to define the information and communication technologies used to support the management of frailty, its effects and related challenges within joint action Advantage. A narrative literature review of peer-reviewed literature, using PubMed, Cochrane, Embase, Cinahl and UpToDate databases was carried out. The search resulted in a total of 124634 articles. After excluding duplicates and taking into account inclusion and exclusion criteria, 33 sources remained for analysis. The results indicate multidimensional usage of information and communication technologies and show that a wide range of potentially beneficial information and communication technology solutions have been developed, covering prevention, screening, diagnosis, treatment and monitoring to enable older adults to remain independent at home, support caregivers, facilitate remote monitoring and self-management, provide decision support, improve information sharing and coordination of services, support daily activities etc. Many information and communication technologies have a potential to prevent and manage frailty, especially in the domain of physical activity and exercise, social resources and psychological state, falls prevention, support to daily activities and overall well-being. However, there is a lack of evidence on the outcomes of information and communication technologies’ use related to older adults, and their adoption and implementation seem to remain problematic as well. Therefore, strategic approach should be used to support further research as well as to address and foster implementation and (wider) adoption of health-related information and communication technologies.</p>
+         </abstract>
+         <kwd-group xml:lang="en">
+            <kwd>ageing</kwd>
+            <kwd>older adults</kwd>
+            <kwd>information-communication technologies</kwd>
+            <kwd>ICT</kwd>
+            <kwd>:frailty management</kwd>
+            <kwd>Joint Action Advantage</kwd>
+         </kwd-group>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>TotalReferences</meta-name>
+               <meta-value>50</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ReferencesParsed</meta-name>
+               <meta-value>41</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ReferencesBillable</meta-name>
+               <meta-value>42</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>LinkServices</meta-name>
+               <meta-value>pubmed-crossref</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ReferencesLinked</meta-name>
+               <meta-value>38</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ReferencesLinkedDOI</meta-name>
+               <meta-value>35</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ReferencesLinkedPMID</meta-name>
+               <meta-value>29</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>JournalReferences</meta-name>
+               <meta-value>38</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>BookReferences</meta-name>
+               <meta-value>1</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>BookChapterReferences</meta-name>
+               <meta-value>2</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ConferenceReferences</meta-name>
+               <meta-value>3</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ElectronicReferences</meta-name>
+               <meta-value>6</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>DissertationReferences</meta-name>
+               <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>LegalReferences</meta-name>
+               <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>StandardReferences</meta-name>
+               <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>OtherReferences</meta-name>
+               <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>UnknownReferences</meta-name>
+               <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ReferencesSemiParsed</meta-name>
+               <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ReferencesBookUnparsed</meta-name>
+               <meta-value>1</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>EditorialStyle</meta-name>
+               <meta-value>ICMJE-WHO</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <body>
+      <sec id="s1" sec-type="Introduction">
+         <label>1</label>
+         <title>Introduction</title>
+         <p>Population ageing is one of the greatest challenges we are currently facing. The proportion as well as an absolute number of older adults in populations around the world is rapidly growing due to an increased life expectancy and decreased fertility rates. By 2060 the percentage of European Union citizens aged over 65 is expected to increase from 18–28 % and the percentage of people aged over 80 is predicted to more than double (5–12 %) (<xref ref-type="bibr" rid="b1">1</xref>). Therefore, an increase in age-related disability and dependence is almost an inevitable consequence of population ageing (<xref ref-type="bibr" rid="b2">2</xref>), which will have an impact on the affected individuals’ wellbeing, as well on the healthcare systems’ sustainability (<xref ref-type="bibr" rid="b3">3</xref>). Frailty, which can be defined as “a progressive age-related decline in physiological systems that results in decreased reserves of intrinsic capacity, which confers extreme vulnerability to stressors and increases the risk of a range of adverse health outcomes” (<xref ref-type="bibr" rid="b1">1</xref>) is highly prevalent among older adults. According to a recent systematic review, the prevalence of frailty ranges from 5 % to more than 45 % depending on the definition and age group (<xref ref-type="bibr" rid="b4">4</xref>). Despite that the prevalence of frailty seems to increase with age (<xref ref-type="bibr" rid="b5">5</xref>), this health condition is not an inevitable consequence of ageing, while it can be identified, prevented or its onset can be delayed and it is potentially reversible, whereas early and appropriate interventions play an important role (<xref ref-type="bibr" rid="b6">6</xref>). Therefore, there is a strong need to reshape current healthcare systems by implementing a new conceptual framework in order to better address and tackle this public health issue. Namely, the majority of existing healthcare services are still traditional, i.e. symptom-oriented and fragmented, while growing evidence suggests that person-centered and integrated care with focus on prevention, patient empowerment and online services should be adopted (<xref ref-type="bibr" rid="b1">1</xref>). Among the potential interests in facing the challenges that come with the ageing society are healthcare services supported by the use of information and communication technologies (hereinafter referred to as ICT) (<xref ref-type="bibr" rid="b7">7</xref>). ICT may play an essential role in “improving the functional ability of future generations, integrating and managing the care of older persons, assessing the impact of interventions and ensuring accountability for services provided” (<xref ref-type="bibr" rid="b1">1</xref>). ICT seem to be a tool for enhancing the transformation of healthcare systems and services in order to deliver patient-centered and integrated care appropriate for older adults (<xref ref-type="bibr" rid="b1">1</xref>), and may play an important role in supporting complex care of older frail adults in terms of screening, assessment, monitoring, and follow-up (<xref ref-type="bibr" rid="b2">2</xref>). ICT are known to improve access to healthcare as well as their quality and safety (<xref ref-type="bibr" rid="b8">8</xref>), influence the wellbeing, quality of life and empowerment of older adults (<xref ref-type="bibr" rid="b9">9</xref>), and “are increasingly offering innovative avenues to boost the health and social participation of older adults” (<xref ref-type="bibr" rid="b8">8</xref>).</p>
+         <p>There has been a great progress made in the implementation of ICT in several healthcare services and a wide range of ICT-supported solutions are available for the care of older adults. However, there are still some open issues that limit ICT implementation into healthcare environment and daily practice, such as (poor) infrastructure (<xref ref-type="bibr" rid="b10">10</xref>), financial and technical challenges (<xref ref-type="bibr" rid="b11">11</xref>), as well as a variety of possible ICT tools without proven clinical effectiveness, and acceptance of the service (<xref ref-type="bibr" rid="b12">12</xref>). Limitations not only refer to low system usability and lack of personalization and flexibility (<xref ref-type="bibr" rid="b13">13</xref>), but also to an increased though still limited adoption of technology by older adults, many of whom doubt in possible ICT-related positive outcomes (<xref ref-type="bibr" rid="b14">14</xref>).</p>
+         <p>Despite a high number of research that focuses on different aspects of ICT in relation to older adults, there is not much research being done in the field of ICT and frailty, and specifically the management of frailty. Therefore, the aim of this paper is to identify the ICT used to support the management of frailty, its effects and related challenges through a narrative literature review of relevant literature for the last 15 years.</p>
+      </sec>
+      <sec id="s2" sec-type="Methods">
+         <label>2</label>
+         <title>Methods</title>
+         <p>Descriptive research methodology was used to review peer-reviewed medical literature, and thus obtain data from various sources to provide holistic understanding of the research subject. Protocol for background information collection, which was prepared in the frame of Joint Action on Frailty Prevention (JA Advantage) co-funded by the third Health Programme of the European Union (2014–2020) for the whole project consortium, was used. Accordingly, the review was conducted between March and June 2017. The literature search was carried out between March and April 2017 in the PubMed, Cochrane, Embase, Cinahl and UpToDate databases using Google Chrome web browser by means of several combinations of selected key words in the English language and their synonyms, using Boolean operators AND or OR, searching in the title, key words and abstract (<xref ref-type="table" rid="table2">Table 2</xref>). A 15-year timeframe was taken into account and therefore articles published between 2002 and 2017 were included in the search/review.</p>
+         <table-wrap position="anchor" id="table2">
+            <label>Table 2:</label>
+            <caption>
+               <p> Search table.</p>
+            </caption>
+            <table>
+               <colgroup>
+                  <col/>
+                  <col/>
+                  <col/>
+                  <col/>
+                  <col/>
+                  <col/>
+               </colgroup>
+               <thead>
+                  <tr>
+                     <th/>
+                     <th>Keyword</th>
+                     <th>No. of hits</th>
+                     <th>Chosen hits</th>
+                     <th>Repeated chosen hits</th>
+                     <th>Final selection</th>
+                  </tr>
+               </thead>
+               <tbody>
+                  <tr>
+                     <td rowspan="14">PubMed</td>
+                     <td>
+                        <p>Elderly</p>
+                        <p>Mobile health</p>
+                     </td>
+                     <td align="right">8499</td>
+                     <td align="right">14</td>
+                     <td align="right">12</td>
+                     <td align="right">5</td>
+                  </tr>
+                  <tr>
+                     <td>
+                        <p>Geriatric</p>
+                        <p>Mobile health</p>
+                     </td>
+                     <td align="right">492</td>
+                     <td align="right">4</td>
+                     <td align="right">4</td>
+                     <td align="right">1</td>
+                  </tr>
+                  <tr>
+                     <td>
+                        <p>Frailty</p>
+                        <p>ICT</p>
+                     </td>
+                     <td align="right">8</td>
+                     <td align="right">0</td>
+                     <td align="right">0</td>
+                     <td align="right">0</td>
+                  </tr>
+                  <tr>
+                     <td>
+                        <p>Vulnerable</p>
+                        <p>App</p>
+                     </td>
+                     <td align="right">166</td>
+                     <td align="right">2</td>
+                     <td align="right">2</td>
+                     <td align="right">1</td>
+                  </tr>
+                  <tr>
+                     <td>
+                        <p>Disability</p>
+                        <p>App</p>
+                     </td>
+                     <td align="right">128</td>
+                     <td align="right">2</td>
+                     <td align="right">2</td>
+                     <td align="right">1</td>
+                  </tr>
+                  <tr>
+                     <td>
+                        <p>Information and communication technology</p>
+                        <p>Frail</p>
+                     </td>
+                     <td align="right">27</td>
+                     <td align="right">0</td>
+                     <td align="right">0</td>
+                     <td align="right">0</td>
+                  </tr>
+                  <tr>
+                     <td>
+                        <p>ICT</p>
+                        <p>Elderly</p>
+                     </td>
+                     <td align="right">1010</td>
+                     <td align="right">7</td>
+                     <td align="right">7</td>
+                     <td align="right">3</td>
+                  </tr>
+                  <tr>
+                     <td>
+                        <p>Mobile health</p>
+                        <p>Aged</p>
+                     </td>
+                     <td align="right">8259</td>
+                     <td align="right">12</td>
+                     <td align="right">5</td>
+                     <td align="right">4</td>
+                  </tr>
+                  <tr>
+                     <td>
+                        <p>E health</p>
+                        <p>Elderly</p>
+                     </td>
+                     <td align="right">5486</td>
+                     <td align="right">8</td>
+                     <td align="right">2</td>
+                     <td align="right">2</td>
+                  </tr>
+                  <tr>
+                     <td>
+                        <p>Older adult</p>
+                        <p>Tele care</p>
+                     </td>
+                     <td align="right">251</td>
+                     <td align="right">4</td>
+                     <td align="right">2</td>
+                     <td align="right">1</td>
+                  </tr>
+                  <tr>
+                     <td>
+                        <p>Screening</p>
+                        <p>Application</p>
+                     </td>
+                     <td align="right">88755</td>
+                     <td align="right">8</td>
+                     <td align="right">4</td>
+                     <td align="right">4</td>
+                  </tr>
+                  <tr>
+                     <td>Support</td>
+                     <td align="right">2221</td>
+                     <td align="right">8</td>
+                     <td align="right">8</td>
+                     <td align="right">2</td>
+                  </tr>
+                  <tr>
+                     <td>
+                        <p>ICT</p>
+                        <p>Older person</p>
+                     </td>
+                     <td align="right">82</td>
+                     <td align="right">0</td>
+                     <td align="right">0</td>
+                     <td align="right">0</td>
+                  </tr>
+                  <tr>
+                     <td>Treatment Monitor frailty</td>
+                     <td align="right">55</td>
+                     <td align="right">0</td>
+                     <td align="right">0</td>
+                     <td align="right">0</td>
+                  </tr>
+                  <tr>
+                     <td rowspan="5">Cochrane</td>
+                     <td>
+                        <p>Geriatric</p>
+                        <p>Mobile health</p>
+                     </td>
+                     <td align="right">11</td>
+                     <td align="right">0</td>
+                     <td align="right">0</td>
+                     <td align="right">0</td>
+                  </tr>
+                  <tr>
+                     <td>
+                        <p>Frail</p>
+                        <p>ICT</p>
+                     </td>
+                     <td align="right">1</td>
+                     <td align="right">0</td>
+                     <td align="right">0</td>
+                     <td align="right">0</td>
+                  </tr>
+                  <tr>
+                     <td>E health</td>
+                     <td align="right">8211</td>
+                     <td align="right">14</td>
+                     <td align="right">4</td>
+                     <td align="right">2</td>
+                  </tr>
+                  <tr>
+                     <td>
+                        <p>Tele care</p>
+                        <p>Function</p>
+                     </td>
+                     <td align="right">23</td>
+                     <td align="right">0</td>
+                     <td align="right">0</td>
+                     <td align="right">0</td>
+                  </tr>
+                  <tr>
+                     <td>
+                        <p>Elderly</p>
+                        <p>App</p>
+                     </td>
+                     <td align="right">8</td>
+                     <td align="right">0</td>
+                     <td align="right">0</td>
+                     <td align="right">0</td>
+                  </tr>
+                  <tr>
+                     <td rowspan="3">Embase</td>
+                     <td>
+                        <p>Frail</p>
+                        <p>ICT</p>
+                     </td>
+                     <td align="right">0</td>
+                     <td align="right">0</td>
+                     <td align="right">0</td>
+                     <td align="right">0</td>
+                  </tr>
+                  <tr>
+                     <td>
+                        <p>Functional decline</p>
+                        <p>App</p>
+                     </td>
+                     <td align="right">788</td>
+                     <td align="right">10</td>
+                     <td align="right">4</td>
+                     <td align="right">1</td>
+                  </tr>
+                  <tr>
+                     <td>Elderly</td>
+                     <td align="right">71</td>
+                     <td align="right">0</td>
+                     <td align="right">0</td>
+                     <td align="right">0</td>
+                  </tr>
+                  <tr>
+                     <td rowspan="2">Cinahl</td>
+                     <td>
+                        <p>Disability</p>
+                        <p>App</p>
+                     </td>
+                     <td align="right">19</td>
+                     <td align="right">0</td>
+                     <td align="right">0</td>
+                     <td align="right">0</td>
+                  </tr>
+                  <tr>
+                     <td>
+                        <p>Prevention</p>
+                        <p>ICT</p>
+                     </td>
+                     <td align="right">27</td>
+                     <td align="right">0</td>
+                     <td align="right">0</td>
+                     <td align="right">0</td>
+                  </tr>
+                  <tr>
+                     <td>UpToDate</td>
+                     <td>
+                        <p>Tele care</p>
+                        <p>Function</p>
+                     </td>
+                     <td align="right">30</td>
+                     <td align="right">0</td>
+                     <td align="right">0</td>
+                     <td align="right">0</td>
+                  </tr>
+                  <tr>
+                     <td/>
+                     <td>
+                        <p>Frail</p>
+                        <p>ICT</p>
+                     </td>
+                     <td align="right">0</td>
+                     <td align="right">0</td>
+                     <td align="right">0</td>
+                     <td align="right">0</td>
+                  </tr>
+                  <tr>
+                     <td>Other sources (e. g. grey documents)</td>
+                     <td/>
+                     <td align="right">6</td>
+                     <td/>
+                     <td/>
+                     <td align="right">6</td>
+                  </tr>
+                  <tr>
+                     <th>Total</th>
+                     <th/>
+                     <th align="right">124634</th>
+                     <th align="right">91</th>
+                     <th/>
+                     <th align="right">33</th>
+                  </tr>
+               </tbody>
+            </table>
+         </table-wrap>
+         <p>Keywords were selected from a proposal of keywords prepared by the task leader and the working group focusing on ICT within JA Advantage Work Package 6 that deals with management of frailty at an individual level (<xref ref-type="table" rid="table1">Table 1</xref>). They proposed the keywords according to three components, namely frailty, ICT and function component, which is in line with the ICT task description in the project’s grant agreement and mentioned protocol for background information collection. The keywords selection followed the inclusion criteria that at least one key word for each component should be used for the literature search.</p>
+         <table-wrap position="anchor" id="table1">
+            <label>Table 1:</label>
+            <caption>
+               <p> Keywords proposed by the task leader and the working group focusing on ICT.</p>
+            </caption>
+            <table>
+               <colgroup>
+                  <col/>
+                  <col/>
+               </colgroup>
+               <thead>
+                  <tr>
+                     <th>Components</th>
+                     <th>Key words</th>
+                  </tr>
+               </thead>
+               <tbody>
+                  <tr>
+                     <td>Frailty</td>
+                     <td>Elderly, Aged, Older adult, Older person, Geriatric, Frailty, Frail, Vulnerable, Disability, Functional decline, Function disability, Deterioration</td>
+                  </tr>
+                  <tr>
+                     <td>ICT</td>
+                     <td>Information and communication technology, ICT, Smartphone, E-health, Mobile health, Internet, Web application, Telemonitoring, Telecare, App</td>
+                  </tr>
+                  <tr>
+                     <td>Function</td>
+                     <td>Management, Detection, Screening, Support, Diagnosis, Prevention, Treatment and/or monitor frailty, Resilience, maintain function and activities, Empowerment, Self-care</td>
+                  </tr>
+               </tbody>
+            </table>
+         </table-wrap>
+         <p>In addition to language (English) and publication time criteria, the main inclusion criteria were also peer-reviewed scientific journals, international documents, professional guidelines, standards and research studies performed in the EU, which comprehensively investigate and describe the management of frailty with the support of ICT. Additionally grey documents (e.g. government reports, non-governmental organizations’ reports, theses, technical reports, white papers etc.) were included, so documents that are not published commercially or are otherwise hard to find were reviewed. Grey literature was identified by means of opportunistic search, meaning a targeted or focused search, based on the information that each partner in the project Consortium could give regarding their own country. The exclusion criteria were editorials, letters, interviews, posters and sources with no access to full text. Full texts were assessed for eligibility against the mentioned prespecified inclusion and exclusion criteria. Final selection was based on a consensus made by the authors taking into account different levels of research evidence (<xref ref-type="bibr" rid="b15">15</xref>). Therefore, 9 review works, 13 qualitative works, 9 quantitative works and 2 mixed method works were included. PRISMA (Preferred Reporting Items for Systematic Reviews and Meta-Analysis) protocol (<xref ref-type="bibr" rid="b16">16</xref>) was used for the search strategy and literature selection process as shown in <xref ref-type="fig" rid="fig1">Figure 1</xref>.</p>
+         <fig position="anchor" id="fig1">
+            <label>Figure 1:</label>
+            <caption>
+               <p> Flowchart of search strategy and literature selection process.</p>
+            </caption>
+            <p>
+               <graphic xlink:href="2865-en-web-resources/image/zdravvestn-2865-en-01.png"/>
+            </p>
+         </fig>
+      </sec>
+      <sec id="s3" sec-type="Results">
+         <label>3</label>
+         <title>Results</title>
+         <p>The literature review was carried out according to the PRISMA protocol, whereas in the identification phase there were 124634 records identified through database searching, out of which 91 were selected. Additionally, 6 records were identified through other sources (e.g. grey literature). After duplicate removal, there were 56 records left to be included in the screening phase. Inclusion and exclusion criteria were taken into account and thus 19 records were excluded and 37 records included further on in the eligibility phase. After assessing all full-text records for eligibility, 4 of them were excluded. Thus, 33 articles/sources remained to be included in the analysis.</p>
+         <p>Several ICT solutions and health technologies have been identified to support older frail adults. ICT solutions presented in the selected reviewed documents can be categorised as synchronous communication technologies (videoconferencing, online and ICT platforms); asynchronous communication technologies (web portals with health-related information); sensor-based technologies (monitoring biosignals such as electrocardiogram, oxygen saturation, heart rate, blood pressure, motion detection, and monitoring and feedback on biosignals such as electromyography); exercise applications to actuate patients to exercise or rehabilitate (web-based exercise programme); and virtual reality and gaming technologies (interactive game applications) (<xref ref-type="bibr" rid="b7">7</xref>,<xref ref-type="bibr" rid="b12">12</xref>,<xref ref-type="bibr" rid="b17">17</xref>).</p>
+         <p>Results have shown that ICT offer a variety of opportunities; in terms of clinical purposes for which they can be used, technological tools that can be chosen, and in the way of services’ implementation into everyday practice (<xref ref-type="bibr" rid="b7">7</xref>). ICT solutions can be used to promote social interaction and communication, physical activity and exercise, better dietary habits, as well as support other daily life activities of older frail adults. There have been many technological solutions developed that enable older frail adults to stay independent in their homes, to support carers, facilitate remote monitoring and self-care/self-management, provide support with decision making and enhance data sharing and coordination of services. The following key themes were identified when reviewing the literature: quality of life improvement (<xref ref-type="bibr" rid="b1">1</xref>), physical activity and exercise (<xref ref-type="bibr" rid="b7">7</xref>,<xref ref-type="bibr" rid="b18">18</xref>-<xref ref-type="bibr" rid="b24">24</xref>), social interaction promotion (<xref ref-type="bibr" rid="b25">25</xref>,<xref ref-type="bibr" rid="b26">26</xref>), supportive ICT with special focus on motion detection and falls prevention, diagnosis and assessment (<xref ref-type="bibr" rid="b9">9</xref>,<xref ref-type="bibr" rid="b13">13</xref>,<xref ref-type="bibr" rid="b27">27</xref>-<xref ref-type="bibr" rid="b34">34</xref>), telecare and telehealth services, support to healthcare systems (<xref ref-type="bibr" rid="b35">35</xref>-<xref ref-type="bibr" rid="b39">39</xref>), and ICT adoption and implementation (<xref ref-type="bibr" rid="b7">7</xref>,<xref ref-type="bibr" rid="b9">9</xref>,<xref ref-type="bibr" rid="b14">14</xref>,<xref ref-type="bibr" rid="b40">40</xref>,<xref ref-type="bibr" rid="b41">41</xref>).</p>
+      </sec>
+      <sec id="s4" sec-type="Discussion">
+         <label>4</label>
+         <title>Discussion</title>
+         <sec id="s4.1" sec-type="Quality of life improvement">
+            <label>4.1</label>
+            <title>Quality of life improvement</title>
+            <p>The ultimate goal of using ICT in older frail adults is to improve their quality of life (<xref ref-type="bibr" rid="b1">1</xref>), which can be done in many ways and areas. In general, ICT are meant to ease living and increase productivity, which is important for older frail adults as well. However, ICT can offer much more to older frail adults. Not only because the older frail adults are more dependent on services provided by the others and ICT can improve their accessibility, but also because ICT may help to reduce their frailty level by improving their independence and self-care. Being a self-caring person may improve the quality of life and increase positive self-esteem. On the other hand, health and social costs may be reduced. With respect to lifestyle enhancement, ICT may have direct profound effects on the quality of life in older frail adults. They may promote social interaction and communication, physical activity and exercise, nutrition, and support other activities and aspects of daily life. However, issues related to difficult introduction of ICT-supported services into the healthcare environment remain among the biggest obstacles, requiring the transformation of healthcare systems’ business models that seem to be rigid, doctrinary and unchanged for decades.</p>
+         </sec>
+         <sec id="s4.2" sec-type="Physical activity and exercise">
+            <label>4.2</label>
+            <title>Physical activity and exercise</title>
+            <p>While frailty mostly stems from reduced physical performance and regular physical activity (<xref ref-type="bibr" rid="b20">20</xref>), it is believed that exercise can improve physical performance and reduce physical frailty (<xref ref-type="bibr" rid="b18">18</xref>,<xref ref-type="bibr" rid="b19">19</xref>). Therefore, ICT promoting physical activity and exercise seem to be of special importance. Adherence and compliance to the exercise and to the use of ICT are also important issues, while independent adherence to preventive and rehabilitative programmes outside the clinic setting is low (<xref ref-type="bibr" rid="b21">21</xref>). ICT may help older frail adults to comply with the programme better. It is important since frequency of ICT use is related to clinical outcomes (<xref ref-type="bibr" rid="b7">7</xref>). Adherence to exercise may be improved by introducing ICT to promote group exercises, social networks, regular contacts with caregivers, involvement of relatives as caregivers etc.; gaming principles can be introduced as well to support the exercise (<xref ref-type="bibr" rid="b22">22</xref>). To use ICT in older frail adults, it should be introduced in everyday life well before impairments occurred (<xref ref-type="bibr" rid="b23">23</xref>). ICT should promote successful lifespan development at all ages and should not be orientated solely to impairment (<xref ref-type="bibr" rid="b24">24</xref>). To our knowledge, there is a lack of reports in the literature on the effectiveness of ICT use in physical exercise programmes in older frail adults. From our own experience, ICT can support group and individual exercise sessions, improve adherence to the programme and enable caregivers more individual approach. Importantly, after a short course on the execution of an ICT supported exercise programme given by a professional, it can be efficiently performed under supervision of non-professionals (relatives, peers, volunteers etc.) in institutional or home settings.</p>
+         </sec>
+         <sec id="s4.3" sec-type="Social interaction promotion">
+            <label>4.3</label>
+            <title>Social interaction promotion</title>
+            <p>Social isolation is an important issue related to older adults (<xref ref-type="bibr" rid="b26">26</xref>) resulting in depression, re-hospitalization, falls, unhealthy behaviours (e.g. heavy drinking and smoking), being sedentary, lack of adherence to medical treatment or medication and an increased susceptibility to infectious diseases. ICT could be an effective tool to tackle social isolation among older adults, while it can be a vector of treatment against it (e.g. sports videogames and cognitive training programmes etc.) (<xref ref-type="bibr" rid="b42">42</xref>). However, it is not suitable for every older adult alike (<xref ref-type="bibr" rid="b25">25</xref>). ICT were found to alleviate the older adults’ social isolation through four mechanisms, namely, connecting to the outside world, gaining social support, engaging in activities of interest, and boosting self-confidence. However, the positive effect of ICT use on social connectedness and social support seemed to be of a short-term nature and did not last for more than six months after the intervention. Despite the possible positive outcomes regarding social interaction promotion, some issues related to problematic use of the ICT might arise as well. Although this research field is rather new and underdeveloped, and focuses mainly on the younger populations, researchers believe excessive use of the Internet could possibly impact older adults’ health risk factors, by triggering more isolation, psychiatric comorbidities, increasing suicidality and deteriorating prognosis (<xref ref-type="bibr" rid="b42">42</xref>).</p>
+         </sec>
+         <sec id="s4.4"
+              sec-type="Supportive ICT with a special focus on motion detection and falls prevention">
+            <label>4.4</label>
+            <title>Supportive ICT with a special focus on motion detection and falls prevention</title>
+            <p>Supportive ICT solutions mainly include assistive technologies (e.g. for disabilities, home care) and the monitoring of different data and activities (e.g. fall detection, kinematics, position, physiological data, etc.). Monitoring ICT have been shown effective in positive health attitude, health literacy, improved technical confidence, etc. (<xref ref-type="bibr" rid="b34">34</xref>). It can reduce burden of formal and informal caregivers worrying about the safety of the older adult living alone and may be assistive in home care delivery (<xref ref-type="bibr" rid="b33">33</xref>). Most adults prefer to age in place (<xref ref-type="bibr" rid="b32">32</xref>), and supportive ICT can enable them more independence and security. Frail and pre-frail older adults are a target group that would likely benefit from these technological solutions. Smart homes are becoming one of the most important fields of ICT application and are complex solutions including monitoring home activities as locomotion and the use of appliances that can empower older adults for self-management for independent living (<xref ref-type="bibr" rid="b31">31</xref>). They can also help to maintain physical and cognitive status (<xref ref-type="bibr" rid="b30">30</xref>). Smart homes provide solutions that enable older adults and, in many cases, frail people to prolong their living in their »preferred environment by increasing their autonomy, monitoring their actions and providing care« (<xref ref-type="bibr" rid="b13">13</xref>), and therefore promote healthy and active ageing. Frail persons are at high risk of falls, declining mobility or causing disability in daily activities, hospitalization, and death (<xref ref-type="bibr" rid="b9">9</xref>). As falls and their consequences seem to be amongst the most important events requiring transition from independent living to institutional care for older adults (<xref ref-type="bibr" rid="b34">34</xref>), monitoring for fall prevention and detection is a specific task especially for the older frail adults. It can be incorporated into smart home solutions (<xref ref-type="bibr" rid="b29">29</xref>) or can work as a stand-alone application (<xref ref-type="bibr" rid="b43">43</xref>). It covers many areas including fall risk assessment, home environment assessment, and most often fall detectors. The latter are based on sensors attached to the body (trunk, wrist) and continuously monitor the activity of a person to detect their fall and automatically call for help (<xref ref-type="bibr" rid="b29">29</xref>,<xref ref-type="bibr" rid="b34">34</xref>). This increases older frail adults’ confidence and sense of security (<xref ref-type="bibr" rid="b29">29</xref>). Smart wrist watches, as they are used to wearing them, may be an acceptable solution for on-line fall detection (<xref ref-type="bibr" rid="b27">27</xref>,<xref ref-type="bibr" rid="b28">28</xref>).</p>
+         </sec>
+         <sec id="s4.5" sec-type="Diagnosis and assessment">
+            <label>4.5</label>
+            <title>Diagnosis and assessment</title>
+            <p>ICT may play an important role with the objective identification of pre-frail and frail persons. It has been shown that walking parameters (stride length, double support, and walking bout duration variability) were the most sensitive to discriminate frailty levels (<xref ref-type="bibr" rid="b44">44</xref>,<xref ref-type="bibr" rid="b45">45</xref>), however there seems to be the challenge on how to obtain these data from simple measurements in daily life. Regarding this, a method for gait parameters assessment with two microphones put on calves and connected to smart phone (<xref ref-type="bibr" rid="b46">46</xref>) was presented. According to our personal laboratory experiences, a single dimensional accelerometer placed on the top of the foot may be an alternative solution. Furthermore, in order to add objectivity to the assessment of frailty, accelerometer data (based on smart phone) gained during physical activity can be combined with clinical indicators (<xref ref-type="bibr" rid="b47">47</xref>).</p>
+         </sec>
+         <sec id="s4.6"
+              sec-type="Telecare and telehealth services, and support to the healthcare systems">
+            <label>4.6</label>
+            <title>Telecare and telehealth services, and support to the healthcare systems</title>
+            <p>ICT are effectively implemented at an individual level while they also support healthcare systems’ functions and administration. New design and implementation of new strategies to improve the quality of services are needed. These strategies require investment in ICT tools, promotion of patient empowerment in the management of their disease and a better integration of health and social care services (<xref ref-type="bibr" rid="b39">39</xref>). Integrative healthcare ICT support is based on electronic health record, electronic prescription, personal health folder and web portal interface. This can help to provide better health and social care services’ coordination, monitoring, patients’ self-management and informal caregivers’ involvement. Telecare and telehealth are additional ICT support to healthcare systems. Although according to one of the reviews (<xref ref-type="bibr" rid="b38">38</xref>) included in the analysis, which suggests that the most effective home telecare interventions (for older frail adults and for patients with chronic conditions) are automated vital signs monitoring (in order to reduce health service use), there is a lack of evidence about the interventions’ cost-effectiveness and the effects of home safety and security alert systems. Clinical decision support systems to remotely evaluate patients can generate safe advice about therapy adjustments, substantially reduce number of visits and help physicians to identify the patients that need an urgent or more exhaustive examination (<xref ref-type="bibr" rid="b37">37</xref>). Additionally, telegeriatric services in rural and remote communities are cost effective (<xref ref-type="bibr" rid="b36">36</xref>), but their implementation is slow and fragmented (<xref ref-type="bibr" rid="b35">35</xref>).</p>
+         </sec>
+         <sec id="s4.7" sec-type="ICT adoption and implementation">
+            <label>4.7</label>
+            <title>ICT adoption and implementation</title>
+            <p>Results of the review suggest that ICT implementation into healthcare services is scarce, whereas barriers to the implementation can be technical, behavioural, economic and organizational (<xref ref-type="bibr" rid="b48">48</xref>). Or said differently, they can arise at the individual (e.g. users’ lack of awareness of the benefits, low e-health literacy, a shortage of evidence of cost-effectiveness and interoperability, security concerns), organizational (e. g. financial, legal, social and ethical barriers to implementation) and wider levels of the healthcare systems (<xref ref-type="bibr" rid="b49">49</xref>). The results also suggest that the acceptance and employment of these new technologies remain problematic, especially for older adults. Many of them do not believe that ICT can significantly improve the quality of their life (<xref ref-type="bibr" rid="b14">14</xref>). The number of older adults adopting the Internet (<xref ref-type="bibr" rid="b41">41</xref>) is indicative of their preparedness to accept health related ICT (<xref ref-type="bibr" rid="b14">14</xref>). ICT use of frail persons was lower than that of the non-frail ones (<xref ref-type="bibr" rid="b9">9</xref>). Even more, the frail or pre-frail ICT nonusers also held the most negative opinions on the usefulness or usability of mobile ICT. The main reasons why older adults are more reluctant to accept ICT originate from their performance and effort expectancy, and social influence (<xref ref-type="bibr" rid="b41">41</xref>). Additionally, education, gender, income and age also have an important impact. It is suggested (<xref ref-type="bibr" rid="b14">14</xref>) healthcare related ICT for older adults to be simple and to demonstrate benefits in order to increase older adults’ readiness to adopt them. Special focus should be put on training and support, and personal characteristics should be taken into account. Some of the reasons for scarce ICT adoption and implementation into daily practice can be related to the fact that clinicians and patients are lost in the variety of services that apparently exist, that they doubt about the clinical effectiveness and acceptance of the services, and they do not know how to start the implementation in the clinical practice (<xref ref-type="bibr" rid="b7">7</xref>). Thus, there is a necessity to incorporate specific trainers for the use of ICT by older adults, to develop technologies that would be more unobtrusive and intuitive (<xref ref-type="bibr" rid="b7">7</xref>), and do further research in order to achieve market impact and practice to become a routine use. Furthermore, in order to improve older frail adults’ acceptance of ICT, the latter should be easy to use, non-obstructive, automated and effective. One way to increase the use of ICT in frail older adults is to improve their user experience by adopting user interfaces to their needs. Instead of computers, smart phones or tablets, a TV set might be preferable option. For example Senior-TV is a way to provide a platform that might be closer to experiences of older adults (<xref ref-type="bibr" rid="b50">50</xref>).</p>
+         </sec>
+      </sec>
+      <sec id="s5" sec-type="Conclusions">
+         <label>5</label>
+         <title>Conclusions</title>
+         <p>The aim of this research was to define the ICT used to support the management of frail people, and its effects by using the narrative literature review method. The method proved to be appropriate and the aim was achieved. The results of this review indicate the multidimensional usage of ICT and show that a wide range of substantially potentially beneficial ICT solutions have been developed, covering prevention, screening, diagnosis, treatment and monitoring, to enable older adults to remain independent at home, support caregivers, facilitate remote monitoring and self-management, provide decision support, improve information sharing and coordination of services, support daily activities etc. Namely, many ICTs have a potential to prevent and manage frailty, especially in the domain of physical activity and exercise, social resources and psychological state, falls prevention, support to daily activities and overall well-being. However, it seems their adoption and implementation remain problematic. There is also a lack of evidence whether the beneficial outcomes of using ICT in the provision of care for older adults with disabilities expand to older frail adults as well. We assume that the remaining challenge is also the fact that the speed of technology development exceeds the healthcare systems’ adaptive ability. Therefore, strategic approach should be used to support further research within this research field as well to address and foster implementation and (wider) adoption of health-related ICT.</p>
+         <p>Although we provided a comprehensive insight into the concepts studied in the present work, namely ICT used to support the management of frailty, and its effects and related challenges, we would also like to draw attention to the important limitations of the research. While it is a narrative review, which includes different types of sources, the results cannot be compared instantly due to inconsistent research design. Furthermore, while conducting this review, we were facing the challenge to obtain literature that would address the studied topic directly. Namely, there is a lot of research on ICT within social and healthcare systems, as well as on different aspects, related to older adults. However, there seems to be the lack of studies in this specific research subarea that focuses on the older frail adults. We assume the latter can be due to the novelty of the field and can reflect rather new and underdeveloped ICT research area. So additional research on this topic would be warranted in order to get an even better insight into the studied topic and furthermore develop target public specific prevention and management interventions.</p>
+      </sec>
+      <sec id="s6" sec-type="Funding">
+         <label>6</label>
+         <title>Funding</title>
+         <p>This publication arises from the Joint Action ‘724099 / Advantage’, which has received funding from the European Union’s Health Programme (2014–2020). The content of this report represents the views of the author only and is his/her sole responsibility; it cannot be considered to reflect the views of the European Commission and/or the Consumers, Health, Agriculture and Food Executive Agency or any other body of the European Union. The European Commission and the Agency do not accept any responsibility for the use that may be made of the information it contains.</p>
+      </sec>
+   </body>
+   <back>
+      <ref-list>
+         <ref id="b1">
+            <mixed-citation publication-type="web-page" specific-use="unparsed">World health organization. World report on ageing and health. <year>2015</year> [cited 2017 May 15]. Available from <ext-link ext-link-type="uri"
+                         xlink:href="http://apps.who.int/iris/bitstream/handle/10665/186463/9789240694811_eng.pdf?sequence=1">http://apps.who.int/iris/bitstream/handle/10665/186463/9789240694811_eng.pdf?sequence=1</ext-link>
+            </mixed-citation>
+         </ref>
+         <ref id="b2">
+            <label>2.	</label>
+            <mixed-citation publication-type="book-chapter" specific-use="unparsed">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Kelaiditi</surname> 
+                     <given-names>E</given-names>
+                  </string-name>
+               </person-group>. Frailty and Novel Technologies - A Step Ahead. In: Vellas B., ed. White book on frailty. Chengdu, China: Center of gerontology and geriatrics, West China Hospital, Sichuan University; <year>2016</year>. p. 140-2.</mixed-citation>
+         </ref>
+         <ref id="b3">
+            <label>3.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Murray</surname> 
+                     <given-names>CJ</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Lopez</surname> 
+                     <given-names>AD</given-names>
+                  </string-name>
+               </person-group>. <article-title>Measuring the global burden of disease</article-title>. <source>N Engl J Med</source>. <year>2013</year> 
+               <month>Aug</month>;<volume>369</volume>(<issue>5</issue>):<fpage>448</fpage>–<lpage>57</lpage>. <pub-id pub-id-type="doi">10.1056/NEJMra1201534</pub-id>
+               <pub-id pub-id-type="pmid">23902484</pub-id>
+               <issn>0028-4793</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b4">
+            <label>4.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Veninšek</surname> 
+                     <given-names>G</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Gabrovec</surname> 
+                     <given-names>B</given-names>
+                  </string-name>
+               </person-group>. <article-title>Management of frailty at individual level - clinical management: systematic literature review</article-title>. <source>Zdr Varst</source>. <year>2018</year> 
+               <month>Apr</month>;<volume>57</volume>(<issue>2</issue>):<fpage>106</fpage>–<lpage>15</lpage>. <pub-id pub-id-type="doi">10.2478/sjph-2018-0014</pub-id>
+               <pub-id pub-id-type="pmid">29651322</pub-id>
+               <issn>0351-0026</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b5">
+            <label>5.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Buckinx</surname> 
+                     <given-names>F</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Rolland</surname> 
+                     <given-names>Y</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Reginster</surname> 
+                     <given-names>JY</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Ricour</surname> 
+                     <given-names>C</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Petermans</surname> 
+                     <given-names>J</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Bruyère</surname> 
+                     <given-names>O</given-names>
+                  </string-name>
+               </person-group>. <article-title>Burden of frailty in the elderly population: perspectives for a public health challenge</article-title>. <source>Arch Public Health</source>. <year>2015</year> 
+               <month>Apr</month>;<volume>73</volume>(<issue>1</issue>):<fpage>19</fpage>. <pub-id pub-id-type="doi">10.1186/s13690-015-0068-x</pub-id>
+               <pub-id pub-id-type="pmid">25866625</pub-id>
+               <issn>0778-7367</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b6">
+            <label>6.	</label>
+            <mixed-citation publication-type="web-page" specific-use="unparsed">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Rodríguez-Laso</surname> 
+                     <given-names>Á</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Caballero Mora</surname> 
+                     <given-names>MÁ</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>García Sánchez</surname> 
+                     <given-names>I</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Rodríguez Mañas</surname> 
+                     <given-names>L</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Bernabei</surname> 
+                     <given-names>R</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Gabrovec</surname> 
+                     <given-names>B</given-names>
+                  </string-name>, <etal>et al.</etal>
+               </person-group> 
+               <article-title>State of the art report on the prevention and management of frailty</article-title>; <year>2018</year> [cited 2019 Jan 9]. Available from: <ext-link ext-link-type="uri"
+                         xlink:href="http://advantageja.eu/images/SoAR-AdvantageJA_Fulltext.pdf">http://advantageja.eu/images/SoAR-AdvantageJA_Fulltext.pdf</ext-link>
+            </mixed-citation>
+         </ref>
+         <ref id="b7">
+            <label>7.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Vollenbroek-Hutten</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Jansen-Kosterink</surname> 
+                     <given-names>S</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Tabak</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Feletti</surname> 
+                     <given-names>LC</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Zia</surname> 
+                     <given-names>G</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>N’dja</surname> 
+                     <given-names>A</given-names>
+                  </string-name>, <etal>et al.</etal>; <collab>SPRINTT Consortium</collab>
+               </person-group>. <article-title>Possibilities of ICT-supported services in the clinical management of older adults</article-title>. <source>Aging Clin Exp Res</source>. <year>2017</year> 
+               <month>Feb</month>;<volume>29</volume>(<issue>1</issue>):<fpage>49</fpage>–<lpage>57</lpage>. <pub-id pub-id-type="doi">10.1007/s40520-016-0711-6</pub-id>
+               <pub-id pub-id-type="pmid">28190149</pub-id>
+               <issn>1594-0667</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b8">
+            <label>8.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Beard</surname> 
+                     <given-names>JR</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Bloom</surname> 
+                     <given-names>DE</given-names>
+                  </string-name>
+               </person-group>. <article-title>Towards a comprehensive public health response to population ageing</article-title>. <source>Lancet</source>. <year>2015</year> 
+               <month>Feb</month>;<volume>385</volume>(<issue>9968</issue>):<fpage>658</fpage>–<lpage>61</lpage>. <pub-id pub-id-type="doi">10.1016/S0140-6736(14)61461-6</pub-id>
+               <pub-id pub-id-type="pmid">25468151</pub-id>
+               <issn>0140-6736</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b9">
+            <label>9.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Keränen</surname> 
+                     <given-names>NS</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Kangas</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Immonen</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Similä</surname> 
+                     <given-names>H</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Enwald</surname> 
+                     <given-names>H</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Korpelainen</surname> 
+                     <given-names>R</given-names>
+                  </string-name>, <etal>et al.</etal>
+               </person-group> 
+               <article-title>Use of information and communication technologies among older people with and without frailty: A population-based survey</article-title>. <source>J Med Internet Res</source>. <year>2017</year> 
+               <month>Feb</month>;<volume>19</volume>(<issue>2</issue>):<fpage>e29</fpage>. <pub-id pub-id-type="doi">10.2196/jmir.5507</pub-id>
+               <pub-id pub-id-type="pmid">28196791</pub-id>
+               <issn>1438-8871</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b10">
+            <label>10.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Chang</surname> 
+                     <given-names>JY</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Chen</surname> 
+                     <given-names>LK</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Chang</surname> 
+                     <given-names>CC</given-names>
+                  </string-name>
+               </person-group>. <article-title>Perspectives and expectations for telemedicine opportunities from families of nursing home residents and caregivers in nursing homes</article-title>. <source>Int J Med Inform</source>. <year>2009</year> 
+               <month>Jul</month>;<volume>78</volume>(<issue>7</issue>):<fpage>494</fpage>–<lpage>502</lpage>. <pub-id pub-id-type="doi">10.1016/j.ijmedinf.2009.02.009</pub-id>
+               <pub-id pub-id-type="pmid">19345640</pub-id>
+               <issn>1386-5056</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b11">
+            <label>11.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Stolee</surname> 
+                     <given-names>P</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Steeves</surname> 
+                     <given-names>B</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Glenny</surname> 
+                     <given-names>C</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Filsinger</surname> 
+                     <given-names>S</given-names>
+                  </string-name>
+               </person-group>. <article-title>The use of electronic health information systems in home care: facilitators and barriers</article-title>. <source>Home Healthc Nurse</source>. <year>2010</year> 
+               <month>Mar</month>;<volume>28</volume>(<issue>3</issue>):<fpage>167</fpage>–<lpage>79</lpage>. <pub-id pub-id-type="doi">10.1097/01.NHH.0000369769.32246.92</pub-id>
+               <pub-id pub-id-type="pmid">20308811</pub-id>
+               <issn>0884-741X</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b12">
+            <label>12.	</label>
+            <mixed-citation publication-type="web-page" specific-use="unparsed">
+               <person-group person-group-type="author">
+                  <collab>Jansen - Kosterink S</collab>
+               </person-group>. Vollenbroek - Hutten MM, Hermens HJ. A renewed framework for the evaluation of telemedicine. In: eTELEMED 2016 - The eighth international conference on ehealth, telemedicine, and social medicine. Venice, Italy: IARIA XPS Press; <year>2016</year>. p. 57-62. [Cited 2017 May 24]. Available from: <ext-link ext-link-type="uri"
+                         xlink:href="https://www.thinkmind.org/index.php?view=instance&amp;instance=eTELEMED+2016">https://www.thinkmind.org/index.php?view=instance&amp;instance=eTELEMED+2016</ext-link>
+            </mixed-citation>
+         </ref>
+         <ref id="b13">
+            <label>13.	</label>
+            <mixed-citation publication-type="conference" specific-use="linked">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Peruzzini</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Germani</surname> 
+                     <given-names>M</given-names>
+                  </string-name>
+               </person-group>. <article-title>Designing a user-centred ICT platform for active aging.</article-title> In: 2014 IEEE/ASME - 10th international conference on mechatronic and embedded systems and applications (MESA). Senigallia, Italy: IEEE; <year>2014</year>. p. 1-6. doi: <pub-id pub-id-type="doi">10.1109/MESA.2014.6935624</pub-id>
+            </mixed-citation>
+         </ref>
+         <ref id="b14">
+            <label>14.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Heart</surname> 
+                     <given-names>T</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Kalderon</surname> 
+                     <given-names>E</given-names>
+                  </string-name>
+               </person-group>. <article-title>Older adults: are they ready to adopt health-related ICT?</article-title> 
+               <source>Int J Med Inform</source>. <year>2013</year> 
+               <month>Nov</month>;<volume>82</volume>(<issue>11</issue>):<fpage>e209</fpage>–<lpage>31</lpage>. <pub-id pub-id-type="doi">10.1016/j.ijmedinf.2011.03.002</pub-id>
+               <pub-id pub-id-type="pmid">21481631</pub-id>
+               <issn>1386-5056</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b15">
+            <label>15. </label>
+            <mixed-citation publication-type="book" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Polit</surname> 
+                     <given-names>DF</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Beck</surname> 
+                     <given-names>CT</given-names>
+                  </string-name>
+               </person-group>. <source>Nursing research: generating and assessing evidence for nursing practice</source>. <edition>10th ed.</edition> 
+               <publisher-loc>Philadelphia</publisher-loc>: <publisher-name>Wolters Kluwer</publisher-name>; <year>2017</year>.</mixed-citation>
+         </ref>
+         <ref id="b16">
+            <label>16.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Moher</surname> 
+                     <given-names>D</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Liberati</surname> 
+                     <given-names>A</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Tetzlaff</surname> 
+                     <given-names>J</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Altman</surname> 
+                     <given-names>DG</given-names>
+                  </string-name>; <collab>PRISMA Group</collab>
+               </person-group>. <article-title>Preferred reporting items for systematic reviews and meta-analyses: the PRISMA statement</article-title>. <source>Int J Surg</source>. <year>2010</year>;<volume>8</volume>(<issue>5</issue>):<fpage>336</fpage>–<lpage>41</lpage>. <pub-id pub-id-type="doi" specific-use="author">10.1371/journal.pmed.1000097</pub-id> 
+               <pub-id pub-id-type="doi">10.1016/j.ijsu.2010.02.007</pub-id>
+               <pub-id pub-id-type="pmid">20171303</pub-id>
+               <issn>1743-9191</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b17">
+            <label>17.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Rogante</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Grigioni</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Cordella</surname> 
+                     <given-names>D</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Giacomozzi</surname> 
+                     <given-names>C</given-names>
+                  </string-name>
+               </person-group>. <article-title>Ten years of telerehabilitation: A literature overview of technologies and clinical applications</article-title>. <source>NeuroRehabilitation</source>. <year>2010</year>;<volume>27</volume>(<issue>4</issue>):<fpage>287</fpage>–<lpage>304</lpage>. <pub-id pub-id-type="doi">10.3233/NRE-2010-0612</pub-id>
+               <pub-id pub-id-type="pmid">21160118</pub-id>
+               <issn>1878-6448</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b18">
+            <label>18.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Binder</surname> 
+                     <given-names>EF</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Schechtman</surname> 
+                     <given-names>KB</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Ehsani</surname> 
+                     <given-names>AA</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Steger-May</surname> 
+                     <given-names>K</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Brown</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Sinacore</surname> 
+                     <given-names>DR</given-names>
+                  </string-name>, <etal>et al.</etal>
+               </person-group> 
+               <article-title>Effects of exercise training on frailty in community-dwelling older adults: results of a randomized, controlled trial</article-title>. <source>J Am Geriatr Soc</source>. <year>2002</year> 
+               <month>Dec</month>;<volume>50</volume>(<issue>12</issue>):<fpage>1921</fpage>–<lpage>8</lpage>. <pub-id pub-id-type="doi">10.1046/j.1532-5415.2002.50601.x</pub-id>
+               <pub-id pub-id-type="pmid">12473001</pub-id>
+               <issn>0002-8614</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b19">
+            <label>19.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Cadore</surname> 
+                     <given-names>EL</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Casas-Herrero</surname> 
+                     <given-names>A</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Zambom-Ferraresi</surname> 
+                     <given-names>F</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Idoate</surname> 
+                     <given-names>F</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Millor</surname> 
+                     <given-names>N</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Gómez</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <etal>et al.</etal>
+               </person-group> 
+               <article-title>Multicomponent exercises including muscle power training enhance muscle mass, power output, and functional outcomes in institutionalized frail nonagenarians</article-title>. <source>Age (Dordr)</source>. <year>2014</year> 
+               <month>Apr</month>;<volume>36</volume>(<issue>2</issue>):<fpage>773</fpage>–<lpage>85</lpage>. <pub-id pub-id-type="doi">10.1007/s11357-013-9586-z</pub-id>
+               <pub-id pub-id-type="pmid">24030238</pub-id>
+               <issn>2452-0756</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b20">
+            <label>20.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Rogers</surname> 
+                     <given-names>NT</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Marshall</surname> 
+                     <given-names>A</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Roberts</surname> 
+                     <given-names>CH</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Demakakos</surname> 
+                     <given-names>P</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Steptoe</surname> 
+                     <given-names>A</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Scholes</surname> 
+                     <given-names>S</given-names>
+                  </string-name>
+               </person-group>. <article-title>Physical activity and trajectories of frailty among older adults: Evidence from the English Longitudinal Study of Ageing</article-title>. <source>PLoS One</source>. <year>2017</year> 
+               <month>Feb</month>;<volume>12</volume>(<issue>2</issue>):<fpage>e0170878</fpage>. <pub-id pub-id-type="doi">10.1371/journal.pone.0170878</pub-id>
+               <pub-id pub-id-type="pmid">28152084</pub-id>
+               <issn>1932-6203</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b21">
+            <label>21.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Vincent</surname> 
+                     <given-names>C</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Deaudelin</surname> 
+                     <given-names>I</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Robichaud</surname> 
+                     <given-names>L</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Rousseau</surname> 
+                     <given-names>J</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Viscogliosi</surname> 
+                     <given-names>C</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Talbot</surname> 
+                     <given-names>LR</given-names>
+                  </string-name>, <etal>et al.</etal>; <collab>BRAD group</collab>
+               </person-group>. <article-title>Rehabilitation needs for older adults with stroke living at home: perceptions of four populations</article-title>. <source>BMC Geriatr</source>. <year>2007</year> 
+               <month>Aug</month>;<volume>7</volume>(<issue>1</issue>):<fpage>20</fpage>. <pub-id pub-id-type="doi">10.1186/1471-2318-7-20</pub-id>
+               <pub-id pub-id-type="pmid">17697322</pub-id>
+               <issn>1471-2318</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b22">
+            <label>22.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Barelle</surname> 
+                     <given-names>C</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Tsirbas</surname> 
+                     <given-names>C</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Ibanez</surname> 
+                     <given-names>F</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Vellidou</surname> 
+                     <given-names>E</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Tagaris</surname> 
+                     <given-names>T</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Koutsouri</surname> 
+                     <given-names>G</given-names>
+                  </string-name>, <etal>et al.</etal>
+               </person-group> 
+               <article-title>KINOPTIM: a tele-rehabilitation gaming platform for fall prevention in the elderly community</article-title>. <source>Int J Health Res Innov.</source> 
+               <year>2014</year>;<volume>2</volume>(<issue>1</issue>):<fpage>37</fpage>–<lpage>49</lpage>.</mixed-citation>
+         </ref>
+         <ref id="b23">
+            <label>23.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Lindenberger</surname> 
+                     <given-names>U</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Lövdén</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Schellenbach</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Li</surname> 
+                     <given-names>SC</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Krüger</surname> 
+                     <given-names>A</given-names>
+                  </string-name>
+               </person-group>. <article-title>Psychological principles of successful aging technologies: a mini-review</article-title>. <source>Gerontology</source>. <year>2008</year>;<volume>54</volume>(<issue>1</issue>):<fpage>59</fpage>–<lpage>68</lpage>. <pub-id pub-id-type="doi">10.1159/000116114</pub-id>
+               <pub-id pub-id-type="pmid">18259095</pub-id>
+               <issn>0304-324X</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b24">
+            <label>24.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Baltes</surname> 
+                     <given-names>PB</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Staudinger</surname> 
+                     <given-names>UM</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Lindenberger</surname> 
+                     <given-names>U</given-names>
+                  </string-name>
+               </person-group>. <article-title>Lifespan psychology: theory and application to intellectual functioning</article-title>. <source>Annu Rev Psychol</source>. <year>1999</year>;<volume>50</volume>(<issue>1</issue>):<fpage>471</fpage>–<lpage>507</lpage>. <pub-id pub-id-type="doi">10.1146/annurev.psych.50.1.471</pub-id>
+               <pub-id pub-id-type="pmid">15012462</pub-id>
+               <issn>0066-4308</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b25">
+            <label>25.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Chen</surname> 
+                     <given-names>YR</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Schulz</surname> 
+                     <given-names>PJ</given-names>
+                  </string-name>
+               </person-group>. <article-title>The effect of information communication technology interventions on reducing social isolation in the elderly: a systematic review</article-title>. <source>J Med Internet Res</source>. <year>2016</year> 
+               <month>Jan</month>;<volume>18</volume>(<issue>1</issue>):<fpage>e18</fpage>. <pub-id pub-id-type="doi">10.2196/jmir.4596</pub-id>
+               <pub-id pub-id-type="pmid">26822073</pub-id>
+               <issn>1438-8871</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b26">
+            <label>26.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Nicholson</surname> 
+                     <given-names>NR</given-names>
+                  </string-name>
+               </person-group>. <article-title>A review of social isolation: an important but underassessed condition in older adults</article-title>. <source>J Prim Prev</source>. <year>2012</year> 
+               <month>Jun</month>;<volume>33</volume>(<issue>2-3</issue>):<fpage>137</fpage>–<lpage>52</lpage>. <pub-id pub-id-type="doi">10.1007/s10935-012-0271-2</pub-id>
+               <pub-id pub-id-type="pmid">22766606</pub-id>
+               <issn>0278-095X</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b27">
+            <label>27.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Kostopoulos</surname> 
+                     <given-names>P</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Kyritsis</surname> 
+                     <given-names>AI</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Deriaz</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Konstantas</surname> 
+                     <given-names>D</given-names>
+                  </string-name>
+               </person-group>. <article-title>F2D: A location aware fall detection system tested with real data from daily life of elderly people</article-title>. <source>Proc Comp Sci.</source> 
+               <year>2016</year>;<volume>98</volume>:<fpage>212</fpage>–<lpage>9</lpage>. <pub-id pub-id-type="doi">10.1016/j.procs.2016.09.035</pub-id>
+            </mixed-citation>
+         </ref>
+         <ref id="b28">
+            <label>28.	</label>
+            <mixed-citation publication-type="conference" specific-use="linked">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Gjoreski</surname> 
+                     <given-names>H</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Bizjak</surname> 
+                     <given-names>J</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Gams</surname> 
+                     <given-names>M</given-names>
+                  </string-name>
+               </person-group>. <article-title>Using smartwatch as telecare and fall detection device.</article-title> In: <source>12th international conference on intelligent environments (IE)</source>. <publisher-loc>London, UK</publisher-loc>: <publisher-name>IEEE</publisher-name>, <year>2016</year>:<fpage>242</fpage>-<lpage>5</lpage>. doi: <pub-id pub-id-type="doi" specific-use="author">0.1109/IE.2016.55</pub-id> 
+               <pub-id pub-id-type="doi">10.1109/IE.2016.55</pub-id>
+            </mixed-citation>
+         </ref>
+         <ref id="b29">
+            <label>29.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Pietrzak</surname> 
+                     <given-names>E</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Cotea</surname> 
+                     <given-names>C</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Pullman</surname> 
+                     <given-names>S</given-names>
+                  </string-name>
+               </person-group>. <article-title>Does smart home technology prevent falls in community-dwelling older adults: a literature review</article-title>. <source>Inform Prim Care</source>. <year>2014</year>;<volume>21</volume>(<issue>3</issue>):<fpage>105</fpage>–<lpage>12</lpage>. <pub-id pub-id-type="doi">10.14236/jhi.v21i3.64</pub-id>
+               <pub-id pub-id-type="pmid">25207613</pub-id>
+               <issn>1475-9985</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b30">
+            <label>30.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Tomita</surname> 
+                     <given-names>MR</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Mann</surname> 
+                     <given-names>WC</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Stanton</surname> 
+                     <given-names>K</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Tomita</surname> 
+                     <given-names>AD</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Sundar</surname> 
+                     <given-names>V</given-names>
+                  </string-name>
+               </person-group>. <article-title>Use of currently available smart home technology by frail elders: process and outcomes</article-title>. <source>Top Geriatr Rehabil</source>. <year>2007</year>;<volume>23</volume>(<issue>1</issue>):<fpage>24</fpage>–<lpage>34</lpage>. <pub-id pub-id-type="doi">10.1097/00013614-200701000-00005</pub-id>
+               <issn>0882-7524</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b31">
+            <label>31. </label>
+            <mixed-citation publication-type="book-chapter" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Tomita</surname> 
+                     <given-names>MR</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Russ</surname> 
+                     <given-names>LS</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Sridhar</surname> 
+                     <given-names>R</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Naughton</surname> 
+                     <given-names>MB</given-names>
+                  </string-name>
+               </person-group>. <chapter-title>Smart home with healthcare technologies for community-dwelling older adults</chapter-title>. In: <person-group person-group-type="editor">
+                  <string-name name-style="western">
+                     <surname>Mahmoud</surname> 
+                     <given-names>AQ</given-names>
+                  </string-name>, <role>editor</role>
+               </person-group>. <source>Smart home systems</source>. <publisher-name>IntechOpen</publisher-name>; <year>2010</year>. <pub-id pub-id-type="doi">10.5772/8411</pub-id>
+            </mixed-citation>
+         </ref>
+         <ref id="b32">
+            <label>32.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Wiles</surname> 
+                     <given-names>JL</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Leibing</surname> 
+                     <given-names>A</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Guberman</surname> 
+                     <given-names>N</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Reeve</surname> 
+                     <given-names>J</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Allen</surname> 
+                     <given-names>RE</given-names>
+                  </string-name>
+               </person-group>. <article-title>The meaning of “aging in place” to older people</article-title>. <source>Gerontologist</source>. <year>2012</year> 
+               <month>Jun</month>;<volume>52</volume>(<issue>3</issue>):<fpage>357</fpage>–<lpage>66</lpage>. <pub-id pub-id-type="doi">10.1093/geront/gnr098</pub-id>
+               <pub-id pub-id-type="pmid">21983126</pub-id>
+               <issn>0016-9013</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b33">
+            <label>33.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Lexis</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Everink</surname> 
+                     <given-names>I</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>van der Heide</surname> 
+                     <given-names>L</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Spreeuwenberg</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Willems</surname> 
+                     <given-names>C</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>de Witte</surname> 
+                     <given-names>L</given-names>
+                  </string-name>
+               </person-group>. <article-title>Activity monitoring technology to support homecare delivery to frail and psychogeriatric elderly persons living at home alone</article-title>. <source>Technol Disabil</source>. <year>2013</year>;<volume>25</volume>(<issue>3</issue>):<fpage>189</fpage>–<lpage>97</lpage>. <pub-id pub-id-type="doi">10.3233/TAD-130377</pub-id>
+               <issn>1055-4181</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b34">
+            <label>34.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Ogonowski</surname> 
+                     <given-names>C</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Aal</surname> 
+                     <given-names>K</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Vaziri</surname> 
+                     <given-names>D</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Von Rekowski</surname> 
+                     <given-names>T</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Randall</surname> 
+                     <given-names>D</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Schreiber</surname> 
+                     <given-names>D</given-names>
+                  </string-name>, <etal>et al.</etal>
+               </person-group> 
+               <article-title>ICT-based fall prevention system for older adults: qualitative results from a long-term field study</article-title>. <source>ACM Trans Comput Interact.</source> 
+               <year>2016</year>;<volume>23</volume>(<issue>5</issue>):<fpage>29</fpage>. <pub-id pub-id-type="doi">10.1145/2967102</pub-id>
+            </mixed-citation>
+         </ref>
+         <ref id="b35">
+            <label>35.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Smith</surname> 
+                     <given-names>AC</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Gray</surname> 
+                     <given-names>LC</given-names>
+                  </string-name>
+               </person-group>. <article-title>Telemedicine across the ages</article-title>. <source>Med J Aust</source>. <year>2009</year> 
+               <month>Jan</month>;<volume>190</volume>(<issue>1</issue>):<fpage>15</fpage>–<lpage>9</lpage>.<pub-id pub-id-type="pmid">19120002</pub-id>
+               <issn>0025-729X</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b36">
+            <label>36.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Versleijen</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Martin-Khan</surname> 
+                     <given-names>MG</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Whitty</surname> 
+                     <given-names>JA</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Smith</surname> 
+                     <given-names>AC</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Gray</surname> 
+                     <given-names>LC</given-names>
+                  </string-name>
+               </person-group>. <article-title>A telegeriatric service in a small rural hospital: A case study and cost analysis</article-title>. <source>J Telemed Telecare</source>. <year>2015</year> 
+               <month>Dec</month>;<volume>21</volume>(<issue>8</issue>):<fpage>459</fpage>–<lpage>68</lpage>. <pub-id pub-id-type="doi">10.1177/1357633X15611327</pub-id>
+               <pub-id pub-id-type="pmid">26556059</pub-id>
+               <issn>1357-633X</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b37">
+            <label>37.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Caballero-Ruiz</surname> 
+                     <given-names>E</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>García-Sáez</surname> 
+                     <given-names>G</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Rigla</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Villaplana</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Pons</surname> 
+                     <given-names>B</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Hernando</surname> 
+                     <given-names>ME</given-names>
+                  </string-name>
+               </person-group>. <article-title>A web-based clinical decision support system for gestational diabetes: automatic diet prescription and detection of insulin needs</article-title>. <source>Int J Med Inform</source>. <year>2017</year> 
+               <month>Jun</month>;<volume>102</volume>:<fpage>35</fpage>–<lpage>49</lpage>. <pub-id pub-id-type="doi">10.1016/j.ijmedinf.2017.02.014</pub-id>
+               <pub-id pub-id-type="pmid">28495347</pub-id>
+               <issn>1386-5056</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b38">
+            <label>38.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Barlow</surname> 
+                     <given-names>J</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Singh</surname> 
+                     <given-names>D</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Bayer</surname> 
+                     <given-names>S</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Curry</surname> 
+                     <given-names>R</given-names>
+                  </string-name>
+               </person-group>. <article-title>A systematic review of the benefits of home telecare for frail elderly people and those with long-term conditions</article-title>. <source>J Telemed Telecare</source>. <year>2007</year>;<volume>13</volume>(<issue>4</issue>):<fpage>172</fpage>–<lpage>9</lpage>. <pub-id pub-id-type="doi">10.1258/135763307780908058</pub-id>
+               <pub-id pub-id-type="pmid">17565772</pub-id>
+               <issn>1357-633X</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b39">
+            <label>39.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Merino</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Marqués</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Egurbide</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Romo</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Rodríguez</surname> 
+                     <given-names>I</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>García</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <etal>et al.</etal>
+               </person-group> 
+               <article-title>Deploying integrated care models for frail elderly patients</article-title>. <source>Int J Integr Care</source>. <year>2015</year>;<volume>15</volume>(<issue>5</issue>): <pub-id pub-id-type="doi">10.5334/ijic.2119</pub-id>
+               <issn>1568-4156</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b40">
+            <label>40.	</label>
+            <mixed-citation publication-type="web-page" specific-use="unparsed">
+               <person-group person-group-type="author">
+                  <collab>National Disability Authority</collab>
+               </person-group>. <article-title>Effective implementation and monitoring of telehealth and telecare in Ireland: learning from international best practice</article-title>; <year>2018</year> [cited 2019 Jan 9]. Available from: <ext-link ext-link-type="uri"
+                         xlink:href="http://nda.ie/Publications/Disability-Supports/Assistive-Technology/Effective-implementation-and-monitoring-of-telehealth-and-telecare-in-Ireland-learning-from-international-best-practice.pdf">http://nda.ie/Publications/Disability-Supports/Assistive-Technology/Effective-implementation-and-monitoring-of-telehealth-and-telecare-in-Ireland-learning-from-international-best-practice.pdf</ext-link>
+            </mixed-citation>
+         </ref>
+         <ref id="b41">
+            <label>41.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Niehaves</surname> 
+                     <given-names>B</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Plattfaut</surname> 
+                     <given-names>R</given-names>
+                  </string-name>
+               </person-group>. <article-title>Internet adoption by the elderly: employing IS technology acceptance theories for understanding the age-related digital divide</article-title>. <source>Eur J Inf Syst</source>. <year>2014</year>;<volume>23</volume>(<issue>6</issue>):<fpage>708</fpage>–<lpage>26</lpage>. <pub-id pub-id-type="doi">10.1057/ejis.2013.19</pub-id>
+               <issn>0960-085X</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b42">
+            <label>42.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>M’hiri</surname> 
+                     <given-names>K</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Costanza</surname> 
+                     <given-names>A</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Khazaal</surname> 
+                     <given-names>Y</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Khan</surname> 
+                     <given-names>R</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Zullino</surname> 
+                     <given-names>D</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Achab</surname> 
+                     <given-names>S</given-names>
+                  </string-name>
+               </person-group>. <article-title>Problematic Internet use in Older Adults, A Critical Review of the Literature</article-title>. <source>J Addict Res Ther</source>. <year>2015</year>;<volume>6</volume>(<issue>04</issue>):<fpage>4</fpage>. <pub-id pub-id-type="doi">10.4172/2155-6105.1000253</pub-id>
+               <issn>2155-6105</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b43">
+            <label>43.	</label>
+            <mixed-citation publication-type="web-page" specific-use="unparsed">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Kubitschke</surname> 
+                     <given-names>L</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Cullen</surname> 
+                     <given-names>K</given-names>
+                  </string-name>
+               </person-group>. ICT &amp; Ageing: European Study on Users, Markets and Technologies; <year>2010</year> [cited 2019 Jan 9]. Available from: <ext-link ext-link-type="uri"
+                         xlink:href="https://ec.europa.eu/digital-single-market/en/news/ict-and-ageing-european-study-users-markets-and-technologies">https://ec.europa.eu/digital-single-market/en/news/ict-and-ageing-european-study-users-markets-and-technologies</ext-link>
+            </mixed-citation>
+         </ref>
+         <ref id="b44">
+            <label>44.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Ritt</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Schülein</surname> 
+                     <given-names>S</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Lubrich</surname> 
+                     <given-names>H</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Bollheimer</surname> 
+                     <given-names>LC</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Sieber</surname> 
+                     <given-names>CC</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Gaßmann</surname> 
+                     <given-names>KG</given-names>
+                  </string-name>
+               </person-group>. <article-title>High-technology based gait assessment in frail people: associations between spatio-temporal and three-dimensional gait characteristics with frailty status across four different frailty measures</article-title>. <source>J Nutr Health Aging</source>. <year>2017</year>;<volume>21</volume>(<issue>3</issue>):<fpage>346</fpage>–<lpage>53</lpage>. <pub-id pub-id-type="doi">10.1007/s12603-016-0764-4</pub-id>
+               <pub-id pub-id-type="pmid">28244577</pub-id>
+               <issn>1279-7707</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b45">
+            <label>45.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Schwenk</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Mohler</surname> 
+                     <given-names>J</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Wendel</surname> 
+                     <given-names>C</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>D’Huyvetter</surname> 
+                     <given-names>K</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Fain</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Taylor-Piliae</surname> 
+                     <given-names>R</given-names>
+                  </string-name>, <etal>et al.</etal>
+               </person-group> 
+               <article-title>Wearable sensor-based in-home assessment of gait, balance, and physical activity for discrimination of frailty status: baseline results of the Arizona frailty cohort study</article-title>. <source>Gerontology</source>. <year>2015</year>;<volume>61</volume>(<issue>3</issue>):<fpage>258</fpage>–<lpage>67</lpage>. <pub-id pub-id-type="doi">10.1159/000369095</pub-id>
+               <pub-id pub-id-type="pmid">25547185</pub-id>
+               <issn>0304-324X</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b46">
+            <label>46.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Wang</surname> 
+                     <given-names>C</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Wang</surname> 
+                     <given-names>X</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Long</surname> 
+                     <given-names>Z</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Yuan</surname> 
+                     <given-names>J</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Qian</surname> 
+                     <given-names>Y</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Li</surname> 
+                     <given-names>J</given-names>
+                  </string-name>
+               </person-group>. <article-title>Estimation of temporal gait parameters using a wearable microphone-sensor-based system</article-title>. <source>Sensors (Basel)</source>. <year>2016</year> 
+               <month>Dec</month>;<volume>16</volume>(<issue>12</issue>):<fpage>2167</fpage>. <pub-id pub-id-type="doi">10.3390/s16122167</pub-id>
+               <pub-id pub-id-type="pmid">27999321</pub-id>
+               <issn>1424-8220</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b47">
+            <label>47.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Fontecha</surname> 
+                     <given-names>J</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Navarro</surname> 
+                     <given-names>FJ</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Hervás</surname> 
+                     <given-names>R</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Bravo</surname> 
+                     <given-names>J</given-names>
+                  </string-name>
+               </person-group>. <article-title>Elderly frailty detection by using accelerometer-enabled smartphones and clinical information records</article-title>. <source>Pers Ubiquitous Comput</source>. <year>2013</year>;<volume>17</volume>(<issue>6</issue>):<fpage>1073</fpage>–<lpage>83</lpage>. <pub-id pub-id-type="doi">10.1007/s00779-012-0559-5</pub-id>
+               <issn>1617-4909</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b48">
+            <label>48.	</label>
+            <mixed-citation publication-type="conference" specific-use="unparsed">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Tanriverdi</surname> 
+                     <given-names>H</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Iacono</surname> 
+                     <given-names>CS</given-names>
+                  </string-name>
+               </person-group>. <article-title>Knowledge Barriers to Diffusion of Telemedicine.</article-title> In: Conference proceedings: <source>19th International Conference on Information Systems</source>; <conf-date>1998 December 13-16</conf-date>; <conf-loc>Helsinki, Finland</conf-loc>. p. <fpage>39</fpage>–<lpage>50</lpage>.</mixed-citation>
+         </ref>
+         <ref id="b49">
+            <label>49.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Ross</surname> 
+                     <given-names>J</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Stevenson</surname> 
+                     <given-names>F</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Lau</surname> 
+                     <given-names>R</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Murray</surname> 
+                     <given-names>E</given-names>
+                  </string-name>
+               </person-group>. <article-title>Exploring the challenges of implementing e-health: a protocol for an update of a systematic review of reviews</article-title>. <source>BMJ Open</source>. <year>2015</year> 
+               <month>Apr</month>;<volume>5</volume>(<issue>4</issue>):<fpage>e006773</fpage>. <pub-id pub-id-type="doi">10.1136/bmjopen-2014-006773</pub-id>
+               <pub-id pub-id-type="pmid">25869685</pub-id>
+               <issn>2044-6055</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b50">
+            <label>50.	</label>
+            <mixed-citation publication-type="web-page" specific-use="unparsed">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Senior</surname> 
+                     <given-names>TV</given-names>
+                  </string-name>
+               </person-group>. [Cited 2017 May 13]. Available from: <ext-link ext-link-type="uri" xlink:href="www.aal-europe.eu/projects/senior-tv">www.aal-europe.eu/projects/senior-tv</ext-link>
+            </mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

@@ -1,0 +1,1162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD with MathML3 v1.1 20151215//EN" "JATS-journalpublishing1-mathml3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink"
+         dtd-version="1.1"
+         xml:lang="en"
+         article-type="other">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher-id">Zdrav Vestn</journal-id>
+         <journal-id journal-id-type="nlm-ta">Zdrav Vestn</journal-id>
+         <journal-id journal-id-type="doi">Zdrav Vestn</journal-id>
+         <journal-title-group>
+            <journal-title>Slovenian Medical Journal</journal-title>
+            <trans-title-group xml:lang="sl">
+               <trans-title>Zdravniški vestnik</trans-title>
+            </trans-title-group>
+            <abbrev-journal-title>Zdrav Vestn</abbrev-journal-title>
+         </journal-title-group>
+         <issn publication-format="ppub" pub-type="ppub">1318-0347</issn>
+         <issn publication-format="epub" pub-type="epub">1581-0224</issn>
+         <issn-l>0350-0063</issn-l>
+         <publisher>
+            <publisher-name xml:lang="sl">Slovensko zdravniško društvo</publisher-name>
+            <publisher-name xml:lang="en">Slovenian Medical Association</publisher-name>
+            <publisher-loc xml:lang="sl">Ljubljana, Slovenia</publisher-loc>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.6016/ZdravVestn.2880</article-id>
+         <article-id pub-id-type="publisher-id">2880</article-id>
+         <article-categories>
+            <subj-group subj-group-type="discipline" xml:lang="en">
+               <subject>Medicine and health sciences</subject>
+               <subj-group>
+                  <subject>Cardiovascular system</subject>
+               </subj-group>
+            </subj-group>
+            <subj-group subj-group-type="article-type" xml:lang="en">
+               <subject>Review article</subject>
+            </subj-group>
+            <subj-group subj-group-type="heading" xml:lang="en">
+               <subject>Cardiovascular system</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title xml:lang="en">Characterization of erythrocytosis and a proposed diagnostic algorithm in Slovenia</article-title>
+            <alt-title alt-title-type="running-head" xml:lang="en">Characterization of erythrocytosis and a proposed diagnostic algorithm in Slovenia</alt-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Debeljak</surname>
+                  <given-names>Nataša</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1">1</xref>
+            </contrib>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Lazarevič</surname>
+                  <given-names>Julija</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1">1</xref>
+               <xref ref-type="aff" rid="aff2">2</xref>
+            </contrib>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Miskič</surname>
+                  <given-names>Dejan</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1">1</xref>
+               <xref ref-type="aff" rid="aff2">2</xref>
+            </contrib>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Vermiglio</surname>
+                  <given-names>Lucija</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1">1</xref>
+               <xref ref-type="aff" rid="aff2">2</xref>
+            </contrib>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Kopitar</surname>
+                  <given-names>Anja</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1">1</xref>
+               <xref ref-type="aff" rid="aff2">2</xref>
+            </contrib>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Solarovič</surname>
+                  <given-names>Anja</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1">1</xref>
+               <xref ref-type="aff" rid="aff2">2</xref>
+            </contrib>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Sever</surname>
+                  <given-names>Matjaž</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff2">2</xref>
+            </contrib>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Fink</surname>
+                  <given-names>Martina</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff2">2</xref>
+            </contrib>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Pajič</surname>
+                  <given-names>Tadej</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff2">2</xref>
+            </contrib>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Anžej Doma</surname>
+                  <given-names>Saša</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff2">2</xref>
+            </contrib>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Moškon</surname>
+                  <given-names>Miha</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff3">3</xref>
+            </contrib>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Preložnik Zupan</surname>
+                  <given-names>Irena</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff2">2</xref>
+               <xref ref-type="corresp" rid="corr"/>
+            </contrib>
+         </contrib-group>
+         <aff id="aff1" xml:lang="en">
+            <label>1</label>
+            <institution>Institute of Biochemistry, Faculty of medicine, University of Ljubljana, Ljubljana, Slovenia</institution>
+         </aff>
+         <aff id="aff2" xml:lang="en">
+            <label>2</label>
+            <institution>Department of Haematology, Division of Internal Medicine, University Medical Centre Ljubljana, Ljubljana, Slovenia</institution>
+         </aff>
+         <aff id="aff3" xml:lang="en">
+            <label>3</label>
+            <institution>Faculty of computer and informatino science, University of Ljubljana, Ljubljana, Slovenia</institution>
+         </aff>
+         <author-notes>
+            <fn fn-type="conflict" xml:lang="en">
+               <p>The authors have declared that no competing interests exist.</p>
+            </fn>
+            <fn fn-type="conflict" xml:lang="sl">
+               <p>Avtorji so izjavili, da ne obstajajo nobeni konkurenčni interesi.</p>
+            </fn>
+            <corresp id="corr">Irena Preložnik Zupan, e-mail: <email xlink:type="simple"/>
+            </corresp>
+         </author-notes>
+         <pub-date pub-type="ppub">
+            <month>6</month>
+            <year>2019</year>
+         </pub-date>
+         <pub-date pub-type="epub">
+            <month>6</month>
+            <year>2019</year>
+         </pub-date>
+         <volume>88</volume>
+         <issue>5–6</issue>
+         <fpage>263</fpage>
+         <lpage>75</lpage>
+         <history>
+            <date date-type="received">
+               <day>2</day>
+               <month>10</month>
+               <year>2018</year>
+            </date>
+            <date date-type="accepted">
+               <day>4</day>
+               <month>2</month>
+               <year>2019</year>
+            </date>
+         </history>
+         <permissions>
+            <copyright-statement xml:lang="en">Copyright © 2019, Slovenian Medical Association (SZD)</copyright-statement>
+            <copyright-statement xml:lang="sl">© 2019, Slovensko zdravniško društvo (SZD)</copyright-statement>
+            <copyright-year>2019</copyright-year>
+            <copyright-holder xml:lang="en">Slovenian Medical Association (SZD)</copyright-holder>
+            <copyright-holder xml:lang="sl">Slovensko zdravniško društvo (SZD)</copyright-holder>
+            <license xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                     xlink:type="simple"
+                     xml:lang="en">
+               <license-p>This is an open access article distributed under the terms of the
+          <ext-link ext-link-type="uri"
+                            xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                            xlink:type="simple">Creative Commons Attribution-NonCommercial
+            License</ext-link>, which permits unrestricted use, distribution, and
+          reproduction in any medium, provided the original author and source are
+          credited and only for non-commercial purposes. </license-p>
+            </license>
+            <license xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                     xlink:type="simple"
+                     xml:lang="sl">
+               <license-p>To je članek z odprtim dostopom, ki ga lahko uporabite pod pogoji iz
+          <ext-link ext-link-type="uri"
+                            xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                            xlink:type="simple">Creative Commons Priznanje avtorstva-Nekomercialno
+            licence</ext-link>. ki dovoljuje distribucijo, predelavo ali
+          prilagoditev, ter gradijo na njem, v nekomercialne namene, z navedbo avtorja
+          in izvirnega dela.</license-p>
+            </license>
+         </permissions>
+         <abstract xml:lang="en">
+            <title>Abstract</title>
+            <p>Erythrocytosis is a condition characterised by increased red blood cell mass in the body. Patients usually present with increased haematocrit, increased haemoglobin concentration and an increased number of red blood cells. Erythrocytosis can be absolute or relative. Absolute erythrocytosis is either primary or secondary, both groups are further divided into congenital and acquired. The characterisation is often problematic and aetiology remains unknown in many patients, resulting in an entity called “idiopathic erythrocytosis”. The aim of this article is to improve the diagnostic methods for erythrocytosis by including further genetic testing into routine clinical practice.</p>
+            <p>We propose an extended and detailed algorithm for diagnosis of erythrocytosis. We describe the classification of various forms of erythrocytoses, their clinical presentation, genetic background, diagnostic methods and treatment options. By reviewing the 5-year period of <italic>JAK2</italic> mutation testing (the first laboratory test performed in a patient with erythrocytosis) we obtained better insight into the prevalence of the disease in Slovenia.</p>
+         </abstract>
+         <kwd-group xml:lang="en">
+            <kwd>erythrocytosis</kwd>
+            <kwd>diagnostic algorithm</kwd>
+            <kwd>familial erythrocytosis</kwd>
+            <kwd>JAK2 mutation</kwd>
+            <kwd>erythropoietin</kwd>
+         </kwd-group>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>TotalReferences</meta-name>
+               <meta-value>29</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ReferencesParsed</meta-name>
+               <meta-value>17</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ReferencesBillable</meta-name>
+               <meta-value>19</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>LinkServices</meta-name>
+               <meta-value>pubmed-crossref</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ReferencesLinked</meta-name>
+               <meta-value>17</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ReferencesLinkedDOI</meta-name>
+               <meta-value>14</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ReferencesLinkedPMID</meta-name>
+               <meta-value>15</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>JournalReferences</meta-name>
+               <meta-value>16</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>BookReferences</meta-name>
+               <meta-value>2</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>BookChapterReferences</meta-name>
+               <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ConferenceReferences</meta-name>
+               <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ElectronicReferences</meta-name>
+               <meta-value>1</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>DissertationReferences</meta-name>
+               <meta-value>4</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>LegalReferences</meta-name>
+               <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>StandardReferences</meta-name>
+               <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>OtherReferences</meta-name>
+               <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>UnknownReferences</meta-name>
+               <meta-value>5</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ReferencesSemiParsed</meta-name>
+               <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ReferencesBookUnparsed</meta-name>
+               <meta-value>1</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>EditorialStyle</meta-name>
+               <meta-value>ICMJE-WHO</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <body>
+      <sec id="s1" sec-type="Introduction">
+         <label>1</label>
+         <title>Introduction</title>
+         <p>The production of red blood cells in the body (erythropoiesis) is a tightly controlled process of maintaining the normal mass of red blood cells needed to satisfy the needs of oxygen delivery to all tissues. Different disorders may lead to erythrocytosis, a conditions with an increased red cell mass. This is reflected by an increase in haematocrit (Ht) and haemoglobin (Hb) levels and a higher red blood cell count. The term polycythemia has been incorrectly used as a synonym for erythrocytosis. Polycythemia refers to an increase in the number of three types of blood cells (<xref ref-type="bibr" rid="b1">1</xref>).</p>
+         <p>Firstly, we should always differentiate between absolute or real erythrocythosis from relative or false or pseudo erythrocythosis. This is not always simple, as there is no direct link between the concentration of haemoglobin, haematocrit and red cell mas in the body (<xref ref-type="bibr" rid="b2">2</xref>). Absolute erythrocytosis represents an increase in the total volume/mass by over 25 % over normal mass or an increase in the concentration of haemoglobin and haematocrit on at least two separate occasions with an interval of at least 2 months. In relative erythrocytosis, total red blood cell volume/mass is normal, as the haematocrit and the concentration of haemoglobin are increased on account of lower plasma volume (e.g. with dehydration) (<xref ref-type="bibr" rid="b3">3</xref>). The following text focuses on absolute erythrocytosis.</p>
+         <p>
+            <italic>Classification of erythrocytosis</italic>. Considering their origin, there are divided into primary and secondary, and both groups are further divided into congenital and acquired (<xref ref-type="table" rid="table1">Table 1</xref>). <italic>Primary </italic>refers to independent or autonomous proliferation of red blood cells in the bone marrow, which is the result of congenital or acquired mutation in the gene regulating erythropoiesis (i.e. intrinsic red cell disorder). This group typically has lower concentration of erythropoietin (EPO) in the blood. Therefore, erythropoiesis is independent of lower EPO concentration. <italic>Congenital erythrocytosis</italic> is present at birth and is mostly inherited as the same changes are found in other members of the same family (familial disease); they are rarely sporadic when an individual develops a new mutation. <italic>Acquired</italic> 
+            <italic>erythrocytosis</italic> can develop anytime in life (<xref ref-type="bibr" rid="b3">3</xref>). The most common primary acquired erythrocytosis is polycythaemia vera (PV), which is a non-leukemic myeloproliferative neoplasm (<xref ref-type="bibr" rid="b2">2</xref>). Only primary congenital erythrocytosis is associated with a faulty erythropoietin receptor (EPOR) due to a mutation in the <italic>EPOR </italic>gene (<xref ref-type="fig" rid="fig1">Figure 1</xref>)<italic>.</italic>
+         </p>
+         <fig position="anchor" id="fig1">
+            <label>Figure 1:</label>
+            <caption>
+               <p> Presentation of pathway and genes involved in the development of familial erythrocytosis.</p>
+               <p>A. Renal cells produce EPO as a response to low oxygen levels (hypoxia). HIF2α is the ‘main sensor’ for detecting oxygen in the cell. Under normoxic conditions, PHD2 hydroxylates HIFα proteins, thus facilitating VHL binding and subsequent degradation. Therefore, HIFα levels are low under normoxic conditions. An anomaly in any of the involved proteins may prevent HIFα degradation and cause it to accumulate in the cell, as is the case in hypoxia. As HIF2α is not hydroxylated, VHL cannot bind to it. This prevents degradation of HIFα, which translocates into the nucleus, where it binds with HIF2B and works as a transcription factor for different genes, including EPO. Cells begin to synthesise EPO and release it in the blood.</p>
+               <p>B. Erythroid progenitors in the bone marrow have an EPO receptor (EPOR) on their cell surface. The binding of EPO to the receptor induces a cascade of signals, leading to the transduction of numerous genes involved in the growth, proliferation and differentiation of these cells, which leads to accelerated production of new red blood cells.</p>
+               <p>C. Haemoglobin binds oxygen in the lungs and releases it into tissues in the presence of bisphosphoglycerate. Mutations in several genes (<italic>HBB, HBA, BPGM</italic>) increase oxygen-Hb affinity and reduce the release in the tissue (from Bento et al) (<xref ref-type="bibr" rid="b3">3</xref>).</p>
+               <p>Legend: BPGM: bisphosphoglycerate mutase; EGLN1: egl nine homolog 1, also called PHD2 – prolyl hydroxylase 2; EPAS1: endothelial PAS domain protein 1, also called HIF2A; EPO: erythropoietin; EPOR: erythropoietin receptor; ECYT1–7: familial erythrocytosis type 1–7; HBA: subunit of haemoglobin alfa; HBB: subunit of haemoglobin beta; HIF2A: hypoxia-inducible factor&#160;2 alpha; HIF2B: hypoxia-inducible factor 2 beta; OH: hydroxyl group; VHL: von Hippel-Lindau tumour-suppressing protein.</p>
+            </caption>
+            <p>
+               <graphic xlink:href="2880-en-web-resources/image/zdravvestn-2880-en-01.png"/>
+            </p>
+            <p>Legend: BPGM: bisphosphoglycerate mutase; EGLN1: egl nine homolog 1, also called PHD2 – prolyl hydroxylase 2; EPAS1: endothelial PAS domain protein 1, also called HIF2A; EPO: erythropoietin; EPOR: erythropoietin receptor; ECYT1–7: familial erythrocytosis type 1–7; HBA: subunit of haemoglobin alfa; HBB: subunit of haemoglobin beta; HIF2A: hypoxia-inducible factor 2 alpha; HIF2B: hypoxia-inducible factor 2 beta; OH: hydroxyl group; VHL: von Hippel-Lindau tumour-suppressing protein.</p>
+         </fig>
+         <p>
+            <italic>Secondary erythrocytosis</italic> is caused by a disorder independent of bone marrow accelerating erythropoiesis through raised EPO or a different mechanism (<xref ref-type="bibr" rid="b4">4</xref>). Such patients have normal or elevated concentrations of EPO in the blood. <italic>Congenital secondary erythrocytosis</italic> are caused by genetic mutations for proteins involved in oxygen sensing in the blood and proteins that affect the oxygen affinity of haemoglobin (<xref ref-type="fig" rid="fig1">Figure 1</xref>). <italic>Acquired secondary erythrocytoses </italic>are associated with diseases and conditions accompanied by hypoxemia or inadequate excessive production of EPO. These include heart and lung diseases with hypoxemia, renal conditions involving inadequate EPO production or extrinsic causes, such as living at high altitudes, smoking, carbon monoxide poisoning, etc. (<xref ref-type="bibr" rid="b5">5</xref>,<xref ref-type="bibr" rid="b6">6</xref>). Secondary erythrocytoses can also be caused by taking drugs, such as diuretics, androgen hormones, tyrosine kinase inhibitors or recombinant EPO (<xref ref-type="bibr" rid="b2">2</xref>). These are the most common.</p>
+         <p>When no cause can be identified, the condition is termed <italic>idiopathic erythrocytosis</italic>. Over 70 % of erythrocytoses with a suspected familiar or genetic background have no clear genetic background (<xref ref-type="bibr" rid="b3">3</xref>).</p>
+         <p>In Slovenia, routine molecular diagnostics of polycytemia vera has been performed at a Specialised haematology laboratory of the Clinical Department of Haematology at the Ljubljana Medical Centre (<xref ref-type="bibr" rid="b7">7</xref>) and also at Maribor Medical Centre. We do not yet have the option to identify primary and secondary congenital (familial) erythrocytosis, which has been routinely identified in several bigger laboratories across the world (<xref ref-type="table" rid="table1">Table 1</xref>). However, the method is being introduced.</p>
+      </sec>
+      <sec id="s2"
+           sec-type="Clinical manifestation of patients with erythrocytosis">
+         <label>2</label>
+         <title>Clinical manifestation of patients with erythrocytosis</title>
+         <p>Patients with erythrocytosis usually have plethoric appearance. They may have signs of hyperviscosity (headache, vertigo, nose bleeds, blurred vision, dyspnoea with exertion, fatigue, paraesthesia, chest and abdominal pain, myalgia and weakness) or are without symptoms (<xref ref-type="bibr" rid="b3">3</xref>). In a patient complaining of pruritus, particularly after bathing, erythromelalgia, gout, history of arterial or venous thrombosis, bleeding or abdominal tension due to enlarged spleen PV should be suspected. (<xref ref-type="bibr" rid="b7">7</xref>).</p>
+         <p>Sleepiness during the day and loud snoring are also typical of obstructive sleep apnoea, common in obese persons with BMI &gt; 30 kg/m (<xref ref-type="bibr" rid="b2">2</xref>). Chronic carboxyhaemoglobinaemia in smokers and workers exposed to carbon monoxide can also cause secondary acquired erythrocytosis.</p>
+         <p>If erythrocytosis is the result of pulmonary disease, respiratory problems are present (shortness of breath, dyspnoea with exertion, chronic cough, barrel chest, cyanosis, digital clubbing). Renal artery stenosis is presented with high blood pressure and erythrocytosis due to tissue hypoxia. Erythrocytosis has also been associated with polycystic kidney disease. It may also be linked to liver cysts and dysfunction. 10–15 % patients after renal transplant have transient erythrocytosis. Raised levels of EPO in the body may also be the result of paraneoplastic manifestation associated with different tumours, which can be asymptomatic. (<xref ref-type="table" rid="table1">Table 1</xref>). It also develops in treatment with androgens and abuse of recombinant EPO (<xref ref-type="bibr" rid="b4">4</xref>,<xref ref-type="bibr" rid="b8">8</xref>,<xref ref-type="bibr" rid="b9">9</xref>). The rare TEMPI syndrome is also associated with elevated EPO and consequently erythrocytosis. Other symptoms include monoclonal gammopathy, perinephric fluid collection and intrapulmonary shunting. Erythrocytosis is also found found in patients with POEMS syndrome (polyneuropathy, organomegaly, endocrinopathy, monoclonal gammopathy, skin changes) (<xref ref-type="bibr" rid="b2">2</xref>,<xref ref-type="bibr" rid="b7">7</xref>).</p>
+         <table-wrap position="anchor" id="table1">
+            <label>Table 1:</label>
+            <caption>
+               <p> Classification of erythrocytosis (after Bento et al) (<xref ref-type="bibr" rid="b3">3</xref>).</p>
+            </caption>
+            <table>
+               <colgroup>
+                  <col/>
+                  <col/>
+                  <col/>
+                  <col/>
+               </colgroup>
+               <thead>
+                  <tr>
+                     <th colspan="4">Absolute erythrocytosis (known cause)</th>
+                  </tr>
+               </thead>
+               <tbody>
+                  <tr>
+                     <th colspan="2">Primary erythrocytosis (↓EPO)</th>
+                     <th colspan="2">Secondary erythrocytosis (normal or ↑EPO)</th>
+                  </tr>
+                  <tr>
+                     <th>Congenital</th>
+                     <th>Acquired</th>
+                     <th>Congenital</th>
+                     <th>Acquired</th>
+                  </tr>
+                  <tr>
+                     <td>Congenital erythrocytosis type 1 (ECYT1) ( <italic>EPOR</italic>mutation)</td>
+                     <td>Polycythaemia vera ( <italic>JAK2, other</italic> mutation)</td>
+                     <td>
+                        <list>
+                           <list-item>
+                              <label>•</label>
+                              <p>Congenital erythrocytosis type 2, 3, 4 and 5 (ECYT2, 3, 4 and 5)with an anomaly in the oxygen-sensing pathway (mutation in <italic>VHL, EGLN1, EPAS1, EPO</italic>genes).</p>
+                           </list-item>
+                        </list>
+                     </td>
+                     <td>
+                        <p>Elevated EPO due to chronic or intermittent hypoxemia – physiologically appropriate:</p>
+                        <p>•staying at high altitudes;</p>
+                        <p>•chronic pulmonary disease;</p>
+                        <p>•cyanotic heart abnormalities (R-L shunt),</p>
+                        <p>•smoking;</p>
+                        <p>•chronic exposure to carbon monoxide;</p>
+                        <p>•hypoventilation syndromes (obesity, neurological disease, sleep apnoea);</p>
+                        <p>•renal disorders with local hypoxia (stenosis of renal artery, polycystic kidney disease, hydronephrosis, condition after kidney transplant, kidney failure).</p>
+                        <p>Hypoxia-independent production of EPO – physiologically inappropriate:</p>
+                        <p>•EPO-excreting tumour (renal cell carcinoma, hepatocellular carcinoma, uterine leiomyoma, cerebellar hemangioblastoma, meningioma, pheochromocytoma/paraganglioma, parathyroid carcinoma/adenoma);</p>
+                        <p>•androgen influence.</p>
+                        <p>Other causes:</p>
+                        <p>•use of recombinant EPO and androgens.</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="4">Idiopathic erythrocytosis (unknown causes)</td>
+                  </tr>
+               </tbody>
+            </table>
+            <table-wrap-foot>
+               <p>Legend: <italic>BPGM:</italic> bisphosphoglycerate mutase; ECYT1–7: familial erythrocytosis type 1–7; <italic>EGLN1:</italic> egl nine homolog 1, also called PHD2, prolyl hydroxilase 2; <italic>EPAS1:</italic> endothelial PAS domain protein 1, also called HIF2A, hypoxia-inducing factor 2 alpha; <italic>EPO:</italic> erythropoietin; <italic>EPOR:</italic> erythropoietin receptor; Hb: haemoglobin; <italic>HBA1:</italic> subunit of haemoglobin alpha 1; <italic>HBA2:</italic> subunit of haemoglobin alpha 2; <italic>HBB:</italic> subunit of haemoglobin alpha beta; <italic>JAK2:</italic> Janus kinase 2; <italic>VHL:</italic> von Hippel-Lindau tumour-suppressing gene.</p>
+            </table-wrap-foot>
+         </table-wrap>
+         <p>Positive familial history or presentation in youth is significant to establish congenital forms of erythrocytosis. Clinical manifestation may vary; patients may be asymptomatic or have symptoms of hyperviscosity (headache, vertigo, epitaxies, dyspnoea with exertion, pruritus). Thrombotic or haemorrhagic complications are possible. Complications resulting in death due to arterial hypertension, intracranial bleeding, deep vein thrombosis, coronary disease and myocardial infarction have been reported in case of congenital erythrocytosis type 1 (ECYT1). Patients with congenital erythrocytosis type 2 (ECYT2, Chuvas polycythaemia) typically have red cheeks and low blood pressure, and may develop vertebral haemangiomas or varicose veins, and suffer from cerebral vascular events and peripheral thrombosis. Similarly, clinical presentation in patients with haemoglonopathy due to increased oxygen affinity varies from no symptoms to darker skin and mucosa, symptoms of hyperviscosity and thromboembolic events. A link between pheochromocytoma and paraganglioma with mutations in the oxygen sensation pathway has been reported. Patients with congenial erythrocytosis type 4 (ECYT4) are more prone to develop pulmonary hypertension (<xref ref-type="bibr" rid="b3">3</xref>,<xref ref-type="bibr" rid="b9">9</xref>).</p>
+      </sec>
+      <sec id="s3" sec-type="Genetic background of erythrocytosis">
+         <label>3</label>
+         <title>Genetic background of erythrocytosis</title>
+         <sec id="s3.1" sec-type="Primary erythrocytosis">
+            <label>3.1</label>
+            <title>Primary erythrocytosis</title>
+            <p>Primary erythrocytosis is caused by a genetic anomaly in haemopoetic stem cells, which leads to cell oversensitivity to EPO and unregulated, excessive production of red blood cells. (<xref ref-type="fig" rid="fig1">Figure 1</xref>B). The level of serum EPO is usually lowered, an occassionaly within the reference range (from 3.3 to 16.6 E/mL).</p>
+            <sec id="s3.1.1" sec-type="Polycythaemia vera (mutation of the JAK2 gene)">
+               <label>3.1.1</label>
+               <title>Polycythaemia vera (mutation of the JAK2 gene)</title>
+               <p>PV (OMIM 263300) is the most commonly acquired primary erythrocytosis. Janus kinasee 2 point mutation (<italic>JAK2</italic>) c.1849G &gt; T in exon 14 (<italic>JAK2</italic> V617F) or exon 12 changes the activity of JAK2 enzyme to make it independent of EPO. <italic>JAK2 </italic>V617F mutation appears in 95 % of patients, while the exon 12 mutation is present in 3 %. Less common causes of PV include mutations in the <italic>CALR,</italic> 
+                  <italic>TET2 </italic>and <italic>EGLN1</italic> (<xref ref-type="bibr" rid="b9">9</xref>,<xref ref-type="bibr" rid="b19">19</xref>) genes. It is clear that neither <italic>JAK2 </italic>V617F nor <italic>CALR</italic> mutations are specific to PV. Only the presence of erythrocytosis distinguishes PV from other myeloproliferative neoplasms (<xref ref-type="bibr" rid="b10">10</xref>).</p>
+            </sec>
+            <sec id="s3.1.2"
+                 sec-type="Familial erythrocytosis type 1 (mutation of the EPOR gene)">
+               <label>3.1.2</label>
+               <title>Familial erythrocytosis type 1 (mutation of the EPOR gene)</title>
+               <p>Primary familial type 1 erythrocytosis (ECYT1, OMIM 133100) is caused by congenital mutation in the gene for the erythropoietin receptor (<italic>EPOR</italic>). Familial erythrocytosis is also called congenital erythrocytosis (CE) or primary familial and congenital polycythaemia (PFCP) (<xref ref-type="bibr" rid="b11">11</xref>). <italic>EPOR </italic>gene mutation in exon 8 due to premature cessation of protein synthesis leads to a shorter receptor missing the binding point for SHP-1 regulation protein that regulates the activity of EPOR. Therefore, the receptor remains active for a longer period of time, which causes unregulated division of red blood cells. At least 18 mutations in the <italic>EPOR</italic> gene lead to a shorter receptor and thereby erythrocytosis. Studies have shown that congenital erythrocytosis due to <italic>EPOR </italic>mutation has autosomal dominant inheritance and unknown penetrance.</p>
+            </sec>
+         </sec>
+         <sec id="s3.2" sec-type="Secondary erythrocytosis">
+            <label>3.2</label>
+            <title>Secondary erythrocytosis</title>
+            <p>Secondary erythrocytosis is caused by inappropriate regulation of erythropoiesis due to abnormalities in the oxygen sensation pathway in the kidneys or different affinity of oxygen for haemoglobin (<xref ref-type="fig" rid="fig1">Figure 1</xref>A and <xref ref-type="fig" rid="fig1">Figure 1</xref>C) (<xref ref-type="bibr" rid="b3">3</xref>,<xref ref-type="bibr" rid="b9">9</xref>). Serum EPO level is normal or elevated.</p>
+            <sec id="s3.2.1"
+                 sec-type="Chuvash erythrocytosis (mutation of the VHL gene)">
+               <label>3.2.1</label>
+               <title>Chuvash erythrocytosis (mutation of the VHL gene)</title>
+               <p>Chuvash erythrocytosis or familial erythrocytosis type 2 (ECYT2, OMIM 263400) is caused by a mutation in the gene for Von-Hippel Lindau tumour suppressor protein (<italic>VHL</italic>). A point mutation of the <italic>VHL </italic>gene reduces the binding of the protein to HIF2α transcription factor and boosts EPO synthesis (<xref ref-type="fig" rid="fig1">Figure 1</xref>A). Over 15 point mutations in the <italic>VHL, </italic>gene, associated with the disease, are located on all three exons. Homozygotic mutation in the<italic> VHL</italic> C598T gene is common in a large group of individuals with erythrocytosis in the Chuvash region in Russia, where erythrocytosis is endemic. Over 100 individuals from over 80 families had usual Hb levels above 200 g/L, normal or elevated level of serum EPO and confirmed autosomal recessive inheritance. The same mutation was identified on Ischia island in Italy. Mutation <italic>VHL</italic> c.571C &gt; G (p.(His191Asp) is typical of Croatia (<xref ref-type="bibr" rid="b3">3</xref>,<xref ref-type="bibr" rid="b9">9</xref>). The genetic background in Slovenia is yet unknown.</p>
+            </sec>
+            <sec id="s3.2.2"
+                 sec-type="Familial erythrocytosis type 3 (mutation of the EGLN1 gene)">
+               <label>3.2.2</label>
+               <title>Familial erythrocytosis type 3 (mutation of the EGLN1 gene)</title>
+               <p>Familial erythrocytosis type 3 (ECYT3, OMIM 6098202) is caused by a mutation in prolyl hydroxylase 2 (PHD2) enzyme inscribed on <italic>EGLN1</italic> gene. Point mutation in the <italic>EGLN1</italic> gene changes the form of the enzyme as it loses a unit crucial for binding or hydroxylating the HIF2α transcription factor, which boosts EPO synthesis (<xref ref-type="fig" rid="fig1">Figure 1</xref>A)<italic>. </italic>Over 15 point mutations in the <italic>EGLN1</italic> gene associated with the disease are spread across the entire gene (<xref ref-type="bibr" rid="b3">3</xref>,<xref ref-type="bibr" rid="b9">9</xref>).</p>
+            </sec>
+            <sec id="s3.2.3"
+                 sec-type="Familial erythrocytosis type 4 (mutation in the EPAS1 gene)">
+               <label>3.2.3</label>
+               <title>Familial erythrocytosis type 4 (mutation in the EPAS1 gene)</title>
+               <p>Familial erythrocytosis type 4 (ECYT4, OMIM 611783) is caused by a mutation in the HIF2α transcription factor inscribed on <italic>EPAS1</italic> gene. Point mutation in the <italic>EPAS1 </italic>gene changes the form of the enzyme so it misses the unit crucial for binding the VHL or PHD2 protein. Therefore, HIF2α does not disintegrate but rather induces translation and synthesis of EPO (<xref ref-type="fig" rid="fig1">Figure 1</xref>A). Most of the 9 point mutations in the <italic>EPAS1</italic> gene associated with the disease are on exons 9, 12 and 19, most often on exon 12 on the binding spot of VHL protein (<xref ref-type="bibr" rid="b3">3</xref>,<xref ref-type="bibr" rid="b9">9</xref>).</p>
+            </sec>
+            <sec id="s3.2.4"
+                 sec-type="Familial erythrocytosis type 5 (mutation in the EPO gene)">
+               <label>3.2.4</label>
+               <title>Familial erythrocytosis type 5 (mutation in the EPO gene)</title>
+               <p>Familial erythrocytosis type 5 (ECYT5, OMIM 617907) is caused by a mutation in the gene for erythropoetin (<italic>EPO</italic>), which leads to increased synthesis of this key erythropoiesis hormone. Point mutation in the promotor of the <italic>EPO </italic>c.19delC gene was associated with the disease in two unconnected families for the first time in 2016 (<xref ref-type="bibr" rid="b12">12</xref>). Point deletion c.32delG in exon 2 is the latest mutation associated with the disease, discovered with 10 members of the same family in 2018 (<xref ref-type="bibr" rid="b13">13</xref>).</p>
+            </sec>
+            <sec id="s3.2.5"
+                 sec-type="Familial erythrocytosis type 6 (mutation in the HBB gene)">
+               <label>3.2.5</label>
+               <title>Familial erythrocytosis type 6 (mutation in the HBB gene)</title>
+               <p>Familial erythrocytosis type 6 (ECYT6, OMIM 617980) is caused by a mutation in the gene for the haemoglobin beta (<italic>HBB</italic>) subunit, which affects the increased affinity of haemoglobin for oxygen. Over 80 point mutations in the <italic>HBB </italic>gene associated with the disease are spread over the entire gene and have autosomal dominant inheritance.</p>
+            </sec>
+            <sec id="s3.2.6"
+                 sec-type="Familial erythrocytosis type 7 (mutation in the HBA gene)">
+               <label>3.2.6</label>
+               <title>Familial erythrocytosis type 7 (mutation in the HBA gene)</title>
+               <p>Familial erythrocytosis type 7 (ECYT7, OMIM 617981) is caused by a mutation in the gene for the haemoglobin alfa 1 and alfa 2 subunits (<italic>HBA1, HBA2</italic>) that affect the increased haemoglobin affinity for oxygen. 24 point mutations in the <italic>HBA1 and HBA2</italic>,<italic> </italic>gene associated with the disease are spread over the entire gene.</p>
+            </sec>
+            <sec id="s3.2.7" sec-type="Mutation of bisphosphoglycerate mutase (BPGM)">
+               <label>3.2.7</label>
+               <title>Mutation of bisphosphoglycerate mutase (BPGM)</title>
+               <p>Another reason for increased oxygen-Hb affinity is the mutation in the gene for bisphosphoglycerate mutase (<italic>BPGM</italic>), which causes deficiency of 2,3 bisphospholycerate. This reduces the release of oxygen from Hb and its transition into tissues, which leads to hypoxia and compensatory erythrocytosis (<xref ref-type="fig" rid="fig1">Figure 1</xref>C) (<xref ref-type="bibr" rid="b9">9</xref>). Three point mutations in <italic>BPGM</italic> have been linked to the disease so far. Compensatory erythrocytosis can also develop in congenital methemoglobinemia (<xref ref-type="bibr" rid="b4">4</xref>).</p>
+            </sec>
+         </sec>
+      </sec>
+      <sec id="s4" sec-type="Diagnosis">
+         <label>4</label>
+         <title>Diagnosis</title>
+         <p>Identification of a patient with erythrocytosis usually takes place in four key steps (<xref ref-type="fig" rid="fig2">Figure 2</xref>):</p>
+         <list>
+            <list-item>
+               <label>1.</label>
+               <p>distinguishing absolute erythrocytosis from relative;</p>
+            </list-item>
+            <list-item>
+               <label>2.</label>
+               <p>distinguishing PV from secondary erythrocytosis and primary familial erythrocytosis (ECYT1);</p>
+            </list-item>
+            <list-item>
+               <label>3.</label>
+               <p>distinguishing secondary acquired from secondary familial erythrocytosis;</p>
+            </list-item>
+            <list-item>
+               <label>4.</label>
+               <p>identifying familial erythrocytosis.</p>
+            </list-item>
+         </list>
+         <p>
+            <xref ref-type="table" rid="table2">Table 2</xref> can help to make a diagnosis. The basic test is the complete <italic>blood count performed with a haematology analyser</italic>. Characteristic deviations from reference ranges that point to a possibility of erythrocytosis are: increased concentration of haemoglobin and/or haematocrit and elevated RBC concentration count. In erythrocytosis, other blood panel parametres are usual within the normal range.</p>
+         <table-wrap position="anchor" id="table2">
+            <label>Table 2:</label>
+            <caption>
+               <p> Tests to identify erythrocytosis (after McMullin) (<xref ref-type="bibr" rid="b2">2</xref>).</p>
+            </caption>
+            <table>
+               <colgroup>
+                  <col/>
+                  <col/>
+               </colgroup>
+               <thead>
+                  <tr>
+                     <th>First level testing</th>
+                     <th>Second level testing</th>
+                  </tr>
+               </thead>
+               <tbody>
+                  <tr>
+                     <td>Haemogram – blood count</td>
+                     <td>Histological examination of BM</td>
+                  </tr>
+                  <tr>
+                     <td>Identifying <italic>JAK2 </italic>gene mutation (V617F, exon 12).</td>
+                     <td rowspan="2">
+                        <p>Arterial blood gas analysis</p>
+                        <p>•Oxygen dissociation curve – p50, determining MetHb and CoHb</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td>Serum EPO</td>
+                  </tr>
+                  <tr>
+                     <td>Basic metabolic panel, basic electrolytes, liver and renal function, iron stores.</td>
+                     <td>Hb electrophoresis.</td>
+                  </tr>
+                  <tr>
+                     <td>Pulse oximetry.</td>
+                     <td>Polysomnography.</td>
+                  </tr>
+                  <tr>
+                     <td>Chest X-Ray.</td>
+                     <td>Chest, abdomen, head CT.</td>
+                  </tr>
+                  <tr>
+                     <td>Abdominal US.</td>
+                     <td>Determining androgynous hormones.</td>
+                  </tr>
+                  <tr>
+                     <td/>
+                     <td rowspan="4">
+                        <p>Additional genetic testing:</p>
+                        <p>•mutation in the haematochrosis genes,</p>
+                        <p>•mutation in myeloproliferative neoplasms,</p>
+                        <p>•mutation in <italic>EPOR, VHL, EGLN1</italic>, <italic>EPAS1</italic>, <italic>EPO </italic>and Hb genes (research ongoing).</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td/>
+                  </tr>
+                  <tr>
+                     <td/>
+                  </tr>
+                  <tr>
+                     <td/>
+                  </tr>
+               </tbody>
+            </table>
+            <table-wrap-foot>
+               <p>Legend: CoHb: carboxyhaemoglobin; CT: computer tomography; EGLN1: egl nine homolog 1, also called PHD2, prolyl hydroxylase 2; EPAS1: endothelial PAS domain protein 1, also called HIF2A, hypoxia-inducible factor 2 alpha; EPO: erythropoietin; EPOR: erythropoietin receptor; JAK2: Janus kinase 2; BM: bone marrow; MetHb: methaemoglobin; p50: partial pressure of oxygen in the blood required to achieve 50% oxygen saturation in Hb; RTG: X-Ray; US: ultrasound examination; VHL: von Hippel-Lindau tumour-suppressive protein.</p>
+            </table-wrap-foot>
+         </table-wrap>
+         <p>Definition absolute/relative erythrocytosis. Absolute erythrocytosis is the result of increased RBC mass/volume in the body, which also increases the whole blood volume. A 60 % Ht in males and 56 % Ht in females practically always indicates absolute erythrocytosis (<xref ref-type="bibr" rid="b8">8</xref>). Relative erythrocytosis is found in individuals with increased haematocrit yet normal RBC mass/volume due to decreased plasma volume (dehydration). RBC mass and blood volume measurements (radioisotope method) are not routinely performed, so patients should be tested and observed over a longer period. According to most authors, erythrocytosis should be identified in Ht values over 52 % in males and over 48 % in females.</p>
+         <p>Tests to confirm of exclude. According to the new categorisation of myeloproliferative neoplasms (MPN) of World Health Organisation (WHO) from 2016 PV should be excluded with Hb concentration of &gt; 165 g/L (Ht &gt; 49 %) in males and Hb &gt; 160 g/L (Ht &gt; 48 %) in female if there are also one or more symptoms and signs of PV (cf. Clinical manifestation chapter) (<xref ref-type="bibr" rid="b14">14</xref>). In addition to erythrocytosis in the blood count, confirmed presence of acquired (somatic) mutation in the <italic>JAK2</italic> gene (<italic>JAK2 </italic>V617F or exon 12), decreased serum concentration of EPO and/or typical bone marrow histological results are needed to confirm PV. Histological examination (bone marrow biopsy) is not needed only with positive mutation in <italic>JAK2</italic>, lowered serum concentration of EPO and Hb values &gt; 185 g/L (Ht &gt; 55 %) in males or 165 g/L (Ht &gt; 49.5 %) in females. Mutation in <italic>JAK2 </italic>V617F can be found in over 95 % of patients with PV. The mutation is not specific to PV and can be found in other MPNs: in some 50 % of cases with essential thrombocytemia and primary mielofibrosis and in a small share (&lt; 5 %) of cases with acute myeloid leukaemia, myelodysplastic syndrome, chronic myelomonocytic leukaemia and other myeloid neoplasms. Mutation in the <italic>JAK2 </italic>gene in exon 12<italic> </italic>occurs only in 3 % of PV patients, who are <italic>JAK2</italic> V617F negative (<xref ref-type="bibr" rid="b15">15</xref>) and are typical of PV, and not confirmed in other MPNs.</p>
+         <p>EPO serum concentration helps determine if erythrocytosis is primary or secondary. Low serum concentration of a EPO is a highly specific indicator of PV. There have also been cases of familial erythrocytosis with low serum concentration of EPO due to activation mutation in the <italic>EPOR</italic> gene. High serum concentrations of EPO can be observed in patients with secondary erythrocytosis caused by heart or pulmonary disease and EPO secreting tumours (<xref ref-type="table" rid="table1">Table 1</xref>). High serum concentration of EPO can also be the result of abuse of recombinant EPO (doping).</p>
+         <p>Pulse oximetry (SaO2) serves to assess the saturation of arterial blood with oxygen. SaO2 levels of 95 % or more indicate sufficient oxygen saturation in the arterial blood. When concentration is under 92 %, compensatory erythrocytosis occurs.</p>
+         <p>Arterial blood gas analysis (ABG) and separately oximetry (COHb, MetHb, O2Hb, Hb-HbO2) can be used to exclude chronic carbon monoxide poisoning. Most pulse oximeters doe not detect carboxyhaemoglobin (COHb),while methemoglobinemia (MetHb) is suspected when cyanosis is accompanied by low saturation on pulse oximetry and normal PaO2. Increased concentration of COHb or MetHb leads to tissue hypoxia and thereby erythrocytosis (<xref ref-type="bibr" rid="b16">16</xref>). Compensatory erythrocytosis is caused by a 5 % share of COHb or more (<xref ref-type="bibr" rid="b6">6</xref>). When saturation of arterial blood with oxygen is lowered, secondary causes of erythrocytosis, such as heart and pulmonary disease, should be excluded (<xref ref-type="table" rid="table1">Table 1</xref>).</p>
+         <p>P50 is the partial pressure of oxygen required to achieve 50 % saturation of haemoglobin with oxygen. Lowered p50 measured from a vein blood sample or determined from ABG is typical when the oxygen dissociation curve shifts to the left, which points to haemoglobin-oxygen affinity. This can be the result of elevated COHb, while rarely these are congenital haemoglobinopathies (haemoglobin with increased oxygen affinity, bisphosphoglycerate deficiency and methemaglobinaemia) (<xref ref-type="bibr" rid="b17">17</xref>).</p>
+         <p>Pathological liver test results may point to hepatocellular carcinoma, particularly in patients with confirmed cirrhosis, viral hepatitis or hemochromatosis.</p>
+         <p>Protein analysis of haemoglobin (capillary electrophoresis) excluded the presence of haemoglobinopathies, which are hereditary disorders linked to irregularities in the quantity or structure of globin chains. The presence of haemoglobins with high oxygen affinity should also be suspected in patients with a family history of polycythaemia. It is also suspected in patients with lowered p50. Haemoglobins with high oxygen affinity are discovered in routine Hb electrophoresis only in 20–25 % of cases; in the remainder, fluid chromatography or haemoglobin gene sequencing is needed (<xref ref-type="bibr" rid="b8">8</xref>).</p>
+         <p>Microscopic haematuria, which may be the only sign of EPO-excreting renal carcinoma, may be discovered by urinalysis.</p>
+         <p>Moreover, use/abuse of anabolic hormones should be excluded, as well as androgen-excreting tumours with appropriate imaging test. Transient erythrocytosis may sometimes occur after renal transplantation (<xref ref-type="bibr" rid="b6">6</xref>).</p>
+         <p>General biochemical blood testing should be performed and iron stores in the body with ferritin and transferrin saturation determined, which provides a general insight into a patient’s health (<xref ref-type="bibr" rid="b2">2</xref>). If transferrin is highly saturated with iron, test should be performed to exclude haemocromatosis, although it is manifested by erythrocytosis only in exceptional cases.</p>
+         <p>If acquired forms of erythrocytosis are excluded, genetic testing should be performed to confirm congenital primary and secondary erythrocytosis (<xref ref-type="table" rid="table1">Table 1</xref>, see chapter Genetic background of erythrocytosis). After excluding mutations typical of PV, the mutations in the <italic>EPOR </italic>gene should be analysed, followed by an analysis of other genes associated with familial erythrocytosis (<xref ref-type="fig" rid="fig2">Figure 2</xref>).</p>
+         <fig position="anchor" id="fig2">
+            <label>Figure 2:</label>
+            <caption>
+               <p> Diagnostic algorithm for examining erythrocytosis. Algorithm is available from the ViDis (http://vidis.fri.uni-lj.si) website. * With symptoms and signs indicative of PV, tests to exclude PV should be performed if Hb &gt; 165 g/L (Ht &gt; 49%) in males (within normal range) or Hb &gt; 160 g/L (Ht &gt; 48%) in females.</p>
+               <p>Legend: <italic>BPGM:</italic> bisphosphoglycerate mutase; ECYT1–7: familial erythrocytosis type 1–7; <italic>EGLN1:</italic> egl nine homolog 1, also called PHD2, prolyl hydroxilase 2; <italic>EPAS1:</italic> endothelial PAS domain protein 1, also called HIF2A, hypoxia-inducing factor 2 alpha; <italic>EPO:</italic> erythropoietin; <italic>EPOR:</italic> erythropoietin receptor; Hb: haemoglobin; <italic>HBA1:</italic> subunit of haemoglobin alpha 1; <italic>HBA2:</italic> subunit of haemoglobin alpha 2; <italic>HBB:</italic> subunit of haemoglobin alpha beta; <italic>JAK2:</italic> Janus kinase 2; <italic>VHL:</italic> von Hippel-Lindau tumour-suppressing gene.</p>
+            </caption>
+            <p>
+               <graphic xlink:href="2880-en-web-resources/image/zdravvestn-2880-en-02.png"/>
+            </p>
+            <p>Legend: BMI: body mass index; <italic>BPGM:</italic> bisphosphoglycerate mutase; CoHb: carboxyhaemoglobin; ECYT1–7: familial erythrocytosis type 1–7; <italic>EGLN:</italic> Egl nine homolog 1, also called prolyl hydroxylase 2: <italic>PAS1:</italic> endothelial PAS domain protein 1, also called HIF2A, HIF-2 alpha-like factor; <italic>EPO:</italic> erythropoietin; <italic>EPOR:</italic> erythropoietin receptor; Hb: haemoglobin: <italic>HBA:</italic>
+               <italic> </italic>haemoglobin alpha subunit; <italic>HBB:</italic> haemoglobin beta subunit; Ht: haematocrit; <italic>JAK2:</italic> Janus kinase 2; BM: bone marrow; M: male; NGS: (next generation sequencing; p50: partial pressure of oxygen in the blood required to achieve 50% oxygen saturation in Hb); ABG: arterial blood gas analysis; PV: polycythaemia vera; sEPO: serum concentration of EPO; US: ultrasound examination; <italic>VHL:</italic> von Hippel-Lindau tumour-suppressive protein; F: female.</p>
+         </fig>
+         <p>When no known clinical reason for erythrocytosis can be identified, and available genetic testing is negative, patients are diagnosed as having idiopathic erythrocytosis.</p>
+      </sec>
+      <sec id="s5" sec-type="Treatment">
+         <label>5</label>
+         <title>Treatment</title>
+         <p>The main goal of treating erythrocytosis is to manage clinical symptoms and signs of hyperviscosity, which may lead to thromboembolic complications and organ damage. Issues associated with hyperviscosity are often effectively alleviated with phlebotomy (blood drawing) to normalise RBC mass and blood viscosity. Patients are also often administered low-dose acetylsalicylic acid (<xref ref-type="bibr" rid="b2">2</xref>,<xref ref-type="bibr" rid="b7">7</xref>).</p>
+         <sec id="s5.1" sec-type="Treating patients with PV">
+            <label>5.1</label>
+            <title>Treating patients with PV</title>
+            <p>PV patients are treated in accordance with a protocol that somewhat varies whether the patients are categorised as low- or high-risk for developing thrombosis (<xref ref-type="bibr" rid="b14">14</xref>). Treatment includes regular phlebotomy, low-dose acetylsalicylic acid, cytoreductive therapy and, in recent years, administration of Ruxolitibin, a JAK2 inhibitor (<xref ref-type="bibr" rid="b18">18</xref>-<xref ref-type="bibr" rid="b20">20</xref>).</p>
+         </sec>
+         <sec id="s5.2"
+              sec-type="Treating patients with familial and idiopathic erythrocytosis">
+            <label>5.2</label>
+            <title>Treating patients with familial and idiopathic erythrocytosis</title>
+            <p>Treatment of patients with familial or idiopathic erythrocytosis is mainly focused on preventing hyperviscosity, which strains the heart muscle and may contribute to the development of dangerous complications. Phlebotomy is prescribed to patients with expressed symptoms and signs of hyperviscosity. Phlebotomy is also more often administered to patients who have suffered thromboembolic events. Contrary to PV, the target haematocrit is not clear in other types of erythrocytosis. The need for phlebotomy among patients with <italic>JAK2</italic>-negative erythrocytosis varies due to different aetiology of the disease. In haemoglobinopathies with increased oxygen affinity and compensatory erythrocytosis frequent phlebotomy may even be harmful (<xref ref-type="bibr" rid="b9">9</xref>,<xref ref-type="bibr" rid="b12">12</xref>). The same phlebotomy regime could be completely appropriate in a different case of <italic>JAK2</italic>-negative erythrocytosis (<xref ref-type="bibr" rid="b9">9</xref>).</p>
+         </sec>
+         <sec id="s5.3"
+              sec-type="Treating patients with secondary acquired erythrocytosis">
+            <label>5.3</label>
+            <title>Treating patients with secondary acquired erythrocytosis</title>
+            <p>In addition to treating their symptoms, treatment of patients with secondary acquired erythrocytosis should focus on managing the underlying disease and preventing harmful habits.</p>
+         </sec>
+      </sec>
+      <sec id="s6" sec-type="Current overview of erythrocytosis in Slovenia">
+         <label>6</label>
+         <title>Current overview of erythrocytosis in Slovenia</title>
+         <p>We have reviewed the analyses of <italic>JAK2, </italic>mutations performed over a 5-year period (from April 2011 to September 2016) at Ljubljana and Maribor medical centres, the only two institutions with <italic>JAK2 </italic>testing facilities ( <xref ref-type="fig" rid="fig3">Figure 3</xref>). The study was approved by the National Medical Ethics Committee (ref. KME 115/08/15). In this period, a total of 3,833 individuals were tested, with 1,049 (27 %) confirmed positive and 2,784 (73 %) confirmed negative for <italic>JAK2 V617F</italic> mutation. Identifying the <italic>JAK2</italic> mutation is the first test performed on a patient with erythrocytosis in the haematology office in case of absence of obvious clinical signs and symptoms of secondary erythrocytosis. Therefore, this figure provides an approximate assessment of absolute erythrocytosis in a certain period. As we sought to establish the share of idiopathic and, among these, familial erythrocytosis, we included 1,054 <italic>JAK2 </italic>negative individuals tested at the Ljubljana Medical Centre, who also tested negative for <italic>CALR, MPL, C-KIT </italic>(mutations typical of myeloproliferative neoplasms) (<xref ref-type="bibr" rid="b7">7</xref>,<xref ref-type="bibr" rid="b21">21</xref>,<xref ref-type="bibr" rid="b22">22</xref>).</p>
+         <fig position="anchor" id="fig3">
+            <label>Figure 3:</label>
+            <caption>
+               <p> Overview of patients included in the <italic>JAK2</italic> analysis in a five-year period in Slovenia. <italic>JAK2</italic>-positive (confirmed <italic>JAK2</italic> mutation), <italic>JAK2</italic>-negative (<italic>JAK2</italic> mutation not detected).</p>
+            </caption>
+            <p>
+               <graphic xlink:href="2880-en-web-resources/image/zdravvestn-2880-en-03.png"/>
+            </p>
+         </fig>
+         <p>In addition to medical history and clinical manifestation, we carefully reviewed the blood tests and looked for information on serum concentration of EPO. We selected 81 subjects who had at least 2 test results repeated over a gap of at least two months with Ht and/or Hb concentration over the reference range (<xref ref-type="fig" rid="fig2">Figure 2</xref>), of whom 34 were female and 47 were male. All 81 patients were invited for an interview and examination to clinically evaluate erythrocytosis. 30 subjects, of whom 16 were female and 14 were male, provided informed consent and complete a questionnaire on family history. Among these, three families were identified who had at least two members with erythrocytosis. They were included in genetic testing for familial erythrocytosis (<xref ref-type="bibr" rid="b23">23</xref>). We analysed <italic>EPOR, VHL, EPAS1, EPO</italic> and <italic>HBB, </italic>genes with Sange sequencing method as part of student research project, but<italic> </italic>found no known mutations associated with familial erythrocytosis (<xref ref-type="bibr" rid="b24">24</xref>-<xref ref-type="bibr" rid="b29">29</xref>). While several new mutations in the <italic>EPO</italic>,<italic> EPAS1 </italic>and <italic>HBB</italic> genes were identified, additional analysis is needed to identify their clinical significance. Analysis of <italic>EGLN1, HBA </italic>in<italic> BPGM </italic>genes is ongoing. We are also planning to analyse more gene with next generation sequencing (NGS).</p>
+      </sec>
+      <sec id="s7" sec-type="Conclusion">
+         <label>7</label>
+         <title>Conclusion</title>
+         <p>This article wishes to draw attention to an area of internal medicine that has not been fully clarified with currently available diagnostic test in Slovenia. We hope that a rather large number of patients with erythrocytosis followed by haematological offices and elsewhere will benefit from our research. We have high hopes in the NGS method, as it enables concurrent diagnostics of all known forms of familial erythrocytosis in a single test.</p>
+      </sec>
+   </body>
+   <back>
+      <ack>
+         <label>8</label>
+         <title>Acknowledgement</title>
+         <p>The study was financially supported by Ljubljana Medical Centre with its tertiary project entitled Mutational Analysis of the Genes Involved in Regulating EPO Expression in Familial Erythrocytosis, Slovenian Research Agency (ARRS) within the ‘Genetic basis of erythrocytosis in Slovenia’ (L3–9279) project, by the European Union from the European Social Fund and by the Republic of Slovenia within the ‘Genetic diagnostics of blood diseases’ project.</p>
+      </ack>
+      <ref-list>
+         <ref id="b1">
+            <label>1.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>McMullin</surname> 
+                     <given-names>MF</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Bareford</surname> 
+                     <given-names>D</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Campbell</surname> 
+                     <given-names>P</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Green</surname> 
+                     <given-names>AR</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Harrison</surname> 
+                     <given-names>C</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Hunt</surname> 
+                     <given-names>B</given-names>
+                  </string-name>, <etal>et al.</etal>; <collab>General Haematology Task Force of the British Committee for Standards in Haematology</collab>
+               </person-group>. <article-title>Guidelines for the diagnosis, investigation and management of polycythaemia/erythrocytosis</article-title>. <source>Br J Haematol</source>. <year>2005</year> 
+               <month>Jul</month>;<volume>130</volume>(<issue>2</issue>):<fpage>174</fpage>–<lpage>95</lpage>. <pub-id pub-id-type="doi">10.1111/j.1365-2141.2005.05535.x</pub-id>
+               <pub-id pub-id-type="pmid">16029446</pub-id>
+               <issn>0007-1048</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b2">
+            <label>2.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>McMullin</surname> 
+                     <given-names>MF</given-names>
+                  </string-name>
+               </person-group>. <article-title>Investigation and Management of Erythrocytosis</article-title>. <source>Curr Hematol Malig Rep</source>. <year>2016</year> 
+               <month>Oct</month>;<volume>11</volume>(<issue>5</issue>):<fpage>342</fpage>–<lpage>7</lpage>. <pub-id pub-id-type="doi">10.1007/s11899-016-0334-1</pub-id>
+               <pub-id pub-id-type="pmid">27423232</pub-id>
+               <issn>1558-8211</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b3">
+            <label>3. </label>
+            <mixed-citation publication-type="book" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Bento</surname> 
+                     <given-names>C</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Cario</surname> 
+                     <given-names>H</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Gardie</surname> 
+                     <given-names>B</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Hermouet</surname> 
+                     <given-names>S</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>McMullin</surname> 
+                     <given-names>MF</given-names>
+                  </string-name>
+               </person-group>. <source>Congenital Erythrocytosis and Hereditary Thrombocytosis Clinical presentation, diagnosis, treatment and follow-up: A practical guide with clinical cases</source>. <year>2015</year>. pp. <fpage>9</fpage>–<lpage>127</lpage>.</mixed-citation>
+         </ref>
+         <ref id="b4">
+            <label>4.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>McMullin</surname> 
+                     <given-names>MF</given-names>
+                  </string-name>
+               </person-group>. <article-title>Congenital erythrocytosis</article-title>. <source>Int J Lab Hematol</source>. <year>2016</year> 
+               <month>May</month>;<volume>38</volume>(<issue>1</issue> 
+               <supplement>Suppl 1</supplement>):<fpage>59</fpage>–<lpage>65</lpage>. <pub-id pub-id-type="doi">10.1111/ijlh.12506</pub-id>
+               <pub-id pub-id-type="pmid">27161533</pub-id>
+               <issn>1751-5521</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b5">
+            <label>5.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>McMullin</surname> 
+                     <given-names>MF</given-names>
+                  </string-name>
+               </person-group>. <article-title>The classification and diagnosis of erythrocytosis</article-title>. <source>Int J Lab Hematol</source>. <year>2008</year> 
+               <month>Dec</month>;<volume>30</volume>(<issue>6</issue>):<fpage>447</fpage>–<lpage>59</lpage>.<pub-id pub-id-type="pmid">18823397</pub-id>
+               <issn>1751-5521</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b6">
+            <label>6.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Patnaik</surname> 
+                     <given-names>MM</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Tefferi</surname> 
+                     <given-names>A</given-names>
+                  </string-name>
+               </person-group>. <article-title>The complete evaluation of erythrocytosis: congenital and acquired</article-title>. <source>Leukemia</source>. <year>2009</year> 
+               <month>May</month>;<volume>23</volume>(<issue>5</issue>):<fpage>834</fpage>–<lpage>44</lpage>. <pub-id pub-id-type="doi">10.1038/leu.2009.54</pub-id>
+               <pub-id pub-id-type="pmid">19295544</pub-id>
+               <issn>0887-6924</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b7">
+            <label>7.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Mlakar</surname> 
+                     <given-names>U</given-names>
+                  </string-name>
+               </person-group>. <article-title>Smernice za odkrivanje in zdravljenje prave policitemije</article-title>. <source>Zdrav Vestn</source>. <year>2008</year>;<volume>77</volume>(<issue>1</issue>):<fpage>11</fpage>–<lpage>4</lpage>.<issn>0350-0063</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b8">
+            <label>8.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Lee</surname> 
+                     <given-names>G</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Arcasoy</surname> 
+                     <given-names>MO</given-names>
+                  </string-name>
+               </person-group>. <article-title>The clinical and laboratory evaluation of the patient with erythrocytosis</article-title>. <source>Eur J Intern Med</source>. <year>2015</year> 
+               <month>Jun</month>;<volume>26</volume>(<issue>5</issue>):<fpage>297</fpage>–<lpage>302</lpage>. <pub-id pub-id-type="doi">10.1016/j.ejim.2015.03.007</pub-id>
+               <pub-id pub-id-type="pmid">25837692</pub-id>
+               <issn>0953-6205</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b9">
+            <label>9.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Bento</surname> 
+                     <given-names>C</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Percy</surname> 
+                     <given-names>MJ</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Gardie</surname> 
+                     <given-names>B</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Maia</surname> 
+                     <given-names>TM</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>van Wijk</surname> 
+                     <given-names>R</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Perrotta</surname> 
+                     <given-names>S</given-names>
+                  </string-name>, <etal>et al.</etal>; <collab>ECE-Consortium</collab>; <collab>ECE-Consortium</collab>
+               </person-group>. <article-title>Genetic basis of congenital erythrocytosis: mutation update and online databases</article-title>. <source>Hum Mutat</source>. <year>2014</year> 
+               <month>Jan</month>;<volume>35</volume>(<issue>1</issue>):<fpage>15</fpage>–<lpage>26</lpage>. <pub-id pub-id-type="doi">10.1002/humu.22448</pub-id>
+               <pub-id pub-id-type="pmid">24115288</pub-id>
+               <issn>1059-7794</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b10">
+            <label>10.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Spivak</surname> 
+                     <given-names>JL</given-names>
+                  </string-name>
+               </person-group>. <article-title>Polycythemia Vera</article-title>. <source>Curr Treat Options Oncol</source>. <year>2018</year> 
+               <month>Mar</month>;<volume>19</volume>(<issue>2</issue>):<fpage>12</fpage>. <pub-id pub-id-type="doi">10.1007/s11864-018-0529-x</pub-id>
+               <pub-id pub-id-type="pmid">29516275</pub-id>
+               <issn>1527-2729</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b11">
+            <label>11.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Arcasoy</surname> 
+                     <given-names>MO</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Karayal</surname> 
+                     <given-names>AF</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Segal</surname> 
+                     <given-names>HM</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Sinning</surname> 
+                     <given-names>JG</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Forget</surname> 
+                     <given-names>BG</given-names>
+                  </string-name>
+               </person-group>. <article-title>A novel mutation in the erythropoietin receptor gene is associated with familial erythrocytosis</article-title>. <source>Blood</source>. <year>2002</year> 
+               <month>Apr</month>;<volume>99</volume>(<issue>8</issue>):<fpage>3066</fpage>–<lpage>9</lpage>. <pub-id pub-id-type="doi">10.1182/blood.V99.8.3066</pub-id>
+               <pub-id pub-id-type="pmid">11929803</pub-id>
+               <issn>0006-4971</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b12">
+            <label>12. </label>
+            <mixed-citation publication-type="unknown" specific-use="linked">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Camps</surname> 
+                     <given-names>C</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Petousi</surname> 
+                     <given-names>N</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Bento</surname> 
+                     <given-names>C</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Cario</surname> 
+                     <given-names>H</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Copley</surname> 
+                     <given-names>RR</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>McMullin</surname> 
+                     <given-names>MF</given-names>
+                  </string-name>, <etal>et al.</etal>
+               </person-group> 
+               <article-title>Gene panel sequencing improves the diagnostic work-up of patients with idiopathic erythrocytosis and identifies new mutations.</article-title> Haematologica. <year>2016</year>;10(11):1306 ̶ 18. <pub-id pub-id-type="doi">10.3324/haematol.2016.144063</pub-id>
+            </mixed-citation>
+         </ref>
+         <ref id="b13">
+            <label>13.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Zmajkovic</surname> 
+                     <given-names>J</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Lundberg</surname> 
+                     <given-names>P</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Nienhold</surname> 
+                     <given-names>R</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Torgersen</surname> 
+                     <given-names>ML</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Sundan</surname> 
+                     <given-names>A</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Waage</surname> 
+                     <given-names>A</given-names>
+                  </string-name>, <etal>et al.</etal>
+               </person-group> 
+               <article-title>A Gain-of-Function Mutation in EPO in Familial Erythrocytosis</article-title>. <source>N Engl J Med</source>. <year>2018</year> 
+               <month>Mar</month>;<volume>378</volume>(<issue>10</issue>):<fpage>924</fpage>–<lpage>30</lpage>. <pub-id pub-id-type="doi">10.1056/NEJMoa1709064</pub-id>
+               <pub-id pub-id-type="pmid">29514032</pub-id>
+               <issn>0028-4793</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b14">
+            <label>14.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Arber</surname> 
+                     <given-names>DA</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Orazi</surname> 
+                     <given-names>A</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Hasserjian</surname> 
+                     <given-names>R</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Thiele</surname> 
+                     <given-names>J</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Borowitz</surname> 
+                     <given-names>MJ</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Le Beau</surname> 
+                     <given-names>MM</given-names>
+                  </string-name>, <etal>et al.</etal>
+               </person-group> 
+               <article-title>The 2016 revision to the World Health Organization classification of myeloid neoplasms and acute leukemia</article-title>. <source>Blood</source>. <year>2016</year> 
+               <month>May</month>;<volume>127</volume>(<issue>20</issue>):<fpage>2391</fpage>–<lpage>405</lpage>. <pub-id pub-id-type="doi">10.1182/blood-2016-03-643544</pub-id>
+               <pub-id pub-id-type="pmid">27069254</pub-id>
+               <issn>0006-4971</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b15">
+            <label>15.	</label>
+            <mixed-citation publication-type="book" specific-use="unparsed">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Swerdlow</surname> 
+                     <given-names>SH</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Campo</surname> 
+                     <given-names>E</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Lee Harris</surname> 
+                     <given-names>N</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Jaffe</surname> 
+                     <given-names>ES</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Pileri</surname> 
+                     <given-names>SA</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Stein</surname> 
+                     <given-names>H</given-names>
+                  </string-name>, <etal>et al.</etal>
+               </person-group> 
+               <source>Myeloproliferativne neoplasms.</source> 4th ed. WHO Classification of Tumours of Haematopoetic and Lymphoid Tissues. IARC, Lyon, <year>2017</year>. p. 29-60.</mixed-citation>
+         </ref>
+         <ref id="b16">
+            <label>16.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Ash-Bernal</surname> 
+                     <given-names>R</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Wise</surname> 
+                     <given-names>R</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Wright</surname> 
+                     <given-names>SM</given-names>
+                  </string-name>
+               </person-group>. <article-title>Acquired methemoglobinemia: a retrospective series of 138 cases at 2 teaching hospitals</article-title>. <source>Medicine (Baltimore)</source>. <year>2004</year> 
+               <month>Sep</month>;<volume>83</volume>(<issue>5</issue>):<fpage>265</fpage>–<lpage>73</lpage>. <pub-id pub-id-type="doi">10.1097/01.md.0000141096.00377.3f</pub-id>
+               <pub-id pub-id-type="pmid">15342970</pub-id>
+               <issn>0025-7974</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b17">
+            <label>17.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Lopes da Silva</surname> 
+                     <given-names>R</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Villanueva</surname> 
+                     <given-names>T</given-names>
+                  </string-name>
+               </person-group>. <article-title>Dealing with polycythemia in primary care</article-title>. <source>Korean J Fam Med</source>. <year>2013</year> 
+               <month>Jan</month>;<volume>34</volume>(<issue>1</issue>):<fpage>66</fpage>–<lpage>8</lpage>. <pub-id pub-id-type="doi">10.4082/kjfm.2013.34.1.66</pub-id>
+               <pub-id pub-id-type="pmid">23372909</pub-id>
+               <issn>2005-6443</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b18">
+            <label>18. </label>
+            <mixed-citation publication-type="unknown" specific-use="linked">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Keohane</surname> 
+                     <given-names>C</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>McMullin</surname> 
+                     <given-names>MF</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Harrison</surname> 
+                     <given-names>C</given-names>
+                  </string-name>
+               </person-group>. <article-title>The diagnosis and management of erythrocytosis.</article-title> BMJ. <year>2013</year>;347,f:6667. <pub-id pub-id-type="doi">10.1136/bmj.f6667</pub-id>
+            </mixed-citation>
+         </ref>
+         <ref id="b19">
+            <label>19.	</label>
+            <mixed-citation publication-type="web-page" specific-use="unparsed">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Tefferi</surname> 
+                     <given-names>A</given-names>
+                  </string-name>
+               </person-group>. <article-title>Prognosis and treatment of polycythemia vera.</article-title> Up To Date; [cited 2018 Sep 4]. Available from: <ext-link ext-link-type="uri"
+                         xlink:href="https://www.uptodate.com/contents/prognosis-and-treatment-of-polycythemia-vera">https://www.uptodate.com/contents/prognosis-and-treatment-of-polycythemia-vera</ext-link>
+            </mixed-citation>
+         </ref>
+         <ref id="b20">
+            <label>20.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Mesa</surname> 
+                     <given-names>RA</given-names>
+                  </string-name>
+               </person-group>. <article-title>New guidelines from the NCCN for polycythemia vera</article-title>. <source>Clin Adv Hematol Oncol</source>. <year>2017</year> 
+               <month>Nov</month>;<volume>15</volume>(<issue>11</issue>):<fpage>848</fpage>–<lpage>50</lpage>.<pub-id pub-id-type="pmid">29200417</pub-id>
+               <issn>1543-0790</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b21">
+            <label>21. </label>
+            <mixed-citation publication-type="unknown" specific-use="unparsed">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Gotlib</surname> 
+                     <given-names>J.</given-names>
+                  </string-name>
+               </person-group> Mutation of the Calreticulin (CALR) Gene in Myeloproliferative Neoplasms Hematologist. <year>2015</year>;12(1):11 ̶ 2.</mixed-citation>
+         </ref>
+         <ref id="b22">
+            <label>22. </label>
+            <mixed-citation publication-type="unknown" specific-use="unparsed">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Tefferi</surname> 
+                     <given-names>A</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Vardiman</surname> 
+                     <given-names>JW</given-names>
+                  </string-name>
+               </person-group>. <article-title>Classification and diagnosis of myeloproliferative neoplasms.</article-title> Leukemia. <year>2008</year>;22(1):14 ̶ 22.</mixed-citation>
+         </ref>
+         <ref id="b23">
+            <label>23. </label>
+            <mixed-citation publication-type="unknown" specific-use="unparsed">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Kopitar</surname> 
+                     <given-names>A.</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Solarovič</surname> 
+                     <given-names>A</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Vermiglio</surname> 
+                     <given-names>L.</given-names>
+                  </string-name>
+               </person-group> 
+               <article-title>Genska osnova eritrocitoz v Sloveniji.</article-title> Ljubljana: Medicinska fakulteta; <year>2017</year>.</mixed-citation>
+         </ref>
+         <ref id="b24">
+            <label>24.	</label>
+            <mixed-citation publication-type="thesis" specific-use="unparsed">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Mencin</surname> 
+                     <given-names>I</given-names>
+                  </string-name>
+               </person-group>. Analiza genetske variabilnosti tumor-supresorskega gena VHL pri družinski eritrocitozi [Master's Thesis]. Ljubljana: I. Mencin; <year>2017</year>.</mixed-citation>
+         </ref>
+         <ref id="b25">
+            <label>25.	</label>
+            <mixed-citation publication-type="thesis" specific-use="unparsed">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Kristan</surname> 
+                     <given-names>A</given-names>
+                  </string-name>
+               </person-group>. <article-title>Analiza genetske variabilnosti s hipoksijo induciranih transkripcijskih dejavnikov alfa pri družinski eritrocitozi.</article-title> [Master's Thesis]. Ljubljana: A. Kristan; <year>2018</year>.</mixed-citation>
+         </ref>
+         <ref id="b26">
+            <label>26.	</label>
+            <mixed-citation publication-type="thesis" specific-use="unparsed">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Prijatelj</surname> 
+                     <given-names>T</given-names>
+                  </string-name>
+               </person-group>. <article-title>Analiza variabilnosti gena za eritropoetin pri družinski eritrocitozi.</article-title> [Master's Thesis]. Ljubljana: T. Prijatelj; <year>2018</year>.</mixed-citation>
+         </ref>
+         <ref id="b27">
+            <label>27.	</label>
+            <mixed-citation publication-type="thesis" specific-use="unparsed">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Vočanec</surname> 
+                     <given-names>D</given-names>
+                  </string-name>
+               </person-group>. <article-title>Analiza variabilnosti gena za eritropoetinski receptor pri družinski eritrocitozi.</article-title> [Master's Thesis]. Ljubljana: D. Vočanec; <year>2018</year>.</mixed-citation>
+         </ref>
+         <ref id="b28">
+            <label>28.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Vočanec</surname> 
+                     <given-names>D</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Prijatelj</surname> 
+                     <given-names>T</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Debeljak</surname> 
+                     <given-names>N</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Kunej</surname> 
+                     <given-names>T</given-names>
+                  </string-name>
+               </person-group>. <article-title>Genetic variants of erythropoietin (<italic>EPO</italic>) and EPO receptor genes in familial erythrocytosis</article-title>. <source>Int J Lab Hematol</source>. <year>2018</year>; <comment>Epub ahead of print</comment>.<pub-id pub-id-type="pmid">30507031</pub-id>
+               <issn>1751-5521</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b29">
+            <label>29.</label>
+            <mixed-citation publication-type="thesis" specific-use="unparsed">
+               <person-group person-group-type="author"><string-name><surname>Marentič</surname> <given-names>A</given-names></string-name></person-group>. <article-title>Analiza genetske variabilnosti gena HBB pri družinski eritrocitozi.</article-title> [Master's Thesis]. Ljubljana: A. Marentič; <year>2019</year>.
+            </mixed-citation>
+         </ref>
+         
+      </ref-list>
+   </back>
+</article>

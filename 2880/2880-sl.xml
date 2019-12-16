@@ -1,0 +1,1203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD with MathML3 v1.1 20151215//EN" "JATS-journalpublishing1-mathml3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink"
+         dtd-version="1.1"
+         xml:lang="sl"
+         article-type="other">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher-id">Zdrav Vestn</journal-id>
+         <journal-id journal-id-type="nlm-ta">Zdrav Vestn</journal-id>
+         <journal-id journal-id-type="doi">Zdrav Vestn</journal-id>
+         <journal-title-group>
+            <journal-title>Zdravniški vestnik</journal-title>
+            <trans-title-group xml:lang="en">
+               <trans-title>Slovenian Medical Journal</trans-title>
+            </trans-title-group>
+            <abbrev-journal-title>Zdrav Vestn</abbrev-journal-title>
+         </journal-title-group>
+         <issn publication-format="ppub" pub-type="ppub">1318-0347</issn>
+         <issn publication-format="epub" pub-type="epub">1581-0224</issn>
+         <issn-l>0350-0063</issn-l>
+         <publisher>
+            <publisher-name xml:lang="sl">Slovensko zdravniško društvo</publisher-name>
+            <publisher-name xml:lang="en">Slovenian Medical Association</publisher-name>
+            <publisher-loc xml:lang="sl">Ljubljana, Slovenia</publisher-loc>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.6016/ZdravVestn.2880</article-id>
+         <article-id pub-id-type="publisher-id">2880</article-id>
+         <article-categories>
+            <subj-group subj-group-type="discipline" xml:lang="en">
+               <subject>Medicine and health sciences</subject>
+               <subj-group>
+                  <subject>Cardiovascular system</subject>
+               </subj-group>
+            </subj-group>
+            <subj-group subj-group-type="discipline" xml:lang="sl">
+               <subject>Medicina/Zdravstvo</subject>
+               <subj-group>
+                  <subject>Srce in ožilje</subject>
+               </subj-group>
+            </subj-group>
+            <subj-group subj-group-type="article-type" xml:lang="en">
+               <subject>Review article</subject>
+            </subj-group>
+            <subj-group subj-group-type="article-type" xml:lang="sl">
+               <subject>Pregledni znanstveni članek</subject>
+            </subj-group>
+            <subj-group subj-group-type="heading" xml:lang="sl">
+               <subject>Srce in ožilje</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title xml:lang="sl">Opredelitev eritrocitoz in predlog diagnostičnega algoritma v Sloveniji</article-title>
+            <trans-title-group>
+               <trans-title xml:lang="en">Characterization of erythrocytosis and a proposed diagnostic algorithm in Slovenia</trans-title>
+            </trans-title-group>
+            <alt-title alt-title-type="running-head" xml:lang="sl">Opredelitev eritrocitoz in predlog diagnostičnega algoritma v Sloveniji</alt-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Debeljak</surname>
+                  <given-names>Nataša</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1">1</xref>
+            </contrib>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Lazarevič</surname>
+                  <given-names>Julija</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1">1</xref>
+               <xref ref-type="aff" rid="aff2">2</xref>
+            </contrib>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Miskič</surname>
+                  <given-names>Dejan</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1">1</xref>
+               <xref ref-type="aff" rid="aff2">2</xref>
+            </contrib>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Vermiglio</surname>
+                  <given-names>Lucija</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1">1</xref>
+               <xref ref-type="aff" rid="aff2">2</xref>
+            </contrib>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Kopitar</surname>
+                  <given-names>Anja</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1">1</xref>
+               <xref ref-type="aff" rid="aff2">2</xref>
+            </contrib>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Solarovič</surname>
+                  <given-names>Anja</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1">1</xref>
+               <xref ref-type="aff" rid="aff2">2</xref>
+            </contrib>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Sever</surname>
+                  <given-names>Matjaž</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff2">2</xref>
+            </contrib>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Fink</surname>
+                  <given-names>Martina</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff2">2</xref>
+            </contrib>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Pajič</surname>
+                  <given-names>Tadej</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff2">2</xref>
+            </contrib>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Anžej Doma</surname>
+                  <given-names>Saša</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff2">2</xref>
+            </contrib>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Moškon</surname>
+                  <given-names>Miha</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff3">3</xref>
+            </contrib>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Preložnik Zupan</surname>
+                  <given-names>Irena</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff2">2</xref>
+               <xref ref-type="corresp" rid="corr"/>
+            </contrib>
+         </contrib-group>
+         <aff-alternatives id="aff1">
+            <aff xml:lang="sl">
+               <label>1</label>
+               <institution>Inštitut za biokemijo, Medicinska fakulteta, Univerza v Ljubljani, Ljubljana, Slovenija</institution>
+            </aff>
+            <aff xml:lang="en">
+               <label>1</label>
+               <institution>Institute of Biochemistry, Faculty of medicine, University of Ljubljana, Ljubljana, Slovenia</institution>
+            </aff>
+         </aff-alternatives>
+         <aff-alternatives id="aff2">
+            <aff xml:lang="sl">
+               <label>2</label>
+               <institution>Klinični oddelek za hematologijo, Interna klinika, Univerzitetni klinični center Ljubljana, Ljubljana, Slovenija</institution>
+            </aff>
+            <aff xml:lang="en">
+               <label>2</label>
+               <institution>Department of Haematology, Division of Internal Medicine, University Medical Centre Ljubljana, Ljubljana, Slovenia</institution>
+            </aff>
+         </aff-alternatives>
+         <aff-alternatives id="aff3">
+            <aff xml:lang="sl">
+               <label>3</label>
+               <institution>Fakulteta za računalništvo in informatiko, Univerza v Ljubljani, Ljubljana, Slovenija</institution>
+            </aff>
+            <aff xml:lang="en">
+               <label>3</label>
+               <institution>Faculty of computer and informatino science, University of Ljubljana, Ljubljana, Slovenia</institution>
+            </aff>
+         </aff-alternatives>
+         <author-notes>
+            <fn fn-type="conflict" xml:lang="en">
+               <p>The authors have declared that no competing interests exist.</p>
+            </fn>
+            <fn fn-type="conflict" xml:lang="sl">
+               <p>Avtorji so izjavili, da ne obstajajo nobeni konkurenčni interesi.</p>
+            </fn>
+            <corresp id="corr">Irena Preložnik Zupan, e-mail: <email xlink:type="simple"/>
+            </corresp>
+         </author-notes>
+         <pub-date pub-type="ppub">
+            <month>6</month>
+            <year>2019</year>
+         </pub-date>
+         <pub-date pub-type="epub">
+            <month>6</month>
+            <year>2019</year>
+         </pub-date>
+         <volume>88</volume>
+         <issue>5–6</issue>
+         <fpage>263</fpage>
+         <lpage>75</lpage>
+         <history>
+            <date date-type="received">
+               <day>2</day>
+               <month>10</month>
+               <year>2018</year>
+            </date>
+            <date date-type="accepted">
+               <day>4</day>
+               <month>2</month>
+               <year>2019</year>
+            </date>
+         </history>
+         <permissions>
+            <copyright-statement xml:lang="en">Copyright © 2019, Slovenian Medical Association (SZD)</copyright-statement>
+            <copyright-statement xml:lang="sl">© 2019, Slovensko zdravniško društvo (SZD)</copyright-statement>
+            <copyright-year>2019</copyright-year>
+            <copyright-holder xml:lang="en">Slovenian Medical Association (SZD)</copyright-holder>
+            <copyright-holder xml:lang="sl">Slovensko zdravniško društvo (SZD)</copyright-holder>
+            <license xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                     xlink:type="simple"
+                     xml:lang="en">
+               <license-p>This is an open access article distributed under the terms of the
+          <ext-link ext-link-type="uri"
+                            xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                            xlink:type="simple">Creative Commons Attribution-NonCommercial
+            License</ext-link>, which permits unrestricted use, distribution, and
+          reproduction in any medium, provided the original author and source are
+          credited and only for non-commercial purposes. </license-p>
+            </license>
+            <license xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                     xlink:type="simple"
+                     xml:lang="sl">
+               <license-p>To je članek z odprtim dostopom, ki ga lahko uporabite pod pogoji iz
+          <ext-link ext-link-type="uri"
+                            xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                            xlink:type="simple">Creative Commons Priznanje avtorstva-Nekomercialno
+            licence</ext-link>. ki dovoljuje distribucijo, predelavo ali
+          prilagoditev, ter gradijo na njem, v nekomercialne namene, z navedbo avtorja
+          in izvirnega dela.</license-p>
+            </license>
+         </permissions>
+         <abstract xml:lang="sl">
+            <title>Izvleček</title>
+            <p>Eritrocitoza je stanje s povečano maso eritrocitov v telesu. Odrazi se s povečanim hematokritom, zvečano koncentracijo hemoglobina in povečanim številom eritrocitov v krvi. Ločimo absolutno in relativno eritrocitozo. Absolutne oblike pa nato delimo na primarne in sekundarne ter obe skupini še na prirojene in pridobljene. Opredelitev diagnoze pri bolniku je mnogokrat težavna, zato pomemben delež bolnikov ostane diagnostično neopredeljen; govorimo o idiopatični eritrocitozi. Namen prispevka je izboljšati diagnosticiranje in vključiti nove genetske preiskave v klinično prakso v Sloveniji.</p>
+            <p>Predlagamo razširjen in natančen algoritem za obravnavo eritrocitoz. Opisujemo razvrstitev različnih oblik eritrocitoz, klinično sliko, genetsko ozadje prirojenih eritrocitoz, diagnostične metode in možnosti zdravljenja. Pregledali smo tudi podatke o 5-letnem obdobju obravnave pridobljenih genetskih različic v <italic>JAK2 </italic>v Sloveniji. Gre za prvo laboratorijsko testiranje z namenom opredeliti vrsto eritrocitoz. S tem smo pridobili osnovni vpogled v razširjenost bolezni v Sloveniji.</p>
+         </abstract>
+         <trans-abstract xml:lang="en">
+            <title>Abstract</title>
+            <p>Erythrocytosis is a condition characterised by increased red blood cell mass in the body. Patients usually present with increased hematocrit, increased haemoglobin concentration and an increased number of red blood cells. Erythrocytosis can be absolute or relative. Absolute erythrocytosis is either primary or secondary, both groups are further divided into congenital and acquired. The characterisation is often problematic and aetiology remains unknown in many patients, resulting in an entity called “idiopathic erythrocytosis”. The aim of this article is to improve the diagnostic methods for erythrocytosis by including further genetic testing into routine clinical practice. </p>
+            <p>We propose an extended and detailed algorithm for diagnosis of erythrocytosis. We describe the classification of various forms of erythrocytoses, their clinical presentation, genetic background, diagnostic methods and treatment options. By reviewing the 5-year period of JAK2 mutation testing (the first laboratory test performed in a patient with erythrocytosis) we obtained better insight into the prevalence of the disease in Slovenia.</p>
+         </trans-abstract>
+         <kwd-group xml:lang="sl">
+            <kwd> eritrocitoza</kwd>
+            <kwd>diagnostični algoritem</kwd>
+            <kwd>družinska eritrocitoza</kwd>
+            <kwd>mutacija JAK2</kwd>
+            <kwd>eritropoetin</kwd>
+         </kwd-group>
+         <kwd-group xml:lang="en">
+            <kwd>erythrocytosis</kwd>
+            <kwd>diagnostic algorithm</kwd>
+            <kwd>familial erythrocytosis</kwd>
+            <kwd>JAK2 mutation</kwd>
+            <kwd>erythropoietin</kwd>
+         </kwd-group>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>TotalReferences</meta-name>
+               <meta-value>29</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ReferencesParsed</meta-name>
+               <meta-value>17</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ReferencesBillable</meta-name>
+               <meta-value>19</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>LinkServices</meta-name>
+               <meta-value>pubmed-crossref</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ReferencesLinked</meta-name>
+               <meta-value>17</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ReferencesLinkedDOI</meta-name>
+               <meta-value>14</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ReferencesLinkedPMID</meta-name>
+               <meta-value>15</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>JournalReferences</meta-name>
+               <meta-value>16</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>BookReferences</meta-name>
+               <meta-value>2</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>BookChapterReferences</meta-name>
+               <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ConferenceReferences</meta-name>
+               <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ElectronicReferences</meta-name>
+               <meta-value>1</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>DissertationReferences</meta-name>
+               <meta-value>4</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>LegalReferences</meta-name>
+               <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>StandardReferences</meta-name>
+               <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>OtherReferences</meta-name>
+               <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>UnknownReferences</meta-name>
+               <meta-value>5</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ReferencesSemiParsed</meta-name>
+               <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ReferencesBookUnparsed</meta-name>
+               <meta-value>1</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>EditorialStyle</meta-name>
+               <meta-value>ICMJE-WHO</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <body>
+      <sec id="s1" sec-type="Uvod">
+         <label>1</label>
+         <title>Uvod</title>
+         <p>Nastajanje eritrocitov v našem telesu (eritropoeza) je zelo natančno uravnavan proces vzdrževanja normalne mase eritrocitov, potrebne za zadovoljitev vseh potreb tkiv po kisiku. Različne motnje lahko pripeljejo do eritrocitoze, stanja s povečano maso eritrocitov. Odrazi se s povečanim hematokritom (Ht), povečano koncentracijo hemoglobina (Hb) in višjim številom eritrocitov v krvi. Izraz policitemija so pogosto uporabljali in se še uporablja napačno kot sinonim za eritrocitozo, ker je policitemija zvišanje števila vseh treh vrst krvnih celic (<xref ref-type="bibr" rid="b1">1</xref>).</p>
+         <p>V prvem koraku moramo vedno ločiti absolutno oziroma pravo eritrocitozo od relativne oziroma lažne in prehodne eritrocitoze. To ni vedno enostavno, saj ni neposredne povezanosti med koncentracijo hemoglobina, hematokritom in maso eritrocitov v telesu (<xref ref-type="bibr" rid="b2">2</xref>). Za absolutno eritrocitozo je značilna povečana skupna prostornina/masa eritrocitov za več kot 25 % od normalne mase oziroma povečana koncentracija hemoglobina in povišan hematokrit pri vsaj dveh ločenih meritvah v presledku vsaj 2 mesecev. Pri relativni eritrocitozi pa je skupna prostornina/masa eritrocitov normalna, hematokrit in koncentracija hemoglobina je povečana na račun zmanjšanja prostornine plazme (npr. pri dehidraciji) (<xref ref-type="bibr" rid="b3">3</xref>). V nadaljevanju prispevka govorimo le o absolutni eritrocitozi.</p>
+         <p>
+            <italic>Razvrstitev </italic>
+            <italic>eritrocitoz</italic>. Glede na izvor jih delimo na primarne in sekundarne, obe skupini pa se naprej delita na prirojene in pridobljene (<xref ref-type="table" rid="table1">Tabela 1</xref>). <italic>Primarna </italic>pomeni samostojni oz. avtonomni razrast eritrocitov v rdečem kostnem mozgu, ki je posledica prirojene ali pridobljene mutacije v genih, ki uravnavajo eritropoezo (t. i. intrinzična motnja v eritrocitih). V tej skupini je značilna zmanjšana koncentracija eritropoetina (EPO) v krvi. Zato govorimo o neodvisnosti eritropoeze na zmanjšano koncentracijo EPO. <italic>Prirojene ali kongenitalne eritrocitoze</italic> so prisotne ob rojstvu in so večinoma podedovane, ker enake spremembe najdemo tudi pri drugih članih iste družine (družinska bolezen), redko so sporadične, ko pride do novo nastale mutacije pri posamezniku. <italic>Pridobljene</italic> 
+            <italic>eritrocitoze</italic> nastanejo kadar koli v življenju (<xref ref-type="bibr" rid="b3">3</xref>). Najbolj pogosta primarna pridobljena eritrocitoza je policitemija vera oziroma prava policitemija (PV), ki sodi med nelevkemične mieloproliferativne novotvorbe (<xref ref-type="bibr" rid="b2">2</xref>). Edina primarna prirojena eritrocitoza je povezana z napako v receptorju za eritropoetin (EPOR) zaradi mutacije v<italic> </italic>genu <italic>EPOR </italic>(<xref ref-type="fig" rid="fig1">Slika 1</xref>)<italic>.</italic>
+         </p>
+         <table-wrap position="anchor" id="table1">
+            <label>Tabela 1:</label>
+            <caption>
+               <p> Razvrstitev eritrocitoz (povzeto po Bento in sod.) (<xref ref-type="bibr" rid="b3">3</xref>).</p>
+               <p>Legenda: <italic>BPGM:</italic> bisfosfoglicerat mutaza; ECYT1–7: družinska eritrocitoza tipa 1–7; <italic>EGLN1:</italic> egl nine homolog 1, sinonim PHD2, prolil hidroksilaza 2; <italic>EPAS1:</italic> endothelial PAS domain protein 1, sinonim HIF2A, faktor hipoksije 2 alfa; <italic>EPO:</italic> eritropoetin; <italic>EPOR:</italic> receptor za eritropoetin; Hb: hemoglobin; <italic>HBA1:</italic> podenota hemoglobina alfa 1; <italic>HBA2:</italic> podenota hemoglobina alfa 2; <italic>HBB:</italic> podenota hemoglobina beta; <italic>JAK2:</italic> Janus kinaza 2; <italic>VHL:</italic> von Hippel-Lindau tumor zaviralni gen.</p>
+            </caption>
+            <table>
+               <colgroup>
+                  <col/>
+                  <col/>
+                  <col/>
+                  <col/>
+               </colgroup>
+               <thead>
+                  <tr>
+                     <th colspan="4">Absolutna eritrocitoza (znani vzroki)</th>
+                  </tr>
+               </thead>
+               <tbody>
+                  <tr>
+                     <th colspan="2">Primarne eritrocitoze (↓EPO)</th>
+                     <th colspan="2">Sekundarne eritrocitoze (normalen ali ↑EPO)</th>
+                  </tr>
+                  <tr>
+                     <th>Prirojene</th>
+                     <th>Pridobljene</th>
+                     <th>Prirojene</th>
+                     <th>Pridobljene</th>
+                  </tr>
+                  <tr>
+                     <td>Prirojena eritrocitoza tipa 1 (ECYT1) (mutacija v <italic>EPOR</italic>)</td>
+                     <td>Prava policitemija (mutacija v <italic>JAK2, drugo</italic>)</td>
+                     <td>
+                        <list>
+                           <list-item>
+                              <label>•</label>
+                              <p>Prirojene eritrocitoze tipa 2, 3, 4 in 5 (ECYT2, 3, 4 in 5) z napako na poti zaznavanja kisika (mutacije v genih <italic>VHL, EGLN1, EPAS1, EPO</italic>).</p>
+                           </list-item>
+                        </list>
+                     </td>
+                     <td>
+                        <p>Visok EPO zaradi kronične ali intermitentne hipoksemije – fiziološko primerno:</p>
+                        <p>•bivanje na visoki nadmorski višini;</p>
+                        <p>•kronične bolezni pljuč;</p>
+                        <p>•cianotične srčne hibe (D-L šant),</p>
+                        <p>•kajenje;</p>
+                        <p>•kronična izpostavljenost ogljikovemu monoksidu;</p>
+                        <p>•hipoventilacijski sindromi (debelost, nevrološke bolezni, nočna apneja);</p>
+                        <p>•bolezni ledvic z lokalno hipoksijo v ledvicah (stenoza ledvične arterije, policistična bolezen ledvic, hidronefroza, stanje po presaditvi ledvice, končna odpoved ledvic).</p>
+                        <p>Od hipoksije neodvisno nastajanje EPO – fiziološko neprimerno:</p>
+                        <p>•tumorji, ki izločajo EPO (karcinom ledvičnih celic, hepatocelularni karcinom, leiomiom maternice, cerebelarni hemangioblastom, meningeom, feokromocitom/paragangliom, paratiroidni karcinomi/adenomi);</p>
+                        <p>•vpliv androgenov.</p>
+                        <p>Drugi vzroki:</p>
+                        <p>•uporaba rekombinantnega EPO in androgenov.</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="4">Idiopatska eritrocitoza (neznani vzroki)</td>
+                  </tr>
+               </tbody>
+            </table>
+         </table-wrap>
+         <fig position="anchor" id="fig1">
+            <label>Slika 1:</label>
+            <caption>
+               <p> Prikaz poti in genov, vključenih v razvoj družinskih eritrocitoz.</p>
+               <p>A. Ledvične celice proizvajajo EPO kot odgovor na nizko raven kisika (hipoksija). HIF2A deluje kot »centralni senzor« za zaznavanje kisika v celici. V stanju normoksije PHD2 hidroksilira HIF2A, nanj se nato veže protein VHL in usmeri kompleks v razgradnjo. Zato je raven HIF2A v normoksiji nizka. Napaka v katerem koli od vpletenih proteinov lahko prepreči razgradnjo HIF2A in povzroči njegovo nabiranje v celici, kakor se to zgodi v stanju hipoksije. Takrat hidroksilacija HIF2A ne poteče, zato se nanj ne more vezati VHL. To onemogoči razgradnjo HIF2A, ki potuje v jedro, kjer se poveže s HIF2B in deluje kot transkripcijski faktor za različne gene, med njimi tudi za EPO. Celice začnejo proizvajati EPO in ga izločati v kri.</p>
+               <p>B. Predhodniki eritrocitov v kostnem mozgu imajo na celični površini receptor za EPO (EPOR). Ko se nanj veže EPO, se sproži signalna kaskada, ki povzroči prepis številnih genov, vključenih v rast, proliferacijo in diferenciacijo teh celic, kar vodi v pospešeno nastajanje novih eritrocitov.</p>
+               <p>C. Hemoglobin veže kisik v pljučih ter ga ob prisotnosti bisfosfoglicerata sprosti v tkivo. Mutacije več genov (<italic>HBB, HBA, BPGM</italic>) povečajo afiniteto Hb do kisika ter otežijo sprostitev v tkiva (povzeto po Bento in sod.) (<xref ref-type="bibr" rid="b3">3</xref>).</p>
+               <p>Legenda: BPGM: bisfosfoglicerat mutaza; EGLN1: egl nine homolog 1, sinonim PHD2 – prolil hidroksilaza 2; EPAS1: endothelial PAS domain protein 1, sinonim HIF2A; EPO: eritropoetin; EPOR: receptor za eritropoetin; ECYT1–7: družinska eritroctoza tipa 1–7; HBA: podenota hemoglobina alfa; HBB: podenota hemoglobina beta; HIF2A: faktor hipoksije 2 alfa; HIF2B: faktor hipoksije 2 beta; OH: hidroksilna skupina; VHL: von Hippel-Lindau tumor zaviralni protein.</p>
+            </caption>
+            <p>
+               <graphic xlink:href="2880-web-resources/image/zdravvestn-2880-sl-01.png"/>
+            </p>
+         </fig>
+         <p>
+            <italic>Sekundarne eritrocitoze</italic> nastanejo zaradi motnje zunaj kostnega mozga (ekstrinzična motnja, ne izhaja iz eritrocitov), ki preko povečanega EPO ali drugače pospešuje eritropoezo (<xref ref-type="bibr" rid="b4">4</xref>). Pri njih ugotovimo normalno ali zvečano koncentracijo EPO v krvi. Vzrok za <italic>prirojene sekundarne eritrocitoze</italic> so mutacije v genih za proteine, ki sodelujejo pri zaznavanju ravni kisika v krvi ter v genih za proteine, ki vplivajo na afiniteto hemoglobina za kisik (<xref ref-type="fig" rid="fig1">Slika 1</xref>). <italic>Pridobljena sekundarna eritrocitoza</italic> je prisotna pri boleznih in stanjih, ki jih spremlja hipoksemija ali neustrezno čezmerno izločanje EPO. To so različne bolezni srca in pljuč s hipoksemijo, ledvic z neustreznim izločanjem EPO ali zunanji vzroki, kot so življenje na visoki nadmorski višini, kajenje, zastrupitev z ogljikovim monoksidom in drugo (<xref ref-type="bibr" rid="b5">5</xref>,<xref ref-type="bibr" rid="b6">6</xref>). Lahko gre za posledico jemanja določenih zdravil, npr. diuretikov, androgenih hormonov, zaviralcev tirozinske kinaze ali rekombinantnega EPO (<xref ref-type="bibr" rid="b2">2</xref>). Ti predstavljajo največjo skupino eritrocitoz.</p>
+         <p>Včasih ne najdemo pravega vzroka eritrocitoze in govorimo o <italic>idiopatski eritrocitoz</italic>i. Več kot 70 % eritrocitoz, pri katerih sumimo na družinsko oz. kongenitalno obliko, nima jasno opredeljenega genetskega ozadja (<xref ref-type="bibr" rid="b3">3</xref>).</p>
+         <p>V Sloveniji v zadnjih letih rutinsko izvajamo molekularno diagnostiko prave policitemije v Specializiranem hematološkem laboratoriju Kliničnega oddelka za hematologijo, UKC Ljubljana (<xref ref-type="bibr" rid="b7">7</xref>) ter tudi v UKC Maribor. Nimamo pa še možnosti opredeliti primarne in sekundarne prirojene (družinske) eritrocitoze, ki jih v nekaterih večjih laboratorijih po svetu že rutinsko določajo (<xref ref-type="table" rid="table1">Tabela 1</xref>). To metodo trenutno uvajamo.</p>
+      </sec>
+      <sec id="s2" sec-type="Klinična slika bolnikov z eritrocitozo">
+         <label>2</label>
+         <title>Klinična slika bolnikov z eritrocitozo</title>
+         <p>Bolniki z eritrocitozo so običajno pletoričnega videza. Lahko imajo znake hiperviskoznosti (glavobol, omotice, krvavitve iz nosu, zamegljen vid, dispneja ob naporu, splošna utrujenost, parestezije, bolečine v prsih in trebuhu, mialgije in šibkost) ali pa so brez simptomov (<xref ref-type="bibr" rid="b3">3</xref>). Ob anamnezi srbečice, posebej po kopanju, eritromelalgije, protina, arterijskih ali venskih tromboz, krvavitev in napetosti v trebuhu zaradi povečane vranice posumimo na PV (<xref ref-type="bibr" rid="b7">7</xref>).</p>
+         <p>Zaspanost preko dneva in glasno smrčanje ponoči sta značilnosti obstruktivne nočne apneje, pogoste pri debelih osebah z BMI &gt; 30 kg/m (<xref ref-type="bibr" rid="b2">2</xref>). Kronična karboksihemoglobinemija pri kadilcih in delavcih, izpostavljenih ogljikovemu monoksidu, je tudi vzrok za sekundarno pridobljeno eritrocitozo.</p>
+         <p>Če je eritrocitoza posledica pljučne bolezni, so v ospredju težave dihal (kratka sapa, dispneja ob naporu, kronični kašelj, sodčast prsni koš, cianoza, betičasti prsti). Stenoza ledvične arterije se kaže z zvišanim krvnim tlakom in eritrocitozo zaradi hipoksije tkiva. Eritrocitozo opazijo tudi pri policistični bolezni ledvic. Lahko se povezuje s cistami v jetrih in okvaro jetrne funkcije. Prehodna eritrocitoza se pojavi pri 10–15 % bolnikov po presaditvi ledvic. Povečana raven EPO v telesu je lahko posledica paraneoplastičnega nastajanja pri različnih tumorjih, ki lahko ne povzročajo simptomov ali pa povzročajo različne težave (<xref ref-type="table" rid="table1">Tabela 1</xref>). Razvije se tudi pri zdravljenju z androgeni in zlorabi rekombinantnega EPO (<xref ref-type="bibr" rid="b4">4</xref>,<xref ref-type="bibr" rid="b8">8</xref>,<xref ref-type="bibr" rid="b9">9</xref>). Z zvečanim EPO in posledično eritrocitozo je lahko povezan redek sindrom TEMPI, za katerega so značilni teleangiektazije, zvečan EPO in eritrocitoza, monoklonska gamopatija, perinefritične kolekcije tekočine in znotrajpljučni obvod. Eritrocitozo lahko ugotovimo tudi pri sindromu POEMS (polinevropatija, organomegalija, endokrinopatija, monoklonska gamopatija, kožne spremembe) (<xref ref-type="bibr" rid="b2">2</xref>,<xref ref-type="bibr" rid="b7">7</xref>).</p>
+         <p>Za prirojene oblike eritrocitoze je pomembna pozitivna družinska anamneza ali ugotovitev eritrocitoze v mladosti. Klinična slika je zelo različna; od asimptomatskih do znakov in simptomov hiperviskoznosti (glavoboli, omotice, epistakse, dispneja ob naporu, pruritus). Možni so trombotični in hemoragični zapleti. Pri prirojeni eritrocitozi tipa 1 (ECYT1) so opisani tudi smrtni zapleti zaradi arterijske hipertenzije, znotrajmožganskih krvavitev, globoke venske tromboze, koronarne bolezni in miokardnega infarkta. Bolniki s prirojeno eritrocitozo tipa 2 (ECYT2, Chuvash policitemija) so značilno rdečelični, imajo nizek krvni tlak, pri njih lahko nastanejo vertebralni hemangiomi ali varikozne vene, utrpijo lahko možgansko žilne dogodke in periferne tromboze. Podobno klinična slika bolnikov s hemoglobinopatijo zaradi povečane afinitete za kisik variira od stanja brez simptomov do slike temnejše kože in sluznic, simptomov hiperviskoznosti in trombemboličnih dogodkov. Opisana je povezava feokromocitoma in paraganglioma z mutacijami v poti zaznavanja kisika. Bolniki s prirojeno eritrocitozo tipa 4 (ECYT4) so bolj nagnjeni k razvoju pljučne hipertenzije (<xref ref-type="bibr" rid="b3">3</xref>,<xref ref-type="bibr" rid="b9">9</xref>).</p>
+      </sec>
+      <sec id="s3" sec-type="Genetsko ozadje eritrocitoz">
+         <label>3</label>
+         <title>Genetsko ozadje eritrocitoz</title>
+         <sec id="s3.1" sec-type="Primarne eritrocitoze">
+            <label>3.1</label>
+            <title>Primarne eritrocitoze</title>
+            <p>Primarna eritrocitoza je posledica genetske napake v krvotvornih matičnih celicah, kar vodi v celično preobčutljivost na EPO ter neuravnavano, čezmerno nastajanje eritrocitov (<xref ref-type="fig" rid="fig1">Slika 1</xref>B). Raven serumskega EPO je običajno zmanjšana, občasno pa znotraj referenčnih vrednosti (od 3,3 do 16,6 E/mL).</p>
+            <sec id="s3.1.1" sec-type="Prava policitemija (mutacija gena JAK2)">
+               <label>3.1.1</label>
+               <title>Prava policitemija (mutacija gena JAK2)</title>
+               <p>PV (OMIM 263300) je najpogostejša pridobljena primarna eritrocitoza. Točkovna mutacija gena Janus kinaze 2 (<italic>JAK2</italic>) c.1849G &gt; T v eksonu 14 (<italic>JAK2</italic> V617F) ali mutacije v eksonu 12 spremenijo aktivnost encima JAK2 tako, da postane neodvisen od EPO. Mutacija <italic>JAK2 </italic>V617F je prisotna pri 95 % bolnikov, mutacija eksona 12 pa pri 3 %. Manj pogosti vzroki PV so mutacije genov <italic>CALR,</italic> 
+                  <italic>TET2 </italic>in <italic>EGLN1</italic> (<xref ref-type="bibr" rid="b9">9</xref>,<xref ref-type="bibr" rid="b19">19</xref>). Jasno je, da niti <italic>JAK2 </italic>V617F niti mutacije v <italic>CALR</italic> niso specifične za PV. Samo prisotnost eritrocitoze lahko loči PV od ostalih mieloproliferativnih neoplazem (<xref ref-type="bibr" rid="b10">10</xref>).</p>
+            </sec>
+            <sec id="s3.1.2"
+                 sec-type="Družinska eritrocitoza tipa 1 (mutacija gena EPOR)">
+               <label>3.1.2</label>
+               <title>Družinska eritrocitoza tipa 1 (mutacija gena EPOR)</title>
+               <p>Primarna družinska eritrocitoza tipa 1 (ECYT1, OMIM 133100) je posledica prirojene mutacije v genu za receptor za eritropoetin (<italic>EPOR</italic>). Družinsko eritrocitozo v literaturi poimenujejo tudi podedovana eritrocitoza (<italic>angl</italic>
+                  <italic>.</italic> congenital erythrocytosis, CE) ali primarna podedovana družinska policitemija (<italic>angl.</italic> primary familial and congenital polycythemia, PFCP) (<xref ref-type="bibr" rid="b11">11</xref>). Točkovna mutacija gena <italic>EPOR </italic>v eksonu 8 zaradi prezgodnje zaustavitve sinteze proteina vodi v krajšo obliko receptorja brez vezavnega mesta za regulacijski protein SHP-1, ki uravnava aktivnost EPOR. Receptor tako ostane aktiven dlje časa, kar povzroči nenadzorovano delitev eritrocitov. Do sedaj je bilo opisanih vsaj 18 mutacij v genu <italic>EPOR</italic>, ki vodijo v nastanek krajše oblike receptorja in zato v eritrocitozo. Študije dokazujejo, da gre pri prirojeni eritrocitozi zaradi mutacije <italic>EPOR </italic>za avtosomno dominantno dedovanje, penetrantnost pa ni znana.</p>
+            </sec>
+         </sec>
+         <sec id="s3.2" sec-type="Sekundarne eritrocitoze">
+            <label>3.2</label>
+            <title>Sekundarne eritrocitoze</title>
+            <p>Sekundarna eritrocitoza je posledica nepravilnega uravnavanja eritropoeze zaradi napak v poti zaznavanja kisika v ledvicah ali zaradi spremenjene afinitete vezave kisika na hemoglobin (<xref ref-type="fig" rid="fig1">Slika 1</xref>A in <xref ref-type="fig" rid="fig1">Slika 1</xref>C) (<xref ref-type="bibr" rid="b3">3</xref>,<xref ref-type="bibr" rid="b9">9</xref>). Raven serumskega EPO je normalna ali povečana.</p>
+            <sec id="s3.2.1" sec-type="Eritrocitoza Chuvash (mutacija gena VHL)">
+               <label>3.2.1</label>
+               <title>Eritrocitoza Chuvash (mutacija gena VHL)</title>
+               <p>Eritrocitoza Chuvash ali družinska eritrocitoza tipa 2 (ECYT2, OMIM 263400) je posledica mutacije v genu za Von-Hippel Lindau tumor zaviralni protein (<italic>VHL</italic>). Točkovna mutacija gena <italic>VHL </italic>zmanjša vezavo proteina na transkripcijski faktor HIF2α ter spodbudi sintezo EPO (<xref ref-type="fig" rid="fig1">Slika 1</xref>A). Več kot 15 točkovnih mutacij gena <italic>VHL, </italic>povezanih z boleznijo, se nahaja v vseh treh eksonih. Homozigotna mutacija v genu<italic> VHL</italic> C598T je prisotna v veliki skupini posameznikov z eritrocitozo v regiji Chuvash (Rusija), kjer je eritrocitoza endemičen pojav. Več kot 100 posameznikov iz več kot 80 družin je imelo vrednost Hb običajno nad 200 g/L, normalno ali povečano raven serumskega EPO in odkrito avtosomno recesivno dedovanje. Enako mutacijo so našli na otoku Ischia (Italija). Mutacija <italic>VHL</italic> c.571C &gt; G (p.(His191Asp) je značilna za Hrvaško (<xref ref-type="bibr" rid="b3">3</xref>,<xref ref-type="bibr" rid="b9">9</xref>). V Sloveniji še ne poznamo genetskega ozadja.</p>
+            </sec>
+            <sec id="s3.2.2"
+                 sec-type="Družinska eritrocitoza tipa 3 (mutacija gena EGLN1)">
+               <label>3.2.2</label>
+               <title>Družinska eritrocitoza tipa 3 (mutacija gena EGLN1)</title>
+               <p>Družinska eritrocitoza tipa 3 (ECYT3, OMIM 6098202) je posledica mutacije v encimu prolil hidroksilaza 2 (PHD2), zapisane na genu <italic>EGLN1</italic>. Točkovna mutacija gena <italic>EGLN1</italic> spremeni obliko encima tako, da izgubi odsek, ključen za vezavo ali hidroksilacijo transkripcijskega faktorja HIF2α, kar spodbudi sintezo EPO (<xref ref-type="fig" rid="fig1">Slika 1</xref>A)<italic>. </italic>Več kot 15 točkovnih mutacij gena <italic>EGLN1, </italic>povezanih z boleznijo, je razpršenih po celotnem genu (<xref ref-type="bibr" rid="b3">3</xref>,<xref ref-type="bibr" rid="b9">9</xref>).</p>
+            </sec>
+            <sec id="s3.2.3"
+                 sec-type="Družinska eritrocitoza tipa 4 (mutacija gena EPAS1)">
+               <label>3.2.3</label>
+               <title>Družinska eritrocitoza tipa 4 (mutacija gena EPAS1)</title>
+               <p>Družinska eritrocitoza tipa 4 (ECYT4, OMIM 611783) je posledica mutacije transkripcijskega faktorja HIF2α, zapisanega na genu <italic>EPAS1</italic>. Točkovna mutacija gena <italic>EPAS1 </italic>spremeni obliko encima tako, da nima več predela ključnega za vezavo na protein VHL ali PHD2. Posledično se HIF2α ne razgradi ter spodbudi prepis in sintezo EPO (<xref ref-type="fig" rid="fig1">Slika 1</xref>A). Večina od 9. točkovnih mutacij gena <italic>EPAS1, </italic>povezanih z boleznijo, se nahaja v eksonu 9, 12 in 19, najpogosteje v eksonu 12 na mestu vezave proteina VHL (<xref ref-type="bibr" rid="b3">3</xref>,<xref ref-type="bibr" rid="b9">9</xref>).</p>
+            </sec>
+            <sec id="s3.2.4"
+                 sec-type="Družinska eritrocitoza tipa 5 (mutacija gena EPO)">
+               <label>3.2.4</label>
+               <title>Družinska eritrocitoza tipa 5 (mutacija gena EPO)</title>
+               <p>Družinska eritrocitoza tipa 5 (ECYT5, OMIM 617907) je posledica mutacije v genu za eritropoetin (<italic>EPO</italic>), ki vodi do povečane sinteze tega ključnega hormona eritropoeze. Točkovna mutacija v promotorju gena <italic>EPO </italic>c.19delC je bila leta 2016 prvič povezana z boleznijo pri dveh nepovezanih družinah (<xref ref-type="bibr" rid="b12">12</xref>). Točkovna delecija c.32delG v eksonu 2 je zadnja mutacija, povezana z boleznijo, odkrita pri 10 članih iste družine v letu 2018 (<xref ref-type="bibr" rid="b13">13</xref>).</p>
+            </sec>
+            <sec id="s3.2.5"
+                 sec-type="Družinska eritrocitoza tipa 6 (mutacija gena HBB)">
+               <label>3.2.5</label>
+               <title>Družinska eritrocitoza tipa 6 (mutacija gena HBB)</title>
+               <p>Družinska eritrocitoza tipa 6 (ECYT6, OMIM 617980) je posledica mutacije v genu za podenoto hemoglobina beta (<italic>HBB</italic>), ki vpliva na povečano afiniteto hemoglobina do kisika. Več kot 80 točkovnih mutacij gena <italic>HBB, </italic>povezanih z boleznijo, je razpršenih po celotnem genu ter se dedujejo avtosomno dominantno.</p>
+            </sec>
+            <sec id="s3.2.6"
+                 sec-type="Družinska eritrocitoza tipa 7 (mutacija gena HBA)">
+               <label>3.2.6</label>
+               <title>Družinska eritrocitoza tipa 7 (mutacija gena HBA)</title>
+               <p>Družinska eritrocitoza tipa 7 (ECYT7, OMIM 617981) je posledica mutacije v genu za podenoto hemoglobina alfa 1 in alfa 2 (<italic>HBA1, HBA2</italic>), ki vplivajo na povečano afiniteto hemoglobina do kisika. Z boleznijo je povezanih 24 točkovnih mutacij gena <italic>HBA1 in HBA2</italic>,<italic> </italic>razpršenih po celotnem genu.</p>
+            </sec>
+            <sec id="s3.2.7" sec-type="Mutacija bisfosfoglicerat mutaze (BPGM)">
+               <label>3.2.7</label>
+               <title>Mutacija bisfosfoglicerat mutaze (BPGM)</title>
+               <p>Dodaten vzrok za povečano afiniteto Hb za kisik je mutacija v genu za bisfosfoglicerat mutazo (<italic>BPGM</italic>), kar povzroči pomanjkanje 2,3 bisfosfoglicerata. Slednje zmanjša sprostitev kisika iz Hb ter prehod v tkiva, kar vodi v hipoksijo in kompenzacijsko eritrocitozo (<xref ref-type="fig" rid="fig1">Slika 1</xref>C) (<xref ref-type="bibr" rid="b9">9</xref>). Z boleznijo so bile do sedaj povezane tri točkovne mutacije <italic>BPGM</italic>. Kompenzacijska eritrocitoza se razvije tudi pri prirojeni methemoglobinemijo (<xref ref-type="bibr" rid="b4">4</xref>).</p>
+            </sec>
+         </sec>
+      </sec>
+      <sec id="s4" sec-type="Diagnosticiranje">
+         <label>4</label>
+         <title>Diagnosticiranje</title>
+         <p>Opredelitev bolnika z eritrocitozo običajno poteka skozi štiri ključne korake (<xref ref-type="fig" rid="fig2">Slika 2</xref>):</p>
+         <list>
+            <list-item>
+               <label>1.</label>
+               <p>ločitev absolutne eritrocitoze od relativne;</p>
+            </list-item>
+            <list-item>
+               <label>2.</label>
+               <p>ločitev PV od sekundarne eritrocitoze in primarne družinske eritrocitoze (ECYT1);</p>
+            </list-item>
+            <list-item>
+               <label>3.</label>
+               <p>ločitev sekundarnih pridobljenih od sekundarnih družinskih eritrocitoz;</p>
+            </list-item>
+            <list-item>
+               <label>4.</label>
+               <p>opredelitev družinskih eritrocitoz.</p>
+            </list-item>
+         </list>
+         <p>
+            <xref ref-type="table" rid="table2">Tabela 2</xref> nam je lahko v pomoč pri diagnostičnem postopku. Osnovna preiskava je kompletna <italic>krvna slika, ki jo določimo </italic>
+            <italic>s hematološkim analizatorjem</italic>. Značilna odstopanja od referenčnih vrednosti, ki nas opozorijo na možnost eritrocitoze, so: zvečana koncentracija hemoglobina in/ali hematokrit ter zvečana številčna koncentracija eritrocitov. Ostali parametri krvne slike so pri eritrocitozi običajno v mejah referenčnega območja.</p>
+         <table-wrap position="anchor" id="table2">
+            <label>Tabela 2:</label>
+            <caption>
+               <p> Preiskave za opredelitev eritrocitoz (povzeto po McMullin) (<xref ref-type="bibr" rid="b2">2</xref>).</p>
+            </caption>
+            <table>
+               <colgroup>
+                  <col/>
+                  <col/>
+               </colgroup>
+               <thead>
+                  <tr>
+                     <th>Preiskave prvega reda</th>
+                     <th>Preiskave drugega reda</th>
+                  </tr>
+               </thead>
+               <tbody>
+                  <tr>
+                     <td>Hemogram - krvna slika.</td>
+                     <td>Histološki pregled KM.</td>
+                  </tr>
+                  <tr>
+                     <td>Določitev mutacij v genu <italic>JAK2 </italic>(V617F, ekson 12).</td>
+                     <td rowspan="2">
+                        <p>Plinska analiza arterijske krvi:</p>
+                        <p>•disociacijska krivulja O2 - p50, določitev MetHb in CoHb.</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td>Serumski EPO.</td>
+                  </tr>
+                  <tr>
+                     <td>Splošna biokemija, osnovni elektroliti, jetrna in ledvična funkcija, zaloge železa.</td>
+                     <td>Elektroforeza hemoglobinov.</td>
+                  </tr>
+                  <tr>
+                     <td>Pulzna oksimetrija.</td>
+                     <td>Polisomnografija.</td>
+                  </tr>
+                  <tr>
+                     <td>RTG prsnega koša.</td>
+                     <td>CT prsnega koša, trebuha, glave.</td>
+                  </tr>
+                  <tr>
+                     <td>UZ trebuha.</td>
+                     <td>Določitev androgenih hormonov.</td>
+                  </tr>
+                  <tr>
+                     <td/>
+                     <td rowspan="4">
+                        <p>Dodatne genetske preiskave:</p>
+                        <p>•mutacije v genih za hemokromatozo,</p>
+                        <p>•mutacije pri mieloproliferativnih novotvorbah,</p>
+                        <p>•mutacije v genih <italic>EPOR, VHL, EGLN1</italic>, <italic>EPAS1</italic>, <italic>EPO </italic>in hemoglobinski geni (so v postopku raziskovanja).</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td/>
+                  </tr>
+                  <tr>
+                     <td/>
+                  </tr>
+                  <tr>
+                     <td/>
+                  </tr>
+               </tbody>
+            </table>
+            <table-wrap-foot>
+               <p>Legenda: CoHb: karboksihemoglobin; CT: računalniška tomografija; EGLN1: egl nine homolog 1, sinonim PHD2, prolil hidroksilaza 2; EPAS1: endothelial PAS domain protein 1, sinonim HIF2A, faktor hipoksije 2 alfa; EPO: eritropoetin; EPOR: receptor za eritropoetin; JAK2: Janus kinaza 2; KM:kostni mozeg; MetHb: methemoglobin; p50: parcialni tlak kisika v krvi, pri katerem je Hb 50 % nasičen s kisikom; RTG: rentgenogram; UZ: ultrazvočna preiskava; VHL: von Hippel-Lindau tumor zaviralni gen.</p>
+            </table-wrap-foot>
+         </table-wrap>
+         <p>Opredelitev absolutne/relativne eritrocitoze. Absolutna eritrocitoza je posledica povečane mase/volumna eritrocitov v telesu, pri čemer je povečan tudi celoten volumen krvi. Pri Ht 60 % pri moških in 56 % pri ženskah praktično vedno govorimo o absolutni eritrocitozi (<xref ref-type="bibr" rid="b8">8</xref>). Relativno eritrocitozo najdemo pri posameznikih s povečanim hematokritom, vendar normalno maso/volumnom eritrocitov zaradi zmanjšanega volumna plazme (dehidracija). Meritve mase eritrocitov in volumna krvi v telesu (metoda je radioizotopska) rutinsko ne delamo, zato je pogosto potrebno daljše opazovanje in testiranje bolnika. Večina avtorjev je mnenja, da je opredeljevanje eritrocitoze potrebno pri vrednostih Ht nad 52 % pri moških in nad 48 % pri ženskah.</p>
+         <p>Preiskovanje v smeri potrditve ali izključitve PV. Po novi klasifikaciji mieloproliferativnih novotvorb (MPN) Svetovne zdravstvene organizacije (SZO) iz leta 2016 moramo izključiti možnost PV že pri koncentraciji Hb &gt; 165 g/L (Ht &gt; 49 %) za moške oz. Hb &gt; 160 g/L (Ht &gt; 48 %) za ženske, če so pridruženi eden ali več simptomov in znakov PV (poglavje Klinična slika) (<xref ref-type="bibr" rid="b14">14</xref>). Za potrditev PV poleg eritrocitoze v krvni sliki potrebujemo še dokazano prisotnost pridobljene (somatske) mutacije v genu <italic>JAK2</italic> (<italic>JAK2 </italic>V617F ali ekson 12), znižano serumsko koncentracijo EPO in/ali značilen histološki izvid kostnega mozga. Histološki pregled (biopsija kostnega mozga) ni potreben le pri pozitivni mutaciji <italic>JAK2</italic>, znižani serumski koncentraciji EPO in vrednostih Hb &gt; 185 g/L (Ht &gt; 55 %) za moške oz. 165 g/L (Ht &gt; 49,5 %) za ženske. Mutacijo <italic>JAK2 </italic>V617F ugotovimo pri več kot 95 % bolnikov s PV. Mutacija ni specifična za PV in jo lahko ugotovimo tudi pri drugih MPN: v približno 50 % pri esencialni trombocitemiji in primarni mielofibrozi in v zelo majhnem deležu (&lt; 5 %) tudi pri akutni mieloični levkemiji, mielodisplastičnem sindromu, kronični mielomonocitni levkemiji ali drugih mieloičnih novotvorbah. Mutacije gena <italic>JAK2 </italic>v eksonu 12<italic> </italic>ugotovimo le pri 3 % bolnikov s PV, ki so <italic>JAK2</italic> V617F negativni (<xref ref-type="bibr" rid="b15">15</xref>) in so značilne le za PV, pri drugih MPN jih ne potrdimo.</p>
+         <p>Serumska koncentracija EPO pomaga pri odločitvi, ali je eritrocitoza primarna ali sekundarna. Nizka serumska koncentracija EPO je visoko specifičen kazalnik za diagnozo PV. Znani pa so tudi primeri dednih eritrocitoz, ko določimo nizko serumsko koncentracijo EPO kot posledico aktivirajočih mutacij v genu <italic>EPOR</italic>. Visoke serumske koncentracije EPO pa pogosto opažamo pri bolnikih s sekundarno eritrocitozo, ki je posledica srčnih ali pljučnih bolezni ter tumorjev, ki izločajo EPO (<xref ref-type="table" rid="table1">Tabela 1</xref>). Visoka serumska koncentracija EPO je lahko posledica zlorabe rekombinantnega EPO (doping).</p>
+         <p>Pulzna oksimetrija (SaO2) nam služi za oceno nasičenosti arterijske krvi s kisikom. Vrednosti SaO2 95 % in več kažejo na zadostno nasičenost arterijske krvi s kisikom. Kadar je le-ta &lt; 92 %, pa pride do kompenzacijske eritrocitoze.</p>
+         <p>S plinsko analizo arterijske krvi (PAAK) in posebej oksimetrijo (COHb, MetHb, O2Hb, Hb-HbO2) lahko izključimo kronično zastrupitev z ogljikovim monoksidom. Večina pulznih oksimetrov karboksihemoglobina (COHb) ne zazna, na methemoglobinemijo (MetHb) pa posumimo, kadar cianozo spremlja nizka nasičenost na pulznem oksimetru in normalen PaO2. Povečana koncentracija COHb ali MetHb vodi do tkivne hipoksije in zato do eritrocitoze (<xref ref-type="bibr" rid="b16">16</xref>). Kompenzacijsko eritrocitozo povzroča delež COHb 5 % ali več (<xref ref-type="bibr" rid="b6">6</xref>). Zmanjšana nasičenost arterijske krvi s kisikom nas usmeri v izključevanje sekundarnih vzrokov eritrocitoze, kot so srčne ali pljučne bolezni (<xref ref-type="table" rid="table1">Tabela 1</xref>).</p>
+         <p>P50 je parcialni tlak kisika v krvi, pri katerem je hemoglobin v 50 % nasičen s kisikom. Znižan p50, ki ga lahko izmerimo iz vzorca venske krvi ali se v laboratoriju dogovorimo, da nam ga določijo iz PAAK, je značilen za pomik disociacijske krivulje kisika v levo, torej kaže na povečano afiniteto hemoglobina za kisik. Le-ta je lahko posledica povišanega COHb, redkeje gre za prirojene hemoglobinopatije (hemoglobini s povečano afiniteto za kisik, pomanjkanje bisfosfoglicerata in methemoglobinemijo) (<xref ref-type="bibr" rid="b17">17</xref>).</p>
+         <p>Patološki rezultati jetrnih testov lahko nakazujejo na prisotnost hepatocelularnega karcinoma, še zlasti pri bolnikih, ki so jim že potrdili cirozo, virusni hepatitis ali hemokromotozo.</p>
+         <p>S proteinsko analizo hemoglobinov (kapilarna elektroforeza hemoglobinov) izključimo prisotnost hemoglobinopatij, ki so dedne motnje, povezane z nepravilnostmi v količini ali strukturi ene od globinskih verig hemoglobinov. Na prisotnost hemoglobinov s visoko afiniteto za kisik moramo pomisliti pri bolnikih, ki imajo družinsko anamnezo za policitemijo. Na to pomislimo tudi pri bolnikih, ki imajo zmanjšan p50. Hemoglobine s povišano afiniteto za kisik z rutinsko elektroforezo hemoglobinov odkrijemo le v 20–25 %; v ostalih primerih je potrebna tekočinska kromatografija ali sekvenciranje hemoglobinskih genov (<xref ref-type="bibr" rid="b8">8</xref>).</p>
+         <p>Z urinsko analizo lahko odkrijemo mikroskopsko hematurijo, ki je lahko edini znak karcinoma ledvic, ki izloča EPO.</p>
+         <p>Izključiti je treba tudi uživanje/zlorabo anabolnih hormonov oziroma z ustreznimi slikovnimi preiskavami izključiti tumor, ki izloča androgene hormone. Prehodno eritrocitozo najdemo včasih po presaditvi ledvice (<xref ref-type="bibr" rid="b6">6</xref>).</p>
+         <p>Smiselno je izvesti splošne biokemijske preiskave krvi in določiti zaloge železa v telesu s feritinom in nasičenostjo transferina, ker nam dajo splošni vpogled v zdravstveno stanje bolnika (<xref ref-type="bibr" rid="b2">2</xref>). Ob visoki nasičenosti transferina z železom je smiselno opraviti tudi testiranja za izključitev hemokromatoze, ki se sicer le izjemoma pokaže z eritrocitozo.</p>
+         <p>Kadar izključimo pridobljene oblike eritrocitoz, sledi genetsko testiranje za potrditev prirojenih primarnih in sekundarnih eritrocitoz (<xref ref-type="table" rid="table1">Tabela 1</xref>, poglavje Genetsko ozadje eritrocitoz). Potem ko smo predhodno že izključili mutacije, značilne za PV, sledi analiza mutacij gena <italic>EPOR </italic>ter nato ostalih genov, povezanih z družinskimi eritrocitozami (<xref ref-type="fig" rid="fig2">Slika 2</xref>).</p>
+         <fig position="anchor" id="fig2">
+            <label>Slika 2:</label>
+            <caption>
+               <p> Diagnostični algoritem obravnave eritrocitoze. Algoritem je dostopen na spletni strani ViDis (http://vidis.fri.uni-lj.si). *Pri simptomih in znakih, sumljivih za PV, napravimo preiskave za izključitev PV že pri Hb &gt; 165 g/L (Ht &gt; 49 %) pri moških (še znotraj normalnih vrednosti) oz. pri Hb &gt; 160 g/L (Ht &gt; 48 %) pri ženskah.</p>
+               <p>Legenda: BMI: indeks telesne mase; <italic>BPGM</italic>: bisfosfoglicerat mutaza; CoHb: karboksihemoglobin; ECYT1–7: prirojena eritrocitoza tipa 1–7; <italic>EGLN1:</italic> Egl deveti homolog 1, sinonim prolil hidroksilaza 2: <italic>PAS1:</italic> endotelna domena PAS, sinonim HIF2A, HIF-2 alfa-like faktor; <italic>EPO:</italic> eritropoetin; <italic>EPOR:</italic> receptor za eritropoetin; Hb: hemoglobin: <italic>HBA</italic>:<italic> </italic>hemoglobinska podenota alfa; <italic>HBB</italic>: hemoglobinska podenota beta; Ht: hematokrit; <italic>JAK2</italic>: Janus kinaza 2; KM: kostni mozeg; M: moški; NGS: (naslednja generacija sekvenciranja; p50: parcialni tlak kisika v krvi, pri katerem je Hb v 50 % nasičen s kisikom);PAAK: plinska analiza arterijske krvi; PV: prava policitemija, policitemia vera; sEPO: serumska koncentracija EPO; UZ: ultrazvočna preiskava; <italic>VHL</italic>: von Hippel-Lindau tumor zaviralni protein; Ž: ženska.</p>
+            </caption>
+            <p>
+               <graphic xlink:href="2880-web-resources/image/zdravvestn-2880-sl-02.png"/>
+            </p>
+         </fig>
+         <p>Posamezniki, pri katerih ne najdemo jasnega kliničnega razloga za eritrocitozo in so tudi genetska testiranja, ki jih imamo na razpolago, negativna, sodijo v skupino idiopatskih eritrocitoz.</p>
+      </sec>
+      <sec id="s5" sec-type="Zdravljenje">
+         <label>5</label>
+         <title>Zdravljenje</title>
+         <p>Glavni cilj zdravljenja eritrocitoz je obvladovanje kliničnih simptomov in znakov hiperviskoznosti krvi, ki lahko vodi v trombembolične zaplete in okvaro organov. V mnogih primerih težave, povezane s hiperviskoznostjo učinkovito lajšamo z venepunkcijami (t. i. “puščanje krvi”), ker normaliziramo maso eritrocitov v krvnem obtoku in viskoznost krvi. Bolniki pogosto prejemajo tudi acetilsalicilno kislino v nizkih odmerkih (<xref ref-type="bibr" rid="b2">2</xref>,<xref ref-type="bibr" rid="b7">7</xref>).</p>
+         <sec id="s5.1" sec-type="Zdravljenje bolnikov s PV">
+            <label>5.1</label>
+            <title>Zdravljenje bolnikov s PV</title>
+            <p>Bolnike s PV zdravimo po protokolu, ki se nekoliko razlikuje glede na to, ali bolniki sodijo v skupino z nizkim ali visokim tveganjem za tromboze (<xref ref-type="bibr" rid="b14">14</xref>). Zdravljenje vključuje redne venepunkcije, majhne odmerke acetilsalicilne kisline, citoreduktivno zdravljenje in v zadnjih letih tudi nova zdravila, kot je zaviralec JAK2 ruksolitinib (<xref ref-type="bibr" rid="b18">18</xref>-<xref ref-type="bibr" rid="b20">20</xref>).</p>
+         </sec>
+         <sec id="s5.2"
+              sec-type="Zdravljenje bolnikov z družinskimi in idiopatskimi eritrocitozami">
+            <label>5.2</label>
+            <title>Zdravljenje bolnikov z družinskimi in idiopatskimi eritrocitozami</title>
+            <p>Pri bolnikih z družinsko ali idiopatsko eritrocitozo sledimo predvsem načelu preprečevanja hiperviskoznosti, ki obremenjuje srčno mišico in lahko prispeva k pojavu ogrožajočih zapletov. Za zdravljenje z venepunkcijami se odločimo, ko imajo bolniki izražene simptome in znake hiperviskoznosti. Venepunkcij se poslužujemo hitreje tudi pri bolnikih po že utrpeli trombemboliji. V nasprotju s PV pri ostalih eritrocitozah ni jasno, kakšen je ciljni hematokrit. Bolniki z <italic>JAK2</italic>-negativno eritrocitozo se zaradi različne etiologije bolezni lahko razlikujejo glede potrebe po venepunkcijah. Pri hemoglobinopatijah s povečano afiniteto za kisik in pri kompenzacijski eritrocitozi zaradi srčno-pljučne bolezni bi lahko bile pogoste venepunkcije celo škodljive (<xref ref-type="bibr" rid="b9">9</xref>,<xref ref-type="bibr" rid="b12">12</xref>). Enak režim izvajanja venepunkcij pa bi bil v primeru druge <italic>JAK2</italic>-negativne eritrocitoze povsem primeren (<xref ref-type="bibr" rid="b9">9</xref>).</p>
+         </sec>
+         <sec id="s5.3"
+              sec-type="Zdravljenje bolnikov s sekundarnimi pridobljenimi eritrocitozami">
+            <label>5.3</label>
+            <title>Zdravljenje bolnikov s sekundarnimi pridobljenimi eritrocitozami</title>
+            <p>Pri bolnikih s sekundarnimi pridobljenimi eritrocitozami je poleg simptomatskega zdravljenja zlasti pomembno obvladovanje osnovne bolezni ter preprečevanje škodljivih razvad.</p>
+         </sec>
+      </sec>
+      <sec id="s6" sec-type="Trenutni pogled na eritrocitoze v Sloveniji">
+         <label>6</label>
+         <title>Trenutni pogled na eritrocitoze v Sloveniji</title>
+         <p>Pregledali smo 5-letno obdobje (od aprila 2011 do septembra 2016) analize mutacij <italic>JAK2, </italic>opravljenih v UKC Ljubljana in Maribor, edinih dveh ustanovah v Sloveniji z možnostjo testiranja mutacij<italic> JAK2 </italic>(<xref ref-type="fig" rid="fig3">Slika 3</xref>). Raziskavo je odobrila Komisija za medicinsko etiko RS (KME 115/08/15). V tem obdobju so skupno testirali 3.833 posameznikov, med katerimi je bilo 1.049 (27 %) pozitivnih in 2.784 (73 %) negativnih za mutacijo <italic>JAK2 V617F</italic>. Določanje mutacije <italic>JAK2</italic> je prvi test, ki ga opravimo pri bolniku z eritrocitozo v hematološki ambulanti z namenom opredeliti, kadar ni zelo očitnih kliničnih znakov in simptomov sekundarne eritrocitoze, zato nam ta podatek daje vsaj približno oceno absolutnih eritrocitoz v Sloveniji v nekem obdobju. Ker smo želeli ugotoviti delež idiopatskih in med njimi družinskih eritrocitoz, smo v nadaljnjo oceno vključili 1.054 <italic>JAK2 </italic>negativnih posameznikov iz UKC Ljubljana, ki so imeli negativno testiranje tudi za <italic>CALR, MPL</italic>
+            <italic>, C-KIT </italic>(mutacije, značilne za mielopoliferativne novotvorbe) (<xref ref-type="bibr" rid="b7">7</xref>,<xref ref-type="bibr" rid="b21">21</xref>,<xref ref-type="bibr" rid="b22">22</xref>).</p>
+         <fig position="anchor" id="fig3">
+            <label>Slika 3:</label>
+            <caption>
+               <p> Pregled bolnikov, vključenih v analizo <italic>JAK2</italic> v petletnem obdobju v Sloveniji. <italic>JAK2</italic> pozitiven (potrjena mutacija <italic>JAK2</italic>), <italic>JAK2</italic> negativen (ovržena mutacija <italic>JAK2</italic>).</p>
+            </caption>
+            <p>
+               <graphic xlink:href="2880-web-resources/image/zdravvestn-2880-sl-03.png"/>
+            </p>
+         </fig>
+         <p>Poleg anamneze in klinične slike smo natančno pregledali še krvne slike in poiskali podatek o serumski koncentraciji EPO. Izbrali smo 81 preiskovancev, ki so imeli vsaj 2 izvida krvne slike v presledku najmanj dveh mesecev s Ht in/ali koncentracijo Hb nad zgornjo referenčno vrednostjo (<xref ref-type="fig" rid="fig2">Slika 2</xref>), od tega je bilo 34 žensk in 47 moških. Vseh 81 bolnikov smo povabili na razgovor in pregled, da bi klinično opredelili eritrocitoze. Pisno soglasje za sodelovanje je podalo 30 preiskovancev ter izpolnilo vprašalnik o družinski anamnezi, od tega 16 žensk in 14 moških. Med njimi smo opredelili tri družine z vsaj dvema članoma z eritrocitozo ter jih vključili v genetsko testiranje za opredelitev družinskih eritrocitoz (<xref ref-type="bibr" rid="b23">23</xref>). V sklopu študentskih raziskovalnih nalog smo z metodo sekvenciranja po Sangerju izvedli preiskave genov <italic>EPOR, VHL, EPAS1, EPO in HBB, </italic>ki<italic> </italic>niso potrdile znanih mutacij, povezanih z družinsko obliko eritrocitoz (<xref ref-type="bibr" rid="b24">24</xref>-<xref ref-type="bibr" rid="b29">29</xref>). Določenih je bilo nekaj novih mutacij v genu <italic>EPO</italic>,<italic> EPAS1 </italic>in <italic>HBB</italic>, vendar so za opredelitev kliničnega pomena mutacij potrebne dodatne analize. Analiza genov <italic>EGLN1, HBA </italic>in<italic> BFGM </italic>je v teku. Poleg tega načrtujemo tudi analizo več genov z metodo naslednje generacije sekvenciranja (NGS).</p>
+      </sec>
+      <sec id="s7" sec-type="Zaključek">
+         <label>7</label>
+         <title>Zaključek</title>
+         <p>S prispevkom želimo opozoriti na področje v interni medicini, ki z doslej dostopnimi diagnostični postopki v Sloveniji še ni povsem pojasnjeno. Upamo, da bo zaradi tega imelo boljšo obravnavo kar nekaj bolnikov z eritrocitozo v hematoloških ambulantah in verjetno tudi drugje, ki jih sicer ne moremo opredeliti. Veliko si obetamo od metode NGS, ki omogoča sočasno diagnosticiranje vseh znanih oblik družinskih eritrocitoz z enim testom.</p>
+      </sec>
+   </body>
+   <back>
+      <ack>
+         <label>8</label>
+         <title>Zahvala</title>
+         <p>Raziskavo je finančno podprl UKC Ljubljana v okviru terciarnega projekta z naslovom Mutacijska analiza genov, vključenih v regulacijo izražanja EPO pri družinskih eritocitozah, Javna agencija za raziskovalno dejavnost Republike Slovenije (ARRS) v okviru projekta »Genetska osnova eritrocitoz v Sloveniji« (L3–9279) ter Evropska unija iz Evropskega socialnega sklada in Republika Slovenija v okviru projekta »Genetska diagnostika krvnih bolezni«.</p>
+      </ack>
+      <ref-list>
+         <ref id="b1">
+            <label>1.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>McMullin</surname> 
+                     <given-names>MF</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Bareford</surname> 
+                     <given-names>D</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Campbell</surname> 
+                     <given-names>P</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Green</surname> 
+                     <given-names>AR</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Harrison</surname> 
+                     <given-names>C</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Hunt</surname> 
+                     <given-names>B</given-names>
+                  </string-name>, <etal>et al.</etal>; <collab>General Haematology Task Force of the British Committee for Standards in Haematology</collab>
+               </person-group>. <article-title>Guidelines for the diagnosis, investigation and management of polycythaemia/erythrocytosis</article-title>. <source>Br J Haematol</source>. <year>2005</year> 
+               <month>Jul</month>;<volume>130</volume>(<issue>2</issue>):<fpage>174</fpage>–<lpage>95</lpage>. <pub-id pub-id-type="doi">10.1111/j.1365-2141.2005.05535.x</pub-id>
+               <pub-id pub-id-type="pmid">16029446</pub-id>
+               <issn>0007-1048</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b2">
+            <label>2.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>McMullin</surname> 
+                     <given-names>MF</given-names>
+                  </string-name>
+               </person-group>. <article-title>Investigation and Management of Erythrocytosis</article-title>. <source>Curr Hematol Malig Rep</source>. <year>2016</year> 
+               <month>Oct</month>;<volume>11</volume>(<issue>5</issue>):<fpage>342</fpage>–<lpage>7</lpage>. <pub-id pub-id-type="doi">10.1007/s11899-016-0334-1</pub-id>
+               <pub-id pub-id-type="pmid">27423232</pub-id>
+               <issn>1558-8211</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b3">
+            <label>3. </label>
+            <mixed-citation publication-type="book" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Bento</surname> 
+                     <given-names>C</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Cario</surname> 
+                     <given-names>H</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Gardie</surname> 
+                     <given-names>B</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Hermouet</surname> 
+                     <given-names>S</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>McMullin</surname> 
+                     <given-names>MF</given-names>
+                  </string-name>
+               </person-group>. <source>Congenital Erythrocytosis and Hereditary Thrombocytosis Clinical presentation, diagnosis, treatment and follow-up: A practical guide with clinical cases</source>. <year>2015</year>. pp. <fpage>9</fpage>–<lpage>127</lpage>.</mixed-citation>
+         </ref>
+         <ref id="b4">
+            <label>4.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>McMullin</surname> 
+                     <given-names>MF</given-names>
+                  </string-name>
+               </person-group>. <article-title>Congenital erythrocytosis</article-title>. <source>Int J Lab Hematol</source>. <year>2016</year> 
+               <month>May</month>;<volume>38</volume>(<issue>1</issue> 
+               <supplement>Suppl 1</supplement>):<fpage>59</fpage>–<lpage>65</lpage>. <pub-id pub-id-type="doi">10.1111/ijlh.12506</pub-id>
+               <pub-id pub-id-type="pmid">27161533</pub-id>
+               <issn>1751-5521</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b5">
+            <label>5.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>McMullin</surname> 
+                     <given-names>MF</given-names>
+                  </string-name>
+               </person-group>. <article-title>The classification and diagnosis of erythrocytosis</article-title>. <source>Int J Lab Hematol</source>. <year>2008</year> 
+               <month>Dec</month>;<volume>30</volume>(<issue>6</issue>):<fpage>447</fpage>–<lpage>59</lpage>.<pub-id pub-id-type="pmid">18823397</pub-id>
+               <issn>1751-5521</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b6">
+            <label>6.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Patnaik</surname> 
+                     <given-names>MM</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Tefferi</surname> 
+                     <given-names>A</given-names>
+                  </string-name>
+               </person-group>. <article-title>The complete evaluation of erythrocytosis: congenital and acquired</article-title>. <source>Leukemia</source>. <year>2009</year> 
+               <month>May</month>;<volume>23</volume>(<issue>5</issue>):<fpage>834</fpage>–<lpage>44</lpage>. <pub-id pub-id-type="doi">10.1038/leu.2009.54</pub-id>
+               <pub-id pub-id-type="pmid">19295544</pub-id>
+               <issn>0887-6924</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b7">
+            <label>7.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Mlakar</surname> 
+                     <given-names>U</given-names>
+                  </string-name>
+               </person-group>. <article-title>Smernice za odkrivanje in zdravljenje prave policitemije</article-title>. <source>Zdrav Vestn</source>. <year>2008</year>;<volume>77</volume>(<issue>1</issue>):<fpage>11</fpage>–<lpage>4</lpage>.<issn>0350-0063</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b8">
+            <label>8.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Lee</surname> 
+                     <given-names>G</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Arcasoy</surname> 
+                     <given-names>MO</given-names>
+                  </string-name>
+               </person-group>. <article-title>The clinical and laboratory evaluation of the patient with erythrocytosis</article-title>. <source>Eur J Intern Med</source>. <year>2015</year> 
+               <month>Jun</month>;<volume>26</volume>(<issue>5</issue>):<fpage>297</fpage>–<lpage>302</lpage>. <pub-id pub-id-type="doi">10.1016/j.ejim.2015.03.007</pub-id>
+               <pub-id pub-id-type="pmid">25837692</pub-id>
+               <issn>0953-6205</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b9">
+            <label>9.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Bento</surname> 
+                     <given-names>C</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Percy</surname> 
+                     <given-names>MJ</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Gardie</surname> 
+                     <given-names>B</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Maia</surname> 
+                     <given-names>TM</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>van Wijk</surname> 
+                     <given-names>R</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Perrotta</surname> 
+                     <given-names>S</given-names>
+                  </string-name>, <etal>et al.</etal>; <collab>ECE-Consortium</collab>; <collab>ECE-Consortium</collab>
+               </person-group>. <article-title>Genetic basis of congenital erythrocytosis: mutation update and online databases</article-title>. <source>Hum Mutat</source>. <year>2014</year> 
+               <month>Jan</month>;<volume>35</volume>(<issue>1</issue>):<fpage>15</fpage>–<lpage>26</lpage>. <pub-id pub-id-type="doi">10.1002/humu.22448</pub-id>
+               <pub-id pub-id-type="pmid">24115288</pub-id>
+               <issn>1059-7794</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b10">
+            <label>10.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Spivak</surname> 
+                     <given-names>JL</given-names>
+                  </string-name>
+               </person-group>. <article-title>Polycythemia Vera</article-title>. <source>Curr Treat Options Oncol</source>. <year>2018</year> 
+               <month>Mar</month>;<volume>19</volume>(<issue>2</issue>):<fpage>12</fpage>. <pub-id pub-id-type="doi">10.1007/s11864-018-0529-x</pub-id>
+               <pub-id pub-id-type="pmid">29516275</pub-id>
+               <issn>1527-2729</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b11">
+            <label>11.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Arcasoy</surname> 
+                     <given-names>MO</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Karayal</surname> 
+                     <given-names>AF</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Segal</surname> 
+                     <given-names>HM</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Sinning</surname> 
+                     <given-names>JG</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Forget</surname> 
+                     <given-names>BG</given-names>
+                  </string-name>
+               </person-group>. <article-title>A novel mutation in the erythropoietin receptor gene is associated with familial erythrocytosis</article-title>. <source>Blood</source>. <year>2002</year> 
+               <month>Apr</month>;<volume>99</volume>(<issue>8</issue>):<fpage>3066</fpage>–<lpage>9</lpage>. <pub-id pub-id-type="doi">10.1182/blood.V99.8.3066</pub-id>
+               <pub-id pub-id-type="pmid">11929803</pub-id>
+               <issn>0006-4971</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b12">
+            <label>12. </label>
+            <mixed-citation publication-type="unknown" specific-use="linked">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Camps</surname> 
+                     <given-names>C</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Petousi</surname> 
+                     <given-names>N</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Bento</surname> 
+                     <given-names>C</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Cario</surname> 
+                     <given-names>H</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Copley</surname> 
+                     <given-names>RR</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>McMullin</surname> 
+                     <given-names>MF</given-names>
+                  </string-name>, <etal>et al.</etal>
+               </person-group> 
+               <article-title>Gene panel sequencing improves the diagnostic work-up of patients with idiopathic erythrocytosis and identifies new mutations.</article-title> Haematologica. <year>2016</year>;10(11):1306 ̶ 18. <pub-id pub-id-type="doi">10.3324/haematol.2016.144063</pub-id>
+            </mixed-citation>
+         </ref>
+         <ref id="b13">
+            <label>13.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Zmajkovic</surname> 
+                     <given-names>J</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Lundberg</surname> 
+                     <given-names>P</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Nienhold</surname> 
+                     <given-names>R</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Torgersen</surname> 
+                     <given-names>ML</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Sundan</surname> 
+                     <given-names>A</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Waage</surname> 
+                     <given-names>A</given-names>
+                  </string-name>, <etal>et al.</etal>
+               </person-group> 
+               <article-title>A Gain-of-Function Mutation in EPO in Familial Erythrocytosis</article-title>. <source>N Engl J Med</source>. <year>2018</year> 
+               <month>Mar</month>;<volume>378</volume>(<issue>10</issue>):<fpage>924</fpage>–<lpage>30</lpage>. <pub-id pub-id-type="doi">10.1056/NEJMoa1709064</pub-id>
+               <pub-id pub-id-type="pmid">29514032</pub-id>
+               <issn>0028-4793</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b14">
+            <label>14.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Arber</surname> 
+                     <given-names>DA</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Orazi</surname> 
+                     <given-names>A</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Hasserjian</surname> 
+                     <given-names>R</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Thiele</surname> 
+                     <given-names>J</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Borowitz</surname> 
+                     <given-names>MJ</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Le Beau</surname> 
+                     <given-names>MM</given-names>
+                  </string-name>, <etal>et al.</etal>
+               </person-group> 
+               <article-title>The 2016 revision to the World Health Organization classification of myeloid neoplasms and acute leukemia</article-title>. <source>Blood</source>. <year>2016</year> 
+               <month>May</month>;<volume>127</volume>(<issue>20</issue>):<fpage>2391</fpage>–<lpage>405</lpage>. <pub-id pub-id-type="doi">10.1182/blood-2016-03-643544</pub-id>
+               <pub-id pub-id-type="pmid">27069254</pub-id>
+               <issn>0006-4971</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b15">
+            <label>15.	</label>
+            <mixed-citation publication-type="book" specific-use="unparsed">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Swerdlow</surname> 
+                     <given-names>SH</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Campo</surname> 
+                     <given-names>E</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Lee Harris</surname> 
+                     <given-names>N</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Jaffe</surname> 
+                     <given-names>ES</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Pileri</surname> 
+                     <given-names>SA</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Stein</surname> 
+                     <given-names>H</given-names>
+                  </string-name>, <etal>et al.</etal>
+               </person-group> 
+               <source>Myeloproliferativne neoplasms.</source> 4th ed. WHO Classification of Tumours of Haematopoetic and Lymphoid Tissues. IARC, Lyon, <year>2017</year>. p. 29-60.</mixed-citation>
+         </ref>
+         <ref id="b16">
+            <label>16.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Ash-Bernal</surname> 
+                     <given-names>R</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Wise</surname> 
+                     <given-names>R</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Wright</surname> 
+                     <given-names>SM</given-names>
+                  </string-name>
+               </person-group>. <article-title>Acquired methemoglobinemia: a retrospective series of 138 cases at 2 teaching hospitals</article-title>. <source>Medicine (Baltimore)</source>. <year>2004</year> 
+               <month>Sep</month>;<volume>83</volume>(<issue>5</issue>):<fpage>265</fpage>–<lpage>73</lpage>. <pub-id pub-id-type="doi">10.1097/01.md.0000141096.00377.3f</pub-id>
+               <pub-id pub-id-type="pmid">15342970</pub-id>
+               <issn>0025-7974</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b17">
+            <label>17.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Lopes da Silva</surname> 
+                     <given-names>R</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Villanueva</surname> 
+                     <given-names>T</given-names>
+                  </string-name>
+               </person-group>. <article-title>Dealing with polycythemia in primary care</article-title>. <source>Korean J Fam Med</source>. <year>2013</year> 
+               <month>Jan</month>;<volume>34</volume>(<issue>1</issue>):<fpage>66</fpage>–<lpage>8</lpage>. <pub-id pub-id-type="doi">10.4082/kjfm.2013.34.1.66</pub-id>
+               <pub-id pub-id-type="pmid">23372909</pub-id>
+               <issn>2005-6443</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b18">
+            <label>18. </label>
+            <mixed-citation publication-type="unknown" specific-use="linked">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Keohane</surname> 
+                     <given-names>C</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>McMullin</surname> 
+                     <given-names>MF</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Harrison</surname> 
+                     <given-names>C</given-names>
+                  </string-name>
+               </person-group>. <article-title>The diagnosis and management of erythrocytosis.</article-title> BMJ. <year>2013</year>;347,f:6667. <pub-id pub-id-type="doi">10.1136/bmj.f6667</pub-id>
+            </mixed-citation>
+         </ref>
+         <ref id="b19">
+            <label>19.	</label>
+            <mixed-citation publication-type="web-page" specific-use="unparsed">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Tefferi</surname> 
+                     <given-names>A</given-names>
+                  </string-name>
+               </person-group>. <article-title>Prognosis and treatment of polycythemia vera.</article-title> Up To Date; [cited 2018 Sep 4]. Available from: <ext-link ext-link-type="uri"
+                         xlink:href="https://www.uptodate.com/contents/prognosis-and-treatment-of-polycythemia-vera">https://www.uptodate.com/contents/prognosis-and-treatment-of-polycythemia-vera</ext-link>
+            </mixed-citation>
+         </ref>
+         <ref id="b20">
+            <label>20.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Mesa</surname> 
+                     <given-names>RA</given-names>
+                  </string-name>
+               </person-group>. <article-title>New guidelines from the NCCN for polycythemia vera</article-title>. <source>Clin Adv Hematol Oncol</source>. <year>2017</year> 
+               <month>Nov</month>;<volume>15</volume>(<issue>11</issue>):<fpage>848</fpage>–<lpage>50</lpage>.<pub-id pub-id-type="pmid">29200417</pub-id>
+               <issn>1543-0790</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b21">
+            <label>21. </label>
+            <mixed-citation publication-type="unknown" specific-use="unparsed">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Gotlib</surname> 
+                     <given-names>J.</given-names>
+                  </string-name>
+               </person-group> Mutation of the Calreticulin (CALR) Gene in Myeloproliferative Neoplasms Hematologist. <year>2015</year>;12(1):11 ̶ 2.</mixed-citation>
+         </ref>
+         <ref id="b22">
+            <label>22. </label>
+            <mixed-citation publication-type="unknown" specific-use="unparsed">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Tefferi</surname> 
+                     <given-names>A</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Vardiman</surname> 
+                     <given-names>JW</given-names>
+                  </string-name>
+               </person-group>. <article-title>Classification and diagnosis of myeloproliferative neoplasms.</article-title> Leukemia. <year>2008</year>;22(1):14 ̶ 22.</mixed-citation>
+         </ref>
+         <ref id="b23">
+            <label>23. </label>
+            <mixed-citation publication-type="unknown" specific-use="unparsed">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Kopitar</surname> 
+                     <given-names>A.</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Solarovič</surname> 
+                     <given-names>A</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Vermiglio</surname> 
+                     <given-names>L.</given-names>
+                  </string-name>
+               </person-group> 
+               <article-title>Genska osnova eritrocitoz v Sloveniji.</article-title> Ljubljana: Medicinska fakulteta; <year>2017</year>.</mixed-citation>
+         </ref>
+         <ref id="b24">
+            <label>24.	</label>
+            <mixed-citation publication-type="thesis" specific-use="unparsed">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Mencin</surname> 
+                     <given-names>I</given-names>
+                  </string-name>
+               </person-group>. Analiza genetske variabilnosti tumor-supresorskega gena VHL pri družinski eritrocitozi [Master's Thesis]. Ljubljana: I. Mencin; <year>2017</year>.</mixed-citation>
+         </ref>
+         <ref id="b25">
+            <label>25.	</label>
+            <mixed-citation publication-type="thesis" specific-use="unparsed">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Kristan</surname> 
+                     <given-names>A</given-names>
+                  </string-name>
+               </person-group>. <article-title>Analiza genetske variabilnosti s hipoksijo induciranih transkripcijskih dejavnikov alfa pri družinski eritrocitozi.</article-title> [Master's Thesis]. Ljubljana: A. Kristan; <year>2018</year>.</mixed-citation>
+         </ref>
+         <ref id="b26">
+            <label>26.	</label>
+            <mixed-citation publication-type="thesis" specific-use="unparsed">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Prijatelj</surname> 
+                     <given-names>T</given-names>
+                  </string-name>
+               </person-group>. <article-title>Analiza variabilnosti gena za eritropoetin pri družinski eritrocitozi.</article-title> [Master's Thesis]. Ljubljana: T. Prijatelj; <year>2018</year>.</mixed-citation>
+         </ref>
+         <ref id="b27">
+            <label>27.	</label>
+            <mixed-citation publication-type="thesis" specific-use="unparsed">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Vočanec</surname> 
+                     <given-names>D</given-names>
+                  </string-name>
+               </person-group>. <article-title>Analiza variabilnosti gena za eritropoetinski receptor pri družinski eritrocitozi.</article-title> [Master's Thesis]. Ljubljana: D. Vočanec; <year>2018</year>.</mixed-citation>
+         </ref>
+         <ref id="b28">
+            <label>28.</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Vočanec</surname> 
+                     <given-names>D</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Prijatelj</surname> 
+                     <given-names>T</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Debeljak</surname> 
+                     <given-names>N</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Kunej</surname> 
+                     <given-names>T</given-names>
+                  </string-name>
+               </person-group>. <article-title>Genetic variants of erythropoietin (<italic>EPO</italic>) and EPO receptor genes in familial erythrocytosis</article-title>. <source>Int J Lab Hematol</source>. <year>2018</year>; <comment>Epub ahead of print</comment>.<pub-id pub-id-type="pmid">30507031</pub-id>
+               <issn>1751-5521</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b29">
+            <mixed-citation publication-type="thesis" specific-use="unparsed">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Marentič</surname> 
+                     <given-names>A</given-names>
+                  </string-name>
+               </person-group>. <article-title>Analiza genetske variabilnosti gena HBB pri družinski eritrocitozi.</article-title> [Master's Thesis]. Ljubljana: A. Marentič; <year>2019</year>.</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

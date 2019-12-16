@@ -1,0 +1,921 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD with MathML3 v1.1 20151215//EN" "JATS-journalpublishing1-mathml3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink"
+         dtd-version="1.1"
+         xml:lang="sl"
+         article-type="other">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher-id">Zdrav Vestn</journal-id>
+         <journal-id journal-id-type="nlm-ta">Zdrav Vestn</journal-id>
+         <journal-id journal-id-type="doi">Zdrav Vestn</journal-id>
+         <journal-title-group>
+            <journal-title>Zdravniški vestnik</journal-title>
+            <trans-title-group xml:lang="en">
+               <trans-title>Slovenian Medical Journal</trans-title>
+            </trans-title-group>
+            <abbrev-journal-title>Zdrav Vestn</abbrev-journal-title>
+         </journal-title-group>
+         <issn publication-format="ppub" pub-type="ppub">1318-0347</issn>
+         <issn publication-format="epub" pub-type="epub">1581-0224</issn>
+         <issn-l>0350-0063</issn-l>
+         <publisher>
+            <publisher-name xml:lang="sl">Slovensko zdravniško društvo</publisher-name>
+            <publisher-name xml:lang="en">Slovenian Medical Association</publisher-name>
+            <publisher-loc xml:lang="sl">Ljubljana, Slovenia</publisher-loc>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.6016/ZdravVestn.2825</article-id>
+         <article-id pub-id-type="publisher-id">2825</article-id>
+         <article-categories>
+            <subj-group subj-group-type="discipline" xml:lang="en">
+               <subject>Medicine and health sciences</subject>
+               <subj-group>
+                  <subject>Public health (occupational medicine</subject>
+               </subj-group>
+            </subj-group>
+            <subj-group subj-group-type="discipline" xml:lang="sl">
+               <subject>Medicina/Zdravstvo</subject>
+               <subj-group>
+                  <subject>Javno zdravstvo (varstvo pri delu)</subject>
+               </subj-group>
+            </subj-group>
+            <subj-group subj-group-type="article-type" xml:lang="en">
+               <subject>Original scientific article</subject>
+            </subj-group>
+            <subj-group subj-group-type="article-type" xml:lang="sl">
+               <subject>Izvirni znanstveni članek</subject>
+            </subj-group>
+            <subj-group subj-group-type="heading" xml:lang="sl">
+               <subject>Javno zdravstvo (varstvo pri delu)</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title xml:lang="sl">Raziskovalno delo v splošnih bolnišnicah v Sloveniji</article-title>
+            <trans-title-group>
+               <trans-title xml:lang="en">Research work in general hospitals in Slovenia</trans-title>
+            </trans-title-group>
+            <alt-title alt-title-type="running-head" xml:lang="sl">Raziskovalno delo v splošnih bolnišnicah v Sloveniji</alt-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Klemenc</surname>
+                  <given-names>Matjaž</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1">1</xref>
+               <xref ref-type="corresp" rid="corr"/>
+            </contrib>
+         </contrib-group>
+         <aff-alternatives id="aff1">
+            <aff xml:lang="sl">
+               <label>1</label>
+               <institution>Enota za intenzivno nego, Splošna bolnišnica „dr. Franca Derganca“ Nova Gorica, Šempeter pri Novi Gorici, Slovenija</institution>
+            </aff>
+            <aff xml:lang="en">
+               <label>1</label>
+               <institution>Intensive care unit, Franc Derganc General Hospital of Nova Gorica, Šempeter pri Novi Gorici, Slovenia</institution>
+            </aff>
+         </aff-alternatives>
+         <author-notes>
+            <fn fn-type="conflict" xml:lang="en">
+               <p>The authors have declared that no competing interests exist.</p>
+            </fn>
+            <fn fn-type="conflict" xml:lang="sl">
+               <p>Avtorji so izjavili, da ne obstajajo nobeni konkurenčni interesi.</p>
+            </fn>
+            <corresp id="corr">Matjaž Klemenc, e-mail: <email xlink:type="simple"/>
+            </corresp>
+         </author-notes>
+         <pub-date pub-type="ppub">
+            <month>4</month>
+            <year>2019</year>
+         </pub-date>
+         <pub-date pub-type="epub">
+            <month>4</month>
+            <year>2019</year>
+         </pub-date>
+         <volume>88</volume>
+         <issue>3–4</issue>
+         <fpage>107</fpage>
+         <lpage>14</lpage>
+         <history>
+            <date date-type="received">
+               <day>10</day>
+               <month>3</month>
+               <year>2018</year>
+            </date>
+            <date date-type="accepted">
+               <day>22</day>
+               <month>2</month>
+               <year>2019</year>
+            </date>
+         </history>
+         <permissions>
+            <copyright-statement xml:lang="en">Copyright © 2019, Slovenian Medical Association (SZD)</copyright-statement>
+            <copyright-statement xml:lang="sl">© 2019, Slovensko zdravniško društvo (SZD)</copyright-statement>
+            <copyright-year>2019</copyright-year>
+            <copyright-holder xml:lang="en">Slovenian Medical Association (SZD)</copyright-holder>
+            <copyright-holder xml:lang="sl">Slovensko zdravniško društvo (SZD)</copyright-holder>
+            <license xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                     xlink:type="simple"
+                     xml:lang="en">
+               <license-p>This is an open access article distributed under the terms of the
+          <ext-link ext-link-type="uri"
+                            xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                            xlink:type="simple">Creative Commons Attribution-NonCommercial
+            License</ext-link>, which permits unrestricted use, distribution, and
+          reproduction in any medium, provided the original author and source are
+          credited and only for non-commercial purposes. </license-p>
+            </license>
+            <license xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                     xlink:type="simple"
+                     xml:lang="sl">
+               <license-p>To je članek z odprtim dostopom, ki ga lahko uporabite pod pogoji iz
+          <ext-link ext-link-type="uri"
+                            xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                            xlink:type="simple">Creative Commons Priznanje avtorstva-Nekomercialno
+            licence</ext-link>. ki dovoljuje distribucijo, predelavo ali
+          prilagoditev, ter gradijo na njem, v nekomercialne namene, z navedbo avtorja
+          in izvirnega dela.</license-p>
+            </license>
+         </permissions>
+         <abstract xml:lang="sl">
+            <title>Izvleček</title>
+            <p>Izhodišče: Raziskovalno delo je temeljni element medicine, ker omogoča prenos znanstvenih dosežkov v vsakdanjo klinično prakso. Namen članka je predstaviti organizacijo raziskovalnega dela v slovenskih splošnih bolnišnicah. Posebej nas je zanimalo vprašanje, ali se glede strukture zaposlenih zdravnikov (delež zdravnikov z znanstvenimi in učiteljskimi naslovi) splošne bolnišnice razlikujejo od obeh univerzitetnih kliničnih centrov.</p>
+            <p>Metode: Podatke smo pridobili z neeksperimentalno-kvantitativno metodo zbiranja podatkov. Uvodni del smo oblikovali na podlagi dejstev, raziskovalni del pa s pomočjo strukturiranega vprašalnika, ki smo ga v drugi polovici septembra 2017 poslali desetim splošnim bolnišnicam.</p>
+            <p>Rezultati: V slovenskih splošnih bolnišnicah je bilo konec oktobra 2017 zaposlenih 866 specialistov in 568 drugih zdravnikov. 8,6 % zdravnikov je imelo znanstveni naslov magister oz. doktor znanosti, 1,1 % jih je imelo učiteljski naziv. Primerjava strukture zaposlenih zdravnikov glede na strokovni, znanstveni in pedagoški naziv pokaže statistično pomembne razlike med obema univerzitetnima bolnišnicama na eni strani in splošnimi bolnišnicami: χ<sup>2</sup> = 336.62, p &lt; 0.0001.</p>
+            <p>Zaključek: Večina bolnišnic je imela v svoji strukturi organiziran raziskovalni oddelek. V primerjavi z univerzitetnima kliničnima centroma je delež zdravnikov z znanstvenimi in učiteljskimi naslovi v slovenskih splošnih bolnišnicah izrazito nižji. Z razvojem informacijske tehnologije, boljšo tehnično opremljenostjo splošnih bolnišnic in predvsem zaradi motiviranosti mladih zdravnikov za raziskovalno delo lahko upravičeno pričakujemo, da se bo razkorak med splošnimi in univerzitetnimi bolnišnicami postopoma zmanjševal.</p>
+         </abstract>
+         <trans-abstract xml:lang="en">
+            <title>Abstract</title>
+            <p>Background: Research work is a fundamental element of medicine because it allows the transfer of scientific achievements into daily clinical practice. The purpose of the article is to present the organization of research work in Slovenian general hospitals. We were particularly interested whether the structure of employed doctors (the proportion of doctors with scientific and teaching titles) of general hospitals differ from the two university medical centers.</p>
+            <p>Methods: The data were obtained using the non-experimental quantitative method of data collection. The introductory part was designed on the basis of facts, and the research work was carried out using a structured questionnaire sent to ten general hospitals in the second half of September 2017.</p>
+            <p>Results: At the end of October 2017, Slovenian general hospitals employed 866 specialists and 568 other physicians; 8.6 % of physicians held a Doctor of Philosophy or a Master of Science degree; 1.1 % were university teachers. A comparison of the structure of employed physicians according to their professional, scientific and academic titles shows statistically significant differences between the two university hospitals on the one hand and the general hospitals on the other: χ<sup>2</sup> = 336.62, p &lt; 0.0001.</p>
+            <p>Conclusion: Most of the general hospitals have an organized research department in their structure. In comparison with the university hospitals, the share of physicians with scientific and academic titles in Slovenian general hospitals is significantly lower. With the development of information technology, better technical equipment of general hospitals and, in particular, the motivation of young doctors for research work, we can reasonably expect that the gap between general and university hospitals will gradually decrease.</p>
+         </trans-abstract>
+         <kwd-group xml:lang="sl">
+            <kwd>raziskovalci</kwd>
+            <kwd>raziskovalni oddelki</kwd>
+            <kwd>splošne bolnišnice</kwd>
+         </kwd-group>
+         <kwd-group xml:lang="en">
+            <kwd>researchers</kwd>
+            <kwd>research departments</kwd>
+            <kwd>general hospitals</kwd>
+         </kwd-group>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>TotalReferences</meta-name>
+               <meta-value>10</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ReferencesParsed</meta-name>
+               <meta-value>3</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ReferencesBillable</meta-name>
+               <meta-value>2</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>LinkServices</meta-name>
+               <meta-value>pubmed-crossref</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ReferencesLinked</meta-name>
+               <meta-value>1</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ReferencesLinkedDOI</meta-name>
+               <meta-value>1</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ReferencesLinkedPMID</meta-name>
+               <meta-value>1</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>JournalReferences</meta-name>
+               <meta-value>1</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>BookReferences</meta-name>
+               <meta-value>1</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>BookChapterReferences</meta-name>
+               <meta-value>1</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ConferenceReferences</meta-name>
+               <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ElectronicReferences</meta-name>
+               <meta-value>6</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>DissertationReferences</meta-name>
+               <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>LegalReferences</meta-name>
+               <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>StandardReferences</meta-name>
+               <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>OtherReferences</meta-name>
+               <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>UnknownReferences</meta-name>
+               <meta-value>1</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ReferencesSemiParsed</meta-name>
+               <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ReferencesBookUnparsed</meta-name>
+               <meta-value>1</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>EditorialStyle</meta-name>
+               <meta-value>ICMJE-WHO</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <body>
+      <sec id="s1" sec-type="Uvod">
+         <label>1</label>
+         <title>Uvod</title>
+         <p>Visoka kakovost zdravstvene oskrbe, ki jo danes uživamo, temelji na dolgoletnem raziskovalnem delu zdravnikov, znanstvenikov in drugih strokovnjakov na področju medicine, ki so svoje življenje in delo posvetili odkrivanju vzrokov in načinov zdravljenja različnih bolezni. Zaradi njihovega neutrudnega dela so nekatere nekoč življenjsko ogrožujoče bolezni danes samo še spomin.</p>
+         <p>Na splošno lahko raziskovalno delo opredelimo kot temeljito, načrtovano opazovanje, zbiranje podatkov, ugotavljanje dejstev o nekem pojavu. Tako kot v drugih vejah znanosti tudi v medicini z raziskavami predvsem izboljšujemo znanje v dobro človeštva.</p>
+         <p>Nova odkritja v medicini postopoma uvajamo v vsakdanjo klinično prakso. Pri tem se porajajo nova vprašanja, na katera lahko odgovorimo le z načrtnim raziskovalnim delom. Tako je sklenjen vzajemen odnos (krog) med kliničnim in raziskovalnim delom.</p>
+         <p>Obstaja domneva, da lahko zdravnik spremlja najnovejše dosežke in znanstvena spoznanja samo s prebiranjem strokovne literature. Ta predpostavka ni utemeljena. Čeprav je strokovna literatura široko dostopna, je vrhunsko klinično delo možno samo, če so zdravniki aktivno vključeni v raziskave (<xref ref-type="bibr" rid="b4">4</xref>). Raziskovalno delo lahko zaradi sistematičnosti pristopa k določenem problemu (kliničnem vprašanju) z vnaprej definiranimi postopki obravnave preiskovancev, natančnim upoštevanjem pravil dobre klinične prakse, analizo in objavo pridobljenih podatkov istovetimo z vrhunskim kliničnim delom.</p>
+         <p>Razumljivo je, da je bilo raziskovalno delo najprej domena univerzitetnih bolnišnic. Klinični oddelki so imeli razmeroma veliko število zdravnikov, primerno opremo, predvsem pa so bili vpeti kot učna baza v sistem izobraževanja zdravnikov.</p>
+         <p>Z leti se je povečevalo tudi število zaposlenih zdravnikov v splošnih (neuniverzitetnih) bolnišnicah (<xref ref-type="bibr" rid="b9">9</xref>), razkorak v opremljenosti v primerjavi z univerzitetnimi bolnišnicami se je postopoma manjšal, predvsem pa je razvoj informacijske tehnologije omogočil enostaven in hiter dostop do strokovne literature. Omenjene spremembe so omogočile razvoj raziskovalnega dela v splošnih bolnišnicah.</p>
+         <p>V drugi polovici oktobra 2017 je v okviru redne letne skupščine SZD potekalo strokovno srečanje o raziskovanju v vsakdanjem zdravnikovem delu. Predstavljene so bile oblike organiziranosti raziskovalne dejavnosti od primarne do terciarne ravni, v stomatologiji in pri zasebnih zdravnikih.</p>
+         <p>Namen preglednega članka je predstaviti organizacijo raziskovalnega dela v slovenskih splošnih bolnišnicah. Posebej nas je zanimalo vprašanje, ali se glede strukture zaposlenih zdravnikov (delež zdravnikov z znanstvenimi in učiteljskimi naslovi) splošne bolnišnice razlikujejo od obeh univerzitetnih kliničnih centrov.</p>
+      </sec>
+      <sec id="s2" sec-type="Metode">
+         <label>2</label>
+         <title>Metode</title>
+         <p>Podatke smo pridobili z neeksperimentalno kvantitativno metodo zbiranja podatkov. Uvodni del smo oblikovali na podlagi dejstev, raziskovalni del pa s pomočjo strukturiranega vprašalnika, ki smo ga v drugi polovici septembra 2017 poslali desetim splošnim bolnišnicam. Vprašalnik je bil sestavljen iz treh vsebinskih sklopov. Prvi se je nanašal na status bolnišnic kot učnih ustanov. V drugem sklopu, “Bibliografske enote raziskovalcev”, smo želeli dobiti podatke o številu objavljenih raziskovalnih in strokovnih prispevkov. Tretji sklop, “Demografski podatki”, pa je vključeval vprašanja o strukturi zaposlenih zdravnikov glede na strokovne, znanstvene in pedagoške nazive. Vsebina vprašalnika je predstavljena v <xref ref-type="table" rid="table1">Tabeli 1</xref>.</p>
+         <table-wrap position="anchor" id="table1">
+            <label>Tabela 1:</label>
+            <caption>
+               <p> Vprašalnik o raziskovalni dejavnosti v splošnih bolnišnicah v Sloveniji.</p>
+            </caption>
+            <table>
+               <colgroup>
+                  <col/>
+                  <col/>
+                  <col/>
+               </colgroup>
+               <tbody>
+                  <tr>
+                     <th>Sklop 1. Status bolnišnice</th>
+                     <th>DA</th>
+                     <th>NE</th>
+                  </tr>
+                  <tr>
+                     <td>Ima bolnišnica status učne bolnišnice?</td>
+                     <td/>
+                     <td/>
+                  </tr>
+                  <tr>
+                     <td>Ima bolnišnica organiziran raziskovalni oddelek/službo?</td>
+                     <td/>
+                     <td/>
+                  </tr>
+                  <tr>
+                     <th colspan="3">Sklop 2. Bibliografske enote raziskovalcev</th>
+                  </tr>
+                  <tr>
+                     <td colspan="3">V zadnjih 5 letih so zaposleni zdravniki predstavili izvirno raziskovalno delo:</td>
+                  </tr>
+                  <tr>
+                     <td>
+                        <p>•v revijah s faktorjem impact</p>
+                     </td>
+                     <td/>
+                     <td/>
+                  </tr>
+                  <tr>
+                     <td>
+                        <p>•v ostalih revijah</p>
+                     </td>
+                     <td/>
+                     <td/>
+                  </tr>
+                  <tr>
+                     <td>
+                        <p>•na mednarodnih kongresih/srečanjih</p>
+                     </td>
+                     <td/>
+                     <td/>
+                  </tr>
+                  <tr>
+                     <td>
+                        <p>•na domačih kongresih/srečanjih</p>
+                     </td>
+                     <td/>
+                     <td/>
+                  </tr>
+                  <tr>
+                     <th>Sklop 3. Demografski podatki</th>
+                     <th colspan="2">število</th>
+                  </tr>
+                  <tr>
+                     <td>specialisti</td>
+                     <td colspan="2"/>
+                  </tr>
+                  <tr>
+                     <td>ostali zdravniki</td>
+                     <td colspan="2"/>
+                  </tr>
+                  <tr>
+                     <td>zdravniki z doktoratom znanosti</td>
+                     <td colspan="2"/>
+                  </tr>
+                  <tr>
+                     <td>zdravniki z magisterijem</td>
+                     <td colspan="2"/>
+                  </tr>
+                  <tr>
+                     <td colspan="3">zdravniki z učiteljskim naslovom (docent, izredni prof., redni profesor)</td>
+                  </tr>
+               </tbody>
+            </table>
+         </table-wrap>
+         <p>Nekatere bolnišnice so poleg izpolnjenega anketnega lista dodale še podatke o uspešnosti raziskovalnih skupin, ki temelji na predpisih Javne agencije za raziskovalno dejavnost Republike Slovenije (ARRS) (<xref ref-type="bibr" rid="b1">1</xref>).</p>
+         <sec id="s2.1" sec-type="Statistična analiza">
+            <label>2.1</label>
+            <title>Statistična analiza</title>
+            <p>Za prikaz vrednosti v posameznih tabelah smo uporabili deskriptivne statistične metode. Pri ugotavljanju razlik v strukturi zaposlenih v univerzitetnih kliničnih centrih in splošnih bolnišnicah smo uporabili test χ<sup>2</sup>, za oceno moči povezave med kategoričnimi spremenljivkami Cramerjev V test, procent odstopanja (PO) pa je bil izračunan z enačbo 1:</p>
+            <p>
+               <disp-formula>
+                  <mml:math mathbackground="#e1e1e1" xmlns:mml="http://www.w3.org/1998/Math/MathML"><mml:mstyle displaystyle="true"><mml:mpadded height="+15px" width="+1 px" voffset="5px">
+                     <mml:mrow>
+                        <mml:mn>PO </mml:mn><mml:mo> = </mml:mo>
+                        <mml:mo>(</mml:mo>
+                        <mml:mfrac>
+                           <mml:mrow><mml:mn>opazovana vrednost</mml:mn><mml:mo> – </mml:mo><mml:mn>pričakovana vrednost</mml:mn>
+                           </mml:mrow>
+                           <mml:mrow>
+                              <mml:mi>pričakovana vrednost</mml:mi>
+                           </mml:mrow>
+                        </mml:mfrac>
+                        <mml:mo>)</mml:mo><mml:mo> * </mml:mo><mml:mn>100</mml:mn><mml:mtext> (1)</mml:mtext>
+                     </mml:mrow>
+                  </mml:mpadded>
+                  </mml:mstyle>
+                     
+                  </mml:math>
+               </disp-formula>
+            </p>
+            <p>Statistični izračuni so opravljeni s statističnim programom VassarStats (Vassar college Poughkeepisie, NY, ZDA).</p>
+         </sec>
+      </sec>
+      <sec id="s3" sec-type="Rezultati">
+         <label>3</label>
+         <title>Rezultati</title>
+         <p>Vse splošne bolnišnice so registrirane kot učne bolnišnice. Večina ima v svoji strukturi organiziran tudi raziskovalni oddelek. Ta je praviloma samostojen, ločen od drugih samostojnih medicinskih oddelkov in služb (npr. SB Nova Gorica, SB Celje, SB Jesenice, SB Murska Sobota …).</p>
+         <p>Raziskovalci so bili preko raziskovalnih oddelkov vključeni v raziskave, ki jih financira ARRS, kot nosilci (npr. SB Murska Sobota: Epidemiologija srčnega popuščanja v Sloveniji: prevalenca, hospitalizacije in umrljivost« – J3–7405 …) ali pa kot partnerji (npr. SB Celje: Odkrivanje novih regulatorjev izražanja RANKL, ključne molekule ne samo v kostni presnovi, J3–7425). Raziskovalne skupine so opravljale raziskave tudi v sodelovanju z univerzitetnimi klinikami, z raziskovalnimi inštituti in drugimi fakultetami (<xref ref-type="bibr" rid="b2">2</xref>) in v mednarodnih projektih, financiranih od Evropske skupnosti (npr. mednarodni projekt United4health – SB Slovenj Gradec (<xref ref-type="bibr" rid="b8">8</xref>) in Trans2care – SB Nova Gorica (<xref ref-type="bibr" rid="b3">3</xref>).</p>
+         <p>Posamezne bolnišnice so poleg odgovora na vprašanja, postavljena v anketi, predstavile tudi uspešnost delovanja posamezne raziskovalne skupine na podlagi pravilnika Javne agencije za raziskovalno dejavnost Republike Slovenije (ARRS). V <xref ref-type="table" rid="table2">Tabeli 2</xref> so prikazani bibliografski kazalniki raziskovalne uspešnosti raziskovalnih skupin, ki jih zajema informacijski sistem o raziskovalni dejavnosti v Sloveniji – SICRIS (http://www.sicris.si).</p>
+         <table-wrap position="anchor" id="table2">
+            <label>Tabela 2:</label>
+            <caption>
+               <p> Bibliografski kazalniki raziskovalne uspešnosti raziskovalnih skupin v slovenskih splošnih bolnišnicah.</p>
+            </caption>
+            <table>
+               <colgroup>
+                  <col/>
+                  <col/>
+                  <col/>
+                  <col/>
+                  <col/>
+                  <col/>
+                  <col/>
+                  <col/>
+                  <col/>
+                  <col/>
+               </colgroup>
+               <thead>
+                  <tr>
+                     <th>Splošna bolnišnica</th>
+                     <th>Upoštevane točke</th>
+                     <th>
+                        <p>A‘‘</p>
+                        <p>izjemni dosežki</p>
+                     </th>
+                     <th>
+                        <p>A‘</p>
+                        <p>zelo kvalitetni dosežki</p>
+                     </th>
+                     <th>
+                        <p>A<sup>1/2</sup>
+                        </p>
+                        <p>pomembni dosežki</p>
+                     </th>
+                     <th>
+                        <p>CI<sub>10</sub>
+                        </p>
+                        <p>število čistih citatov znanstvenih del</p>
+                        <p>(2008–2017)</p>
+                     </th>
+                     <th>
+                        <p>CI<sub>max</sub>
+                        </p>
+                        <p>najodmevnejše delo</p>
+                        <p>(2008–2017)</p>
+                     </th>
+                     <th>
+                        <p>h-indeks</p>
+                        <p>(2008–2017)</p>
+                     </th>
+                     <th>A<sub>1</sub>
+                     </th>
+                     <th>A<sub>3</sub>
+                     </th>
+                  </tr>
+               </thead>
+               <tbody>
+                  <tr>
+                     <td>Celje</td>
+                     <td align="right">1.108,64</td>
+                     <td align="right">59,38</td>
+                     <td align="right">289,46</td>
+                     <td align="right">385,06</td>
+                     <td align="right">2.703</td>
+                     <td align="right">530</td>
+                     <td align="right">20</td>
+                     <td align="right">3,44</td>
+                     <td align="right">0</td>
+                  </tr>
+                  <tr>
+                     <td>Ptuj</td>
+                     <td align="right">40,73</td>
+                     <td align="right">1,08</td>
+                     <td align="right">1,08</td>
+                     <td align="right">9,62</td>
+                     <td align="right">67</td>
+                     <td align="right">17</td>
+                     <td align="right">5</td>
+                     <td align="right">0,12</td>
+                     <td align="right">0</td>
+                  </tr>
+                  <tr>
+                     <td>Jesenice</td>
+                     <td align="right">613,89</td>
+                     <td align="right">3,67</td>
+                     <td align="right">12,65</td>
+                     <td align="right">29,37</td>
+                     <td align="right">1.618</td>
+                     <td align="right">1.186</td>
+                     <td align="right">13</td>
+                     <td align="right">1,65</td>
+                     <td align="right">0</td>
+                  </tr>
+                  <tr>
+                     <td>Murska Sobota</td>
+                     <td align="right">3.194,84</td>
+                     <td align="right">430,37</td>
+                     <td align="right">1.455,65</td>
+                     <td align="right">1.748,01</td>
+                     <td align="right">5.021</td>
+                     <td align="right">1.218</td>
+                     <td align="right">30</td>
+                     <td align="right">8,97</td>
+                     <td align="right">0,79</td>
+                  </tr>
+                  <tr>
+                     <td>Novo mesto</td>
+                     <td align="right">114,51</td>
+                     <td align="right">0</td>
+                     <td align="right">0</td>
+                     <td align="right">0</td>
+                     <td align="right">5</td>
+                     <td align="right">5</td>
+                     <td align="right">1</td>
+                     <td align="right">0,31</td>
+                     <td align="right">0</td>
+                  </tr>
+                  <tr>
+                     <td>Slovenj Gradec</td>
+                     <td align="right">780,43</td>
+                     <td align="right">4,97</td>
+                     <td align="right">22,58</td>
+                     <td align="right">188,66</td>
+                     <td align="right">454</td>
+                     <td align="right">117</td>
+                     <td align="right">11</td>
+                     <td align="right">2,21</td>
+                     <td align="right">0</td>
+                  </tr>
+               </tbody>
+            </table>
+            <table-wrap-foot>
+               <p>Podatki za zadnjih 5 let (citati za zadnjih 10 let) na dan 30. 7. 2018; A3 za obdobje 2012–2016</p>
+               <p>[Vir: Vzajemna baza podatkov COBISS.SI/COBIB.SI, 30. 7. 2018].</p>
+            </table-wrap-foot>
+         </table-wrap>
+         <p>Iz podatkovne baze SICRIS smo dobili podatke o znanstvenih in strokovnih delih registriranih raziskovalnih organizacij. Skladno z merili ARRS je registriranih šest bolnišnic. Te imajo tudi pripadajoče šifre ARRS. Njihovi bibliografski potenciali so izraženi v številu čistih in vseh citatov za članke, ki so povezani s citatnimi bazami WoS in ScopuS. Po številu totalnih in čistih citatov za obdobje 2008 do 2018 izstopa Splošna bolnišnica Murska Sobota, sledita pa ji Splošni bolnišnici Celje in Jesenice (<xref ref-type="table" rid="table3">Tabela 3</xref>).</p>
+         <table-wrap position="anchor" id="table3">
+            <label>Tabela 3:</label>
+            <caption>
+               <p> Citiranost bibliografskih zapisov v COBIB.SI, ki so povezani z zapisi citatnih baz (2008–2018).</p>
+            </caption>
+            <table>
+               <colgroup>
+                  <col/>
+                  <col/>
+                  <col/>
+                  <col/>
+                  <col/>
+                  <col/>
+                  <col/>
+               </colgroup>
+               <thead>
+                  <tr>
+                     <th>Splošna bolnišnica</th>
+                     <th align="center" colspan="2">Citati</th>
+                     <th align="center" colspan="2">Čisti citati</th>
+                     <th align="center" colspan="2">Povprečje čistih citatov</th>
+                  </tr>
+               </thead>
+               <tbody>
+                  <tr>
+                     <th content-type="table-subhead"/>
+                     <th align="center" content-type="table-subhead">WoS</th>
+                     <th align="center" content-type="table-subhead">Scopus</th>
+                     <th align="center" content-type="table-subhead">WoS</th>
+                     <th align="center" content-type="table-subhead">Scopus</th>
+                     <th align="center" content-type="table-subhead">WoS</th>
+                     <th align="center" content-type="table-subhead">Scopus</th>
+                  </tr>
+                  <tr>
+                     <td>Celje</td>
+                     <td align="right">2437</td>
+                     <td align="right">3086</td>
+                     <td align="right">2336</td>
+                     <td align="right">2971</td>
+                     <td align="right">14,69</td>
+                     <td align="right">21,69</td>
+                  </tr>
+                  <tr>
+                     <td>Ptuj</td>
+                     <td align="right">77</td>
+                     <td align="right">98</td>
+                     <td align="right">70</td>
+                     <td align="right">90</td>
+                     <td align="right">4,67</td>
+                     <td align="right">6</td>
+                  </tr>
+                  <tr>
+                     <td>Jesenice</td>
+                     <td align="right">1380</td>
+                     <td align="right">1696</td>
+                     <td align="right">1354</td>
+                     <td align="right">1665</td>
+                     <td align="right">33,02</td>
+                     <td align="right">37</td>
+                  </tr>
+                  <tr>
+                     <td>Murska Sobota</td>
+                     <td align="right">5184</td>
+                     <td align="right">6127</td>
+                     <td align="right">4715</td>
+                     <td align="right">5670</td>
+                     <td align="right">18,13</td>
+                     <td align="right">23,92</td>
+                  </tr>
+                  <tr>
+                     <td>Novo mesto</td>
+                     <td align="right">21</td>
+                     <td align="right">33</td>
+                     <td align="right">21</td>
+                     <td align="right">33</td>
+                     <td align="right">2,1</td>
+                     <td align="right">6,6</td>
+                  </tr>
+                  <tr>
+                     <td>Slovenj Gradec</td>
+                     <td align="right">460</td>
+                     <td align="right">560</td>
+                     <td align="right">415</td>
+                     <td align="right">512</td>
+                     <td align="right">4,91</td>
+                     <td align="right">7,31</td>
+                  </tr>
+               </tbody>
+            </table>
+            <table-wrap-foot>
+               <p>Vir: Vzajemna baza podatkov Cobiss.si / Cobib.si; 1. 8. 2018; WoS, Scopus... citatne baze.</p>
+            </table-wrap-foot>
+         </table-wrap>
+         <p>V sklopu »Demografski podatki« smo dobili podatke o številu zaposlenih specialistov, zdravnikov in številu tistih, ki so dosegli znanstvene in habilitacijske nazive. V začetku oktobra 2017 je bilo splošnih bolnišnicah Slovenije zaposlenih 876 specialistov, 568 ostalih zdravnikov, 59 od njih je imelo naslov magistra in 66 doktorja znanosti. Med zaposlenimi je bilo tudi 16 univerzitetnih učiteljev. Razporeditev zdravnikov po strokovnih, znanstvenih in pedagoških nazivih je v <xref ref-type="table" rid="table4">Tabeli 4</xref>.</p>
+         <table-wrap position="anchor" id="table4">
+            <label>Tabela 4:</label>
+            <caption>
+               <p> Struktura zdravnikov glede na strokovni, znanstveni in pedagoški naziv.</p>
+            </caption>
+            <table>
+               <colgroup>
+                  <col/>
+                  <col/>
+                  <col/>
+                  <col/>
+                  <col/>
+                  <col/>
+               </colgroup>
+               <thead>
+                  <tr>
+                     <th>Bolnišnica</th>
+                     <th>Specialisti</th>
+                     <th>Ostali zdravniki</th>
+                     <th>Doktorji znanosti</th>
+                     <th>Magistri znanosti</th>
+                     <th>Univerzitetni učitelji*</th>
+                  </tr>
+               </thead>
+               <tbody>
+                  <tr>
+                     <td>Murska Sobota</td>
+                     <td align="right">89</td>
+                     <td align="right">66</td>
+                     <td align="right">8</td>
+                     <td align="right">13</td>
+                     <td align="right">4</td>
+                  </tr>
+                  <tr>
+                     <td>Ptuj</td>
+                     <td align="right">38</td>
+                     <td align="right">30</td>
+                     <td align="right">2</td>
+                     <td align="right">4</td>
+                     <td align="right">1</td>
+                  </tr>
+                  <tr>
+                     <td>Slovenj Gradec</td>
+                     <td align="right">91</td>
+                     <td align="right">65</td>
+                     <td align="right">8</td>
+                     <td align="right">9</td>
+                     <td align="right">1</td>
+                  </tr>
+                  <tr>
+                     <td>Novo mesto</td>
+                     <td align="right">122</td>
+                     <td align="right">75</td>
+                     <td align="right">7</td>
+                     <td align="right">7</td>
+                     <td align="right">0</td>
+                  </tr>
+                  <tr>
+                     <td>Brežice</td>
+                     <td align="right">37</td>
+                     <td align="right">33</td>
+                     <td align="right">2</td>
+                     <td align="right">2</td>
+                     <td align="right">1</td>
+                  </tr>
+                  <tr>
+                     <td>Celje</td>
+                     <td align="right">200</td>
+                     <td align="right">114</td>
+                     <td align="right">17</td>
+                     <td align="right">19</td>
+                     <td align="right">4</td>
+                  </tr>
+                  <tr>
+                     <td>Trbovlje</td>
+                     <td align="right">25</td>
+                     <td align="right">13</td>
+                     <td align="right">1</td>
+                     <td align="right">0</td>
+                     <td align="right">0</td>
+                  </tr>
+                  <tr>
+                     <td>Jesenice</td>
+                     <td align="right">76</td>
+                     <td align="right">54</td>
+                     <td align="right">1</td>
+                     <td align="right">4</td>
+                     <td align="right">0</td>
+                  </tr>
+                  <tr>
+                     <td>Izola</td>
+                     <td align="right">93</td>
+                     <td align="right">62</td>
+                     <td align="right">6</td>
+                     <td align="right">7</td>
+                     <td align="right">3</td>
+                  </tr>
+                  <tr>
+                     <td>Nova Gorica</td>
+                     <td align="right">105</td>
+                     <td align="right">56</td>
+                     <td align="right">7</td>
+                     <td align="right">1</td>
+                     <td align="right">2</td>
+                  </tr>
+                  <tr>
+                     <th content-type="table-subhead">Skupaj</th>
+                     <th align="right" content-type="table-subhead">876</th>
+                     <th align="right" content-type="table-subhead">568</th>
+                     <th align="right" content-type="table-subhead">59</th>
+                     <th align="right" content-type="table-subhead">66</th>
+                     <th align="right" content-type="table-subhead">16</th>
+                  </tr>
+               </tbody>
+            </table>
+            <table-wrap-foot>
+               <p>*univerzitetni učitelji: docent, izredni profesor, redni profesor.</p>
+            </table-wrap-foot>
+         </table-wrap>
+         <p>Med vsemi zaposlenimi zdravniki v splošnih bolnišnicah je imelo magisterij oz. doktorat znanosti 8,6 % zdravnikov. Zdravnikov z učiteljskim naslovom je bilo 16 oz. 1,1 %.</p>
+         <p>Primerjava strukture zaposlenih zdravnikov glede na strokovni, znanstveni in pedagoški naziv pokaže statistično pomembne razlike med obema univerzitetnima bolnišnicama na eni strani in splošnimi bolnišnicami: χ<sup>2</sup> = 336.62, p &lt; 0.0001, Cramer V = 0.198. Delež magistrov in doktorjev znanosti v UKC Ljubljana znaša 35,6 %, v UKC Maribor pa 29,2 %. 15,5 % zdravnikov v UKC Ljubljana ima učiteljski naslov, v UKC Maribor pa 11,8 % (<xref ref-type="table" rid="table5">Tabela 5</xref>).</p>
+         <table-wrap position="anchor" id="table5">
+            <label>Tabela 5:</label>
+            <caption>
+               <p> Primerjava strukture zaposlenih zdravnikov med obema univerzitetnima kliničnima centroma in splošnimi bolnišnicami.</p>
+            </caption>
+            <table>
+               <colgroup>
+                  <col/>
+                  <col/>
+                  <col/>
+                  <col/>
+                  <col/>
+               </colgroup>
+               <thead>
+                  <tr>
+                     <th>Ustanova</th>
+                     <th>Specialisti</th>
+                     <th>Ostali zdravniki</th>
+                     <th>Magistri in doktorji znanosti</th>
+                     <th>Učitelji</th>
+                  </tr>
+               </thead>
+               <tbody>
+                  <tr>
+                     <td>UKC Ljubljana</td>
+                     <td align="right">856 (–9,8 % )</td>
+                     <td align="right">438 (–19,1 %,)</td>
+                     <td align="right">461 (+36,4 %)</td>
+                     <td align="right">201 (+57,6 %)</td>
+                  </tr>
+                  <tr>
+                     <td>
+                        <p>UKC</p>
+                        <p>Maribor</p>
+                     </td>
+                     <td align="right">352 (–3,7 %)</td>
+                     <td align="right">182 (–12,6 %)</td>
+                     <td align="right">156 (+19,9 %)</td>
+                     <td align="right">63 (+28,3 %)</td>
+                  </tr>
+                  <tr>
+                     <td>Splošne bolnišnice</td>
+                     <td align="right">876 (+13,9 %)</td>
+                     <td align="right">568 (+29,5 %)</td>
+                     <td align="right">125 (–54,4 %)</td>
+                     <td align="right">16 (–84,5 %)</td>
+                  </tr>
+               </tbody>
+            </table>
+            <table-wrap-foot>
+               <p>Legenda: število zdravnikov (delež odstopanja v %).</p>
+            </table-wrap-foot>
+         </table-wrap>
+      </sec>
+      <sec id="s4" sec-type="Razpravljanje">
+         <label>4</label>
+         <title>Razpravljanje</title>
+         <p>Pregled organiziranosti raziskovalnega dela v slovenskih splošnih bolnišnicah je pokazal, da ima večina bolnišnic organizirane raziskovalne oddelke. Raziskovalni oddelki predstavljajo mrežno strukturo, kjer se stikajo vse dejavnosti, povezane z raziskavami. Omogočajo pregled nad raziskovalno dejavnostjo v posamezni bolnišnici in skrbijo za vključevanje svojih raziskovalcev v domače in mednarodne raziskovalne projekte. Prav tako nudijo administrativno podporo raziskovalcem pri urejanju bibliografije in pri pridobivanju finančnih sredstev za aktivno udeležbo na strokovnih srečanjih (<xref ref-type="bibr" rid="b5">5</xref>). Razveseljivo je dejstvo, da so rezultati dela raziskovalnih skupin predstavljeni tudi v revijah s faktorjem vpliva (<italic>angl.</italic> »impact factor«), kar posredno govori o kakovosti samih raziskav. Bibliografski kazalniki raziskovalne uspešnosti omogočajo primerjavo med posameznimi raziskovalnimi skupinami, povečujejo motivacijo, predvsem pa omogoča točkovanje znanstvenih del za financiranje oz. sofinanciranje raziskovalnih programov v okviru Javne agencije za raziskovalno dejavnost Republike Slovenije.</p>
+         <p>V primerjavi z univerzitetnima bolnišnicama (Univerzitetni klinični center v Ljubljani in Mariboru) je delež zdravnikov, ki so dosegli znanstveni naslov magistra oz. doktorja znanosti, v splošnih bolnišnicah pričakovano nižji: 35,6 % v UKC Ljubljana, 29,2 % v UKC Maribor in 8,6 % v splošnih bolnišnicah, enako velja tudi za delež učiteljev – tu je razlika v deležih še bistveno višja: 15,5 % v UKC Ljubljana in 11,8 % v UKC Maribor, v splošnih bolnišnicah 1,1 %. Slednje posredno govori o tem, da je pot od doktorata do učiteljskega naslova v splošnih bolnišnicah precej zahtevna. Deloma si to lahko razložimo z zahtevami v „Merilih za izvolitev v naslove visokošolskih učiteljev“ [6]. Tu imajo poglavitno težo objavljeni članki, ki pa so lahko le plod organiziranega raziskovalnega dela. Težavo predstavlja tudi zbiranje potrebnih točk iz naslova pedagoškega dela. Te izhajajo predvsem iz publiciranja učnih gradiv in različnih mentorstev. Za primer izrazito majhne zastopanosti mentorjev, zaposlenih v splošnih bolnišnicah, lahko navedemo razpis za Prešernove nagrade študentom Medicinske fakultete v Ljubljani za šolsko leto 2017/2018. Med 140 mentorji in somentorji so bili samo trije (2,1 %) zaposleni v splošnih bolnišnicah, ostali le v UKC Ljubljana (105) oz. na medicinski fakulteti (32) (<xref ref-type="bibr" rid="b10">10</xref>).</p>
+         <p>Na opisane razlike pomembno vpliva tudi kadrovska podhranjenost: razmeroma majhno število zaposlenih zdravnikov v splošnih bolnišnicah (876 specialistov v splošnih bolnišnicah in 1.228 specialistov v obeh univerzitetnih kliničnih centrih; glej <xref ref-type="table" rid="table4">Tabelo 4</xref> in <xref ref-type="table" rid="table5">Tabelo 5</xref>) zmanjšuje razpoložljiv čas za raziskovalno delo. Prav tako ne morejo računati na pomoč študentov, specializantov in mladih raziskovalcev v taki meri kot njihovi kolegi v univerzitetnih kliničnih centrih. Zdravniki so obremenjeni predvsem z rutinskim delom, ki zajema široka področja posameznih specializacij. S tem pa je izbor zanimivih raziskovalnih področij omejen oziroma otežkočen.</p>
+         <p>Nenazadnje je potrebno omeniti tudi vpliv motiviranosti zdravnikov za raziskovalno delo. Z razliko od univerzitetnih kliničnih centrov napredovanje v splošnih bolnišnicah ni vezano na raziskovalne dosežke. Pomemben je tudi vpliv samega okolja, tako sodelavcev kot vodstev bolnišnic. Za sodelavce, ki se ne ukvarjajo z raziskovalnim delom, je zdravnik raziskovalec „moteči dejavnik“, vodstva bolnišnic pa se v glavnem ukvarjajo z izpolnjevanjem pogodbenega programa. Tako raziskovalna dejavnost ne predstavlja prioritete, ki bi jo posebej spodbujala vodstvena struktura (večdesetletna izkušnja avtorja).</p>
+         <p>Z razvojem informacijske tehnologije, boljšo tehnično opremljenostjo splošnih bolnišnic in predvsem zaradi motiviranosti mladih zdravnikov za raziskovalno delo lahko upravičeno pričakujemo povečanje števila raziskav in s tem povezano povečanje deleža zdravnikov z znanstvenimi in učiteljskimi naslovi.</p>
+         <p>Omejitve študije: Podatki, ki so prikazani v študiji, so bili zbrani z anketo in dostopnimi podatki v sistemu SICRIS (http://www.sicris.si/public/). Ker ima samo šest od desetih anketiranih bolnišnic registrirano raziskovalno skupino, ni možna primerjava uspešnosti raziskovalnega dela med posameznimi bolnišnicami.</p>
+      </sec>
+   </body>
+   <back>
+      <ack>
+         <label>5</label>
+         <title>Zahvala</title>
+         <p>Avtor se zahvaljuje doc. dr. Ivici Avberšek Lužnik, mag. farm., doc. dr. Jerneji Farkaš Lainščak, dr. med., in dr. Jani Makuc, dr. med. za pomoč pri zbiranju in interpretiranju podatkov o raziskovalni dejavnosti.</p>
+      </ack>
+      <ref-list>
+         <ref id="b1">
+            <label>1.	</label>
+            <mixed-citation publication-type="web-page" specific-use="unparsed">Pravilnik o postopkih (so)financiranja in ocenjevanja ter spremljanju izvajanja raziskovalne dejavnosti. Available from: <ext-link ext-link-type="uri"
+                         xlink:href="http://www.arrs.gov.si/sl/akti/18/prav-sof-ocen-sprem-razisk-dej-jan2018.asp">http://www.arrs.gov.si/sl/akti/18/prav-sof-ocen-sprem-razisk-dej-jan2018.asp</ext-link>
+            </mixed-citation>
+         </ref>
+         <ref id="b2">
+            <label>2.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Klemenc</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Štrumbelj</surname> 
+                     <given-names>E</given-names>
+                  </string-name>
+               </person-group>. <article-title>Predicting the outcome of head-up tilt test using heart rate variability and baroreflex sensitivity parameters in patients with vasovagal syncope</article-title>. <source>Clin Auton Res</source>. <year>2015</year> 
+               <month>Dec</month>;<volume>25</volume>(<issue>6</issue>):<fpage>391</fpage>–<lpage>8</lpage>. <pub-id pub-id-type="doi">10.1007/s10286-015-0318-6</pub-id>
+               <pub-id pub-id-type="pmid">26546357</pub-id>
+               <issn>0959-9851</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b3">
+            <label>3. </label>
+            <mixed-citation publication-type="unknown" specific-use="unparsed">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Radovanović</surname> 
+                     <given-names>T</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Liu</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Likar</surname> 
+                     <given-names>P</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Klemenc</surname> 
+                     <given-names>M</given-names>
+                  </string-name>
+               </person-group> in Franko M: Microfluidic flow injection analysis with thermal lens microscopic detection for determination on NGAL. Int J Thermophys <year>2014</year>; 35: DOI <pub-id pub-id-type="doi">10.1007/s10765-014-1699-9</pub-id>. Program Trans2care.</mixed-citation>
+         </ref>
+         <ref id="b4">
+            <label>4.	</label>
+            <mixed-citation publication-type="web-page" specific-use="unparsed">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Mishani</surname> 
+                     <given-names>E</given-names>
+                  </string-name>
+               </person-group>. Medical research - Hadassah Medical Organization. Available from: <ext-link ext-link-type="uri"
+                         xlink:href="http://www.hadassah-med.com/medical-research.aspx">http://www.hadassah-med.com/medical-research.aspx</ext-link>
+            </mixed-citation>
+         </ref>
+         <ref id="b5">
+            <label>5.	</label>
+            <mixed-citation publication-type="book-chapter" specific-use="unparsed">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Farkaš-Lainščak</surname> 
+                     <given-names>J</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Grabar</surname> 
+                     <given-names>D</given-names>
+                  </string-name>
+               </person-group>. (Za)Kaj raziskujemo v Splošni bolnišnici Murska Sobota? In: Slavinec M, ur. Akademik Anton Vratuša - med znanostjo in politiko: Pomurska akademija Pomurju (zbornik povzetkov). 15. znanstvena konferenca Pomurske Akademsko Znanstvene Unije, PAZU, Murska Sobota, 24. in 25. november 2017. 1. izd. Murska Sobota: Združenje Pomurska akademsko znanstvena unija. <year>2017</year>. pr. 11-12.</mixed-citation>
+         </ref>
+         <ref id="b6">
+            <label>6.	</label>
+            <mixed-citation publication-type="web-page" specific-use="unparsed">Merila za izvolitev v naslove visokošolskih učiteljev, znanstvenih delavcev ter sodelavcev Univerze v Ljubljani. 19.10.<year>2016</year>. Available from: <ext-link ext-link-type="uri"
+                         xlink:href="https://www.uni-lj.si/o_univerzi_v_ljubljani/organizacija__pravilniki_in_porocila/predpisi_statut_ul_in_pravilniki/2013071111373294/">https://www.uni-lj.si/o_univerzi_v_ljubljani/organizacija__pravilniki_in_porocila/predpisi_statut_ul_in_pravilniki/2013071111373294/</ext-link>
+            </mixed-citation>
+         </ref>
+         <ref id="b7">
+            <label>7. </label>
+            <mixed-citation publication-type="book" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Sheskin</surname> 
+                     <given-names>D</given-names>
+                  </string-name>
+               </person-group>. <source>Handbook of Parametric and Nonparametric Statistical Procedures</source>. <publisher-loc>Boca Raton (FL)</publisher-loc>: <publisher-name>Chapman &amp; Hall/CRC</publisher-name>; <year>2011</year>.</mixed-citation>
+         </ref>
+         <ref id="b8">
+            <label>8.	</label>
+            <mixed-citation publication-type="web-page" specific-use="unparsed">United4health - UNIversal solutions in TElemedicine Deployment for European HEALTH care. Available from: <ext-link ext-link-type="uri"
+                         xlink:href="http://united4health.eu/wp-content/uploads/2017/04/D1.8-v1.2-United4Health-Final-Report.pdf">http://united4health.eu/wp-content/uploads/2017/04/D1.8-v1.2-United4Health-Final-Report.pdf</ext-link>
+            </mixed-citation>
+         </ref>
+         <ref id="b9">
+            <label>9.	</label>
+            <mixed-citation publication-type="web-page" specific-use="unparsed">Nacionalni inštitut za javno zdravje – Podatkovni portal. Available from: <ext-link ext-link-type="uri" xlink:href="https://podatki.nijz.si">https://podatki.nijz.si</ext-link>
+            </mixed-citation>
+         </ref>
+         <ref id="b10">
+            <label>10.	</label>
+            <mixed-citation publication-type="web-page" specific-use="parsed">
+               <article-title>Razpis Prešernove nagrade študentom Medicinske fakultete Univerze v Ljubljani za študijsko leto</article-title> 
+               <year>2017/2018</year>. Available from: <ext-link ext-link-type="uri"
+                         xlink:href="https://www.mf.uni-lj.si/o-studiju/informacije-za-studente/presernove-naloge">https://www.mf.uni-lj.si/o-studiju/informacije-za-studente/presernove-naloge</ext-link>
+            </mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+
+  <!-- Expect folder ../../jats-archiving-dtd-1.0/ to be unzipped from
+       ftp://ftp.ncbi.nlm.nih.gov/pub/jats/archiving/1.0/jats-archiving-dtd-1.0.zip -->
+  <group xml:base="file:../../jats-archiving-dtd-1.0/">
+    <public publicId="-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN"
+	    uri="JATS-archivearticle1.dtd"/>
+    <system systemId="JATS-archivearticle1.dtd" 
+	    uri="JATS-archivearticle1.dtd"/>
+  </group>
+
+  <!-- Expect folder ../../JATS-Publishing-1-1-MathML3-DTD/ to be unzipped from
+       ftp://ftp.ncbi.nlm.nih.gov/pub/jats/publishing/1.1/JATS-Publishing-1-1-MathML3-DTD.zip -->
+  <group xml:base="file:../../JATS-Publishing-1-1-MathML3-DTD/">
+    <public publicId="-//NLM//DTD JATS (Z39.96) Journal Publishing DTD with MathML3 v1.1 20151215//EN"
+	    uri="JATS-journalpublishing1-mathml3.dtd"/>
+    <system systemId="JATS-journalpublishing1.dtd" 
+	    uri="JATS-journalpublishing1-mathml3.dtd"/>
+  </group>
+
+</catalog>

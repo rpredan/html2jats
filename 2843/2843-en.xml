@@ -1,0 +1,938 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD with MathML3 v1.1 20151215//EN" "JATS-journalpublishing1-mathml3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink"
+         dtd-version="1.1"
+         xml:lang="en"
+         article-type="other">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher-id">Zdrav Vestn</journal-id>
+         <journal-id journal-id-type="nlm-ta">Zdrav Vestn</journal-id>
+         <journal-id journal-id-type="doi">Zdrav Vestn</journal-id>
+         <journal-title-group>
+            <journal-title>Slovenian Medical Journal</journal-title>
+            <trans-title-group xml:lang="sl">
+               <trans-title>Zdravniški vestnik</trans-title>
+            </trans-title-group>
+            <abbrev-journal-title>Zdrav Vestn</abbrev-journal-title>
+         </journal-title-group>
+         <issn publication-format="ppub" pub-type="ppub">1318-0347</issn>
+         <issn publication-format="epub" pub-type="epub">1581-0224</issn>
+         <issn-l>0350-0063</issn-l>
+         <publisher>
+            <publisher-name xml:lang="sl">Slovensko zdravniško društvo</publisher-name>
+            <publisher-name xml:lang="en">Slovenian Medical Association</publisher-name>
+            <publisher-loc xml:lang="sl">Ljubljana, Slovenia</publisher-loc>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.6016/ZdravVestn.2843</article-id>
+         <article-id pub-id-type="publisher-id">2843</article-id>
+         <article-categories>
+            <subj-group subj-group-type="discipline" xml:lang="en">
+               <subject>Medicine and health sciences</subject>
+               <subj-group>
+                  <subject>Human reproduction</subject>
+               </subj-group>
+            </subj-group>
+            <subj-group subj-group-type="article-type" xml:lang="en">
+               <subject>Short scientific article</subject>
+            </subj-group>
+            <subj-group subj-group-type="heading" xml:lang="en">
+               <subject>Human reproduction</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title xml:lang="en">Haemolytic Anaemia and Thrombocytopenia due to Foeto-Maternal ABO Incompatibility: Case Report</article-title>
+            <alt-title alt-title-type="running-head" xml:lang="en">Haemolytic Anaemia and Thrombocytopenia due to Foeto-Maternal ABO Incompatibility</alt-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Biteznik</surname>
+                  <given-names>Alenka</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1">1</xref>
+               <xref ref-type="corresp" rid="corr"/>
+            </contrib>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Faganel Kotnik</surname>
+                  <given-names>Barbara</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff2">2</xref>
+            </contrib>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Fister</surname>
+                  <given-names>Petja</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff3">3</xref>
+            </contrib>
+         </contrib-group>
+         <aff id="aff1" xml:lang="en">
+            <label>1</label>
+            <institution>Community health centre Ljubljana, Ljubljana, Slovenia</institution>
+         </aff>
+         <aff id="aff2" xml:lang="en">
+            <label>2</label>
+            <institution>Unit of Oncology and Haematology, Division of Paediatrics, University Medical Centre Ljubljana, Ljubljana, Slovenia</institution>
+         </aff>
+         <aff id="aff3" xml:lang="en">
+            <label>3</label>
+            <institution>Neonatal Unit, Division of Paediatrics, University Medical Centre Ljubljana, Ljubljana, Slovenia</institution>
+         </aff>
+         <author-notes>
+            <fn fn-type="conflict" xml:lang="en">
+               <p>The authors have declared that no competing interests exist.</p>
+            </fn>
+            <fn fn-type="conflict" xml:lang="sl">
+               <p>Avtorji so izjavili, da ne obstajajo nobeni konkurenčni interesi.</p>
+            </fn>
+            <corresp id="corr">Alenka Biteznik, e-mail: <email xlink:type="simple"/>
+            </corresp>
+         </author-notes>
+         <pub-date pub-type="ppub">
+            <month>6</month>
+            <year>2019</year>
+         </pub-date>
+         <pub-date pub-type="epub">
+            <month>6</month>
+            <year>2019</year>
+         </pub-date>
+         <volume>88</volume>
+         <issue>5–6</issue>
+         <fpage>282</fpage>
+         <lpage>90</lpage>
+         <history>
+            <date date-type="received">
+               <day>25</day>
+               <month>5</month>
+               <year>2018</year>
+            </date>
+            <date date-type="accepted">
+               <day>31</day>
+               <month>3</month>
+               <year>2019</year>
+            </date>
+         </history>
+         <permissions>
+            <copyright-statement xml:lang="en">Copyright © 2019, Slovenian Medical Association (SZD)</copyright-statement>
+            <copyright-statement xml:lang="sl">© 2019, Slovensko zdravniško društvo (SZD)</copyright-statement>
+            <copyright-year>2019</copyright-year>
+            <copyright-holder xml:lang="en">Slovenian Medical Association (SZD)</copyright-holder>
+            <copyright-holder xml:lang="sl">Slovensko zdravniško društvo (SZD)</copyright-holder>
+            <license xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                     xlink:type="simple"
+                     xml:lang="en">
+               <license-p>This is an open access article distributed under the terms of the
+          <ext-link ext-link-type="uri"
+                            xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                            xlink:type="simple">Creative Commons Attribution-NonCommercial
+            License</ext-link>, which permits unrestricted use, distribution, and
+          reproduction in any medium, provided the original author and source are
+          credited and only for non-commercial purposes. </license-p>
+            </license>
+            <license xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                     xlink:type="simple"
+                     xml:lang="sl">
+               <license-p>To je članek z odprtim dostopom, ki ga lahko uporabite pod pogoji iz
+          <ext-link ext-link-type="uri"
+                            xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                            xlink:type="simple">Creative Commons Priznanje avtorstva-Nekomercialno
+            licence</ext-link>. ki dovoljuje distribucijo, predelavo ali
+          prilagoditev, ter gradijo na njem, v nekomercialne namene, z navedbo avtorja
+          in izvirnega dela.</license-p>
+            </license>
+         </permissions>
+         <abstract xml:lang="en">
+            <title>Abstract</title>
+            <p>Ever since anti-D immunoglobulins have been given to all RhD-negative pregnant women, the most common cause of haemolytic disease of the newborn is ABO feto-maternal incompatibility. Haemolysis of erythrocytes is caused by the anti-A or anti-B IgG class antibodies that cross the placenta and destroy the foetal and neonatal erythrocytes. The disease presents with haemolytic anaemia, severe early jaundice and splenomegaly. Since ABO antigens may also be expressed on platelets and other tissues, anti-A and anti-B antibodies may in rare cases also cause thrombocytopenia. In the article, we describe a clinical case of a full-term newborn girl with blood group A, RhD positive, Kell negative, who presented with haemolytic anaemia and thrombocytopenia. The blood group of her mother was O, RhD positive, Kell negative. On admission the newborn girl was subicteric, while the laboratory values at the age of 100 hours were as following: haemoglobin 152 g/L, platelets 44 × 10<sup>9</sup>/L, bilirubin 254 μmol/L and direct bilirubin 10.6 μmol/L. Direct Coombs test was positive and anti-A IgG antibodies were present. Treatment with phototherapy lowered the levels of bilirubin. Because of a low platelet level, we obtained the mother’s platelet level, which was normal. We performed HPA genotyping of the mother and the newborn girl, and we did not find any mismatch. Direct test of the patient’s platelets for antibodies was negative. We did not confirm platelet-specific antibodies (HPA and HLA). Platelet number rose spontaneously. At the last check-up we noticed neutropenia, which was no longer present at 4 and a half months of age.</p>
+         </abstract>
+         <kwd-group xml:lang="en">
+            <kwd>ABO incompatibility</kwd>
+            <kwd>haemolytic disease of the newborn</kwd>
+            <kwd>foetal and neonatal alloimmune thrombocytopenia</kwd>
+            <kwd>unconjugated hyperbilirubinemia</kwd>
+            <kwd>thrombocytopenia</kwd>
+         </kwd-group>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>TotalReferences</meta-name>
+               <meta-value>25</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ReferencesParsed</meta-name>
+               <meta-value>23</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ReferencesBillable</meta-name>
+               <meta-value>23</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>LinkServices</meta-name>
+               <meta-value>pubmed-crossref</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ReferencesLinked</meta-name>
+               <meta-value>19</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ReferencesLinkedDOI</meta-name>
+               <meta-value>14</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ReferencesLinkedPMID</meta-name>
+               <meta-value>19</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>JournalReferences</meta-name>
+               <meta-value>22</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>BookReferences</meta-name>
+               <meta-value>2</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>BookChapterReferences</meta-name>
+               <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ConferenceReferences</meta-name>
+               <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ElectronicReferences</meta-name>
+               <meta-value>1</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>DissertationReferences</meta-name>
+               <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>LegalReferences</meta-name>
+               <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>StandardReferences</meta-name>
+               <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>OtherReferences</meta-name>
+               <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>UnknownReferences</meta-name>
+               <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ReferencesSemiParsed</meta-name>
+               <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ReferencesBookUnparsed</meta-name>
+               <meta-value>1</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>EditorialStyle</meta-name>
+               <meta-value>ICMJE-WHO</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <body>
+      <sec id="s1" sec-type="Introduction">
+         <label>1</label>
+         <title>Introduction</title>
+         <p>Even since the introduction of Rh factor screening test to protect RhD-negative pregnant women with anti-D antibodies, the most common cause of the Haemolytic Disease of the Newborn (HDN) is ABO mismatch between the foetus and the mother, and is often accompanied by heavy early jaundice, anaemia and splenomegaly (<xref ref-type="bibr" rid="b1">1</xref>,<xref ref-type="bibr" rid="b2">2</xref>). ABO incompatibility causes a range of Haemolytic Disease of the Newborn (HDN) symptoms, with some newborns displaying little or no signs to some having HBN with prominent signs (<xref ref-type="bibr" rid="b3">3</xref>). In the embryo, antigens are expressed by red blood cells already from 5 to 7 weeks gestation. While the production of anti-A and anti-B antibodies has been proven during pregnancy, they are generally not present at birth. Between 30 and 34 weeks gestation, half of the foetuses have detectable values of anti-A and anti-B antibodies, which is not linked to the maternal blood group (BG) (<xref ref-type="bibr" rid="b4">4</xref>). After being exposed to environmental antigens, which are similar to ABO antigens, the baby begins to produce ABO antibodies sometime between 3 and 6 months of age, depending of their genetic makeup. Adult ranges are reached at the age of 2 years (<xref ref-type="bibr" rid="b4">4</xref>,<xref ref-type="bibr" rid="b5">5</xref>). Persons with A or B BG produce anti-A or anti-B antibodies, predominantly of the IgM type, and some IgG and IgA, while persons with O blood group mostly produce IgG antibodies, and a lesser share of IgM and IgA (<xref ref-type="bibr" rid="b5">5</xref>). Toward the end of pregnancy, IgG anti-A or anti-B antibodies of the mother pass through and attach to the foetal or newborn’s antigens on the red blood cells, causing haemolysis (<xref ref-type="bibr" rid="b3">3</xref>). ABO antigens are not only expressed on the membranes of the red blood cells but on most epithelial and endothelial cells. In soluble form, they are also present in all body fluids, except the CSF. Their presence on platelets, B- and T- lymphocytes is due to the absorption of ABO antigens from plasma (<xref ref-type="bibr" rid="b5">5</xref>). Therefore, in rare cases, anti-A or anti-B antibodies can also cause the breakdown of the newborn’s platelets and thereby thrombocytopenia (<xref ref-type="bibr" rid="b6">6</xref>,<xref ref-type="bibr" rid="b7">7</xref>).</p>
+         <p>We are presenting a rare clinical case of HDN due to ABO incompatibility between the mother and the newborn, who was treated for severe early jaundice, mild anaemia and severe thrombocytopenia.</p>
+      </sec>
+      <sec id="s2" sec-type="Clinical case">
+         <label>2</label>
+         <title>Clinical case</title>
+         <p>The girl was born after a normal pregnancy at 39 weeks and with normal measurements (10<sup>th</sup>–50<sup>th</sup> percentile): weighing 2890 g, and measuring 50 cm, with head circumference of 33 cm. During pregnancy, the mother underwent several screening tests: indirect Coombs test (ICT) was negative, as were toxoplasmosis, syphilis and Hepatitis B tests. The mother had O blood type, was RhD positive and Kell negative. The delivery was vaginal. One minute and ten minutes after birth, the girl received an Apgar score of 9 and 10, respectively. Thirty hours after birth, the girl became jaundiced. Haemoglobin levels determined by laboratory testing at the regional hospital 30 hours after birth were 159 g/L (normal range at one day of age 145–225 g/L, three days 165–207 g/L, one week 135–215 g/L, two weeks 134–198 g/L, four weeks 107–171 g/L); reticulocytes 245 × 10<sup>9</sup>/L (normal range: 51–110 × 10<sup>9</sup>/L), platelets 99 × 10<sup>9</sup>/L (normal range: 144−449 × 10<sup>9</sup>/L), total bilirubin 199 μmol/L (normal range: &lt; 197 μmol/L), direct bilirubin 10.2 μmol/L. The girl’s blood group was A, RhD positive and Kell negative. Direct Coombs test (DCT) was positive, with anti-A IgG antibodies. The girl required phototherapy for hyperbilirubinemia. Due to severe early jaundice, mild anaemia and moderate thrombocytopenia the girl was transferred to the Department of Neonatology of the University Children’s Hospital in Ljubljana for further diagnosis and treatment.</p>
+         <p>Upon admission, the newborn was subicteric and had bilateral subconjunctival haemorrhage. Other clinical status was normal. In accordance with the BIND (bilirubin induced neurologic dysfunction) scoring system, she received a 4 score for acute bilirubin encephalopathy. Upon admission at the age of 100 hours, the laboratory results were as follows: leukocytes 6,6 × 10<sup>9</sup>/L, haemoglobin 152 g/L, platelets 44 × 10<sup>9</sup>/L, reticulocytes 126 × 10<sup>9</sup> g/L (2.8 %, normal range: 3−7 %), IRF (immature reticulocyte fraction) 8.3% (normal range: 14,5–24,6 %), RDW (red blood cell distribution width) 15.8 %, segmented neutrophils 24 %, absolute neutrophil count (ANC) 1584/mm<sup>3</sup>, total bilirubin 254 μmol/L (normal range: &lt; 205 μmol/L) and direct bilirubin 10,6 μmol/L. Electrolytes were within the normal range. Venous blood gas analysis value of carboxyhaemoglobin (COHb) determined by CO-oximetry was 1.8 % (normal range 0.5–1.6 %). Due to non-conjugated hyperbilirubinemia, she required 16 hours of phototherapy again at the age of four days, and the bilirubin fell accordingly. There were no signs of a new bleed. Abdominal ultrasound showed no splenomegaly or internal haemorrhaging. A head US was also performed. Bilateral striate vasculopathy was visible and a small cyst in the caudothalamic groove right; there were no signs of intracranial haemorrhage. Because of thrombocytopenia, we obtained the mother’s blood count, where platelet count in peripheral blood was normal (350 × 10<sup>9</sup>/L). The mother and the newborn were HPA- genotyped but no incompatibility was identified (HPA genotype of the newborn and the mother: HPA-1 A/A, HPA-2 A/B, HPA-3 A/A, HPA-4 A/A, HPA-5 A/A, HPA-6 A/A, HPA-9 A/A, HPA-15 A/B). The direct test for platelet antibodies was unclear the first time. Therefore, the test was repeated and was negative. Platelet-specific HPA antibodies, analysed using immunofluorescence technique, and HLA antibodies analysed using polymerase chain reaction using sequence-specific primers, PCR-SSP), were not confirmed. On release at the age of 9 days, the laboratory results were as follows: total bilirubin 201 μmol/L, direct bilirubin 21 μmol/L, leukocytes 10.4 × 10<sup>9</sup>/L, haemoglobin 147 g/L, reticulocytes 22.4 × 10<sup>9</sup>/L (0.5%), RDW 15.6%, platelets 105 × 10<sup>9</sup>/L, MPV 11.3 fl, segmented neutrophils 24%, ANC 2496/mm<sup>3</sup>. Platelet numbers rose spontaneously. While at the ward, the girl was breastfed and had sufficient amount of weight gain. Defecation and urinary elimination were normal. At her last check-up at the age of 6 weeks, the girl had no problems. Physical and neurological statuses were optimal. In the lab report, the haemoglobin count was 106 g/L, platelets 263 × 10<sup>9</sup>/L, reticulocytes 59 × 10<sup>9</sup> (1.29 %), leucocytes 6.5 × 10<sup>9</sup>/L, segmented neutrophils 9 %, ANC 660/mm<sup>3</sup> (normal range: &gt; 1500/mm<sup>3</sup>). As neutropenia was observed during the last examination, the girl had a follow-up examination in the haematological-oncological office at the age of four months and a half when neutropenia was no longer present.</p>
+      </sec>
+      <sec id="s3" sec-type="Discussion">
+         <label>3</label>
+         <title>Discussion</title>
+         <p>The newborn in the presented case had severe early jaundice, which is the most common reason for extended hospitalisation of newborns (<xref ref-type="bibr" rid="b8">8</xref>). Yellowing of the skin and mucous membranes is due to the elevated level of bilirubin in the blood – hyperbilirubinemia. This can be caused by excessive bilirubin production, which can be the result of haemolysis or the breakdown of red blood cells following bleeding (e.g. haematoma), reduced conjugation of bilirubin or insufficient secretion of bilirubin from the body (<xref ref-type="bibr" rid="b9">9</xref>). Haemolysis of newborn’s red blood cells can cause the breakdown or fatigue of red blood cells, which overburdens the liver with bilirubin, as they are not capable of sufficient conjugation.</p>
+         <p>HDN is caused by alloimmune anti-A and anti-B antibodies of the IgG type passing through the placenta to the foetal circulation where they will attach to the antigens on the red blood cells, causing the breakdown of the  newborn’s red blood cells in the spleen and thereby anaemia and unconjugated hyperbilirubinemia. The most potent IgG subtypes are IgG1 and IgG3. Transfer via the placenta is mediated by Fc receptors from the second trimester to birth; subtype IgG1 is transported via the placenta earlier and in greater quantity (<xref ref-type="bibr" rid="b3">3</xref>). HDN should be considered with quickly developing or severe early hyperbilirubinemia with a negative ICT in the mother, positive ICT in the mother and/or signs of foetal hydrops or signs of anaemia in the newborn, positive DCT in the newborn, haemolysis found on the blood smear or long-lasting hyperbilirubinemia (<xref ref-type="bibr" rid="b10">10</xref>).</p>
+         <p>Until the introduction of protection of RhD negative pregnant women with anti-D immunoglobulin in 1969, the most common cause of HDN was incompatibility in the RhD status. Today, because all RhD negative pregnant women are systematically administered anti-D immunoglobulin at 28 weeks of pregnancy, HDN is rarely caused by this incompatibility (<xref ref-type="bibr" rid="b1">1</xref>,<xref ref-type="bibr" rid="b3">3</xref>,<xref ref-type="bibr" rid="b11">11</xref>). With the introduction of prenatal genotyping of foetal DNA from the mother’s venous blood between 25 and 26 weeks of gestation, the protective dose of anti-D immunoglobulins will be administered only to pregnant women with RhD positive foetuses (<xref ref-type="bibr" rid="b1">1</xref>). The new antenatal protection programme was approved by the Medical Council of the Ministry of Health of the Republic of Slovenia, and the legislator published the Rules Amending the Rules on Blood Transfusion Examinations and Procedures (Official Gazette of the RS no. 32/2018), which provides the basis for implementing the programme. Today, the most common cause of HDN in the developed world is the incompatibility of the ABO blood groups (<xref ref-type="bibr" rid="b2">2</xref>). While ABO incompatibility appears in 15–20 % of all materno-foetal pairs, HDN develops only in 1% of these. In most cases of HDN, the mother has O blood group, while the child most often has A blood group (1/150 births), and rarely B (<xref ref-type="bibr" rid="b3">3</xref>). The naturally present anti-A and anti-B antibodies in the mother are most often of the IgM type, which do not pass through the placenta. IgG antibodies can also be produced due to exposure to some environmental antigens in food, bacteria and viruses. Therefore, HDN can occur already in the first pregnancy (<xref ref-type="bibr" rid="b12">12</xref>). Because A and B antigens on the surface of foetal red blood cells are less developed, clinical presentation of HDN due to anti-A or anti-B incompatibility is usually milder than HDN due to anti-D incompatibility. The newborn is often only hyperbilirubinemic, and rarely also anaemic (<xref ref-type="bibr" rid="b3">3</xref>). Diagnosis is made based on examinations confirming excessive breakdown of the red blood cells, and test confirming compensatory increase in the production of the red blood cells (<xref ref-type="table" rid="table1">Table 1</xref>) (<xref ref-type="bibr" rid="b12">12</xref>,<xref ref-type="bibr" rid="b13">13</xref>). Specific transfusion tests confirm the immunological cause of haemolysis. The mother is tested for BG and ICT, while the child is tested for BG, DCT and Lui elution technique. When the results are negative, ICT may be performed (<xref ref-type="bibr" rid="b2">2</xref>,<xref ref-type="bibr" rid="b10">10</xref>,<xref ref-type="bibr" rid="b14">14</xref>). HDN aetiology can be explained by antibody specification (<xref ref-type="bibr" rid="b2">2</xref>). Lui elution technique is used when DCT is negative and HDN is suspected. Anti-A or anti-B antibodies are removed from the membranes of the newborn’s red blood cells by quickly changing the temperature from -30 °C to + 37 °C, then red blood cells with A or B antigens are added. Agglutination proves the presence of specific antibodies (<xref ref-type="bibr" rid="b2">2</xref>,<xref ref-type="bibr" rid="b14">14</xref>,<xref ref-type="bibr" rid="b15">15</xref>). In case of ABO incompatibility, ICT will be negative, as HDN is caused by naturally present antibodies. Crossmatch between the newborn’s plasma and reactive red blood cells of a known BG may also be positive. HDN treatment focuses in particular on lowering hyperbilirubinemia in order to prevent acute and chronic encephalopathy or kernicterus spectrum disorder (KSD), which can have a milder or more severe clinical presentation. In the most severe cases, the child has dystonia, choreoatethosis, paresis of the upward gaze, hearing impairment and enamel dysplasia, as unconjugated bilirubin passes through the blood-brain barrier and is neurotoxic (<xref ref-type="bibr" rid="b16">16</xref>). Hyperbilirubinemia is first treated by intensive phototherapy and appropriate hydration of the newborn. In more severe haemolysis and hyperbilirubinemia, exchange transfusion is needed. ABO incompatibility is the most common cause of exchange transfusion (<xref ref-type="bibr" rid="b17">17</xref>,<xref ref-type="bibr" rid="b18">18</xref>). HDN can also be treated with intravenous immunoglobulins, which reduce the need for phototherapy and exchange transfusion but not for the transfusion of the red blood cells (<xref ref-type="bibr" rid="b3">3</xref>). If anaemia presents during pregnancy, intrauterine transfusion is needed (<xref ref-type="bibr" rid="b10">10</xref>).</p>
+         <table-wrap position="anchor" id="table1">
+            <label>Table 1:</label>
+            <caption>
+               <p> Examinations conducted for confirming hemolysis with a newborn (summarized from Mitra and Rennie, Porter and Dennis) (<xref ref-type="bibr" rid="b8">8</xref>,<xref ref-type="bibr" rid="b9">9</xref>).</p>
+            </caption>
+            <table>
+               <colgroup>
+                  <col/>
+                  <col/>
+               </colgroup>
+               <thead>
+                  <tr>
+                     <th>Tests confirming increased breakdown of red blood cells or increased haemoglobin metabolizing.</th>
+                     <th>Tests confirming compensatory increased erythrocyte production</th>
+                  </tr>
+               </thead>
+               <tbody>
+                  <tr>
+                     <td>Concentration of haemoglobin.</td>
+                     <td>Reticulocytosis.</td>
+                  </tr>
+                  <tr>
+                     <td>Concentration of bilirubin.</td>
+                     <td>Increased immature reticulocyte fraction (IRF).</td>
+                  </tr>
+                  <tr>
+                     <td>Partial CO pressure in exhaled air.</td>
+                     <td>Increased red blood cell distribution width.</td>
+                  </tr>
+                  <tr>
+                     <td>Share of carboxyhaemoglobin, measured in % with CO-oximetry.</td>
+                     <td rowspan="2">Immature red blood cells in blood smear (normoblasts, erythroblasts).</td>
+                  </tr>
+                  <tr>
+                     <td>Hemoglobinuria with absence of hematuria.</td>
+                  </tr>
+               </tbody>
+            </table>
+            <table-wrap-foot>
+               <p>IRF (immature reticulocyte fraction), RDW (red blood cell distribution width).</p>
+            </table-wrap-foot>
+         </table-wrap>
+         <p>In case of HDN and negative DCT, differential diagnoses include abnormal membrane of red blood cells (hereditary spherocytosis), enzymatic shortage in red blood cells (glucose-6-phosphate dehydrogenase or pyruvate kinase deficiency) and thalassemia (<xref ref-type="bibr" rid="b10">10</xref>).</p>
+         <p>The clinical presentation and the laboratory results of the newborn in question were consistent with HDN. ABO blood group incompatibility between the girl and the mother was found: the mother had O BG, while the girl had A BG. The immune cause of haemolysis was confirmed with a positive DCT in the girl and the presence of IgG anti-A antibodies. As expected, the ICT in the mother was negative. The girls was treated with intensive phototherapy, after which the bilirubin count dropped accordingly.</p>
+         <p>In addition to anaemia and unconjugated hyperbilirubinemia, the girl had thrombocytopenia. Neonatal thrombocytopenia is rare, with a prevalence of 0.9% (<xref ref-type="bibr" rid="b19">19</xref>). Neonatal thrombocytopenia may be early onset, presented in the first 72 hours of life, or late onset, presented after the first 72 hours (<xref ref-type="bibr" rid="b20">20</xref>). The most common cause of severe thrombocytopenia (platelets &lt; 50 × 10<sup>9</sup>/L) in healthy newborns is foetal and neonatal alloimmune thrombocytopenia (FNAIT) (27%) (<xref ref-type="bibr" rid="b19">19</xref>,<xref ref-type="bibr" rid="b21">21</xref>). Like with HDN, FNAIT occurs due to the transfer of alloimmune antibodies via the placenta, which then attach to platelet antigens inherited by the foetus from the father. The reported prevalance of FNAIT is 1/1000–2000 live births (<xref ref-type="bibr" rid="b6">6</xref>,<xref ref-type="bibr" rid="b19">19</xref>,<xref ref-type="bibr" rid="b22">22</xref>). Maternal allosensibilisation may occur during pregnancy or platelet transfusion. FNAIT may occur in the first pregnancy, and is more severe with every subsequent pregnancy. Sensibilisation is caused by specific human platelet antigens, which are expressed on the surface of platelets from 16 weeks of gestation and are also expressed on placenta’s trophoblasts. There are 35 different platelet antigens; FNAIT is most often caused by anti-HPA-1a antibodies (80–90%). The second most common antibodies are anti-HPA-5b (10–15 %) (<xref ref-type="bibr" rid="b19">19</xref>,<xref ref-type="bibr" rid="b22">22</xref>). Incidence of HPA-1a negative persons among Caucasians is 2.5%. Only 10% of HPA-1a negative pregnant women with HPA-1a positive foetus will develop anti-HPA-1a antibodies. The development of antibodies is significantly linked to the presence of HLA-DRB3*0101 antigen, which is present in a third of all HLA-1a negative persons (<xref ref-type="bibr" rid="b4">4</xref>,<xref ref-type="bibr" rid="b16">16</xref>). As many as 90% of pregnant women who produce antibodies have HLA-DRB3*0101 antigen (<xref ref-type="bibr" rid="b22">22</xref>). FNAIT can also be caused by the transfer of autoimmune antibodies in the mother with primary immune thrombocytopenia (ITP) (<xref ref-type="bibr" rid="b22">22</xref>).</p>
+         <p>In very few cases reported in literature, FNAIT is caused by anti-A and anti-B, and anti-HLA-A in anti-HLA-B antibodies (<xref ref-type="bibr" rid="b6">6</xref>). A small amount of A and B antigens is expressed on the surface of platelets. Some 7% of the population with A BG and 5% of people with B BG is supposed to have more than 2 SD of A or B antigens on the surface of platelets (even up to 20,000) (<xref ref-type="bibr" rid="b6">6</xref>,<xref ref-type="bibr" rid="b7">7</xref>).  In a reported case, 2 children from the same family, with B BG and highly expressed B antigen on platelets, had severe thrombocytopenia due to foetomaternal ABO incompatibility (the mother’s BG was O, specific platelet antibodies were not confirmed) (<xref ref-type="bibr" rid="b23">23</xref>). The third child born to the same mother had A BG and did not suffer from thrombocytopenia. The father of the children and both children with B BG had platelets with highly expressed B antigens, which may lead to the breakdown of platelets even if there are antibodies against A and B antigens (<xref ref-type="bibr" rid="b7">7</xref>). Differential diagnoses to thrombocytopenia in neonates is presented in <xref ref-type="table" rid="table2">Table 2</xref>.</p>
+         <table-wrap position="anchor" id="table2">
+            <label>Table 2:</label>
+            <caption>
+               <p> Differential diagnosis of thrombocytopenia with a newborn by time of onset (<xref ref-type="bibr" rid="b18">18</xref>).</p>
+            </caption>
+            <table>
+               <colgroup>
+                  <col/>
+                  <col/>
+               </colgroup>
+               <tbody>
+                  <tr>
+                     <td rowspan="14">Early thrombocytopenia</td>
+                     <td>Alloimmune.</td>
+                  </tr>
+                  <tr>
+                     <td>Autoimmune. </td>
+                  </tr>
+                  <tr>
+                     <td>Congenital infections (CVM, toxoplasmosis, rubella virus, HIV).</td>
+                  </tr>
+                  <tr>
+                     <td>Hereditary (the Wiskott-Aldrich syndrome, TAR, CAMT).</td>
+                  </tr>
+                  <tr>
+                     <td>Placental insufficiency (preeclampsia, diabetes).</td>
+                  </tr>
+                  <tr>
+                     <td>Perinatal affixation.</td>
+                  </tr>
+                  <tr>
+                     <td>Disseminated intravascular coagulation (DIC).</td>
+                  </tr>
+                  <tr>
+                     <td>Aortal or renal vein thrombosis.</td>
+                  </tr>
+                  <tr>
+                     <td>Congenital leukemia.</td>
+                  </tr>
+                  <tr>
+                     <td>The Kasabach-Merrit syndrome.</td>
+                  </tr>
+                  <tr>
+                     <td>Metabolic disorders (propionic and methylmalonic acidemia).</td>
+                  </tr>
+                  <tr>
+                     <td>Trisomy 13, 18, 21.</td>
+                  </tr>
+                  <tr>
+                     <td>Premature birth.</td>
+                  </tr>
+                  <tr>
+                     <td>Growth restriction.</td>
+                  </tr>
+                  <tr>
+                     <td rowspan="8">Late thrombocytopenia.</td>
+                     <td>Sepsis.</td>
+                  </tr>
+                  <tr>
+                     <td>Non-necrotizing enterocolitis.</td>
+                  </tr>
+                  <tr>
+                     <td>Congenital infections (CVM, toxoplasmosis, rubella virus, HIV).</td>
+                  </tr>
+                  <tr>
+                     <td>Hereditary (TAR, CAMT).</td>
+                  </tr>
+                  <tr>
+                     <td>Autoimmune</td>
+                  </tr>
+                  <tr>
+                     <td>The Kasabach-Merrit syndrome.</td>
+                  </tr>
+                  <tr>
+                     <td>Metabolic disorders (propionic and methylmalonic acidemia).</td>
+                  </tr>
+                  <tr>
+                     <td>In connection with medication.</td>
+                  </tr>
+               </tbody>
+            </table>
+            <table-wrap-foot>
+               <p>TAR (thrombocytopenia without radius<italic>)</italic>, CAMT: (congenital amegacaryotic thrombocytopenia).</p>
+            </table-wrap-foot>
+         </table-wrap>
+         <p>FNAIT may or may not be accompanied by bleeding diathesis (petechiae, haematoma, bleeding from mucous membranes, retinal haemorrhage, gastrointestinal bleeding or, more rarely, bleeding from the unirary tract) (<xref ref-type="bibr" rid="b22">22</xref>). Intracranial bleeding occurs in 10–26 % of cases, and is a rare but serious and potentially fatal complication of FNAIT (<xref ref-type="bibr" rid="b22">22</xref>). Intracranial bleeding associated with FNAIT is most frequently observed in the temporal lobe. Most frequently, it occurs antenatally (80 %), while postnatally the greatest probability of intracranial bleed is in the first 96 hours after birth (<xref ref-type="bibr" rid="b6">6</xref>,<xref ref-type="bibr" rid="b22">22</xref>). Laboratory findings only indicate thrombocytopenia, which reaches a nadir in the first 48 hours, then resolves spontaneously in 2 to 6 weeks.</p>
+         <p>Treatment of thrombocytopenia depends on the severity and clinical presentation. Platelet transfusion is performed if platelet count is under 30 × 10<sup>9</sup>/L or under 50 × 10<sup>9</sup>/L if associated signs include bleeding diathesis or other disease (<xref ref-type="bibr" rid="b21">21</xref>,<xref ref-type="bibr" rid="b24">24</xref>). Even if the donor’s platelets are not compatible with the mother’s antibodies, a transfusion raises the platelet count at least temporarily, reducing the probability of bleeding (<xref ref-type="bibr" rid="b6">6</xref>). If possible, the mother’s platelets or the platelets of HPA-1a negative donors are used, or multiple-donor units can be used (<xref ref-type="bibr" rid="b21">21</xref>). To extend the survival of platelets, the newborn may be prescribed intravenous immunoglobulins at the dose of 0.4 g/kg/day for 2-5 days (<xref ref-type="bibr" rid="b6">6</xref>).</p>
+         <p>In the presented case, specific platelet antibodies (HPA, HLA) were not confirmed. The mother and the newborn were HPA genotyped but incompatibility was not confirmed. In addition, the newborn’s mother did not have thrombocytopenia, which excluded the presence of autoimmune antibodies in case of potential ITP in the mother. By taking into account examination results, thrombocytopenia in the newborn was most likely due to the presence of anti-A antibodies and their attachment to A antigen on platelets. The girl did not require treatment. Thrombocytopenia spontaneously resolved in 6 weeks.</p>
+         <p>Neutropenia that was diagnosed in our case may accompany HDN in as many as 45% of cases. It is caused by erythropoesis in the bone marrow and does not depend on the level of HDN, treatment or specific antibodies, and usually resolves spontaneously (<xref ref-type="bibr" rid="b25">25</xref>).</p>
+      </sec>
+      <sec id="s4" sec-type="Conclusion">
+         <label>4</label>
+         <title>Conclusion</title>
+         <p>There are few reported clinical cases of a newborn who developed haemolitic anamia and thrombocytopenia due to ABO BG incompatibility, which is presented in this article. Haemolitic anamia and thrombocytopenia are caused by the transfer of maternal antibodies of IgG type, which are directed against A or B antigens inherited by the foetus from the father and are presents both on the red blood cells and platelets. After ruling out other causes of thrombocytopenia, FNAIT caused by the presence of anti-A and anti-B antibodies should be considered.</p>
+         <p>The girl’s parents agreed with the publication of their case.</p>
+      </sec>
+   </body>
+   <back>
+      <ref-list>
+         <ref id="b1">
+            <label>1.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Železnik</surname> 
+                     <given-names>K</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Dovč-Drnovšek</surname> 
+                     <given-names>T</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Rožman</surname> 
+                     <given-names>P</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Bricl</surname> 
+                     <given-names>I</given-names>
+                  </string-name>
+               </person-group>. <article-title>Preventiva in diagnostika hemolitične bolezni ploda in novorojenčka</article-title>. <source>Zdrav Vestn</source>. <year>2012</year>;<volume>81</volume> 
+               <supplement>Supl 2</supplement>:<fpage>312</fpage>–<lpage>21</lpage>.<issn>0350-0063</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b2">
+            <label>2.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Basu</surname> 
+                     <given-names>S</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Kaur</surname> 
+                     <given-names>R</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Kaur</surname> 
+                     <given-names>G</given-names>
+                  </string-name>
+               </person-group>. <article-title>Hemolytic disease of the fetus and newborn: current trends and perspectives</article-title>. <source>Asian J Transfus Sci</source>. <year>2011</year> 
+               <month>Jan</month>;<volume>5</volume>(<issue>1</issue>):<fpage>3</fpage>–<lpage>7</lpage>. <pub-id pub-id-type="doi">10.4103/0973-6247.75963</pub-id>
+               <pub-id pub-id-type="pmid">21572705</pub-id>
+               <issn>0973-6247</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b3">
+            <label>3.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Delaney</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Matthews</surname> 
+                     <given-names>DC</given-names>
+                  </string-name>
+               </person-group>. <article-title>Hemolytic disease of the fetus and newborn: managing the mother, fetus, and newborn</article-title>. <source>Hematology (Am Soc Hematol Educ Program)</source>. <year>2015</year>;<volume>2015</volume>(<issue>1</issue>):<fpage>146</fpage>–<lpage>51</lpage>. <pub-id pub-id-type="doi">10.1182/asheducation-2015.1.146</pub-id>
+               <pub-id pub-id-type="pmid">26637714</pub-id>
+               <issn>1520-4391</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b4">
+            <label>4. </label>
+            <mixed-citation publication-type="book" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Polin</surname> 
+                     <given-names>AR</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Fox</surname> 
+                     <given-names>WW</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Abman</surname> 
+                     <given-names>SH</given-names>
+                  </string-name>
+               </person-group>. <source>Fetal and Neonatal Physiology</source>. <volume>Volume 2</volume>. <edition>4th ed.</edition> 
+               <publisher-loc>Philadelphia</publisher-loc>: <publisher-name>Elsevier</publisher-name>; <year>2004</year>. pp. <fpage>1500</fpage>–<lpage>8</lpage>.</mixed-citation>
+         </ref>
+         <ref id="b5">
+            <label>5.	</label>
+            <mixed-citation publication-type="book" specific-use="unparsed">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Rudmann</surname> 
+                     <given-names>SV</given-names>
+                  </string-name>
+               </person-group>. ur. Textbook of blood Banking and Transfusion Medicine. 2nd Ed. Philadelphia: Elsevier; <year>2005</year>. p.75-6.<annotation>
+                  <p content-type="warning">Edifix Bibliographic Reference Processing failed to fully style this reference. Please check the copyediting. (Ref. 5 "Rudmann, 2005")</p>
+               </annotation>
+            </mixed-citation>
+         </ref>
+         <ref id="b6">
+            <label>6.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Peterson</surname> 
+                     <given-names>JA</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>McFarland</surname> 
+                     <given-names>JG</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Curtis</surname> 
+                     <given-names>BR</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Aster</surname> 
+                     <given-names>RH</given-names>
+                  </string-name>
+               </person-group>. <article-title>Neonatal alloimmune thrombocytopenia: pathogenesis, diagnosis and management</article-title>. <source>Br J Haematol</source>. <year>2013</year> 
+               <month>Apr</month>;<volume>161</volume>(<issue>1</issue>):<fpage>3</fpage>–<lpage>14</lpage>. <pub-id pub-id-type="doi">10.1111/bjh.12235</pub-id>
+               <pub-id pub-id-type="pmid">23384054</pub-id>
+               <issn>0007-1048</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b7">
+            <label>7.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Curtis</surname> 
+                     <given-names>BR</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Edwards</surname> 
+                     <given-names>JT</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Hessner</surname> 
+                     <given-names>MJ</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Klein</surname> 
+                     <given-names>JP</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Aster</surname> 
+                     <given-names>RH</given-names>
+                  </string-name>
+               </person-group>. <article-title>Blood group A and B antigens are strongly expressed on platelets of some individuals</article-title>. <source>Blood</source>. <year>2000</year> 
+               <month>Aug</month>;<volume>96</volume>(<issue>4</issue>):<fpage>1574</fpage>–<lpage>81</lpage>.<pub-id pub-id-type="pmid">10942408</pub-id>
+               <issn>0006-4971</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b8">
+            <label>8.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Mitra</surname> 
+                     <given-names>S</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Rennie</surname> 
+                     <given-names>J</given-names>
+                  </string-name>
+               </person-group>. <article-title>Neonatal jaundice: aetiology, diagnosis and treatment</article-title>. <source>Br J Hosp Med (Lond)</source>. <year>2017</year> 
+               <month>Dec</month>;<volume>78</volume>(<issue>12</issue>):<fpage>699</fpage>–<lpage>704</lpage>. <pub-id pub-id-type="doi">10.12968/hmed.2017.78.12.699</pub-id>
+               <pub-id pub-id-type="pmid">29240507</pub-id>
+               <issn>1750-8460</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b9">
+            <label>9.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Porter</surname> 
+                     <given-names>ML</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Dennis</surname> 
+                     <given-names>BL</given-names>
+                  </string-name>
+               </person-group>. <article-title>Hyperbilirubinemia in the term newborn</article-title>. <source>Am Fam Physician</source>. <year>2002</year> 
+               <month>Feb</month>;<volume>65</volume>(<issue>4</issue>):<fpage>599</fpage>–<lpage>606</lpage>.<pub-id pub-id-type="pmid">11871676</pub-id>
+               <issn>0002-838X</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b10">
+            <label>10.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Murray</surname> 
+                     <given-names>NA</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Roberts</surname> 
+                     <given-names>IA</given-names>
+                  </string-name>
+               </person-group>. <article-title>Haemolytic disease of the newborn</article-title>. <source>Arch Dis Child Fetal Neonatal Ed</source>. <year>2007</year> 
+               <month>Mar</month>;<volume>92</volume>(<issue>2</issue>):<fpage>F83</fpage>–<lpage>8</lpage>. <pub-id pub-id-type="doi">10.1136/adc.2005.076794</pub-id>
+               <pub-id pub-id-type="pmid">17337672</pub-id>
+               <issn>1359-2998</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b11">
+            <label>11.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Bricl</surname> 
+                     <given-names>I</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Ogrizek-Pelkič</surname> 
+                     <given-names>K</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Vogler</surname> 
+                     <given-names>A</given-names>
+                  </string-name>
+               </person-group>. <article-title>Hemolitična bolezen ploda in novorojenčka-prikaz primera</article-title>. <source>Zdrav Vestn</source>. <year>2003</year>;<volume>72</volume>:<fpage>671</fpage>–<lpage>3</lpage>.<issn>0350-0063</issn>
+               <annotation>
+                  <p content-type="warning">Edifix has not found an issue number in the journal reference. Please check the volume/issue information. (Ref. 11 "Bricl, Ogrizek-Pelkič, Vogler, 2003")</p>
+               </annotation>
+            </mixed-citation>
+         </ref>
+         <ref id="b12">
+            <label>12.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Geaghan</surname> 
+                     <given-names>SM</given-names>
+                  </string-name>
+               </person-group>. <article-title>Diagnostic laboratory technologies for the fetus and neonate with isoimmunization</article-title>. <source>Semin Perinatol</source>. <year>2011</year> 
+               <month>Jun</month>;<volume>35</volume>(<issue>3</issue>):<fpage>148</fpage>–<lpage>54</lpage>. <pub-id pub-id-type="doi">10.1053/j.semperi.2011.02.009</pub-id>
+               <pub-id pub-id-type="pmid">21641488</pub-id>
+               <issn>0146-0005</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b13">
+            <label>13.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Christensen</surname> 
+                     <given-names>RD</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Yaish</surname> 
+                     <given-names>HM</given-names>
+                  </string-name>
+               </person-group>. <article-title>Hemolytic Disorders Causing Severe Neonatal Hyperbilirubinemia</article-title>. <source>Clin Perinatol</source>. <year>2015</year> 
+               <month>Sep</month>;<volume>42</volume>(<issue>3</issue>):<fpage>515</fpage>–<lpage>27</lpage>. <pub-id pub-id-type="doi">10.1016/j.clp.2015.04.007</pub-id>
+               <pub-id pub-id-type="pmid">26250914</pub-id>
+               <issn>0095-5108</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b14">
+            <label>14.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Desjardins</surname> 
+                     <given-names>L</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Blajchman</surname> 
+                     <given-names>MA</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Chintu</surname> 
+                     <given-names>C</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Gent</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Zipursky</surname> 
+                     <given-names>A</given-names>
+                  </string-name>
+               </person-group>. <article-title>The spectrum of ABO hemolytic disease of the newborn infant</article-title>. <source>J Pediatr</source>. <year>1979</year> 
+               <month>Sep</month>;<volume>95</volume>(<issue>3</issue>):<fpage>447</fpage>–<lpage>9</lpage>. <pub-id pub-id-type="doi">10.1016/S0022-3476(79)80533-8</pub-id>
+               <pub-id pub-id-type="pmid">469673</pub-id>
+               <issn>0022-3476</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b15">
+            <label>15.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>van Rossum</surname> 
+                     <given-names>HH</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>de Kraa</surname> 
+                     <given-names>N</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Thomas</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Holleboom</surname> 
+                     <given-names>CA</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Castel</surname> 
+                     <given-names>A</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>van Rossum</surname> 
+                     <given-names>AP</given-names>
+                  </string-name>
+               </person-group>. <article-title>Comparison of the direct antiglobulin test and the eluate technique for diagnosing haemolytic disease of the newborn</article-title>. <source>Pract Lab Med</source>. <year>2015</year> 
+               <month>Oct</month>;<volume>3</volume>:<fpage>17</fpage>–<lpage>22</lpage>. <pub-id pub-id-type="doi">10.1016/j.plabm.2015.10.001</pub-id>
+               <pub-id pub-id-type="pmid">28932805</pub-id>
+               <issn>2352-5517</issn>
+               <annotation>
+                  <p content-type="warning">Edifix has not found an issue number in the journal reference. Please check the volume/issue information. (Ref. 15 "Van Rossum, de Kraa, Thomas, Holleboom, Castel, et al., 2015")</p>
+               </annotation>
+            </mixed-citation>
+         </ref>
+         <ref id="b16">
+            <label>16.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Usman</surname> 
+                     <given-names>F</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Diala</surname> 
+                     <given-names>UM</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Shapiro</surname> 
+                     <given-names>SM</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Le Pichon</surname> 
+                     <given-names>JB</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Slusher</surname> 
+                     <given-names>TM</given-names>
+                  </string-name>
+               </person-group>. <article-title>Acute Bilirubin Encephalopaty and its Proresssion to Kernicterus: current Perspectives</article-title>. <source>Dovepres.</source> 
+               <year>2018</year>;<volume>8</volume>:<fpage>33</fpage>–<lpage>44</lpage>.<annotation>
+                  <p content-type="warning">The reference title appears to be set in title case rather than sentence case. (Ref. 16 "Usman, Diala, Shapiro, Le Pichon, Slusher, 2018")</p>
+                  <p content-type="warning">Edifix does not recognize the journal "Dovepres.". If this is a valid journal title, please send this reference to journals@inera.com for addition to our journal database. (Ref. 16 "Usman, Diala, Shapiro, Le Pichon, Slusher, 2018")</p>
+                  <p content-type="warning">Edifix has not found an issue number in the journal reference. Please check the volume/issue information. (Ref. 16 "Usman, Diala, Shapiro, Le Pichon, Slusher, 2018")</p>
+               </annotation>
+            </mixed-citation>
+         </ref>
+         <ref id="b17">
+            <label>17.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Davutoğlu</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Garipardiç</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Güler</surname> 
+                     <given-names>E</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Karabiber</surname> 
+                     <given-names>H</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Erhan</surname> 
+                     <given-names>D</given-names>
+                  </string-name>
+               </person-group>. <article-title>The etiology of severe neonatal hyperbilirubinemia and complications of exchange transfusion</article-title>. <source>Turk J Pediatr</source>. <year>2010</year> 
+               <month>Mar-Apr</month>;<volume>52</volume>(<issue>2</issue>):<fpage>163</fpage>–<lpage>6</lpage>.<pub-id pub-id-type="pmid">20560252</pub-id>
+               <issn>0041-4301</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b18">
+            <label>18.	</label>
+            <mixed-citation publication-type="web-page" specific-use="unparsed">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Lozar Krivec</surname> 
+                     <given-names>J</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Vidaković</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Soltirovska-Šalamon</surname> 
+                     <given-names>A</given-names>
+                  </string-name>
+               </person-group>. <article-title>Haemolytic disease of newborn.</article-title> Zdrav Vestn [Internet]. 28Oct.<year>2018</year> [cited 19Nov.2018];87(9-10):405-16. Available from: <ext-link ext-link-type="uri"
+                         xlink:href="https://vestnik.szd.si/index.php/ZdravVest/article/view/2659">https://vestnik.szd.si/index.php/ZdravVest/article/view/2659</ext-link>
+            </mixed-citation>
+         </ref>
+         <ref id="b19">
+            <label>19.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Espinoza</surname> 
+                     <given-names>JP</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Caradeux</surname> 
+                     <given-names>J</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Norwitz</surname> 
+                     <given-names>ER</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Illanes</surname> 
+                     <given-names>SE</given-names>
+                  </string-name>
+               </person-group>. <article-title>Fetal and neonatal alloimmune thrombocytopenia</article-title>. <source>Rev Obstet Gynecol</source>. <year>2013</year>;<volume>6</volume>(<issue>1</issue>):<fpage>e15</fpage>–<lpage>21</lpage>.<pub-id pub-id-type="pmid">23687553</pub-id>
+               <issn>1941-2797</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b20">
+            <label>20.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Gunnink</surname> 
+                     <given-names>SF</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Vlug</surname> 
+                     <given-names>R</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Fijnvandraat</surname> 
+                     <given-names>K</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>van der Bom</surname> 
+                     <given-names>JG</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Stanworth</surname> 
+                     <given-names>SJ</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Lopriore</surname> 
+                     <given-names>E</given-names>
+                  </string-name>
+               </person-group>. <article-title>Neonatal thrombocytopenia: etiology, management and outcome</article-title>. <source>Expert Rev Hematol</source>. <year>2014</year> 
+               <month>Jun</month>;<volume>7</volume>(<issue>3</issue>):<fpage>387</fpage>–<lpage>95</lpage>. <pub-id pub-id-type="doi">10.1586/17474086.2014.902301</pub-id>
+               <pub-id pub-id-type="pmid">24665958</pub-id>
+               <issn>1747-4086</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b21">
+            <label>21.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Winkelhorst</surname> 
+                     <given-names>D</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Oepkes</surname> 
+                     <given-names>D</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Lopriore</surname> 
+                     <given-names>E</given-names>
+                  </string-name>
+               </person-group>. <article-title>Fetal and neonatal alloimmune thrombocytopenia: evidence based antenatal and postnatal management strategies</article-title>. <source>Expert Rev Hematol</source>. <year>2017</year> 
+               <month>Aug</month>;<volume>10</volume>(<issue>8</issue>):<fpage>729</fpage>–<lpage>37</lpage>. <pub-id pub-id-type="doi">10.1080/17474086.2017.1346471</pub-id>
+               <pub-id pub-id-type="pmid">28644735</pub-id>
+               <issn>1747-4086</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b22">
+            <label>22.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Brojer</surname> 
+                     <given-names>E</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Husebekk</surname> 
+                     <given-names>A</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Dębska</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Uhrynowska</surname> 
+                     <given-names>M</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Guz</surname> 
+                     <given-names>K</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Orzińska</surname> 
+                     <given-names>A</given-names>
+                  </string-name>, <etal>et al.</etal>
+               </person-group> 
+               <article-title>Fetal/Neonatal Alloimmune Thrombocytopenia: Pathogenesis, Diagnostics and Prevention</article-title>. <source>Arch Immunol Ther Exp (Warsz)</source>. <year>2016</year> 
+               <month>Aug</month>;<volume>64</volume>(<issue>4</issue>):<fpage>279</fpage>–<lpage>90</lpage>. <pub-id pub-id-type="doi">10.1007/s00005-015-0371-9</pub-id>
+               <pub-id pub-id-type="pmid">26564154</pub-id>
+               <issn>0004-069X</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b23">
+            <label>23.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Curtis</surname> 
+                     <given-names>BR</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Fick</surname> 
+                     <given-names>A</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Lochowicz</surname> 
+                     <given-names>AJ</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>McFarland</surname> 
+                     <given-names>JG</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Ball</surname> 
+                     <given-names>RH</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Peterson</surname> 
+                     <given-names>J</given-names>
+                  </string-name>, <etal>et al.</etal>
+               </person-group> 
+               <article-title>Neonatal alloimmune thrombocytopenia associated with maternal-fetal incompatibility for blood group B</article-title>. <source>Transfusion</source>. <year>2008</year> 
+               <month>Feb</month>;<volume>48</volume>(<issue>2</issue>):<fpage>358</fpage>–<lpage>64</lpage>.<pub-id pub-id-type="pmid">18028270</pub-id>
+               <issn>0041-1132</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b24">
+            <label>24.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Roberts</surname> 
+                     <given-names>I</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Murray</surname> 
+                     <given-names>NA</given-names>
+                  </string-name>
+               </person-group>. <article-title>Neonatal thrombocytopenia: causes and management</article-title>. <source>Arch Dis Child Fetal Neonatal Ed</source>. <year>2003</year> 
+               <month>Sep</month>;<volume>88</volume>(<issue>5</issue>):<fpage>F359</fpage>–<lpage>64</lpage>. <pub-id pub-id-type="doi">10.1136/fn.88.5.F359</pub-id>
+               <pub-id pub-id-type="pmid">12937037</pub-id>
+               <issn>1359-2998</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b25">
+            <label>25.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Blanco</surname> 
+                     <given-names>E</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Johnston</surname> 
+                     <given-names>DL</given-names>
+                  </string-name>
+               </person-group>. <article-title>Neutropenia in infants with hemolytic disease of the newborn</article-title>. <source>Pediatr Blood Cancer</source>. <year>2012</year> 
+               <month>Jun</month>;<volume>58</volume>(<issue>6</issue>):<fpage>950</fpage>–<lpage>2</lpage>. <pub-id pub-id-type="doi">10.1002/pbc.23233</pub-id>
+               <pub-id pub-id-type="pmid">21721107</pub-id>
+               <issn>1545-5009</issn>
+            </mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>
