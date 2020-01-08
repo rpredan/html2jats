@@ -18,7 +18,7 @@ Koraki:
 1. Premakni datoteko v folder z istim imenom kot je ID XMLja
 1. Na tej datoteki delaš.
 
-### DOKLER NI V PRAVEM FOLDERJU JE VSAKO DELO SIZIFOVO!
+### DOKLER XML NI V PRAVEM FOLDERJU JE VSAKO DELO SIZIFOVO!
 
 ## Kako polepšam XML kodo
 Koraki:
