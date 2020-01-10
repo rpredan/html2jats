@@ -108,19 +108,16 @@
                         <person-group person-group-type="editor">
                             <name><surname>Košnik</surname>
                              <given-names>M</given-names></name>
-                        <source>CInterna mediicna</source>
-                            
+                        <source>Interna medicina</source>
+                        <edition>5. izd.</edition>    
+                        <publisher-loc>Ljubljana</publisher-loc>: 
+                        <publisher-name>Slovensko zdravniško društvo</publisher-name>; 
+                        <publisher-name>Buča</publisher-name>;
                     
-                    <source>Košnik M, ur. Interna medicina, 5. izd. Medicinska fakulteta: Slovensko zdravniško društvo</source>. 
-                    <publisher-name>Buča</publisher-name>; 
                     <year>2018</year>. pp. 
                     <fpage>741</fpage>–
                     <lpage>5</lpage>.
-                    <annotation>
-                        <p content-type="warning">Could not find book editors in this book chapter reference. (Ref. "Gaberšček, 2018")</p>
-                        <p content-type="warning">Could not find a publisher location in this book chapter reference. (Ref. "Gaberšček, 2018")</p>
-                    </annotation>
-                </mixed-citation>
+                                    </mixed-citation>
             </ref>
             <ref id="b3">
                 <mixed-citation publication-type="journal" specific-use="restruct">
@@ -137,14 +134,6 @@
                             <surname>Pirnat</surname>
                             <given-names>E</given-names>
                         </string-name>, 
-                        <string-name>
-                            <surname>Krhin</surname>
-                            <given-names>B</given-names>
-                        </string-name>, 
-                        <string-name>
-                            <surname>Hojker</surname>
-                            <given-names>S</given-names>
-                        </string-name>
                     </person-group>. 
                     <article-title>Ten-year follow-up of thyroid epidemiology in Slovenia after increase in salt iodization</article-title>. 
                     <source>Croat Med J</source>. 
@@ -234,8 +223,7 @@
                         </string-name>, 
                         <etal>et al.</etal>
                     </person-group>
-                    <article-title>Serum TSH, T4 and thyroid antibodies in the United States population (1988 to 1994): National Health and Nutrition Examination Survey (NHANES III)</article-title>. 
-                    <source>J Clin Endocrinol Metab</source>. 
+                    <article-title>Serum TSH, T4, and Thyroid Antibodies in the United States Population (1988 to 1994): National Health and Nutrition Examination Survey (NHANES III)</source>. 
                     <year>2002</year>
                     <month>Feb</month>;
                     <volume>87</volume>(
@@ -311,18 +299,30 @@
                 </mixed-citation>
             </ref>
             <ref id="b8">
-                <mixed-citation publication-type="book-chapter" specific-use="unparsed">
+                <mixed-citation publication-type="conf-proc" specific-use="unparsed">
                     <person-group person-group-type="author">
                         <string-name>
                             <surname>Krhin</surname>
                             <given-names>B</given-names>
                         </string-name>
                     </person-group>. 
-                    <chapter-title>Kakovostna laboratorijska diagnostika ščitničnih bolezni.</chapter-title> In: Gaberšček S, Zaletel K, ur. Zbornik prispevkov: Bolezni ščitnice. Podiplomska šola za zdravnike; 2017 Maj 12-13; Logarska dolina, Slovenija. Slovensko združenje za nuklearno medicino; 
-                    <year>2017</year>. p. 15-19.
-                    <annotation>
-                        <p content-type="warning">Edifix Bibliographic Reference Processing failed to fully style this reference. Please check the copyediting. (Ref. "Krhin, 2017")</p>
-                    </annotation>
+                    <person-group person-group-type="editor">
+                        <string-name>
+                            <surname>Gaberšček</surname>
+                            <given-names>S</given-names>
+                        </string-name>
+                        <surname>Zaletel</surname>
+                        <given-names>K</given-names>
+                        <role>editors</role>
+                     
+                    <source>Kakovostna laboratorijska diagnostika ščitničnih bolezni.</source> 
+                    <comment>Bolezni štitnice. </comment>
+                    <conf-name>Podiplomska šola za zdravnike, Logarska dolina</conf-name> 
+                    <conf-date iso-8601-date="2018-05-11">2018 Maj 11-12</conf-date>  
+                    <publisher-loc>Ljubljana</publisher-loc>
+                        <publisher-name>Slovensko združenje za nuklearno medicino</publisher-name>
+                    <year iso-8601-date="2018">2018</year>
+                                            
                 </mixed-citation>
             </ref>
             <ref id="b9">
