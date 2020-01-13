@@ -180,6 +180,12 @@
                     <lpage>31</lpage>.
                     <pub-id pub-id-type="pmid">25278785</pub-id>
                     <issn>1179-1349</issn>
+<<<<<<< HEAD
+=======
+                    <annotation>
+                        <p content-type="warning">Edifix has not found an issue number in the journal reference. Please check the volume/issue information. (Ref. 3 "Singh, Tetreault, Kalsi-Ryan, Nouri, Fehlings, 2014")</p>
+                    </annotation>
+>>>>>>> 5e53eb249a929cd91e911db639d261fbd1bd06d2
                 </mixed-citation>
             </ref>
             <ref id="b4">
@@ -402,7 +408,12 @@
                             <given-names>L</given-names>
                         </string-name>
                     </person-group>. 
+<<<<<<< HEAD
                     <chapter-title>Cellular, ionic and biomolecular mechanisms of the injury process</chapter-title>. In: 
+=======
+                    <chapter-title>Cellular, ionic and biomolecular mechanisms of the injury process</chapter-title>. 
+                    <comment>In:</comment>
+>>>>>>> 5e53eb249a929cd91e911db639d261fbd1bd06d2
                     <person-group person-group-type="editor">
                         <string-name>
                             <surname>Benzel</surname>
@@ -431,7 +442,12 @@
                             <given-names>CH</given-names>
                         </string-name>
                     </person-group>. 
+<<<<<<< HEAD
                     <chapter-title>Pathophysiology and pathology of spinal cord injury</chapter-title>. In: 
+=======
+                    <chapter-title>Pathophysiology and pathology of spinal cord injury</chapter-title>. 
+                    <comment>In:</comment> 
+>>>>>>> 5e53eb249a929cd91e911db639d261fbd1bd06d2
                     <person-group person-group-type="editor">
                         <string-name>
                             <surname>Wilkins</surname>
@@ -670,6 +686,12 @@
                     <pub-id pub-id-type="doi">10.1038/nrdp.2017.18</pub-id>
                     <pub-id pub-id-type="pmid">28447605</pub-id>
                     <issn>2056-676X</issn>
+<<<<<<< HEAD
+=======
+                    <annotation>
+                        <p content-type="warning">Reference 18 "Ahuja, Wilson, Nori, Kotter, Druschel, Curt, et al., 2017" is a duplicate. Please compare it to reference 9.</p>
+                    </annotation>
+>>>>>>> 5e53eb249a929cd91e911db639d261fbd1bd06d2
                 </mixed-citation>
             </ref>
             <ref id="b19">
@@ -1050,10 +1072,13 @@
                         <string-name>
                             <surname>Holford</surname>
                             <given-names>TR</given-names>
+<<<<<<< HEAD
                         </string-name>, 
                         <string-name>
                             <surname>Springer</surname>
                             <given-names>JE</given-names>
+=======
+>>>>>>> 5e53eb249a929cd91e911db639d261fbd1bd06d2
                         </string-name>
                     </person-group>. 
                     <article-title>Effects of timing of methylprednisolone or naloxone administration on recovery of segmental and long-tract neurological function in NASCIS 2</article-title>. 
@@ -1136,6 +1161,12 @@
                     <pub-id pub-id-type="doi">10.3171/jns.1993.79.4.0500</pub-id>
                     <pub-id pub-id-type="pmid">8410217</pub-id>
                     <issn>0022-3085</issn>
+<<<<<<< HEAD
+=======
+                    <annotation>
+                        <p content-type="warning">Reference 32 "Bracken, Holford, 1993" is a duplicate. Please compare it to reference 30.</p>
+                    </annotation>
+>>>>>>> 5e53eb249a929cd91e911db639d261fbd1bd06d2
                 </mixed-citation>
             </ref>
             <ref id="b33">
@@ -1154,6 +1185,7 @@
                             <surname>Holford</surname>
                             <given-names>TR</given-names>
                         </string-name>, 
+<<<<<<< HEAD
                         <etal>et al.</etal>
                     </person-group>
                     <article-title>Administration of methylprednisolone for 24 or 48 hours or tirilazad mesylate for 48 hours in the treatment of acute spinal cord injury. Results of the Third National Acute Spinal Cord Injury Randomized Controlled Trial. National Acute Spinal Cord Injury Study. JAMA 1997; 277: 1597–604.How might we step forward?</article-title>
@@ -1164,6 +1196,21 @@
                     <lpage>29</lpage>.
                     <issn>0163-7258</issn>
                 </mixed-citation>
+=======
+                        <string-name>
+                            <surname>Leo-Summers</surname>
+                            <given-names>L</given-names>
+                        </string-name>                     
+                    </person-group>
+                    <article-title>Administration of methylprednisolone for 24 or 48 hours or tirilazad mesylate for 48 hours in the treatment of acute spinal cord injury. Results of the Third National Acute Spinal Cord Injury Randomized Controlled Trial. National Acute Spinal Cord Injury Study </article-title>.
+                    <source>Jama</source>. 
+                    <year>1997</year>;
+                    <volume>277</volume>:
+                    <fpage>1597</fpage>–
+                    <lpage>604</lpage>.
+                    <issn>0163-7258</issn>
+                 </mixed-citation>
+>>>>>>> 5e53eb249a929cd91e911db639d261fbd1bd06d2
             </ref>
             <ref id="b34">
                 <label>34.	</label>
@@ -1237,6 +1284,10 @@
                     <pub-id pub-id-type="doi">10.1227/NEU.0000000000000412</pub-id>
                     <pub-id pub-id-type="pmid">25032529</pub-id>
                     <issn>0148-396X</issn>
+<<<<<<< HEAD
+=======
+                    
+>>>>>>> 5e53eb249a929cd91e911db639d261fbd1bd06d2
                 </mixed-citation>
             </ref>
             <ref id="b36">
@@ -1528,6 +1579,15 @@
                     <pub-id pub-id-type="doi">10.1155/2015/132172</pub-id>
                     <pub-id pub-id-type="pmid">26240569</pub-id>
                     <issn>1687-9678</issn>
+<<<<<<< HEAD
+=======
+                    <annotation>
+                        <p content-type="warning">The page range was updated but differs from the author's original: 
+                            <underline>132–72</underline>. (Ref. 43 "Sabapathy, Tharion, Kumar, 2015")
+                        </p>
+                        <p content-type="warning">Edifix has not found an issue number in the journal reference. Please check the volume/issue information. (Ref. 43 "Sabapathy, Tharion, Kumar, 2015")</p>
+                    </annotation>
+>>>>>>> 5e53eb249a929cd91e911db639d261fbd1bd06d2
                 </mixed-citation>
             </ref>
             <ref id="b44">
@@ -1543,8 +1603,19 @@
                             <given-names>RD</given-names>
                         </string-name>
                     </person-group>. 
+<<<<<<< HEAD
                     <article-title>Cell replacement therapy for central nervous system diseases.</article-title> Neural Regen R Pearse DD, Bunge B. Designing cell- and gene-based regeneration strategies to repair the injured spinal cord. J Neurotraum 
                     <year>2006</year>; 23: 438–52.es 2015; 10: 1356–8.
+=======
+                    <article-title>Cell replacement therapy for central nervous system diseases</article-title>.
+                    <source>Neural Regen Res</source>.
+                    <year iso-8601-date="2015-9">2015</year>
+                    <month>Sep</month>;
+                    <volume>55</volume>(
+                    <issue>9</issue>):
+                    <fpage>1356</fpage>-
+                    <lpage>8</lpage>.
+>>>>>>> 5e53eb249a929cd91e911db639d261fbd1bd06d2
                 </mixed-citation>
             </ref>
             <ref id="b45">
@@ -1601,6 +1672,12 @@
                     <pub-id pub-id-type="doi">10.1038/nrn1955</pub-id>
                     <pub-id pub-id-type="pmid">16858391</pub-id>
                     <issn>1471-003X</issn>
+<<<<<<< HEAD
+=======
+                    <annotation>
+                        <p content-type="warning">CrossMark reports an erratum (or similar issue). The CrossMark type is "erratum". Additional information can be found at https://doi.org/10.1038/nrn2027. (Ref. 46 "Thuret, Moon, Gage, 2006")</p>
+                    </annotation>
+>>>>>>> 5e53eb249a929cd91e911db639d261fbd1bd06d2
                 </mixed-citation>
             </ref>
             <ref id="b47">
@@ -1930,6 +2007,7 @@
                             <surname>Ji</surname>
                             <given-names>HL</given-names>
                         </string-name>, 
+<<<<<<< HEAD
                         <string-name>
                             <surname>Tse</surname>
                             <given-names>HF</given-names>
@@ -1946,6 +2024,17 @@
                     <article-title>Mesenchymal stem cells and immunomodulation: current status and future prospects.</article-title> Cell Death Dis. 2016https://doi.org/
                     <pub-id pub-id-type="doi">10.1038/cddis.2015.327</pub-id>.. Review. PubMed PMID: 26794657; PubMed Central PMCID: PMC4816164.
                 </mixed-citation>
+=======
+                        </string-name>, 
+                        <etal>et al.</etal>
+                        </person-group>. 
+                    <article-title>Mesenchymal stem cells and immunomodulation: current status and future prospects</article-title>.
+                    <year>2016</year>
+                    <month>Jan</month>;
+                    <volume>7</volume>:
+                    <fpage>e2062</fpage>.            
+             </mixed-citation>
+>>>>>>> 5e53eb249a929cd91e911db639d261fbd1bd06d2
             </ref>
             <ref id="b56">
                 <label>56. </label>
@@ -1976,9 +2065,21 @@
                             <given-names>Y</given-names>
                         </string-name>
                     </person-group>. 
+<<<<<<< HEAD
                     <article-title>Immunobiology of mesenchymal stem cells.</article-title> Cell Death Differ. 2014https://doi.org/
                     <pub-id pub-id-type="doi">10.1038/cdd.2013.158</pub-id>.. 
                     <string-date content-type="online-pub">Epub 2013 Nov 1</string-date>. Review. PubMed PMID: 24185619; PubMed Central PMCID: PMC3890955.
+=======
+                    <article-title>Immunobiology of mesenchymal stem cells </article-title>.
+                    <source>Cell Death Differ</source>.
+                    <year iso-8601-date="2014-02">2014</year>
+                    <month>Feb</month>;
+                    <volume>21</volume>(
+                    <issue>2</issue>):
+                    <fpage>216</fpage>-
+                    <lpage>25</lpage>.                                     
+                    <pub-id pub-id-type="doi">10.1038/cdd.2013.158</pub-id>.                      
+>>>>>>> 5e53eb249a929cd91e911db639d261fbd1bd06d2
                 </mixed-citation>
             </ref>
             <ref id="b57">
@@ -2028,11 +2129,18 @@
             <ref id="b58">
                 <label>58.	</label>
                 <mixed-citation publication-type="web-page" specific-use="unparsed">
+<<<<<<< HEAD
                     <person-group person-group-type="author">
                         <collab>Spinal Cord Outcomes Partnership Endeavor</collab>
                     </person-group>. (SCOPE, 
                     <ext-link ext-link-type="uri" xlink:href="www.scope-sci.org">www.scope-sci.org</ext-link>) Current SCI Clinical Trials of Rehabilitation and Technological Interventions to Improve Functional Outcomes. Revised September 6, 
                     <year>2018</year> Listing 82 Trials.
+=======
+                    <source>Spinal Cord Outcomes Partnership Endeavor (SCOPE, www.scope-sci.org) Current SCI Clinical Trials of Rehabilitation and Technological Interventions to Improve Functional Outcomes</source>.
+                    <date-in-citation content-type="access-date"
+                     iso-8601-date="2019-2-22">cited 2019 Feb 22</date-in-citation>.
+                    <comment>Available from: <uri>https://www.asia-spinalinjury.org/wp-content/uploads/2016/07/SCOPE-Rehab-Technology-TrialsTable-2016.06.02.pdf/</uri></comment>.
+>>>>>>> 5e53eb249a929cd91e911db639d261fbd1bd06d2
                 </mixed-citation>
             </ref>
             <ref id="b59">
@@ -2203,6 +2311,12 @@
                     <pub-id pub-id-type="doi">10.1089/neu.2015.3892</pub-id>
                     <pub-id pub-id-type="pmid">26192071</pub-id>
                     <issn>0897-7151</issn>
+<<<<<<< HEAD
+=======
+                    <annotation>
+                        <p content-type="warning">Reference 63 "Hosier, Peterson, Tsymbalyuk, Keledjian, Smith, Ivanova, et al., 2015" is a duplicate. Please compare it to reference 40.</p>
+                    </annotation>
+>>>>>>> 5e53eb249a929cd91e911db639d261fbd1bd06d2
                 </mixed-citation>
             </ref>
             <ref id="b64">
@@ -2381,7 +2495,11 @@
                     <source>American Spinal Injury Association</source>. 
                     <publisher-loc>Chicago</publisher-loc>: 
                     <publisher-name>American Spinal Injury Association</publisher-name>; 
+<<<<<<< HEAD
                     <year>2000</year>.
+=======
+                    <year>2000</year>.                    
+>>>>>>> 5e53eb249a929cd91e911db639d261fbd1bd06d2
                 </mixed-citation>
             </ref>
             <ref id="b69">
@@ -2472,6 +2590,7 @@
                     </person-group>. 
                     <article-title>The role of therapeutic hypothermia after traumatic spinal cord injury-a systematic review</article-title>. 
                     <source>World Neurosurg</source>. 
+<<<<<<< HEAD
                     <year>2015</year>;
                     <volume>15</volume>:
                     <fpage>1247</fpage>–
@@ -2479,6 +2598,16 @@
                     <pub-id pub-id-type="pmid">26433095</pub-id>
                 </mixed-citation>
             </ref>
+=======
+                    <year>2016</year>;
+                    <volume>86</volume>:
+                    <fpage>832</fpage>–
+                    <lpage>49</lpage>.
+                    <pub-id pub-id-type="pmid">26433095</pub-id>
+                    <issn>1878-8750</issn>.        
+                </mixed-citation>               
+             </ref>
+>>>>>>> 5e53eb249a929cd91e911db639d261fbd1bd06d2
             <ref id="b73">
                 <label>73.	</label>
                 <mixed-citation publication-type="journal" specific-use="restruct">
@@ -2556,7 +2685,11 @@
                     <lpage>27</lpage>. 
                     <pub-id pub-id-type="doi">10.1016/j.expneurol.2012.09.015</pub-id>
                     <pub-id pub-id-type="pmid">23026410</pub-id>
+<<<<<<< HEAD
                     <issn>0014-4886</issn>
+=======
+                    <issn>0014-4886</issn>                    
+>>>>>>> 5e53eb249a929cd91e911db639d261fbd1bd06d2
                 </mixed-citation>
             </ref>
             <ref id="b75">
@@ -3020,7 +3153,11 @@
                         </string-name>, 
                         <etal>et al.</etal>
                     </person-group>
+<<<<<<< HEAD
                     <article-title>BSc LT, Aarabi B, Anderson PA, Arnold PM, Brodke DS, Burns A, Chen R, Chiba K, Dettori J, Furlan JC, Harrop JS, Holly LT, Jeji T, Kalsi-Ryan S,Kotter M, Kurpad SN, Kwon BK, Marino R, Martin AR, Massicotte EM, Merli G, Middleton J, Nakashima H, Nagoshi N, Palmieri K, Shamji MF, Singh A, Skelly A, Yee A, Fehlings M. 181 Guidelines for the Management of Patients With Spinal Cord Injury: The Optimal Timing of Decompression</article-title>. 
+=======
+                    <article-title> 181 Guidelines for the Management of Patients With Spinal Cord Injury: The Optimal Timing of Decompression</article-title>. 
+>>>>>>> 5e53eb249a929cd91e911db639d261fbd1bd06d2
                     <source>Neurosurgery</source>. 
                     <year>2016</year>
                     <month>Aug</month>;
@@ -3028,7 +3165,11 @@
                     <supplement>Suppl 1</supplement>:
                     <fpage>172</fpage>. 
                     <pub-id pub-id-type="doi">10.1227/01.neu.0000489750.82285.7f</pub-id>
+<<<<<<< HEAD
                     <issn>0148-396X</issn>
+=======
+                    <issn>0148-396X</issn>                     
+>>>>>>> 5e53eb249a929cd91e911db639d261fbd1bd06d2
                 </mixed-citation>
             </ref>
             <ref id="b87">
