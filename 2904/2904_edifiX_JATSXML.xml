@@ -1,4 +1,5 @@
 <
+
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
 <article
@@ -92,66 +93,65 @@
     <back>
         <ref-list>
             <ref id="b1">
-                <mixed-citation publication-type="web-page" specific-use="unparsed">
+                <mixed-citation publication-type="web-page"name>
                     <person-group person-group-type="author">
-                        <string-name>
-                            <surname>Report</surname>
-                            <given-names>GI</given-names>
-                        </string-name>
+                        <collab>Global Initiative for Asthma</collab>
                     </person-group>. 
-                    
-                    
-                    <article-title>Global Strategy for Asthma Management and Prevention</article-title>, 
-                    
-                    
-                    <year>2018</year> [
-                    
-                    
-                    <date-in-citation content-type="access-date">cited 2018</date-in-citation> avg 25]. Available from:   
-                    
-                    
-                    <ext-link ext-link-type="uri" xlink:href="http://www.ginasthma.org/uploads/users/files/GINA_Report_2018.pdf">http://www.ginasthma.org/uploads/users/files/GINA_Report_2018.pdf</ext-link>
+                    <article-title>Global Strategy for Asthma Management and Prevention</article-title>.
+                    <year>2018</year>.
+                    <date-in-citation content-type="access-date">cited 2018 Avg 25</date-in-citation>.                 
+                    <comment>Available from</comment>:      
+                    <ext-link ext-link-type="uri" xlink:href="https://ginasthma.org/wp-content/uploads/2018/04/wms-GINA-2018-report-tracked_v1.3.pdfi">https://ginasthma.org/wp-content/uploads/2018/04/wms-GINA-2018-report-tracked_v1.3.pdf</ext-link>
                 </mixed-citation>
             </ref>
             <ref id="b2">
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Price</surname>
                             <given-names>D</given-names>
-                        </string-name>, 
+                        </name>, 
                         
                         
-                        <string-name>
+                        
+                        <name>
                             <surname>Fletcher</surname>
                             <given-names>M</given-names>
-                        </string-name>, 
+                        </name>, 
                         
                         
-                        <string-name>
+                        
+                        <name>
                             <surname>van der Molen</surname>
                             <given-names>T</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
+                    
                     
                     
                     <article-title>Asthma control and management in 8,000 European patients: the REcognise Asthma and LInk to Symptoms and Experience (REALISE) survey</article-title>. 
                     
                     
+                    
                     <source>NPJ Prim Care Respir Med</source>. 
+                    
                     
                     
                     <year>2014</year>
                     <month>Jun</month>;
                     
                     
+                    
                     <volume>24</volume>(
+                    
                     
                     
                     <issue>1</issue>):
                     
                     
+                    
                     <fpage>14009</fpage>. 
+                    
                     
                     
                     <pub-id pub-id-type="doi">10.1038/npjpcrm.2014.9</pub-id>
@@ -162,45 +162,55 @@
             <ref id="b3">
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Janežič</surname>
                             <given-names>A</given-names>
-                        </string-name>, 
+                        </name>, 
                         
                         
-                        <string-name>
+                        
+                        <name>
                             <surname>Locatelli</surname>
                             <given-names>I</given-names>
-                        </string-name>, 
+                        </name>, 
                         
                         
-                        <string-name>
+                        
+                        <name>
                             <surname>Kos</surname>
                             <given-names>M</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
+                    
                     
                     
                     <article-title>44th ESCP International Symposium on Clinical Pharmacy Medicines Information: Making Better Decisions : Lisbon, Portugal, 28-30 October 2015</article-title>. 
                     
                     
+                    
                     <source>Int J Clin Pharm</source>. 
+                    
                     
                     
                     <year>2016</year>
                     <month>Apr</month>;
                     
                     
+                    
                     <volume>38</volume>(
+                    
                     
                     
                     <issue>2</issue>):
                     
                     
+                    
                     <fpage>470</fpage>–
                     
                     
+                    
                     <lpage>598</lpage>. 
+                    
                     
                     
                     <pub-id pub-id-type="doi">10.1007/s11096-015-0240-y</pub-id>
@@ -211,40 +221,46 @@
             <ref id="b4">
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Chung</surname>
                             <given-names>KF</given-names>
-                        </string-name>, 
+                        </name>, 
                         
                         
-                        <string-name>
+                        
+                        <name>
                             <surname>Wenzel</surname>
                             <given-names>SE</given-names>
-                        </string-name>, 
+                        </name>, 
                         
                         
-                        <string-name>
+                        
+                        <name>
                             <surname>Brozek</surname>
                             <given-names>JL</given-names>
-                        </string-name>, 
+                        </name>, 
                         
                         
-                        <string-name>
+                        
+                        <name>
                             <surname>Bush</surname>
                             <given-names>A</given-names>
-                        </string-name>, 
+                        </name>, 
                         
                         
-                        <string-name>
+                        
+                        <name>
                             <surname>Castro</surname>
                             <given-names>M</given-names>
-                        </string-name>, 
+                        </name>, 
                         
                         
-                        <string-name>
+                        
+                        <name>
                             <surname>Sterk</surname>
                             <given-names>PJ</given-names>
-                        </string-name>, 
+                        </name>, 
+                        
                         
                         
                         <etal>et al.</etal>
@@ -252,23 +268,30 @@
                     <article-title>International ERS/ATS guidelines on definition, evaluation and treatment of severe asthma</article-title>. 
                     
                     
+                    
                     <source>Eur Respir J</source>. 
+                    
                     
                     
                     <year>2014</year>
                     <month>Feb</month>;
                     
                     
+                    
                     <volume>43</volume>(
+                    
                     
                     
                     <issue>2</issue>):
                     
                     
+                    
                     <fpage>343</fpage>–
                     
                     
+                    
                     <lpage>73</lpage>. 
+                    
                     
                     
                     <pub-id pub-id-type="doi">10.1183/09031936.00202013</pub-id>
@@ -283,40 +306,46 @@
             <ref id="b5">
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Škrgat</surname>
                             <given-names>S</given-names>
-                        </string-name>, 
+                        </name>, 
                         
                         
-                        <string-name>
+                        
+                        <name>
                             <surname>Triller</surname>
                             <given-names>N</given-names>
-                        </string-name>, 
+                        </name>, 
                         
                         
-                        <string-name>
+                        
+                        <name>
                             <surname>Košnik</surname>
                             <given-names>M</given-names>
-                        </string-name>, 
+                        </name>, 
                         
                         
-                        <string-name>
+                        
+                        <name>
                             <surname>Poplas Susič</surname>
                             <given-names>T</given-names>
-                        </string-name>, 
+                        </name>, 
                         
                         
-                        <string-name>
+                        
+                        <name>
                             <surname>Petek</surname>
                             <given-names>D</given-names>
-                        </string-name>, 
+                        </name>, 
                         
                         
-                        <string-name>
+                        
+                        <name>
                             <surname>Vodopivec Jamšek</surname>
                             <given-names>V</given-names>
-                        </string-name>, 
+                        </name>, 
+                        
                         
                         
                         <etal>et al.</etal>
@@ -324,22 +353,29 @@
                     <article-title>Priporočila za obravnavo bolnika z astmo na primarni in specialistični pulmološki ravni v Sloveniji</article-title>. 
                     
                     
+                    
                     <source>Zdrav Vestn</source>. 
+                    
                     
                     
                     <year>2016</year>;
                     
                     
+                    
                     <volume>85</volume>(
+                    
                     
                     
                     <issue>11/12</issue>):
                     
                     
+                    
                     <fpage>693</fpage>–
                     
                     
+                    
                     <lpage>706</lpage>.
+                    
                     
                     
                     <issn>0350-0063</issn>
@@ -348,40 +384,46 @@
             <ref id="b6">
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Terl</surname>
                             <given-names>M</given-names>
-                        </string-name>, 
+                        </name>, 
                         
                         
-                        <string-name>
+                        
+                        <name>
                             <surname>Sedlák</surname>
                             <given-names>V</given-names>
-                        </string-name>, 
+                        </name>, 
                         
                         
-                        <string-name>
+                        
+                        <name>
                             <surname>Cap</surname>
                             <given-names>P</given-names>
-                        </string-name>, 
+                        </name>, 
                         
                         
-                        <string-name>
+                        
+                        <name>
                             <surname>Dvořáková</surname>
                             <given-names>R</given-names>
-                        </string-name>, 
+                        </name>, 
                         
                         
-                        <string-name>
+                        
+                        <name>
                             <surname>Kašák</surname>
                             <given-names>V</given-names>
-                        </string-name>, 
+                        </name>, 
                         
                         
-                        <string-name>
+                        
+                        <name>
                             <surname>Kočí</surname>
                             <given-names>T</given-names>
-                        </string-name>, 
+                        </name>, 
+                        
                         
                         
                         <etal>et al.</etal>
@@ -389,23 +431,30 @@
                     <article-title>Asthma management: A new phenotype-based approach using presence of eosinophilia and allergy</article-title>. 
                     
                     
+                    
                     <source>Allergy</source>. 
+                    
                     
                     
                     <year>2017</year>
                     <month>Sep</month>;
                     
                     
+                    
                     <volume>72</volume>(
+                    
                     
                     
                     <issue>9</issue>):
                     
                     
+                    
                     <fpage>1279</fpage>–
                     
                     
+                    
                     <lpage>87</lpage>. 
+                    
                     
                     
                     <pub-id pub-id-type="doi">10.1111/all.13165</pub-id>
@@ -416,40 +465,46 @@
             <ref id="b7">
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Taylor</surname>
                             <given-names>DR</given-names>
-                        </string-name>, 
+                        </name>, 
                         
                         
-                        <string-name>
+                        
+                        <name>
                             <surname>Bateman</surname>
                             <given-names>ED</given-names>
-                        </string-name>, 
+                        </name>, 
                         
                         
-                        <string-name>
+                        
+                        <name>
                             <surname>Boulet</surname>
                             <given-names>LP</given-names>
-                        </string-name>, 
+                        </name>, 
                         
                         
-                        <string-name>
+                        
+                        <name>
                             <surname>Boushey</surname>
                             <given-names>HA</given-names>
-                        </string-name>, 
+                        </name>, 
                         
                         
-                        <string-name>
+                        
+                        <name>
                             <surname>Busse</surname>
                             <given-names>WW</given-names>
-                        </string-name>, 
+                        </name>, 
                         
                         
-                        <string-name>
+                        
+                        <name>
                             <surname>Casale</surname>
                             <given-names>TB</given-names>
-                        </string-name>, 
+                        </name>, 
+                        
                         
                         
                         <etal>et al.</etal>
@@ -457,23 +512,30 @@
                     <article-title>A new perspective on concepts of asthma severity and control</article-title>. 
                     
                     
+                    
                     <source>Eur Respir J</source>. 
+                    
                     
                     
                     <year>2008</year>
                     <month>Sep</month>;
                     
                     
+                    
                     <volume>32</volume>(
+                    
                     
                     
                     <issue>3</issue>):
                     
                     
+                    
                     <fpage>545</fpage>–
                     
                     
+                    
                     <lpage>54</lpage>. 
+                    
                     
                     
                     <pub-id pub-id-type="doi">10.1183/09031936.00155307</pub-id>
@@ -484,69 +546,84 @@
             <ref id="b8">
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Bateman</surname>
                             <given-names>ED</given-names>
-                        </string-name>, 
+                        </name>, 
                         
                         
-                        <string-name>
+                        
+                        <name>
                             <surname>Boushey</surname>
                             <given-names>HA</given-names>
-                        </string-name>, 
+                        </name>, 
                         
                         
-                        <string-name>
+                        
+                        <name>
                             <surname>Bousquet</surname>
                             <given-names>J</given-names>
-                        </string-name>, 
+                        </name>, 
                         
                         
-                        <string-name>
+                        
+                        <name>
                             <surname>Busse</surname>
                             <given-names>WW</given-names>
-                        </string-name>, 
+                        </name>, 
                         
                         
-                        <string-name>
+                        
+                        <name>
                             <surname>Clark</surname>
                             <given-names>TJ</given-names>
-                        </string-name>, 
+                        </name>, 
                         
                         
-                        <string-name>
+                        
+                        <name>
                             <surname>Pauwels</surname>
                             <given-names>RA</given-names>
-                        </string-name>, 
+                        </name>, 
+                        
                         
                         
                         <etal>et al.</etal>; 
+                        
                         
                         
                         <collab>GOAL Investigators Group</collab>
                     </person-group>. 
                     
                     
+                    
                     <article-title>Can guideline-defined asthma control be achieved? The Gaining Optimal Asthma ControL study</article-title>. 
                     
                     
+                    
                     <source>Am J Respir Crit Care Med</source>. 
+                    
                     
                     
                     <year>2004</year>
                     <month>Oct</month>;
                     
                     
+                    
                     <volume>170</volume>(
+                    
                     
                     
                     <issue>8</issue>):
                     
                     
+                    
                     <fpage>836</fpage>–
                     
                     
+                    
                     <lpage>44</lpage>. 
+                    
                     
                     
                     <pub-id pub-id-type="doi">10.1164/rccm.200401-033OC</pub-id>
@@ -557,51 +634,62 @@
             <ref id="b9">
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Demoly</surname>
                             <given-names>P</given-names>
-                        </string-name>, 
+                        </name>, 
                         
                         
-                        <string-name>
+                        
+                        <name>
                             <surname>Annunziata</surname>
                             <given-names>K</given-names>
-                        </string-name>, 
+                        </name>, 
                         
                         
-                        <string-name>
+                        
+                        <name>
                             <surname>Gubba</surname>
                             <given-names>E</given-names>
-                        </string-name>, 
+                        </name>, 
                         
                         
-                        <string-name>
+                        
+                        <name>
                             <surname>Adamek</surname>
                             <given-names>L</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
+                    
                     
                     
                     <article-title>Repeated cross-sectional survey of patient-reported asthma control in Europe in the past 5 years</article-title>. 
                     
                     
+                    
                     <source>Eur Respir Rev</source>. 
+                    
                     
                     
                     <year>2012</year>
                     <month>Mar</month>;
                     
                     
+                    
                     <volume>21</volume>(
+                    
                     
                     
                     <issue>123</issue>):
                     
                     
+                    
                     <fpage>66</fpage>–
                     
                     
+                    
                     <lpage>74</lpage>. 
+                    
                     
                     
                     <pub-id pub-id-type="doi">10.1183/09059180.00008111</pub-id>
@@ -612,40 +700,46 @@
             <ref id="b10">
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Reddel</surname>
                             <given-names>HK</given-names>
-                        </string-name>, 
+                        </name>, 
                         
                         
-                        <string-name>
+                        
+                        <name>
                             <surname>Jenkins</surname>
                             <given-names>CR</given-names>
-                        </string-name>, 
+                        </name>, 
                         
                         
-                        <string-name>
+                        
+                        <name>
                             <surname>Marks</surname>
                             <given-names>GB</given-names>
-                        </string-name>, 
+                        </name>, 
                         
                         
-                        <string-name>
+                        
+                        <name>
                             <surname>Ware</surname>
                             <given-names>SI</given-names>
-                        </string-name>, 
+                        </name>, 
                         
                         
-                        <string-name>
+                        
+                        <name>
                             <surname>Xuan</surname>
                             <given-names>W</given-names>
-                        </string-name>, 
+                        </name>, 
                         
                         
-                        <string-name>
+                        
+                        <name>
                             <surname>Salome</surname>
                             <given-names>CM</given-names>
-                        </string-name>, 
+                        </name>, 
+                        
                         
                         
                         <etal>et al.</etal>
@@ -653,23 +747,30 @@
                     <article-title>Optimal asthma control, starting with high doses of inhaled budesonide</article-title>. 
                     
                     
+                    
                     <source>Eur Respir J</source>. 
+                    
                     
                     
                     <year>2000</year>
                     <month>Aug</month>;
                     
                     
+                    
                     <volume>16</volume>(
+                    
                     
                     
                     <issue>2</issue>):
                     
                     
+                    
                     <fpage>226</fpage>–
                     
                     
+                    
                     <lpage>35</lpage>. 
+                    
                     
                     
                     <pub-id pub-id-type="doi">10.1034/j.1399-3003.2000.16b08.x</pub-id>
@@ -680,40 +781,46 @@
             <ref id="b11">
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Haughney</surname>
                             <given-names>J</given-names>
-                        </string-name>, 
+                        </name>, 
                         
                         
-                        <string-name>
+                        
+                        <name>
                             <surname>Price</surname>
                             <given-names>D</given-names>
-                        </string-name>, 
+                        </name>, 
                         
                         
-                        <string-name>
+                        
+                        <name>
                             <surname>Kaplan</surname>
                             <given-names>A</given-names>
-                        </string-name>, 
+                        </name>, 
                         
                         
-                        <string-name>
+                        
+                        <name>
                             <surname>Chrystyn</surname>
                             <given-names>H</given-names>
-                        </string-name>, 
+                        </name>, 
                         
                         
-                        <string-name>
+                        
+                        <name>
                             <surname>Horne</surname>
                             <given-names>R</given-names>
-                        </string-name>, 
+                        </name>, 
                         
                         
-                        <string-name>
+                        
+                        <name>
                             <surname>May</surname>
                             <given-names>N</given-names>
-                        </string-name>, 
+                        </name>, 
+                        
                         
                         
                         <etal>et al.</etal>
@@ -721,23 +828,30 @@
                     <article-title>Achieving asthma control in practice: understanding the reasons for poor control</article-title>. 
                     
                     
+                    
                     <source>Respir Med</source>. 
+                    
                     
                     
                     <year>2008</year>
                     <month>Dec</month>;
                     
                     
+                    
                     <volume>102</volume>(
+                    
                     
                     
                     <issue>12</issue>):
                     
                     
+                    
                     <fpage>1681</fpage>–
                     
                     
+                    
                     <lpage>93</lpage>. 
+                    
                     
                     
                     <pub-id pub-id-type="doi">10.1016/j.rmed.2008.08.003</pub-id>
@@ -748,44 +862,54 @@
             <ref id="b12">
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Košnik</surname>
                             <given-names>M</given-names>
-                        </string-name>, 
+                        </name>, 
                         
                         
-                        <string-name>
+                        
+                        <name>
                             <surname>Triller</surname>
                             <given-names>N</given-names>
-                        </string-name>, 
+                        </name>, 
                         
                         
-                        <string-name>
+                        
+                        <name>
                             <surname>Šelb</surname>
                             <given-names>J</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
+                    
                     
                     
                     <article-title>Mnenje pulmologov o pomenu vdihovalnikov pri bolnikih z astmo ali KOPB</article-title>. 
                     
                     
+                    
                     <source>Zdrav Vestn</source>. 
+                    
                     
                     
                     <year>2017</year>;
                     
                     
+                    
                     <volume>86</volume>(
+                    
                     
                     
                     <issue>3-4</issue>):
                     
                     
+                    
                     <fpage>105</fpage>–
                     
                     
+                    
                     <lpage>14</lpage>.
+                    
                     
                     
                     <issn>0350-0063</issn>
@@ -794,106 +918,129 @@
             <ref id="b13">
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Adeniyl</surname>
                             <given-names>FB</given-names>
-                        </string-name>, 
+                        </name>, 
                         
                         
-                        <string-name>
+                        
+                        <name>
                             <surname>Young</surname>
                             <given-names>T</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
+                    
                     
                     
                     <article-title>Weight loss intervention for chronic asthma</article-title>. 
                     
                     
+                    
                     <source>Cochrane Database Syst Rev</source>. 
+                    
                     
                     
                     <year>2012</year>;
                     
                     
+                    
                     <volume>7</volume>:
+                    
                     
                     
                     <fpage>CD009339</fpage>.
                     
                     
+                    
                     <issn>1469-493X</issn>
-                    <annotation>
-                        <p content-type="warning">Edifix has not found an issue number in the journal reference. Please check the volume/issue information. (Ref. "Adeniyl, Young, 2012")</p>
-                    </annotation>
+                    <pub-id pub-id-type="doi">10.1002/14651858.CD009339.pub2</pub-id>
+                    <pub-id pub-id-type="pmid">22786526</pub-id>
+                    <issn>1469-493X</issn>
+                    
                 </mixed-citation>
             </ref>
             <ref id="b14">
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Bousquet</surname>
                             <given-names>J</given-names>
-                        </string-name>, 
+                        </name>, 
                         
                         
-                        <string-name>
+                        
+                        <name>
                             <surname>Schünemann</surname>
                             <given-names>HJ</given-names>
-                        </string-name>, 
+                        </name>, 
                         
                         
-                        <string-name>
+                        
+                        <name>
                             <surname>Samolinski</surname>
                             <given-names>B</given-names>
-                        </string-name>, 
+                        </name>, 
                         
                         
-                        <string-name>
+                        
+                        <name>
                             <surname>Demoly</surname>
                             <given-names>P</given-names>
-                        </string-name>, 
+                        </name>, 
                         
                         
-                        <string-name>
+                        
+                        <name>
                             <surname>Baena-Cagnani</surname>
                             <given-names>CE</given-names>
-                        </string-name>, 
+                        </name>, 
                         
                         
-                        <string-name>
+                        
+                        <name>
                             <surname>Bachert</surname>
                             <given-names>C</given-names>
-                        </string-name>, 
+                        </name>, 
+                        
                         
                         
                         <etal>et al.</etal>; 
+                        
                         
                         
                         <collab>World Health Organization Collaborating Center for Asthma and Rhinitis</collab>
                     </person-group>. 
                     
                     
+                    
                     <article-title>Allergic Rhinitis and its Impact on Asthma (ARIA): achievements in 10 years and future needs</article-title>. 
                     
                     
+                    
                     <source>J Allergy Clin Immunol</source>. 
+                    
                     
                     
                     <year>2012</year>
                     <month>Nov</month>;
                     
                     
+                    
                     <volume>130</volume>(
+                    
                     
                     
                     <issue>5</issue>):
                     
                     
+                    
                     <fpage>1049</fpage>–
                     
                     
+                    
                     <lpage>62</lpage>. 
+                    
                     
                     
                     <pub-id pub-id-type="doi">10.1016/j.jaci.2012.07.053</pub-id>
@@ -907,44 +1054,54 @@
             <ref id="b15">
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Sopo</surname>
                             <given-names>SM</given-names>
-                        </string-name>, 
+                        </name>, 
                         
                         
-                        <string-name>
+                        
+                        <name>
                             <surname>Radzik</surname>
                             <given-names>D</given-names>
-                        </string-name>, 
+                        </name>, 
                         
                         
-                        <string-name>
+                        
+                        <name>
                             <surname>Calvani</surname>
                             <given-names>M</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
+                    
                     
                     
                     <article-title>Does treatment with proton pump inhibitors for GERD improve asthma symptoms in children with asthma and GERD? A systematic revie</article-title>. 
                     
                     
+                    
                     <source>J Investig Allergol Clin Immunol</source>. 
+                    
                     
                     
                     <year>2009</year>;
                     
                     
+                    
                     <volume>19</volume>(
+                    
                     
                     
                     <issue>1</issue>):
                     
                     
+                    
                     <fpage>1</fpage>–
                     
                     
+                    
                     <lpage>5</lpage>.
+                    
                     
                     
                     <pub-id pub-id-type="pmid">19274922</pub-id>
@@ -953,7 +1110,9 @@
                         <p content-type="warning">Edifix has not updated this reference because the article title in PubMed significantly differs from the author's original. The PubMed reference is 
                             
                             
+                            
                             <underline>Sopo SM, Radzik D, Calvani M. Does treatment with proton pump inhibitors for gastroesophageal reflux disease (GERD) improve asthma symptoms in children with asthma and GERD? A systematic review. J Investig Allergol Clin Immunol. 2009;19(1):1–5</underline>. (Ref. "Sopo, Radzik, Calvani, 2009")
+                        
                         
                         
                         </p>
@@ -963,40 +1122,46 @@
             <ref id="b16">
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Meltzer</surname>
                             <given-names>EO</given-names>
-                        </string-name>, 
+                        </name>, 
                         
                         
-                        <string-name>
+                        
+                        <name>
                             <surname>Busse</surname>
                             <given-names>WW</given-names>
-                        </string-name>, 
+                        </name>, 
                         
                         
-                        <string-name>
+                        
+                        <name>
                             <surname>Wenzel</surname>
                             <given-names>SE</given-names>
-                        </string-name>, 
+                        </name>, 
                         
                         
-                        <string-name>
+                        
+                        <name>
                             <surname>Belozeroff</surname>
                             <given-names>V</given-names>
-                        </string-name>, 
+                        </name>, 
                         
                         
-                        <string-name>
+                        
+                        <name>
                             <surname>Weng</surname>
                             <given-names>HH</given-names>
-                        </string-name>, 
+                        </name>, 
                         
                         
-                        <string-name>
+                        
+                        <name>
                             <surname>Feng</surname>
                             <given-names>J</given-names>
-                        </string-name>, 
+                        </name>, 
+                        
                         
                         
                         <etal>et al.</etal>
@@ -1004,23 +1169,30 @@
                     <article-title>Use of the Asthma Control Questionnaire to predict future risk of asthma exacerbation</article-title>. 
                     
                     
+                    
                     <source>J Allergy Clin Immunol</source>. 
+                    
                     
                     
                     <year>2011</year>
                     <month>Jan</month>;
                     
                     
+                    
                     <volume>127</volume>(
+                    
                     
                     
                     <issue>1</issue>):
                     
                     
+                    
                     <fpage>167</fpage>–
                     
                     
+                    
                     <lpage>72</lpage>. 
+                    
                     
                     
                     <pub-id pub-id-type="doi">10.1016/j.jaci.2010.08.042</pub-id>
@@ -1031,40 +1203,46 @@
             <ref id="b17">
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Loymans</surname>
                             <given-names>RJ</given-names>
-                        </string-name>, 
+                        </name>, 
                         
                         
-                        <string-name>
+                        
+                        <name>
                             <surname>Honkoop</surname>
                             <given-names>PJ</given-names>
-                        </string-name>, 
+                        </name>, 
                         
                         
-                        <string-name>
+                        
+                        <name>
                             <surname>Termeer</surname>
                             <given-names>EH</given-names>
-                        </string-name>, 
+                        </name>, 
                         
                         
-                        <string-name>
+                        
+                        <name>
                             <surname>Snoeck-Stroband</surname>
                             <given-names>JB</given-names>
-                        </string-name>, 
+                        </name>, 
                         
                         
-                        <string-name>
+                        
+                        <name>
                             <surname>Assendelft</surname>
                             <given-names>WJ</given-names>
-                        </string-name>, 
+                        </name>, 
                         
                         
-                        <string-name>
+                        
+                        <name>
                             <surname>Schermer</surname>
                             <given-names>TR</given-names>
-                        </string-name>, 
+                        </name>, 
+                        
                         
                         
                         <etal>et al.</etal>
@@ -1072,23 +1250,30 @@
                     <article-title>Identifying patients at risk for severe exacerbations of asthma: development and external validation of a multivariable prediction model</article-title>. 
                     
                     
+                    
                     <source>Thorax</source>. 
+                    
                     
                     
                     <year>2016</year>
                     <month>Sep</month>;
                     
                     
+                    
                     <volume>71</volume>(
+                    
                     
                     
                     <issue>9</issue>):
                     
                     
+                    
                     <fpage>838</fpage>–
                     
                     
+                    
                     <lpage>46</lpage>. 
+                    
                     
                     
                     <pub-id pub-id-type="doi">10.1136/thoraxjnl-2015-208138</pub-id>
@@ -1103,40 +1288,46 @@
             <ref id="b18">
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Gibson</surname>
                             <given-names>PG</given-names>
-                        </string-name>, 
+                        </name>, 
                         
                         
-                        <string-name>
+                        
+                        <name>
                             <surname>Powell</surname>
                             <given-names>H</given-names>
-                        </string-name>, 
+                        </name>, 
                         
                         
-                        <string-name>
+                        
+                        <name>
                             <surname>Coughlan</surname>
                             <given-names>J</given-names>
-                        </string-name>, 
+                        </name>, 
                         
                         
-                        <string-name>
+                        
+                        <name>
                             <surname>Wilson</surname>
                             <given-names>AJ</given-names>
-                        </string-name>, 
+                        </name>, 
                         
                         
-                        <string-name>
+                        
+                        <name>
                             <surname>Abramson</surname>
                             <given-names>M</given-names>
-                        </string-name>, 
+                        </name>, 
                         
                         
-                        <string-name>
+                        
+                        <name>
                             <surname>Haywood</surname>
                             <given-names>P</given-names>
-                        </string-name>, 
+                        </name>, 
+                        
                         
                         
                         <etal>et al.</etal>
@@ -1144,16 +1335,21 @@
                     <article-title>Self-management education and regular practitioner review for adults with asthma</article-title>. 
                     
                     
+                    
                     <source>Cochrane Database Syst Rev</source>. 
+                    
                     
                     
                     <year>2003</year>;(
                     
                     
+                    
                     <issue>1</issue>):
                     
                     
+                    
                     <fpage>CD001117</fpage>.
+                    
                     
                     
                     <pub-id pub-id-type="pmid">12535399</pub-id>
