@@ -1,111 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
-<article
-    xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" dtd-version="1.0" article-type="reference-list">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" dtd-version="1.0" article-type="reference-list">
     <front>
-        <article-meta>
-            <custom-meta-group>
-                <custom-meta>
-                    <meta-name>TotalReferences</meta-name>
-                    <meta-value>91</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesParsed</meta-name>
-                    <meta-value>87</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesBillable</meta-name>
-                    <meta-value>86</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>LinkServices</meta-name>
-                    <meta-value>pubmed-crossref</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesLinked</meta-name>
-                    <meta-value>85</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesLinkedDOI</meta-name>
-                    <meta-value>80</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesLinkedPMID</meta-name>
-                    <meta-value>82</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>JournalReferences</meta-name>
-                    <meta-value>84</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>BookReferences</meta-name>
-                    <meta-value>1</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>BookChapterReferences</meta-name>
-                    <meta-value>2</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ConferenceReferences</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ElectronicReferences</meta-name>
-                    <meta-value>1</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>DissertationReferences</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>LegalReferences</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>StandardReferences</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>OtherReferences</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>UnknownReferences</meta-name>
-                    <meta-value>3</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesSemiParsed</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesBookUnparsed</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>EditorialStyle</meta-name>
-                    <meta-value>ICMJE-WHO</meta-value>
-                </custom-meta>
-            </custom-meta-group>
-        </article-meta>
     </front>
     <back>
         <ref-list>
             <ref id="b1">
                 <label>1.	</label>
-                <mixed-citation publication-type="journal" specific-use="restruct">
+                <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Branco</surname>
                             <given-names>F</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Cardenas</surname>
                             <given-names>DD</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Svircev</surname>
                             <given-names>JN</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Spinal cord injury: a comprehensive review</article-title>. 
                     <source>Phys Med Rehabil Clin N Am</source>. 
@@ -122,16 +37,16 @@
             </ref>
             <ref id="b2">
                 <label>2.	</label>
-                <mixed-citation publication-type="journal" specific-use="restruct">
+                <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Post</surname>
                             <given-names>MW</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>van Leeuwen</surname>
                             <given-names>CM</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Psychosocial issues in spinal cord injury: a review</article-title>. 
                     <source>Spinal Cord</source>. 
@@ -150,26 +65,26 @@
                 <label>3.	</label>
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Singh</surname>
                             <given-names>A</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Tetreault</surname>
                             <given-names>L</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Kalsi-Ryan</surname>
                             <given-names>S</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Nouri</surname>
                             <given-names>A</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Fehlings</surname>
                             <given-names>MG</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Global prevalence and incidence of traumatic spinal cord injury</article-title>. 
                     <source>Clin Epidemiol</source>. 
@@ -178,31 +93,23 @@
                     <volume>6</volume>:
                     <fpage>309</fpage>–
                     <lpage>31</lpage>.
+                    <pub-id pub-id-type="doi">10.2147/CLEP.S68889</pub-id>
                     <pub-id pub-id-type="pmid">25278785</pub-id>
                     <issn>1179-1349</issn>
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-                    <annotation>
-                        <p content-type="warning">Edifix has not found an issue number in the journal reference. Please check the volume/issue information. (Ref. 3 "Singh, Tetreault, Kalsi-Ryan, Nouri, Fehlings, 2014")</p>
-                    </annotation>
->>>>>>> 5e53eb249a929cd91e911db639d261fbd1bd06d2
->>>>>>> a253f30ca080ebb7159a7b2f2a1aa8c12d1f13d7
                 </mixed-citation>
             </ref>
             <ref id="b4">
                 <label>4.	</label>
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Sekhon</surname>
                             <given-names>LH</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Fehlings</surname>
                             <given-names>MG</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Epidemiology, demographics, and pathophysiology of acute spinal cord injury</article-title>. 
                     <source>Spine</source>. 
@@ -222,10 +129,10 @@
                 <label>5.	</label>
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Pirouzmand</surname>
                             <given-names>F</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Epidemiological trends of spine and spinal cord injuries in the largest Canadian adult trauma center from 1986 to 2006</article-title>. 
                     <source>J Neurosurg Spine</source>. 
@@ -244,30 +151,30 @@
                 <label>6.	</label>
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Chamberlain</surname>
                             <given-names>JD</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Deriaz</surname>
                             <given-names>O</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Hund-Georgiadis</surname>
                             <given-names>M</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Meier</surname>
                             <given-names>S</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Scheel-Sailer</surname>
                             <given-names>A</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Schubert</surname>
                             <given-names>M</given-names>
-                        </string-name>, 
+                        </name>, 
                         <etal>et al.</etal>
                     </person-group>
                     <article-title>Epidemiology and contemporary risk profile of traumatic spinal cord injury in Switzerland</article-title>. 
@@ -285,22 +192,22 @@
                 <label>7.	</label>
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Jabbour</surname>
                             <given-names>P</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Fehlings</surname>
                             <given-names>M</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Vaccaro</surname>
                             <given-names>AR</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Harrop</surname>
                             <given-names>JS</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Traumatic spine injuries in the geriatric population</article-title>. 
                     <source>Neurosurg Focus</source>. 
@@ -317,30 +224,30 @@
                 <label>8.	</label>
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>McCaughey</surname>
                             <given-names>EJ</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Purcell</surname>
                             <given-names>M</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>McLean</surname>
                             <given-names>AN</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Fraser</surname>
                             <given-names>MH</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Bewick</surname>
                             <given-names>A</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Borotkanics</surname>
                             <given-names>RJ</given-names>
-                        </string-name>, 
+                        </name>, 
                         <etal>et al.</etal>
                     </person-group>
                     <article-title>Changing demographics of spinal cord injury over a 20-year period: a longitudinal population-based study in Scotland</article-title>. 
@@ -360,30 +267,30 @@
                 <label>9.	</label>
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Ahuja</surname>
                             <given-names>CS</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Wilson</surname>
                             <given-names>JR</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Nori</surname>
                             <given-names>S</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Kotter</surname>
                             <given-names>MR</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Druschel</surname>
                             <given-names>C</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Curt</surname>
                             <given-names>A</given-names>
-                        </string-name>, 
+                        </name>, 
                         <etal>et al.</etal>
                     </person-group>
                     <article-title>Traumatic spinal cord injury</article-title>. 
@@ -402,30 +309,26 @@
                 <label>10. </label>
                 <mixed-citation publication-type="book-chapter" specific-use="restruct">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Fehlings</surname>
                             <given-names>MG</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Sekhon</surname>
                             <given-names>L</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
-<<<<<<< HEAD
-                    <chapter-title>Cellular, ionic and biomolecular mechanisms of the injury process</chapter-title>. In: 
-=======
                     <chapter-title>Cellular, ionic and biomolecular mechanisms of the injury process</chapter-title>. 
                     <comment>In:</comment>
->>>>>>> 5e53eb249a929cd91e911db639d261fbd1bd06d2
                     <person-group person-group-type="editor">
-                        <string-name>
+                        <name>
                             <surname>Benzel</surname>
                             <given-names>E</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Tator</surname>
                             <given-names>CH</given-names>
-                        </string-name>, 
+                        </name>, 
                         <role>editors</role>
                     </person-group>. 
                     <source>Contemporary Management of Spinal Cord Injury: From Impact to Rehabilitation</source>. 
@@ -440,26 +343,22 @@
                 <label>11. </label>
                 <mixed-citation publication-type="book-chapter" specific-use="restruct">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Tator</surname>
                             <given-names>CH</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
-<<<<<<< HEAD
-                    <chapter-title>Pathophysiology and pathology of spinal cord injury</chapter-title>. In: 
-=======
                     <chapter-title>Pathophysiology and pathology of spinal cord injury</chapter-title>. 
                     <comment>In:</comment> 
->>>>>>> 5e53eb249a929cd91e911db639d261fbd1bd06d2
                     <person-group person-group-type="editor">
-                        <string-name>
+                        <name>
                             <surname>Wilkins</surname>
                             <given-names>RH</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Rengachary</surname>
                             <given-names>SS</given-names>
-                        </string-name>, 
+                        </name>, 
                         <role>editors</role>
                     </person-group>. 
                     <source>Neurosurgery</source>. 
@@ -475,10 +374,10 @@
                 <label>12.	</label>
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Oyinbo</surname>
                             <given-names>CA</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Secondary injury mechanisms in traumatic spinal cord injury: a nugget of this multiply cascade</article-title>. 
                     <source>Acta Neurobiol Exp (Wars)</source>. 
@@ -495,26 +394,26 @@
                 <label>13.	</label>
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Sullivan</surname>
                             <given-names>PG</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Krishnamurthy</surname>
                             <given-names>S</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Patel</surname>
                             <given-names>SP</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Pandya</surname>
                             <given-names>JD</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Rabchevsky</surname>
                             <given-names>AG</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Temporal characterization of mitochondrial bioenergetics after spinal cord injury</article-title>. 
                     <source>J Neurotrauma</source>. 
@@ -533,26 +432,26 @@
                 <label>14.	</label>
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Xu</surname>
                             <given-names>GY</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Hughes</surname>
                             <given-names>MG</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Zhang</surname>
                             <given-names>L</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Cain</surname>
                             <given-names>L</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>McAdoo</surname>
                             <given-names>DJ</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Administration of glutamate into the spinal cord at extracellular concentrations reached post-injury causes functional impairments</article-title>. 
                     <source>Neurosci Lett</source>. 
@@ -571,14 +470,14 @@
                 <label>15.	</label>
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Fehlings</surname>
                             <given-names>MG</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Nguyen</surname>
                             <given-names>DH</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Immunoglobulin G: a potential treatment to attenuate neuroinflammation following spinal cord injury</article-title>. 
                     <source>J Clin Immunol</source>. 
@@ -598,10 +497,10 @@
                 <label>16.	</label>
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Resnick</surname>
                             <given-names>DK</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Updated guidelines for the management of acute cervical spine and spinal cord injury</article-title>. 
                     <source>Neurosurgery</source>. 
@@ -619,22 +518,22 @@
                 <label>17.	</label>
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Vale</surname>
                             <given-names>FL</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Burns</surname>
                             <given-names>J</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Jackson</surname>
                             <given-names>AB</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Hadley</surname>
                             <given-names>MN</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Combined medical and surgical treatment after acute spinal cord injury: results of a prospective pilot study to assess the merits of aggressive medical resuscitation and blood pressure management</article-title>. 
                     <source>J Neurosurg</source>. 
@@ -653,30 +552,30 @@
                 <label>18.	</label>
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Ahuja</surname>
                             <given-names>CS</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Wilson</surname>
                             <given-names>JR</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Nori</surname>
                             <given-names>S</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Kotter</surname>
                             <given-names>MR</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Druschel</surname>
                             <given-names>C</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Curt</surname>
                             <given-names>A</given-names>
-                        </string-name>, 
+                        </name>, 
                         <etal>et al.</etal>
                     </person-group>
                     <article-title>Traumatic spinal cord injury</article-title>. 
@@ -701,30 +600,30 @@
                 <label>19.	</label>
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Kwon</surname>
                             <given-names>BK</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Okon</surname>
                             <given-names>E</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Hillyer</surname>
                             <given-names>J</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Mann</surname>
                             <given-names>C</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Baptiste</surname>
                             <given-names>D</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Weaver</surname>
                             <given-names>LC</given-names>
-                        </string-name>, 
+                        </name>, 
                         <etal>et al.</etal>
                     </person-group>
                     <article-title>A systematic review of non-invasive pharmacologic neuroprotective treatments for acute spinal cord injury</article-title>. 
@@ -744,30 +643,30 @@
                 <label>20.	</label>
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Popovich</surname>
                             <given-names>PG</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Guan</surname>
                             <given-names>Z</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Wei</surname>
                             <given-names>P</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Huitinga</surname>
                             <given-names>I</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>van Rooijen</surname>
                             <given-names>N</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Stokes</surname>
                             <given-names>BT</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Depletion of hematogenous macrophages promotes partial hindlimb recovery and neuroanatomical repair after experimental spinal cord injury</article-title>. 
                     <source>Exp Neurol</source>. 
@@ -786,22 +685,22 @@
                 <label>21.	</label>
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Wells</surname>
                             <given-names>JE</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Hurlbert</surname>
                             <given-names>RJ</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Fehlings</surname>
                             <given-names>MG</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Yong</surname>
                             <given-names>VW</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Neuroprotection by minocycline facilitates significant recovery from spinal cord injury in mice</article-title>. 
                     <source>Brain</source>. 
@@ -820,30 +719,30 @@
                 <label>22.	</label>
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Gris</surname>
                             <given-names>D</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Marsh</surname>
                             <given-names>DR</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Oatway</surname>
                             <given-names>MA</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Chen</surname>
                             <given-names>Y</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Hamilton</surname>
                             <given-names>EF</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Dekaban</surname>
                             <given-names>GA</given-names>
-                        </string-name>, 
+                        </name>, 
                         <etal>et al.</etal>
                     </person-group>
                     <article-title>Transient blockade of the CD11d/CD18 integrin reduces secondary damage after spinal cord injury, improving sensory, autonomic, and motor function</article-title>. 
@@ -863,14 +762,14 @@
                 <label>23.	</label>
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Schwartz</surname>
                             <given-names>M</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Yoles</surname>
                             <given-names>E</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Immune-based therapy for spinal cord repair: autologous macrophages and beyond</article-title>. 
                     <source>J Neurotrauma</source>. 
@@ -889,18 +788,18 @@
                 <label>24.	</label>
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Hirbec</surname>
                             <given-names>H</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Gaviria</surname>
                             <given-names>M</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Vignon</surname>
                             <given-names>J</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Gacyclidine: a new neuroprotective agent acting at the N-methyl-D-aspartate receptor</article-title>. 
                     <source>CNS Drug Rev</source>. 
@@ -918,14 +817,14 @@
                 <label>25.	</label>
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Hall</surname>
                             <given-names>ED</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Braughler</surname>
                             <given-names>JM</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Glucocorticoid mechanisms in acute spinal cord injury: a review and therapeutic rationale</article-title>. 
                     <source>Surg Neurol</source>. 
@@ -944,22 +843,22 @@
                 <label>26.	</label>
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Golding</surname>
                             <given-names>JD</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Rigley MacDonald</surname>
                             <given-names>ST</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Juurlink</surname>
                             <given-names>BH</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Rosser</surname>
                             <given-names>BW</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>The effect of glutamine on locomotor performance and skeletal muscle myosins following spinal cord injury in rats</article-title>. 
                     <source>J Appl Physiol (1985)</source>. 
@@ -978,22 +877,22 @@
                 <label>27.	</label>
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Faden</surname>
                             <given-names>AI</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Jacobs</surname>
                             <given-names>TP</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Mougey</surname>
                             <given-names>E</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Holaday</surname>
                             <given-names>JW</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Endorphins in experimental spinal injury: therapeutic effect of naloxone</article-title>. 
                     <source>Ann Neurol</source>. 
@@ -1012,18 +911,18 @@
                 <label>28.	</label>
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Luo</surname>
                             <given-names>J</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Borgens</surname>
                             <given-names>R</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Shi</surname>
                             <given-names>R</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Polyethylene glycol immediately repairs neuronal membranes and inhibits free radical production after acute spinal cord injury</article-title>. 
                     <source>J Neurochem</source>. 
@@ -1042,14 +941,14 @@
                 <label>29.	</label>
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Baptiste</surname>
                             <given-names>DC</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Fehlings</surname>
                             <given-names>MG</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Pharmacological approaches to repair the injured spinal cord</article-title>. 
                     <source>J Neurotrauma</source>. 
@@ -1068,21 +967,21 @@
                 <label>30.	</label>
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Bracken</surname>
                             <given-names>MB</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Holford</surname>
                             <given-names>TR</given-names>
 <<<<<<< HEAD
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Springer</surname>
                             <given-names>JE</given-names>
 =======
 >>>>>>> 5e53eb249a929cd91e911db639d261fbd1bd06d2
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Effects of timing of methylprednisolone or naloxone administration on recovery of segmental and long-tract neurological function in NASCIS 2</article-title>. 
                     <source>J Neurosurg</source>. 
@@ -1101,30 +1000,30 @@
                 <label>31.	</label>
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Bracken</surname>
                             <given-names>MB</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Shepard</surname>
                             <given-names>MJ</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Collins</surname>
                             <given-names>WF</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Holford</surname>
                             <given-names>TR</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Young</surname>
                             <given-names>W</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Baskin</surname>
                             <given-names>DS</given-names>
-                        </string-name>, 
+                        </name>, 
                         <etal>et al.</etal>
                     </person-group>
                     <article-title>A randomized, controlled trial of methylprednisolone or naloxone in the treatment of acute spinal-cord injury. Results of the Second National Acute Spinal Cord Injury Study</article-title>. 
@@ -1144,14 +1043,14 @@
                 <label>32.	</label>
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Bracken</surname>
                             <given-names>MB</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Holford</surname>
                             <given-names>TR</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Effects of timing of methylprednisolone or naloxone administration on recovery of segmental and long-tract neurological function in NASCIS 2</article-title>. 
                     <source>J Neurosurg</source>. 
@@ -1174,18 +1073,18 @@
                 <label>33.	</label>
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Bracken</surname>
                             <given-names>MB</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Shepard</surname>
                             <given-names>MJ</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Holford</surname>
                             <given-names>TR</given-names>
-                        </string-name>, 
+                        </name>, 
 <<<<<<< HEAD
                         <etal>et al.</etal>
                     </person-group>
@@ -1198,10 +1097,10 @@
                     <issn>0163-7258</issn>
                 </mixed-citation>
 =======
-                        <string-name>
+                        <name>
                             <surname>Leo-Summers</surname>
                             <given-names>L</given-names>
-                        </string-name>                     
+                        </name>                     
                     </person-group>
                     <article-title>Administration of methylprednisolone for 24 or 48 hours or tirilazad mesylate for 48 hours in the treatment of acute spinal cord injury. Results of the Third National Acute Spinal Cord Injury Randomized Controlled Trial. National Acute Spinal Cord Injury Study </article-title>.
                     <source>Jama</source>. 
@@ -1217,30 +1116,30 @@
                 <label>34.	</label>
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Evaniew</surname>
                             <given-names>N</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Noonan</surname>
                             <given-names>VK</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Fallah</surname>
                             <given-names>N</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Kwon</surname>
                             <given-names>BK</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Rivers</surname>
                             <given-names>CS</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Ahn</surname>
                             <given-names>H</given-names>
-                        </string-name>, 
+                        </name>, 
                         <etal>et al.</etal>; 
                         <collab>RHSCIR Network</collab>
                     </person-group>. 
@@ -1261,18 +1160,18 @@
                 <label>35.	</label>
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Fehlings</surname>
                             <given-names>MG</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Wilson</surname>
                             <given-names>JR</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Cho</surname>
                             <given-names>N</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Methylprednisolone for the treatment of acute spinal cord injury: counterpoint</article-title>. 
                     <source>Neurosurgery</source>. 
@@ -1295,18 +1194,18 @@
                 <label>36.	</label>
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Druschel</surname>
                             <given-names>C</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Schaser</surname>
                             <given-names>KD</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Schwab</surname>
                             <given-names>JM</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Current practice of methylprednisolone administration for acute spinal cord injury in Germany: a national survey</article-title>. 
                     <source>Spine</source>. 
@@ -1325,18 +1224,18 @@
                 <label>37.	</label>
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Nagoshi</surname>
                             <given-names>N</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Nakashima</surname>
                             <given-names>H</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Fehlings</surname>
                             <given-names>MG</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Riluzole as a neuroprotective drug for spinal cord injury: from bench to bedside</article-title>. 
                     <source>Molecules</source>. 
@@ -1355,22 +1254,22 @@
                 <label>38.	</label>
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Popovich</surname>
                             <given-names>PG</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Lemeshow</surname>
                             <given-names>S</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Gensel</surname>
                             <given-names>JC</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Tovar</surname>
                             <given-names>CA</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Independent evaluation of the effects of glibenclamide on reducing progressive hemorrhagic necrosis after cervical spinal cord injury</article-title>. 
                     <source>Exp Neurol</source>. 
@@ -1389,30 +1288,30 @@
                 <label>39.	</label>
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Simard</surname>
                             <given-names>JM</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Tsymbalyuk</surname>
                             <given-names>O</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Keledjian</surname>
                             <given-names>K</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Ivanov</surname>
                             <given-names>A</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Ivanova</surname>
                             <given-names>S</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Gerzanich</surname>
                             <given-names>V</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Comparative effects of glibenclamide and riluzole in a rat model of severe cervical spinal cord injury</article-title>. 
                     <source>Exp Neurol</source>. 
@@ -1431,30 +1330,30 @@
                 <label>40.	</label>
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Hosier</surname>
                             <given-names>H</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Peterson</surname>
                             <given-names>D</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Tsymbalyuk</surname>
                             <given-names>O</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Keledjian</surname>
                             <given-names>K</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Smith</surname>
                             <given-names>BR</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Ivanova</surname>
                             <given-names>S</given-names>
-                        </string-name>, 
+                        </name>, 
                         <etal>et al.</etal>
                     </person-group>
                     <article-title>A Direct Comparison of Three Clinically Relevant Treatments in a Rat Model of Cervical Spinal Cord Injury</article-title>. 
@@ -1474,30 +1373,30 @@
                 <label>41.	</label>
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Kurland</surname>
                             <given-names>DB</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Tosun</surname>
                             <given-names>C</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Pampori</surname>
                             <given-names>A</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Karimy</surname>
                             <given-names>JK</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Caffes</surname>
                             <given-names>NM</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Gerzanich</surname>
                             <given-names>V</given-names>
-                        </string-name>, 
+                        </name>, 
                         <etal>et al.</etal>
                     </person-group>
                     <article-title>Glibenclamide for the treatment of acute CNS injury</article-title>. 
@@ -1517,30 +1416,30 @@
                 <label>42.	</label>
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Garbossa</surname>
                             <given-names>D</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Boido</surname>
                             <given-names>M</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Fontanella</surname>
                             <given-names>M</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Fronda</surname>
                             <given-names>C</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Ducati</surname>
                             <given-names>A</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Vercelli</surname>
                             <given-names>A</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Recent therapeutic strategies for spinal cord injury treatment: possible role of stem cells</article-title>. 
                     <source>Neurosurg Rev</source>. 
@@ -1559,18 +1458,18 @@
                 <label>43.	</label>
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Sabapathy</surname>
                             <given-names>V</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Tharion</surname>
                             <given-names>G</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Kumar</surname>
                             <given-names>S</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Cell Therapy Augments Functional Recovery Subsequent to Spinal Cord Injury under Experimental Conditions</article-title>. 
                     <source>Stem Cells Int</source>. 
@@ -1595,14 +1494,14 @@
                 <label>44. </label>
                 <mixed-citation publication-type="unknown" specific-use="unparsed">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Tso</surname>
                             <given-names>D</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>McKinnon</surname>
                             <given-names>RD</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
 <<<<<<< HEAD
                     <article-title>Cell replacement therapy for central nervous system diseases.</article-title> Neural Regen R Pearse DD, Bunge B. Designing cell- and gene-based regeneration strategies to repair the injured spinal cord. J Neurotraum 
@@ -1623,14 +1522,14 @@
                 <label>45.	</label>
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Pearse</surname>
                             <given-names>DD</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Bunge</surname>
                             <given-names>MB</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Designing cell- and gene-based regeneration strategies to repair the injured spinal cord</article-title>. 
                     <source>J Neurotrauma</source>. 
@@ -1649,18 +1548,18 @@
                 <label>46.	</label>
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Thuret</surname>
                             <given-names>S</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Moon</surname>
                             <given-names>LD</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Gage</surname>
                             <given-names>FH</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Therapeutic interventions after spinal cord injury</article-title>. 
                     <source>Nat Rev Neurosci</source>. 
@@ -1685,18 +1584,18 @@
                 <label>47.	</label>
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Li</surname>
                             <given-names>Y</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Decherchi</surname>
                             <given-names>P</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Raisman</surname>
                             <given-names>G</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Transplantation of olfactory ensheathing cells into spinal cord lesions restores breathing and climbing</article-title>. 
                     <source>J Neurosci</source>. 
@@ -1715,30 +1614,30 @@
                 <label>48.	</label>
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Papastefanaki</surname>
                             <given-names>F</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Chen</surname>
                             <given-names>J</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Lavdas</surname>
                             <given-names>AA</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Thomaidou</surname>
                             <given-names>D</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Schachner</surname>
                             <given-names>M</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Matsas</surname>
                             <given-names>R</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Grafts of Schwann cells engineered to express PSA-NCAM promote functional recovery after spinal cord injury</article-title>. 
                     <source>Brain</source>. 
@@ -1757,22 +1656,22 @@
                 <label>49.	</label>
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Dalamagkas</surname>
                             <given-names>K</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Tsintou</surname>
                             <given-names>M</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Seifalian</surname>
                             <given-names>A</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Seifalian</surname>
                             <given-names>AM</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Translational Regenerative Therapies for Chronic Spinal Cord Injury</article-title>. 
                     <source>Int J Mol Sci</source>. 
@@ -1790,22 +1689,22 @@
                 <label>50.	</label>
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Ayala-Cuellar</surname>
                             <given-names>AP</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Kang</surname>
                             <given-names>JH</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Jeung</surname>
                             <given-names>EB</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Choi</surname>
                             <given-names>KC</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Roles of Mesenchymal Stem Cells in Tissue Regeneration and Immunomodulation</article-title>. 
                     <source>Biomol Ther (Seoul)</source>. 
@@ -1824,30 +1723,30 @@
                 <label>51.	</label>
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Saito</surname>
                             <given-names>F</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Nakatani</surname>
                             <given-names>T</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Iwase</surname>
                             <given-names>M</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Maeda</surname>
                             <given-names>Y</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Murao</surname>
                             <given-names>Y</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Suzuki</surname>
                             <given-names>Y</given-names>
-                        </string-name>, 
+                        </name>, 
                         <etal>et al.</etal>
                     </person-group>
                     <article-title>Administration of cultured autologous bone marrow stromal cells into cerebrospinal fluid in spinal injury patients: a pilot study</article-title>. 
@@ -1865,30 +1764,30 @@
                 <label>52.	</label>
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Mendonça</surname>
                             <given-names>MV</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Larocca</surname>
                             <given-names>TF</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>de Freitas Souza</surname>
                             <given-names>BS</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Villarreal</surname>
                             <given-names>CF</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Silva</surname>
                             <given-names>LF</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Matos</surname>
                             <given-names>AC</given-names>
-                        </string-name>, 
+                        </name>, 
                         <etal>et al.</etal>
                     </person-group>
                     <article-title>Safety and neurological assessments after autologous transplantation of bone marrow mesenchymal stem cells in subjects with chronic spinal cord injury</article-title>. 
@@ -1907,30 +1806,30 @@
                 <label>53.	</label>
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Oraee-Yazdani</surname>
                             <given-names>S</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Hafizi</surname>
                             <given-names>M</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Atashi</surname>
                             <given-names>A</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Ashrafi</surname>
                             <given-names>F</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Seddighi</surname>
                             <given-names>AS</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Hashemi</surname>
                             <given-names>SM</given-names>
-                        </string-name>, 
+                        </name>, 
                         <etal>et al.</etal>
                     </person-group>
                     <article-title>Co-transplantation of autologous bone marrow mesenchymal stem cells and Schwann cells through cerebral spinal fluid for the treatment of patients with chronic spinal cord injury: safety and possible outcome</article-title>. 
@@ -1950,22 +1849,22 @@
                 <label>54.	</label>
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Karamouzian</surname>
                             <given-names>S</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Nematollahi-Mahani</surname>
                             <given-names>SN</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Nakhaee</surname>
                             <given-names>N</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Eskandary</surname>
                             <given-names>H</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Clinical safety and primary efficacy of bone marrow mesenchymal cell transplantation in subacute spinal cord injured patients</article-title>. 
                     <source>Clin Neurol Neurosurg</source>. 
@@ -1984,49 +1883,49 @@
                 <label>55. </label>
                 <mixed-citation publication-type="unknown" specific-use="linked">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Gao</surname>
                             <given-names>F</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Chiu</surname>
                             <given-names>SM</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Motan</surname>
                             <given-names>DA</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Zhang</surname>
                             <given-names>Z</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Chen</surname>
                             <given-names>L</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Ji</surname>
                             <given-names>HL</given-names>
-                        </string-name>, 
+                        </name>, 
 <<<<<<< HEAD
-                        <string-name>
+                        <name>
                             <surname>Tse</surname>
                             <given-names>HF</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Fu</surname>
                             <given-names>QL</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Lian</surname>
                             <given-names>Q</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Mesenchymal stem cells and immunomodulation: current status and future prospects.</article-title> Cell Death Dis. 2016https://doi.org/
                     <pub-id pub-id-type="doi">10.1038/cddis.2015.327</pub-id>.. Review. PubMed PMID: 26794657; PubMed Central PMCID: PMC4816164.
                 </mixed-citation>
 =======
-                        </string-name>, 
+                        </name>, 
                         <etal>et al.</etal>
                         </person-group>. 
                     <article-title>Mesenchymal stem cells and immunomodulation: current status and future prospects</article-title>.
@@ -2041,30 +1940,30 @@
                 <label>56. </label>
                 <mixed-citation publication-type="unknown" specific-use="linked">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Ma</surname>
                             <given-names>S</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Xie</surname>
                             <given-names>N</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Li</surname>
                             <given-names>W</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Yuan</surname>
                             <given-names>B</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Shi</surname>
                             <given-names>Y</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Wang</surname>
                             <given-names>Y</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
 <<<<<<< HEAD
                     <article-title>Immunobiology of mesenchymal stem cells.</article-title> Cell Death Differ. 2014https://doi.org/
@@ -2087,30 +1986,30 @@
                 <label>57.	</label>
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Vaquero</surname>
                             <given-names>J</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Zurita</surname>
                             <given-names>M</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Rico</surname>
                             <given-names>MA</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Bonilla</surname>
                             <given-names>C</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Aguayo</surname>
                             <given-names>C</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Fernández</surname>
                             <given-names>C</given-names>
-                        </string-name>, 
+                        </name>, 
                         <etal>et al.</etal>; 
                         <collab>Neurological Cell Therapy Group</collab>
                     </person-group>. 
@@ -2148,14 +2047,14 @@
                 <label>59.	</label>
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Vaquero</surname>
                             <given-names>J</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Zurita</surname>
                             <given-names>M</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Cell transplantation in paraplegic patients: the importance of properly assessing the spinal cord morphology</article-title>. 
                     <source>Clin Transplant</source>. 
@@ -2174,10 +2073,10 @@
                 <label>60.	</label>
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Polderman</surname>
                             <given-names>KH</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Mechanisms of action, physiological effects, and complications of hypothermia</article-title>. 
                     <source>Crit Care Med</source>. 
@@ -2197,22 +2096,22 @@
                 <label>61.	</label>
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Dietrich</surname>
                             <given-names>WD</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Levi</surname>
                             <given-names>AD</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Wang</surname>
                             <given-names>M</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Green</surname>
                             <given-names>BA</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Hypothermic treatment for acute spinal cord injury</article-title>. 
                     <source>Neurotherapeutics</source>. 
@@ -2231,31 +2130,31 @@
                 <label>62.	</label>
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Lo</surname>
                             <given-names>TP</given-names>
                             <suffix>Jr</suffix>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Cho</surname>
                             <given-names>KS</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Garg</surname>
                             <given-names>MS</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Lynch</surname>
                             <given-names>MP</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Marcillo</surname>
                             <given-names>AE</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Koivisto</surname>
                             <given-names>DL</given-names>
-                        </string-name>, 
+                        </name>, 
                         <etal>et al.</etal>
                     </person-group>
                     <article-title>Systemic hypothermia improves histological and functional outcome after cervical spinal cord contusion in rats</article-title>. 
@@ -2275,30 +2174,30 @@
                 <label>63.	</label>
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Hosier</surname>
                             <given-names>H</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Peterson</surname>
                             <given-names>D</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Tsymbalyuk</surname>
                             <given-names>O</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Keledjian</surname>
                             <given-names>K</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Smith</surname>
                             <given-names>BR</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Ivanova</surname>
                             <given-names>S</given-names>
-                        </string-name>, 
+                        </name>, 
                         <etal>et al.</etal>
                     </person-group>
                     <article-title>A Direct Comparison of Three Clinically Relevant Treatments in a Rat Model of Cervical Spinal Cord Injury</article-title>. 
@@ -2324,30 +2223,30 @@
                 <label>64.	</label>
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Levi</surname>
                             <given-names>AD</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Casella</surname>
                             <given-names>G</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Green</surname>
                             <given-names>BA</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Dietrich</surname>
                             <given-names>WD</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Vanni</surname>
                             <given-names>S</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Jagid</surname>
                             <given-names>J</given-names>
-                        </string-name>, 
+                        </name>, 
                         <etal>et al.</etal>
                     </person-group>
                     <article-title>Clinical outcomes using modest intravascular hypothermia after acute cervical spinal cord injury</article-title>. 
@@ -2367,30 +2266,30 @@
                 <label>65.	</label>
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Dididze</surname>
                             <given-names>M</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Green</surname>
                             <given-names>BA</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Dietrich</surname>
                             <given-names>WD</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Vanni</surname>
                             <given-names>S</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Wang</surname>
                             <given-names>MY</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Levi</surname>
                             <given-names>AD</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Systemic hypothermia in acute cervical spinal cord injury: a case-controlled study</article-title>. 
                     <source>Spinal Cord</source>. 
@@ -2409,30 +2308,30 @@
                 <label>66.	</label>
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Batchelor</surname>
                             <given-names>PE</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Wills</surname>
                             <given-names>TE</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Skeers</surname>
                             <given-names>P</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Battistuzzo</surname>
                             <given-names>CR</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Macleod</surname>
                             <given-names>MR</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Howells</surname>
                             <given-names>DW</given-names>
-                        </string-name>, 
+                        </name>, 
                         <etal>et al.</etal>
                     </person-group>
                     <article-title>Meta-analysis of pre-clinical studies of early decompression in acute spinal cord injury: a battle of time and pressure</article-title>. 
@@ -2451,30 +2350,30 @@
                 <label>67.	</label>
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Antonic</surname>
                             <given-names>A</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Dottori</surname>
                             <given-names>M</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Leung</surname>
                             <given-names>J</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Sidon</surname>
                             <given-names>K</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Batchelor</surname>
                             <given-names>PE</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Wilson</surname>
                             <given-names>W</given-names>
-                        </string-name>, 
+                        </name>, 
                         <etal>et al.</etal>
                     </person-group>
                     <article-title>Hypothermia protects human neurons</article-title>. 
@@ -2507,10 +2406,10 @@
                 <label>69.	</label>
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Gerecht</surname>
                             <given-names>R</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>The lethal triad. Hypothermia, acidosis &amp; coagulopathy create a deadly cycle for trauma patients</article-title>. 
                     <source>JEMS</source>. 
@@ -2528,14 +2427,14 @@
                 <label>70.	</label>
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Varon</surname>
                             <given-names>J</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Acosta</surname>
                             <given-names>P</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Therapeutic hypothermia: past, present, and future</article-title>. 
                     <source>Chest</source>. 
@@ -2554,14 +2453,14 @@
                 <label>71.	</label>
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Hansebout</surname>
                             <given-names>RR</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Hansebout</surname>
                             <given-names>CR</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Local cooling for traumatic spinal cord injury: outcomes in 20 patients and review of the literature</article-title>. 
                     <source>J Neurosurg Spine</source>. 
@@ -2580,14 +2479,14 @@
                 <label>72.	</label>
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Alkabie</surname>
                             <given-names>S</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Boileau</surname>
                             <given-names>AJ</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>The role of therapeutic hypothermia after traumatic spinal cord injury-a systematic review</article-title>. 
                     <source>World Neurosurg</source>. 
@@ -2613,30 +2512,30 @@
                 <label>73.	</label>
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Huang</surname>
                             <given-names>WL</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>King</surname>
                             <given-names>VR</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Curran</surname>
                             <given-names>OE</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Dyall</surname>
                             <given-names>SC</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Ward</surname>
                             <given-names>RE</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Lal</surname>
                             <given-names>N</given-names>
-                        </string-name>, 
+                        </name>, 
                         <etal>et al.</etal>
                     </person-group>
                     <article-title>A combination of intravenous and dietary docosahexaenoic acid significantly improves outcome after spinal cord injury</article-title>. 
@@ -2656,26 +2555,26 @@
                 <label>74.	</label>
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Lim</surname>
                             <given-names>SN</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Huang</surname>
                             <given-names>W</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Hall</surname>
                             <given-names>JC</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Michael-Titus</surname>
                             <given-names>AT</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Priestley</surname>
                             <given-names>JV</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Improved outcome after spinal cord compression injury in mice treated with docosahexaenoic acid</article-title>. 
                     <source>Exp Neurol</source>. 
@@ -2697,30 +2596,30 @@
                 <label>75.	</label>
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Streijger</surname>
                             <given-names>F</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Plunet</surname>
                             <given-names>WT</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Lee</surname>
                             <given-names>JH</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Liu</surname>
                             <given-names>J</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Lam</surname>
                             <given-names>CK</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Park</surname>
                             <given-names>S</given-names>
-                        </string-name>, 
+                        </name>, 
                         <etal>et al.</etal>
                     </person-group>
                     <article-title>Ketogenic diet improves forelimb motor function after spinal cord injury in rodents</article-title>. 
@@ -2739,30 +2638,30 @@
                 <label>76.	</label>
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Jeong</surname>
                             <given-names>MA</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Plunet</surname>
                             <given-names>W</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Streijger</surname>
                             <given-names>F</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Lee</surname>
                             <given-names>JH</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Plemel</surname>
                             <given-names>JR</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Park</surname>
                             <given-names>S</given-names>
-                        </string-name>, 
+                        </name>, 
                         <etal>et al.</etal>
                     </person-group>
                     <article-title>Intermittent fasting improves functional recovery after rat thoracic contusion spinal cord injury</article-title>. 
@@ -2782,18 +2681,18 @@
                 <label>77.	</label>
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Rabchevsky</surname>
                             <given-names>AG</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Patel</surname>
                             <given-names>SP</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Springer</surname>
                             <given-names>JE</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Pharmacological interventions for spinal cord injury: where do we stand? How might we step forward?</article-title>
                     <source>Pharmacol Ther</source>. 
@@ -2812,30 +2711,30 @@
                 <label>78.	</label>
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Carlson</surname>
                             <given-names>GD</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Minato</surname>
                             <given-names>Y</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Okada</surname>
                             <given-names>A</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Gorden</surname>
                             <given-names>CD</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Warden</surname>
                             <given-names>KE</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Barbeau</surname>
                             <given-names>JM</given-names>
-                        </string-name>, 
+                        </name>, 
                         <etal>et al.</etal>
                     </person-group>
                     <article-title>Early time-dependent decompression for spinal cord injury: vascular mechanisms of recovery</article-title>. 
@@ -2855,30 +2754,30 @@
                 <label>79.	</label>
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Carlson</surname>
                             <given-names>GD</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Warden</surname>
                             <given-names>KE</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Barbeau</surname>
                             <given-names>JM</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Bahniuk</surname>
                             <given-names>E</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Kutina-Nelson</surname>
                             <given-names>KL</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Biro</surname>
                             <given-names>CL</given-names>
-                        </string-name>, 
+                        </name>, 
                         <etal>et al.</etal>
                     </person-group>
                     <article-title>Viscoelastic relaxation and regional blood flow response to spinal cord compression and decompression</article-title>. 
@@ -2896,29 +2795,29 @@
             </ref>
             <ref id="b80">
                 <label>80.	</label>
-                <mixed-citation publication-type="journal" specific-use="restruct">
+                <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Dimar</surname>
                             <given-names>JR</given-names>
                             <suffix>2nd</suffix>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Glassman</surname>
                             <given-names>SD</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Raque</surname>
                             <given-names>GH</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Zhang</surname>
                             <given-names>YP</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Shields</surname>
                             <given-names>CB</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>The influence of spinal canal narrowing and timing of decompression on neurologic recovery after spinal cord contusion in a rat model</article-title>. 
                     <source>Spine</source>. 
@@ -2937,22 +2836,22 @@
                 <label>81.	</label>
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Furlan</surname>
                             <given-names>JC</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Noonan</surname>
                             <given-names>V</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Cadotte</surname>
                             <given-names>DW</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Fehlings</surname>
                             <given-names>MG</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Timing of decompressive surgery of spinal cord after traumatic spinal cord injury: an evidence-based examination of pre-clinical and clinical studies</article-title>. 
                     <source>J Neurotrauma</source>. 
@@ -2971,30 +2870,30 @@
                 <label>82.	</label>
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Pointillart</surname>
                             <given-names>V</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Petitjean</surname>
                             <given-names>ME</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Wiart</surname>
                             <given-names>L</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Vital</surname>
                             <given-names>JM</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Lassié</surname>
                             <given-names>P</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Thicoipé</surname>
                             <given-names>M</given-names>
-                        </string-name>, 
+                        </name>, 
                         <etal>et al.</etal>
                     </person-group>
                     <article-title>Pharmacological therapy of spinal cord injury during the acute phase</article-title>. 
@@ -3014,18 +2913,18 @@
                 <label>83.	</label>
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>van Middendorp</surname>
                             <given-names>JJ</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Hosman</surname>
                             <given-names>AJ</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Doi</surname>
                             <given-names>SA</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>The effects of the timing of spinal surgery after traumatic spinal cord injury: a systematic review and meta-analysis</article-title>. 
                     <source>J Neurotrauma</source>. 
@@ -3044,30 +2943,30 @@
                 <label>84.	</label>
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Fehlings</surname>
                             <given-names>MG</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Vaccaro</surname>
                             <given-names>A</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Wilson</surname>
                             <given-names>JR</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Singh</surname>
                             <given-names>A</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>W Cadotte</surname>
                             <given-names>D</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Harrop</surname>
                             <given-names>JS</given-names>
-                        </string-name>, 
+                        </name>, 
                         <etal>et al.</etal>
                     </person-group>
                     <article-title>Early versus delayed decompression for traumatic cervical spinal cord injury: results of the Surgical Timing in Acute Spinal Cord Injury Study (STASCIS)</article-title>. 
@@ -3085,30 +2984,30 @@
                 <label>85.	</label>
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Wilson</surname>
                             <given-names>JR</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Singh</surname>
                             <given-names>A</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Craven</surname>
                             <given-names>C</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Verrier</surname>
                             <given-names>MC</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Drew</surname>
                             <given-names>B</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Ahn</surname>
                             <given-names>H</given-names>
-                        </string-name>, 
+                        </name>, 
                         <etal>et al.</etal>
                     </person-group>
                     <article-title>Early versus late surgery for traumatic spinal cord injury: the results of a prospective Canadian cohort study</article-title>. 
@@ -3128,37 +3027,33 @@
                 <label>86.	</label>
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Wilson</surname>
                             <given-names>JR</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>BSc</surname>
                             <given-names>LT</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Aarabi</surname>
                             <given-names>B</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Anderson</surname>
                             <given-names>PA</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Arnold</surname>
                             <given-names>PM</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Brodke</surname>
                             <given-names>DS</given-names>
-                        </string-name>, 
+                        </name>, 
                         <etal>et al.</etal>
                     </person-group>
-<<<<<<< HEAD
-                    <article-title>BSc LT, Aarabi B, Anderson PA, Arnold PM, Brodke DS, Burns A, Chen R, Chiba K, Dettori J, Furlan JC, Harrop JS, Holly LT, Jeji T, Kalsi-Ryan S,Kotter M, Kurpad SN, Kwon BK, Marino R, Martin AR, Massicotte EM, Merli G, Middleton J, Nakashima H, Nagoshi N, Palmieri K, Shamji MF, Singh A, Skelly A, Yee A, Fehlings M. 181 Guidelines for the Management of Patients With Spinal Cord Injury: The Optimal Timing of Decompression</article-title>. 
-=======
-                    <article-title> 181 Guidelines for the Management of Patients With Spinal Cord Injury: The Optimal Timing of Decompression</article-title>. 
->>>>>>> 5e53eb249a929cd91e911db639d261fbd1bd06d2
+                    <article-title>181 Guidelines for the Management of Patients With Spinal Cord Injury: The Optimal Timing of Decompression</article-title>. 
                     <source>Neurosurgery</source>. 
                     <year>2016</year>
                     <month>Aug</month>;
@@ -3166,41 +3061,37 @@
                     <supplement>Suppl 1</supplement>:
                     <fpage>172</fpage>. 
                     <pub-id pub-id-type="doi">10.1227/01.neu.0000489750.82285.7f</pub-id>
-<<<<<<< HEAD
-                    <issn>0148-396X</issn>
-=======
                     <issn>0148-396X</issn>                     
->>>>>>> 5e53eb249a929cd91e911db639d261fbd1bd06d2
                 </mixed-citation>
             </ref>
             <ref id="b87">
                 <label>87.	</label>
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Jug</surname>
                             <given-names>M</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Kejžar</surname>
                             <given-names>N</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Vesel</surname>
                             <given-names>M</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Al Mawed</surname>
                             <given-names>S</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Dobravec</surname>
                             <given-names>M</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Herman</surname>
                             <given-names>S</given-names>
-                        </string-name>, 
+                        </name>, 
                         <etal>et al.</etal>
                     </person-group>
                     <article-title>Neurological Recovery after Traumatic Cervical Spinal Cord Injury Is Superior if Surgical Decompression and Instrumented Fusion Are Performed within 8 Hours versus 8 to 24 Hours after Injury: A Single Center Experience</article-title>. 
@@ -3220,30 +3111,30 @@
                 <label>88.	</label>
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Grassner</surname>
                             <given-names>L</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Wutte</surname>
                             <given-names>C</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Klein</surname>
                             <given-names>B</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Mach</surname>
                             <given-names>O</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Riesner</surname>
                             <given-names>S</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Panzer</surname>
                             <given-names>S</given-names>
-                        </string-name>, 
+                        </name>, 
                         <etal>et al.</etal>
                     </person-group>
                     <article-title>Early Decompression (&lt; 8 h) after Traumatic Cervical Spinal Cord Injury Improves Functional Outcome as Assessed by Spinal Cord Independence Measure after One Year</article-title>. 
@@ -3263,18 +3154,18 @@
                 <label>89.	</label>
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Saadoun</surname>
                             <given-names>S</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Chen</surname>
                             <given-names>S</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Papadopoulos</surname>
                             <given-names>MC</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Intraspinal pressure and spinal cord perfusion pressure predict neurological outcome after traumatic spinal cord injury</article-title>. 
                     <source>J Neurol Neurosurg Psychiatry</source>. 
@@ -3293,22 +3184,22 @@
                 <label>90.	</label>
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Phang</surname>
                             <given-names>I</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Zoumprouli</surname>
                             <given-names>A</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Saadoun</surname>
                             <given-names>S</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Papadopoulos</surname>
                             <given-names>MC</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Safety profile and probe placement accuracy of intraspinal pressure monitoring for traumatic spinal cord injury: Injured Spinal Cord Pressure Evaluation study</article-title>. 
                     <source>J Neurosurg Spine</source>. 
@@ -3327,30 +3218,30 @@
                 <label>91.	</label>
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Phang</surname>
                             <given-names>I</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Werndle</surname>
                             <given-names>MC</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Saadoun</surname>
                             <given-names>S</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Varsos</surname>
                             <given-names>G</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Czosnyka</surname>
                             <given-names>M</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Zoumprouli</surname>
                             <given-names>A</given-names>
-                        </string-name>, 
+                        </name>, 
                         <etal>et al.</etal>
                     </person-group>
                     <article-title>Expansion duroplasty improves intraspinal pressure, spinal cord perfusion pressure, and vascular pressure reactivity index in patients with traumatic spinal cord injury: injured spinal cord pressure evaluation study</article-title>. 
