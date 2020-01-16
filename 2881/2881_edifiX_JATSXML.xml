@@ -156,14 +156,16 @@
             <ref id="b4">
                 <label>4.	</label>
                 <mixed-citation publication-type="web-page">
-                    <article-title>Kazalniki bolniškega staleža po spolu, starosti in skupinah bolezni za leto</article-title>
-                    <year>2016</year>, NIJZ podatkovni portal. Available from: 
+                    <article-title>Kazalniki bolniškega staleža po spolu, starosti in skupinah bolezni za leto</article-title>.
+                    <year>2016</year>. 
+                    <comment>Available from</comment>: 
                     <ext-link ext-link-type="uri" xlink:href="https://podatki.nijz.si">https://podatki.nijz.si</ext-link>
+                    <date-in-citation content-type="access-date">cited 2018 Nov 1</date-in-citation>] 
                 </mixed-citation>
             </ref>
             <ref id="b5">
                 <label>5.	</label>
-                <mixed-citation publication-type="other">
+                <mixed-citation publication-type="web-page">
                     <person-group person-group-type="author">
                         <>
                             <surname>Bigos</surname>
@@ -179,8 +181,15 @@
                         </>, 
                         <etal>et al.</etal>
                     </person-group>
-                    <article-title>Acute low back problems in adults.</article-title> Clinical Practice Guideline No. 14. AHCPR Publication No. 95-0642. Rockville, Maryland: Agency for Health Care Policy and Research, Public Health Service, US Department of Health and Human Services; 
-                    <year>1994</year>.
+                    <article-title>Acute low back problems in adults. Clinical Practice Guideline No. 14. AHCPR Publication No. 95-0642 </article-title>. 
+                    <publisher-loc>Rockville, Maryland</publisher-loc>:
+                    <publisher-name>Agency for Health Care Policy and Research, Public Health Service, US Department of Health and Human Services</publisher-name>;
+                    <comment>Available from</comment>: 
+                    <ext-link ext-link-type="uri" xlink:href="https://chiro.org/LINKS/GUIDELINES/Acute_Lower_Back_Problems_in_Adults.html">https://chiro.org/LINKS/GUIDELINES/Acute_Lower_Back_Problems_in_Adults.html</ext-link>
+                    <date-in-citation content-type="copyright-year"
+                    iso-8601-date="1994">1994</date-in-citation>.
+                    <date-in-citation content-type="access-date"
+                    iso-8601-date="2018-02-22">cited 2018 Feb 22</date-in-citation>                   
                 </mixed-citation>
             </ref>
             <ref id="b6">
@@ -333,8 +342,13 @@
                             <surname>Pavlovčič</surname>
                             <given-names>V.</given-names>
                         </>
-                    </person-group> Ortopedija. Ljubljana: samozaložba; 
-                    <year>2006</year>: 257- 282
+                    </person-group> 
+                    <source>Ortopedija</source>. 
+                    <publisher-loc>Ljubljana</publisher-loc>:
+                    <publisher-name>samozaložba</publisher-name>;                     
+                    <year>2006</year>.
+                    <fpage>256</fpage>–
+                    <lpage>82</lpage>. 
                 </mixed-citation>
             </ref>
             <ref id="b11">
@@ -509,21 +523,39 @@
                             <given-names>V</given-names>
                         </> 
                     </person-group>. 
-                    <chapter-title>Računalniška in magnetnoresonančna tomografija pri bolečini v križu.</chapter-title> In: Antolič V., ed. XXVI Ortopedski dnevi: Hrbtenica, klinične poti zdravljenja. Ljubljana: Ortopedska klinika UKC Ljubljana. 
-                    <year>2009</year>: 25-27.
+                    <article-title>Računalniška in magnetnoresonančna tomografija pri bolečini v križu </article-title>.
+                    <person-group person-group-type="editor">
+                        
+                        <name>
+                            <surname>Antolič</surname>
+                            <given-names>C</given-names>
+                        </name>.                          
+                        <role>editors</role>
+                    </person-group>.
+                    <conf-name>XXVI Ortopedski dnevi: Hrbtenica, klinične poti zdravljenja</conf-name>.                   
+                    <publisher-loc>Ljubljana</publisher-loc>:
+                    <publisher-name>Ortopedska klinika UKC Ljubljana</publisher-name>;
+                    <year>2009</year>.
+                    <fpage>25</fpage>-
+                    <lpage>7</lpage>.    
                 </mixed-citation>
             </ref>
             <ref id="b17">
                 <label>17.	</label>
-                <mixed-citation publication-type="book-chapter">
+                <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <>
                             <surname>Jevtič</surname>
                             <given-names>V</given-names>
                         </>
                     </person-group>. 
-                    <chapter-title>Uporabnost računalniškotomografskih in magnetnoresonančnih preiskav v diagnostiki bolečine v križu.</chapter-title>In: Marinček Č, ed. Rehabilitacija - let. IV, št 3-4. Ljubljana. Inštitut Republike Slovenije za rehabilitacijo Ljubljana; 
-                    <year>2005</year>: 20-25.
+                    <article-title>Uporabnost računalniškotomografskih in magnetnoresonančnih preiskav v diagnostiki bolečine v križu.</article-title>
+                    <source>Rehabilitacija</source>.
+                    <year>2005</year>
+                    <volume>4</volume>(
+                    <issue>3-4</issue>):
+                    <fpage>20</fpage>–
+                    <lpage>5</lpage>. 
                 </mixed-citation>
             </ref>
             <ref id="b18">
@@ -532,7 +564,8 @@
                     <person-group person-group-type="author">
                         <collab>European commission</collab>
                     </person-group>. Radiation protection 118, Update Mars 2008. Referral Guidelines for Imaging. 
-                    <year>2007</year>. Available from: 
+                    <year>2007</year>. 
+                    <comment>Available from</comment>: 
                     <ext-link ext-link-type="uri" xlink:href="http://www.mlsi.gov.cy/mlsi/dli/dliup.nsf/All/815A41AAFA78D0D1C2257E29004188B9/$file/RP118.pdf">http://www.mlsi.gov.cy/mlsi/dli/dliup.nsf/All/815A41AAFA78D0D1C2257E29004188B9/$file/RP118.pdf</ext-link>
                 </mixed-citation>
             </ref>
@@ -751,15 +784,23 @@
             </ref>
             <ref id="b25">
                 <label>25.	</label>
-                <mixed-citation publication-type="web-page">Zakon o varstvu pred ionizirajočimi sevanji in jedrski varnosti (ZVISJV-1). Ur list št. 76/
-                    <year>2017</year>. Available from: 
+                <mixed-citation publication-type="web-page">
+                    <article-title>Zakon o varstvu pred ionizirajočimi sevanji in jedrski varnosti (ZVISJV-1)</article-title>. 
+                    <source>Ur list RS</source>.
+                    <issue>76</issue>
+                    <year>2017</year>. 
+                    <comment>Available from</comment>: 
                     <ext-link ext-link-type="uri" xlink:href="https://www.uradni-list.si/1/objava.jsp?sop=2017-01-3698">https://www.uradni-list.si/1/objava.jsp?sop=2017-01-3698</ext-link>
                 </mixed-citation>
             </ref>
             <ref id="b26">
                 <label>26.	</label>
-                <mixed-citation publication-type="web-page">Zakon o pacientovih pravicah (ZPacP). Ur list št. 15/
-                    <year>2008</year>. Available from: 
+                <mixed-citation publication-type="web-page">
+                 <article-title>Zakon o pacientovih pravicah (ZPacP)</article-title>. 
+                    <source>Ur list RS</source>.
+                    <issue>15</issue>
+                    <year>2008</year>. 
+                    <comment>Available from</comment>:                     
                     <ext-link ext-link-type="uri" xlink:href="https://www.uradni-list.si/1/objava.jsp?sop=2008-01-0455">https://www.uradni-list.si/1/objava.jsp?sop=2008-01-0455</ext-link>
                 </mixed-citation>
             </ref>
@@ -880,7 +921,12 @@
             </ref>
             <ref id="b30">
                 <label>30.	</label>
-                <mixed-citation publication-type="web-page">Navodilo o beleženju in obračunavanju zdravstvenih storitev in izdanih materialov. Zavod za zdravstveno zavarovanje Slovenije. Available from: 
+                <mixed-citation publication-type="web-page">
+                    <article-title>Navodilo o beleženju in obračunavanju zdravstvenih storitev in izdanih materialov</article-title>. 
+                    <source>Ur list RS</source>.
+                    <issue>15</issue>
+                    <year>2008</year>. 
+                    <comment>Available from</comment>: 
                     <ext-link ext-link-type="uri" xlink:href="https://partner.zzzs.si/wps/portal/portali/aizv/belezenje_obracun_zdr_storitev_izd.materialov_okroznice_zae">https://partner.zzzs.si/wps/portal/portali/aizv/belezenje_obracun_zdr_storitev_izd.materialov_okroznice_zae</ext-link>
                 </mixed-citation>
             </ref>
