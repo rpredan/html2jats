@@ -1,4 +1,4 @@
-<article-meta>
+<article-meta> 
     <custom-meta-group>
         <custom-meta>
             <meta-name>TotalReferences</meta-name>
@@ -101,7 +101,9 @@
             <meta-value>ICMJE-WHO</meta-value>
         </custom-meta>
     </custom-meta-group>
+
 </article-meta>
+
 <back>
 <ref-list>
     <ref id="b1">
@@ -4386,9 +4388,7 @@
                     <pub-id pub-id-type="doi">10.1016/j.fsigen.2018.11.008</pub-id>
                     <pub-id pub-id-type="pmid">30469017</pub-id>
                     <issn>1872-4973</issn>
-                    <annotation>
-                        <p content-type="warning">Edifix has not found an issue number in the journal reference. Please check the volume/issue information. (Ref. 75 "Parsons, Huel, Bajunović, Rizvić, 2019")</p>
-                    </annotation>
+                    
                 </mixed-citation>
             </ref>
             <ref id="b76">
@@ -4586,9 +4586,7 @@
                     <pub-id pub-id-type="doi">10.1016/j.fsigen.2018.03.013</pub-id>
                     <pub-id pub-id-type="pmid">29626805</pub-id>
                     <issn>1872-4973</issn>
-                    <annotation>
-                        <p content-type="warning">Edifix has not found an issue number in the journal reference. Please check the volume/issue information. (Ref. 79 "Strobl, Eduardoff, Bus, Allen, Parson, 2018")</p>
-                    </annotation>
+                    
                 </mixed-citation>
             </ref>
             <ref id="b80">
@@ -4611,7 +4609,7 @@
                             <surname>Boysen</surname>
                             <given-names>C</given-names>
                         </name>, 
-                
+
                     
                         <name>
                             <surname>Dekker</surname>
@@ -4630,6 +4628,18 @@
                             <given-names>CK</given-names>
                         </name>
                     </person-group>. 
+
+                    <name>
+                        <surname>McMahon</surname> 
+                        <given-names>TP</given-names> 
+                    </name>, 
+                
+                    <name>
+                        <surname>Marshall</surname> 
+                        <given-names>CK</given-names>
+                    </name>
+                </person-group>. 
+
             
                 
                     <article-title>AQME: A forensic mitochondrial DNA analysis tool for next-generation sequencing data</article-title>. 
@@ -4640,7 +4650,7 @@
                 
                     <year>2017</year>
                     <month>Nov</month>;
-            
+             
                 
                     <volume>31</volume>:
             
@@ -4650,16 +4660,23 @@
                 
                     <lpage>97</lpage>. 
             
+
                 
                     <pub-id pub-id-type="doi">10.1016/j.fsigen.2017.09.010</pub-id>
                     <pub-id pub-id-type="pmid">29080494</pub-id>
                     <issn>1872-4973</issn>
-                    <annotation>
-                        <p content-type="warning">Edifix has not found an issue number in the journal reference. Please check the volume/issue information. (Ref. 80 "Sturk-Andreaggi, Peck, Boysen, Dekker, McMahon, Marshall, 2017")</p>
-                    </annotation>
+                    
                 </mixed-citation>
             </ref>
-        </ref-list>undefined
-
-    </back>undefinedundefined
+        </ref-list> 
+  
 </article>
+
+                <pub-id pub-id-type="doi">10.1016/j.fsigen.2017.09.010</pub-id>
+                <pub-id pub-id-type="pmid">29080494</pub-id>
+                <issn>1872-4973</issn>
+                
+            </mixed-citation>
+        </ref>
+    
+
