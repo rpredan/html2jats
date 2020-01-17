@@ -109,9 +109,7 @@
                     <lpage>8</lpage>.
                     <pub-id pub-id-type="pmid">17722326</pub-id>
                     <issn>0125-2208</issn>
-                    <annotation>
-                        <p content-type="warning">Edifix has not found an issue number in the journal reference. Please check the volume/issue information. (Ref. 1 "Chittacharoen, 2005")</p>
-                    </annotation>
+                    
                 </mixed-citation>
             </ref>
             <ref id="b2">
@@ -1230,10 +1228,10 @@
             <ref id="b34">
                 <label>34. </label>
                 <mixed-citation publication-type="book">
-                    <person-group person-group-type="author">
+                    <person-group person-group-type="author"> 
                         <name>
                             <surname>Tubaro</surname>
-                            <given-names>A</given-names>
+                            <given-names>A</given-names>   
                         </name>
                     </person-group>. 
                     <source>Imaging, Neurophysiological Testing and Other Tests</source>. 
