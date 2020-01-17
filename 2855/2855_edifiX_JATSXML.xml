@@ -118,9 +118,11 @@
                             <given-names>F</given-names>
                         </name>, 
                         <etal>et al.</etal>
-                    </person-group> Guidelines on Urological Infections 2017 [Internet]. European Association of Urology; 
-                    <year>2017</year> [
-                    <date-in-citation content-type="access-date">cited 2017 Sep 7</date-in-citation>]. Available from: 
+                    </person-group> 
+                    <source>Guidelines on Urological Infections 2017. European Association of Urology</source>.  
+                    
+                    <date-in-citation content-type="access-date">cited 2017 Sep 7</date-in-citation>. 
+                    <comment>Available from</comment>:
                     <ext-link ext-link-type="uri" xlink:href="http://uroweb.org/guideline/urological-infections/">http://uroweb.org/guideline/urological-infections/</ext-link>
                 </mixed-citation>
             </ref>
@@ -136,13 +138,22 @@
                             <given-names>K</given-names>
                         </name>
                     </person-group>. 
-                    <article-title>Acute Complicated cystitis and pyelonephritis.</article-title> In: Bloom A, editor. UpToDate; [
-                    <date-in-citation content-type="access-date">cited 2017 Sep 15</date-in-citation>]. Available from: 
+                    <article-title>Acute Complicated cystitis and pyelonephritis.</article-title> 
+                    <comment>In</comment>: 
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Bloom </surname>
+                            <given-names>A</given-names>
+                        </name> 
+                    </person-group>. 
+                    <source>UpToDate</source>.
+                    <date-in-citation content-type="access-date">cited 2017 Sep 15</date-in-citation> 
+                    <comment>Available from</comment>:
                     <ext-link ext-link-type="uri" xlink:href="https://www.uptodate.com/contents/acute-complicated-cystitis-and">https://www.uptodate.com/contents/acute-complicated-cystitis-and</ext-link> pyelonephritis?source=search_result&amp;search=acute+complicated+pyelonephritis&amp;selectedTitle=1%7E4
                 </mixed-citation>
             </ref>
             <ref id="b3">
-                <mixed-citation publication-type="journal" specific-use="restruct">
+                <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
                             <surname>Hooton</surname>
@@ -163,7 +174,7 @@
                 </mixed-citation>
             </ref>
             <ref id="b4">
-                <mixed-citation publication-type="journal" specific-use="restruct">
+                <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
                             <surname>Tandogdu</surname>
@@ -185,13 +196,11 @@
                     <pub-id pub-id-type="doi">10.1097/QCO.0000000000000228</pub-id>
                     <pub-id pub-id-type="pmid">26694621</pub-id>
                     <issn>0951-7375</issn>
-                    <annotation>
-                        <p content-type="warning">CrossMark reports an erratum (or similar issue). The CrossMark type is "isReviewOf". Additional information can be found at https://doi.org/10.3410/f.730266351.793554297. (Ref. "Tandogdu, Wagenlehner, 2016")</p>
-                    </annotation>
+                    
                 </mixed-citation>
             </ref>
             <ref id="b5">
-                <mixed-citation publication-type="journal" specific-use="restruct">
+                <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
                             <surname>Gupta</surname>
@@ -262,15 +271,29 @@
                             <given-names>T</given-names>
                         </name>, 
                         <etal>et al.</etal>
-                    </person-group> Občutljivost pogostih bakterij za antbiotike v Sloveniji po podatkih SKIJOP, 2017-2016. In: Beović B, Lejko Zupanc T, Tomažič J, editors. Stopenjska diagnostika in zdravljenje pogostih okužb. Ljubljana: Sekcija za protimikrobno zdravljenje SZD; 
-                    <year>2017</year>. p. 43–52.
-                    <annotation>
-                        <p content-type="warning">Edifix Bibliographic Reference Processing failed to fully style this reference. Please check the copyediting. (Ref. "Štrumbelj, Pirš, Berce, Fišer, Golle, Harlander, et al., 2017")</p>
-                    </annotation>
+                    </person-group>.  
+                    <chapter-title>Občutljivost pogostih bakterij za antbiotike v Sloveniji po podatkih SKIJOP, 2017-2016<chapter-title>. 
+                        <person-group person-group-type="editor">
+                            <name><surname>Beović</surname>
+                                <given-names>B</given-names></name>,
+                            <name><surname>Lejko Zupanc</surname>
+                                <given-names>T</given-names></name>,
+                            <name><surname>Tomažič</surname>
+                                <given-names>J</given-names></name>
+                            <role>editor</role>
+                        </person-group>.
+                        <source>Stopenjska diagnostika in zdravljenje pogostih okužb</source>.
+                        <publisher-loc>Ljubljana</publisher-loc>
+                        <publisher-name>Sekcija za protimikrobno zdravljenje SZD</publisher-name>
+                        <date-in-citation content-type="copyright-year"
+                            iso-8601-date="2017">2017</date-in-citation>
+                        <fpage>43</fpage>-
+                        <lpage>52</lpage>.
+                     
                 </mixed-citation>
             </ref>
             <ref id="b7">
-                <mixed-citation publication-type="journal" specific-use="restruct">
+                <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
                             <surname>Warren</surname>
@@ -316,36 +339,48 @@
                     <person-group person-group-type="author">
                         <collab>The European Committee on Antimicrobial Susceptibility Testing</collab>
                     </person-group>. 
-                    <article-title>Breakpoint tables for interpretation of MICs and zone diameters.</article-title> Version 8.0, 
-                    <year>2018</year>. EUCAST; [
-                    <date-in-citation content-type="access-date">cited 2018 Mar 11</date-in-citation>]. Available from: 
+                    <article-title>Breakpoint tables for interpretation of MICs and zone diameters. Version 8.0, 2018. EUCAST</article-title>. Version 8.0, 
+                    <year>2018</year>. 
+                    <date-in-citation content-type="access-date">cited 2018 Mar 11</date-in-citation>. 
+                    <comment>Available from</comment>:
                     <ext-link ext-link-type="uri" xlink:href="http://www.eucast.org/clinical_breakpoints/">http://www.eucast.org/clinical_breakpoints/</ext-link>
                 </mixed-citation>
             </ref>
             <ref id="b9">
-                <mixed-citation publication-type="unknown">
+                <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
                             <surname>Paterson</surname>
                             <given-names>DL</given-names>
                         </name>
-                    </person-group>. “Collateral Damage” from Cephalosporin or Quinolone Antibiotic Therapy. Clin Infect Dis. 
-                    <year>2004</year>;38(Supplement_4):S341–5.
+                    </person-group>. 
+                    <article-title>"Collateral damage" from cephalosporin or quinolone antibiotic therapy<article-title>. 
+                        <source>Clin Infect Dis</source>. 
+                        <year>2004</year>
+                        <month>Oct</month>;
+                        <volume>29</volume>(
+                        <issue>Supplement_4</issue>):
+                        <fpage>S341</fpage>–
+                        <lpage>5</lpage>.    
+                        <pub-id pub-id-type="doi">10.1086/382690</pub-id>
+                        <pub-id pub-id-type="pmid">15127367</pub-id>
+                        <issn>1058-4838</issn>  
                 </mixed-citation>
             </ref>
             <ref id="b10">
                 <mixed-citation publication-type="web-page">
                     <person-group person-group-type="author">
-                        <collab>The European Committee on Antimicrobial Susceptibility Testing</collab>
+                        <collab>The European Committee on Antimicrobial Susceptibility Testing</collab>.
                     </person-group>. 
-                    <article-title>EUCAST breakpoints for oral cephalosporins.</article-title> Guidance Document. EUCAST; 
-                    <year>2012</year> [
-                    <date-in-citation content-type="access-date">cited 2018 Mar 11</date-in-citation>]. Available from: 
+                    <article-title>EUCAST breakpoints for oral cephalosporins.Guidance Document. EUCAST; </article-title> 
+                    <year>2012</year>. 
+                    <date-in-citation content-type="access-date">cited 2018 Mar 11</date-in-citation>. 
+                    <comment>Available from</comment>:
                     <ext-link ext-link-type="uri" xlink:href="http://www.eucast.org/guidance_documents/">http://www.eucast.org/guidance_documents/</ext-link>
                 </mixed-citation>
             </ref>
             <ref id="b11">
-                <mixed-citation publication-type="journal" specific-use="restruct">
+                <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
                             <surname>Jorgensen</surname>
@@ -387,7 +422,7 @@
                 </mixed-citation>
             </ref>
             <ref id="b12">
-                <mixed-citation publication-type="journal" specific-use="restruct">
+                <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
                             <surname>Vahlensieck</surname>
@@ -453,9 +488,11 @@
                             <given-names>S</given-names>
                         </name>, 
                         <etal>et al.</etal>
-                    </person-group> Kalkulierte parenterale Initialtherapie bakterieller Erkrankungen bei Erwachsenen – Update 
-                    <year>2018</year>. Paul-Ehrlich-Gesellschaft für Chemotherapie e.V.; [
-                    <date-in-citation content-type="access-date">cited 2019 Apr 1</date-in-citation>]. Available from: 
+                    </person-group> 
+                    <article-title>Kalkulierte parenterale Initialtherapie bakterieller Erkrankungen bei Erwachsenen – Update. Paul-Ehrlich-Gesellschaft für Chemotherapie e.V<article-title>.
+                    <year>2018</year>.
+                    <date-in-citation content-type="access-date">cited 2019 Apr 1</date-in-citation>. 
+                        <comment>Available from</comment>:
                     <ext-link ext-link-type="uri" xlink:href="https://www.awmf.org/uploads/tx_szleitlinien/S82-006l_S2k_Parenterale_Antibiotika_2018-1.pdf">https://www.awmf.org/uploads/tx_szleitlinien/S82-006l_S2k_Parenterale_Antibiotika_2018-1.pdf</ext-link>
                 </mixed-citation>
             </ref>
