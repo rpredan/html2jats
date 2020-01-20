@@ -6,83 +6,83 @@
         <article-meta>
             <custom-meta-group> 
                 <custom-meta>
-                    <meta->TotalReferences</meta-> 
+                    <meta->TotalReferences</meta-name>  
                     <meta-value>19</meta-value>
                 </custom-meta>
                 <custom-meta>
-                    <meta->ReferencesParsed</meta->
+                    <meta->ReferencesParsed</meta-name>
                     <meta-value>14</meta-value>
                 </custom-meta>
                 <custom-meta>
-                    <meta->ReferencesBillable</meta->
+                    <meta->ReferencesBillable</meta-name>
                     <meta-value>14</meta-value>
                 </custom-meta>
                 <custom-meta>
-                    <meta->LinkServices</meta->
+                    <meta->LinkServices</meta-name>
                     <meta-value>pubmed-crossref</meta-value>
                 </custom-meta>
                 <custom-meta>
-                    <meta->ReferencesLinked</meta->
+                    <meta->ReferencesLinked</meta-name>
                     <meta-value>13</meta-value>
                 </custom-meta>
                 <custom-meta>
-                    <meta->ReferencesLinkedDOI</meta->
+                    <meta->ReferencesLinkedDOI</meta-name>
                     <meta-value>12</meta-value>
                 </custom-meta>
                 <custom-meta>
-                    <meta->ReferencesLinkedPMID</meta->
+                    <meta->ReferencesLinkedPMID</meta-name>
                     <meta-value>13</meta-value>
                 </custom-meta>
                 <custom-meta>
-                    <meta->JournalReferences</meta->
+                    <meta->JournalReferences</meta-name>
                     <meta-value>13</meta-value>
                 </custom-meta>
                 <custom-meta>
-                    <meta->BookReferences</meta->
+                    <meta->BookReferences</meta-name>
                     <meta-value>0</meta-value>
                 </custom-meta>
                 <custom-meta>
-                    <meta->BookChapterReferences</meta->
+                    <meta->BookChapterReferences</meta-name>
                     <meta-value>3</meta-value>
                 </custom-meta>
                 <custom-meta>
-                    <meta->ConferenceReferences</meta->
+                    <meta->ConferenceReferences</meta-name>
                     <meta-value>0</meta-value>
                 </custom-meta>
                 <custom-meta>
-                    <meta->ElectronicReferences</meta->
+                    <meta->ElectronicReferences</meta-name>
                     <meta-value>3</meta-value>
                 </custom-meta>
                 <custom-meta>
-                    <meta->DissertationReferences</meta->
+                    <meta->DissertationReferences</meta-name>
                     <meta-value>0</meta-value>
                 </custom-meta>
                 <custom-meta>
-                    <meta->LegalReferences</meta->
+                    <meta->LegalReferences</meta-name>
                     <meta-value>0</meta-value>
                 </custom-meta>
                 <custom-meta>
-                    <meta->StandardReferences</meta->
+                    <meta->StandardReferences</meta-name>
                     <meta-value>0</meta-value>
                 </custom-meta>
                 <custom-meta>
-                    <meta->OtherReferences</meta->
+                    <meta->OtherReferences</meta-name>
                     <meta-value>0</meta-value>
                 </custom-meta>
                 <custom-meta>
-                    <meta->UnknownReferences</meta->
+                    <meta->UnknownReferences</meta-name>
                     <meta-value>0</meta-value>
                 </custom-meta>
                 <custom-meta>
-                    <meta->ReferencesSemiParsed</meta->
+                    <meta->ReferencesSemiParsed</meta-name>
                     <meta-value>0</meta-value>
                 </custom-meta>
                 <custom-meta>
-                    <meta->ReferencesBookUnparsed</meta->
+                    <meta->ReferencesBookUnparsed</meta-name>
                     <meta-value>2</meta-value>
                 </custom-meta>
                 <custom-meta>
-                    <meta->EditorialStyle</meta->
+                    <meta->EditorialStyle</meta-name>
                     <meta-value>ICMJE-WHO</meta-value>
                 </custom-meta>
             </custom-meta-group>
@@ -107,13 +107,13 @@
                 <mixed-citation publication-type="book-chapter">
                     <person-group person-group-type="author">
                         <>
-                            <sur>Gaberšček</sur>
+                            <surname>Gaberšček</surname>
                             <given-names>S</given-names>
                         </>.
                         <chapter-title>Ščitnica</chapter-title>. 
                         <person-group person-group-type="editor">
                             <>
-                                <sur>Košnik</sur>
+                                <surname>Košnik</surname>
                                 <given-names>M</given-names>
                             </>.
                             <source>Interna medicina</source>.  
@@ -131,7 +131,7 @@
                         <mixed-citation publication-type="journal">
                             <person-group person-group-type="author">
                                 <>
-                                    <sur>Zaletel</sur>
+                                    <surname>Zaletel</surname>
                                     <given-names>K</given-names>
                                 </>, 
                         
@@ -139,7 +139,7 @@
                                 
                                 
                                 <>
-                                    <sur>Gaberšček</sur>
+                                    <surname>Gaberšček</surname>
                                     <given-names>S</given-names>
                                 </>, 
                         
@@ -147,7 +147,7 @@
                                 
                                 
                                 <>
-                                    <sur>Pirnat</sur>
+                                    <surname>Pirnat</surname>
                                     <given-names>E</given-names>
                                 </>, 
                     
@@ -204,7 +204,7 @@
                         <mixed-citation publication-type="journal">
                             <person-group person-group-type="author">
                                 <>
-                                    <sur>Collet</sur>
+                                    <surname>Collet</surname>
                                     <given-names>TH</given-names>
                                 </>, 
                         
@@ -212,7 +212,7 @@
                                 
                                 
                                 <>
-                                    <sur>Gussekloo</sur>
+                                    <surname>Gussekloo</surname>
                                     <given-names>J</given-names>
                                 </>, 
                         
@@ -220,7 +220,7 @@
                                 
                                 
                                 <>
-                                    <sur>Bauer</sur>
+                                    <surname>Bauer</surname>
                                     <given-names>DC</given-names>
                                 </>, 
                         
@@ -228,7 +228,7 @@
                                 
                                 
                                 <>
-                                    <sur>den Elzen</sur>
+                                    <surname>den Elzen</surname>
                                     <given-names>WP</given-names>
                                 </>, 
                         
@@ -236,7 +236,7 @@
                                 
                                 
                                 <>
-                                    <sur>Cappola</sur>
+                                    <surname>Cappola</surname>
                                     <given-names>AR</given-names>
                                 </>, 
                         
@@ -244,7 +244,7 @@
                                 
                                 
                                 <>
-                                    <sur>Balmer</sur>
+                                    <surname>Balmer</surname>
                                     <given-names>P</given-names>
                                 </>, 
                         
@@ -307,42 +307,42 @@
                         <mixed-citation publication-type="journal">
                             <person-group person-group-type="author">
                                 <>
-                                    <sur>Hollowell</sur>
+                                    <surname>Hollowell</surname>
                                     <given-names>JG</given-names>
                                 </>, 
                                     
                                     
                                 
                                 <>
-                                    <sur>Staehling</sur>
+                                    <surname>Staehling</surname>
                                     <given-names>NW</given-names>
                                 </>, 
                                     
                                     
                                 
                                 <>
-                                    <sur>Flanders</sur>
+                                    <surname>Flanders</surname>
                                     <given-names>WD</given-names>
                                 </>, 
                                     
                                     
                                 
                                 <>
-                                    <sur>Hannon</sur>
+                                    <surname>Hannon</surname>
                                     <given-names>WH</given-names>
                                 </>, 
                                     
                                     
                                 
                                 <>
-                                    <sur>Gunter</sur>
+                                    <surname>Gunter</surname>
                                     <given-names>EW</given-names>
                                 </>, 
                                     
                                     
                                 
                                 <>
-                                    <sur>Spencer</sur>
+                                    <surname>Spencer</surname>
                                     <given-names>CA</given-names>
                                 </>, 
                                     
@@ -350,7 +350,7 @@
                                 
                                 <etal>et al.</etal>
                             </person-group>
-                            <article-title>Serum TSH, T4, and Thyroid Antibodies in the United States Population (1988 to 1994): National Health and Nutrition Examination Survey (NHANES III)
+                            <article-title>Serum TSH, T4, and Thyroid Antibodies in the United States Population (1988 to 1994): National Health and Nutrition Examination surnamevey (NHANES III)
                                 
                             
                             </source>. 
@@ -387,7 +387,7 @@
                         <mixed-citation publication-type="journal">
                             <person-group person-group-type="author">
                                 <>
-                                    <sur>Canaris</sur>
+                                    <surname>Canaris</surname>
                                     <given-names>GJ</given-names>
                                 </>, 
                         
@@ -395,7 +395,7 @@
                                 
                                 
                                 <>
-                                    <sur>Manowitz</sur>
+                                    <surname>Manowitz</surname>
                                     <given-names>NR</given-names>
                                 </>, 
                         
@@ -403,7 +403,7 @@
                                 
                                 
                                 <>
-                                    <sur>Mayor</sur>
+                                    <surname>Mayor</surname>
                                     <given-names>G</given-names>
                                 </>, 
                         
@@ -411,7 +411,7 @@
                                 
                                 
                                 <>
-                                    <sur>Ridgway</sur>
+                                    <surname>Ridgway</surname>
                                     <given-names>EC</given-names>
                                 </>
                             </person-group>. 
@@ -464,7 +464,7 @@
                         <mixed-citation publication-type="journal">
                             <person-group person-group-type="author">
                                 <>
-                                    <sur>Almandoz</sur>
+                                    <surname>Almandoz</surname>
                                     <given-names>JP</given-names>
                                 </>, 
                         
@@ -472,7 +472,7 @@
                                 
                                 
                                 <>
-                                    <sur>Gharib</sur>
+                                    <surname>Gharib</surname> 
                                     <given-names>H</given-names>
                                 </>
                             </person-group>. 
@@ -525,7 +525,7 @@
                         <mixed-citation publication-type="conf-proc">
                             <person-group person-group-type="author">
                                 <>
-                                    <sur>Krhin</sur>
+                                    <surname>Krhin</surname>
                                     <given-names>B</given-names>
                                 </>
                             </person-group>. 
@@ -535,12 +535,12 @@
                             
                             <person-group person-group-type="editor">
                                 <>
-                                    <sur>Gaberšček</sur>
+                                    <surname>Gaberšček</surname>
                                     <given-names>S</given-names>
                                 </>.
                                 
                                 
-                                <sur>Zaletel</sur>
+                                <surname>Zaletel</surname>
                                 <given-names>K</given-names>
                                 <role>editors</role>.
                                 
@@ -568,7 +568,7 @@
                             <mixed-citation publication-type="book-chapter">
                                 <person-group person-group-type="author">
                                     <>
-                                        <sur>Molnar Novak</sur>
+                                        <surname>Molnar Novak</surname>
                                         <given-names>H</given-names>
                                     </>
                                 </person-group>. 
@@ -598,7 +598,7 @@
                             <mixed-citation publication-type="web-page">
                                 <person-group person-group-type="author">
                                     <>
-                                        <sur>Hennessey</sur>
+                                        <surname>Hennessey</surname>
                                         <given-names>JV</given-names>
                                     </>
                                 </person-group>. 
@@ -610,27 +610,27 @@
                                 <comment>In</comment>:  
                                 <person-group person-group-type="editor">
                                     <>
-                                        <sur>De Groot</sur>
+                                        <surname>De Groot</surname>
                                         <given-names>LJ</given-names>
                                     </>,
                                     <>
-                                        <sur>Chrousos</sur>
+                                        <surname>Chrousos</surname>
                                         <given-names>G</given-names>
                                     </>,
                                     <>
-                                        <sur>Dungan</sur>
+                                        <surname>Dungan</surname>
                                         <given-names>K</given-names>
                                     </>,
                                     <>
-                                        <sur>Feingold</sur>
+                                        <surname>Feingold</surname>
                                         <given-names>KR</given-names>
                                     </>,
                                     <>
-                                        <sur>Grossman</sur>
+                                        <surname>Grossman</surname>
                                         <given-names>A</given-names>
                                     </>,
                                     <>
-                                        <sur>Hershman</sur>
+                                        <surname>Hershman</surname>
                                         <given-names>JM</given-names>
                                     </>,
                                     <etal>et al.</etal>
@@ -650,12 +650,12 @@
                             <mixed-citation publication-type="journal">
                                 <person-group person-group-type="author">
                                     <>
-                                        <sur>Slatosky</sur>
+                                        <surname>Slatosky</surname>
                                         <given-names>J</given-names>
                                     </>, 
                         
                                     <>
-                                        <sur>Shipton</sur>
+                                        <surname>Shipton</surname>
                                         <given-names>B</given-names>
                                     </>, 
                         
@@ -663,7 +663,7 @@
                                     
                                     
                                     <>
-                                        <sur>Wahba</sur>
+                                        <surname>Wahba</surname>
                                         <given-names>H</given-names>
                                     </>
                                 </person-group>. 
@@ -715,7 +715,7 @@
                             <mixed-citation publication-type="journal">
                                 <person-group person-group-type="author">
                                     <>
-                                        <sur>Haugen</sur>
+                                        <surname>Haugen</surname>
                                         <given-names>BR</given-names>
                                     </>, 
                         
@@ -723,7 +723,7 @@
                                     
                                     
                                     <>
-                                        <sur>Alexander</sur>
+                                        <surname>Alexander</surname>
                                         <given-names>EK</given-names>
                                     </>, 
                         
@@ -731,7 +731,7 @@
                                     
                                     
                                     <>
-                                        <sur>Bible</sur>
+                                        <surname>Bible</surname>
                                         <given-names>KC</given-names>
                                     </>, 
                         
@@ -739,7 +739,7 @@
                                     
                                     
                                     <>
-                                        <sur>Doherty</sur>
+                                        <surname>Doherty</surname>
                                         <given-names>GM</given-names>
                                     </>, 
                         
@@ -747,7 +747,7 @@
                                     
                                     
                                     <>
-                                        <sur>Mandel</sur>
+                                        <surname>Mandel</surname>
                                         <given-names>SJ</given-names>
                                     </>, 
                         
@@ -755,7 +755,7 @@
                                     
                                     
                                     <>
-                                        <sur>Nikiforov</sur>
+                                        <surname>Nikiforov</surname>
                                         <given-names>YE</given-names>
                                     </>, 
                         
@@ -812,7 +812,7 @@
                             <mixed-citation publication-type="journal">
                                 <person-group person-group-type="author">
                                     <>
-                                        <sur>Dean</sur>
+                                        <surname>Dean</surname>
                                         <given-names>DS</given-names>
                                     </>, 
                         
@@ -820,7 +820,7 @@
                                         
                                     
                                     <>
-                                        <sur>Gharib</sur>
+                                        <surname>Gharib</surname>
                                         <given-names>H</given-names>
                                     </>
                                 </person-group>. 
@@ -873,7 +873,7 @@
                             <mixed-citation publication-type="journal">
                                 <person-group person-group-type="author">
                                     <>
-                                        <sur>Gharib</sur>
+                                        <surname>Gharib</surname>
                                         <given-names>H</given-names>
                                     </>, 
                         
@@ -881,7 +881,7 @@
                                         
                                     
                                     <>
-                                        <sur>Papini</sur>
+                                        <surname>Papini</surname>
                                         <given-names>E</given-names>
                                     </>, 
                         
@@ -889,7 +889,7 @@
                                         
                                     
                                     <>
-                                        <sur>Paschke</sur>
+                                        <surname>Paschke</surname>
                                         <given-names>R</given-names>
                                     </>, 
                         
@@ -897,7 +897,7 @@
                                         
                                     
                                     <>
-                                        <sur>Duick</sur>
+                                        <surname>Duick</surname>
                                         <given-names>DS</given-names>
                                     </>, 
                         
@@ -905,7 +905,7 @@
                                         
                                     
                                     <>
-                                        <sur>Valcavi</sur>
+                                        <surname>Valcavi</surname>
                                         <given-names>R</given-names>
                                     </>, 
                         
@@ -913,7 +913,7 @@
                                         
                                     
                                     <>
-                                        <sur>Hegedüs</sur>
+                                        <surname>Hegedüs</surname>
                                         <given-names>L</given-names>
                                     </>, 
                         
@@ -971,7 +971,7 @@
                                 <mixed-citation publication-type="journal">
                                     <person-group person-group-type="author">
                                         <>
-                                            <sur>Gaberšček</sur>
+                                            <surname>Gaberšček</surname>
                                             <given-names>S</given-names>
                                         </>, 
                         
@@ -979,7 +979,7 @@
                                             
                                         
                                         <>
-                                            <sur>Zaletel</sur>
+                                            <surname>Zaletel</surname>
                                             <given-names>K</given-names>
                                         </>
                                     </person-group>. 
@@ -1032,7 +1032,7 @@
                                 <mixed-citation publication-type="journal">
                                     <person-group person-group-type="author">
                                         <>
-                                            <sur>Alexander</sur>
+                                            <surname>Alexander</surname>
                                             <given-names>EK</given-names>
                                         </>, 
                         
@@ -1040,7 +1040,7 @@
                                             
                                         
                                         <>
-                                            <sur>Pearce</sur>
+                                            <surname>Pearce</surname>
                                             <given-names>EN</given-names>
                                         </>, 
                         
@@ -1048,7 +1048,7 @@
                                             
                                         
                                         <>
-                                            <sur>Brent</sur>
+                                            <surname>Brent</surname>
                                             <given-names>GA</given-names>
                                         </>, 
                         
@@ -1056,7 +1056,7 @@
                                             
                                         
                                         <>
-                                            <sur>Brown</sur>
+                                            <surname>Brown</surname>
                                             <given-names>RS</given-names>
                                         </>, 
                         
@@ -1064,7 +1064,7 @@
                                             
                                         
                                         <>
-                                            <sur>Chen</sur>
+                                            <surname>Chen</surname>
                                             <given-names>H</given-names>
                                         </>, 
                         
@@ -1072,7 +1072,7 @@
                                             
                                         
                                         <>
-                                            <sur>Dosiou</sur>
+                                            <surname>Dosiou</surname>
                                             <given-names>C</given-names>
                                         </>, 
                         
@@ -1126,7 +1126,7 @@
                                 <mixed-citation publication-type="journal">
                                     <person-group person-group-type="author">
                                         <>
-                                            <sur>Lazarus</sur>
+                                            <surname>Lazarus</surname>
                                             <given-names>J</given-names>
                                         </>, 
                         
@@ -1134,7 +1134,7 @@
                                             
                                         
                                         <>
-                                            <sur>Brown</sur>
+                                            <surname>Brown</surname>
                                             <given-names>RS</given-names>
                                         </>, 
                         
@@ -1142,7 +1142,7 @@
                                             
                                         
                                         <>
-                                            <sur>Daumerie</sur>
+                                            <surname>Daumerie</surname>
                                             <given-names>C</given-names>
                                         </>, 
                         
@@ -1150,7 +1150,7 @@
                                             
                                         
                                         <>
-                                            <sur>Hubalewska-Dydejczyk</sur>
+                                            <surname>Hubalewska-Dydejczyk</surname>
                                             <given-names>A</given-names>
                                         </>, 
                         
@@ -1158,7 +1158,7 @@
                                             
                                         
                                         <>
-                                            <sur>Negro</sur>
+                                            <surname>Negro</surname>
                                             <given-names>R</given-names>
                                         </>, 
                         
@@ -1166,7 +1166,7 @@
                                             
                                         
                                         <>
-                                            <sur>Vaidya</sur>
+                                            <surname>Vaidya</surname>
                                             <given-names>B</given-names>
                                         </>
                                     </person-group>. 
@@ -1219,7 +1219,7 @@
                                 <mixed-citation publication-type="journal">
                                     <person-group person-group-type="author">
                                         <>
-                                            <sur>Wiersinga</sur>
+                                            <surname>Wiersinga</surname>
                                             <given-names>WM</given-names>
                                         </>, 
                         
@@ -1227,7 +1227,7 @@
                                             
                                         
                                         <>
-                                            <sur>Duntas</sur>
+                                            <surname>Duntas</surname>
                                             <given-names>L</given-names>
                                         </>, 
                         
@@ -1235,7 +1235,7 @@
                                             
                                         
                                         <>
-                                            <sur>Fadeyev</sur>
+                                            <surname>Fadeyev</surname>
                                             <given-names>V</given-names>
                                         </>, 
                         
@@ -1243,7 +1243,7 @@
                                             
                                         
                                         <>
-                                            <sur>Nygaard</sur>
+                                            <surname>Nygaard</surname>
                                             <given-names>B</given-names>
                                         </>, 
                         
@@ -1251,7 +1251,7 @@
                                             
                                         
                                         <>
-                                            <sur>Vanderpump</sur>
+                                            <surname>Vanderpump</surname>
                                             <given-names>MP</given-names>
                                         </>
                                     </person-group>. 
