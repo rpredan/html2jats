@@ -423,14 +423,12 @@
                     <lpage>65</lpage>.
                     <pub-id pub-id-type="pmid">4220387</pub-id>
                     <issn>0009-8701</issn>
-                    <annotation>
-                        <p content-type="warning">Edifix has not found an issue number in the journal reference. Please check the volume/issue information. (Ref. "Spriestersbach, Dickson, Fraser, Horowitz, McWilliams, Paradise, et al., 1973")</p>
-                    </annotation>
+                    
                 </mixed-citation>
             </ref>
             <ref id="b13">
                 <mixed-citation publication-type="journal">
-                    <person-group person-group-type="author">
+                    <person-group person-group-type="author"> 
                         <name>
                             <surname>Reid</surname>
                             <given-names>J</given-names>
@@ -615,7 +613,7 @@
                 </mixed-citation>
             </ref>
             <ref id="b19">
-                <mixed-citation publication-type="conference"name>
+                <mixed-citation publication-type="conference">
                     <person-group person-group-type="author">
                         <name>
                             <surname>Jarc</surname>
@@ -671,7 +669,7 @@
                   </mixed-citation>
             </ref>
             <ref id="b21">
-                <mixed-citation publication-type="thesis"name>
+                <mixed-citation publication-type="thesis">
                     <person-group person-group-type="author">
                         <name>
                             <surname>McDonald</surname>
@@ -737,11 +735,7 @@
                     <pub-id pub-id-type="doi">10.4103/2231-0762.109350</pub-id>
                     <pub-id pub-id-type="pmid">24478964</pub-id>
                     <issn>2231-0762</issn>
-                    <annotation>
-                        <p content-type="warning">Based on PubMed data, Edifix has changed the first author name from "
-                            <underline>Sree Devi" to "Devi</underline>". Please check carefully as this change may affect the in-text citations. (Ref. "Devi, Sai Sankar, Manoj Kumar, Sujatha, 2012")
-                        </p>
-                    </annotation>
+                    
                 </mixed-citation>
             </ref>
         </ref-list>

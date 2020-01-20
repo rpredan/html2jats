@@ -6,8 +6,8 @@
     xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.1">
     <front>
         <journal-meta>
-            <journal-id />
-            <issn />
+            <journal-id /> 
+            <issn /> 
         </journal-meta>
         <article-meta>
             <title-group>
@@ -458,7 +458,8 @@
                .
                
                     <chapter-title>Invasive carcinoma of no special type</chapter-title>
-               . In:
+                    
+                    <comment>In</comment>:
                
                     <person-group person-group-type="editor">
                         <name>
@@ -499,10 +500,10 @@
                         of the Breast</source>
                .
                
-                    <publisher-loc>Lyon</publisher-loc>
+                    <publisher-loc>Lyon</publisher-loc> 
                :
                
-                    <publisher-name>IARC</publisher-name>
+                    <publisher-name>IARC</publisher-name> 
                ;
                
                     <year>2012</year>
@@ -533,7 +534,8 @@
                .
                
                     <chapter-title>Special subtypes</chapter-title>
-               . In:
+                    . 
+                    <comment>In</comment>:
                
                     <person-group person-group-type="editor">
                         <name>
@@ -3243,7 +3245,7 @@
                   
                         <name>
                             <surname>Bodmer</surname>
-                            <given-names>WF</given-names>
+                            <given-names>WF</given-names> 
                         </name>
                     </person-group>
                .
