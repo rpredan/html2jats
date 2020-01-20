@@ -4,7 +4,7 @@
     xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" dtd-version="1.0" article-type="reference-list">
     <front>
         <article-meta>
-            <custom-meta-group>
+            <custom-meta-group> 
                 <custom-meta>
                     <meta-name>TotalReferences</meta-name>
                     <meta-value>24</meta-value> 
@@ -92,7 +92,7 @@
         <ref-list>
             <ref id="b1">
                 <label>1.	</label>
-                <mixed-citation publication-type="conference" specific-use="unparsed">
+                <mixed-citation publication-type="conference">
                     <person-group person-group-type="author">
                         <name>
                             <surname>Možina</surname>
@@ -123,7 +123,7 @@
             </ref>
             <ref id="b2">
                 <label>2.	</label>
-                <mixed-citation publication-type="book chapter" specific-use="unparsed">
+                <mixed-citation publication-type="book chapter">
                     <person-group person-group-type="author">
                         <name>
                             <surname>Možina</surname>
@@ -152,24 +152,24 @@
             
             <ref id="b3">
                 <label>3.	</label>
-                <mixed-citation publication-type="journal"name>
+                <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Prosen</surname>
                             <given-names>G</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Klemen</surname>
                             <given-names>P</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Štrnad</surname>
                             <given-names>M</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Grmec</surname>
                             <given-names>S</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Combination of lung ultrasound (a comet-tail sign) and N-terminal pro-brain natriuretic peptide in differentiating acute heart failure from chronic obstructive pulmonary disease and asthma as cause of acute dyspnea in prehospital emergency setting</article-title>. 
                     <source>Crit Care</source>. 
@@ -184,24 +184,24 @@
             </ref>
             <ref id="b4">
                 <label>4.	</label>
-                <mixed-citation publication-type="journal"name>
+                <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Strnad</surname>
                             <given-names>M</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Zadel</surname>
                             <given-names>S</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Klemenc-Ketis</surname>
                             <given-names>Z</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Prosen</surname>
                             <given-names>G</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Identification of lung sliding: a basic ultrasound technique with a steep learning curve</article-title>. 
                     <source>Signa Vitae</source>. 
@@ -216,20 +216,20 @@
             </ref>
             <ref id="b5">
                 <label>5.	</label>
-                <mixed-citation publication-type="journal"name>
+                <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Strnad</surname>
                             <given-names>M</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Prosen</surname>
                             <given-names>G</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Borovnik Lesjak</surname>
                             <given-names>V</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Bedside lung ultrasound for monitoring the effectiveness of prehospital treatment with continuous positive airway pressure in acute decompensated heart failure</article-title>. 
                     <source>Eur J Emerg Med</source>. 
@@ -246,12 +246,12 @@
             </ref>
             <ref id="b6">
                 <label>6. </label>
-                <mixed-citation publication-type="book"name>
+                <mixed-citation publication-type="book">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Lichtenstein</surname>
                             <given-names>DA</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <source>General Ultrasound in the critically Ill</source>. 
                     <publisher-loc>Berlin</publisher-loc>: 
@@ -264,16 +264,16 @@
             </ref>
             <ref id="b7">
                 <label>7.	</label>
-                <mixed-citation publication-type="journal"name>
+                <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Lichtenstein</surname>
                             <given-names>DA</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Mezière</surname>
                             <given-names>GA</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Relevance of lung ultrasound in the diagnosis of acute respiratory failure: the BLUE protocol</article-title>. 
                     <source>Chest</source>. 
@@ -290,12 +290,12 @@
             </ref>
             <ref id="b8">
                 <label>8.	</label>
-                <mixed-citation publication-type="journal"name>
+                <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Miller</surname>
                             <given-names>A</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Practical approach to lung ultrasound</article-title>. 
                     <source>BJA Educ</source>. 
@@ -310,32 +310,32 @@
             </ref>
             <ref id="b9">
                 <label>9.	</label>
-                <mixed-citation publication-type="journal"name>
+                <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Volpicelli</surname>
                             <given-names>G</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Elbarbary</surname>
                             <given-names>M</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Blaivas</surname>
                             <given-names>M</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Lichtenstein</surname>
                             <given-names>DA</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Mathis</surname>
                             <given-names>G</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Kirkpatrick</surname>
                             <given-names>AW</given-names>
-                        </string-name>, 
+                        </name>, 
                         <etal>et al.</etal>; 
                         <collab>International Liaison Committee on Lung Ultrasound (ILC-LUS) for International Consensus Conference on Lung Ultrasound (ICC-LUS)</collab>
                     </person-group>. 
@@ -354,20 +354,20 @@
             </ref>
             <ref id="b10">
                 <label>10.	</label>
-                <mixed-citation publication-type="journal"name>
+                <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Campbell</surname>
                             <given-names>SJ</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Bechara</surname>
                             <given-names>R</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Islam</surname>
                             <given-names>S</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Point-of-Care Ultrasound in the Intensive Care Unit</article-title>. 
                     <source>Clin Chest Med</source>. 
@@ -384,12 +384,12 @@
             </ref>
             <ref id="b11">
                 <label>11.	</label>
-                <mixed-citation publication-type="journal"name>
+                <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Müller</surname>
                             <given-names>NL</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Imaging of the pleura</article-title>. 
                     <source>Radiology</source>. 
@@ -406,28 +406,28 @@
             </ref>
             <ref id="b12">
                 <label>12.	</label>
-                <mixed-citation publication-type="journal"name>
+                <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Colins</surname>
                             <given-names>JD</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Burwell</surname>
                             <given-names>D</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Furmanski</surname>
                             <given-names>S</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Lorber</surname>
                             <given-names>P</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Steckel</surname>
                             <given-names>RJ</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Minimal detectable pleural effusions. A roentgen pathology model</article-title>. 
                     <source>Radiology</source>. 
@@ -444,24 +444,24 @@
             </ref>
             <ref id="b13">
                 <label>13.	</label>
-                <mixed-citation publication-type="journal"name>
+                <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Hassan</surname>
                             <given-names>M</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Rizk</surname>
                             <given-names>R</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Essam</surname>
                             <given-names>H</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Abouelnour</surname>
                             <given-names>A</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Validation of equations for pleural effusion volume estimation by ultrasonography</article-title>. 
                     <source>J Ultrasound</source>. 
@@ -478,32 +478,32 @@
             </ref>
             <ref id="b14">
                 <label>14.	</label>
-                <mixed-citation publication-type="journal"name>
+                <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Yang</surname>
                             <given-names>PC</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Luh</surname>
                             <given-names>KT</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Chang</surname>
                             <given-names>DB</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Wu</surname>
                             <given-names>HD</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Yu</surname>
                             <given-names>CJ</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Kuo</surname>
                             <given-names>SH</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Value of sonography in determining the nature of pleural effusion: analysis of 320 cases</article-title>. 
                     <source>AJR Am J Roentgenol</source>. 
@@ -520,32 +520,32 @@
             </ref>
             <ref id="b15">
                 <label>15.	</label>
-                <mixed-citation publication-type="journal"name>
+                <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Shen</surname>
                             <given-names>KR</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Bribriesco</surname>
                             <given-names>A</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Crabtree</surname>
                             <given-names>T</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Denlinger</surname>
                             <given-names>C</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Eby</surname>
                             <given-names>J</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Eiken</surname>
                             <given-names>P</given-names>
-                        </string-name>, 
+                        </name>, 
                         <etal>et al.</etal>
                     </person-group>
                     <article-title>The American Association for Thoracic Surgery consensus guidelines for the management of empyema</article-title>. 
@@ -563,20 +563,20 @@
             </ref>
             <ref id="b16">
                 <label>16.	</label>
-                <mixed-citation publication-type="journal"name>
+                <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Kocijančič</surname>
                             <given-names>I</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Vidmar</surname>
                             <given-names>K</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Ivanovi-Herceg</surname>
                             <given-names>Z</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Chest sonography versus lateral decubitus radiography in the diagnosis of small pleural effusions</article-title>. 
                     <source>J Clin Ultrasound</source>. 
@@ -593,12 +593,12 @@
             </ref>
             <ref id="b17">
                 <label>17.	</label>
-                <mixed-citation publication-type="journal"name>
+                <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Noppen</surname>
                             <given-names>M</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Normal volume and cellular contents of pleural fluid</article-title>. 
                     <source>Paediatr Respir Rev</source>. 
@@ -614,24 +614,24 @@
             </ref>
             <ref id="b18">
                 <label>18.	</label>
-                <mixed-citation publication-type="journal"name>
+                <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Nguyen</surname>
                             <given-names>J</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Nicholson</surname>
                             <given-names>BT</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Patrie</surname>
                             <given-names>JT</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Harvey</surname>
                             <given-names>JA</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Incidental pleural effusions detected on screening breast MRI</article-title>. 
                     <source>AJR Am J Roentgenol</source>. 
@@ -647,20 +647,20 @@
             </ref>
             <ref id="b19">
                 <label>19.	</label>
-                <mixed-citation publication-type="journal"name>
+                <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Kocijancic</surname>
                             <given-names>I</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Kocijancic</surname>
                             <given-names>K</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Cufer</surname>
                             <given-names>T</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Imaging of pleural fluid in healthy individuals</article-title>. 
                     <source>Clin Radiol</source>. 
@@ -677,24 +677,24 @@
             </ref>
             <ref id="b20">
                 <label>20.	</label>
-                <mixed-citation publication-type="journal"name>
+                <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Kocijancic</surname>
                             <given-names>I</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Pusenjak</surname>
                             <given-names>S</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Kocijancic</surname>
                             <given-names>K</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Vidmar</surname>
                             <given-names>G</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Sonographic detection of physiologic pleural fluid in normal pregnant women</article-title>. 
                     <source>J Clin Ultrasound</source>. 
@@ -711,12 +711,12 @@
             </ref>
             <ref id="b21">
                 <label>21.	</label>
-                <mixed-citation publication-type="journal"name>
+                <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Kocijancic</surname>
                             <given-names>K</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Ultrasonographic forms of pleural space in healthy children</article-title>. 
                     <source>Coll Antropol</source>. 
@@ -732,28 +732,28 @@
             </ref>
             <ref id="b22">
                 <label>22.	</label>
-                <mixed-citation publication-type="journal"name>
+                <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Rose</surname>
                             <given-names>G</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Siadecki</surname>
                             <given-names>S</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Tansek</surname>
                             <given-names>R</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Baranchuk</surname>
                             <given-names>N</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Saul</surname>
                             <given-names>T</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>A novel method of assessing for lung sliding using Doppler imaging</article-title>. 
                     <source>Am J Emerg Med</source>. 
@@ -770,28 +770,28 @@
             </ref>
             <ref id="b23">
                 <label>23.	</label>
-                <mixed-citation publication-type="journal"name>
+                <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Wallbridge</surname>
                             <given-names>P</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Steinfort</surname>
                             <given-names>D</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Tay</surname>
                             <given-names>TR</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Irving</surname>
                             <given-names>L</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Hew</surname>
                             <given-names>M</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Diagnostic chest ultrasound for acute respiratory failure</article-title>. 
                     <source>Respir Med</source>. 
@@ -807,28 +807,28 @@
             </ref>
             <ref id="b24">
                 <label>24.	</label>
-                <mixed-citation publication-type="journal"name>
-                    <person-group person-group-type="author">
-                        <string-name>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author"> 
+                        <name> 
                             <surname>Lichtenstein</surname>
                             <given-names>D</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Mézière</surname>
                             <given-names>G</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Biderman</surname>
                             <given-names>P</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Gepner</surname>
                             <given-names>A</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Barré</surname>
                             <given-names>O</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>The comet-tail artifact. An ultrasound sign of alveolar-interstitial syndrome</article-title>. 
                     <source>Am J Respir Crit Care Med</source>. 
