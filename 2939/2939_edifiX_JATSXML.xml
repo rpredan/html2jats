@@ -82,7 +82,7 @@
                     <meta-value>1</meta-value>
                 </custom-meta>
                 <custom-meta>
-                    <meta-name>EditorialStyle</meta-name>
+                    <meta-name>EditorialStyle</meta-name> 
                     <meta-value>ICMJE-WHO</meta-value>
                 </custom-meta>
             </custom-meta-group>
@@ -102,13 +102,11 @@
                     <article-title>Are evidence-based medicine with clinical practice guidelines restrictive for physicians?</article-title>
                     <source>Zdrav Vestn</source>. 
                     <year>2006</year>;
-                    <volume>75</volume>:
+                    <volume>75</volume>(
+                    <issue>75</issue>):
                     <fpage>653</fpage>–
                     <lpage>7</lpage>.
-                    <issn>0350-0063</issn>
-                    <annotation>
-                        <p content-type="warning">Edifix has not found an issue number in the journal reference. Please check the volume/issue information. (Ref. 1 "Drinovec, 2006")</p>
-                    </annotation>
+                    <issn>0350-0063</issn>                    
                 </mixed-citation>
             </ref>
             <ref id="b2">
@@ -179,6 +177,11 @@
                     <publisher-loc>London</publisher-loc>: 
                     <publisher-name>Wily-Blackwell</publisher-name>; 
                     <year>2010</year>.
+                    <date-in-citation content-type="access-date">cited 2019 Dec 2</date-in-citation>
+                    <comment>Available from</comment>:
+                    
+                    <ext-link ext-link-type="uri" xlink:href="https://pdfs.semanticscholar.org/3ee8/2aef0c4c260e6f23cbd4464dced8ed33356b.pdf">https://pdfs.semanticscholar.org/3ee8/2aef0c4c260e6f23cbd4464dced8ed33356b.pdf</ext-link>
+                    
                 </mixed-citation>
             </ref>
             <ref id="b5">
@@ -492,15 +495,12 @@
                         </string-name>
                     </person-group>. 
                     <article-title>Detection and management of depression in Slovene family practice. A case vignette study</article-title>. 
-                    <source>Zdrav Var.</source>
+                    <source>Zdr Varst</source>.
                     <year>2006</year>;
-                    <volume>45</volume>:
+                    <volume>45</volume>(
+                    <issue>45</issue>):
                     <fpage>90</fpage>–
-                    <lpage>6</lpage>.
-                    <annotation>
-                        <p content-type="warning">Edifix does not recognize the journal "Zdrav Var.". If this is a valid journal title, please send this reference to journals@inera.com for addition to our journal database. (Ref. 13 "Car, Kersnik, Švab, Rotar-Pavlič, 2006")</p>
-                        <p content-type="warning">Edifix has not found an issue number in the journal reference. Please check the volume/issue information. (Ref. 13 "Car, Kersnik, Švab, Rotar-Pavlič, 2006")</p>
-                    </annotation>
+                    <lpage>6</lpage>.                   
                 </mixed-citation>
             </ref>
             <ref id="b14">
@@ -875,11 +875,16 @@
                             <given-names>B</given-names>
                         </string-name>, 
                         <etal>et al.</etal>
-                    </person-group> Recommendation for the Management of Community-acquired Pneumonia in Adults (Updated and revised Edition, 2010). Zdrav Vestn. 
-                    <year>2010</year>;79(3):245-264.
-                    <annotation>
-                        <p content-type="warning">Edifix Bibliographic Reference Processing failed to fully style this reference. Please check the copyediting. (Ref. 23 "Mušič, Osolnik, Tomič, Eržen, Košnik, Beović, et al., 2010")</p>
-                    </annotation>
+                    </person-group> 
+                    <article-title>Recommendation for the Management of Community-acquired Pneumonia in Adults (Updated and revised Edition, 2010)</article-title>. 
+                    <source>Zdrav Vestn</source>. 
+                    <year>2010</year>
+                    <month>Mar</month>;
+                    <volume>79</volume>(
+                    <issue>3</issue>
+                    <fpage>245</fpage>–
+                    <lpage>64</lpage>. 
+                    <issn>1318-0347</issn>
                 </mixed-citation>
             </ref>
             <ref id="b24">
@@ -1138,12 +1143,16 @@
                     <person-group person-group-type="author">
                         <collab>National Institute for Health and Care Excellence (NICE)</collab>
                     </person-group>. 
-                    <article-title>Pneumonia in adults: diagnosis and managment.</article-title> London, UK: NICE; 
-                    <year>2014</year> [
-                    <date-in-citation content-type="access-date">cited 2018 Aug 20</date-in-citation>]. Available from: 
+                    <article-title>Pneumonia in adults: diagnosis and managment </article-title>. London, UK: NICE; 
+                    <publisher-loc>London</publisher-loc>:
+                    <publisher-name>NICE</publisher-name>;                                       
+                    <year>2014</year>  
+                    <date-in-citation content-type="access-date">cited 2018 Aug 20</date-in-citation>]. 
+                    <comment> Available from</comment>: 
                     <ext-link ext-link-type="uri" xlink:href="https://www.nice.org.uk/guidance/cg191">https://www.nice.org.uk/guidance/cg191</ext-link>
                 </mixed-citation>
             </ref>
         </ref-list>
     </back>
 </article>
+
