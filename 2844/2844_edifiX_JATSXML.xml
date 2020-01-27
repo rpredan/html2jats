@@ -425,19 +425,26 @@
             </ref>
             <ref id="b12">
                 <label>12.	</label>
-                <mixed-citation publication-type="web-page" specific-use="unparsed">
+                <mixed-citation publication-type="web-page">
                     <person-group person-group-type="author">
                         <string-name>
                             <surname>Burkart</surname>
                             <given-names>MD</given-names>
                         </string-name>
                     </person-group>. 
-                    <article-title>Clinical manifestations and diagnosis of peritonitis in peritoneal dialysis.</article-title> Post TW, ed. UpToDate. Waltham, MA: UpToDate Inc. 
-                    <ext-link ext-link-type="uri" xlink:href="http://www.uptodate.com">http://www.uptodate.com</ext-link> (dostopno 15. maja 
-                    <year>2018</year>).
-                    <annotation>
-                        <p content-type="warning">Reference 12 "Burkart, 2018" is similar to reference 11 and may be a duplicate. Please compare these references carefully.</p>
-                    </annotation>
+                    <comment>In<comment>:
+                        <person-group person-group-type="editor">
+                            <string-name>
+                                <surname>Post</surname>
+                                <given-names>TW</given-names>
+                            </string-name>
+                        </person-group>
+                        <article-title>Clinical manifestations and diagnosis of peritonitis in peritoneal dialysis.</article-title>
+                        <source>UpToDate</source>.
+                        <publisher-place>Waltham, MA</publisher-place>:
+                        <publisher-name>UpToDate Inc</publisher-name>. 
+                        <comment>Available from</comment>:
+                        <ext-link ext-link-type="uri" xlink:href="http://www.uptodate.com">http://www.uptodate.com</ext-link>
                 </mixed-citation>
             </ref>
             <ref id="b13">
@@ -537,18 +544,20 @@
             </ref>
             <ref id="b16">
                 <label>16.	</label>
-                <mixed-citation publication-type="book-chapter" specific-use="unparsed">
+                <mixed-citation publication-type="book-chapter">
                     <person-group person-group-type="author">
                         <string-name>
                             <surname>Kovač</surname>
                             <given-names>D</given-names>
                         </string-name>
                     </person-group>. 
-                    <chapter-title>Kako povečati program peritonealne dialize v Sloveniji.</chapter-title> In: 30-letnica kontinuirane peritonealne dialize v Sloveniji; 20. in 21. november 2014; Hotel Mons, Slovensko nefrološko društvo, Ljubljana, Slovenija. Ljubljana: UKC, KO za nefrologijo; 
-                    <year>2014</year>.
-                    <annotation>
-                        <p content-type="warning">Edifix Bibliographic Reference Processing failed to fully style this reference. Please check the copyediting. (Ref. 16 "Kovač, 2014")</p>
-                    </annotation>
+                    <source>Kako povečati program peritonealne dialize v Slovenij</source>.                      
+                    <conf-name>30-letnica kontinuirane peritonealne dialize v Sloveniji</conf-name>.
+                    <conf-date>20. in 21. november 2014<conf-date>; 
+                    <conf-place>Ljubljana, Slovenija</conf-place>.
+                    <publisher-place>Ljubljana</publisher-place>: 
+                     <publisher-name>UKC, KO za nefrologijo</publisher-name> 
+                    <year>2014</year>.                     
                 </mixed-citation>
             </ref>
             <ref id="b17">
@@ -630,17 +639,24 @@
             </ref>
             <ref id="b19">
                 <label>19.	</label>
-                <mixed-citation publication-type="book" specific-use="unparsed">
+                <mixed-citation publication-type="book">
                     <person-group person-group-type="author">
                         <string-name>
                             <surname>Tomažič</surname>
                             <given-names>J</given-names>
                         </string-name>
-                    </person-group>. in Strle F. s sodelavci. Infekcijske bolezni. Ljubljana: Slovensko zdravniško društvo, Združenje za infektologijo; 
-                    <year>2014/2015</year>. p. 375
-                    <annotation>
-                        <p content-type="warning">Edifix Bibliographic Reference Processing failed to fully style this reference. Please check the copyediting. (Ref. 19 "Tomažič, 2014/2015")</p>
-                    </annotation>
+                    </person-group>.
+                    <person-group person-group-type="author">
+                        <string-name>
+                            <surname>Strle</surname>
+                            <given-names>F</given-names>
+                        </string-name>, 
+                        <etal>et al</etal>.
+                        <source>Infekcijske bolezni</source>. 
+                        <publisher-place>Ljubljana</publisher-place>:
+                        <publisher-name>Slovensko zdravniško društvo, Združenje za infektologijo<publisher-name>;
+                        <year>2014/2015</year>. pp. 
+                        <fpage>375</fpage>.                     
                 </mixed-citation>
             </ref>
             <ref id="b20">
@@ -656,16 +672,12 @@
                             <given-names>B</given-names>
                         </string-name>
                     </person-group>. 
-                    <article-title>Postopki pri zdravljenju peritonitisa kot zaplet kontinuirane peritonealne dialize. Ljubljana</article-title>. 
-                    <source>Obzor Zdr N.</source>
+                    <article-title>Postopki pri zdravljenju peritonitisa kot zaplet kontinuirane peritonealne dialize</article-title>. 
+                    <source>Obzor Zdr N</source>.
                     <year>1994</year>;
                     <volume>28</volume>:
                     <fpage>109</fpage>–
-                    <lpage>11</lpage>.
-                    <annotation>
-                        <p content-type="warning">Edifix does not recognize the journal "Obzor Zdr N.". If this is a valid journal title, please send this reference to journals@inera.com for addition to our journal database. (Ref. 20 "Mlinšek, Savicki, 1994")</p>
-                        <p content-type="warning">Edifix has not found an issue number in the journal reference. Please check the volume/issue information. (Ref. 20 "Mlinšek, Savicki, 1994")</p>
-                    </annotation>
+                    <lpage>11</lpage>.                     
                 </mixed-citation>
             </ref>
             <ref id="b21">
@@ -915,10 +927,7 @@
                     <volume>83</volume>:
                     <fpage>651</fpage>–
                     <lpage>60</lpage>.
-                    <issn>0350-0063</issn>
-                    <annotation>
-                        <p content-type="warning">Edifix has not found an issue number in the journal reference. Please check the volume/issue information. (Ref. 28 "Pintar, Trotovšek, Beović, 2014")</p>
-                    </annotation>
+                    <issn>0350-0063</issn>                    
                 </mixed-citation>
             </ref>
             <ref id="b29">
@@ -1002,10 +1011,7 @@
                     <lpage>14</lpage>. 
                     <pub-id pub-id-type="doi">10.1016/j.cca.2013.12.003</pub-id>
                     <pub-id pub-id-type="pmid">24333488</pub-id>
-                    <issn>0009-8981</issn>
-                    <annotation>
-                        <p content-type="warning">Edifix has not found an issue number in the journal reference. Please check the volume/issue information. (Ref. 30 "Velloso, Otoni, 2014")</p>
-                    </annotation>
+                    <issn>0009-8981</issn>                    
                 </mixed-citation>
             </ref>
         </ref-list>
