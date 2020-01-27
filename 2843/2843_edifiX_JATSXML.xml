@@ -6,83 +6,83 @@
         <article-meta>
             <custom-meta-group>
                 <custom-meta>
-                    <meta-name>TotalReferences</meta-name>
+                    <meta-string-name>TotalReferences</meta-string-name>
                     <meta-value>25</meta-value>
                 </custom-meta>
                 <custom-meta>
-                    <meta-name>ReferencesParsed</meta-name>
+                    <meta-string-name>ReferencesParsed</meta-string-name>
                     <meta-value>23</meta-value>
                 </custom-meta>
                 <custom-meta>
-                    <meta-name>ReferencesBillable</meta-name>
+                    <meta-string-name>ReferencesBillable</meta-string-name>
                     <meta-value>23</meta-value>
                 </custom-meta>
                 <custom-meta>
-                    <meta-name>LinkServices</meta-name>
+                    <meta-string-name>LinkServices</meta-string-name>
                     <meta-value>pubmed-crossref</meta-value>
                 </custom-meta>
                 <custom-meta>
-                    <meta-name>ReferencesLinked</meta-name>
+                    <meta-string-name>ReferencesLinked</meta-string-name>
                     <meta-value>19</meta-value>
                 </custom-meta>
                 <custom-meta>
-                    <meta-name>ReferencesLinkedDOI</meta-name>
+                    <meta-string-name>ReferencesLinkedDOI</meta-string-name>
                     <meta-value>14</meta-value>
                 </custom-meta>
                 <custom-meta>
-                    <meta-name>ReferencesLinkedPMID</meta-name>
+                    <meta-string-name>ReferencesLinkedPMID</meta-string-name>
                     <meta-value>19</meta-value>
                 </custom-meta>
                 <custom-meta>
-                    <meta-name>JournalReferences</meta-name>
+                    <meta-string-name>JournalReferences</meta-string-name>
                     <meta-value>22</meta-value>
                 </custom-meta>
                 <custom-meta>
-                    <meta-name>BookReferences</meta-name>
+                    <meta-string-name>BookReferences</meta-string-name>
                     <meta-value>2</meta-value>
                 </custom-meta>
                 <custom-meta>
-                    <meta-name>BookChapterReferences</meta-name>
+                    <meta-string-name>BookChapterReferences</meta-string-name>
                     <meta-value>0</meta-value>
                 </custom-meta>
                 <custom-meta>
-                    <meta-name>ConferenceReferences</meta-name>
+                    <meta-string-name>ConferenceReferences</meta-string-name>
                     <meta-value>0</meta-value>
                 </custom-meta>
                 <custom-meta>
-                    <meta-name>ElectronicReferences</meta-name>
+                    <meta-string-name>ElectronicReferences</meta-string-name>
                     <meta-value>1</meta-value>
                 </custom-meta>
                 <custom-meta>
-                    <meta-name>DissertationReferences</meta-name>
+                    <meta-string-name>DissertationReferences</meta-string-name>
                     <meta-value>0</meta-value>
                 </custom-meta>
                 <custom-meta>
-                    <meta-name>LegalReferences</meta-name>
+                    <meta-string-name>LegalReferences</meta-string-name>
                     <meta-value>0</meta-value>
                 </custom-meta>
                 <custom-meta>
-                    <meta-name>StandardReferences</meta-name>
+                    <meta-string-name>StandardReferences</meta-string-name>
                     <meta-value>0</meta-value>
                 </custom-meta>
                 <custom-meta>
-                    <meta-name>OtherReferences</meta-name>
+                    <meta-string-name>OtherReferences</meta-string-name>
                     <meta-value>0</meta-value>
                 </custom-meta>
                 <custom-meta>
-                    <meta-name>UnknownReferences</meta-name>
+                    <meta-string-name>UnknownReferences</meta-string-name>
                     <meta-value>0</meta-value>
                 </custom-meta>
                 <custom-meta>
-                    <meta-name>ReferencesSemiParsed</meta-name>
+                    <meta-string-name>ReferencesSemiParsed</meta-string-name>
                     <meta-value>0</meta-value>
                 </custom-meta>
                 <custom-meta>
-                    <meta-name>ReferencesBookUnparsed</meta-name>
+                    <meta-string-name>ReferencesBookUnparsed</meta-string-name>
                     <meta-value>1</meta-value>
                 </custom-meta>
                 <custom-meta>
-                    <meta-name>EditorialStyle</meta-name>
+                    <meta-string-name>EditorialStyle</meta-string-name>
                     <meta-value>ICMJE-WHO</meta-value>
                 </custom-meta>
             </custom-meta-group>
@@ -95,20 +95,20 @@
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
                         <string-name>
-                            <surname>Železnik</surname>
-                            <given-names>K</given-names>
+                            <surstring-name>Železnik</surstring-name>
+                            <given-string-names>K</given-string-names>
                         </string-name>, 
                         <string-name>
-                            <surname>Dovč-Drnovšek</surname>
-                            <given-names>T</given-names>
+                            <surstring-name>Dovč-Drnovšek</surstring-name>
+                            <given-string-names>T</given-string-names>
                         </string-name>, 
                         <string-name>
-                            <surname>Rožman</surname>
-                            <given-names>P</given-names>
+                            <surstring-name>Rožman</surstring-name>
+                            <given-string-names>P</given-string-names>
                         </string-name>, 
                         <string-name>
-                            <surname>Bricl</surname>
-                            <given-names>I</given-names>
+                            <surstring-name>Bricl</surstring-name>
+                            <given-string-names>I</given-string-names>
                         </string-name>
                     </person-group>. 
                     <article-title>Preventiva in diagnostika hemolitične bolezni ploda in novorojenčka</article-title>. 
@@ -126,16 +126,16 @@
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
                         <string-name>
-                            <surname>Basu</surname>
-                            <given-names>S</given-names>
+                            <surstring-name>Basu</surstring-name>
+                            <given-string-names>S</given-string-names>
                         </string-name>, 
                         <string-name>
-                            <surname>Kaur</surname>
-                            <given-names>R</given-names>
+                            <surstring-name>Kaur</surstring-name>
+                            <given-string-names>R</given-string-names>
                         </string-name>, 
                         <string-name>
-                            <surname>Kaur</surname>
-                            <given-names>G</given-names>
+                            <surstring-name>Kaur</surstring-name>
+                            <given-string-names>G</given-string-names>
                         </string-name>
                     </person-group>. 
                     <article-title>Hemolytic disease of the fetus and newborn: current trends and perspectives</article-title>. 
@@ -156,12 +156,12 @@
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
                         <string-name>
-                            <surname>Delaney</surname>
-                            <given-names>M</given-names>
+                            <surstring-name>Delaney</surstring-name>
+                            <given-string-names>M</given-string-names>
                         </string-name>, 
                         <string-name>
-                            <surname>Matthews</surname>
-                            <given-names>DC</given-names>
+                            <surstring-name>Matthews</surstring-name>
+                            <given-string-names>DC</given-string-names>
                         </string-name>
                     </person-group>. 
                     <article-title>Hemolytic disease of the fetus and newborn: managing the mother, fetus, and newborn</article-title>. 
@@ -181,23 +181,23 @@
                 <mixed-citation publication-type="book" specific-use="restruct">
                     <person-group person-group-type="author">
                         <string-name>
-                            <surname>Polin</surname>
-                            <given-names>AR</given-names>
+                            <surstring-name>Polin</surstring-name>
+                            <given-string-names>AR</given-string-names>
                         </string-name>, 
                         <string-name>
-                            <surname>Fox</surname>
-                            <given-names>WW</given-names>
+                            <surstring-name>Fox</surstring-name>
+                            <given-string-names>WW</given-string-names>
                         </string-name>, 
                         <string-name>
-                            <surname>Abman</surname>
-                            <given-names>SH</given-names>
+                            <surstring-name>Abman</surstring-name>
+                            <given-string-names>SH</given-string-names>
                         </string-name>
                     </person-group>. 
                     <source>Fetal and Neonatal Physiology</source>. 
                     <volume>Volume 2</volume>. 
                     <edition>4th ed.</edition>
                     <publisher-loc>Philadelphia</publisher-loc>: 
-                    <publisher-name>Elsevier</publisher-name>; 
+                    <publisher-string-name>Elsevier</publisher-string-name>; 
                     <year>2004</year>. pp. 
                     <fpage>1500</fpage>–
                     <lpage>8</lpage>.
@@ -208,8 +208,8 @@
                 <mixed-citation publication-type="book" specific-use="unparsed">
                     <person-group person-group-type="author">
                         <string-name>
-                            <surname>Rudmann</surname>
-                            <given-names>SV</given-names>
+                            <surstring-name>Rudmann</surstring-name>
+                            <given-string-names>SV</given-string-names>
                         </string-name>
                     </person-group>. ur. Textbook of blood Banking and Transfusion Medicine. 2nd Ed. Philadelphia: Elsevier; 
                     <year>2005</year>. p.75-6.
@@ -223,20 +223,20 @@
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
                         <string-name>
-                            <surname>Peterson</surname>
-                            <given-names>JA</given-names>
+                            <surstring-name>Peterson</surstring-name>
+                            <given-string-names>JA</given-string-names>
                         </string-name>, 
                         <string-name>
-                            <surname>McFarland</surname>
-                            <given-names>JG</given-names>
+                            <surstring-name>McFarland</surstring-name>
+                            <given-string-names>JG</given-string-names>
                         </string-name>, 
                         <string-name>
-                            <surname>Curtis</surname>
-                            <given-names>BR</given-names>
+                            <surstring-name>Curtis</surstring-name>
+                            <given-string-names>BR</given-string-names>
                         </string-name>, 
                         <string-name>
-                            <surname>Aster</surname>
-                            <given-names>RH</given-names>
+                            <surstring-name>Aster</surstring-name>
+                            <given-string-names>RH</given-string-names>
                         </string-name>
                     </person-group>. 
                     <article-title>Neonatal alloimmune thrombocytopenia: pathogenesis, diagnosis and management</article-title>. 
@@ -257,24 +257,24 @@
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
                         <string-name>
-                            <surname>Curtis</surname>
-                            <given-names>BR</given-names>
+                            <surstring-name>Curtis</surstring-name>
+                            <given-string-names>BR</given-string-names>
                         </string-name>, 
                         <string-name>
-                            <surname>Edwards</surname>
-                            <given-names>JT</given-names>
+                            <surstring-name>Edwards</surstring-name>
+                            <given-string-names>JT</given-string-names>
                         </string-name>, 
                         <string-name>
-                            <surname>Hessner</surname>
-                            <given-names>MJ</given-names>
+                            <surstring-name>Hessner</surstring-name>
+                            <given-string-names>MJ</given-string-names>
                         </string-name>, 
                         <string-name>
-                            <surname>Klein</surname>
-                            <given-names>JP</given-names>
+                            <surstring-name>Klein</surstring-name>
+                            <given-string-names>JP</given-string-names>
                         </string-name>, 
                         <string-name>
-                            <surname>Aster</surname>
-                            <given-names>RH</given-names>
+                            <surstring-name>Aster</surstring-name>
+                            <given-string-names>RH</given-string-names>
                         </string-name>
                     </person-group>. 
                     <article-title>Blood group A and B antigens are strongly expressed on platelets of some individuals</article-title>. 
@@ -294,12 +294,12 @@
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
                         <string-name>
-                            <surname>Mitra</surname>
-                            <given-names>S</given-names>
+                            <surstring-name>Mitra</surstring-name>
+                            <given-string-names>S</given-string-names>
                         </string-name>, 
                         <string-name>
-                            <surname>Rennie</surname>
-                            <given-names>J</given-names>
+                            <surstring-name>Rennie</surstring-name>
+                            <given-string-names>J</given-string-names>
                         </string-name>
                     </person-group>. 
                     <article-title>Neonatal jaundice: aetiology, diagnosis and treatment</article-title>. 
@@ -320,12 +320,12 @@
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
                         <string-name>
-                            <surname>Porter</surname>
-                            <given-names>ML</given-names>
+                            <surstring-name>Porter</surstring-name>
+                            <given-string-names>ML</given-string-names>
                         </string-name>, 
                         <string-name>
-                            <surname>Dennis</surname>
-                            <given-names>BL</given-names>
+                            <surstring-name>Dennis</surstring-name>
+                            <given-string-names>BL</given-string-names>
                         </string-name>
                     </person-group>. 
                     <article-title>Hyperbilirubinemia in the term newborn</article-title>. 
@@ -345,12 +345,12 @@
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
                         <string-name>
-                            <surname>Murray</surname>
-                            <given-names>NA</given-names>
+                            <surstring-name>Murray</surstring-name>
+                            <given-string-names>NA</given-string-names>
                         </string-name>, 
                         <string-name>
-                            <surname>Roberts</surname>
-                            <given-names>IA</given-names>
+                            <surstring-name>Roberts</surstring-name>
+                            <given-string-names>IA</given-string-names>
                         </string-name>
                     </person-group>. 
                     <article-title>Haemolytic disease of the newborn</article-title>. 
@@ -371,16 +371,16 @@
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
                         <string-name>
-                            <surname>Bricl</surname>
-                            <given-names>I</given-names>
+                            <surstring-name>Bricl</surstring-name>
+                            <given-string-names>I</given-string-names>
                         </string-name>, 
                         <string-name>
-                            <surname>Ogrizek-Pelkič</surname>
-                            <given-names>K</given-names>
+                            <surstring-name>Ogrizek-Pelkič</surstring-name>
+                            <given-string-names>K</given-string-names>
                         </string-name>, 
                         <string-name>
-                            <surname>Vogler</surname>
-                            <given-names>A</given-names>
+                            <surstring-name>Vogler</surstring-name>
+                            <given-string-names>A</given-string-names>
                         </string-name>
                     </person-group>. 
                     <article-title>Hemolitična bolezen ploda in novorojenčka-prikaz primera</article-title>. 
@@ -400,8 +400,8 @@
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
                         <string-name>
-                            <surname>Geaghan</surname>
-                            <given-names>SM</given-names>
+                            <surstring-name>Geaghan</surstring-name>
+                            <given-string-names>SM</given-string-names>
                         </string-name>
                     </person-group>. 
                     <article-title>Diagnostic laboratory technologies for the fetus and neonate with isoimmunization</article-title>. 
@@ -422,12 +422,12 @@
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
                         <string-name>
-                            <surname>Christensen</surname>
-                            <given-names>RD</given-names>
+                            <surstring-name>Christensen</surstring-name>
+                            <given-string-names>RD</given-string-names>
                         </string-name>, 
                         <string-name>
-                            <surname>Yaish</surname>
-                            <given-names>HM</given-names>
+                            <surstring-name>Yaish</surstring-name>
+                            <given-string-names>HM</given-string-names>
                         </string-name>
                     </person-group>. 
                     <article-title>Hemolytic Disorders Causing Severe Neonatal Hyperbilirubinemia</article-title>. 
@@ -448,24 +448,24 @@
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
                         <string-name>
-                            <surname>Desjardins</surname>
-                            <given-names>L</given-names>
+                            <surstring-name>Desjardins</surstring-name>
+                            <given-string-names>L</given-string-names>
                         </string-name>, 
                         <string-name>
-                            <surname>Blajchman</surname>
-                            <given-names>MA</given-names>
+                            <surstring-name>Blajchman</surstring-name>
+                            <given-string-names>MA</given-string-names>
                         </string-name>, 
                         <string-name>
-                            <surname>Chintu</surname>
-                            <given-names>C</given-names>
+                            <surstring-name>Chintu</surstring-name>
+                            <given-string-names>C</given-string-names>
                         </string-name>, 
                         <string-name>
-                            <surname>Gent</surname>
-                            <given-names>M</given-names>
+                            <surstring-name>Gent</surstring-name>
+                            <given-string-names>M</given-string-names>
                         </string-name>, 
                         <string-name>
-                            <surname>Zipursky</surname>
-                            <given-names>A</given-names>
+                            <surstring-name>Zipursky</surstring-name>
+                            <given-string-names>A</given-string-names>
                         </string-name>
                     </person-group>. 
                     <article-title>The spectrum of ABO hemolytic disease of the newborn infant</article-title>. 
@@ -486,28 +486,28 @@
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
                         <string-name>
-                            <surname>van Rossum</surname>
-                            <given-names>HH</given-names>
+                            <surstring-name>van Rossum</surstring-name>
+                            <given-string-names>HH</given-string-names>
                         </string-name>, 
                         <string-name>
-                            <surname>de Kraa</surname>
-                            <given-names>N</given-names>
+                            <surstring-name>de Kraa</surstring-name>
+                            <given-string-names>N</given-string-names>
                         </string-name>, 
                         <string-name>
-                            <surname>Thomas</surname>
-                            <given-names>M</given-names>
+                            <surstring-name>Thomas</surstring-name>
+                            <given-string-names>M</given-string-names>
                         </string-name>, 
                         <string-name>
-                            <surname>Holleboom</surname>
-                            <given-names>CA</given-names>
+                            <surstring-name>Holleboom</surstring-name>
+                            <given-string-names>CA</given-string-names>
                         </string-name>, 
                         <string-name>
-                            <surname>Castel</surname>
-                            <given-names>A</given-names>
+                            <surstring-name>Castel</surstring-name>
+                            <given-string-names>A</given-string-names>
                         </string-name>, 
                         <string-name>
-                            <surname>van Rossum</surname>
-                            <given-names>AP</given-names>
+                            <surstring-name>van Rossum</surstring-name>
+                            <given-string-names>AP</given-string-names>
                         </string-name>
                     </person-group>. 
                     <article-title>Comparison of the direct antiglobulin test and the eluate technique for diagnosing haemolytic disease of the newborn</article-title>. 
@@ -530,24 +530,24 @@
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
                         <string-name>
-                            <surname>Usman</surname>
-                            <given-names>F</given-names>
+                            <surstring-name>Usman</surstring-name>
+                            <given-string-names>F</given-string-names>
                         </string-name>, 
                         <string-name>
-                            <surname>Diala</surname>
-                            <given-names>UM</given-names>
+                            <surstring-name>Diala</surstring-name>
+                            <given-string-names>UM</given-string-names>
                         </string-name>, 
                         <string-name>
-                            <surname>Shapiro</surname>
-                            <given-names>SM</given-names>
+                            <surstring-name>Shapiro</surstring-name>
+                            <given-string-names>SM</given-string-names>
                         </string-name>, 
                         <string-name>
-                            <surname>Le Pichon</surname>
-                            <given-names>JB</given-names>
+                            <surstring-name>Le Pichon</surstring-name>
+                            <given-string-names>JB</given-string-names>
                         </string-name>, 
                         <string-name>
-                            <surname>Slusher</surname>
-                            <given-names>TM</given-names>
+                            <surstring-name>Slusher</surstring-name>
+                            <given-string-names>TM</given-string-names>
                         </string-name>
                     </person-group>. 
                     <article-title>Acute Bilirubin Encephalopaty and its Proresssion to Kernicterus: current Perspectives</article-title>. 
@@ -568,24 +568,24 @@
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
                         <string-name>
-                            <surname>Davutoğlu</surname>
-                            <given-names>M</given-names>
+                            <surstring-name>Davutoğlu</surstring-name>
+                            <given-string-names>M</given-string-names>
                         </string-name>, 
                         <string-name>
-                            <surname>Garipardiç</surname>
-                            <given-names>M</given-names>
+                            <surstring-name>Garipardiç</surstring-name>
+                            <given-string-names>M</given-string-names>
                         </string-name>, 
                         <string-name>
-                            <surname>Güler</surname>
-                            <given-names>E</given-names>
+                            <surstring-name>Güler</surstring-name>
+                            <given-string-names>E</given-string-names>
                         </string-name>, 
                         <string-name>
-                            <surname>Karabiber</surname>
-                            <given-names>H</given-names>
+                            <surstring-name>Karabiber</surstring-name>
+                            <given-string-names>H</given-string-names>
                         </string-name>, 
                         <string-name>
-                            <surname>Erhan</surname>
-                            <given-names>D</given-names>
+                            <surstring-name>Erhan</surstring-name>
+                            <given-string-names>D</given-string-names>
                         </string-name>
                     </person-group>. 
                     <article-title>The etiology of severe neonatal hyperbilirubinemia and complications of exchange transfusion</article-title>. 
@@ -605,16 +605,16 @@
                 <mixed-citation publication-type="web-page" specific-use="unparsed">
                     <person-group person-group-type="author">
                         <string-name>
-                            <surname>Lozar Krivec</surname>
-                            <given-names>J</given-names>
+                            <surstring-name>Lozar Krivec</surstring-name>
+                            <given-string-names>J</given-string-names>
                         </string-name>, 
                         <string-name>
-                            <surname>Vidaković</surname>
-                            <given-names>M</given-names>
+                            <surstring-name>Vidaković</surstring-name>
+                            <given-string-names>M</given-string-names>
                         </string-name>, 
                         <string-name>
-                            <surname>Soltirovska-Šalamon</surname>
-                            <given-names>A</given-names>
+                            <surstring-name>Soltirovska-Šalamon</surstring-name>
+                            <given-string-names>A</given-string-names>
                         </string-name>
                     </person-group>. 
                     <article-title>Haemolytic disease of newborn.</article-title> Zdrav Vestn [Internet]. 28Oct.
@@ -627,20 +627,20 @@
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
                         <string-name>
-                            <surname>Espinoza</surname>
-                            <given-names>JP</given-names>
+                            <surstring-name>Espinoza</surstring-name>
+                            <given-string-names>JP</given-string-names>
                         </string-name>, 
                         <string-name>
-                            <surname>Caradeux</surname>
-                            <given-names>J</given-names>
+                            <surstring-name>Caradeux</surstring-name>
+                            <given-string-names>J</given-string-names>
                         </string-name>, 
                         <string-name>
-                            <surname>Norwitz</surname>
-                            <given-names>ER</given-names>
+                            <surstring-name>Norwitz</surstring-name>
+                            <given-string-names>ER</given-string-names>
                         </string-name>, 
                         <string-name>
-                            <surname>Illanes</surname>
-                            <given-names>SE</given-names>
+                            <surstring-name>Illanes</surstring-name>
+                            <given-string-names>SE</given-string-names>
                         </string-name>
                     </person-group>. 
                     <article-title>Fetal and neonatal alloimmune thrombocytopenia</article-title>. 
@@ -659,28 +659,28 @@
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
                         <string-name>
-                            <surname>Gunnink</surname>
-                            <given-names>SF</given-names>
+                            <surstring-name>Gunnink</surstring-name>
+                            <given-string-names>SF</given-string-names>
                         </string-name>, 
                         <string-name>
-                            <surname>Vlug</surname>
-                            <given-names>R</given-names>
+                            <surstring-name>Vlug</surstring-name>
+                            <given-string-names>R</given-string-names>
                         </string-name>, 
                         <string-name>
-                            <surname>Fijnvandraat</surname>
-                            <given-names>K</given-names>
+                            <surstring-name>Fijnvandraat</surstring-name>
+                            <given-string-names>K</given-string-names>
                         </string-name>, 
                         <string-name>
-                            <surname>van der Bom</surname>
-                            <given-names>JG</given-names>
+                            <surstring-name>van der Bom</surstring-name>
+                            <given-string-names>JG</given-string-names>
                         </string-name>, 
                         <string-name>
-                            <surname>Stanworth</surname>
-                            <given-names>SJ</given-names>
+                            <surstring-name>Stanworth</surstring-name>
+                            <given-string-names>SJ</given-string-names>
                         </string-name>, 
                         <string-name>
-                            <surname>Lopriore</surname>
-                            <given-names>E</given-names>
+                            <surstring-name>Lopriore</surstring-name>
+                            <given-string-names>E</given-string-names>
                         </string-name>
                     </person-group>. 
                     <article-title>Neonatal thrombocytopenia: etiology, management and outcome</article-title>. 
@@ -701,16 +701,16 @@
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
                         <string-name>
-                            <surname>Winkelhorst</surname>
-                            <given-names>D</given-names>
+                            <surstring-name>Winkelhorst</surstring-name>
+                            <given-string-names>D</given-string-names>
                         </string-name>, 
                         <string-name>
-                            <surname>Oepkes</surname>
-                            <given-names>D</given-names>
+                            <surstring-name>Oepkes</surstring-name>
+                            <given-string-names>D</given-string-names>
                         </string-name>, 
                         <string-name>
-                            <surname>Lopriore</surname>
-                            <given-names>E</given-names>
+                            <surstring-name>Lopriore</surstring-name>
+                            <given-string-names>E</given-string-names>
                         </string-name>
                     </person-group>. 
                     <article-title>Fetal and neonatal alloimmune thrombocytopenia: evidence based antenatal and postnatal management strategies</article-title>. 
@@ -731,28 +731,28 @@
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
                         <string-name>
-                            <surname>Brojer</surname>
-                            <given-names>E</given-names>
+                            <surstring-name>Brojer</surstring-name>
+                            <given-string-names>E</given-string-names>
                         </string-name>, 
                         <string-name>
-                            <surname>Husebekk</surname>
-                            <given-names>A</given-names>
+                            <surstring-name>Husebekk</surstring-name>
+                            <given-string-names>A</given-string-names>
                         </string-name>, 
                         <string-name>
-                            <surname>Dębska</surname>
-                            <given-names>M</given-names>
+                            <surstring-name>Dębska</surstring-name>
+                            <given-string-names>M</given-string-names>
                         </string-name>, 
                         <string-name>
-                            <surname>Uhrynowska</surname>
-                            <given-names>M</given-names>
+                            <surstring-name>Uhrynowska</surstring-name>
+                            <given-string-names>M</given-string-names>
                         </string-name>, 
                         <string-name>
-                            <surname>Guz</surname>
-                            <given-names>K</given-names>
+                            <surstring-name>Guz</surstring-name>
+                            <given-string-names>K</given-string-names>
                         </string-name>, 
                         <string-name>
-                            <surname>Orzińska</surname>
-                            <given-names>A</given-names>
+                            <surstring-name>Orzińska</surstring-name>
+                            <given-string-names>A</given-string-names>
                         </string-name>, 
                         <etal>et al.</etal>
                     </person-group>
@@ -774,28 +774,28 @@
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
                         <string-name>
-                            <surname>Curtis</surname>
-                            <given-names>BR</given-names>
+                            <surstring-name>Curtis</surstring-name>
+                            <given-string-names>BR</given-string-names>
                         </string-name>, 
                         <string-name>
-                            <surname>Fick</surname>
-                            <given-names>A</given-names>
+                            <surstring-name>Fick</surstring-name>
+                            <given-string-names>A</given-string-names>
                         </string-name>, 
                         <string-name>
-                            <surname>Lochowicz</surname>
-                            <given-names>AJ</given-names>
+                            <surstring-name>Lochowicz</surstring-name>
+                            <given-string-names>AJ</given-string-names>
                         </string-name>, 
                         <string-name>
-                            <surname>McFarland</surname>
-                            <given-names>JG</given-names>
+                            <surstring-name>McFarland</surstring-name>
+                            <given-string-names>JG</given-string-names>
                         </string-name>, 
                         <string-name>
-                            <surname>Ball</surname>
-                            <given-names>RH</given-names>
+                            <surstring-name>Ball</surstring-name>
+                            <given-string-names>RH</given-string-names>
                         </string-name>, 
                         <string-name>
-                            <surname>Peterson</surname>
-                            <given-names>J</given-names>
+                            <surstring-name>Peterson</surstring-name>
+                            <given-string-names>J</given-string-names>
                         </string-name>, 
                         <etal>et al.</etal>
                     </person-group>
@@ -816,12 +816,12 @@
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
                         <string-name>
-                            <surname>Roberts</surname>
-                            <given-names>I</given-names>
+                            <surstring-name>Roberts</surstring-name>
+                            <given-string-names>I</given-string-names>
                         </string-name>, 
                         <string-name>
-                            <surname>Murray</surname>
-                            <given-names>NA</given-names>
+                            <surstring-name>Murray</surstring-name>
+                            <given-string-names>NA</given-string-names>
                         </string-name>
                     </person-group>. 
                     <article-title>Neonatal thrombocytopenia: causes and management</article-title>. 
@@ -842,12 +842,12 @@
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
                         <string-name>
-                            <surname>Blanco</surname>
-                            <given-names>E</given-names>
+                            <surstring-name>Blanco</surstring-name>
+                            <given-string-names>E</given-string-names>
                         </string-name>, 
                         <string-name>
-                            <surname>Johnston</surname>
-                            <given-names>DL</given-names>
+                            <surstring-name>Johnston</surstring-name>
+                            <given-string-names>DL</given-string-names>
                         </string-name>
                     </person-group>. 
                     <article-title>Neutropenia in infants with hemolytic disease of the newborn</article-title>. 
