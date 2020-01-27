@@ -4,85 +4,85 @@
     xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" dtd-version="1.0" article-type="reference-list">
     <front>
         <article-meta>
-            <custom-meta-group>
+            <custom-meta-group> 
                 <custom-meta>
-                    <meta-name>TotalReferences</meta-name>
+                    <meta->TotalReferences</meta-name>  
                     <meta-value>19</meta-value>
                 </custom-meta>
                 <custom-meta>
-                    <meta-name>ReferencesParsed</meta-name>
+                    <meta->ReferencesParsed</meta-name>
                     <meta-value>14</meta-value>
                 </custom-meta>
                 <custom-meta>
-                    <meta-name>ReferencesBillable</meta-name>
+                    <meta->ReferencesBillable</meta-name>
                     <meta-value>14</meta-value>
                 </custom-meta>
                 <custom-meta>
-                    <meta-name>LinkServices</meta-name>
+                    <meta->LinkServices</meta-name>
                     <meta-value>pubmed-crossref</meta-value>
                 </custom-meta>
                 <custom-meta>
-                    <meta-name>ReferencesLinked</meta-name>
+                    <meta->ReferencesLinked</meta-name>
                     <meta-value>13</meta-value>
                 </custom-meta>
                 <custom-meta>
-                    <meta-name>ReferencesLinkedDOI</meta-name>
+                    <meta->ReferencesLinkedDOI</meta-name>
                     <meta-value>12</meta-value>
                 </custom-meta>
                 <custom-meta>
-                    <meta-name>ReferencesLinkedPMID</meta-name>
+                    <meta->ReferencesLinkedPMID</meta-name>
                     <meta-value>13</meta-value>
                 </custom-meta>
                 <custom-meta>
-                    <meta-name>JournalReferences</meta-name>
+                    <meta->JournalReferences</meta-name>
                     <meta-value>13</meta-value>
                 </custom-meta>
                 <custom-meta>
-                    <meta-name>BookReferences</meta-name>
+                    <meta->BookReferences</meta-name>
                     <meta-value>0</meta-value>
                 </custom-meta>
                 <custom-meta>
-                    <meta-name>BookChapterReferences</meta-name>
+                    <meta->BookChapterReferences</meta-name>
                     <meta-value>3</meta-value>
                 </custom-meta>
                 <custom-meta>
-                    <meta-name>ConferenceReferences</meta-name>
+                    <meta->ConferenceReferences</meta-name>
                     <meta-value>0</meta-value>
                 </custom-meta>
                 <custom-meta>
-                    <meta-name>ElectronicReferences</meta-name>
+                    <meta->ElectronicReferences</meta-name>
                     <meta-value>3</meta-value>
                 </custom-meta>
                 <custom-meta>
-                    <meta-name>DissertationReferences</meta-name>
+                    <meta->DissertationReferences</meta-name>
                     <meta-value>0</meta-value>
                 </custom-meta>
                 <custom-meta>
-                    <meta-name>LegalReferences</meta-name>
+                    <meta->LegalReferences</meta-name>
                     <meta-value>0</meta-value>
                 </custom-meta>
                 <custom-meta>
-                    <meta-name>StandardReferences</meta-name>
+                    <meta->StandardReferences</meta-name>
                     <meta-value>0</meta-value>
                 </custom-meta>
                 <custom-meta>
-                    <meta-name>OtherReferences</meta-name>
+                    <meta->OtherReferences</meta-name>
                     <meta-value>0</meta-value>
                 </custom-meta>
                 <custom-meta>
-                    <meta-name>UnknownReferences</meta-name>
+                    <meta->UnknownReferences</meta-name>
                     <meta-value>0</meta-value>
                 </custom-meta>
                 <custom-meta>
-                    <meta-name>ReferencesSemiParsed</meta-name>
+                    <meta->ReferencesSemiParsed</meta-name>
                     <meta-value>0</meta-value>
                 </custom-meta>
                 <custom-meta>
-                    <meta-name>ReferencesBookUnparsed</meta-name>
+                    <meta->ReferencesBookUnparsed</meta-name>
                     <meta-value>2</meta-value>
                 </custom-meta>
                 <custom-meta>
-                    <meta-name>EditorialStyle</meta-name>
+                    <meta->EditorialStyle</meta-name>
                     <meta-value>ICMJE-WHO</meta-value>
                 </custom-meta>
             </custom-meta-group>
@@ -91,7 +91,7 @@
     <back>
         <ref-list>
             <ref id="b1">
-                <mixed-citation publication-type="web-page"name>
+                <mixed-citation publication-type="web-page">
                     
                     <article-title>Pravilnik o naročanju in upravljanju čakalnih seznamov ter najdaljših dopustnih čakalnih dobah</article-title>.
                     <comment>[Internet]</comment>. 
@@ -104,52 +104,52 @@
                 </mixed-citation>
             </ref>
             <ref id="b2">
-                <mixed-citation publication-type="book-chapter"name>
+                <mixed-citation publication-type="book-chapter">
                     <person-group person-group-type="author">
-                        <name>
+                        <>
                             <surname>Gaberšček</surname>
                             <given-names>S</given-names>
-                        </name>.
+                        </>.
                         <chapter-title>Ščitnica</chapter-title>. 
                         <person-group person-group-type="editor">
-                            <name>
+                            <>
                                 <surname>Košnik</surname>
                                 <given-names>M</given-names>
-                            </name>.
+                            </>.
                             <source>Interna medicina</source>.  
                             <edition>5. izd.</edition>.                           
                           
                             <publisher-loc>Ljubljana</publisher-loc>:                                             
-                            <publisher-name>Slovensko zdravniško društvo</publisher-name>; 
-                            <publisher-name>Buča</publisher-name>; 
+                            <publisher->Slovensko zdravniško društvo</publisher->; 
+                            <publisher->Buča</publisher->; 
                             <year>2018</year>. pp. 
                             <fpage>741</fpage>–
                             <lpage>5</lpage>.
                          </mixed-citation>
                     </ref>
                     <ref id="b3">
-                        <mixed-citation publication-type="journal"name>
+                        <mixed-citation publication-type="journal">
                             <person-group person-group-type="author">
-                                <name>
+                                <>
                                     <surname>Zaletel</surname>
                                     <given-names>K</given-names>
-                                </name>, 
+                                </>, 
                         
                                 
                                 
                                 
-                                <name>
+                                <>
                                     <surname>Gaberšček</surname>
                                     <given-names>S</given-names>
-                                </name>, 
+                                </>, 
                         
                                 
                                 
                                 
-                                <name>
+                                <>
                                     <surname>Pirnat</surname>
                                     <given-names>E</given-names>
-                                </name>, 
+                                </>, 
                     
                             
                             
@@ -201,52 +201,52 @@
                         </mixed-citation>
                     </ref>
                     <ref id="b4">
-                        <mixed-citation publication-type="journal"name>
+                        <mixed-citation publication-type="journal">
                             <person-group person-group-type="author">
-                                <name>
+                                <>
                                     <surname>Collet</surname>
                                     <given-names>TH</given-names>
-                                </name>, 
+                                </>, 
                         
                                 
                                 
                                 
-                                <name>
+                                <>
                                     <surname>Gussekloo</surname>
                                     <given-names>J</given-names>
-                                </name>, 
+                                </>, 
                         
                                 
                                 
                                 
-                                <name>
+                                <>
                                     <surname>Bauer</surname>
                                     <given-names>DC</given-names>
-                                </name>, 
+                                </>, 
                         
                                 
                                 
                                 
-                                <name>
+                                <>
                                     <surname>den Elzen</surname>
                                     <given-names>WP</given-names>
-                                </name>, 
+                                </>, 
                         
                                 
                                 
                                 
-                                <name>
+                                <>
                                     <surname>Cappola</surname>
                                     <given-names>AR</given-names>
-                                </name>, 
+                                </>, 
                         
                                 
                                 
                                 
-                                <name>
+                                <>
                                     <surname>Balmer</surname>
                                     <given-names>P</given-names>
-                                </name>, 
+                                </>, 
                         
                                 
                                 
@@ -304,53 +304,53 @@
                         </mixed-citation>
                     </ref>
                     <ref id="b5">
-                        <mixed-citation publication-type="journal"name>
+                        <mixed-citation publication-type="journal">
                             <person-group person-group-type="author">
-                                <name>
+                                <>
                                     <surname>Hollowell</surname>
                                     <given-names>JG</given-names>
-                                </name>, 
+                                </>, 
                                     
                                     
                                 
-                                <name>
+                                <>
                                     <surname>Staehling</surname>
                                     <given-names>NW</given-names>
-                                </name>, 
+                                </>, 
                                     
                                     
                                 
-                                <name>
+                                <>
                                     <surname>Flanders</surname>
                                     <given-names>WD</given-names>
-                                </name>, 
+                                </>, 
                                     
                                     
                                 
-                                <name>
+                                <>
                                     <surname>Hannon</surname>
                                     <given-names>WH</given-names>
-                                </name>, 
+                                </>, 
                                     
                                     
                                 
-                                <name>
+                                <>
                                     <surname>Gunter</surname>
                                     <given-names>EW</given-names>
-                                </name>, 
+                                </>, 
                                     
                                     
                                 
-                                <name>
+                                <>
                                     <surname>Spencer</surname>
                                     <given-names>CA</given-names>
-                                </name>, 
+                                </>, 
                                     
                                     
                                 
                                 <etal>et al.</etal>
                             </person-group>
-                            <article-title>Serum TSH, T4, and Thyroid Antibodies in the United States Population (1988 to 1994): National Health and Nutrition Examination Survey (NHANES III)
+                            <article-title>Serum TSH, T4, and Thyroid Antibodies in the United States Population (1988 to 1994): National Health and Nutrition Examination surnamevey (NHANES III)
                                 
                             
                             </source>. 
@@ -384,36 +384,36 @@
                         </mixed-citation>
                     </ref>
                     <ref id="b6">
-                        <mixed-citation publication-type="journal"name>
+                        <mixed-citation publication-type="journal">
                             <person-group person-group-type="author">
-                                <name>
+                                <>
                                     <surname>Canaris</surname>
                                     <given-names>GJ</given-names>
-                                </name>, 
+                                </>, 
                         
                                 
                                 
                                 
-                                <name>
+                                <>
                                     <surname>Manowitz</surname>
                                     <given-names>NR</given-names>
-                                </name>, 
+                                </>, 
                         
                                 
                                 
                                 
-                                <name>
+                                <>
                                     <surname>Mayor</surname>
                                     <given-names>G</given-names>
-                                </name>, 
+                                </>, 
                         
                                 
                                 
                                 
-                                <name>
+                                <>
                                     <surname>Ridgway</surname>
                                     <given-names>EC</given-names>
-                                </name>
+                                </>
                             </person-group>. 
                     
                             
@@ -461,20 +461,20 @@
                         </mixed-citation>
                     </ref>
                     <ref id="b7">
-                        <mixed-citation publication-type="journal"name>
+                        <mixed-citation publication-type="journal">
                             <person-group person-group-type="author">
-                                <name>
+                                <>
                                     <surname>Almandoz</surname>
                                     <given-names>JP</given-names>
-                                </name>, 
+                                </>, 
                         
                                 
                                 
                                 
-                                <name>
-                                    <surname>Gharib</surname>
+                                <>
+                                    <surname>Gharib</surname> 
                                     <given-names>H</given-names>
-                                </name>
+                                </>
                             </person-group>. 
                     
                             
@@ -522,22 +522,22 @@
                         </mixed-citation>
                     </ref>
                     <ref id="b8">
-                        <mixed-citation publication-type="conf-proc"name>
+                        <mixed-citation publication-type="conf-proc">
                             <person-group person-group-type="author">
-                                <name>
+                                <>
                                     <surname>Krhin</surname>
                                     <given-names>B</given-names>
-                                </name>
+                                </>
                             </person-group>. 
                     
                             
                             
                             
                             <person-group person-group-type="editor">
-                                <name>
+                                <>
                                     <surname>Gaberšček</surname>
                                     <given-names>S</given-names>
-                                </name>.
+                                </>.
                                 
                                 
                                 <surname>Zaletel</surname>
@@ -547,7 +547,7 @@
                                 
                                 <article-title>Kakovostna laboratorijska diagnostika ščitničnih bolezni.</article-title>
                                 <comment>Bolezni štitnice</comment>.
-                                <conf-name>Podiplomska šola za zdravnike, Logarska dolina</conf-name>;
+                                <conf->Podiplomska šola za zdravnike, Logarska dolina</conf->;
                                 
                                 
                                 <conf-date iso-8601-date="2018-05-11">2018 Maj 11-12</conf-date>.
@@ -556,7 +556,7 @@
                                 <publisher-loc>Ljubljana</publisher-loc>:
                                 
                                 
-                                <publisher-name>Slovensko združenje za nuklearno medicino</publisher-name>;
+                                <publisher->Slovensko združenje za nuklearno medicino</publisher->;
                                 
                                 
                                 <year iso-8601-date="2018">2018</year>.
@@ -565,19 +565,19 @@
                             </mixed-citation>
                         </ref>
                         <ref id="b9">
-                            <mixed-citation publication-type="book-chapter"name>
+                            <mixed-citation publication-type="book-chapter">
                                 <person-group person-group-type="author">
-                                    <name>
+                                    <>
                                         <surname>Molnar Novak</surname>
                                         <given-names>H</given-names>
-                                    </name>
+                                    </>
                                 </person-group>. 
                                 
                                 
                                 
                                 <article-title>Boleča ščitnica.</article-title>
                                 <comment>Bolezni štitnice</comment>.
-                                <conf-name>Podiplomska šola za zdravnike, Logarska dolina</conf-name>;
+                                <conf->Podiplomska šola za zdravnike, Logarska dolina</conf->;
                                 
                                 
                                 <conf-date iso-8601-date="2018-05-11">2018 Maj 11-12</conf-date>.
@@ -586,7 +586,7 @@
                                 <publisher-loc>Ljubljana</publisher-loc>:
                                 
                                 
-                                <publisher-name>Slovensko združenje za nuklearno medicino</publisher-name>;
+                                <publisher->Slovensko združenje za nuklearno medicino</publisher->;
                                 
                                 
                                 <year iso-8601-date="2018">2018</year>.
@@ -595,12 +595,12 @@
                             </mixed-citation>
                         </ref>
                         <ref id="b10">
-                            <mixed-citation publication-type="web-page"name>
+                            <mixed-citation publication-type="web-page">
                                 <person-group person-group-type="author">
-                                    <name>
+                                    <>
                                         <surname>Hennessey</surname>
                                         <given-names>JV</given-names>
-                                    </name>
+                                    </>
                                 </person-group>. 
                     
                                 
@@ -609,37 +609,37 @@
                                 <article-title>Subacute thyroiditis.</article-title>.
                                 <comment>In</comment>:  
                                 <person-group person-group-type="editor">
-                                    <name>
+                                    <>
                                         <surname>De Groot</surname>
                                         <given-names>LJ</given-names>
-                                    </name>,
-                                    <name>
+                                    </>,
+                                    <>
                                         <surname>Chrousos</surname>
                                         <given-names>G</given-names>
-                                    </name>,
-                                    <name>
+                                    </>,
+                                    <>
                                         <surname>Dungan</surname>
                                         <given-names>K</given-names>
-                                    </name>,
-                                    <name>
+                                    </>,
+                                    <>
                                         <surname>Feingold</surname>
                                         <given-names>KR</given-names>
-                                    </name>,
-                                    <name>
+                                    </>,
+                                    <>
                                         <surname>Grossman</surname>
                                         <given-names>A</given-names>
-                                    </name>,
-                                    <name>
+                                    </>,
+                                    <>
                                         <surname>Hershman</surname>
                                         <given-names>JM</given-names>
-                                    </name>,
+                                    </>,
                                     <etal>et al.</etal>
                                     <role>editors</role>.
                                 </person-group>
                                 <article-title>Endotext</article-title>
                                 <comment>[Internet]</comment>. 
                                 <publisher-loc>South Dartmouth (MA)</publisher-loc>:
-                                <publisher-name>MDText.com, Inc </publisher-name>;
+                                <publisher->MDText.com, Inc </publisher->;
                                 <year iso-8601-date="2000-2015">2000-2015</year>.                                     
                                 <date-in-citation content-type="access-date">cited 2018 Nov 1</date-in-citation>. 
                                 <comment>Available from</comment>:                        
@@ -647,25 +647,25 @@
                             </mixed-citation>
                         </ref>
                         <ref id="b11">
-                            <mixed-citation publication-type="journal"name>
+                            <mixed-citation publication-type="journal">
                                 <person-group person-group-type="author">
-                                    <name>
+                                    <>
                                         <surname>Slatosky</surname>
                                         <given-names>J</given-names>
-                                    </name>, 
+                                    </>, 
                         
-                                    <name>
+                                    <>
                                         <surname>Shipton</surname>
                                         <given-names>B</given-names>
-                                    </name>, 
+                                    </>, 
                         
                                     
                                     
                                     
-                                    <name>
+                                    <>
                                         <surname>Wahba</surname>
                                         <given-names>H</given-names>
-                                    </name>
+                                    </>
                                 </person-group>. 
                     
                                 
@@ -712,52 +712,52 @@
                             </mixed-citation>
                         </ref>
                         <ref id="b12">
-                            <mixed-citation publication-type="journal"name>
+                            <mixed-citation publication-type="journal">
                                 <person-group person-group-type="author">
-                                    <name>
+                                    <>
                                         <surname>Haugen</surname>
                                         <given-names>BR</given-names>
-                                    </name>, 
+                                    </>, 
                         
                                     
                                     
                                     
-                                    <name>
+                                    <>
                                         <surname>Alexander</surname>
                                         <given-names>EK</given-names>
-                                    </name>, 
+                                    </>, 
                         
                                     
                                     
                                     
-                                    <name>
+                                    <>
                                         <surname>Bible</surname>
                                         <given-names>KC</given-names>
-                                    </name>, 
+                                    </>, 
                         
                                     
                                     
                                     
-                                    <name>
+                                    <>
                                         <surname>Doherty</surname>
                                         <given-names>GM</given-names>
-                                    </name>, 
+                                    </>, 
                         
                                     
                                     
                                     
-                                    <name>
+                                    <>
                                         <surname>Mandel</surname>
                                         <given-names>SJ</given-names>
-                                    </name>, 
+                                    </>, 
                         
                                     
                                     
                                     
-                                    <name>
+                                    <>
                                         <surname>Nikiforov</surname>
                                         <given-names>YE</given-names>
-                                    </name>, 
+                                    </>, 
                         
                                     
                                     
@@ -809,20 +809,20 @@
                             </mixed-citation>
                         </ref>
                         <ref id="b13">
-                            <mixed-citation publication-type="journal"name>
+                            <mixed-citation publication-type="journal">
                                 <person-group person-group-type="author">
-                                    <name>
+                                    <>
                                         <surname>Dean</surname>
                                         <given-names>DS</given-names>
-                                    </name>, 
+                                    </>, 
                         
                                     
                                         
                                     
-                                    <name>
+                                    <>
                                         <surname>Gharib</surname>
                                         <given-names>H</given-names>
-                                    </name>
+                                    </>
                                 </person-group>. 
                     
                                 
@@ -870,52 +870,52 @@
                             </mixed-citation>
                         </ref>
                         <ref id="b14">
-                            <mixed-citation publication-type="journal"name>
+                            <mixed-citation publication-type="journal">
                                 <person-group person-group-type="author">
-                                    <name>
+                                    <>
                                         <surname>Gharib</surname>
                                         <given-names>H</given-names>
-                                    </name>, 
+                                    </>, 
                         
                                     
                                         
                                     
-                                    <name>
+                                    <>
                                         <surname>Papini</surname>
                                         <given-names>E</given-names>
-                                    </name>, 
+                                    </>, 
                         
                                     
                                         
                                     
-                                    <name>
+                                    <>
                                         <surname>Paschke</surname>
                                         <given-names>R</given-names>
-                                    </name>, 
+                                    </>, 
                         
                                     
                                         
                                     
-                                    <name>
+                                    <>
                                         <surname>Duick</surname>
                                         <given-names>DS</given-names>
-                                    </name>, 
+                                    </>, 
                         
                                     
                                         
                                     
-                                    <name>
+                                    <>
                                         <surname>Valcavi</surname>
                                         <given-names>R</given-names>
-                                    </name>, 
+                                    </>, 
                         
                                     
                                         
                                     
-                                    <name>
+                                    <>
                                         <surname>Hegedüs</surname>
                                         <given-names>L</given-names>
-                                    </name>, 
+                                    </>, 
                         
                                     
                                         
@@ -951,7 +951,7 @@
                             </mixed-citation>
                         </ref>
                         <ref id="b15">
-                            <mixed-citation publication-type="web-page"name>
+                            <mixed-citation publication-type="web-page">
                                 <person-group person-group-type="author">
                                     <collab>Cancer in Slovenia. 2014</collab>.
                                             
@@ -959,7 +959,7 @@
                                     <publisher-loc>Ljubljana</publisher-loc>:
                                             
                                     
-                                    <publisher-name> Institute of Oncology Ljubljana, Epidemiology and Cancer Registry. Cancer Registry of Republic of Slovenia</publisher-name>.                                              
+                                    <publisher-> Institute of Oncology Ljubljana, Epidemiology and Cancer Registry. Cancer Registry of Republic of Slovenia</publisher->.                                              
                                         
                                     
                                     <date-in-citation content-type="access-date">cited 2018 Nov 1</date-in-citation>. 
@@ -968,20 +968,20 @@
                                 </mixed-citation>
                             </ref>
                             <ref id="b16">
-                                <mixed-citation publication-type="journal"name>
+                                <mixed-citation publication-type="journal">
                                     <person-group person-group-type="author">
-                                        <name>
+                                        <>
                                             <surname>Gaberšček</surname>
                                             <given-names>S</given-names>
-                                        </name>, 
+                                        </>, 
                         
                                     
                                             
                                         
-                                        <name>
+                                        <>
                                             <surname>Zaletel</surname>
                                             <given-names>K</given-names>
-                                        </name>
+                                        </>
                                     </person-group>. 
                     
                                 
@@ -1029,52 +1029,52 @@
                                 </mixed-citation>
                             </ref>
                             <ref id="b17">
-                                <mixed-citation publication-type="journal"name>
+                                <mixed-citation publication-type="journal">
                                     <person-group person-group-type="author">
-                                        <name>
+                                        <>
                                             <surname>Alexander</surname>
                                             <given-names>EK</given-names>
-                                        </name>, 
+                                        </>, 
                         
                                     
                                             
                                         
-                                        <name>
+                                        <>
                                             <surname>Pearce</surname>
                                             <given-names>EN</given-names>
-                                        </name>, 
+                                        </>, 
                         
                                     
                                             
                                         
-                                        <name>
+                                        <>
                                             <surname>Brent</surname>
                                             <given-names>GA</given-names>
-                                        </name>, 
+                                        </>, 
                         
                                     
                                             
                                         
-                                        <name>
+                                        <>
                                             <surname>Brown</surname>
                                             <given-names>RS</given-names>
-                                        </name>, 
+                                        </>, 
                         
                                     
                                             
                                         
-                                        <name>
+                                        <>
                                             <surname>Chen</surname>
                                             <given-names>H</given-names>
-                                        </name>, 
+                                        </>, 
                         
                                     
                                             
                                         
-                                        <name>
+                                        <>
                                             <surname>Dosiou</surname>
                                             <given-names>C</given-names>
-                                        </name>, 
+                                        </>, 
                         
                                     
                                             
@@ -1123,52 +1123,52 @@
                                 </mixed-citation>
                             </ref>
                             <ref id="b18">
-                                <mixed-citation publication-type="journal"name>
+                                <mixed-citation publication-type="journal">
                                     <person-group person-group-type="author">
-                                        <name>
+                                        <>
                                             <surname>Lazarus</surname>
                                             <given-names>J</given-names>
-                                        </name>, 
+                                        </>, 
                         
                                     
                                             
                                         
-                                        <name>
+                                        <>
                                             <surname>Brown</surname>
                                             <given-names>RS</given-names>
-                                        </name>, 
+                                        </>, 
                         
                                     
                                             
                                         
-                                        <name>
+                                        <>
                                             <surname>Daumerie</surname>
                                             <given-names>C</given-names>
-                                        </name>, 
+                                        </>, 
                         
                                     
                                             
                                         
-                                        <name>
+                                        <>
                                             <surname>Hubalewska-Dydejczyk</surname>
                                             <given-names>A</given-names>
-                                        </name>, 
+                                        </>, 
                         
                                     
                                             
                                         
-                                        <name>
+                                        <>
                                             <surname>Negro</surname>
                                             <given-names>R</given-names>
-                                        </name>, 
+                                        </>, 
                         
                                     
                                             
                                         
-                                        <name>
+                                        <>
                                             <surname>Vaidya</surname>
                                             <given-names>B</given-names>
-                                        </name>
+                                        </>
                                     </person-group>. 
                     
                                 
@@ -1216,44 +1216,44 @@
                                 </mixed-citation>
                             </ref>
                             <ref id="b19">
-                                <mixed-citation publication-type="journal"name>
+                                <mixed-citation publication-type="journal">
                                     <person-group person-group-type="author">
-                                        <name>
+                                        <>
                                             <surname>Wiersinga</surname>
                                             <given-names>WM</given-names>
-                                        </name>, 
+                                        </>, 
                         
                                     
                                             
                                         
-                                        <name>
+                                        <>
                                             <surname>Duntas</surname>
                                             <given-names>L</given-names>
-                                        </name>, 
+                                        </>, 
                         
                                     
                                             
                                         
-                                        <name>
+                                        <>
                                             <surname>Fadeyev</surname>
                                             <given-names>V</given-names>
-                                        </name>, 
+                                        </>, 
                         
                                     
                                             
                                         
-                                        <name>
+                                        <>
                                             <surname>Nygaard</surname>
                                             <given-names>B</given-names>
-                                        </name>, 
+                                        </>, 
                         
                                     
                                             
                                         
-                                        <name>
+                                        <>
                                             <surname>Vanderpump</surname>
                                             <given-names>MP</given-names>
-                                        </name>
+                                        </>
                                     </person-group>. 
                     
                                 
