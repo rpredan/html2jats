@@ -110,6 +110,9 @@
   </xsl:template>
   <xsl:template match="h:body">
     <xsl:if test="fn:empty($primaryLang)">
+      <xsl:if test="fn:count(/h:html/h:body/h:sidebar) lt 2">
+        <xsl:message>Warning: expect 2 sidebars at /html/body/sidebar</xsl:message>
+      </xsl:if>
       <xsl:message>Error: language not found at /html/body/sidebar[1]/p/span[@class='primary-language']</xsl:message>
     </xsl:if>
     <article dtd-version="1.1">

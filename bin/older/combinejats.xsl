@@ -12,8 +12,8 @@
      doctype-system="JATS-journalpublishing1-mathml3.dtd"
      />
 
-  <xsl:param name="translatedFile" as="xs:string" select="''"/>
-  <xsl:param name="translatedDoc" as="document-node()?" select="fn:doc($translatedFile)"/>
+  <xsl:param name="translatedFile"/>
+  <xsl:param name="translatedDoc" select="document($translatedFile)"/>
   <xsl:variable name="translatedLang" select="$translatedDoc/article/@xml:lang"/>
   <xsl:variable name="originalArticle" select="/article"/>
   <xsl:variable name="originalLang" select="$originalArticle/@xml:lang"/>
@@ -23,40 +23,18 @@
       <xsl:copy-of select="@*|*"/>
       <sub-article id="{fn:concat('article-', $translatedLang)}">
         <xsl:apply-templates select="$translatedDoc/article/@*[name()!='dtd-version']"/>
-        <front-stub>
-          <!-- Skip journal-meta fields, should all be the same. -->
-          <!-- Copy article-meta fields that differ from original article. -->
-          <xsl:for-each select="$translatedDoc/article/front/article-meta/*">
-            <xsl:variable name="name" select="name(.)"/>
-            <xsl:variable name="hasSame">
-              <xsl:choose>
-                <!-- Always convert contrib-group and all
-                     (aff or aff-alternatives)
-                     to make it easier for casual readers, 
-                     and to ensure matching id and rid are both present. -->
-                <xsl:when test="self::contrib-group or self::aff-alternatives or
-                                self::aff">false</xsl:when>
-                <xsl:when test="@xml:lang">
-                  <xsl:variable name="lang" select="@xml:lang"/>
-                  <xsl:value-of select=". = $originalArticle/front/article-meta/*[name(.)=$name and @xml:lang=$lang]"/>
-                </xsl:when>
-                <xsl:otherwise>
-                  <xsl:value-of select=". = $originalArticle/front/article-meta/*[name(.)=$name]"/>
-                </xsl:otherwise>
-              </xsl:choose>
-            </xsl:variable>
-            <xsl:if test="$hasSame='false'">
-              <xsl:apply-templates select="."/>
-            </xsl:if>
-          </xsl:for-each>
-        </front-stub>
-        <xsl:apply-templates select="$translatedDoc/article/front/following-sibling::*"/>
+        <xsl:apply-templates select="$translatedDoc/article/*"/>
       </sub-article>
     </xsl:copy>
   </xsl:template>
 
+  <!-- Translated article must have unique DOI.  Emit warning if same. -->
   <xsl:template match="article-id[@pub-id-type='doi']">
     <xsl:variable name="originalDOI" select="$originalArticle/front/article-meta/article-id[@pub-id-type='doi']/text()"/>
+    <xsl:variable name="translationDOI" select="text()"/>
+    <xsl:if test="$translationDOI = $originalDOI">
+      <xsl:message>Warning: original DOI and translation DOI must be unique, but they are identical: <xsl:value-of select="$translationDOI"/></xsl:message>      
+    </xsl:if>
     <xsl:copy>
       <xsl:apply-templates select="@*|node()"/>
     </xsl:copy>

@@ -48,15 +48,15 @@ Sample files
 Installation:
 
 o Saxon-HE (Java implementation of XSLT 3.0)
-  - Download Saxon-HE from
+  - Download Saxon-HE 9.8 from
     saxon.sourceforge.net
   - Unzip the file to a folder of your choice.
-    (Tested with SaxonHE-9-8-0-14J.) 
+    (Tested with SaxonHE-9-8-0-14J.  With SaxonHE-9-9-02J, "+param=doc" failed.)
   - Set the SAXON_HOME command line environment variable to the path to the
     installed Saxon folder containing saxon9he.jar .
     (in bash, also 'export SAXON_HOME' so the script can see it.)
 
-o Apache XML-Commons-Resolver (Entity resolver for DTD)
+o Apache XML-Commons-Resolver (Entity resolver for using a local DTD catalog)
   - Downloads Apache XML-Commons-Resolver from
     http://xerces.apache.org/xml-commons/
   - Unzip the file to a folder of your choice.
@@ -65,25 +65,35 @@ o Apache XML-Commons-Resolver (Entity resolver for DTD)
     installed folder containing resolver.jar .
     (in bash, also 'export RESOLVER_HOME' so the script can see it.)
 
-o JATS DTD Schema
+o JATS DTD Schemas (Schemas needed to parse xml with these DTDs in DOCTYPE)
   - Download jats-archiving-dtd-1.0.zip from
     ftp://ftp.ncbi.nih.gov/pub/jats/archiving/1.0/
     (This schema is needed to parse NNNN_edifiX_JATSXML.xml files.)
   - Download JATS-Publishing-1-1-OASIS-MathML3-DTD.zip from
     ftp://ftp.ncbi.nih.gov/pub/jats/publishing/1.1/
     (This schema is needed to parse JATS files to be combined.)
-  - Unzip the schema zip file to a folder of your choice.
+  - Unzip each schema zip file under a folder of your choice.
 
 o HTML2JATS
-  - Unzip the html2jats zip file to the same folder as the schemas.
+  - Unzip the html2jats zip file under the same folder as the schemas.
 
-You should now have a folder with at least the following subfolders:
-  - html2jats
-  - jats-archiving-dtd-1.0
-  - JATS-Publishing-1-1-MathML3-DTD
-(These folders must be siblings because 
-   html2jats/src/jats-dtd-catalog.xml
- refers to the DTD schemas via relative paths.)
+If you unzipped the zip files under a folder called "myjats" then 
+"myjats" should now have at least the following subfolders:
+
+  myjats/
+  - html2jats-YYYYMMDDx/
+  - jats-archiving-dtd-1.0/
+  - JATS-Publishing-1-1-MathML3-DTD/
+
+(These folders are siblings because 
+   html2jats-YYYYMMDDx/bin/jats-dtd-catalog.xml
+ refers to the DTD schemas via relative paths starting from the bin folder.
+   xml:base="file:../../jats-archiving-dtd-1.0/"
+   xml:base="file:../../JATS-Publishing-1-1-MathML3-DTD/"
+ This structure was chosen so the DTD folders remain in the same place when
+ a new html2jats version is installed.
+)
+
 
 Run:
 
@@ -106,7 +116,7 @@ CMD:
   bin\html2jats.cmd 2660 en
   bin\html2jats.cmd 2660 combine
 
-The html2jats-all script runs 3 transforms.
+The html2jats script runs 3 transforms.
 - sl: html2jats.xsl on X.html and X_edifiX_JATSXML.xml producing X-sl.xml.
 - en: html2jats.xsl on X-en.html and X_edifiX_JATSXML.xml producing X-en.xml.
 - combine: combinejats.xsl on X-sl.xml and X-en.xml producing X-all.xml
