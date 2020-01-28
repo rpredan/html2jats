@@ -1,92 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
-<article
-    xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" dtd-version="1.0" article-type="reference-list">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" dtd-version="1.0" article-type="reference-list">
     <front>
-        <article-meta>
-            <custom-meta-group>
-                <custom-meta>
-                    <meta-name>TotalReferences</meta-name>
-                    <meta-value>23</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesParsed</meta-name>
-                    <meta-value>19</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesBillable</meta-name>
-                    <meta-value>19</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>LinkServices</meta-name>
-                    <meta-value>pubmed-crossref</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesLinked</meta-name>
-                    <meta-value>14</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesLinkedDOI</meta-name>
-                    <meta-value>11</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesLinkedPMID</meta-name>
-                    <meta-value>13</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>JournalReferences</meta-name>
-                    <meta-value>15</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>BookReferences</meta-name>
-                    <meta-value>4</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>BookChapterReferences</meta-name>
-                    <meta-value>2</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ConferenceReferences</meta-name>
-                    <meta-value>1</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ElectronicReferences</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>DissertationReferences</meta-name>
-                    <meta-value>1</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>LegalReferences</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>StandardReferences</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>OtherReferences</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>UnknownReferences</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesSemiParsed</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesBookUnparsed</meta-name>
-                    <meta-value>2</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>EditorialStyle</meta-name>
-                    <meta-value>ICMJE-WHO</meta-value>
-                </custom-meta>
-            </custom-meta-group>
-        </article-meta>
     </front>
     <back>
         <ref-list>
@@ -236,7 +151,7 @@
                 </mixed-citation>
             </ref>
             <ref id="b6">
-                <mixed-citation publication-type="conference"name>
+                <mixed-citation publication-type="conference">
                     <person-group person-group-type="author">
                         <name>
                             <surname>Eberlinc</surname>
@@ -246,12 +161,12 @@
                     <article-title>Estetski problem pri pacientih s heilognatopalatoshizo </article-title>. 
                     <conf-name>Sodobne metode in nove tehnologije v maksilofacialni kirurgiji in stomatologiji</conf-name>.
                     <conf-date iso-8601-date="2014-11-29">2014 Nov 29</conf-date>;
-                    <conf-place>Brdo pri Kranju, Slovenija</conf-place>.
+                    <conf-loc>Brdo pri Kranju, Slovenija</conf-loc>.
                     <publisher-loc>Ljubljana</publisher-loc>:
                     <publisher-name>Združenje za maksilofacialno in oralno kirurgijo Slovenije</publisher-name>;
                      <year>2014</year>. 
                     <fpage>75</fpage>.
-                    
+                </mixed-citation>  
             </ref>
             <ref id="b7">
                 <mixed-citation publication-type="book">
@@ -627,7 +542,7 @@
                     <article-title>Skrb za osebe z razcepom ustnic, čeljusti in neba v Sloveniji</article-title>. 
                     <conf-name>Družbena skrb za vzgojo, izobraževanje in socialno varstvo oseb s posebnimi potrebami - deset let kasneje : zbornik referatov</conf-name>. 
                     <conf-date iso-8601-date="2000-10-18">2000 Oct 28-20</conf-date>;
-                    <conf-place>Portorž, Slovenija</conf-place>.
+                    <conf-loc>Portorž, Slovenija</conf-loc>.
                     <publisher-loc>Ljubljana</publisher-loc>:
                     <publisher-name>Društvo defektologov Slovenije</publisher-name>;
                     <year>2000</year>. pp.
@@ -636,7 +551,7 @@
                 </mixed-citation>
             </ref>
             <ref id="b20">
-                <mixed-citation publication-type="conference"name>
+                <mixed-citation publication-type="conference">
                     <person-group person-group-type="author">
                         <name>
                             <surname>Koželj</surname>
@@ -660,7 +575,7 @@
                     <article-title>Koncept zdravljenja orofacialnih shiz</article-title>. 
                     <conf-name>Sodobni kirurško ortodontski koncepti : [zbornik predavanj]. 12. Čelešnikovi dnevi</conf-name>. 
                     <conf-date iso-8601-date="2006-11-25">2006 Nov 25</conf-date>;
-                    <conf-place>Ljubljana, Slovenija</conf-place>.
+                    <conf-loc>Ljubljana, Slovenija</conf-loc>.
                     <publisher-loc>Ljubljana</publisher-loc>:
                     <publisher-name>Združenje za maksilofacialno in oralno kirurgijo Slovenije</publisher-name>;
                     <year>2000</year>. pp.
@@ -735,7 +650,6 @@
                     <pub-id pub-id-type="doi">10.4103/2231-0762.109350</pub-id>
                     <pub-id pub-id-type="pmid">24478964</pub-id>
                     <issn>2231-0762</issn>
-                    
                 </mixed-citation>
             </ref>
         </ref-list>
