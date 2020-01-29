@@ -91,55 +91,59 @@
     <back>
         <ref-list>
             <ref id="b1">
-                <mixed-citation publication-type="web-page">Pravilnik o naročanju in upravljanju čakalnih seznamov ter najdaljših dopustnih čakalnih dobah. Uradni list RS 3/
-                    <year>2018</year>.522-25. [
-                    <date-in-citation content-type="access-date">cited 2018 Nov 1</date-in-citation>] Available from: 
+                <mixed-citation publication-type="journal">
+                    <article-title>Pravilnik o naročanju in upravljanju čakalnih seznamov ter najdaljših dopustnih čakalnih dobah</article-title>. 
+                    <source>Uradni list RS</source>. 
+                    <year>2018</year>.
+                    <issue>3</issue>: 
+                    <fpage>522</fpage>-
+                    <lpage>5</lpage>. 
+                    <date-in-citation content-type="access-date" iso-8601-date="2018-11-01">cited 2018 Nov 01</date-in-citation>
+                    <comment>Available from</comment>: 
                     <ext-link ext-link-type="uri" xlink:href="http://www.pisrs.si/Pis.web/pregledPredpisa?id=PRAV13238">http://www.pisrs.si/Pis.web/pregledPredpisa?id=PRAV13238</ext-link>
                 </mixed-citation>
             </ref>
             <ref id="b2">
                 <mixed-citation publication-type="book-chapter">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Gaberšček</surname>
                             <given-names>S</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <chapter-title>Ščitnica</chapter-title>. 
-                    <source>Košnik M, ur. Interna medicina, 5. izd. Medicinska fakulteta: Slovensko zdravniško društvo</source>. 
+                    <comment>In</comment>: 
+                    <person-group person-group-type="editor">
+                        <name>
+                            <surname>Košnik</surname>
+                            <given-names>M</given-names>
+                        </name>
+                    </person-group>. 
+                    <source>Interna medicina</source>.
+                    <edition>5. izd</edition>.
+                    <publisher_loc>Ljubljana</publisher_loc>:
+                    <publisher_name>Medicinska fakulteta</publisher_name>:
+                    <publisher_name>Slovensko zdravniško društvo</publisher_name>:                     
                     <publisher-name>Buča</publisher-name>; 
                     <year>2018</year>. pp. 
                     <fpage>741</fpage>–
-                    <lpage>5</lpage>.
-                    <annotation>
-                        <p content-type="warning">Could not find book editors in this book chapter reference. (Ref. "Gaberšček, 2018")</p>
-                        <p content-type="warning">Could not find a publisher location in this book chapter reference. (Ref. "Gaberšček, 2018")</p>
-                    </annotation>
+                    <lpage>5</lpage>.                     
                 </mixed-citation>
             </ref>
             <ref id="b3">
                 <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Zaletel</surname>
                             <given-names>K</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Gaberšček</surname>
                             <given-names>S</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Pirnat</surname>
-                            <given-names>E</given-names>
-                        </string-name>, 
-                        <string-name>
-                            <surname>Krhin</surname>
-                            <given-names>B</given-names>
-                        </string-name>, 
-                        <string-name>
-                            <surname>Hojker</surname>
-                            <given-names>S</given-names>
-                        </string-name>
+                            <given-names>E</given-names>                         
                     </person-group>. 
                     <article-title>Ten-year follow-up of thyroid epidemiology in Slovenia after increase in salt iodization</article-title>. 
                     <source>Croat Med J</source>. 
@@ -151,39 +155,36 @@
                     <lpage>21</lpage>. 
                     <pub-id pub-id-type="doi">10.3325/cmj.2011.52.615</pub-id>
                     <pub-id pub-id-type="pmid">21990079</pub-id>
-                    <issn>0353-9504</issn>
-                    <annotation>
-                        <p content-type="warning">PubMed reports only 3 authors, not 5. (Ref. "Zaletel, Gaberšček, Pirnat, Krhin, Hojker, 2011")</p>
-                    </annotation>
+                    <issn>0353-9504</issn>                     
                 </mixed-citation>
             </ref>
             <ref id="b4">
                 <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Collet</surname>
                             <given-names>TH</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Gussekloo</surname>
                             <given-names>J</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Bauer</surname>
                             <given-names>DC</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>den Elzen</surname>
                             <given-names>WP</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Cappola</surname>
                             <given-names>AR</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Balmer</surname>
                             <given-names>P</given-names>
-                        </string-name>, 
+                        </name>, 
                         <etal>et al.</etal>; 
                         <collab>Thyroid Studies Collaboration</collab>
                     </person-group>. 
@@ -203,30 +204,30 @@
             <ref id="b5">
                 <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Hollowell</surname>
                             <given-names>JG</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Staehling</surname>
                             <given-names>NW</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Flanders</surname>
                             <given-names>WD</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Hannon</surname>
                             <given-names>WH</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Gunter</surname>
                             <given-names>EW</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Spencer</surname>
                             <given-names>CA</given-names>
-                        </string-name>, 
+                        </name>, 
                         <etal>et al.</etal>
                     </person-group>
                     <article-title>Serum TSH, T4 and thyroid antibodies in the United States population (1988 to 1994): National Health and Nutrition Examination Survey (NHANES III)</article-title>. 
@@ -239,33 +240,28 @@
                     <lpage>99</lpage>. 
                     <pub-id pub-id-type="doi">10.1210/jcem.87.2.8182</pub-id>
                     <pub-id pub-id-type="pmid">11836274</pub-id>
-                    <issn>0021-972X</issn>
-                    <annotation>
-                        <p content-type="warning">Edifix has not updated the article title because PubMed's is slightly different and Title Case. The PubMed article title is 
-                            <underline>Serum TSH, T(4), and thyroid antibodies in the United States population (1988 to 1994): National Health and Nutrition Examination Survey (NHANES III)</underline>. (Ref. "Hollowell, Staehling, Flanders, Hannon, Gunter, Spencer, et al., 2002")
-                        </p>
-                    </annotation>
+                    <issn>0021-972X</issn>                     
                 </mixed-citation>
             </ref>
             <ref id="b6">
                 <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Canaris</surname>
                             <given-names>GJ</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Manowitz</surname>
                             <given-names>NR</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Mayor</surname>
                             <given-names>G</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Ridgway</surname>
                             <given-names>EC</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>The Colorado thyroid disease prevalence study</article-title>. 
                     <source>Arch Intern Med</source>. 
@@ -283,14 +279,14 @@
             <ref id="b7">
                 <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Almandoz</surname>
                             <given-names>JP</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Gharib</surname>
                             <given-names>H</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Hypothyroidism: etiology, diagnosis, and management</article-title>. 
                     <source>Med Clin North Am</source>. 
@@ -308,61 +304,136 @@
             <ref id="b8">
                 <mixed-citation publication-type="book-chapter">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Krhin</surname>
                             <given-names>B</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
-                    <chapter-title>Kakovostna laboratorijska diagnostika ščitničnih bolezni.</chapter-title> In: Gaberšček S, Zaletel K, ur. Zbornik prispevkov: Bolezni ščitnice. Podiplomska šola za zdravnike; 2017 Maj 12-13; Logarska dolina, Slovenija. Slovensko združenje za nuklearno medicino; 
-                    <year>2017</year>. p. 15-19.
-                    <annotation>
-                        <p content-type="warning">Edifix Bibliographic Reference Processing failed to fully style this reference. Please check the copyediting. (Ref. "Krhin, 2017")</p>
-                    </annotation>
+                    <chapter-title>Kakovostna laboratorijska diagnostika ščitničnih bolezni</chapter-title>. 
+                    <comment>In</comment>: 
+                    <person-group person-group-type="editor">
+                        <name>
+                            <surname>Gaberšček</surname>
+                            <given-names>K</given-names>
+                        </name>,
+                        <name>
+                            <surname>Zaletel</surname>
+                            <given-names>K</given-names>
+                        </name>,
+                    </person-group>
+                    <source>Zbornik prispevkov: Bolezni ščitnice. Podiplomska šola za zdravnike</source>; 
+                    <conf-date iso-8601-date="2017-05-12">2017 May 12-13</conf-date>;
+                    <conf-loc>Logarska dolina, Slovenija</conf-loc>.
+                    <publisher-loc>Ljubljana</publisher-loc>:
+                    <publisher-name>Slovensko združenje za nuklearno medicino</publisher-name>;
+                    <year>2017</year>. pp. 
+                    <fpage>15</fpage>-
+                    <lpage>9</lpage>.                     
                 </mixed-citation>
             </ref>
             <ref id="b9">
                 <mixed-citation publication-type="book-chapter">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Molnar Novak</surname>
                             <given-names>H</given-names>
-                        </string-name>
+                        </name>,
+                        <name>
+                            <surname>Bajuk Studen</surname>
+                            <given-names>K</given-names>
                     </person-group>. 
-                    <chapter-title>Katica Bajuk Studen.</chapter-title> Boleča ščitnica. In: Gaberšček S, Zaletel K, ur. Zbornik prispevkov: Bolezni ščitnice. Podiplomska šola za zdravnike; 2018 Maj 11-12; Logarska dolina, Slovenija. V Ljubljani: Slovensko združenje za nuklearno medicino; 
-                    <year>2018</year>. p. 57−61.
-                    <annotation>
-                        <p content-type="warning">Edifix Bibliographic Reference Processing failed to fully style this reference. Please check the copyediting. (Ref. "Molnar Novak, 2018")</p>
-                    </annotation>
+                    <chapter-title>Boleča ščitnica</chapter-title>.
+                    <comment>In</comment>: 
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Gaberšček</surname>
+                            <given-names>H</given-names>
+                        </name>,
+                        <name>
+                            <surname>Bajuk Studen</surname>
+                            <given-names>K</given-names>
+                    </person-group>. 
+                    <comment>In</comment>: 
+                    <person-group person-group-type="editor">
+                        <name>
+                            <surname>Gaberšček</surname>
+                            <given-names>K</given-names>
+                        </name>,
+                        <name>
+                            <surname>Zaletel</surname>
+                            <given-names>K</given-names>
+                        </name>,
+                    </person-group>
+                    <source>Zbornik prispevkov: Bolezni ščitnice. Podiplomska šola za zdravnike</source>; 
+                    <conf-date iso-8601-date="2017-05-12">2017 May 12-13</conf-date>;
+                    <conf-loc>Logarska dolina, Slovenija</conf-loc>.
+                    <publisher-loc>Ljubljana</publisher-loc>:
+                    <publisher-name>Slovensko združenje za nuklearno medicino</publisher-name>;
+                    <year>2017</year>. pp. 
+                    <fpage>57</fpage>-
+                    <lpage>61</lpage>. 
                 </mixed-citation>
             </ref>
             <ref id="b10">
                 <mixed-citation publication-type="web-page">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Hennessey</surname>
                             <given-names>JV</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
-                    <article-title>Subacute thyroiditis.</article-title> In: De Groot LJ, Chrousos G, Dungan K, Feingold KR, Grossman A, Hershman JM, et al. eds. Endotext [Internet]. South Dartmouth (MA): MDText.com, Inc.; 2000-2015. [
-                    <date-in-citation content-type="access-date">cited 2018 Nov 1</date-in-citation>] Available from: 
+                    <article-title>Subacute thyroiditis</article-title>. 
+                    <comment>In</comment>: 
+                    <person-group person-group-type="editor">
+                        <name>
+                            <surname>De Groot</surname>
+                            <given-names>LJ</given-names>
+                        </name>,
+                        <name>
+                            <surname>Chrousos</surname>
+                            <given-names>G</given-names>
+                        </name>,
+                        <name>
+                            <surname>Dungan</surname>
+                            <given-names>K</given-names>
+                        </name>,
+                        <name>
+                            <surname>Feingold</surname>
+                            <given-names>KR</given-names>
+                        </name>,
+                        <name>
+                            <surname>Grossman</surname>
+                            <given-names>A</given-names>
+                        </name>,
+                        <name>
+                            <surname>Hershman</surname>
+                            <given-names>JM</given-names>
+                        </name>,
+                        <etal>et. al<etal>.
+                        <source>Endotext</source>.
+                        <publisher-loc>South Dartmouth (MA</publisher-loc>:
+                        <publisher-name>MDText.com, Inc.</publisher-name>;
+                        <year>2000-2015</year>.                         
+                        <date-in-citation content-type="access-date" iso-8601-date="2018-11-01">cited 2018 Nov 01</date-in-citation>
+                        <comment>Available from</comment>: 
                     <ext-link ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/books/NBK279084/">https://www.ncbi.nlm.nih.gov/books/NBK279084/</ext-link>
                 </mixed-citation>
             </ref>
             <ref id="b11">
                 <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Slatosky</surname>
                             <given-names>J</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Shipton</surname>
                             <given-names>B</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Wahba</surname>
                             <given-names>H</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Thyroiditis: differential diagnosis and management</article-title>. 
                     <source>Am Fam Physician</source>. 
@@ -379,30 +450,30 @@
             <ref id="b12">
                 <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Haugen</surname>
                             <given-names>BR</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Alexander</surname>
                             <given-names>EK</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Bible</surname>
                             <given-names>KC</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Doherty</surname>
                             <given-names>GM</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Mandel</surname>
                             <given-names>SJ</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Nikiforov</surname>
                             <given-names>YE</given-names>
-                        </string-name>, 
+                        </name>, 
                         <etal>et al.</etal>
                     </person-group>
                     <article-title>2015 American Thyroid Association management guidelines for adult patients with thyroid nodules and differentiated thyroid vancer: The American Thyroid Association Guidelines Task Force on Thyroid Nodules and Differentiated Thyroid Cancer</article-title>. 
@@ -415,26 +486,20 @@
                     <lpage>133</lpage>. 
                     <pub-id pub-id-type="doi">10.1089/thy.2015.0020</pub-id>
                     <pub-id pub-id-type="pmid">26462967</pub-id>
-                    <issn>1050-7256</issn>
-                    <annotation>
-                        <p content-type="warning">CrossMark reports an erratum (or similar issue). The CrossMark type is "isReviewOf". Additional information can be found at https://doi.org/10.3410/f.725851631.793556551. (Ref. "Haugen, Alexander, Bible, Doherty, Mandel, Nikiforov, et al., 2016")</p>
-                        <p content-type="warning">Edifix has not updated the article title because PubMed's is slightly different and Title Case. The PubMed article title is 
-                            <underline>2015 American Thyroid Association Management Guidelines for Adult Patients with Thyroid Nodules and Differentiated Thyroid Cancer: The American Thyroid Association Guidelines Task Force on Thyroid Nodules and Differentiated Thyroid Cancer</underline>. (Ref. "Haugen, Alexander, Bible, Doherty, Mandel, Nikiforov, et al., 2016")
-                        </p>
-                    </annotation>
+                    <issn>1050-7256</issn>                     
                 </mixed-citation>
             </ref>
             <ref id="b13">
                 <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Dean</surname>
                             <given-names>DS</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Gharib</surname>
                             <given-names>H</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Epidemiology of thyroid nodules</article-title>. 
                     <source>Best Pract Res Clin Endocrinol Metab</source>. 
@@ -452,30 +517,30 @@
             <ref id="b14">
                 <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Gharib</surname>
                             <given-names>H</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Papini</surname>
                             <given-names>E</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Paschke</surname>
                             <given-names>R</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Duick</surname>
                             <given-names>DS</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Valcavi</surname>
                             <given-names>R</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Hegedüs</surname>
                             <given-names>L</given-names>
-                        </string-name>, 
+                        </name>, 
                         <etal>et al.</etal>
                     </person-group>
                     <article-title>AACE(AME(ETA Task Force on Thyroid Nodules. American Association of Clinical Endocrinologists, Associazione Medici Endocrinologi, and European Thyroid Association medical guidelines for clinical practice for the diagnosis and management of thyroid nodules</article-title>. 
@@ -487,12 +552,7 @@
                     <lpage>43</lpage>. 
                     <pub-id pub-id-type="doi">10.4158/10024.GL</pub-id>
                     <pub-id pub-id-type="pmid">20497938</pub-id>
-                    <issn>1530-891X</issn>
-                    <annotation>
-                        <p content-type="warning">Edifix has not updated this reference because the article title in PubMed significantly differs from the author's original. The PubMed reference is 
-                            <underline>Gharib H, Papini E, Paschke R, Duick DS, Valcavi R, Hegedüs L, et al.; AACE/AME/ETA Task Force on Thyroid Nodules. American Association of Clinical Endocrinologists, Associazione Medici Endocrinologi, and EuropeanThyroid Association Medical Guidelines for Clinical Practice for the Diagnosis and Management of Thyroid Nodules. Endocr Pract. 2010 May-Jun;16 Suppl 1:1–43</underline>. (Ref. "Gharib, Papini, Paschke, Duick, Valcavi, 2010")
-                        </p>
-                    </annotation>
+                    <issn>1530-891X</issn>                     
                 </mixed-citation>
             </ref>
             <ref id="b15">
@@ -500,22 +560,26 @@
                     <person-group person-group-type="author">
                         <collab>Cancer in Slovenia</collab>
                     </person-group>. 
-                    <year>2014</year>. Ljubljana: Institute of Oncology Ljubljana, Epidemiology and Cancer Registry. Cancer Registry of Republic of Slovenia 2015. [
-                    <date-in-citation content-type="access-date">cited 2018 Nov 1</date-in-citation>] Available from: 
+                    <year>2014</year>. 
+                    <publisher-loc>Ljubljana</publisher-loc>:
+                    <publisher-name>Institute of Oncology Ljubljana, Epidemiology and Cancer Registry. Cancer Registry of Republic of Slovenia</publisher-name>;
+                    <year>2015</year>.                       
+                    <date-in-citation content-type="access-date" iso-8601-date="2018-11-01">cited 2018 Nov 01</date-in-citation>.
+                    <comment>Available from</comment>: 
                     <ext-link ext-link-type="uri" xlink:href="https://www.onko-i.si/fileadmin/onko/datoteke/dokumenti/RRS/LP_2015.pdf">https://www.onko-i.si/fileadmin/onko/datoteke/dokumenti/RRS/LP_2015.pdf</ext-link>
                 </mixed-citation>
             </ref>
             <ref id="b16">
                 <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Gaberšček</surname>
                             <given-names>S</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Zaletel</surname>
                             <given-names>K</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Thyroid physiology and autoimmunity in pregnancy and after delivery</article-title>. 
                     <source>Expert Rev Clin Immunol</source>. 
@@ -533,30 +597,30 @@
             <ref id="b17">
                 <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Alexander</surname>
                             <given-names>EK</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Pearce</surname>
                             <given-names>EN</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Brent</surname>
                             <given-names>GA</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Brown</surname>
                             <given-names>RS</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Chen</surname>
                             <given-names>H</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Dosiou</surname>
                             <given-names>C</given-names>
-                        </string-name>, 
+                        </name>, 
                         <etal>et al.</etal>
                     </person-group>
                     <article-title>2017 guidelines of the American Thyroid Association for the diagnosis and management of thyroid disease during pregnancy and the postpartum</article-title>. 
@@ -575,30 +639,30 @@
             <ref id="b18">
                 <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Lazarus</surname>
                             <given-names>J</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Brown</surname>
                             <given-names>RS</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Daumerie</surname>
                             <given-names>C</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Hubalewska-Dydejczyk</surname>
                             <given-names>A</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Negro</surname>
                             <given-names>R</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Vaidya</surname>
                             <given-names>B</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>2014 European thyroid association guidelines for the management of subclinical hypothyroidism in pregnancy and in children</article-title>. 
                     <source>Eur Thyroid J</source>. 
@@ -616,26 +680,25 @@
             <ref id="b19">
                 <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Wiersinga</surname>
                             <given-names>WM</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Duntas</surname>
                             <given-names>L</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Fadeyev</surname>
                             <given-names>V</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Nygaard</surname>
                             <given-names>B</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
                             <surname>Vanderpump</surname>
                             <given-names>MP</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>2012 ETA guidelines: the use of L-T4 + L-T3 in the treatment of hypothyroidism</article-title>. 
                     <source>Eur Thyroid J</source>. 
