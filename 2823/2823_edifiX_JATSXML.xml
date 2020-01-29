@@ -78,7 +78,7 @@
                     <meta-value>0</meta-value>
                 </custom-meta>
                 <custom-meta>
-                    <meta-name>ReferencesBookUnparsed</meta-name>
+                    <meta-name>ReferencesBookUnparsed</meta-name> 
                     <meta-value>0</meta-value>
                 </custom-meta>
                 <custom-meta>
@@ -92,45 +92,52 @@
         <ref-list>
             <ref id="b1">
                 <label>1. </label>
-                <mixed-citation publication-type="unknown" specific-use="unparsed">
+                <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Eržen</surname>
                             <given-names>D.</given-names>
-                        </string-name>
-                    </person-group>
-                    <article-title>Karcinom Merklovih celic.</article-title> Onkologija – Onkološki inštitut Ljubljana. 
-                    <year>2012</year>; 1: 14-17.
+                        </name>
+                    </person-group>.
+                    <article-title>Karcinom Merklovih celic</article-title>.                      
+                    <source>Onkologija : strokovni časopis za zdravnike</source>.                     
+                    <year>2012</year>
+                    <month>Jun</month>;                     
+                    <volume>16</volume>(                     
+                    <issue>1</issue>):                     
+                    <fpage>14</fpage>-                     
+                    <lpage>7</lpage>.                     
+                    <issn>1408-1741</issn>
                 </mixed-citation>
             </ref>
             <ref id="b2">
                 <label>2.	</label>
-                <mixed-citation publication-type="journal" specific-use="restruct">
+                <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Medina-Franco</surname>
                             <given-names>H</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Urist</surname>
                             <given-names>MM</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Fiveash</surname>
                             <given-names>J</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Heslin</surname>
                             <given-names>MJ</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Bland</surname>
                             <given-names>KI</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Beenken</surname>
                             <given-names>SW</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Multimodality treatment of Merkel cell carcinoma: case series and literature review of 1024 cases</article-title>. 
                     <source>Ann Surg Oncol</source>. 
@@ -147,24 +154,24 @@
             </ref>
             <ref id="b3">
                 <label>3.	</label>
-                <mixed-citation publication-type="journal" specific-use="restruct">
+                <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Tello</surname>
                             <given-names>TL</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Coggshall</surname>
                             <given-names>K</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Yom</surname>
                             <given-names>SS</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Yu</surname>
                             <given-names>SS</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Merkel cell carcinoma: An update and review: Current and future therapy</article-title>. 
                     <source>J Am Acad Dermatol</source>. 
@@ -181,20 +188,20 @@
             </ref>
             <ref id="b4">
                 <label>4.	</label>
-                <mixed-citation publication-type="journal" specific-use="restruct">
+                <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Woo</surname>
                             <given-names>SH</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Lumpkin</surname>
                             <given-names>EA</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Patapoutian</surname>
                             <given-names>A</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Merkel cells and neurons keep in touch</article-title>. 
                     <source>Trends Cell Biol</source>. 
@@ -211,32 +218,32 @@
             </ref>
             <ref id="b5">
                 <label>5.	</label>
-                <mixed-citation publication-type="journal" specific-use="restruct">
+                <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>García-Mesa</surname>
                             <given-names>Y</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>García-Piqueras</surname>
                             <given-names>J</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>García</surname>
                             <given-names>B</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Feito</surname>
                             <given-names>J</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Cabo</surname>
                             <given-names>R</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Cobo</surname>
                             <given-names>J</given-names>
-                        </string-name>, 
+                        </name>, 
                         <etal>et al.</etal>
                     </person-group>
                     <article-title>Merkel cells and Meissner’s corpuscles in human digital skin display Piezo2 immunoreactivity</article-title>. 
@@ -254,12 +261,12 @@
             </ref>
             <ref id="b6">
                 <label>6.	</label>
-                <mixed-citation publication-type="journal" specific-use="restruct">
+                <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Toker</surname>
                             <given-names>C</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Trabecular carcinoma of the skin</article-title>. 
                     <source>Arch Dermatol</source>. 
@@ -276,12 +283,12 @@
             </ref>
             <ref id="b7">
                 <label>7.	</label>
-                <mixed-citation publication-type="journal" specific-use="restruct">
+                <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Nasseri</surname>
                             <given-names>E</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Merkel cell carcinoma</article-title>. 
                     <source>Can Fam Physician</source>. 
@@ -297,32 +304,32 @@
             </ref>
             <ref id="b8">
                 <label>8.	</label>
-                <mixed-citation publication-type="journal" specific-use="restruct">
+                <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Heath</surname>
                             <given-names>M</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Jaimes</surname>
                             <given-names>N</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Lemos</surname>
                             <given-names>B</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Mostaghimi</surname>
                             <given-names>A</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Wang</surname>
                             <given-names>LC</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Peñas</surname>
                             <given-names>PF</given-names>
-                        </string-name>, 
+                        </name>, 
                         <etal>et al.</etal>
                     </person-group>
                     <article-title>Clinical characteristics of Merkel cell carcinoma at diagnosis in 195 patients: the AEIOU features</article-title>. 
@@ -340,20 +347,20 @@
             </ref>
             <ref id="b9">
                 <label>9.	</label>
-                <mixed-citation publication-type="journal" specific-use="restruct">
+                <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Buis</surname>
                             <given-names>PA</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Verweij</surname>
                             <given-names>W</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>van Diest</surname>
                             <given-names>PJ</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Value of histopathologic analysis of subcutis excisions by general practitioners</article-title>. 
                     <source>BMC Fam Pract</source>. 
@@ -361,65 +368,68 @@
                     <month>Jan</month>;
                     <volume>8</volume>(
                     <issue>1</issue>):
-                    <fpage>5</fpage>. 
-                    <pub-id pub-id-type="doi" specific-use="author">10.1186/14712296-8-5</pub-id>
+                    <fpage>5</fpage>.                      
                     <pub-id pub-id-type="doi">10.1186/1471-2296-8-5</pub-id>
                     <pub-id pub-id-type="pmid">17257417</pub-id>
-                    <issn>1471-2296</issn>
-                    <annotation>
-                        <p content-type="warning">Crossref reports the DOI should be "10.1186/1471-2296-8-5", not "10.1186/14712296-8-5". Edifix has used the Crossref-supplied DOI. (Ref. 9 "Buis, Verweij, van Diest, 2007")</p>
-                    </annotation>
+                    <issn>1471-2296</issn>                     
                 </mixed-citation>
             </ref>
             <ref id="b10">
                 <label>10. </label>
-                <mixed-citation publication-type="unknown" specific-use="unparsed">
+                <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Bergant</surname>
                             <given-names>D</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>,                         
+                        <name>
                             <surname>Hočevar</surname>
                             <given-names>M</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>,                          
+                        <name>
                             <surname>Čufer</surname>
                             <given-names>T.</given-names>
-                        </string-name>
+                        </name>
                     </person-group>
-                    <article-title>Karcinom Merklovih celic.</article-title> Onkologija – Onkološki inštitut Ljubljana. 
-                    <year>2002</year>; 2: 63-67.
+                    <article-title>Karcinom Merklovih celic.</article-title>
+                    <source>Onkologija : strokovni časopis za zdravnike</source>.                     
+                    <year iso-8601-date="2002">2002</year>
+                    <month>Dec</month>;                     
+                    <volume>9</volume>(                     
+                    <issue>2</issue>):                     
+                    <fpage>63</fpage>-                     
+                    <lpage>7</lpage>.                     
+                    <issn>1408-1741</issn>
                 </mixed-citation>
             </ref>
             <ref id="b11">
                 <label>11.	</label>
-                <mixed-citation publication-type="journal" specific-use="restruct">
+                <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Becker</surname>
                             <given-names>JC</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Stang</surname>
                             <given-names>A</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>DeCaprio</surname>
                             <given-names>JA</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Cerroni</surname>
                             <given-names>L</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Lebbé</surname>
                             <given-names>C</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Veness</surname>
                             <given-names>M</given-names>
-                        </string-name>, 
+                        </name>, 
                         <etal>et al.</etal>
                     </person-group>
                     <article-title>Merkel cell carcinoma</article-title>. 
@@ -436,24 +446,24 @@
             </ref>
             <ref id="b12">
                 <label>12.	</label>
-                <mixed-citation publication-type="journal" specific-use="restruct">
+                <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Duprat</surname>
                             <given-names>JP</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Landman</surname>
                             <given-names>G</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Salvajoli</surname>
                             <given-names>JV</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Brechtbühl</surname>
                             <given-names>ER</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>A review of the epidemiology and treatment of Merkel cell carcinoma</article-title>. 
                     <source>Clinics (São Paulo)</source>. 
@@ -469,24 +479,24 @@
             </ref>
             <ref id="b13">
                 <label>13.	</label>
-                <mixed-citation publication-type="journal" specific-use="restruct">
+                <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Feng</surname>
                             <given-names>H</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Shuda</surname>
                             <given-names>M</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Chang</surname>
                             <given-names>Y</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Moore</surname>
                             <given-names>PS</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Clonal integration of a polyomavirus in human Merkel cell carcinoma</article-title>. 
                     <source>Science</source>. 
@@ -503,32 +513,32 @@
             </ref>
             <ref id="b14">
                 <label>14.	</label>
-                <mixed-citation publication-type="journal" specific-use="restruct">
+                <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Paik</surname>
                             <given-names>JY</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Hall</surname>
                             <given-names>G</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Clarkson</surname>
                             <given-names>A</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Lee</surname>
                             <given-names>L</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Toon</surname>
                             <given-names>C</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Colebatch</surname>
                             <given-names>A</given-names>
-                        </string-name>, 
+                        </name>, 
                         <etal>et al.</etal>
                     </person-group>
                     <article-title>Immunohistochemistry for Merkel cell polyomavirus is highly specific but not sensitive for the diagnosis of Merkel cell carcinoma in the Australian population</article-title>. 
@@ -545,36 +555,38 @@
                 </mixed-citation>
             </ref>
             <ref id="b15">
-                <label>15.	</label>
-                <mixed-citation publication-type="web-page" specific-use="unparsed">
-                    <person-group person-group-type="author">
-                        <collab>National Comprehensive Cancer Network (NCCN)</collab>
-                    </person-group>. Clinical practice guidelines in oncology: Merkel cell carcinoma. 
-                    <year>2018</year>. [
-                    <date-in-citation content-type="access-date">cited 2018</date-in-citation> avg 26]. Available from: 
-                    <ext-link ext-link-type="uri" xlink:href="https://www.nccn.org/professionals/physician_gls/pdf/mcc.pdf">https://www.nccn.org/professionals/physician_gls/pdf/mcc.pdf</ext-link>
-                </mixed-citation>
+                <ref id="b15">
+                    <label>15.	</label>
+                    <mixed-citation publication-type="web-page">
+                        <person-group person-group-type="author">
+                            <collab>National Comprehensive Cancer Network (NCCN)</collab>.                         
+                            <source>Clinical practice guidelines in oncology: Merkel cell carcinoma</source>.                   
+                            <year>2018</year>.                          
+                            <date-in-citation content-type="access-date">cited 2018 Avg 26</date-in-citation>.                          
+                            <comment>Available from</comment>: 
+                            <uri>"https://www.nccn.org/professionals/physician_gls/pdf/mcc.pdf</uri>.                         
+                    </mixed-citation>
             </ref>
             <ref id="b16">
                 <label>16.	</label>
-                <mixed-citation publication-type="journal" specific-use="restruct">
+                <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Wang</surname>
                             <given-names>TS</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Byrne</surname>
                             <given-names>PJ</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Jacobs</surname>
                             <given-names>LK</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Taube</surname>
                             <given-names>JM</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Merkel cell carcinoma: update and review</article-title>. 
                     <source>Semin Cutan Med Surg</source>. 
@@ -591,24 +603,24 @@
             </ref>
             <ref id="b17">
                 <label>17.	</label>
-                <mixed-citation publication-type="journal" specific-use="restruct">
+                <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Strub</surname>
                             <given-names>B</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Weindel</surname>
                             <given-names>S</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Witt</surname>
                             <given-names>P</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Grünert</surname>
                             <given-names>J</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>[The interdisciplinary treatment of Merkel cell carcinoma: a retrospective case analysis and review of the current literature]</article-title>. 
                     <source>Zentralbl Chir</source>. 
@@ -617,45 +629,39 @@
                     <volume>134</volume>(
                     <issue>5</issue>):
                     <fpage>468</fpage>–
-                    <lpage>73</lpage>. 
-                    <pub-id pub-id-type="doi">10.1055/s-0028-1098928</pub-id>
+                    <lpage>73</lpage>.                 
                     <pub-id pub-id-type="pmid">19757348</pub-id>
-                    <issn>0044-409X</issn>
-                    <annotation>
-                        <p content-type="warning">PubMed reports the vernacular (German) article title is 
-                            <underline>Interdisziplinäre Behandlung des Merkelzellkarzinoms: Eine retrospektive Fallanalyse und aktuelle Literaturübersicht.</underline>. (Ref. 17 "Strub, Weindel, Witt, Grünert, 2009")
-                        </p>
-                    </annotation>
+                    <issn>0044-409X</issn>                     
                 </mixed-citation>
             </ref>
             <ref id="b18">
                 <label>18.	</label>
-                <mixed-citation publication-type="journal" specific-use="restruct">
+                <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Allen</surname>
                             <given-names>PJ</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Bowne</surname>
                             <given-names>WB</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Jaques</surname>
                             <given-names>DP</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Brennan</surname>
                             <given-names>MF</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Busam</surname>
                             <given-names>K</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Coit</surname>
                             <given-names>DG</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Merkel cell carcinoma: prognosis and treatment of patients from a single institution</article-title>. 
                     <source>J Clin Oncol</source>. 
@@ -672,20 +678,20 @@
             </ref>
             <ref id="b19">
                 <label>19.	</label>
-                <mixed-citation publication-type="journal" specific-use="restruct">
+                <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Gunaratne</surname>
                             <given-names>DA</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Howle</surname>
                             <given-names>JR</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Veness</surname>
                             <given-names>MJ</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Sentinel lymph node biopsy in Merkel cell carcinoma: a 15-year institutional experience and statistical analysis of 721 reported cases</article-title>. 
                     <source>Br J Dermatol</source>. 
@@ -702,32 +708,32 @@
             </ref>
             <ref id="b20">
                 <label>20.	</label>
-                <mixed-citation publication-type="journal" specific-use="restruct">
+                <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Tai</surname>
                             <given-names>PT</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Yu</surname>
                             <given-names>E</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Winquist</surname>
                             <given-names>E</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Hammond</surname>
                             <given-names>A</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Stitt</surname>
                             <given-names>L</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Tonita</surname>
                             <given-names>J</given-names>
-                        </string-name>, 
+                        </name>, 
                         <etal>et al.</etal>
                     </person-group>
                     <article-title>Chemotherapy in neuroendocrine/Merkel cell carcinoma of the skin: case series and review of 204 cases</article-title>. 
@@ -745,32 +751,32 @@
             </ref>
             <ref id="b21">
                 <label>21.	</label>
-                <mixed-citation publication-type="journal" specific-use="restruct">
+                <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Iyer</surname>
                             <given-names>JG</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Blom</surname>
                             <given-names>A</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Doumani</surname>
                             <given-names>R</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Lewis</surname>
                             <given-names>C</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Tarabadkar</surname>
                             <given-names>ES</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Anderson</surname>
                             <given-names>A</given-names>
-                        </string-name>, 
+                        </name>, 
                         <etal>et al.</etal>
                     </person-group>
                     <article-title>Response rates and durability of chemotherapy among 62 patients with metastatic Merkel cell carcinoma</article-title>. 
@@ -788,32 +794,32 @@
             </ref>
             <ref id="b22">
                 <label>22.	</label>
-                <mixed-citation publication-type="journal" specific-use="restruct">
+                <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Kitamura</surname>
                             <given-names>N</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Tomita</surname>
                             <given-names>R</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Yamamoto</surname>
                             <given-names>M</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Yoshizawa</surname>
                             <given-names>Y</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Sasabe</surname>
                             <given-names>E</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Yamada</surname>
                             <given-names>T</given-names>
-                        </string-name>, 
+                        </name>, 
                         <etal>et al.</etal>
                     </person-group>
                     <article-title>Complete remission of Merkel cell carcinoma on the upper lip treated with radiation monotherapy and a literature review of Japanese cases</article-title>. 
@@ -830,32 +836,32 @@
             </ref>
             <ref id="b23">
                 <label>23.	</label>
-                <mixed-citation publication-type="journal" specific-use="restruct">
+                <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Pape</surname>
                             <given-names>E</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Rezvoy</surname>
                             <given-names>N</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Penel</surname>
                             <given-names>N</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Salleron</surname>
                             <given-names>J</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Martinot</surname>
                             <given-names>V</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Guerreschi</surname>
                             <given-names>P</given-names>
-                        </string-name>, 
+                        </name>, 
                         <etal>et al.</etal>
                     </person-group>
                     <article-title>Radiotherapy alone for Merkel cell carcinoma: a comparative and retrospective study of 25 patients</article-title>. 
@@ -873,16 +879,16 @@
             </ref>
             <ref id="b24">
                 <label>24.	</label>
-                <mixed-citation publication-type="journal" specific-use="restruct">
+                <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Harrington</surname>
                             <given-names>C</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Kwan</surname>
                             <given-names>W</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Outcomes of Merkel cell carcinoma treated with radiotherapy without radical surgical excision</article-title>. 
                     <source>Ann Surg Oncol</source>. 
@@ -897,42 +903,51 @@
                     <issn>1068-9265</issn>
                 </mixed-citation>
             </ref>
-            <ref id="b25">
-                <label>25.	</label>
-                <mixed-citation publication-type="legal-doc" specific-use="unparsed">Rak v Sloveniji 2014. Ljubljana: Onkološki inštitut Ljubljana, Epidemiologija in register raka, Register raka Republike Slovenije. 2017.</mixed-citation>
-            </ref>
+                <ref id="b25">
+                    <label>25.	</label>
+                    <mixed-citation publication-type="book">
+                        <source>Rak v Sloveniji 2014</source>.                      
+                        <publisher-loc>Ljubljana</publisher-loc>:                     
+                        <publisher-name>Onkološki inštitut Ljubljana, Epidemiologija in register raka, Register raka Republike Slovenije</publisher-name>;
+                        <year>2017</year>. 
+                    </mixed-citation>
             <ref id="b26">
-                <label>26.	</label>
-                <mixed-citation publication-type="web-page" specific-use="linked">
-                    <person-group person-group-type="author">
-                        <string-name>
-                            <surname>Zucchi</surname>
-                            <given-names>S</given-names>
-                        </string-name>
-                    </person-group>. 
-                    <article-title>Merkel cell carcinoma: case report and literature review, from a remote region of France.</article-title> Rural Remote Health [Internet]. 
-                    <year>2009</year>; 9(1): 1072. [
-                    <date-in-citation content-type="access-date">cited 2018</date-in-citation> avg 11]. Available from: 
-                    <ext-link ext-link-type="uri" xlink:href="https://www.rrh.org.au/journal/article/1072">https://www.rrh.org.au/journal/article/1072</ext-link>
-                    <pub-id pub-id-type="doi">10.22605/RRH1072</pub-id>
-                </mixed-citation>
+                <ref id="b26">
+                    <label>26.	</label>
+                    <mixed-citation publication-type="journal">                                   
+                        <person-group person-group-type="author">
+                            <name>
+                                <surname>Zucchi</surname>
+                                <given-names>S</given-names>
+                            </name>
+                        </person-group>.                      
+                        <article-title>Merkel cell carcinoma: case report and literature review, from a remote region of France </article-title>.                     
+                        <source>Rural Remote Health</source>.                      
+                        <year>2009</year>
+                        <month>Jan_Mar</month>;                     
+                        <volume>9</volume>(                     
+                        <issue>1</issue>):                    
+                        <fpage>1072</fpage>.
+                        <pub-id pub-id-type="pmid">19206996</pub-id>
+                        <issn>1445-6354</issn>
+                    </mixed-citation>
             </ref>
             <ref id="b27">
                 <label>27.	</label>
-                <mixed-citation publication-type="journal" specific-use="restruct">
+                <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Marsden</surname>
                             <given-names>J</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Lipp</surname>
                             <given-names>A</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Kumar</surname>
                             <given-names>V</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Day surgery: implications for general practice</article-title>. 
                     <source>Br J Gen Pract</source>. 
