@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
 <article
     xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" dtd-version="1.0" article-type="reference-list">
@@ -23,7 +23,7 @@
                 </custom-meta>
                 <custom-meta>
                     <meta-name>ReferencesLinked</meta-name>
-                    <meta-value>23</meta-value> 
+                    <meta-value>23</meta-value>
                 </custom-meta>
                 <custom-meta>
                     <meta-name>ReferencesLinkedDOI</meta-name>
@@ -78,7 +78,7 @@
                     <meta-value>0</meta-value>
                 </custom-meta>
                 <custom-meta>
-                    <meta-name>ReferencesBookUnparsed</meta-name> 
+                    <meta-name>ReferencesBookUnparsed</meta-name>
                     <meta-value>0</meta-value>
                 </custom-meta>
                 <custom-meta>
@@ -98,10 +98,10 @@
                             <surname>Eržen</surname>
                             <given-names>D.</given-names>
                         </name>
-                    </person-group>.
+                    </person-group>
                     <article-title>Karcinom Merklovih celic</article-title>.                      
                     <source>Onkologija : strokovni časopis za zdravnike</source>.                     
-                    <year>2012</year>
+                    <year iso-8601-date="2012">2012</year>
                     <month>Jun</month>;                     
                     <volume>16</volume>(                     
                     <issue>1</issue>):                     
@@ -368,7 +368,7 @@
                     <month>Jan</month>;
                     <volume>8</volume>(
                     <issue>1</issue>):
-                    <fpage>5</fpage>.                      
+                    <fpage>5</fpage>.                    
                     <pub-id pub-id-type="doi">10.1186/1471-2296-8-5</pub-id>
                     <pub-id pub-id-type="pmid">17257417</pub-id>
                     <issn>1471-2296</issn>                     
@@ -381,11 +381,13 @@
                         <name>
                             <surname>Bergant</surname>
                             <given-names>D</given-names>
-                        </name>,                         
+                        </name>, 
+                        
                         <name>
                             <surname>Hočevar</surname>
                             <given-names>M</given-names>
-                        </name>,                          
+                        </name>, 
+                        
                         <name>
                             <surname>Čufer</surname>
                             <given-names>T.</given-names>
@@ -555,17 +557,16 @@
                 </mixed-citation>
             </ref>
             <ref id="b15">
-                <ref id="b15">
-                    <label>15.	</label>
-                    <mixed-citation publication-type="web-page">
-                        <person-group person-group-type="author">
-                            <collab>National Comprehensive Cancer Network (NCCN)</collab>.                         
-                            <source>Clinical practice guidelines in oncology: Merkel cell carcinoma</source>.                   
-                            <year>2018</year>.                          
-                            <date-in-citation content-type="access-date">cited 2018 Avg 26</date-in-citation>.                          
-                            <comment>Available from</comment>: 
-                            <uri>"https://www.nccn.org/professionals/physician_gls/pdf/mcc.pdf</uri>.                         
-                    </mixed-citation>
+                <label>15.	</label>                 
+                <mixed-citation publication-type="web-page">
+                    <person-group person-group-type="author">
+                        <collab>National Comprehensive Cancer Network (NCCN)</collab>.                         
+                        <source>Clinical practice guidelines in oncology: Merkel cell carcinoma</source>.                       
+                        <year>2018</year>.                          
+                        <date-in-citation content-type="access-date">cited 2018 Avg 26</date-in-citation>.                          
+                        <comment>Available from</comment>: 
+                        <uri>"https://www.nccn.org/professionals/physician_gls/pdf/mcc.pdf</uri>.                         
+                </mixed-citation>
             </ref>
             <ref id="b16">
                 <label>16.	</label>
@@ -629,7 +630,8 @@
                     <volume>134</volume>(
                     <issue>5</issue>):
                     <fpage>468</fpage>–
-                    <lpage>73</lpage>.                 
+                    <lpage>73</lpage>. 
+                    <pub-id pub-id-type="doi">10.1055/s-0028-1098928</pub-id>
                     <pub-id pub-id-type="pmid">19757348</pub-id>
                     <issn>0044-409X</issn>                     
                 </mixed-citation>
@@ -903,34 +905,35 @@
                     <issn>1068-9265</issn>
                 </mixed-citation>
             </ref>
-                <ref id="b25">
-                    <label>25.	</label>
-                    <mixed-citation publication-type="book">
-                        <source>Rak v Sloveniji 2014</source>.                      
-                        <publisher-loc>Ljubljana</publisher-loc>:                     
-                        <publisher-name>Onkološki inštitut Ljubljana, Epidemiologija in register raka, Register raka Republike Slovenije</publisher-name>;
-                        <year>2017</year>. 
-                    </mixed-citation>
+            <ref id="b25">
+                <label>25.	</label>
+                <mixed-citation publication-type="book">
+                    <source>Rak v Sloveniji 2014</source>.                 
+                    <publisher-loc>Ljubljana</publisher-loc>:                 
+                    <publisher-name>Onkološki inštitut Ljubljana, Epidemiologija in register raka, Register raka Republike Slovenije</publisher-name>;                 
+                    <year>2017</year>.                  
+                </mixed-citation>
+            </ref>
             <ref id="b26">
-                <ref id="b26">
-                    <label>26.	</label>
-                    <mixed-citation publication-type="journal">                                   
-                        <person-group person-group-type="author">
-                            <name>
-                                <surname>Zucchi</surname>
-                                <given-names>S</given-names>
-                            </name>
-                        </person-group>.                      
-                        <article-title>Merkel cell carcinoma: case report and literature review, from a remote region of France </article-title>.                     
-                        <source>Rural Remote Health</source>.                      
-                        <year>2009</year>
-                        <month>Jan_Mar</month>;                     
-                        <volume>9</volume>(                     
-                        <issue>1</issue>):                    
-                        <fpage>1072</fpage>.
+                <label>26.	</label>
+                <mixed-citation publication-type="journal">                                   
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Zucchi</surname>
+                            <given-names>S</given-names>
+                        </name>
+                    </person-group>.                     
+                    <article-title>Merkel cell carcinoma: case report and literature review, from a remote region of France </article-title>.                    
+                    <source>Rural Remote Health</source>.                      
+                    <year>2009</year>
+                    <month>Jan_Mar</month>;                     
+                    <volume>9</volume>(                     
+                    <issue>1</issue>):                     
+                    <fpage>1072
+                    </lpage>.                      
                         <pub-id pub-id-type="pmid">19206996</pub-id>
                         <issn>1445-6354</issn>
-                    </mixed-citation>
+                </mixed-citation>
             </ref>
             <ref id="b27">
                 <label>27.	</label>
