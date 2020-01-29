@@ -91,7 +91,7 @@
     <back>
         <ref-list>
             <ref id="b1">
-                <label>1.	</label>
+                <label>1.	</label> 
                 <mixed-citation publication-type="conference">
                     <person-group person-group-type="author">
                         <name>
@@ -111,9 +111,9 @@
                         <role>editors</role>
                     </person-group>
                     <article-title>Lung ultrasound I. – basic sonographic patterns</article-title>.
-                    <conf-name>2th WINFOCUS World Congress on ultrasound in emergency and critical care. e-summary of selected lectures.</conf-name>
+                    <conf-name>2th WINFOCUS World Congress on ultrasound in emergency and critical care. e-summary of selected lectures</conf-name>.
                     <conf-date iso-8601-date="2016-09-07">2003 Sep 07-10</conf-date>;
-                    <conf-place>Ljubljana, Slovenija</conf-place>.
+                    <conf-loc>Ljubljana, Slovenija</conf-loc>.
                     <publisher-loc>V Ljubljani</publisher-loc>:
                     <publisher-name>Zdravniško društvo</publisher-name>;
                     <year iso-8601-date="2016">2016</year>. pp.
@@ -123,13 +123,15 @@
             </ref>
             <ref id="b2">
                 <label>2.	</label>
-                <mixed-citation publication-type="book chapter">
+                <mixed-citation publication-type="book-chapter">
                     <person-group person-group-type="author">
                         <name>
                             <surname>Možina</surname>
                             <given-names>H</given-names>
                         </name>.
-                    </person-group>                    
+                    </person-group>   
+                    <chapter-title>Urgentni ultrazvok pljuč</chapter-title>.
+                    <comment>In<comment>:
                     <person-group person-group-type="editor">                       
                         <name>
                             <surname>Gričar</surname>
@@ -138,10 +140,9 @@
                         <name>
                             <surname>Vajd</surname>
                             <given-names>R</given-names>
-                        </name>.
-                        <role>editors</role>
-                        <chapter-title>Urgentni ultrazvok pljuč</chapter-title>.
-                        <book-title>Urgentna medicina: izbrana poglavja 2017</book-title>.
+                        </name> 
+                        <role>editors</role>.                         
+                        <source>Urgentna medicina: izbrana poglavja 2017</cource>.
                         <publisher-loc>V Ljubljani</publisher-loc>:
                         <publisher-name>Slovensko združenje za urgentno medicino</publisher-name>;
                         <year iso-8601-date="2017">2017</year>. pp.
