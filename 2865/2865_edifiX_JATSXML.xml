@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?> 
 <!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
 <article
     xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" dtd-version="1.0" article-type="reference-list">
@@ -253,8 +253,6 @@
                     <ext-link ext-link-type="uri" xlink:href="<ext-link ext-link-type="uri" xlink:href="http://advantageja.eu/images/SoAR-AdvantageJA_Fulltext.pdf">http://advantageja.eu/images/SoAR-AdvantageJA_Fulltext.pdf</ext-link>
                 </mixed-citation>       
             </ref>
-                
-                    
             </ref>
             <ref id="b7">
                 <label>7.	</label>
@@ -434,19 +432,20 @@
             </ref>
             <ref id="b12">
                 <label>12.	</label>
-                <mixed-citation publication-type="web-page">
+                <mixed-citation publication-type="conference">
                     <person-group person-group-type="author">
-                        <collab>Jansen - Kosterink S</collab>
+                        <name>
+                            <surname>Jansen-Kosterink</surname>
+                            <given-names>S</given-names>
+                        </name>                         
                     </person-group>. 
-                    <article-title>Vollenbroek - Hutten MM, Hermens HJ. A renewed framework for the evaluation of telemedicine<article-title>. 
-                        <comment>Available from</comment>: 
-                        <source>eTELEMED 2016 - The eighth international conference on ehealth, telemedicine, and social medicine<source>. 
-                            <publisher-loc>IARIA XPS Press</publisher-loc>:
-                            <publisher-name>Elsevier</publisher-name>;
-                            <year iso-8601-date="2016">2016</year>. 
-                            <date-in-citation content-type="access-date">cited 2017 Mar 24</date-in-citation>. 
-                            <comment>Available from</comment>:
-                    <ext-link ext-link-type="uri" xlink:href="https://www.thinkmind.org/index.php?view=instance&amp;instance=eTELEMED+2016">https://www.thinkmind.org/index.php?view=instance&amp;instance=eTELEMED+2016</ext-link>
+                    <article-title>Vollenbroek - Hutten MM, Hermens HJ. A renewed framework for the evaluation of telemedicine<article-title>.                         
+                        <cof-name>eTELEMED 2016 - The eighth international conference on ehealth, telemedicine, and social medicine</conf-name>. 
+                        <conf-date iso-8601-date="2016-04-24">2016 Apr 24-28</conf-date>
+                        <conf-loc>Venice</conf-loc>    
+                        <publisher-loc>Amsterdam</publisher-loc>:
+                        <publisher-name>Elsevier</publisher-name>;
+                        <year iso-8601-date="2016">2016</year>.                        
                 </mixed-citation>
             </ref>
             <ref id="b13">
@@ -462,8 +461,8 @@
                             <given-names>M</given-names>
                         </name>
                     </person-group>. 
-                    <article-title>Designing a user-centred ICT platform for active aging </article-title>. In: 2014 IEEE/ASME - 10th international conference on mechatronic and embedded systems and applications (MESA). Senigallia, Italy: IEEE;                      
-                    <conf-name>2014 IEEE/ASME 10th International Conference on Mechatronic and Embedded Systems and Applications (MESA) </conf-name>.
+                    <article-title>Designing a user-centred ICT platform for active aging </article-title>.                     
+                    <conf-name>2014 IEEE/ASME 10th International Conference on Mechatronic and Embedded Systems and Applications (MESA)</conf-name>.
                     <conf-date iso-8601-date="2014-09-10">2014 Sep 10-12</conf-date>;
                     <conf-place>Senigallia, Italy </conf-place>.
                     <comment>Available from</comment>:  
@@ -788,7 +787,7 @@
                         <etal>et al.</etal>
                     </person-group>
                     <article-title>KINOPTIM: a tele-rehabilitation gaming platform for fall prevention in the elderly community</article-title>. 
-                    <source>Int J Health Res Innov </source>.
+                    <source>Int J Health Res Innov</source>.
                     <year>2014</year>;
                     <volume>2</volume>(
                     <issue>1</issue>):
@@ -932,7 +931,7 @@
                         </name>
                     </person-group>. 
                     <article-title>F2D: A location aware fall detection system tested with real data from daily life of elderly people</article-title>. 
-                    <source>Proc Comp Sci.</source>
+                    <source>Proc Comp Sci</source>.
                     <year>2016</year>;
                     <volume>98</volume>:
                     <fpage>212</fpage>–
@@ -957,9 +956,10 @@
                             <given-names>M</given-names>
                         </name>
                     </person-group>. 
-                    <article-title>Using smartwatch as telecare and fall detection device</article-title>.
-                    <comment>In</comment>: 
-                    <source>12th international conference on intelligent environments (IE)</source>. 
+                    <article-title>Using smartwatch as telecare and fall detection device</article-title>.                     
+                    <conf-name>12th international conference on intelligent environments (IE)</conf-name>. 
+                    <conf-date iso-8601-date="2016-04-14">2016 Apr 14-16</conf-date>;
+                    <conf-loc>London</conf-loc>.
                     <publisher-loc>London, UK</publisher-loc>: 
                     <publisher-name>IEEE</publisher-name>; 
                     <year>2016</year>. 
@@ -1064,6 +1064,7 @@
                         <role>editor</role>
                     </person-group>. 
                     <source>Smart home systems</source>. 
+                    <publisher-loc>london</publisher-loc>:
                     <publisher-name>IntechOpen</publisher-name>; 
                     <year>2010</year>. 
                     <pub-id pub-id-type="doi">10.5772/8411</pub-id>
@@ -1178,7 +1179,7 @@
                         <etal>et al.</etal>
                     </person-group>
                     <article-title>ICT-based fall prevention system for older adults: qualitative results from a long-term field study</article-title>. 
-                    <source>ACM Trans Comput Interact.</source>
+                    <source>ACM Trans Comput Interact</source>.
                     <year>2016</year>;
                     <volume>23</volume>(
                     <issue>5</issue>):
@@ -1454,7 +1455,7 @@
                     <article-title>ICT and Ageing - European Study on Users, Markets and Technologies<article-title>. 
                     <year>2010</year>.
                     <date-in-citation content-type="access-date">cited 2019 Jan 9</date-in-citation>. 
-                        <comment>Available from</comment>:
+                    <comment>Available from</comment>:
                     <ext-link ext-link-type="uri" xlink:href="https://ec.europa.eu/digital-single-market/en/news/ict-and-ageing-european-study-users-markets-and-technologies">https://ec.europa.eu/digital-single-market/en/news/ict-and-ageing-european-study-users-markets-and-technologies</ext-link>
                 </mixed-citation>
             </ref>
@@ -1627,17 +1628,19 @@
                             <given-names>CS</given-names>
                         </name>
                     </person-group>. 
-                    <article-title>Knowledge Barriers to Diffusion of Telemedicine.</article-title> In: Conference proceedings: 
+                    <article-title>Knowledge Barriers to Diffusion of Telemedicine</article-title>.
                     <source>19th International Conference on Information Systems</source>; 
                     <conf-date>1998 December 13-16</conf-date>; 
                     <conf-loc>Helsinki, Finland</conf-loc>. pp. 
                     <fpage>39</fpage>–
                     <lpage>50</lpage>.
+                    <comment>Available from</comment>:
+                    <ext-link ext-link-type="uri" xlink:href="https://aisel.aisnet.org/icis1998/5/">https://aisel.aisnet.org/icis1998/5/</ext-link>                 
                 </mixed-citation>
             </ref>
             <ref id="b49">
                 <label>49.	</label>
-                <mixed-citation publication-type="journal">
+                <mixed-citation publication-type="journal">  
                     <person-group person-group-type="author">
                         <name>
                             <surname>Ross</surname>

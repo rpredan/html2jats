@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
 <article
-    xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" dtd-version="1.0" article-type="reference-list">
+    xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" dtd-version="1.0" article-type="reference-list">  
     <front>
         <article-meta>
             <custom-meta-group> 
@@ -118,7 +118,7 @@
                             <surname>Mease</surname>
                             <given-names>P</given-names>
                         </name>, 
-                        <etal>et al.</etal>
+                        <etal>et al</etal>.
                     </person-group>
                     <article-title>The American College of Rheumatology preliminary diagnostic criteria for fibromyalgia and measurement of symptom severity</article-title>. 
                     <source>Arthritis Care Res (Hoboken)</source>. 
@@ -180,7 +180,8 @@
                             <given-names>H</given-names>
                         </name>
                     </person-group>. 
-                    <chapter-title>Chronic pain: a biobehavioral perspective</chapter-title>. In: 
+                    <chapter-title>Chronic pain: a biobehavioral perspective</chapter-title>. 
+                    <comment>In</comment>: 
                     <person-group person-group-type="editor">
                         <name>
                             <surname>Gatchel</surname>
@@ -228,7 +229,7 @@
                             <surname>Katz</surname>
                             <given-names>NP</given-names>
                         </name>, 
-                        <etal>et al.</etal>; 
+                        <etal>et al</etal>.; 
                         <collab>IMMPACT</collab>
                     </person-group>. 
                     <article-title>Core outcome measures for chronic pain clinical trials: IMMPACT recommendations</article-title>. 
@@ -291,7 +292,7 @@
                             <surname>Angermeyer</surname>
                             <given-names>MC</given-names>
                         </name>, 
-                        <etal>et al.</etal>
+                        <etal>et al</etal>.
                     </person-group>
                     <article-title>Mental disorders among persons with chronic back or neck pain: results from the World Mental Health Surveys</article-title>. 
                     <source>Pain</source>. 
@@ -410,7 +411,7 @@
                             <surname>Fireman</surname>
                             <given-names>B</given-names>
                         </name>, 
-                        <etal>et al.</etal>
+                        <etal>et al</etal>.
                     </person-group>
                     <article-title>Comorbid depression, chronic pain, and disability in primary care</article-title>. 
                     <source>Psychosom Med</source>. 
@@ -453,7 +454,7 @@
                             <surname>Álvarez-Gallardo</surname>
                             <given-names>IC</given-names>
                         </name>, 
-                        <etal>et al.</etal>
+                        <etal>et al</etal>.
                     </person-group>
                     <article-title>Association of different levels of depressive symptoms with symptomatology, overall disease severity, and quality of life in women with fibromyalgia</article-title>. 
                     <source>Qual Life Res</source>. 
@@ -500,10 +501,7 @@
                     <fpage>9724371</fpage>. 
                     <pub-id pub-id-type="doi">10.1155/2017/9724371</pub-id>
                     <pub-id pub-id-type="pmid">28706741</pub-id>
-                    <issn>1687-5443</issn>
-                    <annotation>
-                        <p content-type="warning">Edifix has not found an issue number in the journal reference. Please check the volume/issue information. (Ref. 11 "Sheng, Liu, Wang, Cui, Zhang, 2017")</p>
-                    </annotation>
+                    <issn>1687-5443</issn>                     
                 </mixed-citation>
             </ref>
             <ref id="b12">
@@ -524,18 +522,13 @@
                         </name>
                     </person-group>. 
                     <article-title>Depression and chronic pain</article-title>. 
-                    <source>MJA</source>. 
-                    <year>2012</year>;
-                    <volume>1</volume>
-                    <supplement>suppl 4</supplement>:
-                    <fpage>17</fpage>–
+                    <source>Med J Aust</source>. 
+                    <year>2013</year>;
+                    <volume>199</volume>(
+                    <supplement>S6</supplement>):
+                    <fpage>S17</fpage>–
                     <lpage>20</lpage>.
-                    <pub-id pub-id-type="pmid">25370278</pub-id>
-                    <annotation>
-                        <p content-type="warning">Edifix has not updated this reference because the year, volume, and pages all differ from the author original. The PubMed reference is 
-                            <underline>Holmes A, Christelis N, Arnold C. Depression and chronic pain. Med J Aust. 2013 Sep;199(6 Suppl):S17–20</underline>. (Ref. 12 "Holmes, Christelis, Arnold, 2012")
-                        </p>
-                    </annotation>
+                    <pub-id pub-id-type="pmid">25370278</pub-id>                     
                 </mixed-citation>
             </ref>
             <ref id="b13">
@@ -574,12 +567,7 @@
                     <lpage>92</lpage>. 
                     <pub-id pub-id-type="doi">10.1016/j.jpain.2016.01.001</pub-id>
                     <pub-id pub-id-type="pmid">27586832</pub-id>
-                    <issn>1526-5900</issn>
-                    <annotation>
-                        <p content-type="warning">Edifix has not updated the article title because PubMed's is slightly different and Title Case. The PubMed article title is 
-                            <underline>The Role of Psychosocial Processes in the Development and Maintenance of Chronic Pain</underline>. (Ref. 13 "Edwards, Dworkin, Sullivan, Turk, Wasan, 2016")
-                        </p>
-                    </annotation>
+                    <issn>1526-5900</issn>                     
                 </mixed-citation>
             </ref>
             <ref id="b14">
@@ -641,12 +629,7 @@
                     <fpage>51</fpage>–
                     <lpage>2</lpage>. 
                     <pub-id pub-id-type="doi">10.1097/00002508-199103000-00053</pub-id>
-                    <issn>0749-8047</issn>
-                    <annotation>
-                        <p content-type="warning">Crossref reports the title is "
-                            <underline>The Tampa Scale</underline>". (Ref. 15 "Miller, Kori, Todd, 1991")
-                        </p>
-                    </annotation>
+                    <issn>0749-8047</issn>                     
                 </mixed-citation>
             </ref>
             <ref id="b16">
@@ -804,7 +787,7 @@
                             <given-names>RA</given-names>
                         </name>, 
                         <name>
-                            <surname>Garbin</surname>
+                            <surname>Carbin</surname>
                             <given-names>MG</given-names>
                         </name>
                     </person-group>. 
@@ -816,12 +799,7 @@
                     <fpage>77</fpage>–
                     <lpage>100</lpage>. 
                     <pub-id pub-id-type="doi">10.1016/0272-7358(88)90050-5</pub-id>
-                    <issn>0272-7358</issn>
-                    <annotation>
-                        <p content-type="warning">Edifix has not updated the authors because of a name mismatch. Please compare "Garbin" with "Carbin". The Crossref authors are 
-                            <underline>Beck AT, Steer RA, Carbin MG</underline>. (Ref. 21 "Beck, Steer, Garbin, 1988")
-                        </p>
-                    </annotation>
+                    <issn>0272-7358</issn>                     
                 </mixed-citation>
             </ref>
             <ref id="b22">
@@ -1037,7 +1015,7 @@
                             <surname>De Bie</surname>
                             <given-names>J</given-names>
                         </name>, 
-                        <etal>et al.</etal>
+                        <etal>et al</etal>.
                     </person-group>
                     <article-title>Differentiating progress in a clinical group of fibromyalgia patients during and following a multicomponent treatment program</article-title>. 
                     <source>J Psychosom Res</source>. 
@@ -1447,7 +1425,7 @@
                             <surname>Johansson</surname>
                             <given-names>F</given-names>
                         </name>, 
-                        <etal>et al.</etal>
+                        <etal>et al</etal>.
                     </person-group>
                     <article-title>Chronic pain and sex-differences; women accept and move, while men feel blue</article-title>. 
                     <source>PLoS One</source>. 
@@ -1630,7 +1608,7 @@
                             <surname>Huttenberger</surname>
                             <given-names>B</given-names>
                         </name>, 
-                        <etal>et al.</etal>
+                        <etal>et al</etal>.
                     </person-group>
                     <article-title>Comparison of the Big Five personality traits in fibromyalgia and other rheumatic diseases</article-title>. 
                     <source>Joint Bone Spine</source>. 
