@@ -1,91 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?> 
-<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
-<article
-    xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" dtd-version="1.0" article-type="reference-list">
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD with MathML3 v1.1 20151215//EN" "JATS-journalpublishing1-mathml3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" dtd-version="1.1" article-type="reference-list">
     <front>
+        <journal-meta>
+            <journal-id></journal-id>
+            <issn></issn>
+        </journal-meta>
         <article-meta>
-            <custom-meta-group>
-                <custom-meta>
-                    <meta-name>TotalReferences</meta-name>
-                    <meta-value>41</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesParsed</meta-name>
-                    <meta-value>38</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesBillable</meta-name>
-                    <meta-value>38</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>LinkServices</meta-name>
-                    <meta-value>pubmed-crossref</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesLinked</meta-name>
-                    <meta-value>30</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesLinkedDOI</meta-name>
-                    <meta-value>29</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesLinkedPMID</meta-name>
-                    <meta-value>25</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>JournalReferences</meta-name>
-                    <meta-value>27</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>BookReferences</meta-name>
-                    <meta-value>3</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>BookChapterReferences</meta-name>
-                    <meta-value>8</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ConferenceReferences</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ElectronicReferences</meta-name>
-                    <meta-value>3</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>DissertationReferences</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>LegalReferences</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>StandardReferences</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>OtherReferences</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>UnknownReferences</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesSemiParsed</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesBookUnparsed</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>EditorialStyle</meta-name>
-                    <meta-value>ICMJE-WHO</meta-value>
-                </custom-meta>
-            </custom-meta-group>
+            <title-group>
+                <article-title></article-title>
+            </title-group>
+            <pub-date>
+                <year></year>
+            </pub-date>
         </article-meta>
     </front>
     <back>
@@ -135,7 +62,7 @@
                 </mixed-citation>
             </ref>
             <ref id="b2">
-                <label>2.	</label>
+                <label>2. </label>
                 <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
@@ -217,7 +144,8 @@
                     <year>2015</year>. pp.                      
                     <fpage>41</fpage>–                     
                     <lpage>57</lpage>.                      
-                    <pub-id pub-id-type="doi">10.1007/978-1-4939-1541-5_6</pub-id>                     
+                    <pub-id pub-id-type="doi">10.1007/978-1-4939-1541-5_6</pub-id>
+                </mixed-citation>
             </ref>
             <ref id="b4">
                 <label>4.	</label> 
@@ -1386,15 +1314,14 @@
                             <surname>Aldridge</surname>
                             <given-names>J</given-names>
                         </name>, 
-                        
                         <name>
                             <surname>Sourkes</surname>
                             <given-names>BM</given-names>
                         </name>
-                    </person-group>.                     
-                    <book-chapter>The psychological impact of life-limiting conditions on the child</book-chapter>. 
-                    <comment>Available from</comment>:
-                    <source>oxford Textbook of Palliative Care for Children</source>: 
+                    </person-group>. 
+                    <chapter-title>The psychological impact of life-limiting conditions on the child</chapter-title>. 
+                    <comment>Available from</comment>: 
+                    <source>Oxford Textbook of Palliative Care for Children</source>: 
                     <publisher-loc>New York (NY)</publisher-loc>:                     
                     <publisher-name>Oxford Press University</publisher-name>;                     
                     <year>2012</year>. pp.                     

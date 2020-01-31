@@ -25,7 +25,7 @@
     <ref-list>
         <ref id="b1">
             <label>1. </label> <!-- add label if there is none. Label is same as id's "b" number in this case 1; add ". " after label -->
-            <mixed-citation publication-type="journal">
+            <mixed-citation >
                 <person-group person-group-type="author">
                     <name>
                         <surname>Terl</surname> <!-- there should be an " " (space) after <surname> tag. Please add it if it's absend -->
@@ -67,7 +67,7 @@
             </mixed-citation>
         </ref>
         <!-- Conversion format -->
-        <!-- Terl M, Sedlák V, Cap P, Dvořáková R, Kašák V, Kočí T, et al. Asthma management: A new phenotype-based approach using presence of eosinophilia and allergy. Allergy. 2017;72(9):1279–87. https://doi.org/10.1111/all.13165 https://pubmed.ncbi.nlm.nih.gov/28328094 -->
+        <!-- 1. Terl M, Sedlák V, Cap P, Dvořáková R, Kašák V, Kočí T, et al. Asthma management: A new phenotype-based approach using presence of eosinophilia and allergy. Allergy. 2017;72(9):1279–87. https://doi.org/10.1111/all.13165 https://pubmed.ncbi.nlm.nih.gov/28328094 -->
         
         <ref id="b2">
             <label>2. </label>
@@ -114,7 +114,7 @@
             </mixed-citation>
         </ref>
         <!-- Conversion format -->
-        <!-- Abrams P, Anderson KE, Birder L, Brubaker L, Cardozo L, Chapple C; Member of Committees; Forth International Consultation on Incontinence. Fourth international consultation on incontinence recommendations of the international scientific committee: Evaluation and treatment of urinary incontinence, pelvic organ prolapse, and fecal incontinence. Neurourol Urodyn. 2010;29(1):213-40. https://doi.org/10.1002/nau.20870 https://pubmed.ncbi.nlm.nih.gov/20025020--> 
+        <!-- 2. Abrams P, Anderson KE, Birder L, Brubaker L, Cardozo L, Chapple C; Member of Committees; Forth International Consultation on Incontinence. Fourth international consultation on incontinence recommendations of the international scientific committee: Evaluation and treatment of urinary incontinence, pelvic organ prolapse, and fecal incontinence. Neurourol Urodyn. 2010;29(1):213-40. https://doi.org/10.1002/nau.20870 https://pubmed.ncbi.nlm.nih.gov/20025020--> 
         
         <ref id="b3">
             <label>3. </label>
@@ -162,6 +162,8 @@
                 <issue>64</issue>.
             </mixed-citation>
         </ref>
+        <!-- Conversion format -->
+        <!-- Zakon o zdravstveni dejavnosti  –  uradno prečiščeno besedilo  - ZZDej-UPB2. Uradni list RS. 2005(23); 2008(23); 2014(4); 2017(64).  -->
         
         <!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
         <!-- Publication type: Book -->
@@ -186,7 +188,7 @@
             </mixed-citation>
         </ref>
         <!-- Conversion format -->
-        <!-- Jeffeery S, dJong P, eds. Textbook of urogynaecology. Cape Town:  University of Cape Town; 2010. -->
+        <!-- 4. Jeffeery S, dJong P, eds. Textbook of urogynaecology. Cape Town:  University of Cape Town; 2010. -->
     
         <!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
         <!-- Publication type= Book chapter -->
@@ -228,7 +230,7 @@
             </mixed-citation>
         </ref>
         <!-- Conversion format -->
-        <!-- Milson I. Epidemiology of Urinary Incontinence (UI) and other Lower Urinary Tract Symptoms (LUTS), Pelvic Organ Prolapse (POP) and Anal Incontinence (AI). In: Abrams P, Cardozo L, Khoury S, Wein A, eds. Incontinence. 5th ed 2013. Paris: ICUD-EAU; 2013. -->
+        <!-- 5. Milson I. Epidemiology of Urinary Incontinence (UI) and other Lower Urinary Tract Symptoms (LUTS), Pelvic Organ Prolapse (POP) and Anal Incontinence (AI). In: Abrams P, Cardozo L, Khoury S, Wein A, eds. Incontinence. 5th ed 2013. Paris: ICUD-EAU; 2013. -->
          
         <!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
         <!-- Publication type= Web page -->
@@ -259,7 +261,7 @@
             </mixed-citation>
         </ref>
         <!-- Conversion format -->
-        <!-- AMA: helping doctors help patients [Internet]. Chicago: American Medical Association; &copy;1995-2007[cited 2007 Feb 22]. Available from: http://www.ama-assn.org/ -->
+        <!-- 7. AMA: helping doctors help patients [Internet]. Chicago: American Medical Association; &copy;1995-2007[cited 2007 Feb 22]. Available from: http://www.ama-assn.org/ -->
         
         <!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
         <!-- Publication type= Conference -->
@@ -317,7 +319,7 @@
             </mixed-citation>
         </ref>
         <!-- Conversion format -->
-        <!-- Zupanič-Pajnič I. Identifikacija oseb iz starih in slabo ohranjenih bioloških materialov s polimorfizmi mitohondrijske DNA. [PhD Thesis]. Ljubljana: I. Zupanič Pajnič; 2007. -->
+        <!-- 9. Zupanič-Pajnič I. Identifikacija oseb iz starih in slabo ohranjenih bioloških materialov s polimorfizmi mitohondrijske DNA. [PhD Thesis]. Ljubljana: I. Zupanič Pajnič; 2007. -->
     </ref-list>                     
 </back>
 </article>
