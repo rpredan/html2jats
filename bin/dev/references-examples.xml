@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD with MathML3 v1.1 20151215//EN" "JATS-journalpublishing1-mathml3.dtd">
+<!-- links:
+    Sample Citations: https://jats.nlm.nih.gov/publishing/tag-library/1.2/chapter/tag-cite-publishing-examp.html
+    Citation tags: https://jats.nlm.nih.gov/publishing/tag-library/1.2/chapter/tag-citation.html#pub-tag-citation -->
+<!-- Comment: there are more types of Publication type, but we will focus on mentioned below for now. -->    
+
+<!-- Publication type: Journal -->
+<article>
+<front>
+        <journal-meta>
+            <journal-id></journal-id>
+            <issn></issn>
+        </journal-meta>
+        <article-meta>
+            <title-group>
+                <article-title></article-title>
+            </title-group>
+            <pub-date>
+                <year></year>
+            </pub-date>
+        </article-meta>
+    </front>
+<back>
+    <ref-list>
+        <ref id="b1">
+            <label>1. </label> <!-- add label if there is none. Label is same as id's "b" number in this case 1; add ". " after label -->
+            <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                    <name>
+                        <surname>Terl</surname> <!-- there should be an " " after <surname> tag. Please add it if it's absend -->
+                        <given-names>M</given-names>
+                    </name>, 
+                    <name>
+                        <surname>Sedlák</surname> 
+                        <given-names>V</given-names>
+                    </name>, 
+                    <name>
+                        <surname>Cap</surname> 
+                        <given-names>P</given-names>
+                    </name>, 
+                    <name>
+                        <surname>Dvořáková</surname> 
+                        <given-names>R</given-names>
+                    </name>, 
+                    <name>
+                        <surname>Kašák</surname> 
+                        <given-names>V</given-names>
+                    </name>, 
+                    <name>
+                        <surname>Kočí</surname> 
+                        <given-names>T</given-names>
+                    </name>, 
+                    <etal>et al.</etal>
+                </person-group>
+                <article-title>Asthma management: A new phenotype-based approach using presence of eosinophilia and allergy</article-title>. 
+                <source>Allergy</source>. 
+                <year>2017</year>
+                <month>Sep</month>; <!-- ignore <month> tag -->
+                <volume>72</volume>(
+                <issue>9</issue>):
+                <fpage>1279</fpage>–
+                <lpage>87</lpage>. 
+                <pub-id pub-id-type="doi">10.1111/all.13165</pub-id> <!-- add "https://doi.org/" before doi for conversion -->
+                <pub-id pub-id-type="pmid">28328094</pub-id> <!-- add "https://pubmed.ncbi.nlm.nih.gov/" before pmid for conversion -->
+                <issn>0105-4538</issn> <!-- ignore <issn> tag -->
+            </mixed-citation>
+        </ref>
+        <!-- Conversion format -->
+        <!-- Terl M, Sedlák V, Cap P, Dvořáková R, Kašák V, Kočí T, et al. Asthma management: A new phenotype-based approach using presence of eosinophilia and allergy. Allergy. 2017;72(9):1279–87. 10.1111/all.13165 28328094 -->
+        
+        <ref id="b2">
+            <label>2. </label>
+            <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                    <name>
+                        <surname>Abrams</surname> <!-- there should be an " " after <surname> tag. Please add it if it's absend -->
+                        <given-names>P</given-names>
+                    </name>, 
+                    <name>
+                        <surname>Andersson</surname> 
+                        <given-names>KE</given-names>
+                    </name>, 
+                    <name>
+                        <surname>Birder</surname>
+                        <given-names>L</given-names>
+                    </name>, 
+                    <name>
+                        <surname>Brubaker</surname>
+                        <given-names>L</given-names>
+                    </name>, 
+                    <name>
+                        <surname>Cardozo</surname>
+                        <given-names>L</given-names>
+                    </name>, 
+                    <name>
+                        <surname>Chapple</surname>
+                        <given-names>C</given-names>
+                    </name>, 
+                    <etal>et al.</etal>; 
+                    <collab>Members of Committees</collab>; 
+                    <collab>Fourth International Consultation on Incontinence</collab>
+                </person-group>. 
+                <article-title>Fourth international consultation on incontinence recommendations of the international scientific committee: Evaluation and treatment of urinary incontinence, pelvic organ prolapse, and fecal incontinence</article-title>. 
+                <source>Neurourol Urodyn</source>. 
+                <year>2010</year>;
+                <volume>29</volume>(
+                <issue>1</issue>):
+                <fpage>213</fpage>–
+                <lpage>40</lpage>. 
+                <pub-id pub-id-type="doi">10.1002/nau.20870</pub-id> <!-- add "https://doi.org/" before doi for conversion -->
+                <pub-id pub-id-type="pmid">20025020</pub-id> <!-- add "https://pubmed.ncbi.nlm.nih.gov/" before pmid for conversion -->
+                <issn>0733-2467</issn> <!-- ignore <issn> tag -->
+                <!-- if other links come after pub-id-type="doi" or "pmid", ignore it and report an error -->
+            </mixed-citation>
+        </ref>
+        <!-- Conversion format -->
+        <!-- Abrams P, Anderson KE, Birder L, Brubaker L, Cardozo L, Chapple C; Member of Committees; Forth International Consultation on Incontinence. Fourth international consultation on incontinence recommendations of the international scientific committee: Evaluation and treatment of urinary incontinence, pelvic organ prolapse, and fecal incontinence. Neurourol Urodyn. 2010;29(1):213-40. https://doi.org/10.1002/nau.20870 https://pubmed.ncbi.nlm.nih.gov/20025020--> 
+        
+        <ref id="b3">
+            <label>3. </label>
+            <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                    <name>
+                        <surname>Košnik</surname> 
+                        <given-names>M</given-names>
+                    </name>, 
+                    <name>
+                        <surname>Triller</surname> 
+                        <given-names>N</given-names>
+                    </name>, 
+                    <name>
+                        <surname>Šelb</surname> 
+                        <given-names>J</given-names>
+                    </name>
+                </person-group>. 
+                <article-title>Mnenje pulmologov o pomenu vdihovalnikov pri bolnikih z astmo ali KOPB</article-title>. 
+                <source>Zdrav Vestn</source>. 
+                <year>2017</year>;
+                <volume>86</volume>(
+                <issue>3-4</issue>):
+                <fpage>105</fpage>–
+                <lpage>14</lpage>.
+                <pub-id pub-id-type="doi">10.6016/ZdravVestn.2472</pub-id> <!-- add "https://doi.org/" before the code -->
+                <issn>0350-0063</issn>
+            </mixed-citation>
+        </ref>
+        <!-- Conversion format -->
+        <!-- Košnik M, Triller N, Šelb J. Mnenje pulmologov o pomenu vdihovalnikov pri bolnikih z astmo ali KOPB. Zdrav Vestn. 2017;86(3-4):105-14. https://doi.org/10.6016/ZdravVestn.2472 -->
+        
+        <!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
+        <!-- Publication type: Book -->
+        <ref id="b4">
+            <label>4. </label>
+            <mixed-citation publication-type="book">
+                <person-group person-group-type="editor">
+                    <name>
+                        <surname>Jeffery</surname>
+                        <given-names>S</given-names>
+                    </name>, 
+                    <name>
+                        <surname>de Jong</surname>
+                        <given-names>P</given-names>
+                    </name>
+                    <role>editor</role> <!-- please change editor(s) or slovenian version urednik(i) in "eds" -->
+                </person-group>. 
+                <source>Textbook of urogynaecology</source>. 
+                <publisher-loc>Cape Town</publisher-loc>: 
+                <publisher-name>University of Cape Town</publisher-name>; 
+                <year>2010</year>.
+            </mixed-citation>
+        </ref>
+        <!-- Conversion format -->
+        <!-- Jeffeery S, dJong P, eds. Textbook of urogynaecology. Cape Town:  University of Cape Town; 2010. -->
+    
+        <!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
+        <!-- Publication type= Book chapter -->
+        <ref id="b5">
+            <label>5. </label>
+            <mixed-citation publication-type="book-chapter">
+                <person-group person-group-type="author">
+                    <name>
+                        <surname>Milson</surname>
+                        <given-names>I</given-names>                         
+                    </name>                   
+                </person-group>. 
+                <chapter-title>Epidemiology of Urinary Incontinence (UI) and other Lower Urinary Tract Symptoms (LUTS), Pelvic Organ Prolapse (POP) and Anal Incontinence (AI)</chapter-title>. 
+                <comment>In</comment>:
+                <person-group person-group-type="editor">
+                    <name>
+                        <surname>Abrams</surname>
+                        <given-names>P</given-names>
+                    </name>,
+                    <name>
+                        <surname>Cardozo</surname>
+                        <given-names>L</given-names>
+                    </name>,
+                    <name>
+                        <surname>Khoury</surname>
+                        <given-names>S</given-names>
+                    </name>,
+                    <name>
+                        <surname>Wein</surname>
+                        <given-names>A</given-names>
+                    </name>
+                    <role>editors</role> <!-- please change editor(s) or slovenian version urednik(i) in "eds" -->
+                </person-group>.
+                <source>Incontinence</source>.
+                <edition>5th ed 2013</edition>.
+                <publisher-loc>Paris</publisher-loc>:
+                <publisher-name>ICUD-EAU </publisher-name>;                     
+                <year>2013</year>.
+            </mixed-citation>
+        </ref>
+        <!-- Conversion format -->
+        <!-- Milson I. Epidemiology of Urinary Incontinence (UI) and other Lower Urinary Tract Symptoms (LUTS), Pelvic Organ Prolapse (POP) and Anal Incontinence (AI). In: Abrams P, Cardozo L, Khoury S, Wein A, eds. Incontinence. 5th ed 2013. Paris: ICUD-EAU; 2013. -->
+         
+        <!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
+        <!-- Publication type= Web page -->
+        <ref id="b6">
+            <label>6. </label>
+            <mixed-citation publication-type="web-page"> 
+                <person-group person-group-type="author">
+                    <collab>National Comprehensive Cancer Network (NCCN)</collab>.
+                </person-group>
+                <source>Clinical practice guidelines in oncology: Merkel cell carcinoma</source>.
+                <year>2018</year>.                          
+                <date-in-citation content-type="access-date" iso-8601-date="2018-08-26">cited 2018 Aug 26</date-in-citation>.                          
+                <comment>Available from: <uri>"https://www.nccn.org/professionals/physician_gls/pdf/mcc.pdf</uri></comment>.                         
+            </mixed-citation>
+        </ref>
+        <!-- Conversion format -->
+        <!-- National Comprehensive Cancer Network (NCCN). Clinical practice guidelines in oncology: Merkel cell carcinoma. 2018[cited 2018 Aug 26]. Available from: https://www.nccn.org/professionals/physician_gls/pdf/mcc.pdf. --> 
+        
+        <ref id="b7">
+            <label>7. </label>
+            <mixed-citation publication-type="webpage" publication-format="web">
+                <source>AMA: helping doctors help patients</source> [Internet].
+                <publisher-loc>Chicago</publisher-loc>:
+                <publisher-name>American Medical Association</publisher-name>;
+                &copy;<date-in-citation content-type="copyright-year" iso-8601-date="1995">1995-2007</date-in-citation> cited
+                [<date-in-citation content-type="access-date" iso-8601-date="2007-02-22">2007 Feb 22</date-in-citation>].
+                Available from: <uri>http://www.ama-assn.org/</uri>.
+            </mixed-citation>
+        </ref>
+        <!-- Conversion format -->
+        <!-- AMA: helping doctors help patients [Internet]. Chicago: American Medical Association; &copy;1995-2007[cited 2007 Feb 22]. Available from: http://www.ama-assn.org/ -->
+        
+        <!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
+        <!-- Publication type= Conference -->
+        <ref id="b8">
+            <label>8. </label>
+            <mixed-citation publication-type="conference">
+                <person-group person-group-type="author">
+                    <name>
+                        <surname>Možina</surname>
+                        <given-names>H</given-names>
+                    </name>.
+                </person-group>
+                <person-group person-group-type="editor">                       
+                    <name>
+                        <surname>Prosen</surname>
+                        <given-names>G</given-names>
+                    </name>,  
+                    <name>
+                        <surname>Matevž</surname>
+                        <given-names>P</given-names>
+                    </name>.
+                    <role>editors</role>
+                </person-group>
+                <article-title>Lung ultrasound I. – basic sonographic patterns</article-title>.
+                <conf-name>2th WINFOCUS World Congress on ultrasound in emergency and critical care. e-summary of selected lectures.</conf-name>
+                <conf-date iso-8601-date="2016-09-07">2003 Sep 07-10</conf-date>;
+                <conf-loc>Ljubljana, Slovenija</conf-loc>.
+                <publisher-loc>Ljubljana</publisher-loc>:
+                <publisher-name>Zdravniško društvo</publisher-name>;
+                <year>2016</year>. pp.
+                <fpage>64</fpage>-
+                <lpage>8</lpage>.
+            </mixed-citation>
+        </ref>
+        <!-- Conversion format -->
+        <!-- Možina H. Lung Ultrasound I.- basic sonographic patterns. Prosen G, Matevž P, eds. 2th WINFOCUS World Congress on ultrasound in emergency and critical care. e-summary of selected lectures. 2003 Sept 07-10; Ljubljana, Slovenija. Ljubljana: Zdravniško društvo; 2016 -->
+        
+
+        <!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
+        <!-- Publication type= Thesis -->
+        <ref id="b9">
+            <label>9. </label>
+            <mixed-citation publication-type="thesis">
+                <person-group person-group-type="author">
+                    <name>
+                        <surname>Zupanič Pajnič</surname>
+                        <given-names>I</given-names>
+                    </name>
+                </person-group>. 
+                <source>Identifikacija oseb iz starih in slabo ohranjenih bioloških materialov s polimorfizmi mitohondrijske DNA</source>. 
+                <comment>[PhD Thesis]</comment>.
+                <publisher-loc>Ljubljana</publisher-loc>: 
+                <publisher-name>I. Zupanič Pajnič</publisher-name>;   
+                <year>2007</year>.
+            </mixed-citation>
+        </ref>
+        <!-- Conversion format -->
+        <!-- Zupanič-Pajnič I. Identifikacija oseb iz starih in slabo ohranjenih bioloških materialov s polimorfizmi mitohondrijske DNA. [PhD Thesis]. Ljubljana: I. Zupanič Pajnič; 2007. -->
+    </ref-list>                     
+</back>
+</article>
