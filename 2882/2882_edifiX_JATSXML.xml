@@ -1,97 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?> 
-<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
-<article
-    xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" dtd-version="1.0" article-type="reference-list">
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD with MathML3 v1.1 20151215//EN" "JATS-journalpublishing1-mathml3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" dtd-version="1.1" article-type="reference-list">
     <front>
+        <journal-meta>
+            <journal-id></journal-id>
+            <issn></issn>
+        </journal-meta>
         <article-meta>
-            <custom-meta-group>
-                <custom-meta>
-                    <meta-name>TotalReferences</meta-name>
-                    <meta-value>55</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesParsed</meta-name>
-                    <meta-value>44</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesBillable</meta-name>
-                    <meta-value>44</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>LinkServices</meta-name>
-                    <meta-value>pubmed-crossref</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesLinked</meta-name>
-                    <meta-value>39</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesLinkedDOI</meta-name>
-                    <meta-value>33</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesLinkedPMID</meta-name>
-                    <meta-value>36</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>JournalReferences</meta-name>
-                    <meta-value>44</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>BookReferences</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>BookChapterReferences</meta-name>
-                    <meta-value>1</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ConferenceReferences</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ElectronicReferences</meta-name>
-                    <meta-value>2</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>DissertationReferences</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>LegalReferences</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>StandardReferences</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>OtherReferences</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>UnknownReferences</meta-name>
-                    <meta-value>8</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesSemiParsed</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesBookUnparsed</meta-name>
-                    <meta-value>1</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>EditorialStyle</meta-name>
-                    <meta-value>ICMJE-WHO</meta-value>
-                </custom-meta>
-            </custom-meta-group>
+            <title-group>
+                <article-title></article-title>
+            </title-group>
+            <pub-date>
+                <year></year>
+            </pub-date>
         </article-meta>
     </front>
     <back>
         <ref-list>
             <ref id="b1">
-                <label>1.	</label>
+                <label>1. </label>
                 <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
@@ -168,7 +95,7 @@
                 </mixed-citation>
             </ref>
             <ref id="b4">
-                <label>4.	</label>
+                <label>4. </label>
                 <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
@@ -190,7 +117,7 @@
                 </mixed-citation>
             </ref>
             <ref id="b5">
-                <label>5.	</label>
+                <label>5. </label>
                 <mixed-citation publication-type="book-chapter">
                     <person-group person-group-type="author">
                         <name>
@@ -211,12 +138,11 @@
                     <publisher-name>Zdravniška zbornica slovenije</publisher-name>;
                     <year>2018</year>. pp.
                     <fpage>44</fpage>–
-                    <lpage>9</lpage>. 
-           
+                    <lpage>9</lpage>.           
                 </mixed-citation>
             </ref>
             <ref id="b6">
-                <label>6.	</label>
+                <label>6. </label>
                 <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
@@ -246,7 +172,7 @@
                 </mixed-citation>
             </ref>
             <ref id="b7">
-                <label>7.	</label>
+                <label>7. </label>
                 <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
@@ -284,7 +210,7 @@
                 </mixed-citation>
             </ref>
             <ref id="b8">
-                <label>8.	</label>
+                <label>8. </label>
                 <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
@@ -326,7 +252,7 @@
                 </mixed-citation>
             </ref>
             <ref id="b9">
-                <label>9.	</label>
+                <label>9. </label>
                 <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
@@ -356,7 +282,7 @@
                 </mixed-citation>
             </ref>
             <ref id="b10">
-                <label>10.	</label>
+                <label>10. </label>
                 <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
@@ -382,7 +308,7 @@
                 </mixed-citation>
             </ref>
             <ref id="b11">
-                <label>11.	</label>
+                <label>11. </label>
                 <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
@@ -403,7 +329,6 @@
                     <fpage>8</fpage>.
                     <pub-id pub-id-type="doi">10.22514/SV141.032018.7</pub-id>
                     <issn>1334-5605</issn>
-                    
                 </mixed-citation>
             </ref>
             <ref id="b12">
@@ -793,8 +718,7 @@
                             <given-names>RY</given-names>
                         </name>
                     </person-group>. 
-                    <article-title>Medical Emergencies in Dental Practices<article-title>.
-                    <subtitle>Part II: Preparedness and Readiness of Riyadh Dentists</subtitle>. 
+                    <article-title>Medical Emergencies in Dental Practices. Part II: Preparedness and Readiness of Riyadh Dentists</article-title>. 
                     <source>EC Dent Sci</source>.
                     <year>2018</year>;
                     <volume>17</volume>(
@@ -888,7 +812,7 @@
                 </mixed-citation>
             </ref>
             <ref id="b27">
-                <label>27.	</label>
+                <label>27. </label>
                 <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
@@ -914,7 +838,7 @@
                 </mixed-citation>
             </ref>
             <ref id="b28">
-                <label>28.     </label>
+                <label>28. </label>
                 <mixed-citation publication-type="web-page" >
                     <person-group person-group-type="author">
                         <name>
@@ -922,52 +846,45 @@
                             <given-names>A.</given-names>
                         </name>
                     </person-group> 
-                    <source>Povzetek predavanj temeljnih postopkov oživljanja (TPO) za zdravstvene delavce v okviru predmeta Nujna medicinska pomoč<source>.                                           
-                        <year>2016</year>.
-                        <date-in-citation content-type="copyright-year"
-                            iso-8601-date="2017 09 01 ">2017 Sept 01</date-in-citation>
+                    <source>Povzetek predavanj temeljnih postopkov oživljanja (TPO) za zdravstvene delavce v okviru predmeta Nujna medicinska pomoč</source>.                                           
+                    <year>2016</year>.
+                    <date-in-citation content-type="copyright-year" iso-8601-date="2017-09-01 ">2017 Sept 01</date-in-citation>
                         <comment>Available from</comment>:                  
                         <ext-link ext-link-type="uri" xlink:href="http://www.medenosrce.net/component/attachments/download/4415 ">http://www.medenosrce.net/component/attachments/download/4415</ext-link>
                 </mixed-citation>
-                 
             </ref>
             <ref id="b29">
-                <label>29.     </label>
+                <label>29. </label>
                 <mixed-citation publication-type="web-page" >                     
-                    <source>Predstavitveni zbornik: Enovit magistrski študij druge stopnje dentalna medicina<source>.                                           
+                    <source>Predstavitveni zbornik: Enovit magistrski študij druge stopnje dentalna medicina</source>.                                           
                         <year>2016</year>.
-                        <date-in-citation content-type="copyright-year"
-                            iso-8601-date="2017 09 01 ">2017 Sept 01</date-in-citation>
+                        <date-in-citation content-type="copyright-year" iso-8601-date="2017-09-01 ">2017 Sept 01</date-in-citation>
                         <comment>Available from</comment>:                  
                         <ext-link ext-link-type="uri" xlink:href="https://docplayer.si/142923340-Predstavitveni-zbornik-enovit-magistrski-%C5%A1tudij-druge-stopnje-dentalna-medicina-1-splo%C5%A1ni-podatki-o-%C5%A1tudijskem-programu-enovit-magistrski-%C5%A1tudij-dru.html">https://docplayer.si/142923340-Predstavitveni-zbornik-enovit-magistrski-%C5%A1tudij-druge-stopnje-dentalna-medicina-1-splo%C5%A1ni-podatki-o-%C5%A1tudijskem-programu-enovit-magistrski-%C5%A1tudij-dru.html</ext-link>
                 </mixed-citation>
-                            </ref>
+            </ref>
             <ref id="b30">
-                <label>30.     </label>
+                <label>30. </label>
                 <mixed-citation publication-type="journal">
-                    <article title>Pravilnik o pripravništvu in strokovnih izpitih zdravstvenih delavcev in zdravstvenih sodelavcev na področju zdravstvene dejavnosti</article title>.
-                    <source>Uradni list RS<source>.
-                        <year>2018</year>(
-                        <issue>47</issue>).
-                        <date-in-citation content-type="copyright-year"
-                            iso-8601-date="2017 09 011 ">2017 Sept 01</date-in-citation>
-                        <comment>Available from</comment>:                  
-                        <ext-link ext-link-type="uri" xlink:href="http://www.pisrs.si/Pis.web/pregledPredpisa?id=PRAV13421>http://www.pisrs.si/Pis.web/pregledPredpisa?id=PRAV13421</ext-link> 
-                        iso-8601-date="2017 09 01 ">2017 Sept 01</date-in-citation>
-  
+                    <article-title>Pravilnik o pripravništvu in strokovnih izpitih zdravstvenih delavcev in zdravstvenih sodelavcev na področju zdravstvene dejavnosti</article-title>.
+                    <source>Uradni list RS</source>.
+                    <year>2018</year>(
+                    <issue>47</issue>).
+                    <date-in-citation content-type="copyright-year" iso-8601-date="2017-09-011 ">2017 Sept 01</date-in-citation>
+                    <comment>Available from</comment>:                  
+                    <ext-link ext-link-type="uri" xlink:href="http://www.pisrs.si/Pis.web/pregledPredpisa?id=PRAV13421">http://www.pisrs.si/Pis.web/pregledPredpisa?id=PRAV13421</ext-link> 
                 </mixed-citation>
             </ref>
             <ref id="b31">
-                <label>31.     </label>
+                <label>31. </label>
                 <mixed-citation publication-type="journal">
-                    <article title>Pravilnik o zdravniških licencah</article title>. 
+                    <article-title>Pravilnik o zdravniških licencah</article-title>. 
                     <source>Uradni list RS</source>.
                     <year>2015</year>(
                     <issue>48</issue>). 
                     <comment>Available from</comment>:                  
-                    <ext-link ext-link-type="uri" xlink:href="http://pisrs.si/Pis.web/pregledPredpisa?id=PRAV2225>http://pisrs.si/Pis.web/pregledPredpisa?id=PRAV2225</ext-link> 
-                    iso-8601-date="2017 07 03 ">2017 Jul 03</date-in-citation>
-                      
+                    <ext-link ext-link-type="uri" xlink:href="http://pisrs.si/Pis.web/pregledPredpisa?id=PRAV2225">http://pisrs.si/Pis.web/pregledPredpisa?id=PRAV2225</ext-link> 
+                    <date-in-citation iso-8601-date="2017-07-03">2017 Jul 03</date-in-citation>
                 </mixed-citation>
             </ref>
             <ref id="b32">
@@ -1048,21 +965,22 @@
                 </mixed-citation>
             </ref>
             <ref id="b34">
-                <label>34.     </label>
+                <label>34. </label>
                 <mixed-citation publication-type="web-page">
                     <person-group person-group-type="author">
                         <name>
                             <surname>General Dental Council</surname>                           
                         </name>.
-                    <article-title>Continuing professional development for dental professionals<article-title>. 
+                    </person-group>
+                    <article-title>Continuing professional development for dental professionals</article-title>. 
                     <year>2018</year> 
                     <comment>Available from</comment>:                  
-                     <ext-link ext-link-type="uri" xlink:href="https://www.gdc-uk.org/docs/default-source/enhanced-cpd-scheme-2018/continuing-professional-development-for-dental-professionals-2008.pdf?sfvrsn=d8e9ebd3_2">https://www.gdc-uk.org/docs/default-source/enhanced-cpd-scheme-2018/continuing-professional-development-for-dental-professionals-2008.pdf?sfvrsn=d8e9ebd3_2</ext-link>
-                        iso-8601-date="2019 09 01 ">2019 Sept 01</date-in-citation>
+                    <ext-link ext-link-type="uri" xlink:href="https://www.gdc-uk.org/docs/default-source/enhanced-cpd-scheme-2018/continuing-professional-development-for-dental-professionals-2008.pdf?sfvrsn=d8e9ebd3_2">https://www.gdc-uk.org/docs/default-source/enhanced-cpd-scheme-2018/continuing-professional-development-for-dental-professionals-2008.pdf?sfvrsn=d8e9ebd3_2</ext-link>
+                    <date-in-citation iso-8601-date="219-09-01">2019 Sept 01</date-in-citation>
                 </mixed-citation>                      
              </ref>
             <ref id="b35">
-                <label>35.	</label>
+                <label>35. </label>
                 <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
@@ -1181,7 +1099,7 @@
                     <source>Nujna medicinska stanja v zobozdravstveni ambulanti: priročnik</source>.
                     <publisher-loc>Ljubljana</publisher-loc>:
                     <publisher-name>zdravniška zbornica Slovenije</publisher-name>;
-                    <year iso-8601-date="2012">2012</year>.                  
+                    <year>2012</year>.                  
                 </mixed-citation>
             </ref>
             <ref id="b38">
@@ -1429,7 +1347,7 @@
                 </mixed-citation> 
             </ref>
             <ref id="b45">
-                <label>45.	</label>
+                <label>45. </label>
                 <mixed-citation publication-type="web-page">
                     <person-group person-group-type="author">
                         <collab>Resuscitation Council (UK)</collab>
@@ -1441,7 +1359,7 @@
                 </mixed-citation>
             </ref>
             <ref id="b46">
-                <label>46.	</label>
+                <label>46. </label>
                 <mixed-citation publication-type="web-page">
                     <person-group person-group-type="author">
                         <name>
@@ -1453,7 +1371,7 @@
                             <given-names>NZ</given-names>
                         </name>
                     </person-group>. 
-                    <source>Dental Council of New Zealand Code of Practice Medical Emergencies in Dental Practice<source>.
+                    <source>Dental Council of New Zealand Code of Practice Medical Emergencies in Dental Practice</source>.
                     <comment>Cental practice</comment>.
                     <year>2006</year>.  
                     <comment> Available from</comment>: 
@@ -1461,7 +1379,7 @@
                 </mixed-citation>
             </ref>
             <ref id="b47">
-                <label>47.	</label>
+                <label>47. </label>
                 <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
@@ -1491,22 +1409,22 @@
                 </mixed-citation>
             </ref>
             <ref id="b48">
-                <label>48.     </label>
+                <label>48. </label>
                 <mixed-citation publication-type="journal">
-                <article-title>Zakon o zdravstveni dejavnosti – uradno prečiščeno besedilo – ZZDej-UPB2</article-title>.
-                <source>Uradni list RS</source>. 
-                <year>2005</year>(
-                <issue>23</issue>);
-                <year>2008</year>(
-                <issue>23</issue>);  
-                <year>2014</year>(
-                <issue>4</issue>),
-                <year>2017</year>(
-                <issue>64</issue>.
-          </mixed-citation>
+                    <article-title>Zakon o zdravstveni dejavnosti – uradno prečiščeno besedilo – ZZDej-UPB2</article-title>.
+                    <source>Uradni list RS</source>. 
+                    <year>2005</year>(
+                    <issue>23</issue>);
+                    <year>2008</year>(
+                    <issue>23</issue>);  
+                    <year>2014</year>(
+                    <issue>4</issue>),
+                    <year>2017</year>(
+                    <issue>64</issue>.
+                </mixed-citation>
             </ref>
             <ref id="b49">
-                <label>49.     </label>
+                <label>49. </label>
                 <mixed-citation publication-type="journal">
                     <article-title>Pravilnik o pogojih za opravljanje zasebne zdravstvene dejavnosti</article-title>. 
                     <source>Uradni list RS</source>. 
@@ -1591,7 +1509,7 @@
                 </mixed-citation>
             </ref>
             <ref id="b52">
-                <label>52.	</label>
+                <label>52. </label>
                 <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
@@ -1612,11 +1530,11 @@
                 </mixed-citation>
             </ref>
             <ref id="b53">
-                <label>53.	</label>
+                <label>53. </label>
                 <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
-                            <surname>Haas</surname>
+                            <surname>Haas</surname> 
                             <given-names>DA</given-names>
                         </name>
                     </person-group>. 
@@ -1634,7 +1552,7 @@
                 </mixed-citation>
             </ref>
             <ref id="b54">
-                <label>54.	</label>
+                <label>54. </label>
                 <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
@@ -1676,7 +1594,7 @@
                 </mixed-citation>
             </ref>
             <ref id="b55">
-                <label>55.	</label>
+                <label>55. </label>
                 <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
