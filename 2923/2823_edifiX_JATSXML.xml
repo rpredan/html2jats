@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
 <article
-    xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" dtd-version="1.0" article-type="reference-list">
+    xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" dtd-version="1.0" article-type="reference-list"> 
     <front>
         <article-meta>
             <custom-meta-group>
@@ -101,7 +101,7 @@
                     </person-group>
                     <article-title>Karcinom Merklovih celic</article-title>.                      
                     <source>Onkologija : strokovni časopis za zdravnike</source>.                     
-                    <year iso-8601-date="2012">2012</year>
+                    <year>2012</year>
                     <month>Jun</month>;                     
                     <volume>16</volume>(                     
                     <issue>1</issue>):                     
@@ -381,21 +381,19 @@
                         <name>
                             <surname>Bergant</surname>
                             <given-names>D</given-names>
-                        </name>, 
-                        
+                        </name>,
                         <name>
                             <surname>Hočevar</surname>
                             <given-names>M</given-names>
-                        </name>, 
-                        
+                        </name>,
                         <name>
                             <surname>Čufer</surname>
-                            <given-names>T.</given-names>
-                        </name>
+                            <given-names>T</given-names>
+                        </name>.
                     </person-group>
-                    <article-title>Karcinom Merklovih celic.</article-title>
+                    <article-title>Karcinom Merklovih celic</article-title>.
                     <source>Onkologija : strokovni časopis za zdravnike</source>.                     
-                    <year iso-8601-date="2002">2002</year>
+                    <year>2002</year>
                     <month>Dec</month>;                     
                     <volume>9</volume>(                     
                     <issue>2</issue>):                     
@@ -562,10 +560,9 @@
                     <person-group person-group-type="author">
                         <collab>National Comprehensive Cancer Network (NCCN)</collab>.                         
                         <source>Clinical practice guidelines in oncology: Merkel cell carcinoma</source>.                       
-                        <year>2018</year>.                          
-                        <date-in-citation content-type="access-date">cited 2018 Avg 26</date-in-citation>.                          
-                        <comment>Available from</comment>: 
-                        <uri>"https://www.nccn.org/professionals/physician_gls/pdf/mcc.pdf</uri>.                         
+                        <year>2018</year>
+                        <date-in-citation content-type="access-date" iso-8601-date="2018-08-26">[cited 2018 Aug 26]</date-in-citation>.                                                 
+                        <comment>Available from:<uri>"https://www.nccn.org/professionals/physician_gls/pdf/mcc.pdf</uri></comment>.                         
                 </mixed-citation>
             </ref>
             <ref id="b16">
@@ -929,10 +926,9 @@
                     <month>Jan_Mar</month>;                     
                     <volume>9</volume>(                     
                     <issue>1</issue>):                     
-                    <fpage>1072
-                    </lpage>.                      
-                        <pub-id pub-id-type="pmid">19206996</pub-id>
-                        <issn>1445-6354</issn>
+                    <fpage>1072</fpage>.                      
+                    <pub-id pub-id-type="pmid">19206996</pub-id>
+                    <issn>1445-6354</issn>
                 </mixed-citation>
             </ref>
             <ref id="b27">
