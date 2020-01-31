@@ -6,7 +6,7 @@
         <article-meta>
             <custom-meta-group>
                 <custom-meta>
-                    <meta-name>TotalReferences</meta-name>
+                    <meta-name>TotalReferences</meta-name>  
                     <meta-value>17</meta-value>
                 </custom-meta>
                 <custom-meta>
@@ -573,20 +573,13 @@
                 <mixed-citation publication-type="web-page">    
                     <person-group person-group-type="author">
                         <collab>British Cardiovascular Intervention Society</collab>
-                    </person-group>. 
-<<<<<<< HEAD
+                    </person-group>.  
                     <article-title>Audit results</article-title>
                     <year>1991</year> 
                     <date-in-citation content-type="access-date" iso-8601-date="2014-12-22">[cited 2014 Dec 22]</date-in-citation>.
-                    <comment>Available from: <uri>http://www.bcis.org.uk/pages/page_box_contents.asp?pageid=697&amp;navcatid=11<uri></comment>.
-=======
-                    <source>Audit results</source>
-                    <year>1991</year> . 
-                    <date-in-citation content-type="access-date">cited 2014 Dec 22</date-in-citation>. 
-                    <comment>Available from</comment>: 
-                    <ext-link ext-link-type="uri" xlink:href="http://www.bcis.org.uk/pages/page_box_contents.asp?pageid=697&amp;navcatid=11">http://www.bcis.org.uk/pages/page_box_contents.asp?pageid=697&amp;navcatid=11</ext-link>
-                </mixed-citation>
->>>>>>> 223b6ca94e53cedf0e916f4d8afa5542641fbc19
+                    <comment>Available from:<uri>http://www.bcis.org.uk/pages/page_box_contents.asp?pageid=697&amp;navcatid=11<uri></comment>. 
+                    <source>Audit results</source>  
+                </mixed-citation> 
             </ref>
             <ref id="b15">
                 <label>15.	</label>
