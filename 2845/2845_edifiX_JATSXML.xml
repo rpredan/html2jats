@@ -1,97 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
-<article
-    xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" dtd-version="1.0" article-type="reference-list">
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD with MathML3 v1.1 20151215//EN" "JATS-journalpublishing1-mathml3.dtd">
+<article>
     <front>
+        <journal-meta>
+            <journal-id></journal-id>
+            <issn></issn>
+        </journal-meta>
         <article-meta>
-            <custom-meta-group>
-                <custom-meta>
-                    <meta-name>TotalReferences</meta-name>
-                    <meta-value>72</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesParsed</meta-name>
-                    <meta-value>41</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesBillable</meta-name>
-                    <meta-value>41</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>LinkServices</meta-name>
-                    <meta-value>pubmed-crossref</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesLinked</meta-name>
-                    <meta-value>34</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesLinkedDOI</meta-name>
-                    <meta-value>34</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesLinkedPMID</meta-name>
-                    <meta-value>33</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>JournalReferences</meta-name>
-                    <meta-value>34</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>BookReferences</meta-name>
-                    <meta-value>7</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>BookChapterReferences</meta-name>
-                    <meta-value>12</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ConferenceReferences</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ElectronicReferences</meta-name>
-                    <meta-value>11</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>DissertationReferences</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>LegalReferences</meta-name>
-                    <meta-value>1</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>StandardReferences</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>OtherReferences</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>UnknownReferences</meta-name>
-                    <meta-value>7</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesSemiParsed</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesBookUnparsed</meta-name>
-                    <meta-value>12</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>EditorialStyle</meta-name>
-                    <meta-value>ICMJE-WHO</meta-value>
-                </custom-meta>
-            </custom-meta-group>
+            <title-group>
+                <article-title></article-title>
+            </title-group>
+            <pub-date>
+                <year></year>
+            </pub-date>
         </article-meta>
     </front>
     <back>
         <ref-list>
             <ref id="b1">
-                <label>1.	</label>
+                <label>1. </label>
                 <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
@@ -113,7 +40,7 @@
                 </mixed-citation>
             </ref>
             <ref id="b2">
-                <label>2.	</label>
+                <label>2. </label>
                 <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
@@ -139,7 +66,7 @@
                 </mixed-citation>
             </ref>
             <ref id="b3">
-                <label>3.	</label>
+                <label>3. </label>
                 <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
@@ -165,7 +92,7 @@
                 </mixed-citation>
             </ref>
             <ref id="b4">
-                <label>4.	</label>
+                <label>4. </label>
                 <mixed-citation publication-type="book-chapter">
                     <person-group person-group-type="author">
                         <collab>FDI World Dental Federation</collab>
@@ -175,32 +102,32 @@
                     <person-group person-group-type="author">
                         <name>
                             <surname>FDI World Dental Federation</surname>                                                  
-                        <name>                            
+                        </name>                            
                     </person-group>. 
-                    <source>The Challenge of Oral Disease – A call for global action. The Oral Health Atlas<source>. 
+                    <source>The Challenge of Oral Disease – A call for global action. The Oral Health Atlas</source>. 
                     <edition>2nd ed</edition>. 
                     <publisher-loc>Geneva</publisher-loc>:
                     <publisher-name>FDI World Dental Federation</publisher-name>;
                     <year>2015</year>. pp. 
-                    <fpage>6<fpage>–
-                    <fpage>69<fpage>    
+                    <fpage>6</fpage>–
+                    <lpage>69</lpage>    
                 </mixed-citation>
             </ref>
             <ref id="b5">
-                <label>5.	</label>
+                <label>5. </label>
                 <mixed-citation publication-type="web-page">
                     <person-group person-group-type="author">
                      <collab>International Agency for REsearch on Cancer</collab>.
                     </person-group>. 
                     <source>WHO: International Agency for Research on Cancer. A digital manual for the early diagnosis of oral neoplasia. Squamous cell carcinoma</source>.
                     <year>2019</year>.
-                    <comment>[Internet]<comment>.
+                    <comment>[Internet]</comment>.
                     <date-in-citation content-type="access-date">cited 2019 Mar 22</date-in-citation>]. Available from: 
                     <ext-link ext-link-type="uri" xlink:href="https://screening.iarc.fr/atlasoral_list.php?cat=B2&amp;lang=1">https://screening.iarc.fr/atlasoral_list.php?cat=B2&amp;lang=1</ext-link>
                 </mixed-citation>
             </ref>
             <ref id="b6">
-                <label>6.	</label>
+                <label>6. </label>
                 <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
@@ -229,7 +156,7 @@
                 </mixed-citation>
             </ref>
             <ref id="b7">
-                <label>7.	</label>
+                <label>7. </label>
                 <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
@@ -255,7 +182,7 @@
                 </mixed-citation>
             </ref>
             <ref id="b8">
-                <label>8.	</label>
+                <label>8. </label>
                 <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
@@ -297,7 +224,7 @@
                 </mixed-citation>
             </ref>
             <ref id="b9">
-                <label>9.	</label>
+                <label>9. </label>
                 <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
@@ -331,7 +258,7 @@
                 </mixed-citation>
             </ref>
             <ref id="b10">
-                <label>10.	</label>
+                <label>10. </label>
                 <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
@@ -365,7 +292,7 @@
                 </mixed-citation>
             </ref>
             <ref id="b11">
-                <label>11.	</label>
+                <label>11. </label>
                 <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
@@ -392,8 +319,8 @@
                             <surname>Jereb</surname>
                             <given-names>S</given-names>
                         </name>, 
-                        <etal>et al.</etal>
-                    </person-group>
+                        <etal>et al</etal>
+                    </person-group>.
                     <article-title>Incidence trends in head and neck squamous cell carcinoma in Slovenia, 1983-2009: role of human papillomavirus infection</article-title>. 
                     <source>Eur Arch Otorhinolaryngol</source>. 
                     <year>2015</year>
@@ -408,7 +335,7 @@
                 </mixed-citation>
             </ref>
             <ref id="b12">
-                <label>12.	</label>
+                <label>12. </label>
                 <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
@@ -446,7 +373,7 @@
                 </mixed-citation>
             </ref>
             <ref id="b13">
-                <label>13.	</label>
+                <label>13. </label>
                 <mixed-citation publication-type="web-page">
                     <person-group person-group-type="author">
                         <name>
@@ -463,7 +390,7 @@
                 </mixed-citation>
             </ref>
             <ref id="b14">
-                <label>14.	</label>
+                <label>14. </label>
                 <mixed-citation publication-type="book-chapter">
                     <person-group person-group-type="author">
                         <name>
@@ -490,18 +417,18 @@
                             <surname>Primic-Žakelj</surname>
                             <given-names>M</given-names>
                         </name>
-                        <role>editor</role>
+                        <role>ed</role>
                     </person-group>. 
                     <source>Preživetje bolnikov z rakom, zbolelih v letih 1991–2005 v Sloveniji</source>. 
                     <publisher-loc>Ljubljana</publisher-loc>:
                     <publisher-name>Onkološki inštitut Ljubljana</publisher-name>;
                     <year>2009</year>. pp.
                     <fpage>36</fpage>-
-                    <lpage>43<lpage>.    
+                    <lpage>43</lpage>.    
                 </mixed-citation>
             </ref>
             <ref id="b15">
-                <label>15.	</label>
+                <label>15. </label>
                 <mixed-citation publication-type="book-chapter">
                     <person-group person-group-type="author">
                         <name>
@@ -528,18 +455,18 @@
                             <surname>Primic-Žakelj</surname>
                             <given-names>M</given-names>
                         </name>
-                        <role>editor</role>
+                        <role>ed</role>
                     </person-group>. 
                     <source>Preživetje bolnikov z rakom, zbolelih v letih 1991–2005 v Sloveniji</source>. 
                     <publisher-loc>Ljubljana</publisher-loc>:
                     <publisher-name>Onkološki inštitut Ljubljana</publisher-name>;
                     <year>2009</year>. pp.
                     <fpage>28</fpage>-
-                    <lpage>35<lpage>.       
+                    <lpage>35</lpage>.       
                 </mixed-citation>
             </ref>
             <ref id="b16">
-                <label>16.	</label>
+                <label>16. </label>
                 <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
@@ -576,7 +503,7 @@
                 </mixed-citation>
             </ref>
             <ref id="b17">
-                <label>17.	</label>
+                <label>17. </label>
                 <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
@@ -623,23 +550,18 @@
                     <person-group person-group-type="author">
                         <collab>slora.si</collab>
                     </person-group>. 
-                    <article-title>Slovenija : Slovenija in rak; Osnovni epidemiološki podatki o raku. Glava in vrat (C00–C14, C30–C32)<article-title>.
+                    <article-title>Slovenija : Slovenija in rak; Osnovni epidemiološki podatki o raku. Glava in vrat (C00–C14, C30–C32)</article-title>.
                     <year>2018</year>.
                     <comment>[Internet]</comment>.
-                    <date-in-citation content-type="access-date">cited 2018 Mar 16</date-in-citation>.
+                    <date-in-citation content-type="access-date" iso-8601-date="2018-03-16">cited 2018 Mar 16</date-in-citation>.
                     <comment>Available from</comment>: 
                     <ext-link ext-link-type="uri" xlink:href="http://www.slora.si/c/document_library/get_file?uuid=e320aca2-d106-4478-8f0e-125255c5792e&amp;groupId=11561">http://www.slora.si/c/document_library/get_file?uuid=e320aca2-d106-4478-8f0e-125255c5792e&amp;groupId=11561</ext-link>
                 </mixed-citation>
             </ref>
             <ref id="b19">
-                <label>19.	</label>
-                <mixed-citation publication-type="book-chapter">
-                    <person-group person-group-type="author">
-                        <collab>Union for International Cancer Control</collab>
-                    </person-group>. 
-                    <chapter-title>TNM Classification of Malignant Tumors</chapter-title>.
-                    <comment>In</comment>: 
-                    <person-group person-group-type="author">
+                <label>19. </label>
+                <mixed-citation publication-type="book">
+                    <person-group person-group-type="editor">
                         <name>
                             <surname>Brierley</surname>
                             <given-names>J</given-names>
@@ -652,15 +574,17 @@
                             <surname>Witterkind</surname>
                             <given-names>Ch</given-names>
                         </name>
-                    </person-group>. 
+                        <role>eds</role>
+                    </person-group>.
+                    <source>TNM Classification of Malignant Tumors</source>.
                     <edition>Eighth edition</edition>. 
                     <publisher-loc>Oxford, UK, Hoboken, NY</publisher-loc>:
-                    <publisher-name>Johrn Wiley & Sons</publisher-name>;
+                    <publisher-name>John Wiley &amp; Sons</publisher-name>;
                     <year>2017</year>.                   
                 </mixed-citation>
             </ref>
             <ref id="b20">
-                <label>20.	</label>
+                <label>20. </label>
                 <mixed-citation publication-type="book">
                     <person-group person-group-type="author">
                         <name>
@@ -687,7 +611,7 @@
                 </mixed-citation>
             </ref>
             <ref id="b22">
-                <label>22.	</label>
+                <label>22. </label>
                 <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
@@ -767,7 +691,7 @@
                 </mixed-citation>
             </ref>
             <ref id="b25">
-                <label>25.	</label>
+                <label>25. </label>
                 <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
@@ -794,8 +718,8 @@
                             <surname>Wu</surname>
                             <given-names>L</given-names>
                         </name>, 
-                        <etal>et al.</etal>
-                    </person-group>
+                        <etal>et al</etal>
+                    </person-group>.
                     <article-title>Evidence for a causal association between human papillomavirus and a subset of head and neck cancers</article-title>. 
                     <source>J Natl Cancer Inst</source>. 
                     <year>2000</year>
@@ -810,7 +734,7 @@
                 </mixed-citation>
             </ref>
             <ref id="b26">
-                <label>26.	</label>
+                <label>26. </label>
                 <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
@@ -837,8 +761,8 @@
                             <surname>Kim</surname>
                             <given-names>E</given-names>
                         </name>, 
-                        <etal>et al.</etal>
-                    </person-group>
+                        <etal>et al</etal>
+                    </person-group>.
                     <article-title>Human papillomavirus and rising oropharyngeal cancer incidence in the United States</article-title>. 
                     <source>J Clin Oncol</source>. 
                     <year>2011</year>
@@ -853,7 +777,7 @@
                 </mixed-citation>
             </ref>
             <ref id="b27">
-                <label>27.	</label>
+                <label>27. </label>
                 <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
@@ -880,8 +804,8 @@
                             <surname>Johnson</surname>
                             <given-names>NW</given-names>
                         </name>, 
-                        <etal>et al.</etal>
-                    </person-group>
+                        <etal>et al</etal>
+                    </person-group>.
                     <article-title>Oral and pharyngeal cancer in Europe</article-title>. 
                     <source>Transl Res Oral Oncol</source>. 
                     <year>2017</year>;
@@ -898,8 +822,8 @@
                         <collab>World Health Organization</collab>
                     </person-group>. 
                     <article-title>Health statistics and information systems</article-title>.
-                    <commet>In</commet>:
-                    <source>Metrics: Population Attributable Fraction (PAF)<source>. 
+                    <comment>In</comment>:
+                    <source>Metrics: Population Attributable Fraction (PAF)</source>. 
                         <publisher-loc>Geneva</publisher-loc>:
                         <publisher-name>WHO</publisher-name>.
                         <comment>Available from</comment>:  
@@ -907,7 +831,7 @@
                 </mixed-citation>               
             </ref>
             <ref id="b29">
-                <label>29.	</label>
+                <label>29. </label>
                 <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
@@ -983,7 +907,7 @@
                 </mixed-citation>
             </ref>
             <ref id="b31">
-                <label>31.	</label>
+                <label>31. </label>
                 <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
@@ -1031,26 +955,26 @@
                 </mixed-citation>
             </ref>
             <ref id="b33">
-                <label>33.	</label>
+                <label>33. </label>
                 <mixed-citation publication-type="legal-doc">
-                    <article-title>Onkološki inštitut Ljubljana, Epidemiologija in register raka, Register raka Republike Slovenije. Viri podatkov in metode registracije<article-title>. 
+                    <article-title>Onkološki inštitut Ljubljana, Epidemiologija in register raka, Register raka Republike Slovenije. Viri podatkov in metode registracije</article-title>. 
                      <comment>In</comment>:
                      <person-group person-group-type="editor">
                          <name>
-                         <surname>Zadnik</surname>. 
-                         <given-names>V<given-names>.
-                             <name>
-                     </person-group>         
+                            <surname>Zadnik</surname>  
+                            <given-names>V</given-names>
+                         </name>
+                     </person-group>. 
                     <source>Rak v Sloveniji 2014</source>.  
                         <publisher-loc>Ljubljana</publisher-loc>:
                         <publisher-name>Onkološki inštitut Ljubljana, Epidemiologija in register raka, Register raka Republike Slovenije</publisher-name>;
                         <year>2017</year>. pp.
                         <fpage>9</fpage>-
-                        <lpage>11</fpage>.
+                        <lpage>11</lpage>.
                  </mixed-citation>
             </ref>
             <ref id="b34">
-                <label>34.	</label>
+                <label>34. </label>
                 <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
@@ -1077,8 +1001,8 @@
                             <surname>Oliveira Santos</surname>
                             <given-names>M</given-names>
                         </name>, 
-                        <etal>et al.</etal>
-                    </person-group>
+                        <etal>et al</etal>
+                    </person-group>.
                     <article-title>Do cancer registries play a role in determining the incidence of non-melanoma skin cancers?</article-title>
                     <source>Eur J Dermatol</source>. 
                     <year>2018</year>
@@ -1093,21 +1017,22 @@
                 </mixed-citation>
             </ref>
             <ref id="b35">
-                <label>35.	</label>
+                <label>35. </label>
                 <mixed-citation publication-type="web-page">
                     <person-group person-group-type="author">
                         <collab>slora.si</collab>
-                        <article-title>Slovenija : Slovenija in rak; Osnovni epidemiološki podatki o raku. Glava in vrat (C00–C14, C30–C32)<article-title>.
-                            <year>2018</year>.
-                            <comment>[Internet]</comment>.
-                            <date-in-citation content-type="access-date">cited 2018 Mar 16</date-in-citation>.
-                            <comment>Available from</comment>: 
-                            <ext-link ext-link-type="uri" xlink:href="http://www.slora.si/c/document_library/get_file?uuid=e320aca2-d106-4478-8f0e-125255c5792e&amp;groupId=11561">http://www.slora.si/c/document_library/get_file?uuid=e320aca2-d106-4478-8f0e-125255c5792e&amp;groupId=11561</ext-link>              
+                    </person-group>
+                    <article-title>Slovenija : Slovenija in rak; Osnovni epidemiološki podatki o raku. Glava in vrat (C00–C14, C30–C32)</article-title>.
+                    <year>2018</year>.
+                    <comment>[Internet]</comment>.
+                    <date-in-citation content-type="access-date">cited 2018 Mar 16</date-in-citation>.
+                    <comment>Available from</comment>: 
+                    <ext-link ext-link-type="uri" xlink:href="http://www.slora.si/c/document_library/get_file?uuid=e320aca2-d106-4478-8f0e-125255c5792e&amp;groupId=11561">http://www.slora.si/c/document_library/get_file?uuid=e320aca2-d106-4478-8f0e-125255c5792e&amp;groupId=11561</ext-link>              
                 </mixed-citation> 
  
             </ref>
             <ref id="b36">
-                <label>36.	</label>
+                <label>36. </label>
                 <mixed-citation publication-type="web-page">
                     <person-group person-group-type="author">
                         <collab>Nacionalni inštitut za varno zdravje</collab>.
@@ -1122,18 +1047,17 @@
                 </mixed-citation>
             </ref>
             <ref id="b37">
-                <label>37.	</label>
+                <label>37. </label>
                 <mixed-citation publication-type="web-page">
                     <person-group person-group-type="author">
-                        <person-group person-group-type="author">
                             <collab>Nacionalni inštitut za varno zdravje</collab>.
-                        </person-group>. 
-                        <article-title>Slovenija. Varno s soncem v osnovnih šolah</article-title>.
-                        <year>2019</year>.
-                        <comment>[Internet]</comment>.                    
-                        <year>2019</year>  
-                        <date-in-citation content-type="access-date">cited 2019 Mar 22</date-in-citation>]. 
-                        <comment>Available from</comment>: 
+                    </person-group>. 
+                    <article-title>Slovenija. Varno s soncem v osnovnih šolah</article-title>. 
+                    <year>2019</year>. 
+                    <comment>[Internet]</comment>. 
+                    <year>2019</year> 
+                    <date-in-citation content-type="access-date">cited 2019 Mar 22</date-in-citation>]. 
+                    <comment>Available from</comment>: 
                     <ext-link ext-link-type="uri" xlink:href="http://www.nijz.si/sl/program-varno-s-soncem-v-osnovnih-solah">http://www.nijz.si/sl/program-varno-s-soncem-v-osnovnih-solah</ext-link>
                 </mixed-citation>
             </ref>
@@ -1205,41 +1129,41 @@
                             <given-names>H</given-names>
                         </name>                         
                     </person-group>. 
-                    <article-title>Tobak<article-title>. 
+                    <article-title>Tobak</article-title>. 
                     <comment>In</comment>:
-                        <person-group person-group-type="editor">
-                            <name>
-                                <surname>Zakotnik</surname>
-                                <given-names>J</given-names>
-                            </name>, 
-                            <name>
-                                <surname>Tomšič</surname>
-                                <given-names>S</given-names>
-                            </name>, 
-                            <name>
-                                <surname>Kofol Bric</surname>
-                                <given-names>T</given-names>
-                            </name>, 
-                            <name>
-                                <surname>Korošec</surname>
-                                <given-names>I</given-names>
-                            </name>, 
-                            <name>
-                                <surname>Zaletel-Kragelj</surname>
-                                <given-names>L</given-names>
-                            </name>, 
-                            <role>editor</role>
-                        </person-group>. 
-                        <source>Zdravje in vedenjski slog prebivalcev Slovenije – trendi v raziskavah CINDI 2001–2004–2008<source>. 
-                        <publisher-loc>Ljubljana</publisher-loc>:  
-                        <publisher-name>Inštitut za varovanje zdravja Republike Slovenije</publisher-name>; 
+                    <person-group person-group-type="editor">
+                        <name>
+                            <surname>Zakotnik</surname>
+                            <given-names>J</given-names>
+                        </name>, 
+                        <name>
+                            <surname>Tomšič</surname>
+                            <given-names>S</given-names>
+                        </name>, 
+                        <name>
+                            <surname>Kofol Bric</surname>
+                            <given-names>T</given-names>
+                        </name>, 
+                        <name>
+                            <surname>Korošec</surname>
+                            <given-names>I</given-names>
+                        </name>, 
+                        <name>
+                            <surname>Zaletel-Kragelj</surname>
+                            <given-names>L</given-names>
+                        </name>, 
+                        <role>eds</role>
+                    </person-group>. 
+                    <source>Zdravje in vedenjski slog prebivalcev Slovenije – trendi v raziskavah CINDI 2001–2004–2008</source>. 
+                    <publisher-loc>Ljubljana</publisher-loc>:  
+                    <publisher-name>Inštitut za varovanje zdravja Republike Slovenije</publisher-name>; 
                     <year>2012</year>. pp.
                     <fpage>71</fpage>-  
                     <lpage>88</lpage>.                     
                 </mixed-citation>
             </ref>
             <ref id="b42">
-                <label>42.	</label>
+                <label>42. </label>
                 <mixed-citation publication-type="book-chapter">
                     <person-group person-group-type="author">
                         <name>
@@ -1255,41 +1179,41 @@
                             <given-names>S</given-names>
                         </name>
                     </person-group>. 
-                    <article-title>Alkohol<article-title>. 
+                    <article-title>Alkohol</article-title>. 
                     <comment>In</comment>:
-                        <person-group person-group-type="editor">
-                            <name>
-                                <surname>Zakotnik</surname>
-                                <given-names>J</given-names>
-                            </name>, 
-                            <name>
-                                <surname>Tomšič</surname>
-                                <given-names>S</given-names>
-                            </name>, 
-                            <name>
-                                <surname>Kofol Bric</surname>
-                                <given-names>T</given-names>
-                            </name>, 
-                            <name>
-                                <surname>Korošec</surname>
-                                <given-names>I</given-names>
-                            </name>, 
-                            <name>
-                                <surname>Zaletel-Kragelj</surname>
-                                <given-names>L</given-names>
-                            </name>, 
-                            <role>editor</role>
-                        </person-group>. 
-                        <source>Zdravje in vedenjski slog prebivalcev Slovenije – trendi v raziskavah CINDI 2001–2004–2008<source>. 
-                            <publisher-loc>Ljubljana</publisher-loc>:  
-                            <publisher-name>Inštitut za varovanje zdravja Republike Slovenije</publisher-name>; 
-                            <year>2012</year>. pp.
-                            <fpage>89</fpage>-  
-                            <lpage>107</lpage>.  
+                    <person-group person-group-type="editor">
+                        <name>
+                            <surname>Zakotnik</surname>
+                            <given-names>J</given-names>
+                        </name>, 
+                        <name>
+                            <surname>Tomšič</surname>
+                            <given-names>S</given-names>
+                        </name>, 
+                        <name>
+                            <surname>Kofol Bric</surname>
+                            <given-names>T</given-names>
+                        </name>, 
+                        <name>
+                            <surname>Korošec</surname>
+                            <given-names>I</given-names>
+                        </name>, 
+                        <name>
+                            <surname>Zaletel-Kragelj</surname>
+                            <given-names>L</given-names>
+                        </name>, 
+                        <role>eds</role>
+                    </person-group>. 
+                    <source>Zdravje in vedenjski slog prebivalcev Slovenije – trendi v raziskavah CINDI 2001–2004–2008</source>. 
+                    <publisher-loc>Ljubljana</publisher-loc>:  
+                    <publisher-name>Inštitut za varovanje zdravja Republike Slovenije</publisher-name>; 
+                    <year>2012</year>. pp.
+                    <fpage>89</fpage>-  
+                    <lpage>107</lpage>.  
                 </mixed-citation>
             </ref>
             <ref id="b43">
-                <label>43.	</label>
+                <label>43. </label>
                 <mixed-citation publication-type="book-chapter">
                     <person-group person-group-type="author">
                         <name>
@@ -1324,14 +1248,14 @@
                             <surname>Vrdelja</surname>
                             <given-names>M</given-names>
                         </name> 
-                        <role>editor</role>.
+                        <role>eds</role>.
                     </person-group>. 
-                    <source>Kako skrbimo za zdravje? Z zdravjem povezan vedenjski slog prebivalcev Slovenije 2016<source>. 
-                        <publisher-loc>Ljubljana</publisher-loc>:  
-                        <publisher-name>Inštitut za varovanje zdravja Republike Slovenije</publisher-name>; 
-                        <year>2018</year>. pp.
-                        <fpage>17</fpage>-  
-                        <lpage>20</lpage>.                       
+                    <source>Kako skrbimo za zdravje? Z zdravjem povezan vedenjski slog prebivalcev Slovenije 2016</source>. 
+                    <publisher-loc>Ljubljana</publisher-loc>:  
+                    <publisher-name>Inštitut za varovanje zdravja Republike Slovenije</publisher-name>; 
+                    <year>2018</year>. pp.
+                    <fpage>17</fpage>-  
+                    <lpage>20</lpage>.                       
                 </mixed-citation>
             </ref>
             <ref id="b44">
@@ -1347,7 +1271,7 @@
                 </mixed-citation>
             </ref>
             <ref id="b45">
-                <label>45.	</label>
+                <label>45. </label>
                 <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
@@ -1389,7 +1313,7 @@
                 </mixed-citation>
             </ref>
             <ref id="b46">
-                <label>46.	</label>
+                <label>46. </label>
                 <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
@@ -1461,7 +1385,7 @@
                 </mixed-citation>
             </ref>
             <ref id="b48">
-                <label>48.	</label>
+                <label>48. </label>
                 <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
@@ -1519,7 +1443,7 @@
                 </mixed-citation>
             </ref>
             <ref id="b50">
-                <label>50.	</label>
+                <label>50. </label>
                 <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
@@ -1557,12 +1481,12 @@
                 </mixed-citation>
             </ref>
             <ref id="b51">
-                <label>51.	</label>
+                <label>51. </label>
                 <mixed-citation publication-type="web-page">
                     <person-group person-group-type="author">
-                        <collab>Onkološki inštitut=Inštitut of Oncology Ljubljana</collab>
+                        <collab>Onkološki inštitut=Institut of Oncology Ljubljana</collab>
                     </person-group>. 
-                    <article-title>Register raka Republike Slovenije in drugi registri<article-title>.                      
+                    <article-title>Register raka Republike Slovenije in drugi registri</article-title>.                      
                     <year>2018</year>.
                     <comment>[Internet]</comment>.
                     <date-in-citation content-type="access-date">cited 2018 Jun 3</date-in-citation>. 
@@ -1571,7 +1495,7 @@
                 </mixed-citation>
             </ref>
             <ref id="b52">
-                <label>52.	</label>
+                <label>52. </label>
                 <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
@@ -1609,7 +1533,7 @@
                 </mixed-citation>
             </ref>
             <ref id="b54">
-                <label>54.	</label>
+                <label>54. </label>
                 <mixed-citation publication-type="book-chapter">
                     <person-group person-group-type="editor">
                         <name>
@@ -1636,8 +1560,8 @@
                             <surname>Washington</surname>
                             <given-names>MK</given-names>
                         </name>, 
-                        <etal>et al.</etal>
-                        <role>editor<role>
+                        <etal>et al</etal>.
+                        <role>eds</role>
                     </person-group>. 
                     <source>AJCC Cancer Staging Manual</source>.
                     <edition>8th ed</edition>.
@@ -1648,7 +1572,7 @@
             </ref>
             <ref id="b55">
                 <label>55. </label>
-                <mixed-citation publication-type="book"name>
+                <mixed-citation publication-type="book">
                     <person-group person-group-type="author">
                         <collab>American Head and Neck Society</collab>
                     </person-group>. 
@@ -1683,8 +1607,8 @@
                 </mixed-citation>
             </ref>
             <ref id="b58">
-                <label>58.	</label>
-                <mixed-citation publication-type="book-chapter"name>
+                <label>58. </label>
+                <mixed-citation publication-type="book-chapter">
                     <person-group person-group-type="author">
                         <name>
                             <surname>Gašperšič</surname>
@@ -1706,10 +1630,9 @@
                             <surname>Gašperšič</surname>
                             <given-names>C</given-names>
                         </name>
-                       
-                        <role>editor<role>
+                        <role>eds</role>
                     </person-group>. 
-                    <source>Razvoj obraza, ustne votline in zobnega organa<source>. 
+                    <source>Razvoj obraza, ustne votline in zobnega organa</source>. 
                         <edition>Second edition</edition>. 
                         <publisher-loc>Ljubljana</publisher-loc>: 
                         <publisher-name>Medicinska fakulteta</publisher-name>;                         
@@ -1719,7 +1642,7 @@
                 </mixed-citation>
             </ref>
             <ref id="b59">
-                <label>59.	</label>
+                <label>59. </label>
                 <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
@@ -1757,7 +1680,7 @@
                 </mixed-citation>
             </ref>
             <ref id="b60">
-                <label>60.	</label>
+                <label>60. </label>
                 <mixed-citation publication-type="web-page">
                     <source>What Are the Risk Factors and Potential Causes for Salivary Gland Cancer?</source>
                     <year>2018</year>.
@@ -1794,8 +1717,8 @@
                             <surname>Zhang</surname>
                             <given-names>G</given-names>
                         </name>, 
-                        <etal>et al.</etal>
-                    </person-group>
+                        <etal>et al</etal>
+                    </person-group>.
                     <article-title>Etiological factors of nasopharyngeal carcinoma</article-title>. 
                     <source>Oral Oncol</source>. 
                     <year>2014</year>
@@ -1837,7 +1760,7 @@
                             <surname>Lee</surname>
                             <given-names>AW</given-names>
                         </name>, 
-                        <role>editors</role>
+                        <role>eds</role>
                     </person-group>. 
                     <source>Nasopharyngeal Cancer: Multidisciplinary Management</source>. 
                     <publisher-name>Springer Science &amp; Business Media</publisher-name>; 
@@ -1848,7 +1771,7 @@
                 </mixed-citation>
             </ref>
             <ref id="b63">
-                <label>63.	</label>
+                <label>63. </label>
                 <mixed-citation publication-type="web-page">
                     <source>Zora. Državni program zgodnjega odkrivanja predrakavih sprememb materničnega vratu</source>.  
                     <year>2018</year>.
@@ -1858,7 +1781,7 @@
                 </mixed-citation>
             </ref>
             <ref id="b64">
-                <label>64.	</label>
+                <label>64. </label>
                 <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
@@ -1885,8 +1808,8 @@
                             <surname>Wheeler</surname>
                             <given-names>CM</given-names>
                         </name>, 
-                        <etal>et al.</etal>
-                    </person-group>
+                        <etal>et al</etal>
+                    </person-group>.
                     <article-title>Impact of human papillomavirus (HPV)-6/11/16/18 vaccine on all HPV-associated genital diseases in young women</article-title>. 
                     <source>J Natl Cancer Inst</source>. 
                     <year>2010</year>
@@ -1901,7 +1824,7 @@
                 </mixed-citation>
             </ref>
             <ref id="b65">
-                <label>65.	</label>
+                <label>65. </label>
                 <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
@@ -1929,8 +1852,8 @@
                             <surname>Aranda</surname>
                             <given-names>C</given-names>
                         </name>, 
-                        <etal>et al.</etal>
-                    </person-group>
+                        <etal>et al</etal>
+                    </person-group>.
                     <article-title>Efficacy of quadrivalent HPV vaccine against HPV Infection and disease in males</article-title>. 
                     <source>N Engl J Med</source>. 
                     <year>2011</year>
@@ -1975,7 +1898,7 @@
                 </mixed-citation>
             </ref>
             <ref id="b67">
-                <label>67.	</label>
+                <label>67. </label>
                 <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
@@ -2002,8 +1925,8 @@
                             <surname>Lacey</surname>
                             <given-names>C</given-names>
                         </name>, 
-                        <etal>et al.</etal>
-                    </person-group>
+                        <etal>et al</etal>
+                    </person-group>.
                     <article-title>EUROGIN 2011 roadmap on prevention and treatment of HPV-related disease</article-title>. 
                     <source>Int J Cancer</source>. 
                     <year>2012</year>
@@ -2045,8 +1968,8 @@
                             <surname>Figueroa</surname>
                             <given-names>A</given-names>
                         </name>, 
-                        <etal>et al.</etal>
-                    </person-group>
+                        <etal>et al</etal>
+                    </person-group>.
                     <article-title>The role of human papilloma virus (HPV) infection in non-anogenital cancer and the promise of immunotherapy: a review</article-title>. 
                     <source>Int Rev Immunol</source>. 
                     <year>2014</year>
@@ -2061,7 +1984,7 @@
                 </mixed-citation>
             </ref>
             <ref id="b69">
-                <label>69.	</label>
+                <label>69. </label>
                 <mixed-citation publication-type="book-chapter">
                     <person-group person-group-type="author">
                         <name>
@@ -2080,7 +2003,7 @@
                             <surname>Terlević Dabić</surname>
                             <given-names>D</given-names>
                         </name>,   
-                        <role>editor<role>
+                        <role>eds</role>
                     </person-group>. 
                     <source>Zobozdravnik vidi bolje. Zato lahko reši življenje: zbornik predavanj; 2017 Mar 18; Ljubljana, Slovenija</source>. 
                     <publisher-loc>Ljubljana</publisher-loc>: 
@@ -2091,7 +2014,7 @@
                 </mixed-citation>
             </ref>
             <ref id="b70">
-                <label>70.	</label>
+                <label>70. </label>
                 <mixed-citation publication-type="book-chapter">
                     <person-group person-group-type="author">
                         <name>
@@ -2105,8 +2028,8 @@
                         <name>
                             <surname>Kocijančič</surname>
                             <given-names>A</given-names>                           
-                        <name>                     
-                        <role>editor<role>
+                        </name>                     
+                        <role>ed</role>
                     </person-group>. 
                     <source>Klinična preiskava</source>. 
                     <publisher-loc>Ljubljana</publisher-loc>: 
@@ -2116,18 +2039,18 @@
                 </mixed-citation>
             </ref>
             <ref id="b71">
-                <label>71.	</label>
+                <label>71. </label>
                 <mixed-citation publication-type="web-page">
                     <source>Smernice za zdravljenje tumorjev glave in vratu</source>.
                     <year>2018</year>.
-                    <comment>[Internet]<comment>. 
+                    <comment>[Internet]</comment>. 
                     <date-in-citation content-type="access-date">cited 2018 Jun 3</date-in-citation>]. 
-                    <comment>Available from<comment>:  
+                    <comment>Available from</comment>:  
                     <ext-link ext-link-type="uri" xlink:href="https://www.onko-i.si/fileadmin/_migrated/content_uploads/Smernice_za_obravnavo_rakov_glave_in_vratu_01.pdf">https://www.onko-i.si/fileadmin/_migrated/content_uploads/Smernice_za_obravnavo_rakov_glave_in_vratu_01.pdf</ext-link>
                 </mixed-citation>
             </ref>
             <ref id="b72">
-                <label>72.	</label>
+                <label>72. </label>
                 <mixed-citation publication-type="web-page">
                     <person-group person-group-type="author">
                         <collab>iarc.fr</collab>
