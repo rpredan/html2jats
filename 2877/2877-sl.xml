@@ -1,0 +1,1237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD with MathML3 v1.1 20151215//EN" "JATS-journalpublishing1-mathml3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink"
+         dtd-version="1.1"
+         xml:lang="sl"
+         article-type="other">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher-id">Zdrav Vestn</journal-id>
+         <journal-id journal-id-type="nlm-ta">Zdrav Vestn</journal-id>
+         <journal-id journal-id-type="doi">Zdrav Vestn</journal-id>
+         <journal-title-group>
+            <journal-title>Zdravniški vestnik</journal-title>
+            <trans-title-group xml:lang="en">
+               <trans-title>Slovenian Medical Journal</trans-title>
+            </trans-title-group>
+            <abbrev-journal-title>Zdrav Vestn</abbrev-journal-title>
+         </journal-title-group>
+         <issn publication-format="ppub" pub-type="ppub">1318-0347</issn>
+         <issn publication-format="epub" pub-type="epub">1581-0224</issn>
+         <issn-l>0350-0063</issn-l>
+         <publisher>
+            <publisher-name xml:lang="sl">Slovensko zdravniško društvo</publisher-name>
+            <publisher-name xml:lang="en">Slovenian Medical Association</publisher-name>
+            <publisher-loc xml:lang="sl">Ljubljana, Slovenia</publisher-loc>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.6016/ZdravVestn.2877</article-id>
+         <article-id pub-id-type="publisher-id">2877</article-id>
+         <article-categories>
+            <subj-group subj-group-type="discipline" xml:lang="en">
+               <subject>Medicine and health sciences</subject>
+               <subj-group>
+                  <subject>Microbiology and immunology</subject>
+               </subj-group>
+            </subj-group>
+            <subj-group subj-group-type="discipline" xml:lang="sl">
+               <subject>Medicina/Zdravstvo</subject>
+               <subj-group>
+                  <subject>Mikrobiologija in imunologija</subject>
+               </subj-group>
+            </subj-group>
+            <subj-group subj-group-type="article-type" xml:lang="en">
+               <subject>Original scientific article</subject>
+            </subj-group>
+            <subj-group subj-group-type="article-type" xml:lang="sl">
+               <subject>Izvirni znanstveni članek</subject>
+            </subj-group>
+            <subj-group subj-group-type="heading" xml:lang="sl">
+               <subject>Mikrobiologija in imunologija</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title xml:lang="sl">Izbruh gripe v Splošni bolnišnici Jesenice v letu 2017 pri bolnikih in zdravstvenih delavcih</article-title>
+            <trans-title-group>
+               <trans-title xml:lang="en">Influenza outbreak in patients and healthcare professionals of the Jesenice General Hospital in 2017</trans-title>
+            </trans-title-group>
+            <alt-title alt-title-type="running-head" xml:lang="sl">Izbruh gripe v Splošni bolnišnici Jesenice</alt-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Grmek Košnik</surname>
+                  <given-names>Irena</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1">1</xref>
+               <xref ref-type="corresp" rid="corr"/>
+            </contrib>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Eberl Gregorič</surname>
+                  <given-names>Edita</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1">1</xref>
+            </contrib>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Ribič</surname>
+                  <given-names>Helena</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1">1</xref>
+            </contrib>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Ribnikar</surname>
+                  <given-names>Monika</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff2">2</xref>
+            </contrib>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Orožen</surname>
+                  <given-names>Kristina</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff2">2</xref>
+            </contrib>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Lavtižar</surname>
+                  <given-names>Jana</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff3">3</xref>
+            </contrib>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Dolenc</surname>
+                  <given-names>Matej</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff4">4</xref>
+            </contrib>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Poklukar</surname>
+                  <given-names>Janez</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff4">4</xref>
+            </contrib>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Sočan</surname>
+                  <given-names>Maja</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff2">2</xref>
+            </contrib>
+         </contrib-group>
+         <aff-alternatives id="aff1">
+            <aff xml:lang="sl">
+               <label>1</label>
+               <institution>Nacionalni laboratorij za zdravje, okolje in hrano, Maribor, Slovenija</institution>
+            </aff>
+            <aff xml:lang="en">
+               <label>1</label>
+               <institution>National Laboratory of Health, Environment and Food, Maribor, Slovenia</institution>
+            </aff>
+         </aff-alternatives>
+         <aff-alternatives id="aff2">
+            <aff xml:lang="sl">
+               <label>2</label>
+               <institution>Nacionalni inštitut za javno zdravje, Slovenija</institution>
+            </aff>
+            <aff xml:lang="sl">
+               <label>2</label>
+               <institution>National Institute of Public Health, Slovenia</institution>
+            </aff>
+         </aff-alternatives>
+         <aff-alternatives id="aff3">
+            <aff xml:lang="sl">
+               <label>3</label>
+               <institution>Zdravstveni dom Kranj, Kranj, Slovenija</institution>
+            </aff>
+            <aff xml:lang="sl">
+               <label>3</label>
+               <institution>Community health centre Kranj, Kranj, Slovenia</institution>
+            </aff>
+         </aff-alternatives>
+         <aff-alternatives id="aff4">
+            <aff xml:lang="sl">
+               <label>4</label>
+               <institution>Splošna bolnica Jesenice, Jesenice, Slovenija</institution>
+            </aff>
+            <aff xml:lang="sl">
+               <label>4</label>
+               <institution>Jesenice general hospital, Jesenice, Slovenia</institution>
+            </aff>
+         </aff-alternatives>
+         <aff id="aff5" xml:lang="sl">
+            <label>2</label>
+            <institution>National Institute of Public Health, Slovenia</institution>
+         </aff>
+         <aff id="aff6" xml:lang="sl">
+            <label>3</label>
+            <institution>Community health centre Kranj, Kranj, Slovenia</institution>
+         </aff>
+         <aff id="aff7" xml:lang="sl">
+            <label>4</label>
+            <institution>Jesenice general hospital, Jesenice, Slovenia</institution>
+         </aff>
+         <author-notes>
+            <fn fn-type="conflict" xml:lang="en">
+               <p>The authors have declared that no competing interests exist.</p>
+            </fn>
+            <fn fn-type="conflict" xml:lang="sl">
+               <p>Avtorji so izjavili, da ne obstajajo nobeni konkurenčni interesi.</p>
+            </fn>
+            <corresp id="corr">Irena Grmek Košnik, e-mail: <email xlink:type="simple"/>
+            </corresp>
+         </author-notes>
+         <pub-date pub-type="ppub">
+            <month>12</month>
+            <year>2019</year>
+         </pub-date>
+         <pub-date pub-type="epub">
+            <month>12</month>
+            <year>2019</year>
+         </pub-date>
+         <volume>88</volume>
+         <issue>11–12</issue>
+         <fpage>517</fpage>
+         <lpage>28</lpage>
+         <history>
+            <date date-type="received">
+               <day>28</day>
+               <month>9</month>
+               <year>2018</year>
+            </date>
+            <date date-type="accepted">
+               <day>28</day>
+               <month>8</month>
+               <year>2019</year>
+            </date>
+         </history>
+         <permissions>
+            <copyright-statement xml:lang="en">Copyright © 2019, Slovenian Medical Association (SZD)</copyright-statement>
+            <copyright-statement xml:lang="sl">© 2019, Slovensko zdravniško društvo (SZD)</copyright-statement>
+            <copyright-year>2019</copyright-year>
+            <copyright-holder xml:lang="en">Slovenian Medical Association (SZD)</copyright-holder>
+            <copyright-holder xml:lang="sl">Slovensko zdravniško društvo (SZD)</copyright-holder>
+            <license xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                     xlink:type="simple"
+                     xml:lang="en">
+               <license-p>This is an open access article distributed under the terms of the
+          <ext-link ext-link-type="uri"
+                            xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                            xlink:type="simple">Creative Commons Attribution-NonCommercial
+            License</ext-link>, which permits unrestricted use, distribution, and
+          reproduction in any medium, provided the original author and source are
+          credited and only for non-commercial purposes. </license-p>
+            </license>
+            <license xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                     xlink:type="simple"
+                     xml:lang="sl">
+               <license-p>To je članek z odprtim dostopom, ki ga lahko uporabite pod pogoji iz
+          <ext-link ext-link-type="uri"
+                            xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                            xlink:type="simple">Creative Commons Priznanje avtorstva-Nekomercialno
+            licence</ext-link>. ki dovoljuje distribucijo, predelavo ali
+          prilagoditev, ter gradijo na njem, v nekomercialne namene, z navedbo avtorja
+          in izvirnega dela.</license-p>
+            </license>
+         </permissions>
+         <abstract xml:lang="sl">
+            <title>Izvleček</title>
+            <p>Izhodišče: Gripa je sezonska virusna bolezen dihal, ki se pojavlja v zimskih mesecih. Povzročajo jo virusi influence tipa A in B. Izbruhi gripe v bolnišnicah so posebno neugodni, saj zboli ranljiva populacija. Pojavijo se številni zapleti, podaljša se bolnišnično zdravljenje, poveča se umrljivost. Hkrati lahko zbolijo tudi zdravstveni delavci (ZD). Zaradi njihovega absentizma se pojavijo težave pri organizaciji dela.</p>
+            <p>Metode: Izvedli smo retrospektivno kohortno preiskavo izbruha gripe v Splošni bolnišnici Jesenice (SBJ), ki smo ga zaznali v januarju 2017. Kot primer izbruha je bil opredeljen vsak bolnik ali zaposleni (ZD) v SBJ, ki je od 01. 01. 2017 do 16. 02. 2017 imel simptome gripi podobne bolezni (temperaturo nad 37,7 °C s kašljanjem ali bolečinami v žrelu), v brisu nosno-žrelnega prostora potrjen virus influence A ali B ali epidemiološko povezavo s potrjenimi primeri (hospitalizacija v isti sobi) ter odsotnosti ostalih vzrokov za okužbo. Primer smo opredelili kot bolnišničen pri osebah, ki so bile v bolnišnico sprejete zaradi drugih vzrokov in pri katerih so se simptomi in znaki v dihalih razvili kasneje kot 72 ur po sprejemu. Obolele zdravstvene delavce smo spraševali o demografskih podatkih, predhodnem cepljenju proti gripi in o subjektivni oceni poteka bolezni.</p>
+            <p>Rezultati: Med 250 izpostavljenimi je zbolelo 117 oseb (46,8 %). Primeri obolelih so se najprej začeli kopičiti na internem oddelku, sledil je kirurški in negovalni oddelek SBJ. Največ zbolelih je bilo starejših od 65 let. Pri 74 zbolelih bolnikih in zaposlenih, ki so ustrezali definiciji primera v izbruhu, smo odvzeli brise nosno-žrelnega prostora. V 68 (87 %) vzorcih smo dokazali influenco A (87 %) ali B (13 %). Ostalih 49 zbolelih, ki niso bili laboratorijsko potrjeni, so zadostili merilu epidemiološke povezanosti. Ob pregledu dokumentacije 13 umrlih bolnikov smo ugotovili, da je bila pri vseh ena od diagnoz gripa, pri 4 od njih tudi navedena kot neposredni vzrok smrti. 6 umrlih bolnikov je prebolevalo pljučnico, ki je sledila gripi. 45 zbolelih je prejelo oseltamivir, 61 hospitaliziranih oseb in ZD pa je jemalo oseltamivir kot kemoprofilakso. Izbruh gripe je neugodno vplival na načrtovano delo kirurškega oddelka – zaradi izbruha so v bolnišnici zmanjšali število elektivnih operacij, del kirurških postelj pa so namenili preobremenjenemu internističnemu oddelku.</p>
+            <p>Zaključek: V zgodnji fazi izbruha gripe v bolnišnici je potrebna visoka stopnja upoštevanja preventivnih ukrepov. K zbolevanju bolnikov namreč prispevajo predhodne bolezni in slabo zdravstveno stanje, težave pri zagotavljanju izolacije, neupoštevanje priporočil za osebno higieno, necepljenost proti gripi in slaba odzivnost imunskega sistema starejših bolnikov na cepljenje.</p>
+         </abstract>
+         <trans-abstract xml:lang="en">
+            <title>Abstract</title>
+            <p>Background: Influenza is a seasonal viral respiratory disease that occurs during winter months. It is caused by type A and B influenza viruses. Influenza outbreaks in hospitals are particularly unfavourable as the vulnerable population becomes ill. Many complications occur, hospital treatment is prolonged and mortality increases. Healthcare professionals (HW) may also become ill and because of their absenteeism problems arise in the organization of work.</p>
+            <p>Methods: We present a retrospective cohort study of an influenza outbreak in a General Hospital Jesenice which occured in a period from 1 January to 16 February 2017. A case definition was as follows: A patient or a healthcare professional (PW) who had signs of influenza-like illness (fever above 37.77 °C with coughing or sore throat) in the absence of other causes of infection and either influenza A or B virus confirmed in the nasopharingeal swab, or in whom an epidemiological link with a confirmed case (hospitalisation in the same room) was established. Patients who developed these symptoms and signs 72 hours or later after admission were classified as nosocomial cases. We asked the affected HP about demographic data, any previous vaccination against influenza, and their subjective assessment of the severity of the disease.</p>
+            <p>Results: Of the approximately 250 exposed people, 117 (46.8 %) fell ill. The first cases occurred in the internist department, followed by the surgical and nursing departments. The majority of patients were aged 65 and over. We took nasopharyngeal swabs from 74 patients and employees who complied with the definition of the case in the outbreak. Influenza A (87 %) or B (13 %) was confirmed in 68 (87 %) samples. The remaining 49 cases that were not laboratory-confirmed have met the epidemiological link criteria. In the discharge letters of all 13 deceased patients one of the discharge diagnoses was influenza, while in four it was also listed as the direct cause of death. Six patients died of pneumonia that followed the flu. Forty-five patients received oseltamivir, 61 hospitalized patients, and HW took oseltamivir as chemoprophylaxis. The outbreak of influenza had an adverse effect on the work plan of the surgical department - due to the outbreak, the number of elective surgeries decreased and a part of the surgical beds were allocated to the overwhelmed internist department.</p>
+            <p>Conclusion: At an early stage of an outbreak in a hospital, a high degree of compliance with preventive measures is required. Patients’ comorbidities and poor general condition contribute to more severe clinical presentation of influenza. Problems in ensuring isolation, non-compliance with the recommendations for personal hygiene of patients, non-vaccination against influenza and poor response of the immune system of elderly patients to vaccination contribute to outbreaks.</p>
+         </trans-abstract>
+         <kwd-group xml:lang="sl">
+            <kwd>gripa</kwd>
+            <kwd>influenca</kwd>
+            <kwd>izbruh</kwd>
+            <kwd>bolnišnica</kwd>
+         </kwd-group>
+         <kwd-group xml:lang="en">
+            <kwd>flu</kwd>
+            <kwd>influenza</kwd>
+            <kwd>outbreak</kwd>
+            <kwd>hospital</kwd>
+         </kwd-group>
+      </article-meta>
+   </front>
+   <body>
+      <sec id="s1" sec-type="Uvod">
+         <label>1</label>
+         <title>Uvod</title>
+         <p>Gripa vsako leto prizadene 5–15 % svetovne populacije in povzroči 250.000 do 500.000 smrti; je sezonska virusna bolezen dihal, ki se pojavlja v zimskih mesecih in jo povzročajo virusi influence tipa A in B. Sezone gripe so različno obsežne in so posledica stalnega spreminjanja virusov influence, proti katerim prebivalstvo ni odporno (<xref ref-type="bibr" rid="b1">1</xref>). V bolnišničnem okolju, kamor virus pride preko zdravstvenih delavcev, bolnikov, svojcev in drugih oseb, ki prihajajo v stik z bolniki, predstavlja pomemben problem, saj poveča obolevnost in umrljivost bolnikov, s tem pa povzroča tudi dodatne stroške zdravljenja. Vzrok za to so poleg same gripe še sekundarne bakterijske okužbe in poslabšanje osnovne bolezni, kar sproži uporabo dodatnih zdravil (npr. antibiotiki, protivirusna zdravila) in podaljšan čas hospitalizacije (<xref ref-type="bibr" rid="b2">2</xref>). Zaradi obolevanja zaposlenih za gripo se poveča odsotnost zaposlenih in s tem povezani problemi v organizaciji izvajanja rednih del in nalog.</p>
+         <p>Izbruh gripe predstavljata dva ali več primerov (bolniki ali zaposleni) s simptomi in znaki akutne okužbe dihal v obdobju 72 ur, ki so med seboj epidemiološko povezani, pri čemer naj bi bil virus influence laboratorijsko potrjen vsaj pri enem primeru. Epidemiološko prijavljamo vsako osebo z gripi podobno boleznijo in vsaj enim od simptomov, kot so vročina, slabo počutje, glavobol, bolečine v mišicah, in z vsaj eden od simptomov v dihalih, kot so kašelj, vnetje žrela in kratka sapa (<xref ref-type="bibr" rid="b1">1</xref>,<xref ref-type="bibr" rid="b3">3</xref>).</p>
+         <p>Laboratorijska merila so izpolnjena v primeru, da je pozitiven eden od laboratorijskih testov: osamitev virusa influence iz kliničnega vzorca, potrjevanje prisotnosti nukleinske kisline virusa influence v kliničnem vzorcu, identifikacija antigena virusa influence v kliničnem vzorcu z metodo direktne imunofluorescence, porast specifičnih protiteles proti virusu influence. Epidemiološka povezava pomeni prenos s človeka na človeka. Vse primere razvrstimo kot možne (samo klinična merila), verjetne (klinična merila in epidemiološka povezava) ali potrjene (klinična merila, epidemiološka povezava in laboratorijska potrditev) (<xref ref-type="bibr" rid="b1">1</xref>). O izbruhu gripe ali sumu na izbruh obvestimo epidemiološko službo na območni enoti Nacionalnega inštituta za javno zdravje (NIJZ), ta pa epidemiologa v pripravljenosti v Centru za nalezljive bolezni NIJZ (<xref ref-type="bibr" rid="b3">3</xref>).</p>
+         <p>Za potrditev virusa gripe moramo odvzeti brise nosno-žrelnega prostora prvim obolelim. Pri izbruhu je smiselno določiti podtip virusa influence (molekularno ali tipizacija izolata virusa influence). Določanje podtipov zagotavlja Laboratorij za javnozdravstveno virologijo Nacionalnega laboratorija za zdravje, okolje in hrano (NLZOH). Ko je v izbruhu virus influence laboratorijsko potrjen, nadaljnje laboratorijsko potrjevanje ni več potrebno. Ponovno potrjevanje je potrebno le izjemoma, če bi se v več kot 72 urah po uvedbi zdravljenja s protivirusnimi zdravili pojavili novi primeri s simptomi gripe; možno je, da je povzročitelj drug virus, ki povzroči okužbo dihal. V primeru potrditve virusa influence je lahko vzrok neobčutljivost virusa na protivirusno zdravilo ali pa drug tip virusa influence (<xref ref-type="bibr" rid="b4">4</xref>,<xref ref-type="bibr" rid="b5">5</xref>).</p>
+         <p>Odstotek okužb gripe brez ali z blagimi simptomi v bolnišnici se giblje med 28 in 59 % (<xref ref-type="bibr" rid="b6">6</xref>,<xref ref-type="bibr" rid="b7">7</xref>). Gripo pri hospitaliziranih bolnikih je težje prepoznati tudi zaradi zdravil, ki jih prejemajo (antipiretike, analgetike ipd.), in prepričanja, da je večina okužb dihal bakterijskih (<xref ref-type="bibr" rid="b2">2</xref>,<xref ref-type="bibr" rid="b7">7</xref>,<xref ref-type="bibr" rid="b8">8</xref>,<xref ref-type="bibr" rid="b9">9</xref>). Kratka inkubacijska doba (manj kot 72 ur) dodatno oteži razlikovanje med bolnišnično okužbo in okužbo, pridobljeno v domačem okolju. Zdravstveni delavci, ki so najpomembnejši vir okužbe z virusom influence, se okužijo doma ali na delovnem mestu (<xref ref-type="bibr" rid="b2">2</xref>,<xref ref-type="bibr" rid="b7">7</xref>). Vir okužbe so lahko tudi drugi bolniki in svojci (<xref ref-type="bibr" rid="b2">2</xref>,<xref ref-type="bibr" rid="b7">7</xref>,<xref ref-type="bibr" rid="b8">8</xref>).</p>
+         <p>Pri večini sicer zdravih ljudi mine gripa brez zapletov. Pri starejših in bolnikih s kroničnimi boleznimi pogosto nastopi zaplet, kot je sekundarna bakterijska pljučnica. Pri otrocih je najpogostejši zaplet vnetje srednjega ušesa (<xref ref-type="bibr" rid="b1">1</xref>,<xref ref-type="bibr" rid="b3">3</xref>,<xref ref-type="bibr" rid="b4">4</xref>,<xref ref-type="bibr" rid="b5">5</xref>,<xref ref-type="bibr" rid="b7">7</xref>). Gripa je pomemben razlog obolevnosti in umrljivosti pri osebah, starejših od 65 let, in bolnikih s kroničnimi boleznimi. Starejši bolniki, ki umrejo zaradi pljučnice ali zaradi poslabšanja predhodne pljučne ali srčne bolezni, predstavljajo kar 90 % smrti zaradi gripe (<xref ref-type="bibr" rid="b8">8</xref>). Umrljivost bolnikov zaradi gripe je v akutnih in geriatričnih bolnišnicah 16 %, na oddelkih za intenzivno zdravljenje pa 33–66 % (<xref ref-type="bibr" rid="b8">8</xref>).</p>
+         <p>Svetovna zdravstvena organizacija (SZO) in večina nacionalnih smernic vsebuje priporočila za vsakoletno cepljenje čim večjega števila bolnikov s kroničnimi boleznimi, starejših ljudi in nosečnic v skupnosti, dosledno izvajanje preventivnih ukrepov v bolnišnicah, cepljenje zdravstvenih delavcev, vse za znižanje bremena bolnišničnih okužb v sezoni gripe. Povprečna učinkovitost cepiva proti gripi v skupini starejših od 65 let je 36 %; s starostjo pa še nekoliko upada (<xref ref-type="bibr" rid="b9">9</xref>). Zaradi slabše učinkovitosti cepiva proti gripi pri starejši populaciji se priporoča, da so proti gripi cepljene tudi osebe, ki imajo pogost stik s to populacijo. Raziskave so pokazale, da kljub številnim priporočilom ostaja precepljenost proti gripi v ranljivih populacijah premajhna, pri zdravstvenih delavcih pa zelo majhna (<xref ref-type="bibr" rid="b4">4</xref>,<xref ref-type="bibr" rid="b10">10</xref>,<xref ref-type="bibr" rid="b11">11</xref>,<xref ref-type="bibr" rid="b12">12</xref>,<xref ref-type="bibr" rid="b13">13</xref>).</p>
+         <p>SBJ opravlja zdravstveno dejavnost na sekundarni ravni. V bolnišnico prihajajo ljudje s celotne Gorenjske, kjer živi po podatkih Statističnega Urada Slovenije (SURS) okoli 200.000 prebivalcev. V začetku leta 2017 v času sezone gripe smo v bolnišnici zaznali obsežnejši izbruh. Potek izbruha, ukrepe za zamejitev in posledice, ki ga je imel na delovanje bolnišnice, predstavljamo v prispevku.</p>
+      </sec>
+      <sec id="s2" sec-type="Metode">
+         <label>2</label>
+         <title>Metode</title>
+         <sec id="s2.1" sec-type="Opis izbruha">
+            <label>2.1</label>
+            <title>Opis izbruha</title>
+            <p>Od 1. 1. 2017 do 10. 1. 2017 smo na NIJZ območna enota (OE) Kranj prejeli 39 prijav laboratorijsko potrjenih primerov gripe pri bolnikih, zdravljenih v SBJ. V sodelovanju z odgovornim zdravnikom za obvladovanje bolnišničnih okužb (ZOBO) smo začeli zbirati epidemiološke informacije. Z epidemiološkim poizvedovanjem smo ugotovili, da se v bolnišnici veča število bolnikov z znaki in simptomi v dihalih. Bolniki v akutni bolnišnici prehajajo med oddelki. Tako je prišlo do premeščanja obolelega  z internega oddelka na kirurgijo zaradi nujnega posega. Prehajali so tudi zaposleni, ker je zaradi pomanjkanja zaposlenih prihajalo do fluktuacije med oddelki. Bolnišnica je bila polno zasedena ves čas izbruha, akutni primeri bolnikov so prihajali ves čas. Zaradi narave delovanja se akutnih bolnišnic ne da začasno zapreti. Precepljenost med zaposlenimi proti gripi je bila majhna. Bolnišnica je stara 71 let in marsikje tudi oprema ni prostorsko prilagojena potrebam današnjega časa. Enoposteljni sobi sta le dve na internem oddelku.</p>
+         </sec>
+         <sec id="s2.2" sec-type="Preventivni ukrepi">
+            <label>2.2</label>
+            <title>Preventivni ukrepi</title>
+            <p>Med izbruhom so bili uvedeni številni preventivni ukrepi, tudi zmanjšanje elektivnih posegov za operacije. Pristojne v SBJ smo seznanili z navodili za preprečevanje širjenja akutnih okužb dihal.</p>
+         </sec>
+         <sec id="s2.3" sec-type="Anketiranje obolelih zdravstvenih delavcev">
+            <label>2.3</label>
+            <title>Anketiranje obolelih zdravstvenih delavcev</title>
+            <p>Vse zbolele zdravstvene delavce smo prosili za izpolnitev vprašalnika in soglasja za obdelavo anonimiziranih podatkov. Zaradi izrednih razmer zbolelih pa bolnikov nismo uspeli anketirati. V vprašalniku smo obolelim zaposlenim zastavili demografska vprašanja, vprašanja glede cepljenja in glede resnosti bolezni, ki jih je prizadela. Težo bolezni smo opredelili z naslednjimi merili: kot lažji potek smo opredelili bolnike, ki so imeli samo prehladne znake, nekaj dni so se slabše počutili, vročina ni presegla 37,5 °C, vsakodnevne aktivnosti so lahko opravljali, čeprav se niso počutili zdrave; kot srednje težki potek smo opredelili primere, ki so imeli vročino nad 38 °C, so kašljali, vsaj dva dni niso mogli na delo, vsakodnevne dejavnosti so omejili zaradi utrujenosti in slabega počutja; kot težji potek smo opredelili primere, ki so imeli vročino nad 38 °C, več kot dva dni niso mogli na delo, več dni so večino časa poležavali in se najmanj teden dni počutili oslabelega in brez moči.</p>
+         </sec>
+         <sec id="s2.4" sec-type="Odvzem kužnin za mikrobiološko preiskavo">
+            <label>2.4</label>
+            <title>Odvzem kužnin za mikrobiološko preiskavo</title>
+            <p>Vzorce brisov nosno-žrelnega prostora so v Oddelek za medicinsko mikrobiologijo Kranj NLZOH prejeli do 6. 2. 2017.</p>
+         </sec>
+         <sec id="s2.5" sec-type="Epidemiološke metode">
+            <label>2.5</label>
+            <title>Epidemiološke metode</title>
+            <p>Primer v izbruhu je bil vsak bolnik ali zaposleni (ZD) v SBJ, ki je od 01. 01. 2017 do 16. 02. 2017 imel simptome gripi podobne bolezni (temperaturo nad 37,7 °C s kašljanjem ali bolečinami v žrelu), v brisu nosno-žrelnega prostora potrjen virus influence A ali B ali epidemiološko povezavo s potrjenimi primeri (hospitalizacija v isti sobi) ter odsotnosti ostalih vzrokov za okužbo. Primer smo opredelili kot bolnišničen pri osebah, ki so bile v bolnišnico sprejete zaradi drugih vzrokov in pri katerih so se simptomi in znaki v dihalih razvili kasneje kot 72 ur po sprejemu. Izbruh nalezljive bolezni (<italic>angl.</italic> outbreak) je pojav več primerov nalezljive bolezni, kot se pričakuje v določeni populaciji, v določenem geografskem območju in v določenem obdobju. Za ustrezno oceno moramo poznati velikost ogrožene populacije (imenovalec) in število primerov (števec) oziroma incidenčno stopnjo primerov v določeni populaciji. Kadar neka bolezen (primeri) ni tako pogosta in nimamo informacij o imenovalcu, lahko primerjamo absolutno število primerov v določenem obdobju in na določenem geografskem območju s primeri v preteklem obdobju na tem območju (<xref ref-type="bibr" rid="b3">3</xref>). Sestra za obvladovanje bolnišničnih okužb (SOBO) je sistematično sledila primere. Virološko diagnostiko so naročali zdravniki na oddelku pri večini bolnikov s klinično simptomatiko. Vse pozitivne primere smo sledili do odpusta oz. smrti. V izbruhu smo ločeno beležili tudi obolele zdravstvene delavce. Pri pridobivanju podatkov za epidemiološke analize sta nam pomagala SOBO in ZOBO, ki sta nam posredovala sezname s podatki o obolelih, njihove rojstne datume, datume začetka bolezni, spol ter oddelek, na katerem je ležal bolnik.</p>
+         </sec>
+         <sec id="s2.6" sec-type="Pridobitev soglasja za izvedbo raziskave">
+            <label>2.6</label>
+            <title>Pridobitev soglasja za izvedbo raziskave</title>
+            <p>Na komisijo za medicinsko etiko Republike Slovenije smo vložili vlogo za soglasje izvedbe raziskave in pridobili soglasje št. 0120–529–2018.</p>
+         </sec>
+      </sec>
+      <sec id="s3" sec-type="Rezultati">
+         <label>3</label>
+         <title>Rezultati</title>
+         <sec id="s3.1" sec-type="Epidemiološka raziskava">
+            <label>3.1</label>
+            <title>Epidemiološka raziskava</title>
+            <p>Bolniki so za gripo zbolevali na skoraj vseh oddelkih SBJ (<xref ref-type="fig" rid="fig1">Slika 1</xref>). Skupno smo v izbruhu od 1. 1. 2017 do 16. 2. 2017 zaznali 117 primerov, obolelih z gripo, in sicer 62 (53 %) žensk in 55 (47 %) moških. Med zbolelimi je bilo tudi 17 zdravstvenih delavcev, od katerih je bilo proti gripi cepljenih 9 oseb.</p>
+            <fig position="anchor" id="fig1">
+               <label>Slika 1:</label>
+               <caption>
+                  <p> Prikaz obolelih za gripo po oddelkih Splošne bolnišnice Jesenice, 2017.</p>
+               </caption>
+               <p>
+                  <graphic xlink:href="2877-web-resources/image/zdravvestn-2877-sl-01.png"/>
+               </p>
+            </fig>
+            <p>Obolevanje po dnevih, posebej za moške (M), ženske (Ž) in zaposlene (Z), smo prikazali v obliki histograma (<xref ref-type="fig" rid="fig2">Slika 2</xref>). Ugotoviti smo želeli, ali je bilo pojavljanje bolezni povezano z oddelkom, na katerem so bili bolniki nastanjeni, ter tako posredno sklepati na širjenje okužbe. Glede na epidemiološko povezavo, klinično sliko in potek izbruha smo sklepali, da gre pri vseh obolelih za enega od dveh dokazanih povzročiteljev, za virus influence A ali B.</p>
+            <fig position="anchor" id="fig2">
+               <label>Slika 2:</label>
+               <caption>
+                  <p> Histogram izbruha gripe (bolniki/zaposleni) v Splošni bolnišnici Jesenice, 2017.</p>
+               </caption>
+               <p>
+                  <graphic xlink:href="2877-web-resources/image/zdravvestn-2877-sl-02.png"/>
+               </p>
+            </fig>
+            <p>Izbruh je potekal med 1. 1. in 16. 2. 2017 v Splošni bolnišnici Jesenice.</p>
+            <p>Starostna struktura obolelih je razvidna iz <xref ref-type="fig" rid="fig3">Slike 3</xref>. Ugotovili smo, da je največ oseb zbolelo v starostni skupini nad 65 let.</p>
+            <fig position="anchor" id="fig3">
+               <label>Slika 3:</label>
+               <caption>
+                  <p> Starostna struktura obolelih v Splošni bolnišnici Jesenice, 2017.</p>
+               </caption>
+               <p>
+                  <graphic xlink:href="2877-web-resources/image/zdravvestn-2877-sl-03.png"/>
+               </p>
+            </fig>
+            <p>Definiciji primera v izbruhu je ustrezalo 117 obolelih oseb. Stopnja napada v izbruhu je znašala 117/250 = 46,8 %. 13 bolnikov, ki so bili uvrščeni kot primer v izbruhu, je umrlo (8 v januarju, 3 v februarju in 2 v marcu 2017). Od teh jih je imelo 9 diagnozo po MKB J10.0 (gripa s pljučnico, virus influence dokazan), dva J10.1 (gripa z drugimi manifestacijami na dihalih) in dva J11.0 (gripa s pljučnico, virus ni dokazan). Med umrlimi je bilo 7 žensk in 6 moških, povprečna starost umrlih je bila 84 let (razpon starosti od 69 do 92 let). Od umrlih jih je 8 prejemalo oseltamivir, 4 ga niso, za 1 se to iz dokumentacije ne da ugotoviti.</p>
+            <p>Med zbolelimi je bilo 17 zdravstvenih delavcev, od katerih je bilo proti gripi cepljenih 9 oseb (52,9 %). Pri 6 zdravstvenih delavcih smo laboratorijsko potrdili virus influence A, pri 11 smo diagnozo gripe postavili na osnovi klinične slike in epidemiološke povezave. Obolele zdravstvene delavce smo prosili za izpolnitev anketnega vprašalnika, na katerega je odgovorilo 10 zaposlenih (4 moški, 6 žensk), od katerih jih je bilo v sezoni 2016/2017 proti gripi cepljenih 7. Obolele zaposlene smo v anketnem vprašalniku vprašali o subjektivni oceni teže bolezni. Od cepljenih oseb sta 2 imela težek potek bolezni (28,6 %), oba sta prejemala oseltamivir, 4 srednje težek (57,1 %), od katerih so kar 3 prejemali oseltamivir, in 1 zaposlena lahek potek (14,3 %), prejemala pa je oseltamivir. Od necepljenih pa je imela 1 oseba težek potek in 2 srednje težek potek bolezni. Vsi anketirani oboleli zdravstveni delavci so jemali antipiretike, 5 od 10 je preventivno prejemalo oseltamivir. Vsi zdravstveni delavci so se predvidoma okužili v bolnišnici in ne v domačem okolju, ker v odgovorih ni nihče od anketiranih navedel, da ima doma z gripo obolele svojce.</p>
+            <p>Za zdravljenje gripe je oseltamivir prejelo 45 bolnikov (38,5 %). Za preprečevanje prenosa pa je jemalo oseltamivir 61 (24,4 %) oseb, ki so bile v stiku z obolelimi, večina od teh so bili zdravstveni delavci (50), ki so negovali obolele bolnike in niso bili cepljeni kot tudi za gripo zboleli zdravstveni delavci Vsi oboleli so jemali oseltamivir 5 dni, preventivno pa 10 dni kot določa algoritem (<xref ref-type="bibr" rid="b3">3</xref>).</p>
+         </sec>
+         <sec id="s3.2" sec-type="Mikrobiološke preiskave">
+            <label>3.2</label>
+            <title>Mikrobiološke preiskave</title>
+            <p>V NLZOH, Oddelek za medicinsko mikrobiologijo Kranj, je bilo poslanih 74 vzorcev – brisov nosno-žrelnega prostora bolnikov in zaposlenih. V 68 vzorcih je bil dokazan antigen virusa influence, in sicer v 59 vzorcih virus influence A, v 9 primerih pa virus influence B. Pri ostalih 49 primerih (42 % med vsemi primeri v izbruhu) laboratorijska diagnostika ni bila izvedena, so pa bili epidemiološko povezani s potrjenim primerom.</p>
+            <p>Med izbruhom so v 6 poslanih vzorcih dokazali tudi druge povzročitelje okužb dihal (respiratorni sinciciljski virus, parainfluenco, koronavirus, rinovirus), vendar teh oseb v skladu z definicijo primera nismo šteli kot primere v izbruhu gripe. 13 vzorcev z dokazanim genomom virusa influence je bilo tipiziranih z uporabo testa Film Array, ki omogoča natančnejšo tipizacijo virusa. V vseh 13 vzorcih smo potrdili prisotnost tip virusa A/H2H3. Podatek je pomemben, ker smo podobno kot na ravni celotne Slovenije v tem izbruhu dokazovali le tip virusa influence A, ki je povzročil sezonsko gripo in ga je vsebovalo cepivo tekoče sezone.</p>
+         </sec>
+      </sec>
+      <sec id="s4" sec-type="Razpravljanje">
+         <label>4</label>
+         <title>Razpravljanje</title>
+         <p>Na začetek izbruha gripe so nas opozorile laboratorijske prijave gripe iz SBJ konec decembra 2016 in v začetku januarja 2017. Prvi zboleli s simptomi in znaki v dihalih so se v SBJ začeli pojavljati že konec decembra 2016. Po posvetu z ZOBO in SOBO smo za začetek izbruha izbrali 1.1. 2017, ker so bili prvi primeri v decembru 2016 primeri posameznih bolnikov, sprejetih v bolnišnico z gripo, od katerih pa se bolezen ni širila naprej. Največ bolnikov in zaposlenih je zbolelo od 8. 1. 2017 do 13. 1. 2017 in v drugem valu od 16. 1. 2017 do 23. 1. 2017. Med izbruhom je med približno 250 izpostavljenimi zbolelo 117 oseb, med njimi je bilo 55 moških in 62 žensk. Skupno je delež zbolelih med izpostavljenimi (stopnja napada) znašal 46,8 %, kar je primerljivo s podatki v literaturi, ko se v izbruhih gripe v bolnišnicah število kliničnih primerov giblje med 11 % in 59 %, laboratorijsko potrjenih primerov pa je 32 % in 53 % vseh bolnikov v bolnišnici (<xref ref-type="bibr" rid="b7">7</xref>). Posebej visok delež zbolelih, tudi do 60 %, je opisan v negovalnih ustanovah z velikim deležem starejših oskrbovancev in geriatričnih bolnišnicah (<xref ref-type="bibr" rid="b14">14</xref>).</p>
+         <p>Smrtnost obolelih v našem izbruhu je bila 11,1 %, kar 69 % umrlih bolnikov je imelo diagnozo gripa s pljučnico z dokazanim virusom influence, povprečna starost umrlih pa je bila 84 let. Od umrlih je oseltamivir prejemalo 61,5 % bolnikov.</p>
+         <p>Po dostopnih podatkih NIJZ za enajstletno obdobje (od leta 2007 do 2017) je bilo v domovih starejših občanov (DSO) prijavljenih 268 izbruhov, od tega je bilo 42 (15,7 %) izbruhov gripe. V istem obdobju so slovenske bolnišnice prijavile 66 izbruhov, od tega 16 (24,2 %) izbruhov gripe. V DSO in v bolnišnicah so prijavili največ izbruhov gripe prav v letu 2017, in sicer 11 v DSO in 5 v bolnišnicah (NIJZ, Letna poročila o nalezljivih boleznih od 2007 do 2017).</p>
+         <p>V literaturi so opisani posamezni bolnišnični izbruhi gripe. Večino teh izbruhov povzročijo sevi sezonske influence A, ki krožijo v skupnosti. Predhodne študije izbruhov so z uporabo naprednih molekularnih metod potrdile, da na pojavnost izbruhov vpliva tudi ujemanje med cepilnimi sevi in krožečimi sevi gripe v populaciji (<xref ref-type="bibr" rid="b15">15</xref>). Po podatkih raziskav k težjemu poteku gripe pri starejši populaciji prispeva oslabljen imunski odziv, nizek delež cepljenih in s tem vsaj delno zaščitenih oseb ter možna sprememba krožečih virusov gripe v populaciji. Poleg tega je pri starejši populaciji težko dosegati osnovne higienske norme zaradi slabšega sodelovanja in osebnostnih sprememb starajoče se populacije (<xref ref-type="bibr" rid="b16">16</xref>,<xref ref-type="bibr" rid="b17">17</xref>,<xref ref-type="bibr" rid="b18">18</xref>).</p>
+         <p>Starejše osebe imajo večje tveganje za razvoj resnih zapletov in funkcionalne nezmožnosti po preboleli gripi. Cepljenje proti gripi pri starostnikih se priporoča za zmanjšanje pogostnosti zapletov in smrti (<xref ref-type="bibr" rid="b19">19</xref>).</p>
+         <p>Po svetu se srečujejo s prenizkim deležem cepljenih starostnikov proti gripi in pnevmokokni pljučnici. Delež cepljenih proti gripi, starejših od 65 let, ki živijo v domačem okolju, se med državami močno razlikuje; več kot 70 % starejših je bilo v sezoni 2013/14 proti gripi cepljenih v Veliki Britaniji in na Nizozemskem, v mnogih drugih Evropskih državah pa so se približali polovici precepljene starejše populacije (<xref ref-type="bibr" rid="b18">18</xref>), tudi v sosednji Italiji dosega precepljenost starejših proti gripi prek 60 % (<xref ref-type="bibr" rid="b20">20</xref>).</p>
+         <p>Po podatkih NIJZ je bilo v sezoni 2015/16 v Sloveniji cepljenih proti gripi le 10,4 % starejših od 65 let (to je sicer več kot v splošni populaciji, v kateri je bil delež cepljenih 3,2 %), vendar pa je to eden najnižjih deležev v Evropi, kar je zaskrbljujoče (<xref ref-type="bibr" rid="b21">21</xref>).</p>
+         <p>V obravnavanem izbruhu je zbolelo 17 zdravstvenih delavcev, med katerimi je bilo proti gripi cepljenih 9 oseb. V sezoni 2016/2017 se je v SBJ proti gripi cepilo 60 zaposlenih, od tega največ zdravnikov. Ker je v izbruhu zbolelo tudi nekaj zdravstvenih delavcev, ki so bili cepljeni proti gripi, smo klinično stanje zdravstvenih delavcev želeli objektivizirati. Zbolelim zdravstvenim delavcem smo poslali anketni vprašalnik in jih zaprosili za odgovore. Kljub posredovanju smo prejeli le 12 izpolnjenih vprašalnikov (70,6 %), med katerimi je bilo cepljenih 7 oseb oz. 58,3 %. Od cepljenih zbolelih zdravstvenih delavcev je srednje težko in lažjo obliko bolezni prebolelo 71,4 %, med necepljenimi pa zaradi pomanjkljivo izpolnjenih anket tega podatka nimamo. V literaturi ni konkretnih dokazov o učinkovitosti cepljenja zdravstvenih delavcev za zmanjševanje bolnišničnega širjenja gripe. Številne študije potrjujejo koristi za bolnike v primeru, da ima osebje visoko stopnjo zaščite. Nizka precepljenost zdravstvenih delavcev igra pomembno vlogo pri vzdrževanju izbruha (<xref ref-type="bibr" rid="b22">22</xref>).</p>
+         <p>Na NIJZ smo pridobili podatke o precepljenosti zdravstvenih delavcev proti gripi od sezone 2009/2010 dalje. Iz teh podatkov razberemo, da smo največjo precepljenost zdravstvenih delavcev proti gripi dosegli v sezoni 2009/2010, in sicer 21,3 %, oz. v sezoni, ko se je pojavila pandemijska gripa. Po tej sezoni je upadel odstotek cepljenih, in sicer v sezoni 2010/2011 na 17,3 %; 2011/2012 na 15,9 %; 2012/2013 na 13,8 %; 2013/2014 na 13,3 %; 2014/2015 na 11,4 %; 2015/2016 na 8,1 %; 2016/2017 na 9,1 %. V sezoni 2017/2018 opažamo dvig odstotka cepljenih zdravstvenih delavcev na 14,3 %.</p>
+         <p>Za zdravljenje gripe je oseltamivir prejelo 45 bolnikov (38,5 %). Za preprečevanje prenosa pa je 10 dni jemalo oseltamivir 61 (24,4 %) oseb, ki so bile v stiku z obolelimi, večina od teh je bila zdravstvenih delavcev. Med anketiranimi cepljenimi zdravstvenimi delavci, ki so zboleli za gripo, jih je kar 5 od 6 (85,7 %) jemalo oseltamivir. Težek potek sta imela 2 od teh, 4 srednje težak in 1 blažji potek. Z anketiranjem posameznikov smo ugotovili, da so zdravilo vzeli sorazmerno pozno, med 48. in 72. uro od začetka bolezni. V literaturi obstajajo statistično izračunani dokazi o učinkovitosti preventivnega učinka oseltamivira, tako pred- kot poekspozicijsko (<xref ref-type="bibr" rid="b23">23</xref>,<xref ref-type="bibr" rid="b24">24</xref>).</p>
+         <p>Med izbruhom so člani Komisije za preprečevanje bolnišničnih okužb in ostali zaposleni ob našem svetovanju izvedli številne preventive dejavnosti za omejitev izbruha, kot na primer popolno zaprtje bolnišnice za obiskovalce, prekinitev študentske prakse, izolacije, premestitev necepljenih zaposlenih, poostritev higienskega režima, uporaba mask in kemoprofilaksa. Kljub temu je prišlo do zelo obsežnega izbruha. Najpogostejši razlogi za tako obsežen izbruh so bili, da je bila bolnišnica polno zasedena ves čas izbruha, bolnišnice za čas izbruha nismo zaprli, zato so akutni bolniki prihajali ves čas. Akutnih bolnišnic ni mogoče zapreti. Zaposleni niso bili v zadostni meri cepljeni. Infrastrukturno je bolnišnica po večini stara in marsikje ni prilagojena potrebam današnjega časa. Enoposteljni sobi sta  le dve na internem oddelku od 24 sob, 1 soba na ginekološkem od 10 sob in 1 na dnevnem oddelku. Skupno ima bolnišnica 263 postelj.</p>
+         <p>Tudi v literaturi je zapisano, da je v zgodnji fazi izbruha potrebna visoka stopnja upoštevanja preventivnih ukrepov. K zbolevanju namreč prispevajo predhodne bolezni in slabotnost bolnikov, težave pri zagotavljanju izolacije, neupoštevanje priporočil osebne higiene bolnikov ter slaba odzivnost imunskega sistema starejših bolnikov na cepljenje. Pomembno težavo pri širjenju gripe predstavljajo tudi okuženi bolniki in zdravstveni delavci, ki pa nimajo izrazitejših kliničnih znakov.</p>
+         <p>V literaturi obstaja primer dobre prakse, kako zajeziti bolnišnično okužbo gripe na prenatrpani urgenci. Avtorji prispevka vidijo rešitev v hitri molekularni mikrobiološki diagnostiki, ki ločuje gripo od ostalih respiratornih virusov, in hkratnem ukrepanju, kot so izolacija bolnikov, zgodnje zdravljenje in prerazporeditev. Med raziskavo so z multivariantno logistično regresijo opredelili dejavnike, ki so povezani z gripo. Statistično so potrdili, da so prisotnost mialgije, odsotnost gastrointestinalnih znakov in nasičenost kisika v krvi ≥ 97 % povezani z gripo in so v pomoč pri razlikovanju drugih bolezni dihal (<xref ref-type="bibr" rid="b25">25</xref>).</p>
+         <p>V literaturi ni trdnih dokazov, da s preventivni ukrepi lahko preprečimo širjenje gripe v ustanovah s starejšimi oskrbovanci. Pomanjkanje dokazov o učinkovitosti posameznega preventivnega ukrepa gre predvsem na račun poglobljenih molekularnih analiz in učinka grupiranja. Novi pristopi raziskav izbruhov so ovrgli prvotno hipotezo, da posamezen sev prizadene celotno inštitucijo v obdobju izbruha. Obratno so filogenetske analize odkrile več različnih grupiranj virusov gripe, ki so krožili na posameznih oddelkih, odvisnih od tesnih stikov z indeksnimi primeri. Ti rezultati kažejo na to, da gre med izbruhom gripe v večji ustanovi za večje število skupkov virusov influence A (H3N2) variant različnih genetskih skupin, ki krožijo v skupnosti (<xref ref-type="bibr" rid="b26">26</xref>).</p>
+         <p>Omejitev naše raziskave je bila, da pri vseh bolnikih nismo izvajali virološke diagnostike. Diagnostiko smo izvajali predvsem na začetku izbruha, tudi pri zdravstvenih delavcih. Prav tako diagnostike nismo izvajali na samem začetku bolezni pri tistih bolnikih, ki so bili hospitalizirani v sobah, oddaljenih od indeksnega primera. Virus influence se je tipiziral samo v določenem deležu, ker smo večinoma izvajali cenejši test, ki opredeljuje, ali gre za influenco A ali B, ne določa pa podtipov virusa. V raziskavi tudi nismo preverjali podatka o cepljenju proti gripi, upoštevali smo le izjave bolnikov in zaposlenih. Omejitev je bila tudi, da je epidemiološka analiza zajemala izključno obolele, kar onemogoča vsakršno sklepanje o dejavnikih tveganja.</p>
+         <p>Prispevek predstavi prvi večji opisani izbruh v slovenski bolnišnici. Med izbruhom je prišlo do pomanjkanje izolacijskih sob ter zaradi bolniških odsotnosti pomanjkanja negovalnega osebja. Prispevek opozarja, da je gripa resna in realna grožnja starejšim bolnikom v bolnišnicah. Prav tako prispevek nakazuje potrebo po zgodnjem zaznavanju in proaktivnem nadzoru bolnišničnih okužb ter poudarja pomen dobrega sodelovanja območnih epidemiologov, mikrobiologov in klinikov ter vseh uporabnikov.</p>
+      </sec>
+   </body>
+   <back>
+      <ack>
+         <label>5</label>
+         <title>Zahvala</title>
+         <p>Avtorji se zahvaljujemo zaposlenim v SBJ, NLZOH in NIJZ za zavzeto pomoč pri obravnavi in obvladovanju izbruha. Posebej se za obdelavo podatkov zahvaljujemo Katji Krnc in Mateji Blaško Markič.</p>
+      </ack>
+      <ref-list>
+         <ref id="b1">
+            <label>1. </label>
+            <mixed-citation publication-type="book">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Mandell</surname>
+                     <given-names>GL</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Bennett</surname>
+                     <given-names>JE</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Churchill Dolin</surname>
+                     <given-names>R</given-names>
+                  </name>
+                    </person-group>. 
+                    <source>Mandell, Douglas, and Bennett’s principles and practice of infectious diseases</source>. 
+                    <edition>7th ed</edition>.
+                    <publisher-loc>Philadelphia (PA)</publisher-loc>: 
+                    <publisher-name>Churchill Livingstone, Elsevier</publisher-name>; 
+                    <year>2010</year>.
+                </mixed-citation>
+         </ref>
+         <ref id="b2">
+            <label>2. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Mrvič</surname>
+                     <given-names>T</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Pečavar</surname>
+                     <given-names>B</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Petrovec</surname>
+                     <given-names>M</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Bolnišnične okužbe z virusom gripe</article-title>.
+                    <source>Med Razgl</source>. 
+                    <year>2013</year>. 
+                    <volume>52</volume>(
+                    <issue>4</issue>):
+                    <fpage>287</fpage>–
+                    <lpage>91</lpage>. 
+                    <issn>0025-8121</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b3">
+            <label>3. </label>
+            <mixed-citation publication-type="web-page">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Frelih</surname>
+                     <given-names>T</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Čakš</surname>
+                     <given-names>N</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Sočan</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Kraigher</surname>
+                     <given-names>A</given-names>
+                  </name>
+                    </person-group>. 
+                    <source>Gripa – algoritem ukrepanja. Priporočila za obravnavo izbruha ali suma na izbruh gripe v ustanovah</source>.                     
+                    <year>2015</year> 
+                    <date-in-citation content-type="access-date" iso-8601-date="2016-10-01">cited 2016 Oct 01</date-in-citation>.
+                    <comment> Available from</comment>:                        
+                    <ext-link ext-link-type="uri" xlink:href="www.nijz.si/podro">www.nijz.si/podro</ext-link>
+                </mixed-citation>
+         </ref>
+         <ref id="b4">
+            <label>4. </label>
+            <mixed-citation publication-type="web-page">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Communicable Diseases Report</surname>
+                  </name>
+                    </person-group>. 
+                    <source>NSW Public Health Bulletin</source>.
+                    <comment>[internet]</comment>. 
+                    <year>2004</year>; 
+                    <volume>15</volume>:
+                    <fpage>220</fpage>-
+                    <lpage>221</lpage>. 
+                    <date-in-citation content-type="access-date" iso-8601-date="2016-10-01">cited 2016 Oct 01</date-in-citation>
+                    <comment> Available from</comment>: 
+                    <ext-link ext-link-type="uri"
+                         xlink:href="http://www.publish.csiro.au/?act=view_file&amp;file_id=NB04050.pdf">http://www.publish.csiro.au/?act=view_file&amp;file_id=NB04050.pdf</ext-link>
+                </mixed-citation>
+         </ref>
+         <ref id="b5">
+            <label>5. </label>
+            <mixed-citation publication-type="unknown">
+                    <person-group person-group-type="author">
+                        <collab>CDC</collab>
+                    </person-group>. 
+                    <source>2010-2011 Influenza Antiviral Medications: A Summary for Clinicians</source>.
+                    <comment>[internet]</comment>. 
+                    <date-in-citation content-type="access-date" iso-8601-date="2016-10-01">cited 2016 Oct 01</date-in-citation>
+                    <comment> Available from</comment>: 
+                    <ext-link ext-link-type="uri"
+                         xlink:href=" http://www.flu.org.cn/en/news-16482.htmlf"> http://www.flu.org.cn/en/news-16482.html</ext-link>                           
+                </mixed-citation>
+         </ref>
+         <ref id="b6">
+            <label>6. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Maltezou</surname>
+                     <given-names>HC</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Nosocomial influenza: new concepts and practice</article-title>. 
+                    <source>Curr Opin Infect Dis</source>. 
+                    <year>2008</year>
+                    <month>Aug</month>;
+                    <volume>21</volume>(
+                    <issue>4</issue>):
+                    <fpage>337</fpage>–
+                    <lpage>43</lpage>. 
+                    <pub-id pub-id-type="doi">10.1097/QCO.0b013e3283013945</pub-id>
+                    <pub-id pub-id-type="pmid">18594283</pub-id>
+                    <issn>0951-7375</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b7">
+            <label>7. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Voirin</surname>
+                     <given-names>N</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Barret</surname>
+                     <given-names>B</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Metzger</surname>
+                     <given-names>MH</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Vanhems</surname>
+                     <given-names>P</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>etal. Hospital-acquired influenza: a synthesis using the Outbreak Reports and Intervention Studies of Nosocomial Infection (ORION) statement</article-title>. 
+                    <source>J Hosp Infect</source>. 
+                    <year>2009</year>
+                    <month>Jan</month>;
+                    <volume>71</volume>(
+                    <issue>1</issue>):
+                    <fpage>1</fpage>–
+                    <lpage>14</lpage>. 
+                    <pub-id pub-id-type="doi">10.1016/j.jhin.2008.08.013</pub-id>
+                    <pub-id pub-id-type="pmid">18952319</pub-id>
+                    <issn>0195-6701</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b8">
+            <label>8. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Salgado</surname>
+                     <given-names>CD</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Farr</surname>
+                     <given-names>BM</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Hall</surname>
+                     <given-names>KK</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Hayden</surname>
+                     <given-names>FG</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Influenza in the acute hospital setting</article-title>. 
+                    <source>Lancet Infect Dis</source>. 
+                    <year>2002</year>
+                    <month>Mar</month>;
+                    <volume>2</volume>(
+                    <issue>3</issue>):
+                    <fpage>145</fpage>–
+                    <lpage>55</lpage>. 
+                    <pub-id pub-id-type="doi">10.1016/S1473-3099(02)00221-9</pub-id>
+                    <pub-id pub-id-type="pmid">11944184</pub-id>
+                    <issn>1473-3099</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b9">
+            <label>9. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Domínguez</surname>
+                     <given-names>A</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Soldevila</surname>
+                     <given-names>N</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Toledo</surname>
+                     <given-names>D</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Godoy</surname>
+                     <given-names>P</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Espejo</surname>
+                     <given-names>E</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Fernandez</surname>
+                     <given-names>MA</given-names>
+                  </name>, 
+                        <etal>et al</etal>.; 
+                        <collab>The Working Group Of The Project Pi</collab>
+                    </person-group>. 
+                    <article-title>The effectiveness of influenza vaccination in preventing hospitalisations of elderly individuals in two influenza seasons: a multicentre case-control study, Spain, 2013/14 and 2014/15</article-title>. 
+                    <source>Euro Surveill</source>. 
+                    <year>2017</year>
+                    <month>Aug</month>;
+                    <volume>22</volume>(
+                    <issue>34</issue>). 
+                    <pub-id pub-id-type="doi">10.2807/1560-7917.ES.2017.22.34.30602</pub-id>
+                    <pub-id pub-id-type="pmid">28857047</pub-id>
+                    <issn>1025-496X</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b10">
+            <label>10. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Darvishian</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Gefenaite</surname>
+                     <given-names>G</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Turner</surname>
+                     <given-names>RM</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Pechlivanoglou</surname>
+                     <given-names>P</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Van der Hoek</surname>
+                     <given-names>W</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Van den Heuvel</surname>
+                     <given-names>ER</given-names>
+                  </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>After adjusting for bias in meta-analysis seasonal influenza vaccine remains effective in community-dwelling elderly</article-title>. 
+                    <source>J Clin Epidemiol</source>. 
+                    <year>2014</year>
+                    <month>Jul</month>;
+                    <volume>67</volume>(
+                    <issue>7</issue>):
+                    <fpage>734</fpage>–
+                    <lpage>44</lpage>. 
+                    <pub-id pub-id-type="doi">10.1016/j.jclinepi.2014.02.009</pub-id>
+                    <pub-id pub-id-type="pmid">24768004</pub-id>
+                    <issn>0895-4356</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b11">
+            <label>11. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Ahmed</surname>
+                     <given-names>F</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Lindley</surname>
+                     <given-names>MC</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Allred</surname>
+                     <given-names>N</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Weinbaum</surname>
+                     <given-names>CM</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Grohskopf</surname>
+                     <given-names>L</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Effect of influenza vaccination of healthcare personnel on morbidity and mortality among patients: systematic review and grading of evidence</article-title>. 
+                    <source>Clin Infect Dis</source>. 
+                    <year>2014</year>
+                    <month>Jan</month>;
+                    <volume>58</volume>(
+                    <issue>1</issue>):
+                    <fpage>50</fpage>–
+                    <lpage>7</lpage>. 
+                    <pub-id pub-id-type="doi">10.1093/cid/cit580</pub-id>
+                    <pub-id pub-id-type="pmid">24046301</pub-id>
+                    <issn>1058-4838</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b12">
+            <label>12. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Rainwater-Lovett</surname>
+                     <given-names>K</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Chun</surname>
+                     <given-names>K</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Lessler</surname>
+                     <given-names>J</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Influenza outbreak control practices and the effectiveness of interventions in long-term care facilities: a systematic review</article-title>. 
+                    <source>Influenza Other Respir Viruses</source>. 
+                    <year>2014</year>
+                    <month>Jan</month>;
+                    <volume>8</volume>(
+                    <issue>1</issue>):
+                    <fpage>74</fpage>–
+                    <lpage>82</lpage>. 
+                    <pub-id pub-id-type="doi">10.1111/irv.12203</pub-id>
+                    <pub-id pub-id-type="pmid">24373292</pub-id>
+                    <issn>1750-2640</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b13">
+            <label>13.	</label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Libow</surname>
+                     <given-names>LS</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Neufeld</surname>
+                     <given-names>RR</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Olson</surname>
+                     <given-names>E</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Breuer</surname>
+                     <given-names>B</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Starer</surname>
+                     <given-names>P</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Sequential outbreak of influenza A and B in a nursing home: efficacy of vaccine and amantadine</article-title>. 
+                    <source>J Am Geriatr Soc</source>. 
+                    <year>1996</year>
+                    <month>Oct</month>;
+                    <volume>44</volume>(
+                    <issue>10</issue>):
+                    <fpage>1153</fpage>–
+                    <lpage>7</lpage>. 
+                    <pub-id pub-id-type="doi">10.1111/j.1532-5415.1996.tb01363.x</pub-id>
+                    <pub-id pub-id-type="pmid">8855992</pub-id>
+                    <issn>0002-8614</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b14">
+            <label>14. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Eibach</surname>
+                     <given-names>D</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Casalegno</surname>
+                     <given-names>JS</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Bouscambert</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Bénet</surname>
+                     <given-names>T</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Regis</surname>
+                     <given-names>C</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Comte</surname>
+                     <given-names>B</given-names>
+                  </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>Routes of transmission during a nosocomial influenza A(H3N2) outbreak among geriatric patients and healthcare workers</article-title>. 
+                    <source>J Hosp Infect</source>. 
+                    <year>2014</year>
+                    <month>Mar</month>;
+                    <volume>86</volume>(
+                    <issue>3</issue>):
+                    <fpage>188</fpage>–
+                    <lpage>93</lpage>. 
+                    <pub-id pub-id-type="doi">10.1016/j.jhin.2013.11.009</pub-id>
+                    <pub-id pub-id-type="pmid">24468292</pub-id>
+                    <issn>0195-6701</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b15">
+            <label>15.	</label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Maltezou</surname>
+                     <given-names>HC</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Poland</surname>
+                     <given-names>GA</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Vaccination policies for healthcare workers in Europe</article-title>. 
+                    <source>Vaccine</source>. 
+                    <year>2014</year>
+                    <month>Aug</month>;
+                    <volume>32</volume>(
+                    <issue>38</issue>):
+                    <fpage>4876</fpage>–
+                    <lpage>80</lpage>. 
+                    <pub-id pub-id-type="doi">10.1016/j.vaccine.2013.10.046</pub-id>
+                    <pub-id pub-id-type="pmid">24161573</pub-id>
+                    <issn>0264-410X</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b16">
+            <label>16. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Dolan</surname>
+                     <given-names>GP</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Harris</surname>
+                     <given-names>RC</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Clarkson</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Sokal</surname>
+                     <given-names>R</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Morgan</surname>
+                     <given-names>G</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Mukaigawara</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>Vaccination of healthcare workers to protect patients at increased risk of acute respiratory disease: summary of a systematic review</article-title>. 
+                    <source>Influenza Other Respir Viruses</source>. 
+                    <year>2013</year>
+                    <month>Sep</month>;
+                    <volume>7</volume>
+                    <supplement>Suppl 2</supplement>:
+                    <fpage>93</fpage>–
+                    <lpage>6</lpage>. 
+                    <pub-id pub-id-type="doi">10.1111/irv.12087</pub-id>
+                    <pub-id pub-id-type="pmid">24034492</pub-id>
+                    <issn>1750-2640</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b17">
+            <label>17. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Finnie</surname>
+                     <given-names>TJ</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Copley</surname>
+                     <given-names>VR</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Hall</surname>
+                     <given-names>IM</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Leach</surname>
+                     <given-names>S</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>An analysis of influenza outbreaks in institutions and enclosed societies</article-title>. 
+                    <source>Epidemiol Infect</source>. 
+                    <year>2014</year>
+                    <month>Jan</month>;
+                    <volume>142</volume>(
+                    <issue>1</issue>):
+                    <fpage>107</fpage>–
+                    <lpage>13</lpage>. 
+                    <pub-id pub-id-type="doi">10.1017/S0950268813000733</pub-id>
+                    <pub-id pub-id-type="pmid">23570654</pub-id>
+                    <issn>0950-2688</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b18">
+            <label>18. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>McElhaney</surname>
+                     <given-names>JE</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Beran</surname>
+                     <given-names>J</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Devaster</surname>
+                     <given-names>JM</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Esen</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Launay</surname>
+                     <given-names>O</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Leroux-Roels</surname>
+                     <given-names>G</given-names>
+                  </name>, 
+                        <etal>et al</etal>.; 
+                        <collab>Influence65 study group</collab>
+                    </person-group>. 
+                    <article-title>AS03-adjuvanted versus non-adjuvanted inactivated trivalent influenza vaccine against seasonal influenza in elderly people: a phase 3 randomised trial</article-title>. 
+                    <source>Lancet Infect Dis</source>. 
+                    <year>2013</year>
+                    <month>Jun</month>;
+                    <volume>13</volume>(
+                    <issue>6</issue>):
+                    <fpage>485</fpage>–
+                    <lpage>96</lpage>. 
+                    <pub-id pub-id-type="doi">10.1016/S1473-3099(13)70046-X</pub-id>
+                    <pub-id pub-id-type="pmid">23518156</pub-id>
+                    <issn>1473-3099</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b19">
+            <label>19. </label>
+            <mixed-citation publication-type="web-page">"
+                    <article-title>Healthcare utilisation, OECD Health Statistics (database)</article-title>
+                    <year>2016</year>.
+                    <comment>Available from</comment>:
+                    <ext-link ext-link-type="uri"
+                         xlink:href="https://www.oecd.org/els/health-systems/Table-of-Content-Metadata-OECD-Health-Statistics-2016.pdf">https://www.oecd.org/els/health-systems/Table-of-Content-Metadata-OECD-Health-Statistics-2016.pdf</ext-link>. [ Dostop 20.8. 2018 ].
+                </mixed-citation>
+         </ref>
+         <ref id="b20">
+            <label>20. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Chiatti</surname>
+                     <given-names>C</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Barbadoro</surname>
+                     <given-names>P</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Lamura</surname>
+                     <given-names>G</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Pennacchietti</surname>
+                     <given-names>L</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Di Stanislao</surname>
+                     <given-names>F</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>D’Errico</surname>
+                     <given-names>MM</given-names>
+                  </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>Influenza vaccine uptake among community-dwelling Italian elderly: results from a large cross-sectional study</article-title>. 
+                    <source>BMC Public Health</source>. 
+                    <year>2011</year>
+                    <month>Apr</month>;
+                    <volume>11</volume>(
+                    <issue>1</issue>):
+                    <fpage>207</fpage>–
+                    <lpage>13</lpage>. 
+                    <pub-id pub-id-type="doi">10.1186/1471-2458-11-207</pub-id>
+                    <pub-id pub-id-type="pmid">21457562</pub-id>
+                    <issn>1471-2458</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b21">
+            <label>21. </label>
+            <mixed-citation publication-type="web-page">
+                 <article-title>Preventivni programi</article-title>.
+                     <comment>Available from</comment>:  
+                    <ext-link ext-link-type="uri"
+                         xlink:href="http://www.nijz.si/sites/www.nijz.si/files/uploaded/publikacije/letopisi/2015/4.1_precepljenost_2015.pdf">http://www.nijz.si/sites/www.nijz.si/files/uploaded/publikacije/letopisi/2015/4.1_precepljenost_2015.pdf</ext-link>. 
+                    <year>2018</year>.
+                </mixed-citation>
+         </ref>
+         <ref id="b22">
+            <label>22. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Carman</surname>
+                     <given-names>WF</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Elder</surname>
+                     <given-names>AG</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Wallace</surname>
+                     <given-names>LA</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>McAulay</surname>
+                     <given-names>K</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Walker</surname>
+                     <given-names>A</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Murray</surname>
+                     <given-names>GD</given-names>
+                  </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>Effects of influenza vaccination of health-care workers on mortality of elderly people in long-term care: a randomised controlled trial</article-title>. 
+                    <source>Lancet</source>. 
+                    <year>2000</year>
+                    <month>Jan</month>;
+                    <volume>355</volume>(
+                    <issue>9198</issue>):
+                    <fpage>93</fpage>–
+                    <lpage>7</lpage>. 
+                    <pub-id pub-id-type="doi">10.1016/S0140-6736(99)05190-9</pub-id>
+                    <pub-id pub-id-type="pmid">10675165</pub-id>
+                    <issn>0140-6736</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b23">
+            <label>23. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Yip</surname>
+                     <given-names>JL</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Kapadia</surname>
+                     <given-names>S</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Ahmed</surname>
+                     <given-names>A</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Millership</surname>
+                     <given-names>S</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Outbreaks of influenza-like illness in care homes in the East of England: impact of variations in neuraminidase inhibitor provision</article-title>. 
+                    <source>Public Health</source>. 
+                    <year>2018</year>
+                    <month>Sep</month>;
+                    <volume>162</volume>:
+                    <fpage>98</fpage>–
+                    <lpage>103</lpage>. 
+                    <pub-id pub-id-type="doi">10.1016/j.puhe.2018.05.028</pub-id>
+                    <pub-id pub-id-type="pmid">29990618</pub-id>
+                    <issn>0033-3506</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b24">
+            <label>24. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Hagihara</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Kato</surname>
+                     <given-names>Y</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Kurumiya</surname>
+                     <given-names>A</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Takahashi</surname>
+                     <given-names>T</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Sakata</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Kato</surname>
+                     <given-names>H</given-names>
+                  </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>The Prophylactic Effect of Anti-influenza Agents for an Influenza Outbreak in a University Hospital</article-title>. 
+                    <source>Intern Med</source>. 
+                    <year>2018</year>;
+                    <volume>57</volume>(
+                    <issue>4</issue>):
+                    <fpage>497</fpage>–
+                    <lpage>501</lpage>. 
+                    <pub-id pub-id-type="doi">10.2169/internalmedicine.8854-17</pub-id>
+                    <pub-id pub-id-type="pmid">29445061</pub-id>
+                    <issn>0918-2918</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b25">
+            <label>25. </label>
+            <mixed-citation publication-type="web-page">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Pedersen</surname>
+                     <given-names>CJ</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Quinn</surname>
+                     <given-names>JV</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Rogan</surname>
+                     <given-names>DT</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Yang</surname>
+                     <given-names>S</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Factors Associated With Influenza in an Emergency Department Setting </article-title>. 
+                    <article-title>The Journal of Emergency Medicine</article-title>. 
+                    <year>2019</year>.
+                    <volume>12</volume>(
+                    <issue>5</issue>):
+                    <fpage>619</fpage>–
+                    <lpage>24</lpage>. 
+                    <pub-id pub-id-type="doi">10.1016/j.jiph.2019.02.016</pub-id>
+                    <pub-id pub-id-type="pmid">30853219</pub-id>
+                    <issn>1876-0341</issn> 
+                </mixed-citation>
+         </ref>
+         <ref id="b26">
+            <label>26. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Pagani</surname>
+                     <given-names>L</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Thomas</surname>
+                     <given-names>Y</given-names>
+                  </name>,
+                        <name name-style="western">
+                     <surname>Huttner</surname>
+                     <given-names>B</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Sauvan</surname>
+                     <given-names>V</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Notaridis</surname>
+                     <given-names>G</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Kaiser</surname>
+                     <given-names>L</given-names>
+                  </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>Transmission and effect of multiple clusters of seasonal influenza in a Swiss geriatric hospital</article-title>. 
+                    <source>J Am Geriatr Soc</source>. 
+                    <year>2015</year>
+                    <month>Apr</month>;
+                    <volume>63</volume>(
+                    <issue>4</issue>):
+                    <fpage>739</fpage>–
+                    <lpage>44</lpage>. 
+                    <pub-id pub-id-type="doi">10.1111/jgs.13339</pub-id>
+                    <pub-id pub-id-type="pmid">25900487</pub-id>
+                    <issn>0002-8614</issn>
+                </mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>
