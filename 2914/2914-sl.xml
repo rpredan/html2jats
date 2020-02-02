@@ -1,0 +1,1933 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD with MathML3 v1.1 20151215//EN" "JATS-journalpublishing1-mathml3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink"
+         dtd-version="1.1"
+         xml:lang="sl"
+         article-type="other">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher-id">Zdrav Vestn</journal-id>
+         <journal-id journal-id-type="nlm-ta">Zdrav Vestn</journal-id>
+         <journal-id journal-id-type="doi">Zdrav Vestn</journal-id>
+         <journal-title-group>
+            <journal-title>Zdravniški vestnik</journal-title>
+            <trans-title-group xml:lang="en">
+               <trans-title>Slovenian Medical Journal</trans-title>
+            </trans-title-group>
+            <abbrev-journal-title>Zdrav Vestn</abbrev-journal-title>
+         </journal-title-group>
+         <issn publication-format="ppub" pub-type="ppub">1318-0347</issn>
+         <issn publication-format="epub" pub-type="epub">1581-0224</issn>
+         <issn-l>0350-0063</issn-l>
+         <publisher>
+            <publisher-name xml:lang="sl">Slovensko zdravniško društvo</publisher-name>
+            <publisher-name xml:lang="en">Slovenian Medical Association</publisher-name>
+            <publisher-loc xml:lang="sl">Ljubljana, Slovenia</publisher-loc>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.6016/ZdravVestn.2914</article-id>
+         <article-id pub-id-type="publisher-id">2914</article-id>
+         <article-categories>
+            <subj-group subj-group-type="discipline" xml:lang="en">
+               <subject>Medicine and health sciences</subject>
+               <subj-group>
+                  <subject>Human reproduction</subject>
+               </subj-group>
+            </subj-group>
+            <subj-group subj-group-type="discipline" xml:lang="sl">
+               <subject>Medicina/Zdravstvo</subject>
+               <subj-group>
+                  <subject>Reprodukcija človeka</subject>
+               </subj-group>
+            </subj-group>
+            <subj-group subj-group-type="article-type" xml:lang="en">
+               <subject>Review article</subject>
+            </subj-group>
+            <subj-group subj-group-type="article-type" xml:lang="sl">
+               <subject>Pregledni znanstveni članek</subject>
+            </subj-group>
+            <subj-group subj-group-type="heading" xml:lang="sl">
+               <subject>Reprodukcija človeka</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title xml:lang="sl">Diagnostični pristop pri dojenčku s spinalnim disrafizmom</article-title>
+            <trans-title-group>
+               <trans-title xml:lang="en">Diagnostic approach in an infant with spinal dysraphism</trans-title>
+            </trans-title-group>
+            <alt-title alt-title-type="running-head" xml:lang="sl">Diagnostični pristop pri dojenčku s spinalnim disrafizmom</alt-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Šuštar</surname>
+                  <given-names>Nataša</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1">1</xref>
+            </contrib>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Paro Panjan</surname>
+                  <given-names>Darja</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff2">2</xref>
+            </contrib>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Kljucevsek</surname>
+                  <given-names>Damjana</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff3">3</xref>
+            </contrib>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Neubauer</surname>
+                  <given-names>David</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1">1</xref>
+            </contrib>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Spazzapan</surname>
+                  <given-names>Peter</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff4">4</xref>
+            </contrib>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Soltirovska Šalamon</surname>
+                  <given-names>Aneta</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff2">2</xref>
+               <xref ref-type="corresp" rid="corr"/>
+            </contrib>
+         </contrib-group>
+         <aff-alternatives id="aff1">
+            <aff xml:lang="sl">
+               <label>1</label>
+               <institution>Klinični oddelek za otroško, mladostniško in razvojno nevrologijo, Pediatrična klinika, Univerzitetni klinični center Ljubljana, Ljubljana, Slovenija</institution>
+            </aff>
+            <aff xml:lang="en">
+               <label>1</label>
+               <institution>Department of Child, Adolescent and Developmental Neurology, Division of Paediatrics, University Medical Centre Ljubljana, Ljubljana, Slovenia</institution>
+            </aff>
+         </aff-alternatives>
+         <aff-alternatives id="aff2">
+            <aff xml:lang="sl">
+               <label>2</label>
+               <institution>Klinični oddelek za neonatologijo, Pediatrična klinika, Univerzitetni klinični center Ljubljana, Ljubljana, Slovenija</institution>
+            </aff>
+            <aff xml:lang="en">
+               <label>2</label>
+               <institution>Neonatal Unit, Division of Paediatrics, University Medical Centre Ljubljana, Ljubljana, Slovenia</institution>
+            </aff>
+         </aff-alternatives>
+         <aff-alternatives id="aff3">
+            <aff xml:lang="sl">
+               <label>3</label>
+               <institution>Služba za radiologijo, Pediatrična klinika, Univerzitetni klinični center Ljubljana, Ljubljana, Slovenija</institution>
+            </aff>
+            <aff xml:lang="en">
+               <label>3</label>
+               <institution>Unit of radiology, Division of Paediatrics, University Medical Centre Ljubljana, Ljubljana, Slovenia</institution>
+            </aff>
+         </aff-alternatives>
+         <aff-alternatives id="aff4">
+            <aff xml:lang="sl">
+               <label>4</label>
+               <institution>Klinični oddelek za nevrokirurgijo, Kirurška klinika, Univerzitetni klinični center Ljubljana, Ljubljana, Slovenija</institution>
+            </aff>
+            <aff xml:lang="en">
+               <label>4</label>
+               <institution>Department of Neurosurgery, Division of Surgery, University Medical Centre Ljubljana, Ljubljana, Slovenia</institution>
+            </aff>
+         </aff-alternatives>
+         <author-notes>
+            <fn fn-type="conflict" xml:lang="en">
+               <p>The authors have declared that no competing interests exist.</p>
+            </fn>
+            <fn fn-type="conflict" xml:lang="sl">
+               <p>Avtorji so izjavili, da ne obstajajo nobeni konkurenčni interesi.</p>
+            </fn>
+            <corresp id="corr">Aneta Soltirovska Šalamon, e-mail: <email xlink:type="simple"/>
+            </corresp>
+         </author-notes>
+         <pub-date pub-type="ppub">
+            <month>12</month>
+            <year>2019</year>
+         </pub-date>
+         <pub-date pub-type="epub">
+            <month>12</month>
+            <year>2019</year>
+         </pub-date>
+         <volume>88</volume>
+         <issue>11–12</issue>
+         <fpage>539</fpage>
+         <lpage>53</lpage>
+         <history>
+            <date date-type="received">
+               <day>6</day>
+               <month>1</month>
+               <year>2019</year>
+            </date>
+            <date date-type="accepted">
+               <day>30</day>
+               <month>3</month>
+               <year>2019</year>
+            </date>
+         </history>
+         <permissions>
+            <copyright-statement xml:lang="en">Copyright © 2019, Slovenian Medical Association (SZD)</copyright-statement>
+            <copyright-statement xml:lang="sl">© 2019, Slovensko zdravniško društvo (SZD)</copyright-statement>
+            <copyright-year>2019</copyright-year>
+            <copyright-holder xml:lang="en">Slovenian Medical Association (SZD)</copyright-holder>
+            <copyright-holder xml:lang="sl">Slovensko zdravniško društvo (SZD)</copyright-holder>
+            <license xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                     xlink:type="simple"
+                     xml:lang="en">
+               <license-p>This is an open access article distributed under the terms of the
+          <ext-link ext-link-type="uri"
+                            xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                            xlink:type="simple">Creative Commons Attribution-NonCommercial
+            License</ext-link>, which permits unrestricted use, distribution, and
+          reproduction in any medium, provided the original author and source are
+          credited and only for non-commercial purposes. </license-p>
+            </license>
+            <license xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                     xlink:type="simple"
+                     xml:lang="sl">
+               <license-p>To je članek z odprtim dostopom, ki ga lahko uporabite pod pogoji iz
+          <ext-link ext-link-type="uri"
+                            xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                            xlink:type="simple">Creative Commons Priznanje avtorstva-Nekomercialno
+            licence</ext-link>. ki dovoljuje distribucijo, predelavo ali
+          prilagoditev, ter gradijo na njem, v nekomercialne namene, z navedbo avtorja
+          in izvirnega dela.</license-p>
+            </license>
+         </permissions>
+         <abstract xml:lang="sl">
+            <title>Izvleček</title>
+            <p>Spinalni disrafizmi so prirojene nepravilnosti hrbtenjače in spinalnega kanala, ki nastanejo zaradi motenj zapiranja nevralne cevi v zgodnjem embrionalnem razvoju. Glede na kožno kritje jih delimo na odprte in zaprte. Odprte disrafizme prepoznamo že s prenatalno diagnostiko, težja pa je prepoznava zaprtih (okultnih) stanj. Pri slednjih so nam pri diagnostiki v pomoč določeni kožni znaki nad hrbtenico, ki so prisotni pri več kot polovici bolnikov. Ultrazvočna preiskava spinalnega kanala je v prvih mesecih starosti, dokler hrbtenica ne zakosteni, metoda izbire v diagnostiki okultnih spinalnih disrafizmov. Sicer je najobčutljivejše diagnostično orodje magnetno resonančno slikanje, ki predstavlja tudi zlati standard predoperativne diagnostike. Zgodnja prepoznava je pomembna tudi v primerih asimptomatskih stanj, ker s tem omogočimo pravočasno kirurško zdravljenje otrok, pri katerih obstaja večje tveganje za nastanek nenadnih zapletov ali nepovratnih nevroloških posledic. V članku smo povzeli klinične in radiološke značilnosti posameznih disrafičnih stanj, ter oblikovali diagnostični algoritem, z namenom poenotenja zgodnje obravnave otrok s spinalnim disrafizmom.</p>
+         </abstract>
+         <trans-abstract xml:lang="en">
+            <title>Abstract</title>
+            <p>Spinal dysraphisms are congenital malformations of the spinal cord and spine that occur due to impaired closure of the neural tube in early embryogenesis. According to the skin coverage, they are divided into open and closed types. While open dysraphisms can be identified by prenatal investigations, the diagnosis of a closed (occult) dysraphic state is more difficult to establish. There are specific skin signs over the spine in more than half of these patients, which can help with early diagnosis. Ultrasonography of the spine and spinal cord is the method of choice in the diagnostics of occult spinal dysraphism in the first months of life, until the spine is closed. The most sensitive diagnostic tool is magnetic resonance imaging, which also represents the gold standard of preoperative diagnostics. Early diagnosis is important in asymptomatic conditions, as this allows timely surgical treatment of children, who are at greater risk of sudden onset of complications or neurological sequelae. In the article, we summarised clinical and radiological characteristics of dysraphic conditions and formed a diagnostic algorithm to unify an approach in a child with spinal dysraphism in the first months of life.</p>
+         </trans-abstract>
+         <kwd-group xml:lang="sl">
+            <kwd>okultni disrafizmi</kwd>
+            <kwd>kožne jamice</kwd>
+            <kwd>slikovne metode</kwd>
+            <kwd>diagnostični algoritem</kwd>
+         </kwd-group>
+         <kwd-group xml:lang="en">
+            <kwd>occult dysraphisms</kwd>
+            <kwd>skin dimples</kwd>
+            <kwd>imaging techniques</kwd>
+            <kwd>diagnostic algorithm</kwd>
+         </kwd-group>
+      </article-meta>
+   </front>
+   <body>
+      <sec id="s1" sec-type="Uvod">
+         <label>1</label>
+         <title>Uvod</title>
+         <p>Spinalni disrafizmi (SD) so heterogena skupina prirojenih nepravilnosti hrbtenjače in spinalnega kanala. Sodijo med najpogostejše malformacije in se pojavljajo pri 1–2/1000 živorojenih otrok (<xref ref-type="bibr" rid="b1">1</xref>). Nastanejo zaradi nepravilnega zapiranja in oblikovanja nevralne cevi v zgodnjem embrionalnem razvoju, zaradi delovanja določenih dejavnikov iz okolja ali genetskih sprememb (<xref ref-type="bibr" rid="b1">1</xref>,<xref ref-type="bibr" rid="b2">2</xref>). Med najbolj znanimi dejavniki tveganja za pojav SD so genetska predispozicija, sladkorna bolezen matere, jemanje določenih protiepileptičnih zdravil (valproat, karbamazepin), debelost, febrilno stanje v prvih tednih nosečnosti in pomanjkanje folne kisline v prehrani nosečnice (<xref ref-type="bibr" rid="b3">3</xref>-<xref ref-type="bibr" rid="b6">6</xref>). Incidenca se je v zadnjih dveh desetletjih zmanjšala zaradi profilakse s folno kislino, prenatalne diagnostike in genetskega svetovanja pri družinski obremenjenosti (<xref ref-type="bibr" rid="b5">5</xref>,<xref ref-type="bibr" rid="b6">6</xref>).</p>
+         <p>Glede na kožno kritje SD delimo na odprte in zaprte SD. Odprte SD prepoznamo že s prenatalno diagnostiko, zaprte pa večinoma po rojstvu. Slednji, ki jih imenujemo tudi okultni spinalni disrafizmi (OSD), so lahko dalj časa klinično nemi. Ocenjuje se, da ima 43–95 % teh bolnikov nad hrbtenico določene kožne znake, zaradi katerih lažje posumimo na SD (<xref ref-type="bibr" rid="b7">7</xref>-<xref ref-type="bibr" rid="b13">13</xref>). Pri 75 % zaprtih SD se razvije sindrom vpete hrbtenjače, ki se lahko izrazi v kateri koli starosti in za katerega je značilen progresivni potek (<xref ref-type="bibr" rid="b14">14</xref>,<xref ref-type="bibr" rid="b15">15</xref>).</p>
+         <p>V prvih treh mesecih starosti, dokler telesa, loki in izrastki vretenc ne zakostenijo, je ultrazvočna preiskava (UZ) spinalnega kanala metoda izbire za prepoznavanje SD (<xref ref-type="bibr" rid="b1">1</xref>). Končno diagnozo pa v vseh primerih postavimo z magnetno resonančnim slikanjem (MRI), ki je najbolj občutljiva in specifična slikovna metoda pri diagnosticiranju SD (<xref ref-type="bibr" rid="b2">2</xref>). Pomembno je, da zgodaj prepoznamo tudi stanja brez simptomov ter s tem omogočimo pravočasno kirurško zdravljenje otrok, pri katerih obstaja večje tveganje za nastanek nenadnih zapletov ali nepovratnih nevroloških posledic. Uspeh operacije je pri večini odvisen od vrste spremembe, teže nevrološke okvare in časa, ki preteče od pojava klinične slike do operacije (<xref ref-type="bibr" rid="b6">6</xref>,<xref ref-type="bibr" rid="b14">14</xref>,<xref ref-type="bibr" rid="b15">15</xref>).</p>
+      </sec>
+      <sec id="s2" sec-type="Embrionalni razvoj hrbtenjače in klasifikacija SD">
+         <label>2</label>
+         <title>Embrionalni razvoj hrbtenjače in klasifikacija SD</title>
+         <p>Razvoj hrbtenjače poteka od 2. do 6. tedna gestacije (GS) v treh zaporednih fazah: gastrulacija, primarna nevrulacija in sekundarna nevrulacija (<xref ref-type="bibr" rid="b2">2</xref>,<xref ref-type="bibr" rid="b10">10</xref>).</p>
+         <p>Med 2. in 3. tednom GS, med procesom <italic>gastrulacije</italic>, iz dvoslojnega embrionalnega diska, ki ga sestavljata epiblast in hipoblast, nastane trislojni disk, iz katerega se razvijejo ektoderm, mezoderm in endoderm. Iz srednjega dela mezoderma nastane notohorda, ki v povezavi z ektodermalnim slojem tvori nevroektoderm in nevralno ploščo (<xref ref-type="bibr" rid="b2">2</xref>,<xref ref-type="bibr" rid="b10">10</xref>,<xref ref-type="bibr" rid="b16">16</xref>).</p>
+         <p>
+            <italic>Primarna nevrulacija</italic>, ki poteka med 3. in 4. tednom GS, je proces preoblikovanja nevralne plošče v nevralno cev. V 17. dnevu se zadebelita stranska dela nevralne plošče. Celice na stičišču nevroektoderma in kožnega ektoderma se diferencirajo v celice nevralnega grebena.</p>
+         <p>Kontraktilni filamenti nevroepitelnih celic nevralnih grebenov z gubanjem stranskih delov preoblikujejo nevralno ploščo v nevralni žleb vzdolž nevralne osi. Med 21. in 23. dnem se nevralni žleb v središčni liniji združi in nastane nevralna cev. Sledi <italic>disjunkcija </italic>– ločevanje nevralne cevi od ektoderma, ki poteka po površini. Kranialni del (anteriorna nevropora) se zapre 25. dan, kavdalni konec (posteriorna nevropora – raven S2) pa med 27. in 28. dnem.</p>
+         <p>Zaprta nevralna cev je osnova za razvoj celotnega osrednjega živčevja. Mezodermalne strukture prodirajo dorzalno v predel med ektodermom in nevralno cevjo in so osnova za razvoj možganskih ovojnic, vretenc in paraspinalnih mišic (<xref ref-type="bibr" rid="b10">10</xref>,<xref ref-type="bibr" rid="b15">15</xref>,<xref ref-type="bibr" rid="b16">16</xref>).</p>
+         <p>Sledi <italic>sekundarna nevrulacija</italic>, ki poteka do 6. tedna GS, med katero se razvije kavdalni del nevralne cevi od ravni S2 navzdol. Med kavdalnim koncem nevralne cevi in notohordo nastane med 16. in 19. dnem kavdalna celična masa iz nediferenciranih pluripotentnih celic. Sledi retrogradna diferenciacija, ko se preko zapletenih procesov apoptoze in nadaljnje diferenciacije povežeta kavdalni konec nevralne cevi in notohorda. Iz kavdalne celične mase nastaneta konus in filum hrbtenjače (<xref ref-type="bibr" rid="b2">2</xref>,<xref ref-type="bibr" rid="b10">10</xref>,<xref ref-type="bibr" rid="b16">16</xref>).</p>
+         <p>Med 43. in 48. dnem GS se prične hrbtenjača zaradi rasti spinalnega kanala navidezno vzpenjati, ker kostne strukture rastejo hitreje kot živčevje. Konus hrbtenjače je pri otrocih do 2. meseca starosti na višini med L2 in L3, po 2. mesecu pa doseže fiziološko raven med L1 in L2 (<xref ref-type="bibr" rid="b1">1</xref>,<xref ref-type="bibr" rid="b10">10</xref>,<xref ref-type="bibr" rid="b15">15</xref>).</p>
+         <p>Motnje razvoja hrbtenjače in spinalnega kanala v različnih embrionalnih fazah vodijo v nastanek heterogenih oblik SD. Za njihov nastanek sta značilna dva procesa: nepopolna združitev osrednjih struktur in motena diferenciacija tkiv zunaj in znotraj spinalnega kanala (<xref ref-type="bibr" rid="b10">10</xref>,<xref ref-type="bibr" rid="b16">16</xref>). V <xref ref-type="table" rid="table1">Tabeli 1</xref> je prikazana embriološka klasifikacija SD, ki temelji na novejših spoznanjih patogeneze disrafičnih stanj med razvojem hrbtenjače (<xref ref-type="bibr" rid="b17">17</xref>). Na podlagi embriološke klasifikacije je razvrščanje SD postalo razumljivejše, predvsem pa bolj poenoteno kot vklinično-radioloških klasifikacijah (<xref ref-type="bibr" rid="b10">10</xref>,<xref ref-type="bibr" rid="b16">16</xref>,<xref ref-type="bibr" rid="b17">17</xref>). Embriološka umestitev SD je v pomoč pri oceni obsega malformacije, načrtovanju kirurškega zdravljenja ter razumevanju teže klinične slike.</p>
+         <table-wrap position="anchor" id="table1">
+            <label>Tabela 1:</label>
+            <caption>
+               <p> Embriološka klasifikacija spinalnih disrafizmov, povzeto po Acharya in sod., 2017 (<xref ref-type="bibr" rid="b17">17</xref>).</p>
+            </caption>
+            <table>
+               <colgroup>
+                  <col/>
+                  <col/>
+               </colgroup>
+               <thead>
+                  <tr>
+                     <th colspan="2">Embriološka klasifikacija spinalnih disrafizmov</th>
+                  </tr>
+               </thead>
+               <tbody>
+                  <tr>
+                     <td>A</td>
+                     <td>ANOMALIJE GASTRULACIJE</td>
+                  </tr>
+                  <tr>
+                     <td>1</td>
+                     <td>Motnje v nastanku notohorde</td>
+                  </tr>
+                  <tr>
+                     <td>a</td>
+                     <td>Kavdalni regresijski sindrom</td>
+                  </tr>
+                  <tr>
+                     <td>b</td>
+                     <td>Segmentna spinalna disgenezija</td>
+                  </tr>
+                  <tr>
+                     <td>2</td>
+                     <td>Motnje vzdolžne integracije notohorde</td>
+                  </tr>
+                  <tr>
+                     <td>a</td>
+                     <td>Neuroenterična cista</td>
+                  </tr>
+                  <tr>
+                     <td>b</td>
+                     <td>Dorzalna enterična fistula</td>
+                  </tr>
+                  <tr>
+                     <td>c</td>
+                     <td>Diastematomielija</td>
+                  </tr>
+                  <tr>
+                     <td>B</td>
+                     <td>ANOMALIJE PRIMARNE NEVRULACIJE</td>
+                  </tr>
+                  <tr>
+                     <td>1</td>
+                     <td>Prezgodnja disjunkcija</td>
+                  </tr>
+                  <tr>
+                     <td>a</td>
+                     <td>Lipomielomeningokela</td>
+                  </tr>
+                  <tr>
+                     <td>b</td>
+                     <td>Lipomielokela</td>
+                  </tr>
+                  <tr>
+                     <td>c</td>
+                     <td>Intraduralni lipom</td>
+                  </tr>
+                  <tr>
+                     <td>2</td>
+                     <td>Nedisjunkcija / Nepopolna disjunkcija</td>
+                  </tr>
+                  <tr>
+                     <td>a</td>
+                     <td>Dermalni sinus</td>
+                  </tr>
+                  <tr>
+                     <td>b</td>
+                     <td>Mielomeningokela</td>
+                  </tr>
+                  <tr>
+                     <td>c</td>
+                     <td>Mielokela</td>
+                  </tr>
+                  <tr>
+                     <td>C</td>
+                     <td>
+                        <p>ANOMALIJE GASTRULACIJE IN</p>
+                        <p>PRIMARNE NEVRULACIJE</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td>1</td>
+                     <td>Hemimielokela</td>
+                  </tr>
+                  <tr>
+                     <td>2</td>
+                     <td>Hemimielomeningokela</td>
+                  </tr>
+                  <tr>
+                     <td>D</td>
+                     <td>
+                        <p>ANOMALIJE SEKUNDARNE NEVRULACIJE</p>
+                        <p>IN RETROGRADNE DIFERENCIACIJE</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td>1</td>
+                     <td>Nenormalno dolga hrbtenjača</td>
+                  </tr>
+                  <tr>
+                     <td>2</td>
+                     <td>Perzistentni terminalni ventrikel</td>
+                  </tr>
+                  <tr>
+                     <td>3</td>
+                     <td>Zadebeljen terminalni filum</td>
+                  </tr>
+                  <tr>
+                     <td>4</td>
+                     <td>Intrasakralna anteriorna sakralna meningokela</td>
+                  </tr>
+                  <tr>
+                     <td>5</td>
+                     <td>Terminalna mielocistokela</td>
+                  </tr>
+               </tbody>
+            </table>
+         </table-wrap>
+         <p>V preteklih klasifikacijah je prihajalo do neskladij v razvrščanju določenih disrafizmov glede na klinične in radiološke značilnosti. Toda klinična delitev na odprte in zaprte SD pa je še vedno aktualna, saj je najbolj uporabna pri diagnostičnem pristopu ob sumu na SD (<xref ref-type="bibr" rid="b10">10</xref>). Tako smo za oblikovanje diagnostičnega algoritma obravnave dojenčka s SD v članku sledili klinični klasifikaciji.</p>
+      </sec>
+      <sec id="s3" sec-type="Odprti SD">
+         <label>3</label>
+         <title>Odprti SD</title>
+         <p>Pri odprtih SD so tkiva izpostavljena zunanjemu okolju. Več kot 98 % odprtih SD predstavlja <italic>mielomeningokela (MMK),</italic> pri kateri nevralna plakoda – hrbtenjača, vključno z meningealnimi ovojnicami, prehaja navzven skozi posteriorno kostno in kožno okvaro. V Evropi je srednja incidenca MMK 0,41–1,9/1000 rojstev (<xref ref-type="bibr" rid="b1">1</xref>,<xref ref-type="bibr" rid="b2">2</xref>,<xref ref-type="bibr" rid="b18">18</xref>). Najpogosteje se nahaja v ledveno-križnično (44 %), redkeje pa v prsno ledvenem (32 %) in ledvenem (22 %) delu (<xref ref-type="bibr" rid="b1">1</xref>,<xref ref-type="bibr" rid="b2">2</xref>).</p>
+         <p>Klinična slika MMK je odvisna od umestitve in obsega okvare. Pri novorojenčku ugotavljamo različno stopnjo ohlapne pareze spodnjih udov, moteno delovanje sfinktrov, dislokacijo kolkov ali deformacije stopal. Diagnozo MMK postavimo prenatalno z določitvijo alfa fetoproteina v materinem serumu ali pri aminocentezi in z UZ preiskavo ploda (<xref ref-type="bibr" rid="b2">2</xref>,<xref ref-type="bibr" rid="b19">19</xref>). UZ znaki prenatalne diagnostike so: oblikovanost prizadetih vretenc v obliki črke C ali U, prekinitev kožnega pokrova, nevralna plakoda na področju okvare, zoženje lobanje v čelnem delu (»znak limone«), ventrikulomegalija in majhna zadnja lobanjska kotanja z utesnitvijo malih možganov (<xref ref-type="bibr" rid="b19">19</xref>). Po rojstvu pa UZ spinalnega kanala ni indiciran zaradi možne okužbe okolici izpostavljenih tkiv. Opravimo pa UZ glave, ki pokaže znake malformacije Arnold Chiari tip II (AC II), kot so hipoplazija korpusa kalozuma, plitka zadnja lobanjska kotanja, navzdol pomaknjena pons in zgornji del hrbtenjače ter prehajanje cerebelarnih tonzil skozi foramen magnum (<xref ref-type="bibr" rid="b1">1</xref>,<xref ref-type="bibr" rid="b18">18</xref>,<xref ref-type="bibr" rid="b20">20</xref>). MRI spinalnega kanala in glave opravimo v okviru priprave na operacijo, kirurško kritje pa je potrebno v 48–72 urah po rojstvu. Kljub uspešni kirurški popravi ostanejo nevrološki primanjkljaji na področju motorike, kot so flakcidna pareza mišic z oslabljenimi ali odsotnimi kitnimi refleksi, motnje senzibilitete, ki lahko vodijo v razvoj trofičnih razjed, motnje odvajanja vode in blata ter nižja inteligentnost. Ortopedske deformacije, kot so skolioza, kifoza ali deformacije stopal, so lahko prisotne že ob rojstvu in sčasoma napredujejo (<xref ref-type="bibr" rid="b15">15</xref>,<xref ref-type="bibr" rid="b20">20</xref>).</p>
+         <p>Kmalu po zaprtju MMK se pri več kot polovici bolnikov razvije <italic>hidrocefalus</italic>. Za razrešitev je potrebna vstavitev ventrikulo-peritonealne drenaže ali endoskopska ventrikulostomija (<xref ref-type="bibr" rid="b2">2</xref>). <italic>AC II</italic> ima glede ugotovitve pri slikovnih preiskavah 99 % otrok z MMK. Večina je brez simptomov, pri 10–30 % pa se zaradi utesnitve možganskega debla pojavijo motnje požiranja, centralne apneje, pareza glasilk, spastičnost in drugi znaki, zaradi katerih je potrebna kraniocervikalna dekompresija (<xref ref-type="bibr" rid="b1">1</xref>,<xref ref-type="bibr" rid="b2">2</xref>). <italic>Sindrom vpete hrbtenjače</italic> se po kirurški popravi MMK pojavi v 20–30 %, zato ti otroci potrebujejo nov poseg (<xref ref-type="bibr" rid="b1">1</xref>). <italic>Hidromielija in siringomielija</italic> sta prisotni v 40–80 %, <italic>diastematomielija </italic>oz. vzdolžno razcepljena hrbtenjača pa v 20–40 %, vendar so večinoma klinično neme. Kakovost življenja po operaciji MKK je odvisna od prirojenih izpadov ter dolgotrajne (doživljenske) rehabilitacije (<xref ref-type="bibr" rid="b1">1</xref>,<xref ref-type="bibr" rid="b15">15</xref>).</p>
+         <p>Med odprte SD uvrščamo tudi <italic>hemimielomeningokelo, </italic>ki je<italic> </italic>zelo redko stanje, pri katerem MMK zajema en del razcepljene hrbtenjače oz. diastematomielije (<xref ref-type="bibr" rid="b2">2</xref>,<xref ref-type="bibr" rid="b18">18</xref>).</p>
+      </sec>
+      <sec id="s4" sec-type="Zaprti SD">
+         <label>4</label>
+         <title>Zaprti SD</title>
+         <sec id="s4.1" sec-type="Kožna znamenja">
+            <label>4.1</label>
+            <title>Kožna znamenja</title>
+            <p>Za večino okultnih stanj velja, da so dalj časa brez simptomov, zato diagnozo navadno postavimo v kasnejših obdobjih oz. ob pojavu kliničnih znakov (<xref ref-type="bibr" rid="b2">2</xref>). Prepoznava OSD v prvih mesecih starosti je namreč mogoča pri tistih otrocih, pri katerih je prisotna klinična slika, zaradi katere postavimo sum na SD: podkožna masa v predelu hrbtenice, pareza spodnjih udov, asimetrija gibanja, motnje odvajanja, anogenitalne in genitourinarne malformacije, deformacije hrbtenice (skolioza, agenezija križnice) ter asimetrija velikosti in obsegov spodnjih udov. Na OSD pomislimo tudi pri novorojenčkih, pri katerih nad hrbtenico najdemo določene kožne spremembe. Te se pri zdravih otrocih po ocenah različnih raziskav pojavljajo skupno v 2–8 % (<xref ref-type="bibr" rid="b7">7</xref>,<xref ref-type="bibr" rid="b9">9</xref>,<xref ref-type="bibr" rid="b11">11</xref>,<xref ref-type="bibr" rid="b12">12</xref>,<xref ref-type="bibr" rid="b21">21</xref>,<xref ref-type="bibr" rid="b22">22</xref>). Moramo pa poznati določene značilnosti, ki ločijo nepomembne kožne spremembe od tistih, zaradi katerih postavimo sum na OSD, da ne bi vseh otrok, pri katerih najdemo kožne spremembe nad hrbtenico, obravnavali brez potrebe (<xref ref-type="bibr" rid="b12">12</xref>).</p>
+            <p>Klinično nepomembna oz. <italic>enostavna kožna jamica</italic> se nahaja medialno nad križnico, v razdalji manj kot 2,5 cm od anusa, je manjša od 5 mm v premeru in se pojavlja samostojno (<xref ref-type="bibr" rid="b7">7</xref>,<xref ref-type="bibr" rid="b23">23</xref>). Enostavni sta tudi kožni jamici, ki ju imenujemo »fossae lumbales« ali »dimples of Venus«, ki ležita simetrično, paramedialno nad križnico in sta prisotni pri spodaj ležečih krajših ligamentih sakroiliakalnih sklepov (<xref ref-type="bibr" rid="b12">12</xref>). <italic>Atipične kožne jamice,</italic> ki opozarjajo na OSD, pa se nahajajo medialno ali paramedialno nad hrbtenico, v razdalji več kot 2,5 cm nad anusom, imajo premer več kot 5 mm in se pojavljajo samostojno, v večjem številu ali v povezavi z drugimi kožnimi spremembami (<xref ref-type="bibr" rid="b2">2</xref>,<xref ref-type="bibr" rid="b7">7</xref>,<xref ref-type="bibr" rid="b14">14</xref>,<xref ref-type="bibr" rid="b20">20</xref>,<xref ref-type="bibr" rid="b24">24</xref>). <italic>Kožni znaki nad hrbtenico,</italic> ki prav tako opozarjajo na SD, so spremenjena barva kože, lokalna poraščenost ali šopek las, kapilarni hemangiomi, atretična meningokela, kožni izrastek ali rudimentarni repek, asimetrija glutealnih gub in razcepljena glutealna brazda (<xref ref-type="bibr" rid="b12">12</xref>,<xref ref-type="bibr" rid="b15">15</xref>). Prav je, da poznamo tudi kožne spremembe nad hrbtenico, ki ne kažejo na OSD: mongolska pega, »café au lait«, hipo/hipermelanotične makule ali papule in majhni infantilni hemangiomi.</p>
+            <p>Prisotnost dveh ali več kožnih znakov pomeni večje tveganje za OSD. Ocenjuje se, da so v treh četrtinah kožne jamice enostavne in da je možnost OSD pri teh tako redka kot v splošni populaciji brez kožnih sprememb (<xref ref-type="bibr" rid="b1">1</xref>,<xref ref-type="bibr" rid="b7">7</xref>,<xref ref-type="bibr" rid="b13">13</xref>,<xref ref-type="bibr" rid="b25">25</xref>). UZ spinalnega kanala pri novorojenčku ob najdbi enostavne jamice ni potreben, otroka s kožnimi znaki, ki opozarjajo na OSD, pa napotimo na UZ v prvih treh mesecih starosti, dokler hrbtenica ne zakosteni (<xref ref-type="bibr" rid="b20">20</xref>,<xref ref-type="bibr" rid="b26">26</xref>,<xref ref-type="bibr" rid="b27">27</xref>). UZ se je zaradi dobre preglednosti v prvih mesecih in obenem logističnih prednosti pred MRI izkazal za preiskavno metodo izbire v zgodnji prepoznavi OSD. Spremembe na UZ spinalnega kanala, ki kažejo na SD, so intraspinalna masa, konus hrbtenjače pod ravnijo L2–L3 do 2. meseca starosti ali pod L1–L2 po 2. mesecu, zmanjšana ali odsotna motiliteta konusa, spinalni lipom, filum debeline več kot 2 mm in dermalni sinus (<xref ref-type="fig" rid="fig1">Slika 1</xref>). MRI pa je v zgodnji diagnostiki pomemben pri novorojenčkih z visokim tveganjem in s kliničnimi znaki, anogenitalnimi malformacijami ali znaki sindromov, pri katerih je možen SD (<xref ref-type="bibr" rid="b10">10</xref>,<xref ref-type="bibr" rid="b15">15</xref>,<xref ref-type="bibr" rid="b18">18</xref>). Ob zgodnji prepoznavi OSD je v praksi odločitev o kirurškem zdravljenju v času, ko otrok še nima izraženih kliničnih znakov, individualna in je odvisna od vrste in obsega sprememb, prisotnih na MRI, odločitve kirurga in mnenja otrokovih staršev ali skrbnikov, razen pri dermalnem sinusu, pri katerem je zaradi visokega tveganja za okužbo odstranitev potrebna v vsakem primeru (<xref ref-type="bibr" rid="b9">9</xref>,<xref ref-type="bibr" rid="b15">15</xref>).</p>
+            <fig position="anchor" id="fig1">
+               <label>Slika 1:</label>
+               <caption>
+                  <p> UZ spinalnega kanala: Normalno položen conus medullaris v višini spodnjega roba L1.</p>
+               </caption>
+               <p>
+                  <graphic xlink:href="2914-web-resources/image/zdravvestn-2914-sl-01.png"/>
+               </p>
+            </fig>
+         </sec>
+         <sec id="s4.2" sec-type="Fiziološke variante">
+            <label>4.2</label>
+            <title>Fiziološke variante</title>
+            <p>Fiziološke variante so klinično nepomembne. <italic>Terminalni ventrikel</italic> je majhna cista, obdana z ependimom, ki se nahaja na prehodu konusa hrbtenjače v filum. Vzdolžni premer meri do 10 mm, prečni pa 2–4 mm in je večinoma prisoten le v prvih tednih po rojstvu (<xref ref-type="bibr" rid="b1">1</xref>,<xref ref-type="bibr" rid="b18">18</xref>). Med fiziološke variante spadajo še <italic>prehodno razširjen centralni kanal hrbtenjače, </italic>ki se normalno zoži po prvem tednu (<xref ref-type="bibr" rid="b1">1</xref>,<xref ref-type="bibr" rid="b18">18</xref>,<xref ref-type="bibr" rid="b20">20</xref>), <italic>cista znotraj filuma</italic> brez drugih sprememb in <italic>psevdosinus </italic>ali <italic>pilonidalni </italic>
+               <italic>sinus </italic>– fibrozni traček, ki poteka od enostavne kožne jamice do trtice (<xref ref-type="bibr" rid="b18">18</xref>,<xref ref-type="bibr" rid="b20">20</xref>).</p>
+            <p>Med klinično nepomembne OSD uvrščamo <italic>spino </italic>
+               <italic>bifido okulto</italic>, pri kateri so zadnji loki vretenc odsotni ali nepopolno zraščeni. Ocenjuje se, da je prisotna pri 4 % splošne populacije in samostojno ne povzroča težav (<xref ref-type="bibr" rid="b16">16</xref>). Najpogosteje se nahaja ledvenokrižnično, označuje pa jo lahko kožna jamica ali lokalna poraščenost (<xref ref-type="bibr" rid="b28">28</xref>).</p>
+         </sec>
+         <sec id="s4.3" sec-type="Klinično pomembni zaprti SD">
+            <label>4.3</label>
+            <title>Klinično pomembni zaprti SD</title>
+            <p>Glede na klinično klasifikacijo jih delimo na <italic>SD s podkožno maso</italic> (spinalni lipomi, ki prehajajo duro, meningokela in mielocistokela) in <italic>SD brez podkožne mase</italic> (dermalni sinus, intraduralni lipom, lipom filuma in kompleksni disrafizmi).<italic> </italic>Pri večini se klinična slika razvije zaradi sindroma vpete hrbtenjače ali pritiska na hrbtenjačo (<xref ref-type="bibr" rid="b10">10</xref>,<xref ref-type="bibr" rid="b16">16</xref>).</p>
+         </sec>
+         <sec id="s4.4" sec-type="Vpeta hrbtenjača">
+            <label>4.4</label>
+            <title>Vpeta hrbtenjača</title>
+            <p>Hrbtenjača je vpeta pri vseh odprtih SD, pri zaprtih pa zaradi spinalnih lipomov, dermalnega sinusa, distematomielije in drugih kompleksnih disrafizmov. Med embrionalnim razvojem je zaradi vpete hrbtenjače onemogočena »ascendenca« hrbtenjače na fiziološko raven (<xref ref-type="bibr" rid="b18">18</xref>). Z UZ pri novorojenčku prikažemo dorzalno lego konusa z ravnijo pod L2–3, večji z likvorjem izpolnjen prostor ventralno in odsotnost motilitete konusa ter korenin živcev (<xref ref-type="bibr" rid="b1">1</xref>) (<xref ref-type="fig" rid="fig2">Slika 2</xref>).</p>
+            <fig position="anchor" id="fig2">
+               <label>Slika 2:</label>
+               <caption>
+                  <p> UZ spinalnega kanala: Vpeta hrbtenjača pri štiridnevnem dečku z žilnim znamenjem velikosti 3 × 1 cm nad trtico, kožno jamico in kožnim izrastkom na koncu trtice.</p>
+               </caption>
+               <p>
+                  <graphic xlink:href="2914-web-resources/image/zdravvestn-2914-sl-02.png"/>
+               </p>
+            </fig>
+            <p>Raven konusa hrbtenjače določimo klinično s štetjem vretenec po različnih metodah (<xref ref-type="bibr" rid="b15">15</xref>,<xref ref-type="bibr" rid="b18">18</xref>,<xref ref-type="bibr" rid="b20">20</xref>).</p>
+            <p>
+               <italic>Sindrom vpete hrbtenjače</italic> je klinični sindrom, ki se najpogosteje izrazi pri otrocih v dobi hitre rasti, ko so silnice vleka na vpeto hrbtenjačo največje, ali pri izrazitih fleksijskih gibih hrbtenice.</p>
+            <p>Natezanje konusa, korenin živcev in okolnega žilja privede do nezadostne prekrvitve, kar vodi v ishemijo konusa, mielomalacijo in siringohidromielijo (<xref ref-type="bibr" rid="b1">1</xref>,<xref ref-type="bibr" rid="b20">20</xref>,<xref ref-type="bibr" rid="b26">26</xref>). Pojavijo se bolečine v križu in nogah, motnje hoje, senzoričnih in sfinkterskih funkcij, dolgotrajno stanje pa vodi v napredujoče težave, spastičnost, skoliozo in ortopedske deformacije (<xref ref-type="bibr" rid="b1">1</xref>,<xref ref-type="bibr" rid="b15">15</xref>,<xref ref-type="bibr" rid="b18">18</xref>). Z MRI prikažemo nizko pozicijo in dorzalno lego konusa ter opredelimo disrafizme, ki vpenjajo hrbtenjačo (<xref ref-type="bibr" rid="b11">11</xref>). Potrebna je čim prejšnja kirurška sprostitev vpete hrbtenjače, saj so okvare po določenem času nepovratne (<xref ref-type="bibr" rid="b2">2</xref>,<xref ref-type="bibr" rid="b15">15</xref>,<xref ref-type="bibr" rid="b29">29</xref>).</p>
+         </sec>
+         <sec id="s4.5" sec-type="Spinalni lipomi">
+            <label>4.5</label>
+            <title>Spinalni lipomi</title>
+            <p>Sem uvrščamo intraduralne lipome in lipome, ki prehajajo duro. Lipomi, ki prehajajo duro, predstavljajo približno 87 % vseh zaprtih SD s podkožno maso (<xref ref-type="bibr" rid="b16">16</xref>). Sem sodita <italic>lipomielomeningokela</italic> (LMMK) in <italic>lipomielokela, </italic>ki nastaneta zaradi prezgodnje disjunkcije v procesu primarne nevrulacije. Zaradi prezgodnjega ločevanja nevralne cevi od povrh potekajočega ektoderma prehaja mezenhim, ki predstavlja zasnovo za podkožno maščevje, preko še nespojene nevralne cevi. Zato se na takem segmentu meningealne ovojnice in kostne strukture ne morejo združiti, medtem ko je kožno kritje ohranjeno. LMMK in lipomielokela se razlikujeta glede na to, kje leži povezava med nevralno plakodo in lipomom.</p>
+            <p>Ta se pri LMMK zaradi razširjenega subarahnoidnega prostora pred hrbtenjačo, ki odriva plakodo posteriorno, nahaja zunaj, pri lipomielokeli pa znotraj ali na robu anatomske meje spinalnega kanala (<xref ref-type="bibr" rid="b2">2</xref>,<xref ref-type="bibr" rid="b10">10</xref>).</p>
+            <p>Pri novorojenčku z LMMK nad hrbtenico vidimo izboklino zaradi podkožne mase, ki se pri večini nahaja nad ledvenim delom, na koži pa so lahko prisotni različni kožni znaki z možno klinično sliko pareze spodnjih udov, motnjami senzibilitete, ortopedskimi deformacijami ali nevrogenim mehurjem (<xref ref-type="fig" rid="fig3">Slika 3</xref>) (<xref ref-type="bibr" rid="b1">1</xref>,<xref ref-type="bibr" rid="b15">15</xref>).</p>
+            <fig position="anchor" id="fig3">
+               <label>Slika 3:</label>
+               <caption>
+                  <p> UZ spinalnega kanala: Na področju križnice je vidna slabo omejena podkožna masa, ki vrašča v spinalni kanal (glava puščice) in delno odriva caudo equino navzpred pri petdnevni deklici s hemangiomom nad križnico. MRI je potrdilo vpeto hrbtenjačo, povezano z intraspinalnim lipomom.</p>
+               </caption>
+               <p>
+                  <graphic xlink:href="2914-web-resources/image/zdravvestn-2914-sl-03.png"/>
+               </p>
+            </fig>
+            <p>Med lipome brez podkožne mase spadata intraduralni lipom in lipom filuma (<xref ref-type="bibr" rid="b16">16</xref>).</p>
+            <p>
+               <italic>Intraduralni lipom</italic> se nahaja na dorzalni strani hrbtenjače, pri večini ledveno križnično. Lahko se razvije sindrom vpete hrbtenjače ali pa se zaradi pritiska na hrbtenjačo pojavijo nevrološki znaki glede na prizadeto raven (<xref ref-type="bibr" rid="b2">2</xref>,<xref ref-type="bibr" rid="b18">18</xref>).</p>
+            <p>
+               <italic>Lipom filuma</italic> pomeni maščobno zadebelitev terminalnega filuma (<xref ref-type="bibr" rid="b1">1</xref>). Ocenjuje se, da ima 1,5–5 % zdravih odraslih znotraj terminalnega<italic> </italic>filuma prisotno maščobno tkivo. Zadebeljen filum je fiziološka različica, če na višini L5–S1 ni debelejši od 2 mm in če gre samo za to najdbo brez znakov vpete hrbtenjače pod ravnijo L1–L2 (<xref ref-type="bibr" rid="b1">1</xref>,<xref ref-type="bibr" rid="b2">2</xref>,<xref ref-type="bibr" rid="b15">15</xref>,<xref ref-type="bibr" rid="b16">16</xref>).</p>
+            <p>Pang je prvi razvrstil spinalne lipome glede na embrionalni izvor in jih razdelil v tri skupine – <italic>dorzalne</italic> in <italic>tranzicijske lipome,</italic> ki so posledica motenj primarne nevrulacije, in <italic>terminalne lipome</italic>, ki so malformacije sekundarne nevrulacije (LMMK v embriološki klasifikaciji sodi med tranzicijske lipome) (<xref ref-type="bibr" rid="b30">30</xref>). Kasneje je dodal še pojem <italic>kaotičnega lipoma</italic> z značilnostmi tranzicijskega in terminalnega lipoma. Dorzalni lipom ne zajema konusa hrbtenjače, medtem ko tranzicijski in kaotični lipom konus zajemata. Kaotični lipom zajema tudi korenine paraspinalnih živcev in ima glede napredovanja klinične slike najslabšo napoved izida. Radikalna resekcija v takih primerih ni na mestu. Kavdalni lipomi konusa ne vključujejo, ker se nahajajo nižje, tj. na predelu filuma (<xref ref-type="bibr" rid="b31">31</xref>).</p>
+         </sec>
+         <sec id="s4.6" sec-type="Meningokela">
+            <label>4.6</label>
+            <title>Meningokela</title>
+            <p>Pri meningokeli<italic> </italic>se skozi nezraščene loke vretenc bočijo le meninge, koža nad njo pa je lahko normalna ali manj razvita. Pojavlja se desetkrat manj pogosto kot MMK (<xref ref-type="bibr" rid="b15">15</xref>). Najpogosteje se nahaja posteriorno v ledvenem delu, redko pa leži anteriorno kot pri Currarinovem sindromu (analna atrezija, disgenezija križnice, presakralna meningokela) (<xref ref-type="bibr" rid="b2">2</xref>,<xref ref-type="bibr" rid="b18">18</xref>). Lateralne meningokele so lahko pridružene nevrofibromatozi tipa 1, Marfanovemu ali Ehlers-Danlosovemu sindromu (<xref ref-type="bibr" rid="b1">1</xref>,<xref ref-type="bibr" rid="b18">18</xref>). Meningokela ne povzroča nevroloških izpadov, pri sočasnem obstoju druge disrafične spremembe pa se lahko razvije sindrom vpete hrbtenjače (<xref ref-type="bibr" rid="b15">15</xref>,<xref ref-type="bibr" rid="b18">18</xref>).</p>
+         </sec>
+         <sec id="s4.7" sec-type="Mielocistokela">
+            <label>4.7</label>
+            <title>Mielocistokela</title>
+            <p>Pri mielocistokeli gre za herniacijo razširjenega centralnega dela spinalnega kanala (siringokelo) v predelu spine bifide okulte. Pri terminalni mielocistokeli razširjeni spinalni kanal prehaja skozi kostno okvaro znotraj duralne vreče (meningokele) (<xref ref-type="bibr" rid="b2">2</xref>,<xref ref-type="bibr" rid="b15">15</xref>). Pridružene so lahko anomalije genitourinarnega ter anorektalnega sistema (<xref ref-type="bibr" rid="b1">1</xref>,<xref ref-type="bibr" rid="b18">18</xref>,<xref ref-type="bibr" rid="b20">20</xref>).</p>
+         </sec>
+         <sec id="s4.8" sec-type="Dermalni sinus">
+            <label>4.8</label>
+            <title>Dermalni sinus</title>
+            <p>Dermalni sinus je z epitelom obdana fistula, ki predstavlja povezavo med spinalnim kanalom in kožo. Pojavlja se približno pri 1/2.500 otrok (<xref ref-type="bibr" rid="b15">15</xref>). Na koži je prisotna jamica, brez ali z okolno hiperpigmentacijo, angiomatozo ali hipertrihozo, znotraj spinalnega kanala pa se v 50 % nahajajo dermoidne spremembe. Pogosteje ga najdemo v središčni liniji kot paramedialno, najpogosteje ledveno-križnično, redkeje pa okcipitalno (<xref ref-type="bibr" rid="b1">1</xref>,<xref ref-type="bibr" rid="b2">2</xref>). Pogost zaplet neprepoznanega dermalnega sinusa je okužba, ki privede do meningitisa, meningoencefalitisa ali nastanka abscesa, zato je kirurška odstranitev vedno potrebna (<xref ref-type="bibr" rid="b1">1</xref>,<xref ref-type="bibr" rid="b2">2</xref>,<xref ref-type="bibr" rid="b12">12</xref>,<xref ref-type="bibr" rid="b15">15</xref>). UZ dobro pokaže potek sinusa (<xref ref-type="bibr" rid="b1">1</xref>,<xref ref-type="bibr" rid="b18">18</xref>), MRI pa opravimo za opredelitev pridruženih sprememb pred operacijo (<xref ref-type="bibr" rid="b15">15</xref>,<xref ref-type="bibr" rid="b20">20</xref>).</p>
+         </sec>
+         <sec id="s4.9" sec-type="Kompleksni SD">
+            <label>4.9</label>
+            <title>Kompleksni SD</title>
+            <p>Med kompleksne SD uvrščamo malformacije, ki so posledice motenj gastrulacije. Zaradi napak v nastanku notohorde je poleg razvoja hrbtenjače prizadet tudi razvoj priležnih organov.</p>
+            <p>Prepoznamo jih prenatalno ali takoj po rojstvu zaradi določenih anomalij v predelu hrbta, zadnjice, udov ali urogenitalnega predela ter nevroloških, ortopedskih težav ali motenj odvajanja vode in blata. Sem spadajo nevroenterična cista, dorzalna enterična fistula, diastematomielija, kavdalni regresijski sindrom in segmentna spinalna disgenezija (<xref ref-type="bibr" rid="b1">1</xref>,<xref ref-type="bibr" rid="b2">2</xref>,<xref ref-type="bibr" rid="b18">18</xref>).</p>
+            <p>
+               <italic>Nevroenterična cista</italic> je izredno redka oblika OSD. Gre za ostanek nevroenteričnega kanala, ki v zarodku prehodno povezuje amnijsko votlino in rumenjakovo vrečko. Cista izloča mucin in se nahaja znotraj duralnega prostora ali zadnjega dela mediastinuma. Pri povezanosti med črevesjem in kožo jo imenujemo <italic>dorzalna enterična fistula</italic> (<xref ref-type="bibr" rid="b2">2</xref>,<xref ref-type="bibr" rid="b18">18</xref>).</p>
+            <p>
+               <italic>Diastematomielija</italic> ali vzdolžno razcepljena hrbtenjača predstavlja 3,8–5 % vseh anomalij hrbtenjače (<xref ref-type="bibr" rid="b32">32</xref>). Nastane med zgodnjim embrionalnim razvojem, večinoma v prsno ledvenem delu, kavdalno pa je združena. Delimo jo na tip I in II: pri prvem hrbtenjači obdaja ena duralna vreča, ločuje ju vezivni pretin, pri drugem pa vsako hemihrbtenjačo obdaja duralna vreča, med njima pa je kostni ali hrustančni pretin (<xref ref-type="bibr" rid="b1">1</xref>,<xref ref-type="bibr" rid="b2">2</xref>,<xref ref-type="bibr" rid="b15">15</xref>,<xref ref-type="bibr" rid="b18">18</xref>,<xref ref-type="bibr" rid="b32">32</xref>). Z UZ diastematomielijo najlažj prikažemo v aksialni ravnini. Zaradi tkiva med hemihrbtenjačama je hrbtenjača vpeta. Tako je onemogočena »ascendenca« konusa. Klinično ugotavljamo skoliozo, anomalije reber ali deformacije stopal, v 50 % pa je nad hrbtenico prisoten šop dlak (<xref ref-type="bibr" rid="b1">1</xref>,<xref ref-type="bibr" rid="b2">2</xref>,<xref ref-type="bibr" rid="b10">10</xref>,<xref ref-type="bibr" rid="b15">15</xref>,<xref ref-type="bibr" rid="b18">18</xref>,<xref ref-type="bibr" rid="b20">20</xref>).</p>
+            <p>
+               <italic>Kavdalni regresijski </italic>
+               <italic>sindrom</italic> se pojavlja pri 1/7.500 otrok, v 15 % pri otrocih mater z diabetesom (<xref ref-type="bibr" rid="b1">1</xref>,<xref ref-type="bibr" rid="b15">15</xref>). Pri klinično hujših oblikah <italic>kavdalne </italic>
+               <italic>agenezije</italic> z UZ prikažemo visok položaj konusa s topim koncem, ki se konča nad L1, pri manj hudih pa nizek položaj konusa z vpeto hrbtenjačo na predelu zadebeljenega filuma ali lipoma (<xref ref-type="bibr" rid="b1">1</xref>,<xref ref-type="bibr" rid="b2">2</xref>,<xref ref-type="bibr" rid="b18">18</xref>,<xref ref-type="bibr" rid="b20">20</xref>). Glede na stopnjo deformacije so lahko odsotni trtica, križnica ali ledveni del hrbtenice. Medenica je ožja, glutealne mišice so hipoplastične, glutealna brazda je kratka in izravnana. Lahko so prisotni pareza spodnjih udov, motnje senzibilitete, urogenitalne anomalije (agenezija ledvic, hidronefroza, podvojeni Műlerjevi vodi), perforacija anusa ali anomalije v razvoju spodnjih udov (<xref ref-type="bibr" rid="b1">1</xref>,<xref ref-type="bibr" rid="b2">2</xref>,<xref ref-type="bibr" rid="b15">15</xref>).</p>
+            <p>
+               <italic>Segmentna spinalna</italic>
+               <italic> disgenezija</italic> je izredno redko stanje z nepravilnostmi v razvoju ledvenega ali prsnega dela spinalnega kanala, kongenitalno paraplegijo in pridruženimi deformacijami v razvoju udov (<xref ref-type="bibr" rid="b2">2</xref>,<xref ref-type="bibr" rid="b15">15</xref>).</p>
+            <p>Ocenjuje se, da ima 10–52 % otrok z anorektalnimi anomalijami SD (<xref ref-type="bibr" rid="b15">15</xref>). Tovrstni SD so lahko del sindroma, kot pri asociaciji VACTERL (okvaro vretenc, analna atrezija, srčne napake, traheo-ezofagealna fistula, anomalije ledvic in udov), sindromu OEIS (omfalokela, ekstrofija, imperforiran anus, spinalne okvare) in pri že omenjenem Currarinovem sindromu (<xref ref-type="bibr" rid="b10">10</xref>,<xref ref-type="bibr" rid="b15">15</xref>,<xref ref-type="bibr" rid="b20">20</xref>).</p>
+         </sec>
+      </sec>
+      <sec id="s5" sec-type="Slikovna diagnostika">
+         <label>5</label>
+         <title>Slikovna diagnostika</title>
+         <p>UZ spinalnega kanala je občutljiva metoda za odkrivanje SD pri otrocih v prvih treh mesecih starosti, kasneje pa zaradi osifikacije spinalnih izrastkov ni več možen. Ima številne prednosti v primerjavi z MRI, saj je neinvazivna, široko dostopna in poceni diagnostična metoda, ki jo lahko izvedemo ob otrokovi postelji brez sediranja ali splošne anestezije. Premikanje bolnika, pulzacije likvorja ter krvni pretok ne motijo kakovosti slike, omogoča pa tudi dinamičen prikaz in oceno fiziološkega gibanja hrbtenjače. MRI zaradi dobre ločljivosti predstavlja zlati standard pri diagnosticiranju SD pred operacijo, v prvih mesecih starosti pa je nujno pri otrocih z visokim tveganjem (<xref ref-type="bibr" rid="b2">2</xref>,<xref ref-type="bibr" rid="b9">9</xref>,<xref ref-type="bibr" rid="b20">20</xref>,<xref ref-type="bibr" rid="b24">24</xref>,<xref ref-type="bibr" rid="b26">26</xref>). V zadnjih letih je bilo opravljenih veliko raziskav, ki so se ukvarjale z vprašanji, v katerih primerih suma na SD je slikovna diagnostika potrebna ter v kolikšni meri se pri okultnih stanjih občutljivost UZ razlikuje od MRI.</p>
+         <p>V nedavni retrospektivni in multicentrični študiji so Kucera in soavtorji preučevali pojavnost vpete hrbtenjače pri otrocih z enostavno kožno jamico. Po pregledu 3.884 UZ izvidov spinalnega kanala zdravih novorojenčkov v obdobju 12 let so našli 76 (2,1 %) otrok z OSD, 5 (0,13 %) jih je imelo na MRI vpeto hrbtenjačo. Vseh5 so kirurško zdravili, pri čemer se je izkazalo, da so imeli vpeto hrbtenjačo 4 otroci. Raziskava je pokazala, da je pri zdravih novorojenčkih z enostavno jamico tveganje za OSD zelo majhno. Zaradi retrospektivne narave raziskave ni bilo mogoče preveriti, ali so bile pri vseh otrocih kožne jamice enostavne in če je bila lega konusa s kliničnim štetjem vretenc pri vseh določena pravilno (<xref ref-type="bibr" rid="b27">27</xref>). V primerjalni analizi desetih podobnih raziskav, pri katerih je bilo skupaj zajetih 3.027 otrok z jamico nad križnico, je bilo zaradi vpete hrbtenjače operiranih 5 (0,17 %) otrok (<xref ref-type="bibr" rid="b7">7</xref>-<xref ref-type="bibr" rid="b9">9</xref>,<xref ref-type="bibr" rid="b13">13</xref>,<xref ref-type="bibr" rid="b22">22</xref>,<xref ref-type="bibr" rid="b23">23</xref>,<xref ref-type="bibr" rid="b25">25</xref>,<xref ref-type="bibr" rid="b33">33</xref>-<xref ref-type="bibr" rid="b35">35</xref>). V eni od raziskav so primerjali pojavnost OSD pri zdravih otrocih z enostavno kožno jamico z otroki brez kožnih znakov. V skupini 75 otrok z enostavno jamico je imel en otrok z UZ postavljen sum na OSD, vendar je imel normalen izvid MRI. V kontrolni skupini 105 otrok brez kožnih jamic pa so pri enem z UZ odkrili meningokelo z vpeto hrbtenjačo. Raziskava je pokazala, da otroci z enostavno jamico nimajo večjega tveganja za OSD v primerjavi s tistimi brez kožnih znakov (<xref ref-type="bibr" rid="b8">8</xref>).</p>
+         <p>V eni od prospektivnih študij o primerjavi otrok z enostavnimi in atipičnimi jamicami pri 160 novorojenčkih z enostavno jamico UZ niso našli intraspinalnih sprememb, med 20 otroki z atipično jamico pa jih je 8 (40 %) imelo OSD (<xref ref-type="bibr" rid="b7">7</xref>).</p>
+         <p>Višjo prevalenco OSD so raziskave potrdile tudi pri otrocih z več kožnimi znaki nad hrbtenico. V eni od tovrstnih retrospektivnih študij so med 36 otroki samo z jamico nad križnico 3 (8 %) imeli OSD, med 18 z dvema ali več kožnimi znaki pa je imelo OSD kar 11 (61 %) otrok (<xref ref-type="bibr" rid="b13">13</xref>).</p>
+         <p>Glede na rezultate teh raziskav češ, da enostavna jamica pri zdravih otrocih ni uporaben označevalec za diagnozo SD, je večina avtorjev predlagala, da pri teh UZ spinalnega kanala ni potreben (<xref ref-type="bibr" rid="b1">1</xref>,<xref ref-type="bibr" rid="b8">8</xref>,<xref ref-type="bibr" rid="b11">11</xref>,<xref ref-type="bibr" rid="b23">23</xref>,<xref ref-type="bibr" rid="b27">27</xref>,<xref ref-type="bibr" rid="b36">36</xref>).</p>
+         <p>Navedene rezultate so potrdile tudi nekatere prospektivne študije. Ausili in sodelavci so preučevali vlogo UZ in MRI pri 439 otrocih, ki so bili brez kliničnih znakov, nad hrbtenico pa so imeli različne kožne znake. Vsi so opravili UZ spinalnega kanala v prvem mesecu, MRI pa 39 otrok z nenormalnim UZ. OSD so z MRI potrdili pri 22 otrocih. V skupini 400 novorojenčkov z normalnim UZ pa so se le pri 1 otroku med sledenjem pojavili nevrološki znaki, pri katerem je MRI pokazal dermalni sinus in vpeto hrbtenjačo. Torej je skupaj imelo OSD 23 (5 %) otrok z različnimi kožnimi znaki nad hrbtenico. Raziskava je pokazala, da je UZ spinalnega kanala pri novorojenčkih s kožnimi znaki učinkovita presejalna metoda za selekcijo otrok, na podlagi katere se odločimo za diagnosticiranje z MRI. Poudarili so, da MRI potrebujejo otroci, ki imajo izražene klinične znake, vsi z nenormalnimi UZ najdbami in tisti, ki imajo nad hrbtenico več kožnih znakov (<xref ref-type="bibr" rid="b26">26</xref>).</p>
+         <p>Zanimivi so rezultati retrospektivne študije O’Neilla in soavtorjev, ki so preučili pojavnost SD pri 522 otrocih glede na različne kožne ali klinične znake. Indikacije za MRI so bile: kožna jamica nad križnico, asimetrija glutealnih gub, hemangiom, samo drugi kožni znaki (lipom, rudimentaren repek, lokalna poraščenost, displastična koža), več kožnih znakov nad hrbtenico in prirojene anomalije (VACTERL, nevrogeni mehur, imperforiran anus, kavdalna agenezija, motorični razvojni zaostanek, artrogripoza). OSD je bil diagnosticiran pri kar 122 (23,4 %) otrocih. 4/5 od teh je imelo lipom filuma ali nizko lego konusa, 1/5 pa kompleksno obliko OSD (spinalni lipom, diastematomielijo, dermalni sinus). Najpogosteje je bil OSD diagnosticiran v skupini s samo drugimi kožnimi znaki (55 %), kjer je imelo tudi največ otrok kompleksno obliko OSD (10/17). Druga skupina z največ OSD so bili bolniki s prirojenimi anomalijami (36 %), sledila je skupina z več kožnimi znaki (27 %). Presenetljiv je visok delež OSD pri otrocih s samo kožno jamico nad križnico (20 %), vendar v študiji ni opredeljeno, ali gre za enostavne ali atipične jamice. V skupini z asimetrijo glutealnih gub je imelo OSD 12 % otrok, deleži OSD v ostalih skupinah pa so bili manjši (<xref ref-type="bibr" rid="b24">24</xref>). Raziskava je pokazala višjo prevalenco OSD, diagnosticiranih z MRI (23,4 %), v primerjavi z UZ (0–3,4 %) v podobnih raziskavah (<xref ref-type="bibr" rid="b7">7</xref>,<xref ref-type="bibr" rid="b9">9</xref>,<xref ref-type="bibr" rid="b14">14</xref>,<xref ref-type="bibr" rid="b23">23</xref>-<xref ref-type="bibr" rid="b25">25</xref>,<xref ref-type="bibr" rid="b27">27</xref>). Razlike v teh primerjavah niso le na račun večje ločljivosti MRI v primerjavi z UZ, temveč tudi zaradi napotitev glede na različne kožne znake. Raziskava O’Neilla in sod. je dobro prikazala tudi, da sta občutljivost in specifičnost UZ preiskave manjši v primerjavi z MRI predvsem pri otrocih z manjšimi spremembami filuma (<xref ref-type="bibr" rid="b24">24</xref>). Na tem mestu je treba omeniti, da ni raziskano, koliko najdb z majhnim lipomom filuma je klinično pomembnih. V eni tovrstnih raziskav je med 436 preiskovanci, ki so imeli na MRI lipom filuma, 22 (5 %) imelo sindrom vpete hrbtenjače. Med 249 preiskovanci z lipomom filuma, ki so jih tri leta in pol klinično spremljali, se je le pri enem razvil sindrom vpete hrbtenjače (<xref ref-type="bibr" rid="b37">37</xref>).</p>
+         <p>V raziskavah primerjave občutljivosti UZ glede na MRI pri diagnosticiranju SD so v eni od Raziskav pri 40 bolnikih z nevrogenim mehurjem pokazali, da je bila občutljivost UZ za spino bifido 66,6 %, za agenezijo križnice in okvare lokov vretenc 100 %, za vpeto hrbtenjačo 85,7 %, za lipom filuma 100 %, v primerih diagnosticiranja intraspinalnih mas in diastematomielije pa 33,3 %. Specifičnost UZ metode se je pri vseh disrafizmih gibala med 85,7–100 % (<xref ref-type="bibr" rid="b38">38</xref>). V podobni nedavno objavljeni retrospektivni študiji, v kateri so analizirali izvide slikovne diagnostike pri 94 novorojenčkih z anorektalnimi anomalijami, je bila občutljivost UZ za prepoznavo vpete hrbtenjače 80 %, specifičnost pa 89 % (<xref ref-type="bibr" rid="b39">39</xref>). Tovrstne raziskave so pokazale dobro občutljivost in visoko specifičnost UZ metode pri večini bolnikov.</p>
+      </sec>
+      <sec id="s6" sec-type="Algoritem zgodnje obravnave otroka s SD">
+         <label>6</label>
+         <title>Algoritem zgodnje obravnave otroka s SD</title>
+         <p>Na osnovi navedene literature smo oblikovali algoritem obravnave otrok s sumom na SD v prvih mesecih starosti, da bi zgodaj prepoznali in poenotili pristop pri diagnosticiranju. Algoritem zgodnje obravnave otroka s SD je shematsko predstavljen v <xref ref-type="fig" rid="fig4">Sliki 4</xref>.</p>
+         <fig position="anchor" id="fig4">
+            <label>Slika 4:</label>
+            <caption>
+               <p> Algoritem zgodnje obravnave otroka s spinalnim disrafizmom</p>
+            </caption>
+            <p>
+               <graphic xlink:href="2914-web-resources/image/zdravvestn-2914-sl-04.png"/>
+            </p>
+         </fig>
+         <p>
+            <italic>Pri novorojenčku z odprtim</italic>
+            <italic> SD</italic> UZ spinalnega kanala po rojstvu ni potreben zaradi možne okužbe okolnih tkiv, z UZ preiskavo glave pa opredelimo pridružene spremembe na možganih. Glede MRI pred operacijo se posvetujemo z nevrokirurgom.</p>
+         <p>
+            <italic>Pri otrocih s sumom na SD in nevrološkimi, urološkimi</italic>
+            <italic> ali ortopedskimi težavami </italic>opravimo UZ slikanje spinalnega kanala in glave. Kjer z UZ odkrijemo spremembe, ki kažejo na SD, je potrebno čim prejšnje MRI. Ob normalnem UZ izvidu nadaljujemo z obravnavo v okviru diferencialnodiagnostičnih možnosti in se glede potrebe po MRI osrednjega živčevja odločimo na podlagi klinične slike.</p>
+         <p>
+            <italic>Otroke brez</italic>
+            <italic> kliničnih znakov, ki imajo nad hrbtenico atipične jamice ali druge</italic>
+            <italic> kožne znake, sumljive za OSD,</italic> v prvih treh mesecih starosti napotimo na UZ spinalnega kanala in glave. Kjer UZ spinalnega kanala ne kaže znakov za SD, nadaljnja slikovna diagnostika ni potrebna. Glede na redke opisane primere, kjer se je kljub normalnemu UZ izvidu<italic> </italic>kasneje razvil sindrom vpete hrbtenjače, je za to skupino priporočljivo klinično spremljanje.</p>
+         <p>
+            <italic>Otroci brez kliničnih znakov, </italic>
+            <italic>z UZ znaki, značilnimi za SD</italic>, potrebujejo MRI spinalnega kanala in glave, ki pa ga lahko opravijo v kasnejših mesecih v času priprave na operacijo. S tem se izognemo podvajanju preiskav ter izpostavljanju otrok splošni anesteziji v prvih mesecih. Kjer z MRI potrdimo diagnozo, je odločitev glede profilaktične operacije individualna. Kjer pa je izvid MRI negativen, nadaljnje klinično spremljanje ni potrebno.</p>
+         <p>
+            <italic>Pri zdravem otroku z enostavno jamico</italic> UZ ni potreben. Načrtno klinično spremljanje nipotrebno, smo pa na tovrstno otrokovo značilnost pozorni ob zdravstvenih obravnavah.</p>
+      </sec>
+      <sec id="s7" sec-type="Zaključek">
+         <label>7</label>
+         <title>Zaključek</title>
+         <p>Mnoge študije s široko zajetimi populacijami otrok s kožnimi spremembami nad hrbtenico so pokazale, da je UZ občutljiva metoda pri zgodnjem diagnosticiranju SD. MRI je pri zgodnjem diagnosticiranju na mestu pri otrocih z visokim tveganjem, sicer pa v primerih, ko z UZ najdemo spremembe, sumljive za SD. Predlagan algoritem ponuja sistematični pristop k obravnavi vseh otrok s sumom na SD. S poudarkom na zgodnjem UZ-diagnosticiranju omogoča učinkovito in racionalno presejanje otrok s sumom na OSD ter zgodnje prepoznavanje tistih, pri katerih so potrebni ukrepi.</p>
+      </sec>
+      <sec id="s8" sec-type="Kratice">
+         <label>8</label>
+         <title>Kratice</title>
+         <list>
+            <list-item>
+               <label>•</label>
+               <p>SD – spinalni disrafizem</p>
+            </list-item>
+         </list>
+      </sec>
+   </body>
+   <back>
+      <ref-list>
+         <ref id="b1">
+            <label>1. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <string-name name-style="western">
+                            <surname>Unsinn</surname>
+                            <given-names>KM</given-names>
+                        </string-name>, 
+                        <string-name name-style="western">
+                            <surname>Geley</surname>
+                            <given-names>T</given-names>
+                        </string-name>, 
+                        <string-name name-style="western">
+                            <surname>Freund</surname>
+                            <given-names>MC</given-names>
+                        </string-name>, 
+                        <string-name name-style="western">
+                            <surname>Gassner</surname>
+                            <given-names>I</given-names>
+                        </string-name>
+                    </person-group>. 
+                    <article-title>US of the spinal cord in newborns: spectrum of normal findings, variants, congenital anomalies, and acquired diseases</article-title>. 
+                    <source>Radiographics</source>. 
+                    <year>2000</year>
+                    <month>Jul-Aug</month>;
+                    <volume>20</volume>(
+                    <issue>4</issue>):
+                    <fpage>923</fpage>–
+                    <lpage>38</lpage>. 
+                    <pub-id pub-id-type="doi">10.1148/radiographics.20.4.g00jl06923</pub-id>
+                    <pub-id pub-id-type="pmid">10903684</pub-id>
+                    <issn>0271-5333</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b2">
+            <label>2. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <string-name name-style="western">
+                            <surname>Kumar</surname>
+                            <given-names>J</given-names>
+                        </string-name>, 
+                        <string-name name-style="western">
+                            <surname>Afsal</surname>
+                            <given-names>M</given-names>
+                        </string-name>, 
+                        <string-name name-style="western">
+                            <surname>Garg</surname>
+                            <given-names>A</given-names>
+                        </string-name>
+                    </person-group>. 
+                    <article-title>Imaging spectrum of spinal dysraphism on magnetic resonance: A pictorial review</article-title>. 
+                    <source>World J Radiol</source>. 
+                    <year>2017</year>
+                    <month>Apr</month>;
+                    <volume>9</volume>(
+                    <issue>4</issue>):
+                    <fpage>178</fpage>–
+                    <lpage>90</lpage>. 
+                    <pub-id pub-id-type="doi">10.4329/wjr.v9.i4.178</pub-id>
+                    <pub-id pub-id-type="pmid">28529681</pub-id>
+                    <issn>1949-8470</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b3">
+            <label>3. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <string-name name-style="western">
+                            <surname>Dupépé</surname>
+                            <given-names>EB</given-names>
+                        </string-name>, 
+                        <string-name name-style="western">
+                            <surname>Patel</surname>
+                            <given-names>DM</given-names>
+                        </string-name>, 
+                        <string-name name-style="western">
+                            <surname>Rocque</surname>
+                            <given-names>BG</given-names>
+                        </string-name>, 
+                        <string-name name-style="western">
+                            <surname>Hopson</surname>
+                            <given-names>B</given-names>
+                        </string-name>, 
+                        <string-name name-style="western">
+                            <surname>Arynchyna</surname>
+                            <given-names>AA</given-names>
+                        </string-name>, 
+                        <string-name name-style="western">
+                            <surname>Bishop</surname>
+                            <given-names>ER</given-names>
+                        </string-name>, 
+                        <etal>et al.</etal>
+                    </person-group>
+                    <article-title>Surveillance survey of family history in children with neural tube defects</article-title>. 
+                    <source>J Neurosurg Pediatr</source>. 
+                    <year>2017</year>
+                    <month>Jun</month>;
+                    <volume>19</volume>(
+                    <issue>6</issue>):
+                    <fpage>690</fpage>–
+                    <lpage>5</lpage>. 
+                    <pub-id pub-id-type="doi">10.3171/2016.12.PEDS1668</pub-id>
+                    <pub-id pub-id-type="pmid">28362184</pub-id>
+                    <issn>1933-0707</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b4">
+            <label>4. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <string-name name-style="western">
+                            <surname>Kar</surname>
+                            <given-names>A</given-names>
+                        </string-name>, 
+                        <string-name name-style="western">
+                            <surname>Kar</surname>
+                            <given-names>T</given-names>
+                        </string-name>, 
+                        <string-name name-style="western">
+                            <surname>Kanungo</surname>
+                            <given-names>S</given-names>
+                        </string-name>, 
+                        <string-name name-style="western">
+                            <surname>Guru</surname>
+                            <given-names>L</given-names>
+                        </string-name>, 
+                        <string-name name-style="western">
+                            <surname>Rath</surname>
+                            <given-names>J</given-names>
+                        </string-name>, 
+                        <string-name name-style="western">
+                            <surname>Dehuri</surname>
+                            <given-names>P</given-names>
+                        </string-name>
+                    </person-group>. 
+                    <article-title>Risk factors, organ weight deviation and associated anomalies in neural tube defects: A prospective fetal and perinatal autopsy series</article-title>. 
+                    <source>Indian J Pathol Microbiol</source>. 
+                    <year>2015</year>
+                    <month>Jul-Sep</month>;
+                    <volume>58</volume>(
+                    <issue>3</issue>):
+                    <fpage>285</fpage>–
+                    <lpage>91</lpage>. 
+                    <pub-id pub-id-type="doi">10.4103/0377-4929.162832</pub-id>
+                    <pub-id pub-id-type="pmid">26275247</pub-id>
+                    <issn>0377-4929</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b5">
+            <label>5. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <string-name name-style="western">
+                            <surname>Arth</surname>
+                            <given-names>A</given-names>
+                        </string-name>, 
+                        <string-name name-style="western">
+                            <surname>Kancherla</surname>
+                            <given-names>V</given-names>
+                        </string-name>, 
+                        <string-name name-style="western">
+                            <surname>Pachón</surname>
+                            <given-names>H</given-names>
+                        </string-name>, 
+                        <string-name name-style="western">
+                            <surname>Zimmerman</surname>
+                            <given-names>S</given-names>
+                        </string-name>, 
+                        <string-name name-style="western">
+                            <surname>Johnson</surname>
+                            <given-names>Q</given-names>
+                        </string-name>, 
+                        <string-name name-style="western">
+                            <surname>Oakley</surname>
+                            <given-names>GP</given-names>
+                            <suffix>Jr</suffix>
+                        </string-name>
+                    </person-group>. 
+                    <article-title>A 2015 global update on folic acid-preventable spina bifida and anencephaly</article-title>. 
+                    <source>Birth Defects Res A Clin Mol Teratol</source>. 
+                    <year>2016</year>
+                    <month>Jul</month>;
+                    <volume>106</volume>(
+                    <issue>7</issue>):
+                    <fpage>520</fpage>–
+                    <lpage>9</lpage>. 
+                    <pub-id pub-id-type="doi">10.1002/bdra.23529</pub-id>
+                    <pub-id pub-id-type="pmid">27418029</pub-id>
+                    <issn>1542-0752</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b6">
+            <label>6. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <string-name name-style="western">
+                            <surname>Copp</surname>
+                            <given-names>AJ</given-names>
+                        </string-name>, 
+                        <string-name name-style="western">
+                            <surname>Adzick</surname>
+                            <given-names>NS</given-names>
+                        </string-name>, 
+                        <string-name name-style="western">
+                            <surname>Chitty</surname>
+                            <given-names>LS</given-names>
+                        </string-name>, 
+                        <string-name name-style="western">
+                            <surname>Fletcher</surname>
+                            <given-names>JM</given-names>
+                        </string-name>, 
+                        <string-name name-style="western">
+                            <surname>Holmbeck</surname>
+                            <given-names>GN</given-names>
+                        </string-name>, 
+                        <string-name name-style="western">
+                            <surname>Shaw</surname>
+                            <given-names>GM</given-names>
+                        </string-name>
+                    </person-group>. 
+                    <article-title>Spina bifida</article-title>. 
+                    <source>Nat Rev Dis Primers</source>. 
+                    <year>2015</year>
+                    <month>Apr</month>;
+                    <volume>1</volume>(
+                    <issue>1</issue>):
+                    <fpage>15007</fpage>. 
+                    <pub-id pub-id-type="doi">10.1038/nrdp.2015.7</pub-id>
+                    <pub-id pub-id-type="pmid">27189655</pub-id>
+                    <issn>2056-676X</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b7">
+            <label>7. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <string-name name-style="western">
+                            <surname>Kriss</surname>
+                            <given-names>VM</given-names>
+                        </string-name>, 
+                        <string-name name-style="western">
+                            <surname>Desai</surname>
+                            <given-names>NS</given-names>
+                        </string-name>
+                    </person-group>. 
+                    <article-title>Occult spinal dysraphism in neonates: assessment of high-risk cutaneous stigmata on sonography</article-title>. 
+                    <source>AJR Am J Roentgenol</source>. 
+                    <year>1998</year>
+                    <month>Dec</month>;
+                    <volume>171</volume>(
+                    <issue>6</issue>):
+                    <fpage>1687</fpage>–
+                    <lpage>92</lpage>. 
+                    <pub-id pub-id-type="doi">10.2214/ajr.171.6.9843314</pub-id>
+                    <pub-id pub-id-type="pmid">9843314</pub-id>
+                    <issn>0361-803X</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b8">
+            <label>8. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <string-name name-style="western">
+                            <surname>Gibson</surname>
+                            <given-names>PJ</given-names>
+                        </string-name>, 
+                        <string-name name-style="western">
+                            <surname>Britton</surname>
+                            <given-names>J</given-names>
+                        </string-name>, 
+                        <string-name name-style="western">
+                            <surname>Hall</surname>
+                            <given-names>DM</given-names>
+                        </string-name>, 
+                        <string-name name-style="western">
+                            <surname>Hill</surname>
+                            <given-names>CR</given-names>
+                        </string-name>
+                    </person-group>. 
+                    <article-title>Lumbosacral skin markers and identification of occult spinal dysraphism in neonates</article-title>. 
+                    <source>Acta Paediatr</source>. 
+                    <year>1995</year>
+                    <month>Feb</month>;
+                    <volume>84</volume>(
+                    <issue>2</issue>):
+                    <fpage>208</fpage>–
+                    <lpage>9</lpage>. 
+                    <pub-id pub-id-type="doi">10.1111/j.1651-2227.1995.tb13612.x</pub-id>
+                    <pub-id pub-id-type="pmid">7756811</pub-id>
+                    <issn>0803-5253</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b9">
+            <label>9. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <string-name name-style="western">
+                            <surname>Robinson</surname>
+                            <given-names>AJ</given-names>
+                        </string-name>, 
+                        <string-name name-style="western">
+                            <surname>Russell</surname>
+                            <given-names>S</given-names>
+                        </string-name>, 
+                        <string-name name-style="western">
+                            <surname>Rimmer</surname>
+                            <given-names>S</given-names>
+                        </string-name>
+                    </person-group>. 
+                    <article-title>The value of ultrasonic examination of the lumbar spine in infants with specific reference to cutaneous markers of occult spinal dysraphism</article-title>. 
+                    <source>Clin Radiol</source>. 
+                    <year>2005</year>
+                    <month>Jan</month>;
+                    <volume>60</volume>(
+                    <issue>1</issue>):
+                    <fpage>72</fpage>–
+                    <lpage>7</lpage>. 
+                    <pub-id pub-id-type="doi">10.1016/j.crad.2004.06.004</pub-id>
+                    <pub-id pub-id-type="pmid">15642296</pub-id>
+                    <issn>0009-9260</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b10">
+            <label>10. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <string-name name-style="western">
+                            <surname>Tortori-Donati</surname>
+                            <given-names>P</given-names>
+                        </string-name>, 
+                        <string-name name-style="western">
+                            <surname>Rossi</surname>
+                            <given-names>A</given-names>
+                        </string-name>, 
+                        <string-name name-style="western">
+                            <surname>Biancheri</surname>
+                            <given-names>R</given-names>
+                        </string-name>, 
+                        <string-name name-style="western">
+                            <surname>Cama</surname>
+                            <given-names>A</given-names>
+                        </string-name>
+                    </person-group>. 
+                    <article-title>Magnetic resonance imaging of spinal dysraphism</article-title>. 
+                    <source>Top Magn Reson Imaging</source>. 
+                    <year>2001</year>
+                    <month>Dec</month>;
+                    <volume>12</volume>(
+                    <issue>6</issue>):
+                    <fpage>375</fpage>–
+                    <lpage>409</lpage>. 
+                    <pub-id pub-id-type="doi">10.1097/00002142-200112000-00003</pub-id>
+                    <pub-id pub-id-type="pmid">11744877</pub-id>
+                    <issn>0899-3459</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b11">
+            <label>11. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <string-name name-style="western">
+                            <surname>Schropp</surname>
+                            <given-names>C</given-names>
+                        </string-name>, 
+                        <string-name name-style="western">
+                            <surname>Sörensen</surname>
+                            <given-names>N</given-names>
+                        </string-name>, 
+                        <string-name name-style="western">
+                            <surname>Collmann</surname>
+                            <given-names>H</given-names>
+                        </string-name>, 
+                        <string-name name-style="western">
+                            <surname>Krauss</surname>
+                            <given-names>J</given-names>
+                        </string-name>
+                    </person-group>. 
+                    <article-title>Cutaneous lesions in occult spinal dysraphism—correlation with intraspinal findings</article-title>. 
+                    <source>Childs Nerv Syst</source>. 
+                    <year>2006</year>
+                    <month>Feb</month>;
+                    <volume>22</volume>(
+                    <issue>2</issue>):
+                    <fpage>125</fpage>–
+                    <lpage>31</lpage>. 
+                    <pub-id pub-id-type="doi">10.1007/s00381-005-1150-4</pub-id>
+                    <pub-id pub-id-type="pmid">15875199</pub-id>
+                    <issn>0256-7040</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b12">
+            <label>12. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <string-name name-style="western">
+                            <surname>Kumar</surname>
+                            <given-names>A</given-names>
+                        </string-name>, 
+                        <string-name name-style="western">
+                            <surname>Kanojia</surname>
+                            <given-names>RK</given-names>
+                        </string-name>, 
+                        <string-name name-style="western">
+                            <surname>Saili</surname>
+                            <given-names>A</given-names>
+                        </string-name>
+                    </person-group>. 
+                    <article-title>Skin dimples</article-title>
+                    <comment>[Review]</comment>. 
+                    <source>Int J Dermatol</source>. 
+                    <year>2014</year>
+                    <month>Jul</month>;
+                    <volume>53</volume>(
+                    <issue>7</issue>):
+                    <fpage>789</fpage>–
+                    <lpage>97</lpage>. 
+                    <pub-id pub-id-type="doi">10.1111/ijd.12376</pub-id>
+                    <pub-id pub-id-type="pmid">24738724</pub-id>
+                    <issn>0011-9059</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b13">
+            <label>13. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <string-name name-style="western">
+                            <surname>Guggisberg</surname>
+                            <given-names>D</given-names>
+                        </string-name>, 
+                        <string-name name-style="western">
+                            <surname>Hadj-Rabia</surname>
+                            <given-names>S</given-names>
+                        </string-name>, 
+                        <string-name name-style="western">
+                            <surname>Viney</surname>
+                            <given-names>C</given-names>
+                        </string-name>, 
+                        <string-name name-style="western">
+                            <surname>Bodemer</surname>
+                            <given-names>C</given-names>
+                        </string-name>, 
+                        <string-name name-style="western">
+                            <surname>Brunelle</surname>
+                            <given-names>F</given-names>
+                        </string-name>, 
+                        <string-name name-style="western">
+                            <surname>Zerah</surname>
+                            <given-names>M</given-names>
+                        </string-name>, 
+                        <etal>et al.</etal>
+                    </person-group>
+                    <article-title>Skin markers of occult spinal dysraphism in children: a review of 54 cases</article-title>. 
+                    <source>Arch Dermatol</source>. 
+                    <year>2004</year>
+                    <month>Sep</month>;
+                    <volume>140</volume>(
+                    <issue>9</issue>):
+                    <fpage>1109</fpage>–
+                    <lpage>15</lpage>. 
+                    <pub-id pub-id-type="doi">10.1001/archderm.140.9.1109</pub-id>
+                    <pub-id pub-id-type="pmid">15381552</pub-id>
+                    <issn>0003-987X</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b14">
+            <label>14. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <string-name name-style="western">
+                            <surname>Chern</surname>
+                            <given-names>JJ</given-names>
+                        </string-name>, 
+                        <string-name name-style="western">
+                            <surname>Aksut</surname>
+                            <given-names>B</given-names>
+                        </string-name>, 
+                        <string-name name-style="western">
+                            <surname>Kirkman</surname>
+                            <given-names>JL</given-names>
+                        </string-name>, 
+                        <string-name name-style="western">
+                            <surname>Shoja</surname>
+                            <given-names>MM</given-names>
+                        </string-name>, 
+                        <string-name name-style="western">
+                            <surname>Tubbs</surname>
+                            <given-names>RS</given-names>
+                        </string-name>, 
+                        <string-name name-style="western">
+                            <surname>Royal</surname>
+                            <given-names>SA</given-names>
+                        </string-name>, 
+                        <etal>et al.</etal>
+                    </person-group>
+                    <article-title>The accuracy of abnormal lumbar sonography findings in detecting occult spinal dysraphism: a comparison with magnetic resonance imaging</article-title>. 
+                    <source>J Neurosurg Pediatr</source>. 
+                    <year>2012</year>
+                    <month>Aug</month>;
+                    <volume>10</volume>(
+                    <issue>2</issue>):
+                    <fpage>150</fpage>–
+                    <lpage>3</lpage>. 
+                    <pub-id pub-id-type="doi">10.3171/2012.5.PEDS11564</pub-id>
+                    <pub-id pub-id-type="pmid">22747088</pub-id>
+                    <issn>1933-0707</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b15">
+            <label>15. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <string-name name-style="western">
+                            <surname>Dias</surname>
+                            <given-names>M</given-names>
+                        </string-name>, 
+                        <string-name name-style="western">
+                            <surname>Partington</surname>
+                            <given-names>M</given-names>
+                        </string-name>; 
+                        <collab>SECTION ON NEUROLOGIC SURGERY</collab>
+                    </person-group>. 
+                    <article-title>Congenital Brain and Spinal Cord Malformations and Their Associated Cutaneous Markers</article-title>. 
+                    <source>Pediatrics</source>. 
+                    <year>2015</year>
+                    <month>Oct</month>;
+                    <volume>136</volume>(
+                    <issue>4</issue>):
+                    <fpage>e1105</fpage>–
+                    <lpage>19</lpage>. 
+                    <pub-id pub-id-type="doi">10.1542/peds.2015-2854</pub-id>
+                    <pub-id pub-id-type="pmid">26416933</pub-id>
+                    <issn>0031-4005</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b16">
+            <label>16. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <string-name name-style="western">
+                            <surname>Tortori-Donati</surname>
+                            <given-names>P</given-names>
+                        </string-name>, 
+                        <string-name name-style="western">
+                            <surname>Rossi</surname>
+                            <given-names>A</given-names>
+                        </string-name>, 
+                        <string-name name-style="western">
+                            <surname>Cama</surname>
+                            <given-names>A</given-names>
+                        </string-name>
+                    </person-group>. 
+                    <article-title>Spinal dysraphism: a review of neuroradiological features with embryological correlations and proposal for a new classification</article-title>. 
+                    <source>Neuroradiology</source>. 
+                    <year>2000</year>
+                    <month>Jul</month>;
+                    <volume>42</volume>(
+                    <issue>7</issue>):
+                    <fpage>471</fpage>–
+                    <lpage>91</lpage>. 
+                    <pub-id pub-id-type="doi">10.1007/s002340000325</pub-id>
+                    <pub-id pub-id-type="pmid">10952179</pub-id>
+                    <issn>0028-3940</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b17">
+            <label>17. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <string-name name-style="western">
+                            <surname>Acharya</surname>
+                            <given-names>UV</given-names>
+                        </string-name>, 
+                        <string-name name-style="western">
+                            <surname>Pendharkar</surname>
+                            <given-names>H</given-names>
+                        </string-name>, 
+                        <string-name name-style="western">
+                            <surname>Varma</surname>
+                            <given-names>DR</given-names>
+                        </string-name>, 
+                        <string-name name-style="western">
+                            <surname>Pruthi</surname>
+                            <given-names>N</given-names>
+                        </string-name>, 
+                        <string-name name-style="western">
+                            <surname>Varadarajan</surname>
+                            <given-names>S</given-names>
+                        </string-name>
+                    </person-group>. 
+                    <article-title>Spinal dysraphism illustrated; Embroyology revisited</article-title>. 
+                    <source>Indian J Radiol Imaging</source>. 
+                    <year>2017</year>
+                    <month>Oct-Dec</month>;
+                    <volume>27</volume>(
+                    <issue>4</issue>):
+                    <fpage>417</fpage>–
+                    <lpage>26</lpage>. 
+                    <pub-id pub-id-type="doi">10.4103/ijri.IJRI_451_16</pub-id>
+                    <pub-id pub-id-type="pmid">29379236</pub-id>
+                    <issn>0971-3026</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b18">
+            <label>18. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <string-name name-style="western">
+                            <surname>Nair</surname>
+                            <given-names>N</given-names>
+                        </string-name>, 
+                        <string-name name-style="western">
+                            <surname>Sreenivas</surname>
+                            <given-names>M</given-names>
+                        </string-name>, 
+                        <string-name name-style="western">
+                            <surname>Gupta</surname>
+                            <given-names>AK</given-names>
+                        </string-name>, 
+                        <string-name name-style="western">
+                            <surname>Kandasamy</surname>
+                            <given-names>D</given-names>
+                        </string-name>, 
+                        <string-name name-style="western">
+                            <surname>Jana</surname>
+                            <given-names>M</given-names>
+                        </string-name>
+                    </person-group>. 
+                    <article-title>Neonatal and infantile spinal sonography: A useful investigation often underutilized</article-title>. 
+                    <source>Indian J Radiol Imaging</source>. 
+                    <year>2016</year>
+                    <month>Oct-Dec</month>;
+                    <volume>26</volume>(
+                    <issue>4</issue>):
+                    <fpage>493</fpage>–
+                    <lpage>501</lpage>. 
+                    <pub-id pub-id-type="doi">10.4103/0971-3026.195788</pub-id>
+                    <pub-id pub-id-type="pmid">28104945</pub-id>
+                    <issn>0971-3026</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b19">
+            <label>19. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <string-name name-style="western">
+                            <surname>Coleman</surname>
+                            <given-names>BG</given-names>
+                        </string-name>, 
+                        <string-name name-style="western">
+                            <surname>Langer</surname>
+                            <given-names>JE</given-names>
+                        </string-name>, 
+                        <string-name name-style="western">
+                            <surname>Horii</surname>
+                            <given-names>SC</given-names>
+                        </string-name>
+                    </person-group>. 
+                    <article-title>The diagnostic features of spina bifida: the role of ultrasound</article-title>. 
+                    <source>Fetal Diagn Ther</source>. 
+                    <year>2015</year>;
+                    <volume>37</volume>(
+                    <issue>3</issue>):
+                    <fpage>179</fpage>–
+                    <lpage>96</lpage>. 
+                    <pub-id pub-id-type="doi">10.1159/000364806</pub-id>
+                    <pub-id pub-id-type="pmid">25341807</pub-id>
+                    <issn>1015-3837</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b20">
+            <label>20. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <string-name name-style="western">
+                            <surname>Meyers</surname>
+                            <given-names>AB</given-names>
+                        </string-name>, 
+                        <string-name name-style="western">
+                            <surname>Chandra</surname>
+                            <given-names>T</given-names>
+                        </string-name>, 
+                        <string-name name-style="western">
+                            <surname>Epelman</surname>
+                            <given-names>M</given-names>
+                        </string-name>
+                    </person-group>. 
+                    <article-title>Sonographic spinal imaging of normal anatomy, pathology and magnetic growing rods in children</article-title>. 
+                    <source>Pediatr Radiol</source>. 
+                    <year>2017</year>
+                    <month>Aug</month>;
+                    <volume>47</volume>(
+                    <issue>9</issue>):
+                    <fpage>1046</fpage>–
+                    <lpage>57</lpage>. 
+                    <pub-id pub-id-type="doi">10.1007/s00247-017-3845-6</pub-id>
+                    <pub-id pub-id-type="pmid">28779192</pub-id>
+                    <issn>0301-0449</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b21">
+            <label>21. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <string-name name-style="western">
+                            <surname>Deeg</surname>
+                            <given-names>KH</given-names>
+                        </string-name>, 
+                        <string-name name-style="western">
+                            <surname>Lode</surname>
+                            <given-names>HM</given-names>
+                        </string-name>, 
+                        <string-name name-style="western">
+                            <surname>Gassner</surname>
+                            <given-names>I</given-names>
+                        </string-name>
+                    </person-group>. 
+                    <article-title>Spinal sonography in newborns and infants - part II: spinal dysraphism and tethered cord</article-title>. 
+                    <source>Ultraschall Med</source>. 
+                    <year>2008</year>
+                    <month>Feb</month>;
+                    <volume>29</volume>(
+                    <issue>1</issue>):
+                    <fpage>77</fpage>–
+                    <lpage>88</lpage>. 
+                    <pub-id pub-id-type="doi">10.1055/s-2007-963212</pub-id>
+                    <pub-id pub-id-type="pmid">17610176</pub-id>
+                    <issn>0172-4614</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b22">
+            <label>22. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <string-name name-style="western">
+                            <surname>Chern</surname>
+                            <given-names>JJ</given-names>
+                        </string-name>, 
+                        <string-name name-style="western">
+                            <surname>Kirkman</surname>
+                            <given-names>JL</given-names>
+                        </string-name>, 
+                        <string-name name-style="western">
+                            <surname>Shannon</surname>
+                            <given-names>CN</given-names>
+                        </string-name>, 
+                        <string-name name-style="western">
+                            <surname>Tubbs</surname>
+                            <given-names>RS</given-names>
+                        </string-name>, 
+                        <string-name name-style="western">
+                            <surname>Stone</surname>
+                            <given-names>JD</given-names>
+                        </string-name>, 
+                        <string-name name-style="western">
+                            <surname>Royal</surname>
+                            <given-names>SA</given-names>
+                        </string-name>, 
+                        <etal>et al.</etal>
+                    </person-group>
+                    <article-title>Use of lumbar ultrasonography to detect occult spinal dysraphism</article-title>. 
+                    <source>J Neurosurg Pediatr</source>. 
+                    <year>2012</year>
+                    <month>Mar</month>;
+                    <volume>9</volume>(
+                    <issue>3</issue>):
+                    <fpage>274</fpage>–
+                    <lpage>9</lpage>. 
+                    <pub-id pub-id-type="doi">10.3171/2011.12.PEDS11351</pub-id>
+                    <pub-id pub-id-type="pmid">22380955</pub-id>
+                    <issn>1933-0707</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b23">
+            <label>23. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <string-name name-style="western">
+                            <surname>Ben-Sira</surname>
+                            <given-names>L</given-names>
+                        </string-name>, 
+                        <string-name name-style="western">
+                            <surname>Ponger</surname>
+                            <given-names>P</given-names>
+                        </string-name>, 
+                        <string-name name-style="western">
+                            <surname>Miller</surname>
+                            <given-names>E</given-names>
+                        </string-name>, 
+                        <string-name name-style="western">
+                            <surname>Beni-Adani</surname>
+                            <given-names>L</given-names>
+                        </string-name>, 
+                        <string-name name-style="western">
+                            <surname>Constantini</surname>
+                            <given-names>S</given-names>
+                        </string-name>
+                    </person-group>. 
+                    <article-title>Low-risk lumbar skin stigmata in infants: the role of ultrasound screening</article-title>. 
+                    <source>J Pediatr</source>. 
+                    <year>2009</year>
+                    <month>Dec</month>;
+                    <volume>155</volume>(
+                    <issue>6</issue>):
+                    <fpage>864</fpage>–
+                    <lpage>9</lpage>. 
+                    <pub-id pub-id-type="doi">10.1016/j.jpeds.2009.06.003</pub-id>
+                    <pub-id pub-id-type="pmid">19643444</pub-id>
+                    <issn>0022-3476</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b24">
+            <label>24. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <string-name name-style="western">
+                            <surname>O’Neill</surname>
+                            <given-names>BR</given-names>
+                        </string-name>, 
+                        <string-name name-style="western">
+                            <surname>Gallegos</surname>
+                            <given-names>D</given-names>
+                        </string-name>, 
+                        <string-name name-style="western">
+                            <surname>Herron</surname>
+                            <given-names>A</given-names>
+                        </string-name>, 
+                        <string-name name-style="western">
+                            <surname>Palmer</surname>
+                            <given-names>C</given-names>
+                        </string-name>, 
+                        <string-name name-style="western">
+                            <surname>Stence</surname>
+                            <given-names>NV</given-names>
+                        </string-name>, 
+                        <string-name name-style="western">
+                            <surname>Hankinson</surname>
+                            <given-names>TC</given-names>
+                        </string-name>, 
+                        <etal>et al.</etal>
+                    </person-group>
+                    <article-title>Use of magnetic resonance imaging to detect occult spinal dysraphism in infants</article-title>. 
+                    <source>J Neurosurg Pediatr</source>. 
+                    <year>2017</year>
+                    <month>Feb</month>;
+                    <volume>19</volume>(
+                    <issue>2</issue>):
+                    <fpage>217</fpage>–
+                    <lpage>26</lpage>. 
+                    <pub-id pub-id-type="doi">10.3171/2016.8.PEDS16128</pub-id>
+                    <pub-id pub-id-type="pmid">27911245</pub-id>
+                    <issn>1933-0707</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b25">
+            <label>25. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <string-name name-style="western">
+                            <surname>Henriques</surname>
+                            <given-names>JG</given-names>
+                        </string-name>, 
+                        <string-name name-style="western">
+                            <surname>Pianetti</surname>
+                            <given-names>G</given-names>
+                        </string-name>, 
+                        <string-name name-style="western">
+                            <surname>Henriques</surname>
+                            <given-names>KS</given-names>
+                        </string-name>, 
+                        <string-name name-style="western">
+                            <surname>Costa</surname>
+                            <given-names>P</given-names>
+                        </string-name>, 
+                        <string-name name-style="western">
+                            <surname>Gusmão</surname>
+                            <given-names>S</given-names>
+                        </string-name>
+                    </person-group>. 
+                    <article-title>Minor skin lesions as markers of occult spinal dysraphisms—prospective study</article-title>. 
+                    <source>Surg Neurol</source>. 
+                    <year>2005</year>;
+                    <volume>63</volume>(
+                    <issue>1</issue>
+                    <supplement>Suppl 1</supplement>):
+                    <fpage>S8</fpage>–
+                    <lpage>12</lpage>. 
+                    <pub-id pub-id-type="doi">10.1016/j.surneu.2004.09.017</pub-id>
+                    <pub-id pub-id-type="pmid">15629346</pub-id>
+                    <issn>0090-3019</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b26">
+            <label>26. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <string-name name-style="western">
+                            <surname>Ausili</surname>
+                            <given-names>E</given-names>
+                        </string-name>, 
+                        <string-name name-style="western">
+                            <surname>Maresca</surname>
+                            <given-names>G</given-names>
+                        </string-name>, 
+                        <string-name name-style="western">
+                            <surname>Massimi</surname>
+                            <given-names>L</given-names>
+                        </string-name>, 
+                        <string-name name-style="western">
+                            <surname>Morgante</surname>
+                            <given-names>L</given-names>
+                        </string-name>, 
+                        <string-name name-style="western">
+                            <surname>Romagnoli</surname>
+                            <given-names>C</given-names>
+                        </string-name>, 
+                        <string-name name-style="western">
+                            <surname>Rendeli</surname>
+                            <given-names>C</given-names>
+                        </string-name>
+                    </person-group>. 
+                    <article-title>Occult spinal dysraphisms in newborns with skin markers: role of ultrasonography and magnetic resonance imaging</article-title>. 
+                    <source>Childs Nerv Syst</source>. 
+                    <year>2018</year>
+                    <month>Feb</month>;
+                    <volume>34</volume>(
+                    <issue>2</issue>):
+                    <fpage>285</fpage>–
+                    <lpage>91</lpage>. 
+                    <pub-id pub-id-type="doi">10.1007/s00381-017-3638-0</pub-id>
+                    <pub-id pub-id-type="pmid">29075839</pub-id>
+                    <issn>0256-7040</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b27">
+            <label>27. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <string-name name-style="western">
+                            <surname>Kucera</surname>
+                            <given-names>JN</given-names>
+                        </string-name>, 
+                        <string-name name-style="western">
+                            <surname>Coley</surname>
+                            <given-names>I</given-names>
+                        </string-name>, 
+                        <string-name name-style="western">
+                            <surname>O’Hara</surname>
+                            <given-names>S</given-names>
+                        </string-name>, 
+                        <string-name name-style="western">
+                            <surname>Kosnik</surname>
+                            <given-names>EJ</given-names>
+                        </string-name>, 
+                        <string-name name-style="western">
+                            <surname>Coley</surname>
+                            <given-names>BD</given-names>
+                        </string-name>
+                    </person-group>. 
+                    <article-title>The simple sacral dimple: diagnostic yield of ultrasound in neonates</article-title>. 
+                    <source>Pediatr Radiol</source>. 
+                    <year>2015</year>
+                    <month>Feb</month>;
+                    <volume>45</volume>(
+                    <issue>2</issue>):
+                    <fpage>211</fpage>–
+                    <lpage>6</lpage>. 
+                    <pub-id pub-id-type="doi">10.1007/s00247-014-3110-1</pub-id>
+                    <pub-id pub-id-type="pmid">24996813</pub-id>
+                    <issn>0301-0449</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b28">
+            <label>28. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <string-name name-style="western">
+                            <surname>Fidas</surname>
+                            <given-names>A</given-names>
+                        </string-name>, 
+                        <string-name name-style="western">
+                            <surname>MacDonald</surname>
+                            <given-names>HL</given-names>
+                        </string-name>, 
+                        <string-name name-style="western">
+                            <surname>Elton</surname>
+                            <given-names>RA</given-names>
+                        </string-name>, 
+                        <string-name name-style="western">
+                            <surname>Wild</surname>
+                            <given-names>SR</given-names>
+                        </string-name>, 
+                        <string-name name-style="western">
+                            <surname>Chisholm</surname>
+                            <given-names>GD</given-names>
+                        </string-name>, 
+                        <string-name name-style="western">
+                            <surname>Scott</surname>
+                            <given-names>R</given-names>
+                        </string-name>
+                    </person-group>. 
+                    <article-title>Prevalence and patterns of spina bifida occulta in 2707 normal adults</article-title>. 
+                    <source>Clin Radiol</source>. 
+                    <year>1987</year>
+                    <month>Sep</month>;
+                    <volume>38</volume>(
+                    <issue>5</issue>):
+                    <fpage>537</fpage>–
+                    <lpage>42</lpage>. 
+                    <pub-id pub-id-type="doi">10.1016/S0009-9260(87)80150-2</pub-id>
+                    <pub-id pub-id-type="pmid">3311565</pub-id>
+                    <issn>0009-9260</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b29">
+            <label>29. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <string-name name-style="western">
+                            <surname>Lode</surname>
+                            <given-names>HM</given-names>
+                        </string-name>, 
+                        <string-name name-style="western">
+                            <surname>Deeg</surname>
+                            <given-names>KH</given-names>
+                        </string-name>, 
+                        <string-name name-style="western">
+                            <surname>Krauss</surname>
+                            <given-names>J</given-names>
+                        </string-name>
+                    </person-group>. 
+                    <article-title>Spinal sonography in infants with cutaneous birth markers in the lumbo-sacral region—an important sign of occult spinal dysrhaphism and tethered cord</article-title>. 
+                    <source>Ultraschall Med</source>. 
+                    <year>2008</year>
+                    <month>Dec</month>;
+                    <volume>29</volume>(
+                    <issue>5</issue>
+                    <supplement>Suppl 5</supplement>):
+                    <fpage>281</fpage>–
+                    <lpage>8</lpage>. 
+                    <pub-id pub-id-type="doi">10.1055/s-2007-963169</pub-id>
+                    <pub-id pub-id-type="pmid">17610175</pub-id>
+                    <issn>0172-4614</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b30">
+            <label>30. </label>
+            <mixed-citation publication-type="book-chapter">
+                    <person-group person-group-type="author">
+                        <string-name name-style="western">
+                            <surname>Pang</surname>
+                            <given-names>D</given-names>
+                        </string-name>
+                    </person-group>. 
+                    <chapter-title>Spinal cord lipomas</chapter-title>. In: 
+                    <person-group person-group-type="editor">
+                        <string-name name-style="western">
+                            <surname>Pang</surname>
+                            <given-names>D</given-names>
+                        </string-name>, 
+                        <role>editor</role>
+                    </person-group>. 
+                    <source>Disorders of the Pediatric Spine</source>. 
+                    <publisher-loc>New York</publisher-loc>: 
+                    <publisher-name>Raven Press</publisher-name>; 
+                    <year>1995</year>. pp. 
+                    <fpage>175</fpage>–
+                    <lpage>201</lpage>.
+                </mixed-citation>
+         </ref>
+         <ref id="b31">
+            <label>31. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <string-name name-style="western">
+                            <surname>Pang</surname>
+                            <given-names>D</given-names>
+                        </string-name>, 
+                        <string-name name-style="western">
+                            <surname>Zovickian</surname>
+                            <given-names>J</given-names>
+                        </string-name>, 
+                        <string-name name-style="western">
+                            <surname>Wong</surname>
+                            <given-names>ST</given-names>
+                        </string-name>, 
+                        <string-name name-style="western">
+                            <surname>Hou</surname>
+                            <given-names>YJ</given-names>
+                        </string-name>, 
+                        <string-name name-style="western">
+                            <surname>Moes</surname>
+                            <given-names>GS</given-names>
+                        </string-name>
+                    </person-group>. 
+                    <article-title>Surgical treatment of complex spinal cord lipomas</article-title>. 
+                    <source>Childs Nerv Syst</source>. 
+                    <year>2013</year>
+                    <month>Sep</month>;
+                    <volume>29</volume>(
+                    <issue>9</issue>):
+                    <fpage>1485</fpage>–
+                    <lpage>513</lpage>. 
+                    <pub-id pub-id-type="doi">10.1007/s00381-013-2187-4</pub-id>
+                    <pub-id pub-id-type="pmid">24013320</pub-id>
+                    <issn>0256-7040</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b32">
+            <label>32. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <string-name name-style="western">
+                            <surname>Pang</surname>
+                            <given-names>D</given-names>
+                        </string-name>, 
+                        <string-name name-style="western">
+                            <surname>Dias</surname>
+                            <given-names>MS</given-names>
+                        </string-name>, 
+                        <string-name name-style="western">
+                            <surname>Ahab-Barmada</surname>
+                            <given-names>M</given-names>
+                        </string-name>
+                    </person-group>. 
+                    <article-title>Split cord malformation: Part I: A unified theory of embryogenesis for double spinal cord malformations</article-title>. 
+                    <source>Neurosurgery</source>. 
+                    <year>1992</year>
+                    <month>Sep</month>;
+                    <volume>31</volume>(
+                    <issue>3</issue>):
+                    <fpage>451</fpage>–
+                    <lpage>80</lpage>. 
+                    <pub-id pub-id-type="doi">10.1227/00006123-199209000-00010</pub-id>
+                    <pub-id pub-id-type="pmid">1407428</pub-id>
+                    <issn>0148-396X</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b33">
+            <label>33. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <string-name name-style="western">
+                            <surname>Sneineh</surname>
+                            <given-names>AK</given-names>
+                        </string-name>, 
+                        <string-name name-style="western">
+                            <surname>Gabos</surname>
+                            <given-names>PG</given-names>
+                        </string-name>, 
+                        <string-name name-style="western">
+                            <surname>Keller</surname>
+                            <given-names>MS</given-names>
+                        </string-name>, 
+                        <string-name name-style="western">
+                            <surname>Bowen</surname>
+                            <given-names>JR</given-names>
+                        </string-name>
+                    </person-group>. 
+                    <article-title>Ultrasonography of the spine in neonates and young infants with a sacral skin dimple</article-title>. 
+                    <source>J Pediatr Orthop</source>. 
+                    <year>2002</year>
+                    <month>Nov-Dec</month>;
+                    <volume>22</volume>(
+                    <issue>6</issue>):
+                    <fpage>761</fpage>–
+                    <lpage>2</lpage>. 
+                    <pub-id pub-id-type="doi">10.1097/01241398-200211000-00013</pub-id>
+                    <pub-id pub-id-type="pmid">12409903</pub-id>
+                    <issn>0271-6798</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b34">
+            <label>34. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <string-name name-style="western">
+                            <surname>Weprin</surname>
+                            <given-names>BE</given-names>
+                        </string-name>, 
+                        <string-name name-style="western">
+                            <surname>Oakes</surname>
+                            <given-names>WJ</given-names>
+                        </string-name>
+                    </person-group>. 
+                    <article-title>Coccygeal pits</article-title>. 
+                    <source>Pediatrics</source>. 
+                    <year>2000</year>
+                    <month>May</month>;
+                    <volume>105</volume>(
+                    <issue>5</issue>):
+                    <fpage>E69</fpage>. 
+                    <pub-id pub-id-type="doi">10.1542/peds.105.5.e69</pub-id>
+                    <pub-id pub-id-type="pmid">10799633</pub-id>
+                    <issn>0031-4005</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b35">
+            <label>35. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <string-name name-style="western">
+                            <surname>Herman</surname>
+                            <given-names>TE</given-names>
+                        </string-name>, 
+                        <string-name name-style="western">
+                            <surname>Oser</surname>
+                            <given-names>RF</given-names>
+                        </string-name>, 
+                        <string-name name-style="western">
+                            <surname>Shackelford</surname>
+                            <given-names>GD</given-names>
+                        </string-name>
+                    </person-group>. 
+                    <article-title>Intergluteal dorsal dermal sinuses. The role of neonatal spinal sonography</article-title>. 
+                    <source>Clin Pediatr (Phila)</source>. 
+                    <year>1993</year>
+                    <month>Oct</month>;
+                    <volume>32</volume>(
+                    <issue>10</issue>):
+                    <fpage>627</fpage>–
+                    <lpage>8</lpage>. 
+                    <pub-id pub-id-type="doi">10.1177/000992289303201012</pub-id>
+                    <pub-id pub-id-type="pmid">8261728</pub-id>
+                    <issn>0009-9228</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b36">
+            <label>36. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <string-name name-style="western">
+                            <surname>Lee</surname>
+                            <given-names>AC</given-names>
+                        </string-name>, 
+                        <string-name name-style="western">
+                            <surname>Kwong</surname>
+                            <given-names>NS</given-names>
+                        </string-name>, 
+                        <string-name name-style="western">
+                            <surname>Wong</surname>
+                            <given-names>YC</given-names>
+                        </string-name>
+                    </person-group>. 
+                    <article-title>Management of Sacral Dimples Detected on Routine Newborn Examination: A Case Series and Review</article-title>. 
+                    <source>HK J Paediatr.</source>
+                    <year>2007</year>;
+                    <volume>12</volume>:
+                    <fpage>93</fpage>–
+                    <lpage>5</lpage>.
+                </mixed-citation>
+         </ref>
+         <ref id="b37">
+            <label>37. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <string-name name-style="western">
+                            <surname>Cools</surname>
+                            <given-names>MJ</given-names>
+                        </string-name>, 
+                        <string-name name-style="western">
+                            <surname>Al-Holou</surname>
+                            <given-names>WN</given-names>
+                        </string-name>, 
+                        <string-name name-style="western">
+                            <surname>Stetler</surname>
+                            <given-names>WR</given-names>
+                            <suffix>Jr</suffix>
+                        </string-name>, 
+                        <string-name name-style="western">
+                            <surname>Wilson</surname>
+                            <given-names>TJ</given-names>
+                        </string-name>, 
+                        <string-name name-style="western">
+                            <surname>Muraszko</surname>
+                            <given-names>KM</given-names>
+                        </string-name>, 
+                        <string-name name-style="western">
+                            <surname>Ibrahim</surname>
+                            <given-names>M</given-names>
+                        </string-name>, 
+                        <etal>et al.</etal>
+                    </person-group>
+                    <article-title>Filum terminale lipomas: imaging prevalence, natural history, and conus position</article-title>. 
+                    <source>J Neurosurg Pediatr</source>. 
+                    <year>2014</year>
+                    <month>May</month>;
+                    <volume>13</volume>(
+                    <issue>5</issue>):
+                    <fpage>559</fpage>–
+                    <lpage>67</lpage>. 
+                    <pub-id pub-id-type="doi">10.3171/2014.2.PEDS13528</pub-id>
+                    <pub-id pub-id-type="pmid">24628511</pub-id>
+                    <issn>1933-0707</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b38">
+            <label>38. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <string-name name-style="western">
+                            <surname>Alamdaran</surname>
+                            <given-names>SA</given-names>
+                        </string-name>, 
+                        <string-name name-style="western">
+                            <surname>Mohammadpanah</surname>
+                            <given-names>N</given-names>
+                        </string-name>, 
+                        <string-name name-style="western">
+                            <surname>Zabihian</surname>
+                            <given-names>S</given-names>
+                        </string-name>, 
+                        <string-name name-style="western">
+                            <surname>Esmaeeli</surname>
+                            <given-names>M</given-names>
+                        </string-name>, 
+                        <string-name name-style="western">
+                            <surname>Ghane</surname>
+                            <given-names>F</given-names>
+                        </string-name>, 
+                        <string-name name-style="western">
+                            <surname>Feyzi</surname>
+                            <given-names>A</given-names>
+                        </string-name>
+                    </person-group>. 
+                    <article-title>Diagnostic value of ultrasonography in spinal abnormalities among children with neurogenic bladder</article-title>. 
+                    <source>Electron Physician</source>. 
+                    <year>2017</year>
+                    <month>Jun</month>;
+                    <volume>9</volume>(
+                    <issue>6</issue>):
+                    <fpage>4571</fpage>–
+                    <lpage>6</lpage>. 
+                    <pub-id pub-id-type="doi">10.19082/4571</pub-id>
+                    <pub-id pub-id-type="pmid">28848632</pub-id>
+                    <issn>2008-5842</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b39">
+            <label>39. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <string-name name-style="western">
+                            <surname>van den Hondel</surname>
+                            <given-names>D</given-names>
+                        </string-name>, 
+                        <string-name name-style="western">
+                            <surname>Sloots</surname>
+                            <given-names>C</given-names>
+                        </string-name>, 
+                        <string-name name-style="western">
+                            <surname>de Jong</surname>
+                            <given-names>TH</given-names>
+                        </string-name>, 
+                        <string-name name-style="western">
+                            <surname>Lequin</surname>
+                            <given-names>M</given-names>
+                        </string-name>, 
+                        <string-name name-style="western">
+                            <surname>Wijnen</surname>
+                            <given-names>R</given-names>
+                        </string-name>
+                    </person-group>. 
+                    <article-title>Screening and Treatment of Tethered Spinal Cord in Anorectal Malformation Patients</article-title>. 
+                    <source>Eur J Pediatr Surg</source>. 
+                    <year>2016</year>
+                    <month>Feb</month>;
+                    <volume>26</volume>(
+                    <issue>1</issue>):
+                    <fpage>22</fpage>–
+                    <lpage>8</lpage>.
+                    <pub-id pub-id-type="pmid">26394371</pub-id>
+                    <issn>1439-359X</issn>
+                </mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>
