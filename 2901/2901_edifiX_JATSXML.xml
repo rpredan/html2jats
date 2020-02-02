@@ -1,91 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
-<article
-    xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" dtd-version="1.0" article-type="reference-list">
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD with MathML3 v1.1 20151215//EN" "JATS-journalpublishing1-mathml3.dtd">
+<article dtd-version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
     <front>
+        <journal-meta>
+            <journal-id></journal-id>
+            <issn></issn>
+        </journal-meta>
         <article-meta>
-            <custom-meta-group>
-                <custom-meta>
-                    <meta-name>TotalReferences</meta-name>
-                    <meta-value>19</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesParsed</meta-name>
-                    <meta-value>14</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesBillable</meta-name>
-                    <meta-value>14</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>LinkServices</meta-name>
-                    <meta-value>pubmed-crossref</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesLinked</meta-name>
-                    <meta-value>13</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesLinkedDOI</meta-name>
-                    <meta-value>12</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesLinkedPMID</meta-name>
-                    <meta-value>13</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>JournalReferences</meta-name>
-                    <meta-value>13</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>BookReferences</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>BookChapterReferences</meta-name>
-                    <meta-value>3</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ConferenceReferences</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ElectronicReferences</meta-name>
-                    <meta-value>3</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>DissertationReferences</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>LegalReferences</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>StandardReferences</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>OtherReferences</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>UnknownReferences</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesSemiParsed</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesBookUnparsed</meta-name>
-                    <meta-value>2</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>EditorialStyle</meta-name>
-                    <meta-value>ICMJE-WHO</meta-value>
-                </custom-meta>
-            </custom-meta-group>
+            <title-group>
+                <article-title></article-title>
+            </title-group>
+            <pub-date>
+                <year></year>
+            </pub-date>
         </article-meta>
     </front>
     <back>
@@ -99,7 +26,7 @@
                     <fpage>522</fpage>-
                     <lpage>5</lpage>. 
                     <date-in-citation content-type="access-date" iso-8601-date="2018-11-01">[cited 2018 Nov 01]</date-in-citation>
-                    <comment>Available from: <uri>http://www.pisrs.si/Pis.web/pregledPredpisa?id=PRAV13238<uri></comment>.
+                    <comment>Available from: <uri>http://www.pisrs.si/Pis.web/pregledPredpisa?id=PRAV13238</uri></comment>.
                 </mixed-citation>
             </ref>
             <ref id="b2">
@@ -121,9 +48,9 @@
                     </person-group>. 
                     <source>Interna medicina</source>.
                     <edition>5. izd</edition>.
-                    <publisher_loc>Ljubljana</publisher_loc>:
-                    <publisher_name>Medicinska fakulteta</publisher_name>:
-                    <publisher_name>Slovensko zdravniško društvo</publisher_name>:                     
+                    <publisher-loc>Ljubljana</publisher-loc>:
+                    <publisher-name>Medicinska fakulteta</publisher-name>:
+                    <publisher-name>Slovensko zdravniško društvo</publisher-name>:                     
                     <publisher-name>Buča</publisher-name>; 
                     <year>2018</year>. pp. 
                     <fpage>741</fpage>–
@@ -143,7 +70,8 @@
                         </name>, 
                         <name>
                             <surname>Pirnat</surname>
-                            <given-names>E</given-names>                         
+                            <given-names>E</given-names>
+                        </name>               
                     </person-group>. 
                     <article-title>Ten-year follow-up of thyroid epidemiology in Slovenia after increase in salt iodization</article-title>. 
                     <source>Croat Med J</source>. 
@@ -342,6 +270,7 @@
                         <name>
                             <surname>Bajuk Studen</surname>
                             <given-names>K</given-names>
+                        </name>
                     </person-group>. 
                     <chapter-title>Boleča ščitnica</chapter-title>.
                     <comment>In</comment>: 
@@ -401,13 +330,14 @@
                             <surname>Hershman</surname>
                             <given-names>JM</given-names>
                         </name>,
-                        <etal>et. al<etal>.
-                        <source>Endotext</source>.
-                        <publisher-loc>South Dartmouth (MA</publisher-loc>:
-                        <publisher-name>MDText.com, Inc.</publisher-name>;
-                        <year>2000-2015</year>.                         
-                        <date-in-citation content-type="access-date" iso-8601-date="2018-11-01">[cited 2018 Nov 01]</date-in-citation>
-                        <comment>Available from: <uri>https://www.ncbi.nlm.nih.gov/books/NBK279084/<uri></comment>.
+                        <etal>et. al.</etal>
+                    </person-group>
+                    <source>Endotext</source>.
+                    <publisher-loc>South Dartmouth (MA</publisher-loc>:
+                    <publisher-name>MDText.com, Inc.</publisher-name>;
+                    <year>2000-2015</year>.                         
+                    <date-in-citation content-type="access-date" iso-8601-date="2018-11-01">[cited 2018 Nov 01]</date-in-citation>
+                    <comment>Available from: <uri>https://www.ncbi.nlm.nih.gov/books/NBK279084/</uri></comment>.
                 </mixed-citation>
             </ref>
             <ref id="b11">
@@ -556,7 +486,7 @@
                     <publisher-name>Institute of Oncology Ljubljana, Epidemiology and Cancer Registry. Cancer Registry of Republic of Slovenia</publisher-name>;
                     <year>2015</year>.                       
                     <date-in-citation content-type="access-date" iso-8601-date="2018-11-01">fcited 2018 Nov 01]</date-in-citation>.
-                    <comment>Available from:<uri>https://www.onko-i.si/fileadmin/onko/datoteke/dokumenti/RRS/LP_2015.pdf<uri></comment>.
+                    <comment>Available from:<uri>https://www.onko-i.si/fileadmin/onko/datoteke/dokumenti/RRS/LP_2015.pdf</uri></comment>.
                 </mixed-citation>
             </ref>
             <ref id="b16">
@@ -686,6 +616,7 @@
                             <surname>Nygaard</surname>
                             <given-names>B</given-names>
                         </name>, 
+                        <name>
                             <surname>Vanderpump</surname>
                             <given-names>MP</given-names>
                         </name>
