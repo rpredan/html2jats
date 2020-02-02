@@ -16,30 +16,41 @@
     </article-meta>
   </front>
   <!-- Do sem skopiraš in nadometiš vse besedilo do taga </front> vključno z njim -->
+
+
+<!-- Tagi: malo sem uredil, ker je bilo nekaj errorjev :-) --> 
+  <back>
+    <ref-list>
+      <ref>
+        <mixed-citation>
+        
+          <collab></collab>
+          <source></source>. 
+          <edition></edition>. 
+          <conf-name></conf-name>;
+          <conf-date></conf-date>;
+          <conf-loc></conf-loc>.
+          <publisher-loc></publisher-loc>:
+          <publisher-name></publisher-name>;
+          <year></year>. pp. 
+          <fpage></fpage>–
+          <lpage></lpage> 
+          (<series></series>).
+          <person-group>
+            <name name-style="western">
+            <surname></surname>
+            <given-names></given-names>
+          </name> 
+          </person-group>.
+          <article-title></article-title>
+          <comment>Available from:<uri></uri></comment>.
+          <pub-id pub-id-type="doi"></pub-id>
+          <pub-id pub-id-type="pmid"></pub-id>  
+          <issn></issn>
+        
+        <!--   <book-chapter></book-chapter>. Nana, to ni pravi tag. Verjetno imaš v mislih <chapter-title></chapter-title>, ki je pravi tag. Ene 2x sem že popravljal tole zadevo ... --> 
+        </mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
 </article>
-
-Tagi 
-<collab></collab>
-<source></source>. 
-<edition></edition>. 
-<conf-name></conf-name>;
-<conf-date> </conf-date>;
-<conf-loc></conf-loc>.
-
-<publisher-loc></publisher-loc>:
-<publisher-name></publisher-name>;
-<year></year>. pp. 
-<fpage></fpage>–
-<lpage></lpage> 
-(<series></series>).
-<name name-style="western">
-  <surname></surname>
-  <given-names></given-names>
-</name> 
-</person-group>.
-<article-title></article-title>
-<comment>Available from:<uri></uri></comment>.
-<pub-id pub-id-type="doi"></pub-id>
-<pub-id pub-id-type="pmid"></pub-id  
-<issn></issn>
-<book-chapter></book-chapter>.
