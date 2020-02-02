@@ -1,0 +1,774 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD with MathML3 v1.1 20151215//EN" "JATS-journalpublishing1-mathml3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink"
+         dtd-version="1.1"
+         xml:lang="sl"
+         article-type="other">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher-id">Zdrav Vestn</journal-id>
+         <journal-id journal-id-type="nlm-ta">Zdrav Vestn</journal-id>
+         <journal-id journal-id-type="doi">Zdrav Vestn</journal-id>
+         <journal-title-group>
+            <journal-title>Zdravniški vestnik</journal-title>
+            <trans-title-group xml:lang="en">
+               <trans-title>Slovenian Medical Journal</trans-title>
+            </trans-title-group>
+            <abbrev-journal-title>Zdrav Vestn</abbrev-journal-title>
+         </journal-title-group>
+         <issn publication-format="ppub" pub-type="ppub">1318-0347</issn>
+         <issn publication-format="epub" pub-type="epub">1581-0224</issn>
+         <issn-l>0350-0063</issn-l>
+         <publisher>
+            <publisher-name xml:lang="sl">Slovensko zdravniško društvo</publisher-name>
+            <publisher-name xml:lang="en">Slovenian Medical Association</publisher-name>
+            <publisher-loc xml:lang="sl">Ljubljana, Slovenia</publisher-loc>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.6016/ZdravVestn.3018</article-id>
+         <article-id pub-id-type="publisher-id">3018</article-id>
+         <article-categories>
+            <subj-group subj-group-type="discipline" xml:lang="en">
+               <subject>Medicine and health sciences</subject>
+               <subj-group>
+                  <subject>Public health (occupational medicine)</subject>
+               </subj-group>
+            </subj-group>
+            <subj-group subj-group-type="discipline" xml:lang="sl">
+               <subject>Medicina/Zdravstvo</subject>
+               <subj-group>
+                  <subject>Javno zdravstvo (varstvo pri delu)</subject>
+               </subj-group>
+            </subj-group>
+            <subj-group subj-group-type="article-type" xml:lang="en">
+               <subject>Review article</subject>
+            </subj-group>
+            <subj-group subj-group-type="article-type" xml:lang="sl">
+               <subject>Pregledni znanstveni članek</subject>
+            </subj-group>
+            <subj-group subj-group-type="heading" xml:lang="sl">
+               <subject>Javno zdravstvo (varstvo pri delu)</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title xml:lang="sl">100 let Medicinske fakultete Univerze v Ljubljani (1919–2019)</article-title>
+            <trans-title-group>
+               <trans-title xml:lang="en">100 years – Faculty of Medicine, University of Ljubljana</trans-title>
+            </trans-title-group>
+            <alt-title alt-title-type="running-head" xml:lang="sl">100 let Medicinske fakultete Univerze v Ljubljani</alt-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Zupanič Slavec</surname>
+                  <given-names>Zvonka</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1">1</xref>
+               <xref ref-type="corresp" rid="corr"/>
+            </contrib>
+         </contrib-group>
+         <aff-alternatives id="aff1">
+            <aff xml:lang="sl">
+               <label>1</label>
+               <institution>Inštitut za zgodovino medicine, Medicinska Fakulteta, Univerza v Ljubljani, Ljubljana, Slovenija</institution>
+            </aff>
+            <aff xml:lang="en">
+               <label>1</label>
+               <institution>Institute of History of Medicine, Faculty of medicine, University of Ljubljana, Ljubljana, Slovenia</institution>
+            </aff>
+         </aff-alternatives>
+         <author-notes>
+            <fn fn-type="conflict" xml:lang="en">
+               <p>The authors have declared that no competing interests exist.</p>
+            </fn>
+            <fn fn-type="conflict" xml:lang="sl">
+               <p>Avtorji so izjavili, da ne obstajajo nobeni konkurenčni interesi.</p>
+            </fn>
+            <corresp id="corr">Zvonka Zupanič Slavec, e-mail: <email xlink:type="simple"/>
+            </corresp>
+         </author-notes>
+         <pub-date pub-type="ppub">
+            <month>12</month>
+            <year>2019</year>
+         </pub-date>
+         <pub-date pub-type="epub">
+            <month>12</month>
+            <year>2019</year>
+         </pub-date>
+         <volume>88</volume>
+         <issue>11–12</issue>
+         <fpage>554</fpage>
+         <lpage>75</lpage>
+         <history>
+            <date date-type="received">
+               <day>5</day>
+               <month>12</month>
+               <year>2019</year>
+            </date>
+            <date date-type="accepted">
+               <day>8</day>
+               <month>12</month>
+               <year>2019</year>
+            </date>
+         </history>
+         <permissions>
+            <copyright-statement xml:lang="en">Copyright © 2019, Slovenian Medical Association (SZD)</copyright-statement>
+            <copyright-statement xml:lang="sl">© 2019, Slovensko zdravniško društvo (SZD)</copyright-statement>
+            <copyright-year>2019</copyright-year>
+            <copyright-holder xml:lang="en">Slovenian Medical Association (SZD)</copyright-holder>
+            <copyright-holder xml:lang="sl">Slovensko zdravniško društvo (SZD)</copyright-holder>
+            <license xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                     xlink:type="simple"
+                     xml:lang="en">
+               <license-p>This is an open access article distributed under the terms of the
+          <ext-link ext-link-type="uri"
+                            xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                            xlink:type="simple">Creative Commons Attribution-NonCommercial
+            License</ext-link>, which permits unrestricted use, distribution, and
+          reproduction in any medium, provided the original author and source are
+          credited and only for non-commercial purposes. </license-p>
+            </license>
+            <license xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                     xlink:type="simple"
+                     xml:lang="sl">
+               <license-p>To je članek z odprtim dostopom, ki ga lahko uporabite pod pogoji iz
+          <ext-link ext-link-type="uri"
+                            xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                            xlink:type="simple">Creative Commons Priznanje avtorstva-Nekomercialno
+            licence</ext-link>. ki dovoljuje distribucijo, predelavo ali
+          prilagoditev, ter gradijo na njem, v nekomercialne namene, z navedbo avtorja
+          in izvirnega dela.</license-p>
+            </license>
+         </permissions>
+         <abstract xml:lang="sl">
+            <title>Izvleček</title>
+            <p>Slovenska medicina ima svoje zgodnje predhodnike v prosvetljenski Akademiji delovnih (1693–1725) z njeno medicinsko sekcijo in z dr. Markom Gerbcem, četudi je že Jezuitski kolegij leta 1619 v Ljubljani vpeljal visoko šolstvo. Leta 1782 ustanovljeni Mediko-kirurški učni zavod v Ljubljani je izobraževal srednje zdravstvene kadre, v času Ilirskih provinc (1809–1813) pa je napredoval na raven medicinske fakultete, ki pa zaradi restavracije avstrijske oblasti ni uspela izobraziti niti prve generacije diplomantov. Leta 1848 smo na Slovenskem ostali celo brez prej imenovane medicinske srednje šole, ker so jo oblasti zaprle, ohranile so se le babiške šole.</p>
+            <p>Šele razpad Avstro-ogrske monarhije je leta 1919 omogočil nastanek prve slovenske Univerze in znotraj nje nepopolne Medicinske fakultete s štirimi predkliničnimi semestri. Leta 1940 je fakulteta po napornih prizadevanjih pridobila še 5. in 6. semester. Povojni elan je pripeljal v juliju 1945 do ustanovitve popolne Medicinske fakultete z 10 semestri. Na pionirski način je skromna kadrovska zasedba uspela vpeljati redni študij. V študijskem letu 1949/1950 se je Medicinska fakulteta odcepila od Univerze in kot Medicinska visoka šola vzgojila le eno generacijo zdravnikov, leta 1954 pa se je morala ponovno priključiti k Univerzi. V času odcepa so jeseni 1949 ustanovili Stomatološko fakulteto, ki se je kmalu povezala s fakulteto, kjer sta nastala odseka za splošno medicino in stomatologijo. Leta 1968/1969 je fakulteta vpeljala magistrski študij in leta 1995 enoviti doktorski študij, v študijskem letu 1989/1990 pa je študij podaljšala na 12 semestrov.</p>
+            <p>Leta 1975 je fakulteta z izgradnjo nove stavbe Kliničnega centra v Ljubljani pridobila potrebne predavalnice, seminarske prostore in prostore za klinične vaje. Desetletje za tem, leta 1987, so se osrednji predklinični inštituti preselili v novo fakultetno stavbo na Korytkovi ulici v kompleksu ljubljanskih bolnišnic, študenti pa so končno pridobili sodobne vajalnice, študijske prostore in drugo. Leta 2015 je fakulteta južni trakt Šentpetrske kasarne nadomestila z novo stavbo predkliničnih inštitutov za biokemijo in biologijo celice. Študij se je vsa leta spreminjal in posodabljal, leta 2009/2010 je stekel po bolonjski reformi.</p>
+            <p>Odkar je Medicinska fakulteta popolna, je vzgojila okoli 9000 zdravnikov in 2000 zobozdravnikov ter izšolala na podiplomskem študiju nad 1700 doktorjev znanosti in nad 1000 magistrov znanosti ter številne diplomante na podiplomskih kliničnih izobraževanjih. Medicinska fakulteta je usmerjena v prihodnost, k čvrstemu povezovanju teorije s prakso, interdisciplinarnemu in mednarodnemu sodelovanju, predvsem pa v vzgojo kakovostnih novih zdravniških kadrov.</p>
+         </abstract>
+         <trans-abstract xml:lang="en">
+            <title>Abstract</title>
+            <p>The early beginnings of Slovenian medical education take root in the Enlightenment-era with Academia operosorum (1693–1725) and its medical section with the physician Marko Gerbec, although the Jesuit College introduced higher education in Ljubljana already in 1619. In 1782, a Medico-Surgical Academy was established in Ljubljana, the first to provide a secondary level of medical education. Later on, when a part of present Slovenian lands was included in the Illyrian Provinces (1809–1813) as a part of Napoleon’s French Empire, with Ljubljana as capital, the school advanced to the level of a medical faculty<italic> (École Centrale)</italic>. The subsequent restoration of Austrian sovereignty prevented the school from completing even the first class of graduates’ training. In 1848, Medico-Surgical Academy was dissolved and only midwifery schools remained.</p>
+            <p>It was only after disintegration of the Austro-Hungarian Monarchy, as a consequence of the World War I, that in 1919 the first Slovenian University was established in Ljubljana, and within it a incomplete medical faculty was offering four preclinical semesters. In 1940, fifth and sixth semesters were added to the Faculty. The liberation impetus led in July 1945 to the establishment of a complete medical faculty including five years course divided in ten semesters. In the 1949/1950 academic year, the Faculty of Medicine was separated from the University and trained one generation of physicians as a medical college; in 1954, it was reintegrated into the University. During that period, in autumn 1949, the Faculty of Stomatology was established, which soon joined with the Faculty of Medicine, whereupon two departments were established: one for general medicine and one for stomatology (dental medicine). In the 1968/1969 academic year, the Faculty of Medicine introduced a master’s programme, and in 1995 a uniform doctoral programme; in the academic year 1989/1990 the programmes of medicine and dental medicine were extended to twelve semesters.</p>
+            <p>In 1975, the new Ljubljana Medical Centre building was finished and the Faculty thus obtained the necessary lecture halls, classrooms, and rooms for clinical practice. In the next decade, in 1987, the main preclinical institutes moved to the new building of the Faculty and students finally received state-of-the-art lab classrooms, facilities, and other infrastructure. In 2015, the Faculty also constructed a new building for preclinical institutes for biochemistry and cell biology. Throughout the years the programme has continued to improve and stay up to date, and the Bologna system of education was introduced in the academic year 2009/2010.</p>
+            <p>Ever since the Faculty is complete it has trained approximately 9,000 physicians and 2,000 dentists, and awarded more than 1,700 doctors of science degrees and more than 1,000 master of science degrees in the postgraduate programme for physicians and dentists; it has also trained many students in graduate clinical training programmes. The Faculty of Medicine is oriented towards the future, a strong connection between theory and practice, interdisciplinary and international cooperation, and especially training new high-quality medical professionals.</p>
+         </trans-abstract>
+         <kwd-group xml:lang="sl">
+            <kwd>Medicinska fakulteta Univerze Ljubljana</kwd>
+            <kwd>100. obletnica</kwd>
+            <kwd>zgodovina medicine</kwd>
+            <kwd>študij medicine</kwd>
+            <kwd>študij stomatologije/dentalne medicine</kwd>
+            <kwd>pedagoško delo</kwd>
+            <kwd>znanstvenoraziskovalno delo</kwd>
+         </kwd-group>
+         <kwd-group xml:lang="en">
+            <kwd>Faculty of Medicine University of Ljubljana</kwd>
+            <kwd>100th anniversary</kwd>
+            <kwd>history of medicine</kwd>
+            <kwd>curriculum of medicine</kwd>
+            <kwd>curriculum of dental medicine</kwd>
+            <kwd>teaching</kwd>
+            <kwd>scientific research work</kwd>
+         </kwd-group>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>TotalReferences</meta-name>
+               <meta-value>31</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ReferencesParsed</meta-name>
+               <meta-value>7</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ReferencesBillable</meta-name>
+               <meta-value>6</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>LinkServices</meta-name>
+               <meta-value>pubmed-crossref</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ReferencesLinked</meta-name>
+               <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ReferencesLinkedDOI</meta-name>
+               <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ReferencesLinkedPMID</meta-name>
+               <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>JournalReferences</meta-name>
+               <meta-value>1</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>BookReferences</meta-name>
+               <meta-value>5</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>BookChapterReferences</meta-name>
+               <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ConferenceReferences</meta-name>
+               <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ElectronicReferences</meta-name>
+               <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>DissertationReferences</meta-name>
+               <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>LegalReferences</meta-name>
+               <meta-value>6</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>StandardReferences</meta-name>
+               <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>OtherReferences</meta-name>
+               <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>UnknownReferences</meta-name>
+               <meta-value>19</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ReferencesSemiParsed</meta-name>
+               <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ReferencesBookUnparsed</meta-name>
+               <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>EditorialStyle</meta-name>
+               <meta-value>ICMJE-WHO</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <body>
+      <sec id="s1"
+           sec-type="Medicina pri Slovencih pred ustanovitvijo Medicinske fakultete">
+         <label>1</label>
+         <title>Medicina pri Slovencih pred ustanovitvijo Medicinske fakultete</title>
+         <p>Prve znanstvene korake v medicini je na naših tleh napravila medicinska sekcija združenja <italic>Academia Operosorum </italic>(Akademija delovnih)<italic>, </italic>ki je nastala leta<italic> </italic>1693<italic> </italic>z najvidnejšim predstavnikom dr. Markom Gerbcem<italic> </italic>(1658–1718), ki se uvršča med najpomembnejše slovenske zdravnike in nekdanje študente univerze v Padovi (<xref ref-type="bibr" rid="b1">1</xref>). Še nekaj odličnih ljub­ljanskih zdravnikov, prav tako članov Akademije delovnih, je postavljalo temelje znanstvenega dela v medicini na slovenskih tleh. Izobraževanje v Ljubljani pa beleži daljšo tradicijo, saj je Jezuitski kolegij nastal že leta 1597, leta 1619, torej pred natanko 400 leti, pa je pridobil nekatere visokošolske programe. Med prvimi pedagoškimi zdravstvenimi aktiv­nostmi pri Slovencih omenimo še naslednje: kirurg in ordinarij cesarskega špitala Filip Jakob Brecelj (prva polovica 18. stol.) je sredi 18. stoletja <italic>v </italic>Ljubljani prirejal anatomske vaje in predavanja (<italic>Collegium publicum</italic>) (<xref ref-type="bibr" rid="b2">2</xref>). Leta 1753 je bila ustanovljena<italic> </italic>Babiška šola, kar štejemo za začetek ljubljanske medicinske šole<italic>, </italic>kjer sta učila Fran Klopstein (druga polovica 18. stol.), ki je prirejal ponavljalne tečaje za kirurge, in Balthasar Hacquet (1739–1815), ki je prinesel na Slovensko poleg medicinskega napredka tudi pomembne naravoslovne raziskave (<xref ref-type="bibr" rid="b3">3</xref>). Leta 1780 je na Babiški šoli magister anatomije, kirurgije in porodništva Anton Makovic (1750–1803) začel poučevati v slovenskem jeziku. Makovic je tudi leta 1782 prevedel iz nemškega jezika v slovenščino prvo nacionalno medicinsko knjigo, babiški učbenik »<italic>Prašanja inu odgovori čez ušegarstvu«</italic>, pri čemer je opravil pionirsko delo v slovenskem porodniškem izrazoslovju (<xref ref-type="bibr" rid="b4">4</xref>).</p>
+         <p>Leta 1782 so na liceju k pouku filozofije in teologije v Ljubljani in Celovcu dodali še mediko-kirurški študij. Mediko-kirurški učni zavod se je v Ljubljani nahajal v stavbi liceja na današnjem Vodnikovem trgu. Postal je predhodnik prve medicinske fakultete pri nas. Vzgajal je kirurge in ranocelnike, med predavatelji pa je bil prirodoslovec evropskega slovesa Balthasar Hacquet (1739–1815), ki je predaval botaniko, kemijo, anatomijo, kirurgijo in porodništvo. Predavatelj anatomije, porodništva in kirurgije je bil še Vincenc Kern (1760–1829), od 1805 priznan predavatelj kirurgije na dunajski vojnomedicinski akademiji. Gojenci Mediko-kirurškega učnega zavoda so imeli v letih od 1787 do 1808 praktične vaje v ljubljanski bolnišnici na Ajdovščini (<xref ref-type="bibr" rid="b5">5</xref>). V času Ilirskih provinc (1809–1813) je licej postal <italic>École centrale </italic>s sedmimi oddelki. Če smemo <italic>École centrale</italic> istovetiti z univerzo, potem je pri nas nastala nekakšna medicinska fakulteta, ki je bila urejena podobno kot medicinske fakultete v Franciji. Študij naj bi trajal pet let. Za medicinsko in kirurško smer je bil učni načrt prvih treh let skupen, zadnji dve leti pa sta pri medicinski smeri poudarjali patologijo in kliniko, pri kirurški smeri pa predpisovali več praktičnega pouka iz anatomije, kirurgije, porodništva in sodne medicine. Konec Napoleonove Ilirije z letom 1813 je pomenil tudi konec<italic> </italic>te šole in z njo prve predhodnice ljubljanske medicinske fakultete. Po restavraciji avstrijske monarhije je bila Centralna šola degradirana na stopnjo srednje šole. Šolska reforma iz leta 1810 je razširila srednješolski učni načrt in pripeljala na Mediko-kirurški učni zavod nekaj novih učiteljev. Pri zavodovih učiteljih je ostajala ves čas zelo živa zavest, da je treba slej ko prej ustanoviti medicinsko fakulteto (<xref ref-type="bibr" rid="b6">6</xref>). V tem so jih vsaj moralno podpirali člani komisije za medicinske študijske reforme in licejski rektor dr. Jurij Matija Šporer (1795–1884). Študijski program se je sčasoma spreminjal, pogoji za vpis so postajali zahtevnejši, tako da se je tudi mediko-kirurški študij prilagajal višjim zahtevam in po študijski reformi leta 1833 pripravljal pogoje za preobrazbo šole v fakulteto. Ljubljanska medicinska šola je študijske reforme sicer uspešno izpeljala, kljub temu in kljub zahtevam po ustanovitvi popolnega vseučilišča v Ljubljani, v katerem naj bi ostal do ustanovitve medicinske fakultete mediko-kirurški študij neokrnjen, pa so oblasti v politično nemirnem letu 1848 ljubljansko šolo zaprle (<xref ref-type="bibr" rid="b7">7</xref>).<italic> </italic>Mediko-kirurški učni zavod so oblasti odvzele samo Ljubljani, enake šole v Gradcu, Salzburgu in Innsbrucku pa so se obdržale in napredovale v medicinske fakultete. V pomladi narodov je bil zatrt napredek medicine v slovenskem prostoru. O medicinski fakulteti na Slovenskem se potem ni več veliko govorilo. Zdravniki sami so se od leta 1861 zbirali v Zdravniškem bralnem društvu, od 1863 v Društvu zdravnikov na Kranjskem (<xref ref-type="bibr" rid="b8">8</xref>), od 1876 v Društvu zdravnikov na Štajerskem, po letu 1919 pa v preimenovanem Slovenskem zdravniškem društvu. Vse do konca prve svetovne vojne slovensko zdravništvo ni ponovilo zahteve po fakulteti (<xref ref-type="bibr" rid="b9">9</xref>).</p>
+      </sec>
+      <sec id="s2" sec-type="Razvoj nepopolne Medicinske fakultete">
+         <label>2</label>
+         <title>Razvoj nepopolne Medicinske fakultete</title>
+         <p>Po razpadu Avstro-ogrske monarhije je bila leta 1918 v Ljubljani pri vseučiliški komisiji ustanovljena podkomisija za medicinsko fakulteto. Februarja 1919 je bila na občnem zboru Slovenskega zdravniškega društva skoraj soglasno sprejeta resolucija z zahtevo po takojšnji ustanovitvi medicinske fakultete na Univerzi v Ljubljani. Podkomisija za medicinsko fakulteto, ki so jo sestavljali dr. Lojz Kraigher (1877–1959), dr. Ivan Oražen (1869–1921) in dr. Alojz Zalokar (1887–1944), je pripravila poročilo, v katerem je priporočila pričetek pouka za prvi letnik jeseni leta 1919, napovedala priprave za pouk v naslednjih letnikih ter predložila načrt za razmestitev fakultetnih ustanov in osnutek učnega načrta (<xref ref-type="bibr" rid="b10">10</xref>) (<xref ref-type="fig" rid="fig1">Slika 1</xref>). Fakultetni inštituti naj bi dobili prostore v tedaj novi kasarni ob Poljanski cesti, novi Anatomski inštitut pa naj bi bil kot ena prvih novih univerzitetnih stavb postavljen na zemljišču pri Zaloški cesti ob Ljubljanici. Projektiran je bil že v letu 1919/20, zgrajen pa naj bi bil do jeseni 1921; za arhitekta je bil izbran ustanovni profesor fakultete za arhitekturo, učenec dunajskega prof. Otta Wagnerja, Ivan Vurnik (<xref ref-type="bibr" rid="b11">11</xref>) (<xref ref-type="fig" rid="fig2">Slika 2</xref>).</p>
+         <fig position="anchor" id="fig1">
+            <label>Slika 1:</label>
+            <caption>
+               <p> Rokopis dr. Lojza Kraigherja o potencialih slovenskih zdravnikov, da ustanovijo lastno medicinsko fakulteto po 1. svetovni vojni. Vir: Fotoarhiv Inštituta za zgodovino medicine UL MF.</p>
+            </caption>
+            <p>
+               <graphic xlink:href="3018-sl-web-resources/image/zdravvestn-3018-en-01.png"/>
+            </p>
+         </fig>
+         <fig position="anchor" id="fig2">
+            <label>Slika 2:</label>
+            <caption>
+               <p> Prva stavba nepopolne Medicinske fakultete (MF) na Zaloški cesti 4 v Ljubljani, delo arhitekta Ivana Vurnika. Vir: Fotoarhiv Muzeja novejše zgodovine Slovenije.</p>
+            </caption>
+            <p>
+               <graphic xlink:href="3018-sl-web-resources/image/zdravvestn-3018-en-02.png"/>
+            </p>
+         </fig>
+         <p>Ob ustanovitvi Univerze v Ljubljani 23. julija leta 1919 je bila ustanovljena tudi medicinska fakulteta, a na njeno veliko razočaranje samo z dvema pripravljalnima letnikoma. Pouk se je začel novembra 1919, vpisalo se je 66 slušateljev. Do konca leta 1938 je opravilo prvi rigoroz 543 kandidatov, ki so študij nadaljevali v Zagrebu, Beogradu ali v tujini, predvsem v Pragi. Učni načrt je bil povzet po načrtu zagrebške medicinske fakultete, ustanovljene 1917 (<xref ref-type="bibr" rid="b12">12</xref>). Uradni list Kraljevine SHS je novi zakon objavil 23. avgusta 1919. Zadnjega avgusta istega leta so bili že imenovani prvi profesorji: večino anatomije je prevzel dr. Janez Plečnik (1875–1940), anatomijo in fiziologijo živčevja dr. Alfred Šerko (1879–1938), anatomijo in histologijo očesa dr. Albert Botteri, ki pa je že naslednje leto odšel v Zagreb, v Ljubljani pa so imeli težave s kadri za to področje in za fiziologijo (<xref ref-type="bibr" rid="b13">13</xref>). Tako se je začela petindvajsetletna trnova pot ljubljanske Medicinske fakultete (MF). Predavanja iz anatomije in sodne medicine (za pravnike) so potekala v sobi, ki je bila v jutranjih urah predavalnica, nato pa obdukcijski prostor, predavalnico anatomskega inštituta pa so gradili po polžje (<xref ref-type="fig" rid="fig3">Slika 3</xref>, <xref ref-type="fig" rid="fig4">Slika 4</xref>). V letih 1919 do 1939 je bila nepopolna MF z vsemi inštituti nastanjena v stavbi Anatomskega inštituta na Zaloški cesti 4. Stiska na MF je povezala učitelje in študente v nenehnih prizadevanjih za izboljšanje pogojev dela in izpopolnitve fakultete in ob koncu druge svetovne vojne leta 1945 so postavili temelje popolni medicinski fakulteti. Stisko medicincev je delno ublažilo izjemno darilo zdravnika dr. Ivana Oražna (1869–1921), ki je v svoji oporoki leta 1921 Medicinski fakulteti in njenim slušateljem zapustil hiši v Wolfovi ulici in na Dolenjski cesti v Ljubljani, ki sta bili preurejeni v Oražnov dijaški dom. Od leta 1925 do danes je v njiju brezplačno bivalo nad 1000 študentov ljubljanske univerze, po ustanovitvi popolne medicinske fakultete večinoma medicinci (<xref ref-type="bibr" rid="b14">14</xref>).</p>
+         <fig position="anchor" id="fig3">
+            <label>Slika 3:</label>
+            <caption>
+               <p> Vaje na Anatomskem inštitutu MF med obema vojnama. Vir: Zasebni arhiv Žive Držaj Bonač.</p>
+            </caption>
+            <p>
+               <graphic xlink:href="3018-sl-web-resources/image/zdravvestn-3018-en-03.png"/>
+            </p>
+         </fig>
+         <fig position="anchor" id="fig4">
+            <label>Slika 4:</label>
+            <caption>
+               <p> Laboratorijske vaje pri kemiji na zgodnji popolni MF. Vir: Zasebna zbirka Brede Stucin.</p>
+            </caption>
+            <p>
+               <graphic xlink:href="3018-sl-web-resources/image/zdravvestn-3018-en-04.png"/>
+            </p>
+         </fig>
+         <p>Tik pred drugo svetovno vojno so postale zahteve po novi bolnišnici v Ljubljani in popolni medicinski fakulteti v javnih medijih tako glasne in številne, da jih ni bilo mogoče več omalovaževati (<xref ref-type="bibr" rid="b15">15</xref>). Beograjska vlada je leta 1940 končno dovolila dopolnitev fakultete s petim in šestim semestrom. Študijski program se je razširil za tri predmete: patologijo, kirurgijo in interno medicino. Fakulteti so dodelili tri nove redne profesorje: za patologijo dr. Franca Hribarja (1895–1967), za kirurgijo dr. Božidarja Lavriča (1899–1961) in za interno medicino dr. Karla Lušickega (1892–1958). Led je bil prebit in navdušenja ni manjkalo. Fakulteta je pridobila nekaj dodatnih prostorov, v stari prosekturi za patologijo, za kirurško in interno kliniko pa so tik pred vojno zgradili prizidek k stavbi kirurškega in internega oddelka. Obe kliniki so odprli poleti 1941. V vojnih letih je fakulteta životarila. Predavanja so se nadaljevala, prav tako vaje, vse več profesorjev, asistentov in študentov pa se je vključevalo v osvobodilno gibanje, ali so odšli v partizane ali so bili zaprti, pregnani v taborišča ali odpeljani na prisilno delo. Pouk je zaradi vojne prenehal junija 1943 (<xref ref-type="bibr" rid="b16">16</xref>). Med vojno je padlo skupno 100 zdravnikov in študentov medicine, kar je bila ok. desetina takratnega zdravništva in medicincev (<xref ref-type="bibr" rid="b17">17</xref>). Med študenti medicine je bilo 38 ubitih, 19 jih je umrlo v taboriščih oz. so bili ubiti kot talci (<xref ref-type="bibr" rid="b18">18</xref>,<xref ref-type="bibr" rid="b19">19</xref>).</p>
+      </sec>
+      <sec id="s3" sec-type="Nastanek popolne Medicinske fakultete">
+         <label>3</label>
+         <title>Nastanek popolne Medicinske fakultete</title>
+         <p>Popolna Medicinska fakulteta v Ljubljani z desetimi semestri je bila ustanovljena z vladnim odlokom 31. julija 1945 (<xref ref-type="bibr" rid="b20">20</xref>). Fakulteta je prevzela zdrav­stvene zavode na območju ljubljanske splošne bolnišnice in v njeni soseščini ter v njih naselila klinike in inštitute. Uprava MF, Centralna medicinska knjižnica in nekateri predklinični inštituti, so leta 1945 dobili provizorične prostore v stari in neugledni stavbi šentpetrske kasarne, v kateri so nekateri še danes (<xref ref-type="fig" rid="fig5">Slika 5</xref>). Trdno zaupanje in nepopustljiva volja tedaj zaposlenih fakultetnih sodelavcev so omogočili, da je fakulteta začela delovati že v zimskem semestru študijskega leta 1945/46 s predavanji in vajami v vseh letnikih, čeprav je silno primanjkovalo vsakršne opreme in še posebej učbenikov. Tedaj je imela fakulteta 27 učiteljev in 566 slušateljev, od tega v prvem semestru 302 (165 študentov in 137 študentk), ki so imeli pred seboj deset semestrov študija. Med prve učitelje na popolni MF so bili imenovani Božidar Lavrič, Igor Tavčar, Pavel Lunaček, Janez Milčinski, Bogdan Brecelj, Franc Derganc, Jože Rant, Valentina Kobe, Milica Petrović Valentinčič in drugi (<xref ref-type="fig" rid="fig6">Slika 6</xref>).</p>
+         <fig position="anchor" id="fig5">
+            <label>Slika 5:</label>
+            <caption>
+               <p> Po 2. svetovni vojni je Šentpetrska kasarna v Ljubljani postala sedež popolne MF. Vir: Fotoarhiv Inštituta za zgodovino medicine UL MF.</p>
+            </caption>
+            <p>
+               <graphic xlink:href="3018-sl-web-resources/image/zdravvestn-3018-en-05.png"/>
+            </p>
+         </fig>
+         <fig position="anchor" id="fig6">
+            <label>Slika 6:</label>
+            <caption>
+               <p> Prvi učitelji in asistenti popolne Medicinske fakultete leta 1945. Z leve sedijo: Bogdan Brecelj, Milica Valentinčič Petrović, Božidar Lavrič, Marjan Ahčin (minister za zdravstvo), Bogdan Derč, Janez Milčinski; z leve stojijo: Dušan Stucin, Martin Benedik, Mirko Derganc, Josip Hebein, Igor Tavčar, Hubert Pehani, Sabina Praprotnik, Branko Volavšek, Valentina Kobe, Milan Žumer, Albin Seliškar, Leopold Ješe, Ivan Marinčič, Jože Rant. Na fotografiji manjkajo: Milan Cunder, Franc Hribar, Pavel Lunaček, Ivan Marinčič, Jernej Demšar, Ivan Pintar. Vir: Fotoarhiv Inštituta za zgodovino medicine UL MF.</p>
+            </caption>
+            <p>
+               <graphic xlink:href="3018-sl-web-resources/image/zdravvestn-3018-en-06.png"/>
+            </p>
+         </fig>
+         <p>Na popolni Medicinski fakulteti je bila ustanovljena tudi Stomatološka klinika, učna baza za predmet stomatologija. Za medicince je bil sprva predmet fakultativni, kmalu pa je postal obvezen. Redni profesor za stomatologijo in prvi predstojnik Stomatološke klinike je postal dr. Jože Rant (1896–1972).</p>
+         <p>Naslednja leta predstavljajo obdobje najhitrejše rasti MF. V študijskem letu 1950/1951 je bilo število vpisanih slušateljev največje – 817, učiteljev je bilo takrat 32. Od ustanovitve leta 1945 je bila popolna MF vključena v zdravstveni resor, enako obe drugi jugoslovanski MF, zagrebška in beograjska. Fakulteta je s tem, ko je prevzela ljubljanske bolnišnice, postala odgovorna tudi za vse bolnišnično zdravljenje. Vez z Univerzo se je ohranjala preko pedagoškega dela.</p>
+      </sec>
+      <sec id="s4" sec-type="Medicinska visoka šola in Stomatološka fakulteta">
+         <label>4</label>
+         <title>Medicinska visoka šola in Stomatološka fakulteta</title>
+         <p>V razvoju medicinske fakultete v letih 1949–1954 je sledilo posebno obdobje, ko je bila fakulteta izločena iz Univerze. Postala je samostojna Medicinska visoka šola z vsemi pristojnostmi, ki jih je zanjo dotlej imela Univerza. Ta poteza je verjetno precej skrajšala postopek ustanavljanja Stomatološke fakultete, ustanovljene 25. oktobra 1949 (<xref ref-type="fig" rid="fig7">Slika 7</xref>). Poleg prof. Ranta, ki je ob stomatologiji začel predavati tudi ortodontijo, je fakulteta zaposlila še nekaj predavateljev in asistentov. Prostorska stiska se je za stomatologe končala leta 1954, ko se je Stomatološka fakulteta preselila v novo stavbo Stomatološke klinike. V obdobju Medicinske visoke šole je bil v študijskem letu 1952/1953 uveljavljen tudi šestletni študij, ki pa ni potekal niti za eno celo generacijo; od leta 1957 je bil študij ponovno omejen na pet let. Medicinska in stomatološka fakulteta sta ustrezno spremenili učna načrta. Leta 1952 so bile iz pristojnosti Medicinske visoke šole izločene dotedanje klinike in dobile status zdravstvenih zavodov. Z zakonom o univerzah je leta 1954 prenehala obstajati Medicinska visoka šola. Fakulteta za splošno medicino in stomatologijo z dvema oddelkoma je bila ponovno vključena v univerzo. Leto 1960 je zaradi pomanjkanja zobozdravstvenih terapevtov prineslo novo spremembo študija stomatologije. Uveden je bil stopenjski študij, ki je veljal le za eno generacijo. Leta 1960 se je nadaljevala izgradnja Stomatološke klinike, njen prizidek ob Lipičevi ulici pa je bil dograjen leta 1963 (<xref ref-type="bibr" rid="b21">21</xref>).</p>
+         <fig position="anchor" id="fig7">
+            <label>Slika 7:</label>
+            <caption>
+               <p> Prvi učitelji stomatologije leta 1955. Z leve: Branko Palčič, Vladimir Volavšek, Valter Krušič, Vera Lenart, Dušana Lavrič, Jože Rant, Lojze Brenčič, Franc Čelešnik, Anton Logar, Milan Perušek in dentist Vekoslav Šmid. Vir: Fotoarhiv Inštituta za zgodovino medicine UL MF.</p>
+            </caption>
+            <p>
+               <graphic xlink:href="3018-sl-web-resources/image/zdravvestn-3018-en-07.png"/>
+            </p>
+         </fig>
+         <p>Nov družbeni red je posegel tudi med zdravništvo. Leta 1963 sta bila za diplomante MF odvzeta naziva doktor medicine in doktor stomatologije, zamenjala sta ju naziva zdravnik in zobozdravnik (<xref ref-type="bibr" rid="b22">22</xref>), ki sta bila po velikem trudu Slovenskega zdravniškega društva in njegovega predsednika prof. dr. Antona Dolenca (1930–2013) leta 1986 diplomantom vrnjena. V tem skoraj 25-letnem obdobju diplomanti MF večinoma niso dvigovali diplom, ampak le potrdila o končanem študiju. (<xref ref-type="bibr" rid="b9">9</xref>) Ukinjena je bila tudi zasebna zdravniška praksa, Slovensko zdravniško društvo ni moglo več obstajati pod svojim imenom, ampak so se zdravniki združevali v okviru Zdravniške znanstvene sekcije enotnih sindikatov, Zdravniški vestnik pa je bil preimenovan v Zdravstveni vestnik.</p>
+         <p>Čas po letu 1960 je prinesel najhitrejšo rast MF: leta 1961 je fakulteta imela 17 inštitutov, 19 klinik in tri samostojne zavode. V nadaljnjih petnajstih letih je bil študijski načrt pogosto na dnevnem redu sej fakultetnega sveta. Poglavitna skrb fakultete pa je bila, da utrdi svojo kadrovsko in materialno bazo ter zagotovi zdravstveni službi zadostno število zdravnikov, predvsem zdravnikov splošne medicine in zobozdravnikov, saj jih je primanjkovalo po vsej Sloveniji. Učni načrt se je spreminjal v skladu z razvojem medicine v svetu in doma, tako da se je število predmetov od leta 1945 do 1960 podvojilo. Pokazala se je tudi potreba po reformi študija, ki se je začela leta 1960 in se je nadaljevala v naslednjih letih. Bistvo reforme je bilo v poudarjanju prakse in individualnega pouka. Za diplomanta MF je bilo zaželeno, da ima temeljno splošnomedicinsko izobrazbo, s katero bi se po končanem študiju lahko vključil v katero koli zdravniško dejavnost. Dolžnost fakultete je bila, da je v učnih bazah poskrbela za poglobljen pouk v vseh strokah. Za slušatelje je bil ta pouk fakultativen. Pogoj za poglobljeni študij pa je bil, da je kandidat dobro opravil osnovne študijske obveznosti, v poglobljeni študij pa so bili sprejeti študenti z natečajem. Sleherna ustanova je vsako leto razpisala določeno število mest in vsaka stroka je morala izdelati program za poglobljeni študij. Enako pobudo je fakulteta prevzela za uvedbo enoletnega staža (<xref ref-type="bibr" rid="b23">23</xref>) (<xref ref-type="fig" rid="fig8">Slika 8</xref>).</p>
+         <fig position="anchor" id="fig8">
+            <label>Slika 8:</label>
+            <caption>
+               <p> Predavanja – temeljni del medicinskega študija: internist prof. Igor Tavčar v predavalnici Interne klinike Kliničnih bolnic v Ljubljani leta 1952 (danes stavba Onkološkega inštituta C). Vir: Fotoarhiv Inštituta za zgodovino medicine UL MF.</p>
+            </caption>
+            <p>
+               <graphic xlink:href="3018-sl-web-resources/image/zdravvestn-3018-en-08.png"/>
+            </p>
+         </fig>
+         <p>Težnja po stabilizaciji razmer je bila najizrazitejša leta 1965 ob sprejemu jugoslovanskih norm za študij na medicinskih fakultetah. Fakulteta se je usmerila v konsolidacijo študijskih razmer, učinkovitejše izvajanje pouka in izdelala nove učne načrte. MF je morala rešiti tudi prostorsko stisko. Vaje so trajale v številnih skupinah, redno do poznih večernih ur, eksplozija svetovnega medicinskega znanja pa je napovedovala še širitev učnega programa, vzgojo novih strokovnjakov, odpiranje novih delovnih mest in dodatne prostorske zahteve. Graditev predkliničnih inštitutov je bila zato neogibna, za njo pa je poleg MF in njenih študentov čvrsto stalo Slovensko zdravniško društvo s prof. dr. Antonom Dolencem na čelu. Gradnja je bila nujna tudi za Klinični center Ljubljana, saj ni imel lastne prosekture, fakultetna prosektura pa že dolgo ni zadoščala sodobnim potrebam in zahtevam. Fakultetna zamisel je bila, da bi (zaradi pomanjkanja sredstev) nove prostore gradili v dveh etapah. Gradnja prve stavbe se je začela leta 1973, v glavnem končala leta 1984, vseljena pa je bila leta 1987. Projektiral jo je arhitekt Vladimir Ažman. Nova stavba MF je bila postavljena v kompleks bolnišničnega mesta na Korytkovo ulico, da se smiselno povezuje z osrednjo bolnišnico in kliničnimi vajami v njej (<xref ref-type="bibr" rid="b24">24</xref>). Do gradnje druge nove stavbe MF doslej še ni prišlo, je pa na mestu južnega trakta šentpetrske kasarne nastala nadomestna stavba, predana namenu leta 2015. Vanjo sta se preselila inštituta za biokemijo (delno) in biologijo celice, Inštitut za bio­fiziko je ostal v severnem traktu stare stavbe šentpetrske kasarne. Načrtovana je tudi nadomestna gradnja vzhodnega trakta šentpetrske kasarne. Tja bi se preselili še nekateri predklinični inštituti MF, ki še delujejo v slabih prostorskih pogojih.</p>
+         <p>Tudi izgradnja nove stavbe Univerzitetnega kliničnega centra  v Ljubljani (UKC) je imela izreden pomen za napredek slovenskega dodiplomskega in podiplomskega študija medicine. Z njo je po letu 1975 tudi MF dobila v uporabo nove predavalnice, prostore za vaje in nemoten klinični del študija. To je bil nedvomno poglavitni mejnik v sodobnem slovenskem razvoju raziskovalne in izobraževalne dejavnosti v medicini (<xref ref-type="fig" rid="fig9">Slika 9</xref>).</p>
+         <fig position="anchor" id="fig9">
+            <label>Slika 9:</label>
+            <caption>
+               <p> Dolgo pričakovana nova stavba Medicinske fakultete Univerze v Ljubljani na Korytkovi ulici, predana namenu leta 1987. Vir: Fotoarhiv Inštituta za zgodovino medicine UL MF.</p>
+            </caption>
+            <p>
+               <graphic xlink:href="3018-sl-web-resources/image/zdravvestn-3018-en-09.png"/>
+            </p>
+         </fig>
+         <p>Leta 1985 je štela MF 17 inštitutov in 24 kateder ter je z učnimi bazami sodelovala na 29 klinikah, Inštitutu za rentgenologijo, Zavodu za transfuzijo krvi, Onkološkem inštitutu in drugod. MF je tudi formalno vpeta v zdravstveni sistem in slovensko zdravstvo, saj je njena osrednja naloga izobraziti primerno število zdravnikov in zobozdravnikov za zdravljenje prebivalstva (<xref ref-type="bibr" rid="b25">25</xref>).</p>
+      </sec>
+      <sec id="s5"
+           sec-type="Spreminjanje študijskih programov na dodiplomskem študiju">
+         <label>5</label>
+         <title>Spreminjanje študijskih programov na dodiplomskem študiju</title>
+         <p>Študija medicine in dentalne medicine potekata na MF na ločenih odsekih, na Odseku za medicino in na Odseku za stomatologijo oz. kasnejšem Odseku za dentalno medicino. Oba odseka izvajata pouk na istih predkliničnih in kliničnih medicinskih katedrah, stomatološki strokovni predmeti pa se izvajajo na vseh katedrah Stomatološke klinike. S končanim univerzitetnim študijskim programom Medicina (po letu 2010 enoviti magistrski študijski program druge stopnje Medicina) se pridobi univerzitetna izobrazba z nazivom doktor/doktorica medicine, z univerzitetnim študijskim programom Dentalna medicina (po letu 2010 enoviti magistrski študijski program druge stopnje Dentalna medicina) pa univerzitetna izobrazba z nazivom doktor/doktorica dentalne medicine (<xref ref-type="fig" rid="fig10">Slika 10</xref>).</p>
+         <fig position="anchor" id="fig10">
+            <label>Slika 10:</label>
+            <caption>
+               <p> Pomemben del medicinskega študija predstavljajo klinične vaje ob bolnikih v UKC Ljubljana in drugih slovenskih učnih bolnišnicah. Vir: Fotoarhiv Inštituta za zgodovino medicine UL MF ( 1999, foto: Jelka Simončič).</p>
+            </caption>
+            <p>
+               <graphic xlink:href="3018-sl-web-resources/image/zdravvestn-3018-en-10.png"/>
+            </p>
+         </fig>
+         <p>V študijskem letu 1989/1990 je MF uvedla šestletni študijski program medicine in stomatologije s študijem predmetov v blokih. V predkliničnem delu se učni program ni bistveno spremenil. Prav tako se ni bistveno povečalo število učnih ur, saj je imel predhodni medicinski program 4725 ur, povprečno 945 ur v študijskem letu, leta 1994 je število ur naraslo na 5190 ur, leta 1999 na 5500 ur, leta 2018 pa je znašalo 5371 ur. Študenti medicine in dentalne medicine imajo letno 30 tednov študijskih obveznosti, od tega je ok. 30 % ur namenjenih predavanjem, 60 % vajam in seminarjem, 10 % ur pa izbirnemu pouku (6 od 60 kreditnih točk) (<xref ref-type="bibr" rid="b26">26</xref>). V celotnem študijskem kurikulumu poslušajo 40 oziroma 48 predmetov. V letu 2009/2010 se je na MF pričel prenovljeni program po bolonjski reformi. Z njo se je znaten del vsebin poenotil v duhu evropskih smernic in je postalo prehajanje študentov med različnimi medicinskimi fakultetami večje.</p>
+         <p>Študenti se vse pogosteje učijo tudi v osnovni zdravstveni dejavnosti, kjer se srečujejo z vsakdanjim delom praktičnega zdravnika. To možnost ponuja družinska medicina, pri pouku tega predmeta pa sodelujejo zdravniki – mentorji, ki sprejmejo študente v svoje ambulante pod nadzorom Katedre za družinsko medicino (<xref ref-type="fig" rid="fig11">Slika 11</xref>).</p>
+         <fig position="anchor" id="fig11">
+            <label>Slika 11:</label>
+            <caption>
+               <p> Vaje študentov dentalne medicine na Stomatološki kliniki UKC Ljubljana. Vir: Fotoarhiv Inštituta za zgodovino medicine UL MF (1999, foto: Jelka Simončič). </p>
+            </caption>
+            <p>
+               <graphic xlink:href="3018-sl-web-resources/image/zdravvestn-3018-en-11.png"/>
+            </p>
+         </fig>
+      </sec>
+      <sec id="s6" sec-type="Bolonjska reforma">
+         <label>6</label>
+         <title>Bolonjska reforma</title>
+         <p>V zadnjih dveh desetletjih so se pojavile nove, t. i. integrirane metode poučevanja, ki motivirajo študente za samostojni študij in naj bi prispevale tudi k hitrejšemu in učinkovitejšemu učenju. Integrirani pouk pomeni povezovanje med kliničnimi primeri in predkliničnim teoretičnim znanjem (vertikalno povezovanje) in obratno. Z njim se uvaja klinične primere že v prvem letniku študija. Drugi pristop pa je problemsko naravnan pouk (<italic>angl.</italic> PBL – problem based learning), ki osredotoča študentovo znanje okoli najpogostejših bolezenskih znakov, zaradi katerih bolnik obišče zdravnika. Bistvo tega pristopa je, da se študentje dobivajo z učiteljem v manjših skupinah, na srečanja pridejo že z določenim predznanjem, ki so ga pridobili iz knjig, in jim nato učitelji predstavijo klinični primer. Tak način pouka je sicer za učitelje in študente veliko napornejši kot klasične oblike, ima pa boljše rezultate pri dolgoročnem pomnjenju strokovnega znanja in njegovem povezovanju. Sodobni trend medicinskega poučevanja je tudi zgodnji stik z bolnikom, kar omogoča zgodnejše spoznavanje medicinske etike, vzpostavljanje kakovostnejšega odnosa do bolnika in boljše sporazumevanje z njim. V praksi to pomeni, da študent ob prvem pristopu k bolniku (recimo pri predmetu propedevtika interne medicine) že obvlada osnove komunikacije z bolnikom ipd. Dandanes se na MF srečujejo še z dodatno težavo pri učenju predvsem klinične medicine: bolniki se vse bolj zavedajo svojih pravic, zato neredko odklonijo študentov pregled. Zato uvajajo posebne modele učenja, t. i. laboratorije kliničnih veščin (<italic>angl.</italic> skill labs), z učenjem na lutkah in prostovoljcih (modelih), za kar so na MF ustanovili tudi simulacijski center.</p>
+         <p>Za regulirane poklice, kot sta medicina in dentalna medicina, »Bolonjska reforma« v Evropi ne velja v celoti, saj se večina držav odloča za enovit študij, ki traja šest let. Na ljubljanski MF so prenovili oba študijska programa, kar bo omogočilo boljšo izmenljivost študentov in sorodnost programa s programi drugih vrhunskih medicinskih fakultet v Evropi. V izhodiščih so zapisali:<italic> </italic>»Cilj pouka medicine je izobraziti diplomanta, da se bo sposoben vključiti v nadaljnji proces samostojnega in vodenega izobraževanja na področju medicine v kateri koli izmed medicinskih specialnosti, temeljna znanja pa mu omogočajo nadgradnjo v znanstvenoraziskovalnem delu.« Nov študijski program zagotavlja: visoko stopnjo povezovanja predmetov, povečan obseg izbirnosti študijskih vsebin, aktivno vlogo študenta v poučevanju, stik s stroko in bolnikom od prvega letnika naprej, prehodnost med posameznimi fakultetami in prehodnost kadrov med posameznimi evropskimi državami, skladno z bolonjsko deklaracijo. Predmetnik univerzitetnega študijskega programa vsebuje naslednje tipe predmetov: predklinične, klinične, javnozdravstvene in izbirne predmete. Kreditni sistem predvideva študentov 40-urni delavnik. Spremembe v urniku, glede na dosedanji program, so predvsem v tem, da se pouk klinike in stika z bolnikom prenese že v nižje letnike, specialna področja predkliničnih oz. teoretičnih predmetov se prenesejo v klinične sklope v višjih letnikih. Ti so organizirani glede na organske sisteme (pouk poteka interdisciplinarno), v šestem letniku, ki je namenjen integraciji znanja in celostnemu pogledu na bolnika, pa se k delu ob bolniku doda še pediatrija (<xref ref-type="bibr" rid="b27">27</xref>)<italic>.</italic>
+         </p>
+      </sec>
+      <sec id="s7" sec-type="Podiplomski študij">
+         <label>7</label>
+         <title>Podiplomski študij</title>
+         <p>MF je imela tudi vodilno vlogo pri razvoju podiplomskih programov na ljubljanski univerzi. Magistrski študij je uvedla med prvimi na Univerzi v Ljubljani v študijskem letu 1968/1969 in je do leta 1978/1979 trajal pet semestrov, nato pa štiri semestre. V letih 1976–1980 je bil organiziran študij akademske specializacije, ki je trajal štiri semestre, in ga je končalo 67 kandidatov. V devetdesetih letih 20. stoletja se je razvilo tudi eno- ali dvosemestrsko podiplomsko izobraževanje različnih kliničnih strok, ki ga je končalo nad 2000 slovenskih zdravnikov in zobozdravnikov, ter veliko krajših podiplomskih izobraževanj za zdravnike splošne medicine.</p>
+         <p>Leta 1989 je MF poskušala študij povezati z drugimi univerzitetnimi podiplomskimi programi (program podiplomske šole akad. prof. dr. Janeza Peklenika). Kljub temu da je povezovanje po letu dni zamrlo, je vendarle dal ta poskus nekaj novih izhodišč, ki so pospešila kasnejše združevanje podiplomskih študijev na ljubljanski univerzi. Večje število podiplomskih študentov in sodelujočih fakultetnih učiteljev, zlasti na MF, je namreč zahtevalo formalno organiziranje dotedanjega individualnega raziskovalnega dela. Zato je MF leta 1989 študij formalizirala in ga kreditno ovrednotila. Uvedli so individualne raziskovalne predmete in javne predstavitve predlogov magistrskih nalog, ki še danes sestavljajo bistveni del doktorskih programov (<xref ref-type="bibr" rid="b10">10</xref>).</p>
+         <p>Leta 1995 je MF v skladu z zakonodajo uvedla enovit magistrski in doktorski študij ter kreditni sistem, ki je omogočil neposredni prehod na doktorski študij. Ta je bil prilagojen evropskemu kreditnemu sistemu za podiplomske programe. Istega leta so skupaj z Biotehniško fakulteto, Fakulteta za farmacijo in Fakulteta za kemijo in kemijsko tehnologijo, v sodelovanju z Inštitutom Jožef Stefan in Kemijskim inštitutom pripravili podoben interdisciplinarni program Biokemije in molekularne biologije, ki ga je koordinirala MF, študent pa se je lahko vpisal na eni od sodelujočih fakultet. Program je prav tako omogočal pridobitev naziva doktor znanosti brez vmesne stopnje magisterija, če je kandidat predložil objavljen članek s področja doktorata v reviji s SCI (<italic>Science Citation Index</italic>) indeksiranjem. Podobno je deloval medfakultetni študij Mikrobiologije, ki sta ga izmenoma na vsaki dve leti koordinirali MF in Biotehniška fakulteta. Vsi trije programi so se leta 1999 pridružili štiriletnemu univerzitetnemu podiplomskemu študiju Biomedicina, ki je leta 2007 prerasel v skupni triletni doktorski program Biomedicina.</p>
+         <p>Sodobni podiplomski študij na MF se združuje v okviru univerzitetnega znanstvenega študija Biomedicina, sodeluje pa še v študijih varstva okolja in statistika. MF izvaja podiplomski študij na znanstvenih področjih, ki zajemajo medicinske vede, dentalno medicino, biokemijo in molekularno biologijo, mikrobiologijo, varstvo okolja in statistiko, vodijo pa k pridobitvi naziva doktor znanosti. V povezavi z Zdravniško zbornico Slovenije in Ministrstvom za zdravje izvaja MF tudi specializacije sodne medicine, patologije in mikrobiologije z imunologijo.</p>
+         <p>Doktorski študijski program biomedicina traja tri leta, obsega 180 kreditnih točk in je po bolonjski shemi program tretje stopnje. Poudarek doktorskega študija je na raziskovalnem delu, na interdisciplinarnosti študija in na sodelovanju mednarodno uveljavljenih domačih in tujih strokovnjakov. Doktorski program omogoča pridobitev naslova doktor/doktorica znanosti na številnih znanstvenih področjih: medicina – klinična usmeritev, medicina – temeljna usmeritev, socialna medicina, mikrobiologija, biokemija in molekularna biologija, farmacija, genetika, klinična biokemija in laboratorijska biomedicina, toksikologija in veterinarska medicina. V študijskem letu 2008/2009 je bilo na podiplomski študij vpisanih 338 študentov.</p>
+         <p>Prvi doktorat znanosti je bil na MF podeljen še pred formalno uvedbo podiplomskega študija leta 1957 (dr. Ivo Raišp). Od tedaj do konca leta 2018 je bilo na MF promoviranih 1079 magistrov znanosti in 1724 doktorjev znanosti (<xref ref-type="bibr" rid="b28">28</xref>).</p>
+      </sec>
+      <sec id="s8"
+           sec-type="Študenti, diplomanti in zaposleni na Medicinski fakulteti">
+         <label>8</label>
+         <title>Študenti, diplomanti in zaposleni na Medicinski fakulteti</title>
+         <p>V letih 1920–1930 je bilo v oba letnika medicine vpisanih okoli 100 študentov, v letih 1930–1940 okoli 200 študentov, po letu 1940 je njihovo število naraščalo in je bilo v vse tri letnike vpisano 300–400 študentov. Na popolni MF je bilo po letu 1949 vpisanih 600–1000 študentov. Vpis novincev je med letoma 1945 in 1962 stalno naraščal (400 in več novincev letno), nato so ga omejili s sprejemnimi izpiti (<xref ref-type="bibr" rid="b24">24</xref>). Tako se je na študij splošne medicine vpisovalo okoli 150 študentov, na študij stomatologije okoli 50 študentov. Kljub številnim vlogam MF na uradne naslove, da bi vpis povečali, saj so predvidevali pomanjkanje zdravnikov po upokojitvi številčne povojne generacije, so MF šele leta 2002 odobrili povečan vpis študentov. V študijskih letih 2002/2003–2011/2012 se je vpis povečal na 200 študentov splošne medicine, v letih 2007/2008–2011/2012 pa na 60 študentov dentalne medicine. Po tem so spet začeli vpisovati okoli 150 študentov splošne medicine in 50 študentov dentalne medicine. MF je povečan vpis zaradi pomanjkanja prostorskih in kadrovskih možnosti zelo obremenil in pouk je v imenovanem obdobju potekal od zgodnjih jutranjih do kasnih večernih ur. Ljubljansko MF je delno razbremenilo odprtje MF v Mariboru leta 2004, ki letno vpisuje okoli 100 študentov.</p>
+         <p>Razmerje med študentkami in študenti se je s časom spreminjalo. Ob ustanovitvi nepopolne MF je bilo vpisanih le 9 % študentk, okoli leta 1940 tretjina, med 1960 in 1970 polovica, v študijskem letu 1989/1990 jih je bilo že 63 %. Leta 2018 pa je na splošni medicini 68 % študentk in 32 % študentov ter na dentalni medicini 72 % študentk in 28 % študentov. Feminizacija zdravništva je postala vsakdanjost, saj so ženske bolj prilagodljive in pripravljene prenašati velike napore in odrekanja, kljub številnim zahtevam, ki jih poklic prinaša. Povprečna študijska doba je sedem do osem let. Študij v tem času uspešno konča približno 90 % vpisanih.</p>
+         <p>V letih 1946 do konca aprila 2019 je na MF študij končalo 8809 diplomantov medicine in 2269 diplomantov dentalne medicine, magisterij znanosti je opravilo 1079 diplomatov, doktorat znanosti pa 1724 diplomantov. V študijskem letu 2018/2019 je bilo na enovit magistrski študij vpisanih 1577 študentov, med njimi 1082 žensk in 495 moških, 1206 jih je študiralo medicino, 371 pa dentalno medicino. Na doktorski študij je bilo v istem letu vpisanih 371 študentov. V letu 2018 je na ljubljanski medicinski fakulteti diplomiralo 261 zdravnikov (180 žensk in 81 moških) in 56 zobozdravnikov (45 žensk in 11 moških) (<xref ref-type="bibr" rid="b28">28</xref>).</p>
+         <p>Po podatkih dekanata UL MF je bilo leta 1992 na MF zaposlenih 644 uslužbencev, med njimi je bilo 240 fakultetnih učiteljev in sodelavcev. Leta 2019 pa je fakulteta imela 935 zaposlenih, od teh je bilo 251 visokošolskih učiteljev in 87 asistentov (<xref ref-type="fig" rid="fig12">Slika 12</xref>). V istem jubilejnem letu je bilo na MF vpisanih 1544 študentov medicine in dentalne medicine s statusom, na doktorskem programu Biomedicina pa 389 slušateljev. Že od ustanovitve MF je na nekaterih predkliničnih inštitutih – mikrobiološkem, patološkem in sodnomedicinskem – razvita strokovna zdravstvena dejavnost, ki opravlja storitve za potrebe zdravstvene službe, predvsem za Univerzitetni klinični center Ljubljana.</p>
+         <fig position="anchor" id="fig12">
+            <label>Slika 12:</label>
+            <caption>
+               <p> Del učnega kadra UL Medicinske fakultete leta 2019 (foto Špela Gobec).</p>
+            </caption>
+            <p>
+               <graphic xlink:href="3018-sl-web-resources/image/zdravvestn-3018-en-12.png"/>
+            </p>
+         </fig>
+         <p>
+            <italic>Računalniško in informacijsko središče (RIS</italic>
+            <italic>) </italic>skrbi za osrednji del omrežja MF (Komunikacijske in informacijske mreže MF), osrednje storitve in aplikacije ter nudi pomoč koordinatorjem lokalnih omrežij (<xref ref-type="bibr" rid="b29">29</xref>).</p>
+      </sec>
+      <sec id="s9" sec-type="Raziskovalno delo">
+         <label>9</label>
+         <title>Raziskovalno delo</title>
+         <p>Medicinska fakulteta skozi ves čas obstoja razvija znanstvenoraziskovalno delo. Obsežnejši prikaz presega tukajšnji namen. Sicer pa sodeluje v današnjem času v številnih mednarodnih in evropskih projektih, med njimi so najpomembnejši Obzorje 2020, Erasmus+ in COST. V letu 2018 je fakulteta imela 20 raziskovalnih projektov, 49 raziskovalnih programov in projektov ARRS, dva infrastrukturna programa, zaposlenih pa je bilo 41 mladih raziskovalcev. Za prikaz obsega najuspešnejših objav v letu 2018 zapišimo podatke: 279 izvirnih znanstvenih člankov (29 s faktorjem vpliva 5–10, 10 s faktorjem nad 10), 62 preglednih znanstvenih člankov, prijavljenih je bilo osem patentov in objavljenih 19 znanstvenih monografij oz. poglavij v njih (<xref ref-type="bibr" rid="b28">28</xref>).</p>
+      </sec>
+      <sec id="s10" sec-type="Mednarodno sodelovanje">
+         <label>10</label>
+         <title>Mednarodno sodelovanje</title>
+         <p>Medicinska fakulteta ima vzpostavljena sodelovanja z državami v EU in na Balkanu, po svetu pa druga strateška partnerstva. Aktivno sodeluje tudi v združenju evropskih medicinskih fakultet (ECTS – MA – <italic>European </italic>
+            <italic>Credit Transfer System – Medicine Assocciation</italic>) in v združenju fakultet za področje primarnega zdravstvenega varstva (NPHC – <italic>Network of Primary Health Care</italic>). V zadnjih dveh desetletjih fakulteta vse intenzivneje izvaja program Erasmus+, kjer je leta 2019 sodelovala z 99 medicinskimi fakultetami in univerzami v EU in Evropskem gospodarskem prostoru. Od tam na fakulteti gostujejo tuji predavatelji in strokovnjaki, ljubljanski strokovnjaki pa odhajajo k njim. (<xref ref-type="bibr" rid="b28">28</xref>) V septembru 2008 je fakulteta v sodelovanju s študentskima organizacijama medicine in dentalne medicine vzpostavila sistem študentskega tutorstva za gostujoče Erasmus+ študente. Pri tem so se predstojniki kateder, študentska pisarna MF, študentski organizaciji in Centralna medicinska knjižnica aktivno vključili v organizacijo študija za bodoče Erasmus+ študente.</p>
+         <p>Izmenjave študentov po programu Erasmus+ so se iz leta v leto širile in do leta 2018 je prišlo v Slovenijo ok. 800 tujih študentov, v tujino pa odšlo ok. 700 naših študentov. V letu 2017/2018 je preko programa Erasmus+ šlo v tujino na študijske izmenjave 63 študentov z Medicinske fakultete, 74 jih je šlo na praktično usposabljanje, 60 pa se jih je udeležilo sodelovanja preko bilateralnih sporazumov z ZDA in Brazilijo. Iz tujine je na ljubljansko medicinsko fakulteto prišlo 99 Erasmus+ študentov na študijske izmenjave, 23 na praktična usposabljanja, 11 preko meduniverzitetnih sporazumov in osem preko programa Mobilnost CEEPUS. MF je tudi vpeljala študentski in učiteljski sistem tutorstva za gostujoče študente (<xref ref-type="bibr" rid="b28">28</xref>).</p>
+      </sec>
+      <sec id="s11" sec-type="Založniška in publicistična dejavnost">
+         <label>11</label>
+         <title>Založniška in publicistična dejavnost</title>
+         <p>V stotih letih je MF izdala veliko učbenikov, skript in najrazličnejših študijskih gradiv v slovenskem jeziku. V času, ko še niso bili lahko dostopni, so pomenili edino tiskano študijsko literaturo. Danes strokovnjaki in študenti uporabljajo veliko strokovnih knjig v tujih jezikih in strokovne vire na medmrežju. Medicinska fakulteta ostaja pri odločitvi, da je izdajanje lastnih učbenikov pomembno, saj lahko domači strokovni pisci vanje vnesejo tudi strokovna izhodišča, ki so vezana na nacionalni prostor in zdravstvene posebnosti tukajšnjega prebivalstva. Ob tem bogatijo slovenski strokovni jezik in utrjujejo njegovo rabo, ki je tako pomembna pri pogovoru zdrav­stvenega osebja z bolnikom.</p>
+         <p>Revija Medicinski razgledi izhaja na MF od leta 1962. Ustanovila jo je skupina študentov medicine in stomatologije. Člani uredništva so izključno študenti medicine in dentalne medicine, ki delujejo prostovoljno. Prvotni namen je bil objavljati pregledne članke, ki bi jih uporabili kot dopolnilno študijsko gradivo. V skoraj polstoletnem obstoju je revija prerasla v recenzirano strokovno revijo, ki objavlja pregledne, strokovne in raziskovalne članke s področja biomedicine ter prikaze primerov iz klinične prakse. Avtorji člankov so večinoma zdravniki, predvsem fakultetni učitelji. Vsak letnik je sestavljen iz štirih številk. Revija ima tudi dodatek, ki prinaša tudi druge vsebine.</p>
+      </sec>
+      <sec id="s12" sec-type="Prostorski pogoji">
+         <label>12</label>
+         <title>Prostorski pogoji</title>
+         <p>Leta 1987 se je končala prva faza izgradnje petih predkliničnih inštitutov, ki so bili ozko grlo izobraževanja zdravništva, tj. za anatomijo, histologijo z embriologijo, patologijo, farmakologijo in sodno medicino. V novo Ažmanovo stavbo na Korytkovi ulici 2 v Ljubljani se je vselil tudi oddelek za imunologijo Mikrobiološkega inštituta. Imenovani inštituti so dobili prostore za pedagoško, strokovno-znanstveno in znanstvenoraziskovalno delo, hkrati pa dopolnjujejo Univerzitetni klinični center v Ljubljani. Odprto je ostalo vprašanje izgradnje druge faze nove medicinske fakultete, ki zajema preostalih 12 inštitutov, Centralno medicinsko knjižnico, dekanat in prostore za študente. Znanstveno-pedagoški svet MF je pripravo načrta za zgraditev druge faze ob novi stavbi podprl že leta 1970. Zahteva, da se načrt izpelje, je bila ponovljena leta 1993, ko je Ministrstvo za zdravstvo sprejelo nalogo, da se pripravi temeljna informacija za smotrno poselitev bivše »vojne bolnice« na Zaloški cesti in uredi celotni kompleks kliničnega centra, kjer so še nameščeni fakultetni inštituti. Nadalje je MF leta 2015 uspela zgraditi nadomestno stavbo južnega trakta dekanata (nekdanje šentpetrske kasarne), kamor sta se preselila inštituta za biokemijo in biologijo celice. Rešitve za prostorske stiske še nekaterih drugih predkliničnih enote MF pa so v pripravi kot prenove ali novogradnje: kampus na Vrazovem trgu, kampus ob Korytkovi ulici in ob Zaloški cesti.</p>
+      </sec>
+      <sec id="s13" sec-type="Stanovska tradicija">
+         <label>13</label>
+         <title>Stanovska tradicija</title>
+         <p>Medicinska fakulteta neguje stanovsko tradicijo. Katedre in inštituti MF imajo svoje predmetne zbirke anatomskih, patoloških in sodnomedicinskih preparatov, mikroskopov, nacionalno zgodovinsko medicinsko zbirko z bogato knjižnico starih strokovnih knjig in drugo. Fakulteta želi ohranjati svež spomin na svoje predhodnike in učitelje, na vizionarje v stroki in nosilce naprednih misli v posameznih obdobjih. Tako je ob svoji 100-letnici 16. oktobra 2019 pred stavbo Medicinske fakultete na Korytkovi ulici odkrila doprsni kip njenemu dolgoletnemu dekanu prof. dr. Alfredu Šerku, ki je najzaslužnejši, da nepopolna fakulteta med obema svetovnima vojnama ni bila ukinjena. Prav tako je fakulteta v spomin na velike slovenske zdravnike ob imenovanem jubileju po njih poimenovala predavalnice. Ob strokovnih srečanjih, ki jih pripravljajo fakultetne katedre in inštituti, v sodelovanju s klinikami in stanovskimi združenji, npr. Slovenskim zdravniškim društvom in Zdravniško zbornico Slovenije, se zbirajo slovenski zdravniki različnih specialnosti in posodabljajo svoje znanje. Strokovna srečanja se v številnih primerih imenujejo po znanih slovenskih zdravnikih. Patologi z anatomi in histologi imajo Plečnikov memorial, internisti in splošni zdravniki Tavčarjeve dneve, pediatri Derčeve in dermatovenerologi Kogojeve dneve, infektologi Bedjaničeve, ortodonti Rantove, čeljustni kirurgi Čelešnikove dneve, zgodovinarji medicine Pintarjeve in klinični psihologi Bregantove dneve. Sodni medicinci se zbirajo na memorialih akademika Janeza Milčinskega. Obstajajo še druga stanovska druženja. Večina teh srečanj ima mednarodno udeležbo, njihova vsebina pa je pogosto objavljena v zbornikih.</p>
+         <p>Na nekaterih katedrah in inštitutih MF so tudi uredništva strokovnih revij. Številni učitelji so recenzenti v domačih in mednarodnih strokovnih revijah. Po svetu uspešno delajo in so cenjeni številni zdravniki, ki so študirali na ljubljanski medicinski fakulteti. Pomembno je tudi sodelovanje posameznih enot MF z drugimi slovenskimi znanstvenimi ustanovami: z Univerzitetnim kliničnim centrom v Ljubljani in Mariboru, z Onkološkim inštitutom, z Inštitutom Jožef Stefan in Kemijskim inštitutom, z Biotehniško fakulteto in s Fakulteto za naravoslovje in tehnologijo ter s Fakulteto za elektrotehniko, s farmacevtsko industrijo in z drugimi. Interdisciplinarno delo na številnih področjih kaže, kako se z njimi plemenitijo nova spoznanja in uporabljajo v dobro človeka (<xref ref-type="bibr" rid="b30">30</xref>).</p>
+      </sec>
+      <sec id="s14" sec-type="Sklep">
+         <label>14</label>
+         <title>Sklep</title>
+         <p>Ljubljanska medicinska fakulteta je s 100-letno tradicijo od nepopolne, ustanovljene leta 1919, do popolne fakultete, ustanovljene leta 1945, dokazala svojo trdnost, pedagoško, strokovno in znanstvenoraziskovalno uspešnost in prodornost. Za slovenski zdravstveni prostor je od časa svoje popolnosti do sredine leta 2019 vzgojila 11.078 zdravnikov in zobozdravnikov, ki v maternem jeziku zdravijo bolnike, izvajajo preventivno in kurativno zdravstveno varstvo vse populacije, nudijo strokovno pomoč v splošnih in specialističnih ambulantah, v regionalnih in kliničnih bolnišnicah, zdraviliških in rehabilitacijskih centrih, kjer na primarni, sekundarni ali terciarni ravni zagotavljajo vse potrebne zdrav­stvene storitve. Medicinska fakulteta v Ljubljani si je s podiplomskim študijem zagotovila tudi lastni raziskovalni kader, ki s številnimi doktorji znanosti (1724 do sredine leta 2019, magistrov znanosti pa 1079) nadaljuje uspešno znanstvenoraziskovalno delo na predkliničnih in kliničnih področjih. Med njimi tudi habilitira svoje učitelje in asistente. Ustanova je ob vseh prostorskih, materialnih in kadrovskih stiskah vedno iskala najboljšo pot za vzgojo in izobraževanje novih zdravnikov in zobozdravnikov. Zadovoljstvo bolnikov z njihovim delom pa je največje priznanje tej učni ustanovi.</p>
+         <p>Leta 2004 je tudi Univerza Maribor ustanovila lastno MF, na kateri je do leta 2018 izobrazila ok. 600 zdravnikov.</p>
+         <p>Mejniki medicinskega izobraževanja v Ljubljani </p>
+         <p>1597, 1619</p>
+         <p>1597 je bil v Ljubljani ustanovljen Jezuitski kolegij, ki je lata 1619 uvedel prve visokošolske študije.</p>
+         <p>1693</p>
+         <p>Slovenska medicina ima svoje zgodnje predhodnike v razsvetljenski Akademiji delovnih (<italic>Academia Operosorum</italic>, 1693–1725) z njeno medicinsko sekcijo in z dr. Markom Gerbcem.</p>
+         <p>okoli 1750</p>
+         <p>Filip Jakob Brecelj je sredi 18. stoletja <italic>v </italic>Ljubljani prirejal anatomske vaje in predavanja v zasebnem anatomskem zavodu <italic>Collegium publicum</italic>.</p>
+         <p>1753</p>
+         <p>Leta 1753 je bila v Ljubljani ustanovljena<italic> </italic>Babiška šola, kar štejemo za začetek ljubljanske medicinske šole.</p>
+         <p>1780, 1782</p>
+         <p>Leta 1780 je na Babiški šoli magister anatomije, kirurgije in porodništva Anton Makovic začel poučevati v slovenskem jeziku. On je leta 1782 iz nemškega jezika v slovenščino prevedel prvo medicinsko knjigo, babiški učbenik <italic>Prašanja </italic>
+            <italic>inu odgovori čez ušegarstvu</italic>, pri čemer je opravil pionirsko delo v slovenskem porodniškem izrazoslovju.</p>
+         <p>1782, 1786</p>
+         <p>Leta 1782 so na liceju k pouku filozofije in teologije v Ljubljani in Celovcu dodali še mediko-kirurški študij, ustanovljen je bil t. i. Mediko-kirurški učni zavod za izobraževanje srednjih zdravstvenih kadrov, ki velja za predhodnika prve medicinske fakultete pri nas. Z letom 1786 je Ljubljana dobila prvo civilno bolnišnico, v kateri so potekale klinične vaje za Mediko-kirurški učni zavod.</p>
+         <p>1809–1919</p>
+         <p>V času Ilirskih provinc (1809–1813) je Mediko-kirurški učni zavod postal <italic>École centrale</italic> in napredoval na raven medicinske fakultete, ki pa zaradi restavracije avstrijske oblasti leta 1813 ni uspela izobraziti niti prve generacije diplomantov. Leta 1848 smo na Slovenskem ostali brez medicinskega liceja, ohranile so se le babiške šole. Zdravniki so se od leta 1861 zbirali v Zdravniškem bralnem društvu, od 1863 v Društvu zdravnikov na Kranjskem, od 1876 v Društvu zdravnikov na Štajerskem, po letu 1919 pa v Slovenskem zdravniškem društvu. Leta 1918 je bila pri Slovenskem zdravniškem društvu ustanovljena podkomisija za ustanovitev Medicinske fakultete na bodoči Univerzi v Ljubljani. Sestavljali so jo dr. Lojz Kraigher, dr. Ivan Oražen in dr. Alojz Zalokar.</p>
+         <p>1919–1943</p>
+         <p>Leta 1919 je bila ustanovljena nepopolna Medicinska fakulteta s štirimi pred­kliničnimi semestri, njeno vodenje sta kot dekan in prodekan večino časa do druge svetovne vojne predano opravljala profesorja Alfred Šerko in Janez Plečnik. Študij se je začel novembra 1919, vpisalo se je 66 študentov, ki so po štirih semestrih študij nadaljevali na drugih medicinskih fakultetah, sprva predvsem v Pragi, kasneje ponovno tudi v Avstriji (Dunaj, Gradec, Innsbruck) in v Zagrebu ter Beogradu. Dr. Ivan Oražen je leta 1921 Medicinski fakulteti zapustil hiši v Wolfovi ulici in na Dolenjski cesti v Ljubljani. V letih 1919–1939 je bila nepopolna Medicinska fakulteta z večino inštitutov nastanjena v stavbi Anatomskega inštituta na Zaloški 4, ki je bila ena prvih univerzitetnih novogradenj. Načrte za zgradbo je izdelal arhitekt Ivan Vurnik in je danes spomeniško zaščitena. Leta 1940 je vlada kraljevine Jugoslavije fakulteti odobrila še 5. in 6. semester in študijski program se je razširil za tri predmete: patologijo, kirurgijo in interno medicino. Stiska je povezovala učitelje in študente v nenehnih prizadevanjih za pridobitev popolne Medicinske fakultete. Junija 1943 je bil študij na fakulteti zaradi vojnih razmer prekinjen.</p>
+         <p>1945</p>
+         <p>Julija leta 1945 je bila ustanovljena popolna Medicinska fakulteta z 10 semestri. Fakulteta je prevzela zdravstvene zavode na območju ljubljanske splošne bolnišnice in v njeni soseščini ter v njih naselila klinike in inštitute. Na pionirski način in z neizmerno predanostjo je skromna kadrovska zasedba uspela vpeljati popolni študij medicine. Tedaj je imela fakulteta 27 učiteljev in 566 slušateljev. Na popolni Medicinski fakulteti je bila ustanovljena tudi Stomatološka klinika.</p>
+         <p>Pod vodstvom rektorja Univerze Riharda Zupančiča (1920–1921) je Univerzitetni svet sklenil, da nepopolna MF postane popolna z 10 semestri. Že za časa njegovega naslednika Gregorja Gojmirja Kreka (1921–1922) je tedanja oblast začela razmišljati o ukinitvi MF. Za časa rektorja Karla Hiterlechnerja (1924–1925) so oblasti poskušale ukiniti celotno slovensko univerzo, rektor Milan Vidmar (1928–1929) pa je nagovoril kralja Aleksandra Karađorđevića, da se Univerza po njem poimenuje in ji je s tem zagotovil integriteto. V času rektorske funkcije zdravnika Alfreda Šerka (1930–1932) je tudi ta obvaroval ljubljansko medicinsko fakulteto pred njeno ukinitvijo. Nato se je Univerza nemoteno nadalje razvijala. (<xref ref-type="bibr" rid="b31">31</xref>)</p>
+         <p>1949–1954</p>
+         <p>V študijskem letu 1949/1950 se je Medicinska fakulteta odcepila od Univerze v Ljubljani in kot Medicinska visoka šola vzgojila eno generacijo zdravnikov (1949–1954), leta 1954 pa se je ponovno priključila Univerzi. V letih odcepitve so ustanovili Stomatološko fakulteto. V letih 1954–1960 se je šola imenovala Fakulteta za splošno medicine in stomatologijo, leta 1960 pa se je preimenovala v Medicinsko fakulteto z dvema odsekoma – odsekom za splošno medicino in odsekom za stomatologijo.</p>
+         <p>1962</p>
+         <p>Skupina študentov medicine in stomatologije je ustanovila svojo revijo <italic>Medicinski razgledi</italic>, ki še vedno izhaja. Ureja jo študentski uredniški odbor, strokovne prispevke pa prispevajo študenti raziskovalci in pedagoški delavci MF.</p>
+         <p>1968–1987</p>
+         <p>Leta 1968/1969 je Medicinska fakulteta uvedla magistrski študij in leta 1995 enoviti doktorski študij. V študijskem letu 1989/1990 se je študij z desetih semestrov podaljšal na dvanajst semestrov. Leta 1975 je z izgradnjo nove stavbe Kliničnega centra v Ljubljani Medicinska fakulteta pridobila prepotrebne predavalnice, seminarske prostore in prostore za klinične vaje. Desetletje za tem, leta 1987, so se inštituti za anatomijo, histologijo, patologijo, sodno medicino, mikrobiologijo in farmakologijo preselili v novo stavbo Medicinske fakultete na Korytkovi ulici, študenti pa so končno pridobili sodobne vajalnice, študijske prostore in drugo.</p>
+         <p>2009 –</p>
+         <p>Leta 2009/2010 je na Medicinski fakulteti stekel reformiran študijski program (bolonjska reforma), usklajen z evropskimi smernicami. Iz leta v leto se povečuje izmenjava študentov o okviru programov mobilnosti kot je program Erasmus+. Leta 2015 je Medicinska fakulteta zgradila še novo stavbo za predklinična inštituta za biokemijo in biologijo celice na Vrazovem trgu. Ima pa tudi načrte za nadaljnje izboljšanje svojih prostorskih možnosti. Medicinska fakulteta se intenzivno razvija na akademskem, znanstvenoraziskovalnem in strokovnem področju.</p>
+         <p>Do konca aprila 2019 je na Medicinski fakulteti UL študij končalo</p>
+         <list>
+            <list-item>
+               <label>•</label>
+               <p>8809 – diplomantov medicine (zdravniki),</p>
+            </list-item>
+         </list>
+      </sec>
+   </body>
+   <back>
+      <ref-list>
+         <ref id="b1">
+            <label>1. </label>
+            <mixed-citation publication-type="unknown" specific-use="unparsed">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Mušič</surname> 
+                     <given-names>D</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Borisov</surname> 
+                     <given-names>P.</given-names>
+                  </string-name>
+               </person-group> Gerbec Marko. V: Enciklopedija Slovenije, zv. 3. Ljubljana: Mladinska knjiga, <year>1989</year>: 204–5.</mixed-citation>
+         </ref>
+         <ref id="b2">
+            <label>2. </label>
+            <mixed-citation publication-type="book" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Borisov</surname> 
+                     <given-names>P</given-names>
+                  </string-name>
+               </person-group>. <source>Od ranocelništva do začetkov znanstvene kirurgije na Slovenskem</source>. <publisher-loc>Ljubljana</publisher-loc>: <publisher-name>SAZU</publisher-name>; <year>1977</year>. pp. <fpage>159</fpage>–<lpage>67</lpage>.</mixed-citation>
+         </ref>
+         <ref id="b3">
+            <label>3. </label>
+            <mixed-citation publication-type="book" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Borisov</surname> 
+                     <given-names>P</given-names>
+                  </string-name>
+               </person-group>. <source>Ginekologija na Slovenskem od začetkov do leta 1980</source>. <publisher-loc>Ljubljana</publisher-loc>: <publisher-name>SAZU</publisher-name>; <year>1995</year>. pp. <fpage>50</fpage>–<lpage>9</lpage>.</mixed-citation>
+         </ref>
+         <ref id="b4">
+            <label>4. </label>
+            <mixed-citation publication-type="book" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Makovic</surname> 
+                     <given-names>A</given-names>
+                  </string-name>
+               </person-group>. <source>Prashanja inu odgovori zhes vshegarstvu</source>. <publisher-loc>Ljubljana</publisher-loc>: <publisher-name>Predgovor</publisher-name>; <year>1782</year>.</mixed-citation>
+         </ref>
+         <ref id="b5">
+            <label>5. </label>
+            <mixed-citation publication-type="unknown" specific-use="unparsed">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Rijavec</surname> 
+                     <given-names>L.</given-names>
+                  </string-name>
+               </person-group> 
+               <article-title>Ljubljanske bolnišnice.</article-title> Prispevek k njihovi zgodovini. Ljubljana: Uprava kliničnih bolnišnic <year>1960</year>: 21–3.</mixed-citation>
+         </ref>
+         <ref id="b6">
+            <label>6. </label>
+            <mixed-citation publication-type="unknown" specific-use="unparsed">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Pintar</surname> 
+                     <given-names>I.</given-names>
+                  </string-name>
+               </person-group> 
+               <article-title>Mediko-kirurški učni zavod v Ljubljani, njegov nastanek, razmah in konec.</article-title> Ljubljana: samozal., <year>1939</year>: 48–54.</mixed-citation>
+         </ref>
+         <ref id="b7">
+            <label>7. </label>
+            <mixed-citation publication-type="unknown" specific-use="unparsed">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Polec</surname> 
+                     <given-names>J.</given-names>
+                  </string-name>
+               </person-group> Ljubljansko višje šolstvo v preteklosti in borba za slovensko univerzo. V: Zgodovina slovenske univerze v Ljubljani do leta 1929. Ljubljana, Rektorat univerze, <year>1929</year>.</mixed-citation>
+         </ref>
+         <ref id="b8">
+            <label>8. </label>
+            <mixed-citation publication-type="unknown" specific-use="unparsed">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Smerdu</surname> 
+                     <given-names>F.</given-names>
+                  </string-name>
+               </person-group> Sto let zdravniškega društva. V: Poslanstvo slovenskega zdravnika. Ljubljana: Slovenska matica, <year>1965</year>: 21–76.</mixed-citation>
+         </ref>
+         <ref id="b9">
+            <label>9. </label>
+            <mixed-citation publication-type="unknown" specific-use="unparsed">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Zupanič Slavec</surname> 
+                     <given-names>Z.</given-names>
+                  </string-name>
+               </person-group> Iz rok v roke, iz roda v rod: Slovensko zdravniško društvo in njegovi predsedniki: ob 140-letnici ustanovitve. Ljubljana: Slovensko zdravniško društvo, Znanstveno društvo za zgodovino zdravstvene kulture Slovenije, <year>2001</year>: 61–6.</mixed-citation>
+         </ref>
+         <ref id="b10">
+            <label>10.	</label>
+            <mixed-citation publication-type="legal-doc" specific-use="unparsed">Zupanič Slavec Z. Medicinska fakulteta. V: Ciperle J (ur.), Krbavčič A (ur.). 90 let Univerze v Ljubljani: med tradicijo in izzivi časa. Ljubljana: Rektorat Univerze. 2009. P. 550–567.</mixed-citation>
+         </ref>
+         <ref id="b11">
+            <label>11. </label>
+            <mixed-citation publication-type="unknown" specific-use="unparsed">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Zalokar</surname> 
+                     <given-names>A.</given-names>
+                  </string-name>
+               </person-group> 
+               <article-title>Ljubljanska Medicinska fakulteta.</article-title> Misel in delo, <year>1934</year>; 5: 5.</mixed-citation>
+         </ref>
+         <ref id="b12">
+            <label>12. </label>
+            <mixed-citation publication-type="book" specific-use="restruct">
+               <person-group person-group-type="author">Anon.</person-group> 
+               <source>Medicinska fakulteta zagrebškega vseučilišča in Slovenci</source>. <publisher-name>Liječ Vijest</publisher-name>; <year>1917</year>. pp. <fpage>380</fpage>–<lpage>7</lpage>.<annotation>
+                  <p content-type="warning">Could not find a publisher location in this book reference. (Ref. 12 "Anon., 1917")</p>
+               </annotation>
+            </mixed-citation>
+         </ref>
+         <ref id="b13">
+            <label>13.	</label>
+            <mixed-citation publication-type="legal-doc" specific-use="unparsed">Borisov P. Medicinska fakulteta v Ljubljani in njen razvoj med dvema svetovnima vojnama (1919–1945). V: Medicinska fakulteta Univerze v Ljubljani: 1919–1943: zgodovinski zbornik. Ljubljana: Inštitut za zgodovino medicine, Zdravniška zbornica Slovenije, 20.</mixed-citation>
+         </ref>
+         <ref id="b14">
+            <label>14. </label>
+            <mixed-citation publication-type="unknown" specific-use="unparsed">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Zupanič Slavec</surname> 
+                     <given-names>Z</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Štolfa</surname> 
+                     <given-names>F.</given-names>
+                  </string-name>
+               </person-group> Dr. Ivan Oražen (1869–1921): dobrotnik Medicinske fakultete in slovenskega naroda. Ljubljana: Medicinska fakulteta, <year>1998</year>.</mixed-citation>
+         </ref>
+         <ref id="b15">
+            <label>15. </label>
+            <mixed-citation publication-type="book" specific-use="restruct">
+               <person-group person-group-type="author">Anon.</person-group> 
+               <source>Spomenica Društva medicincev o nepopolni medicinski fakulteti in pomanjkljivi zdravstveni organizaciji v Sloveniji</source>. <publisher-loc>Ljubljana</publisher-loc>; <year>1940</year>.<annotation>
+                  <p content-type="warning">Could not find a publisher name in this book reference. (Ref. 15 "Anon., 1940")</p>
+               </annotation>
+            </mixed-citation>
+         </ref>
+         <ref id="b16">
+            <label>16. </label>
+            <mixed-citation publication-type="unknown" specific-use="unparsed">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <given-names>ZAMU</given-names> 
+                     <surname>Fond</surname>
+                  </string-name>
+               </person-group>: MF, fasc. II/148, št. 361/43.</mixed-citation>
+         </ref>
+         <ref id="b17">
+            <label>17.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Kostnapfel</surname> 
+                     <given-names>J</given-names>
+                  </string-name>
+               </person-group>. <article-title>Pred pol stoletja</article-title>. <source>Zdrav Vestn</source>. <year>1995</year>;<volume>64</volume>(<issue>IV</issue>):<fpage>37</fpage>–<lpage>8</lpage>.<issn>0350-0063</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b18">
+            <label>18. </label>
+            <mixed-citation publication-type="unknown" specific-use="unparsed">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Konjajev</surname> 
+                     <given-names>Z</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Zupanič Slavec</surname> 
+                     <given-names>Z</given-names>
+                  </string-name>
+               </person-group> (ur). Zvestoba Hipokratu. Ljubljana. Inštitut za zgodovino medicine, <year>1999</year>.</mixed-citation>
+         </ref>
+         <ref id="b19">
+            <label>19. </label>
+            <mixed-citation publication-type="unknown" specific-use="unparsed">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Zupanič Slavec</surname> 
+                     <given-names>Z</given-names>
+                  </string-name>, <string-name name-style="western">
+                     <surname>Slavec</surname> 
+                     <given-names>K.</given-names>
+                  </string-name>
+               </person-group> Prva generacija medicincev na popolni Medicinski fakulteti v Ljubljani leta 1945 - ob 65-letnici vpisa. Zdrav Vestn 80; <year>2011</year> (7/8): 599–613.</mixed-citation>
+         </ref>
+         <ref id="b20">
+            <label>20. </label>
+            <mixed-citation publication-type="unknown" specific-use="unparsed">Odlok Narodne vlade Slovenije. Uradni list SNOS in NVS, 171 (31.7.1945), 23 (<year>1945</year>).</mixed-citation>
+         </ref>
+         <ref id="b21">
+            <label>21. </label>
+            <mixed-citation publication-type="unknown" specific-use="unparsed">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Rant</surname> 
+                     <given-names>J.</given-names>
+                  </string-name>
+               </person-group> Razvoj zobozdravstva v Sloveniji. V: Poslanstvo slovenskega zdravnika. Ljubljana: Slovenska matica, <year>1965</year>: 240–51.</mixed-citation>
+         </ref>
+         <ref id="b22">
+            <label>22. </label>
+            <mixed-citation publication-type="unknown" specific-use="unparsed">Zakon o strokovnih nazivih in akademskih stopnjah. Uradni list SFRJ, 13 (<year>1963</year>).</mixed-citation>
+         </ref>
+         <ref id="b23">
+            <label>23.	</label>
+            <mixed-citation publication-type="legal-doc" specific-use="unparsed">Medicinska fakulteta. V: Petdeset let slovenske Univerze v Ljubljani: 1919–1969. Ljubljana: Univerza, 1969: 481–521.</mixed-citation>
+         </ref>
+         <ref id="b24">
+            <label>24. </label>
+            <mixed-citation publication-type="unknown" specific-use="unparsed">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Fettich</surname> 
+                     <given-names>J.</given-names>
+                  </string-name>
+               </person-group> Medicinska fakulteta. V: Enciklopedija Slovenije, zv. 7. Ljubljana: Mladinska knjiga, <year>1993</year>: 35–6.</mixed-citation>
+         </ref>
+         <ref id="b25">
+            <label>25. </label>
+            <mixed-citation publication-type="unknown" specific-use="unparsed">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Zupanič Slavec</surname> 
+                     <given-names>Z.</given-names>
+                  </string-name>
+               </person-group> Osem desetletij slovenskega šolanja zdravništva. V: Medicinska fakulteta v Ljubljani. Ob 80-letnici ustanovitve. Ljubljana: Medicinska fakulteta, <year>1999</year>: 11–29.</mixed-citation>
+         </ref>
+         <ref id="b26">
+            <label>26. </label>
+            <mixed-citation publication-type="unknown" specific-use="unparsed">Podatki tajništva MF UL, 23.7.<year>2009</year>.</mixed-citation>
+         </ref>
+         <ref id="b27">
+            <label>27.	</label>
+            <mixed-citation publication-type="legal-doc" specific-use="unparsed">Splošni načrt posodobitve dodiplomskega pouka na Medicinski fakulteti (MF) v Ljubljani. (arhiv Medicinske fakultete UL). Sprejeto na seji senata MF, 18/12/2000.</mixed-citation>
+         </ref>
+         <ref id="b28">
+            <label>28. </label>
+            <mixed-citation publication-type="unknown" specific-use="parsed">
+               <article-title>Podatki podiplomskega oddelka MF UL, pridobljeni novembra</article-title> 
+               <year>2019</year>.</mixed-citation>
+         </ref>
+         <ref id="b29">
+            <label>29. </label>
+            <mixed-citation publication-type="unknown" specific-use="unparsed">Enovit magistrski študij medicina UL Medicinska fakulteta. Vloga za pridobitev soglasja k študijskemu programu (članice) Univerze oziroma samostojnega visokošolskega zavoda. MF UL, <year>2008</year>: 2–6.</mixed-citation>
+         </ref>
+         <ref id="b30">
+            <label>30.	</label>
+            <mixed-citation publication-type="legal-doc" specific-use="unparsed">Zupanič Slavec Z. Devetdeset let Medicinske fakultete Univerze v Ljubljani (1919–2009). Zdrav Vestn 78; 2009 (11): 659–72.</mixed-citation>
+         </ref>
+         <ref id="b31">
+            <label>31.	</label>
+            <mixed-citation publication-type="legal-doc" specific-use="unparsed">100 let Univerze v Ljubljani. Ljubljana: Univerza v Ljubljani, 2019: 32–5.</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>
