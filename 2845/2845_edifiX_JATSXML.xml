@@ -1470,12 +1470,14 @@
          <ref id="b53">
             <label>53. </label>
             <mixed-citation publication-type="book">
-                    <person-group person-group-type="author">
-                        <collab>National Cancer Institute</collab>
-                    </person-group>. 
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <collab>National Cancer Institut</collab>
+                  </name>.
+               </person-group>
                     <source>Head and neck cancers. What are cancers of the head and neck?</source>
                     <publisher-loc>Bethesda (MD)</publisher-loc>: 
-                    <publisher-name>NIH</publisher-name>; 
+                    <publisher-name>NCI</publisher-name>; 
                     <year>2017</year>.
                 </mixed-citation>
          </ref>
@@ -1520,6 +1522,24 @@
          <ref id="b55">
             <label>55. </label>
             <mixed-citation publication-type="book">
+               <person-group person-group-type="editor">
+                  <name name-style="western">
+                     <surname>Lui</surname>
+                     <given-names>JC</given-names>
+                  </name>, 
+                  <name name-style="western">
+                     <surname>Pagedar</surname>
+                     <given-names>NA</given-names>
+                  </name>, 
+                  <name name-style="western">
+                     <surname>Goldenberg</surname>
+                     <given-names>D</given-names>
+                  </name>, 
+                  <name name-style="western">
+                     <surname>Gross</surname>
+                     <given-names>ND</given-names>
+                  </name>, 
+                  <role>eds</role>
                     <source>Oral cavity cancer</source>. 
                     <publisher-loc>Los Angeles, CA</publisher-loc>: 
                 <publisher-name>American Head and Neck Society</publisher-name>; 
@@ -1534,7 +1554,7 @@
                     <publisher-name>American Cancer Society</publisher-name>; 
                     <year>2018</year>.
                 </mixed-citation>
-         </ref>
+         </ref> 
          <ref id="b57">
             <label>57. </label>
             <mixed-citation publication-type="book">
