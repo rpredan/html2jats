@@ -1,91 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
-<article
-    xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" dtd-version="1.0" article-type="reference-list"> 
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD with MathML3 v1.1 20151215//EN" "JATS-journalpublishing1-mathml3.dtd">
+<article dtd-version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
     <front>
+        <journal-meta>
+            <journal-id></journal-id>
+            <issn></issn>
+        </journal-meta>
         <article-meta>
-            <custom-meta-group>
-                <custom-meta>
-                    <meta-name>TotalReferences</meta-name>
-                    <meta-value>56</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesParsed</meta-name>
-                    <meta-value>47</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesBillable</meta-name>
-                    <meta-value>52</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>LinkServices</meta-name>
-                    <meta-value>pubmed-crossref</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesLinked</meta-name>
-                    <meta-value>50</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesLinkedDOI</meta-name>
-                    <meta-value>48</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesLinkedPMID</meta-name>
-                    <meta-value>45</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>JournalReferences</meta-name>
-                    <meta-value>45</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>BookReferences</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>BookChapterReferences</meta-name>
-                    <meta-value>5</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ConferenceReferences</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ElectronicReferences</meta-name>
-                    <meta-value>1</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>DissertationReferences</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>LegalReferences</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>StandardReferences</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>OtherReferences</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>UnknownReferences</meta-name>
-                    <meta-value>5</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesSemiParsed</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesBookUnparsed</meta-name>
-                    <meta-value>3</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>EditorialStyle</meta-name>
-                    <meta-value>ICMJE-WHO</meta-value>
-                </custom-meta>
-            </custom-meta-group>
+            <title-group>
+                <article-title></article-title>
+            </title-group>
+            <pub-date>
+                <year></year>
+            </pub-date>
         </article-meta>
     </front>
     <back>
@@ -387,7 +314,7 @@
                             <surname>Vijver</surname>
                             <given-names>MJ</given-names>
                         </name>, 
-                        <role>editors</role>
+                        <role>eds</role>
                     </person-group>. 
                     <source>WHO classification of Tumours of the Breast</source>. 
                     <publisher-loc>Lyon</publisher-loc>: 
@@ -434,7 +361,7 @@
                             <surname>Vijver</surname>
                             <given-names>MJ</given-names>
                         </name>, 
-                        <role>editors</role>
+                        <role>eds</role>
                     </person-group>. 
                     <source>WHO classification of tumours of the breast</source>. 
                     <publisher-loc>Lyon</publisher-loc>: 
@@ -960,9 +887,8 @@
                     </person-group>. 
                     <source>Naming a Cell Line - ver. 1.6.</source>.
                     <year>2015</year> 
-                    <date-in-citation content-type="access-date" iso-8601-date="2018-04-14">cited 2018 Apr 18</date-in-citation>                                        
-                    <comment>Available from<comment>: 
-                    <ext-link ext-link-type="uri" xlink:href="http://iclac.org/wp-content/uploads/Naming-a-Cell-Line_v1_6.pdf">http://iclac.org/wp-content/uploads/Naming-a-Cell-Line_v1_6.pdf</ext-link>
+                    <date-in-citation content-type="access-date" iso-8601-date="2018-04-14">[cited 2018 Apr 18]</date-in-citation>                                        
+                    <comment>Available from:<uri>http://iclac.org/wp-content/uploads/Naming-a-Cell-Line_v1_6.pdf</uri></comment>.
                 </mixed-citation>
             </ref>
             <ref id="b25">
@@ -2058,7 +1984,7 @@
                     <lpage>8</lpage>.  
                     <pub-id pub-id-type="doi">10.1093/jnci/djt007</pub-id>.
                     <pub-id pub-id-type="pmid">23434901</pub-id>
-                        <issn>0027-8874</issn>    
+                    <issn>0027-8874</issn>    
                 </mixed-citation>
             </ref>
             <ref id="b55">
