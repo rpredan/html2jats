@@ -22,35 +22,45 @@
   <back>
     <ref-list>
       <ref>
-        <mixed-citation>
-          <role>eds</role>
-          <collab> </collab> 
-          <source></source>. 
-          <edition></edition>. 
-          <conf-name></conf-name>;
-          <conf-date></conf-date>;
-          <conf-loc></conf-loc>.
-          <comment>[Thesis]</comment>.
-          <publisher-loc></publisher-loc>:
-          <publisher-name></publisher-name>;
-          <comment>In</comment>: 
-          <year></year>. pp. 
-          <fpage></fpage>–
-          <lpage></lpage> 
+        <mixed-citation>  
+          <mixed-citation publication-type="web-page">
           (<series></series>).
           <person-group>
             <name name-style="western">
-            <surname></surname>
-            <given-names></given-names>
-          </name> 
+              <surname></surname>
+              <given-names></given-names>
+            </name>,  
           </person-group>.
+          <article-title></article-title>.
+          <chapter-title></chapter-title>.
+          <collab> </collab> 
+          <comment>[Thesis]</comment>.
           <comment></comment>
-          <article-title></article-title>
           <comment>Available from:<uri></uri></comment>.
+          <conf-name></conf-name>;
+          <conf-date></conf-date>;
+          <conf-loc></conf-loc>.
+          <edition></edition>. 
+          <issue></issue>  
+           
           <pub-id pub-id-type="doi"></pub-id>
-          <pub-id pub-id-type="pmid"></pub-id>  
+          <pub-id pub-id-type="pmid"></pub-id>
+          <comment>In</comment>: 
+          <source></source>. 
+          <publisher-loc></publisher-loc>:
+          <publisher-name></publisher-name>;
+          <year></year>. pp. 
+          <fpage></fpage>–
+          <lpage></lpage>.
           <issn></issn>
-          <chapter-title></chapter-title>
+          <role>eds</role>
+          <source></source>.
+          <year></year>;
+          <volume></volume>(
+          <issue></issue>:
+          <fpage></fpage>–
+          <lpage></lpage>.
+          
         <!--   <book-chapter></book-chapter>. Nana, to ni pravi tag. Verjetno imaš v mislih <chapter-title></chapter-title>, ki je pravi tag. Ene 2x sem že popravljal tole zadevo ... --> 
         </mixed-citation>
       </ref>
