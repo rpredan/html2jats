@@ -32,12 +32,11 @@
             </name>,  
           </person-group>.
           <article-title></article-title>.
-          <chapter-title></chapter-title>
+          <chapter-title></chapter-title>.
           <collab> </collab> 
           <comment>[Thesis]</comment>.
           <comment></comment>
           <comment>Available from:<uri></uri></comment>.
-          <comment>In</comment>: 
           <conf-name></conf-name>;
           <conf-date></conf-date>;
           <conf-loc></conf-loc>.
@@ -45,17 +44,23 @@
           <issue></issue>  
            
           <pub-id pub-id-type="doi"></pub-id>
-          <pub-id pub-id-type="pmid"></pub-id>  
+          <pub-id pub-id-type="pmid"></pub-id>
+          <comment>In</comment>: 
+          <source></source>. 
           <publisher-loc></publisher-loc>:
           <publisher-name></publisher-name>;
-          <source></source>. 
           <year></year>. pp. 
           <fpage></fpage>–
-          <lpage></lpage>
+          <lpage></lpage>.
           <issn></issn>
           <role>eds</role>
-           
-            
+          <source></source>.
+          <year></year>;
+          <volume></volume>(
+          <issue></issue>:
+          <fpage></fpage>–
+          <lpage></lpage>.
+          
         <!--   <book-chapter></book-chapter>. Nana, to ni pravi tag. Verjetno imaš v mislih <chapter-title></chapter-title>, ki je pravi tag. Ene 2x sem že popravljal tole zadevo ... --> 
         </mixed-citation>
       </ref>
