@@ -1,8 +1,20 @@
-<?xml version="1.0" encoding="UTF-8"?> 
-<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd"> 
-<article
-    xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" dtd-version="1.0" article-type="reference-list">
-    <front></front>
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD with MathML3 v1.1 20151215//EN" "JATS-journalpublishing1-mathml3.dtd">
+<article dtd-version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+    <front>
+        <journal-meta>
+            <journal-id></journal-id>
+            <issn></issn>
+        </journal-meta>
+        <article-meta>
+            <title-group>
+                <article-title></article-title>
+            </title-group>
+            <pub-date>
+                <year></year>
+            </pub-date>
+        </article-meta>
+    </front>
     <back>
         <ref-list>
             <ref id="b1"> 
@@ -847,7 +859,7 @@
                     <issue>7</issue>):
                     <fpage>1837</fpage>–
                     <lpage>44</lpage>. 
-                    <pub-id pub-id-type="doi">10.1097/01.PRS.0000165080.70891.88</pub-id>
+                    <pub-id pub-id-type="doi">10.1097/01.PRS.0000165080.70891.88</pub-id> 
                     <pub-id pub-id-type="pmid">15923825</pub-id>
                     <issn>0032-1052</issn>
                 </mixed-citation>
