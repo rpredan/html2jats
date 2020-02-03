@@ -1,92 +1,18 @@
-<?xml version="1.0" encoding="UTF-8"?> 
- a
-<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
-<article
-    xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" dtd-version="1.0" article-type="reference-list">
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD with MathML3 v1.1 20151215//EN" "JATS-journalpublishing1-mathml3.dtd">
+<article dtd-version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
     <front>
+        <journal-meta>
+            <journal-id></journal-id>
+            <issn></issn>
+        </journal-meta>
         <article-meta>
-            <custom-meta-group>
-                <custom-meta>
-                    <meta-name>TotalReferences</meta-name> 
-                    <meta-value>30</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesParsed</meta-name>
-                    <meta-value>20</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesBillable</meta-name>
-                    <meta-value>20</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>LinkServices</meta-name>
-                    <meta-value>pubmed-crossref</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesLinked</meta-name>
-                    <meta-value>18</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesLinkedDOI</meta-name>
-                    <meta-value>17</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesLinkedPMID</meta-name>
-                    <meta-value>18</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>JournalReferences</meta-name>
-                    <meta-value>19</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>BookReferences</meta-name>
-                    <meta-value>2</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>BookChapterReferences</meta-name>
-                    <meta-value>2</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ConferenceReferences</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ElectronicReferences</meta-name>
-                    <meta-value>5</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>DissertationReferences</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>LegalReferences</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>StandardReferences</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>OtherReferences</meta-name>
-                    <meta-value>1</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>UnknownReferences</meta-name>
-                    <meta-value>1</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesSemiParsed</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesBookUnparsed</meta-name>
-                    <meta-value>3</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>EditorialStyle</meta-name>
-                    <meta-value>ICMJE-WHO</meta-value>
-                </custom-meta>
-            </custom-meta-group>
+            <title-group>
+                <article-title></article-title>
+            </title-group>
+            <pub-date>
+                <year></year>
+            </pub-date>
         </article-meta>
     </front>
     <back>
@@ -160,14 +86,13 @@
                 <mixed-citation publication-type="web-page">
                     <article-title>Kazalniki bolniškega staleža po spolu, starosti in skupinah bolezni za leto</article-title>
                     <year>2016</year>. 
-                    <date-in-citation content-type="access-date">cited 2018 Aug 26</date-in-citation>.
-                    <comment>Available from</comment>: 
-                    <ext-link ext-link-type="uri" xlink:href="https://podatki.nijz.si">https://podatki.nijz.si</ext-link>
+                    <date-in-citation content-type="access-date">[cited 2018 Aug 26]</date-in-citation>.
+                    <comment>Available from:<uri>https://podatki.nijz.si</uri></comment>.
                 </mixed-citation>
             </ref>
             <ref id="b5">
                 <label>5.	</label>
-                <mixed-citation publication-type="book">
+                <mixed-citation publication-type="book-chapter">
                     <person-group person-group-type="author">
                         <name>
                             <surname>Bigos</surname>
@@ -176,18 +101,30 @@
                         <name>
                             <surname>Bowyer</surname>
                             <given-names>OR</given-names>
-                        </name>, 
+                        </name>,
                         <name>
                             <surname>Braen</surname>
                             <given-names>GR</given-names>
-                        </name>, 
+                        </name>,
+                        <name>
+                            <surname>Brown</surname>
+                            <given-names>KC</given-names>
+                        </name>,
+                        <name>
+                            <surname>Deyo</surname>
+                            <given-names>RA</given-names>
+                        </name>,
+                        <name>
+                            <surname>Haldeman</surname>
+                            <given-names>S</given-names>
+                        </name>,
                         <etal>et al.</etal>
                     </person-group>
                     <chapter-title>Acute low back problems in adults</chapter-title>.
-                    <comment>In<comment>:
-                    <source>Clinical Practice Guideline No. 14. AHCPR Publication No. 95-0642<source>.  
-                    <publisher_loc>Rockville, Maryland</publisher_loc>:  
-                    <publisher_name>Agency for Health Care Policy and Research, Public Health Service, US Department of Health and Human Services</publisher_name>; 
+                    <comment>In</comment>:
+                    <source>Clinical Practice Guideline No. 14. AHCPR Publication No. 95-0642</source>.  
+                    <publisher-loc>Rockville, Maryland</publisher-loc>:  
+                    <publisher-name>Agency for Health Care Policy and Research, Public Health Service, US Department of Health and Human Services</publisher-name>; 
                     <year>1994</year>.   
                 </mixed-citation>
             </ref>
@@ -342,12 +279,12 @@
                             <given-names>V.</given-names>
                         </name>
                     </person-group> 
-                    <source>Ortopedija<source>. 
+                    <source>Ortopedija</source>. 
                     <publisher-loc>Ljubljana</publisher-loc>:
                     <publisher-name>samozaložba</publisher-name>; 
                     <year>2006</year>, pp.
-                    <fpage>257<fpage>- 
-                    <fpage>82<fpage>.
+                    <fpage>257</fpage>- 
+                    <lpage>82</lpage>.
                 </mixed-citation>
             </ref>
             <ref id="b11">
@@ -557,6 +494,7 @@
                             <surname>Pompe</surname>
                             <given-names>B</given-names>
                         </name>,
+                        <role>ur</role>
                     </person-group>. 
                     <source>Hrbtenica, klinične poti zdravljenja</source>.
                     <publisher-loc>Ljubljana</publisher-loc>:
@@ -592,9 +530,8 @@
                     </person-group>. 
                     <source>Radiation protection 118, Update Mars 2008. Referral Guidelines for Imaging</source>. 
                     <year>2007</year>. 
-                    <date-in-citation content-type="access-date">cited 2018 Aug 26</date-in-citation>.
-                    <comment>Available from</comment>: 
-                    <ext-link ext-link-type="uri" xlink:href="http://www.mlsi.gov.cy/mlsi/dli/dliup.nsf/All/815A41AAFA78D0D1C2257E29004188B9/$file/RP118.pdf">http://www.mlsi.gov.cy/mlsi/dli/dliup.nsf/All/815A41AAFA78D0D1C2257E29004188B9/$file/RP118.pdf</ext-link>
+                    <date-in-citation content-type="access-date">[cited 2018 Aug 26]</date-in-citation>.
+                    <comment>Available from:<uri>http://www.mlsi.gov.cy/mlsi/dli/dliup.nsf/All/815A41AAFA78D0D1C2257E29004188B9/$file/RP118.pdf</uri></comment>.
                 </mixed-citation>
             </ref>
             <ref id="b19">
@@ -643,9 +580,6 @@
             <ref id="b20">
                 <label>20. </label>
                 <mixed-citation publication-type="book">
-                    <person-group person-group-type="author">
-                        <collab>National Research Council (U.S.)</collab>
-                    </person-group>. 
                     <source>Committee to Assess Health Risks from Exposure to Low Level of Ionizing Radiation. Health risks from exposure to low levels of ionizing radiation : BEIR VII, Phase 2</source>. 
                     <publisher-loc>Washington</publisher-loc>:
                     <publisher-name>National Academies Press</publisher-name>; 
@@ -815,9 +749,9 @@
                 <label>25.	</label>
                 <mixed-citation publication-type="journal">
                 <article-title>Zakon o varstvu pred ionizirajočimi sevanji in jedrski varnosti (ZVISJV-1)</article-title>. 
-                <source>Uradni list RS</source>                  
-                <year>2017</year>:
-                <issue>76</issue>. 
+                <source>Uradni list RS</source> .                 
+                <year>2017</year>;(
+                <issue>76</issue>). 
                 </mixed-citation>
             </ref>
             <ref id="b26">
@@ -825,8 +759,8 @@
                 <mixed-citation publication-type="journal">
                     <article-title>Zakon o pacientovih pravicah (ZPacP)</article-title>. 
                     <source>Uradni list RS</source>                  
-                    <year>2008</year>:
-                    <issue>15</issue>. 
+                    <year>2008</year>;(
+                    <issue>15</issue>). 
                 </mixed-citation>  
             </ref>
             <ref id="b27">
@@ -948,9 +882,8 @@
                 <label>30.	</label>
                 <mixed-citation publication-type="web-page"">
                     <source>Navodilo o beleženju in obračunavanju zdravstvenih storitev in izdanih materialov. Zavod za zdravstveno zavarovanje Slovenije</source>. 
-                    <date-in-citation content-type="access-date">cited 2018 Aug 26</date-in-citation>.
-                    <comment>Available from</comment>: 
-                    <ext-link ext-link-type="uri" xlink:href="https://partner.zzzs.si/wps/portal/portali/aizv/belezenje_obracun_zdr_storitev_izd.materialov_okroznice_zae">https://partner.zzzs.si/wps/portal/portali/aizv/belezenje_obracun_zdr_storitev_izd.materialov_okroznice_zae</ext-link>
+                    <date-in-citation content-type="access-date">[cited 2018 Aug 26]</date-in-citation>.
+                    <comment>Available from:<uri>https://partner.zzzs.si/wps/portal/portali/aizv/belezenje_obracun_zdr_storitev_izd.materialov_okroznice_zae</uri></comment>.
                 </mixed-citation>
             </ref>
         </ref-list>
