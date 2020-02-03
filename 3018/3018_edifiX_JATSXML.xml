@@ -23,14 +23,14 @@
                 <label>1. </label>
                 <mixed-citation publication-type="book">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Mušič</surname>
                             <given-names>D</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Borisov</surname>
                             <given-names>P.</given-names>
-                        </string-name>
+                        </name>
                     </person-group>.
                     <article-title>Gerbec Marko</article-title>.
                     <comment>In</comment>:
@@ -47,10 +47,10 @@
                 <label>2. </label>
                 <mixed-citation publication-type="book">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Borisov</surname>
                             <given-names>P</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <source>Od ranocelništva do začetkov znanstvene kirurgije na Slovenskem</source>. 
                     <publisher-loc>Ljubljana</publisher-loc>: 
@@ -64,10 +64,10 @@
                 <label>3. </label>
                 <mixed-citation publication-type="book">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Borisov</surname>
                             <given-names>P</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <source>Ginekologija na Slovenskem od začetkov do leta 1980</source>. 
                     <publisher-loc>Ljubljana</publisher-loc>: 
@@ -75,16 +75,16 @@
                     <year>1995</year>. pp. 
                     <fpage>50</fpage>–
                     <lpage>9</lpage>.
-                </mixed-citation>
+                </mixed-citation> 
             </ref>
             <ref id="b4">
                 <label>4. </label>
                 <mixed-citation publication-type="book">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Makovic</surname>
                             <given-names>A</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <source>Prashanja inu odgovori zhes vshegarstvu</source>. 
                     <publisher-loc>Ljubljana</publisher-loc>: 
@@ -96,152 +96,212 @@
                 <label>5. </label>
                 <mixed-citation publication-type="book">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Rijavec</surname>
                             <given-names>L.</given-names>
-                        </string-name>
+                        </name>
                     </person-group>
-                    <article-title>Ljubljanske bolnišnice.</article-title> Prispevek k njihovi zgodovini. Ljubljana: Uprava kliničnih bolnišnic 
-                    <year>1960</year>: 21–3.
+                    <source>Ljubljanske bolnišnice. Prispevek k njihovi zgodovini</source>.
+                    <publisher-loc>Ljubljana</publisher-loc>:
+                    <publisher-name>Uprava kliničnih bolnišnic</publisher-name>;
+                    <year>1960</year>. pp. 
+                    <fpage>21</fpage>–
+                    <lpage>3</lpage>.
                 </mixed-citation>
             </ref>
             <ref id="b6">
                 <label>6. </label>
-                <mixed-citation publication-type="unknown">
+                <mixed-citation publication-type="book">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Pintar</surname>
-                            <given-names>I.</given-names>
-                        </string-name>
+                            <given-names>I</given-names>
+                        </name>
                     </person-group>
-                    <article-title>Mediko-kirurški učni zavod v Ljubljani, njegov nastanek, razmah in konec.</article-title> Ljubljana: samozal., 
-                    <year>1939</year>: 48–54.
+                    <article-title>Mediko-kirurški učni zavod v Ljubljani, njegov nastanek, razmah in konec</article-title>. 
+                    <publisher-loc>Ljubljana</publisher-loc>:
+                    <publisher-name>samozaložba</publisher-name>;
+                    <year>1939</year>. pp. 
+                    <fpage>48</fpage>–
+                    <lpage>54</lpage>.
                 </mixed-citation>
             </ref>
             <ref id="b7">
                 <label>7. </label>
-                <mixed-citation publication-type="unknown">
+                <mixed-citation publication-type="book-chapter">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Polec</surname>
-                            <given-names>J.</given-names>
-                        </string-name>
-                    </person-group> Ljubljansko višje šolstvo v preteklosti in borba za slovensko univerzo. V: Zgodovina slovenske univerze v Ljubljani do leta 1929. Ljubljana, Rektorat univerze, 
+                            <given-names>J</given-names>
+                        </name>
+                    </person-group>.
+                    <chapter-title>Ljubljansko višje šolstvo v preteklosti in borba za slovensko univerzo</chapter-title>.
+                    <comment>In</comment>: 
+                    <source>Zgodovina slovenske univerze v Ljubljani do leta 1929</source>.
+                    <publisher-loc>Ljubljana</publisher-loc>:
+                    <publisher-name>Rektorat Univerze</publisher-name>; 
                     <year>1929</year>.
                 </mixed-citation>
             </ref>
             <ref id="b8">
                 <label>8. </label>
-                <mixed-citation publication-type="unknown">
+                <mixed-citation publication-type="book-chapter">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Smerdu</surname>
                             <given-names>F.</given-names>
-                        </string-name>
-                    </person-group> Sto let zdravniškega društva. V: Poslanstvo slovenskega zdravnika. Ljubljana: Slovenska matica, 
-                    <year>1965</year>: 21–76.
+                        </name>
+                    </person-group>.
+                    <chapter-title>Sto let zdravniškega društva</chapter-title>. 
+                    <comment>In</comment>: 
+                    <source>Poslanstvo slovenskega zdravnika</source>. 
+                    <publisher-loc>Ljubljana</publisher-loc>:
+                    <publisher-name>Slovenska matica</publisher-name>;
+                    <year>1965</year>. pp. 
+                    <fpage>21</fpage>–
+                    <lpage>76</lpage>.
                 </mixed-citation>
             </ref>
             <ref id="b9">
                 <label>9. </label>
-                <mixed-citation publication-type="unknown">
+                <mixed-citation publication-type="book">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Zupanič Slavec</surname>
-                            <given-names>Z.</given-names>
-                        </string-name>
-                    </person-group> Iz rok v roke, iz roda v rod: Slovensko zdravniško društvo in njegovi predsedniki: ob 140-letnici ustanovitve. Ljubljana: Slovensko zdravniško društvo, Znanstveno društvo za zgodovino zdravstvene kulture Slovenije, 
-                    <year>2001</year>: 61–6.
+                            <given-names>Z</given-names>
+                        </name>
+                    </person-group>.
+                    <source>Iz rok v roke, iz roda v rod: Slovensko zdravniško društvo in njegovi predsedniki: ob 140-letnici ustanovitve</source>. 
+                    <publisher-loc>Ljbuljana</publisher-loc>:
+                    <publisher-name>Slovensko zdravniško društvo</publisher-name>;
+                    <year>2001</year>. pp. 
+                    <fpage>61</fpage>–
+                    <lpage>6</lpage>.
                 </mixed-citation>
             </ref>
             <ref id="b10">
                 <label>10.	</label>
-                <mixed-citation publication-type="legal-doc">Zupanič Slavec Z. Medicinska fakulteta. V: Ciperle J (ur.), Krbavčič A (ur.). 90 let Univerze v Ljubljani: med tradicijo in izzivi časa. Ljubljana: Rektorat Univerze. 2009. P. 550–567.</mixed-citation>
+                <mixed-citation publication-type="book-chapter">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Zupanič Slavec</surname>
+                            <given-names>Z</given-names>
+                        </name>
+                    </person-group>.
+                    <comment>In</comment>:
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Ciperle</surname>
+                            <given-names>J</given-names>
+                        </name>,
+                        <name>
+                            <surname>Krbavčič</surname>
+                            <given-names>A</given-names>
+                        </name>
+                    </person-group>.
+                    <chapter-title>90 let Univerze v Ljubljani: med tradicijo in izzivi časa</chapter-title>.
+                    <publisher-loc>Ljubljana</publisher-loc>:
+                    <publisher-name>Rektorat Univerze</publisher-name>;
+                    <year>2009</year>. pp. 
+                    <fpage>550</fpage>–
+                    <lpage>67</lpage>.
+             </mixed-citation>
             </ref>
             <ref id="b11">
                 <label>11. </label>
-                <mixed-citation publication-type="unknown">
+                <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Zalokar</surname>
                             <given-names>A.</given-names>
-                        </string-name>
+                        </name>
                     </person-group>
-                    <article-title>Ljubljanska Medicinska fakulteta.</article-title> Misel in delo, 
-                    <year>1934</year>; 5: 5.
+                    <article-title>Ljubljanska Medicinska fakulteta</article-title>. 
+                    <source>Misel in delo</source>. 
+                    <year>1934</year>; 
+                    <volume>5</volume>:
+                    <fpage>5</fpage>.
                 </mixed-citation>
             </ref>
             <ref id="b12">
                 <label>12. </label>
                 <mixed-citation publication-type="book">
-                    <person-group person-group-type="author">Anon.</person-group>
                     <source>Medicinska fakulteta zagrebškega vseučilišča in Slovenci</source>. 
+                    <publisher-loc>Zagreb</publisher-loc>:
                     <publisher-name>Liječ Vijest</publisher-name>; 
                     <year>1917</year>. pp. 
                     <fpage>380</fpage>–
                     <lpage>7</lpage>.
-                    <annotation>
-                        <p content-type="warning">Could not find a publisher location in this book reference. (Ref. 12 "Anon., 1917")</p>
-                    </annotation>
                 </mixed-citation>
             </ref>
             <ref id="b13">
                 <label>13.	</label>
-                <mixed-citation publication-type="legal-doc">Borisov P. Medicinska fakulteta v Ljubljani in njen razvoj med dvema svetovnima vojnama (1919–1945). V: Medicinska fakulteta Univerze v Ljubljani: 1919–1943: zgodovinski zbornik. Ljubljana: Inštitut za zgodovino medicine, Zdravniška zbornica Slovenije, 20.</mixed-citation>
+                <mixed-citation publication-type="book-chapter">
+                    <person-group>
+                        <name name-style="western">
+                            <surname>Borisov</surname>
+                            <given-names>P</given-names>
+                        </name>,  
+                    </person-group>.
+                    <chapter-title>Medicinska fakulteta v Ljubljani in njen razvoj med dvema svetovnima vojnama (1919–1945)</chapter-title>.
+                    <comment>In</comment>: 
+                    <source>Medicinska fakulteta Univerze v Ljubljani: 1919–1943: zgodovinski zbornik</source>. 
+                    <publisher-loc>Ljubljana</publisher-loc>:
+                    <publisher-name>Inštitut za zgodovino medicine</publisher-name>;
+                    <year>2012</year>. 
+                </mixed-citation>
             </ref>
             <ref id="b14">
                 <label>14. </label>
-                <mixed-citation publication-type="unknown">
+                <mixed-citation publication-type="book">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Zupanič Slavec</surname>
                             <given-names>Z</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Štolfa</surname>
                             <given-names>F.</given-names>
-                        </string-name>
-                    </person-group> Dr. Ivan Oražen (1869–1921): dobrotnik Medicinske fakultete in slovenskega naroda. Ljubljana: Medicinska fakulteta, 
-                    <year>1998</year>.
+                        </name>
+                    </person-group>.
+                    <source>Dr. Ivan Oražen (1869–1921): dobrotnik Medicinske fakultete in slovenskega naroda</source>. 
+                    <publisher-loc>Ljubljana</publisher-loc>:
+                    <publisher-name>Medicinska fakulteta</publisher-name>;
+                    <year>1998</year>. 
                 </mixed-citation>
             </ref>
             <ref id="b15">
                 <label>15. </label>
                 <mixed-citation publication-type="book">
-                    <person-group person-group-type="author">Anon.</person-group>
                     <source>Spomenica Društva medicincev o nepopolni medicinski fakulteti in pomanjkljivi zdravstveni organizaciji v Sloveniji</source>. 
                     <publisher-loc>Ljubljana</publisher-loc>; 
-                    <year>1940</year>.
-                    <annotation>
-                        <p content-type="warning">Could not find a publisher name in this book reference. (Ref. 15 "Anon., 1940")</p>
-                    </annotation>
+                    <publisher-name>Društvo medicincev</publisher-name>;
+                    <year>1940?</year>.
                 </mixed-citation>
             </ref>
             <ref id="b16">
                 <label>16. </label>
-                <mixed-citation publication-type="unknown">
+                <mixed-citation publication-type="book">
                     <person-group person-group-type="author">
-                        <string-name>
-                            <given-names>ZAMU</given-names>
-                            <surname>Fond</surname>
-                        </string-name>
-                    </person-group>: MF, fasc. II/148, št. 361/43.
+                            <collab>ZAMU Fond</collab>
+                    </person-group>.
+                    <comment> MF, fasc. II/148, št. 361/43.</comment>
                 </mixed-citation>
             </ref>
             <ref id="b17">
                 <label>17.	</label>
                 <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Kostnapfel</surname>
                             <given-names>J</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Pred pol stoletja</article-title>. 
                     <source>Zdrav Vestn</source>. 
                     <year>1995</year>;
                     <volume>64</volume>(
-                    <issue>IV</issue>):
+                    <issue>4</issue>):
                     <fpage>37</fpage>–
                     <lpage>8</lpage>.
                     <issn>0350-0063</issn>
@@ -249,118 +309,195 @@
             </ref>
             <ref id="b18">
                 <label>18. </label>
-                <mixed-citation publication-type="unknown">
-                    <person-group person-group-type="author">
-                        <string-name>
+                <mixed-citation publication-type="book">
+                    <person-group person-group-type="editor">
+                        <name>
                             <surname>Konjajev</surname>
                             <given-names>Z</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Zupanič Slavec</surname>
                             <given-names>Z</given-names>
-                        </string-name>
-                    </person-group> (ur). Zvestoba Hipokratu. Ljubljana. Inštitut za zgodovino medicine, 
+                        </name>
+                        <role>eds</role>
+                    </person-group>.
+                    <source>Zvestoba Hipokratu</source>. 
+                    <publisher-loc>Ljubljana</publisher-loc>:
+                    <publisher-name>Inštitut za zgodovino medicine</publisher-name>;
                     <year>1999</year>.
                 </mixed-citation>
             </ref>
             <ref id="b19">
                 <label>19. </label>
-                <mixed-citation publication-type="unknown">
+                <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Zupanič Slavec</surname>
                             <given-names>Z</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Slavec</surname>
                             <given-names>K.</given-names>
-                        </string-name>
-                    </person-group> Prva generacija medicincev na popolni Medicinski fakulteti v Ljubljani leta 1945 - ob 65-letnici vpisa. Zdrav Vestn 80; 
-                    <year>2011</year> (7/8): 599–613.
+                        </name>
+                    </person-group>. 
+                    <article-title>Prva generacija medicincev na popolni Medicinski fakulteti v Ljubljani leta 1945 - ob 65-letnici vpisa</article-title>.
+                    <source>Zdrav Vestn</source>.
+                    <year>2011</year>;
+                    <volume>80</volume>(
+                    <issue>7/8</issue>:
+                    <fpage>599</fpage>–
+                    <lpage>613</lpage>.
                 </mixed-citation>
             </ref>
             <ref id="b20">
                 <label>20. </label>
-                <mixed-citation publication-type="unknown">Odlok Narodne vlade Slovenije. Uradni list SNOS in NVS, 171 (31.7.1945), 23 (
-                    <year>1945</year>).
+                <mixed-citation publication-type="journal">
+                    <article-title>Odlok Narodne vlade Slovenije</article-title>.
+                    <source>Uradni list SNOS in NVS</source>.
+                    <year>1945</year>
+                    <volume>171 (31.7.1945)</volume>(
+                    <issue>23</issue>.
                 </mixed-citation>
             </ref>
             <ref id="b21">
                 <label>21. </label>
-                <mixed-citation publication-type="unknown">
+                <mixed-citation publication-type="book-chapter">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Rant</surname>
                             <given-names>J.</given-names>
-                        </string-name>
-                    </person-group> Razvoj zobozdravstva v Sloveniji. V: Poslanstvo slovenskega zdravnika. Ljubljana: Slovenska matica, 
-                    <year>1965</year>: 240–51.
+                        </name>
+                    </person-group>.
+                    <chapter-title>Razvoj zobozdravstva v Sloveniji</chapter-title>.
+                    <comment>In</comment>: 
+                    <source></source>. 
+                    <publisher-loc>Ljubljana</publisher-loc>:
+                    <publisher-name>Slovenska matica</publisher-name>;
+                    <year>1965</year>. pp. 
+                    <fpage>240</fpage>–
+                    <lpage>51</lpage>.
                 </mixed-citation>
             </ref>
             <ref id="b22">
                 <label>22. </label>
-                <mixed-citation publication-type="unknown">Zakon o strokovnih nazivih in akademskih stopnjah. Uradni list SFRJ, 13 (
-                    <year>1963</year>).
+                <mixed-citation publication-type="journal">
+                    <article-title>Zakon o strokovnih nazivih in akademskih stopnjah</article-title>.
+                    <source>Uradni list SFRJ</source>.
+                    <year>1963</year>;
+                    <volume>13</volume>.
                 </mixed-citation>
             </ref>
             <ref id="b23">
                 <label>23.	</label>
-                <mixed-citation publication-type="legal-doc">Medicinska fakulteta. V: Petdeset let slovenske Univerze v Ljubljani: 1919–1969. Ljubljana: Univerza, 1969: 481–521.</mixed-citation>
-            </ref>
+                <mixed-citation publication-type="book-chapter">
+                    <chapter-title>Medicinska fakulteta</chapter-title>.
+                    <comment>In</comment>: 
+                    <source>Petdeset let slovenske Univerze v Ljubljani: 1919–1969</source>. 
+                    <publisher-loc>Ljubljana</publisher-loc>:
+                    <publisher-name>Ljubljana</publisher-name>;
+                    <year>1969</year>. pp. 
+                    <fpage>481</fpage>–
+                    <lpage>521</lpage>.
+                 </mixed-citation>    
+           </ref>
             <ref id="b24">
                 <label>24. </label>
-                <mixed-citation publication-type="unknown">
+                <mixed-citation publication-type="book-chapter">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Fettich</surname>
                             <given-names>J.</given-names>
-                        </string-name>
-                    </person-group> Medicinska fakulteta. V: Enciklopedija Slovenije, zv. 7. Ljubljana: Mladinska knjiga, 
-                    <year>1993</year>: 35–6.
+                        </name>
+                    </person-group>.
+                    <chapter-title>Medicinska fakulteta</chapter-title>.
+                    <comment>In</comment>: 
+                    <source>Enciklopedija Slovenije</source>. 
+                    <comment>Zv.7</comment>.
+                    <publisher-loc>Ljubljana</publisher-loc>:
+                    <publisher-name>Mladinska knjiga</publisher-name>;
+                    <year>1993</year>.
+                    <fpage>35</fpage>–
+                    <lpage>6</lpage>.
                 </mixed-citation>
             </ref>
             <ref id="b25">
                 <label>25. </label>
-                <mixed-citation publication-type="unknown">
+                <mixed-citation publication-type="book-chapter">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Zupanič Slavec</surname>
                             <given-names>Z.</given-names>
-                        </string-name>
-                    </person-group> Osem desetletij slovenskega šolanja zdravništva. V: Medicinska fakulteta v Ljubljani. Ob 80-letnici ustanovitve. Ljubljana: Medicinska fakulteta, 
-                    <year>1999</year>: 11–29.
+                        </name>
+                    </person-group>.
+                    <chapter-title>Osem desetletij slovenskega šolanja zdravništva</chapter-title>.
+                    <comment>In</comment>: 
+                    <source>Medicinska fakulteta v Ljubljani. Ob 80-letnici ustanovitve</source>. 
+                    <publisher-loc>Ljubljana</publisher-loc>:
+                    <publisher-name>Medicinska fakulteta</publisher-name>;
+                    <year>1999</year>.
+                    <fpage>11</fpage>–
+                    <lpage>29</lpage>.
                 </mixed-citation>
             </ref>
             <ref id="b26">
                 <label>26. </label>
-                <mixed-citation publication-type="unknown">Podatki tajništva MF UL, 23.7.
+                <mixed-citation publication-type="book">
+                    <source>Podatki tajništva MF UL</source>. 
+                    <comment>32.7.</comment>;
                     <year>2009</year>.
                 </mixed-citation>
             </ref>
             <ref id="b27">
                 <label>27.	</label>
-                <mixed-citation publication-type="legal-doc">Splošni načrt posodobitve dodiplomskega pouka na Medicinski fakulteti (MF) v Ljubljani. (arhiv Medicinske fakultete UL). Sprejeto na seji senata MF, 18/12/2000.</mixed-citation>
+                <mixed-citation publication-type="book">
+                    <source>Splošni načrt posodobitve dodiplomskega pouka na Medicinski fakulteti (MF) v Ljubljani</source>. 
+                    <comment>(arhiv Medicinske fakultete UL). Sprejeto na seji senata MF, 18/12/2000</comment>.
+                </mixed-citation>
             </ref>
             <ref id="b28">
                 <label>28. </label>
-                <mixed-citation publication-type="unknown" specific-use="parsed">
-                    <article-title>Podatki podiplomskega oddelka MF UL, pridobljeni novembra</article-title>
+                <mixed-citation publication-type="book">
+                    <source>Podatki podiplomskega oddelka MF UL, pridobljeni novembra</source>.
                     <year>2019</year>.
                 </mixed-citation>
             </ref>
             <ref id="b29">
                 <label>29. </label>
-                <mixed-citation publication-type="unknown">Enovit magistrski študij medicina UL Medicinska fakulteta. Vloga za pridobitev soglasja k študijskemu programu (članice) Univerze oziroma samostojnega visokošolskega zavoda. MF UL, 
-                    <year>2008</year>: 2–6.
+                <mixed-citation publication-type="book">
+                    <source>Enovit magistrski študij medicina UL Medicinska fakulteta. Vloga za pridobitev soglasja k študijskemu programu (članice) Univerze oziroma samostojnega visokošolskega zavoda  MF UL</source>.
+                    <year>2008</year>. pp.
+                    <fpage>2</fpage>–
+                    <lpage>6</lpage>.
                 </mixed-citation>
             </ref>
             <ref id="b30">
                 <label>30.	</label>
-                <mixed-citation publication-type="legal-doc">Zupanič Slavec Z. Devetdeset let Medicinske fakultete Univerze v Ljubljani (1919–2009). Zdrav Vestn 78; 2009 (11): 659–72.</mixed-citation>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Zupanič Slavec</surname>
+                            <given-names>Z</given-names>
+                        </name>
+                    </person-group>.
+                    <article-title>Devetdeset let Medicinske fakultete Univerze v Ljubljani (1919–2009)</article-title>.
+                    <source>Zdrav Vestn</source>.
+                    <year>2009</year>;
+                    <volume>78</volume>(
+                    <issue>11</issue>:
+                    <fpage>659</fpage>–
+                    <lpage>72</lpage>.
+                </mixed-citation>
             </ref>
             <ref id="b31">
                 <label>31.	</label>
-                <mixed-citation publication-type="legal-doc">100 let Univerze v Ljubljani. Ljubljana: Univerza v Ljubljani, 2019: 32–5.</mixed-citation>
+                <mixed-citation publication-type="book">
+                    <source>100 let Univerze v Ljubljani</source>.
+                    <publisher-loc>Ljubljana</publisher-loc>:
+                    <publisher-name>Univerza v Ljubljanii</publisher-name>;
+                    <year>2019</year>.
+                    <fpage>32</fpage>–
+                    <lpage>5</lpage>.
+                  </mixed-citation>
             </ref>
         </ref-list>
     </back>
