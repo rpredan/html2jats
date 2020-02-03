@@ -25,7 +25,7 @@
     <ref-list>
         <ref id="b1">
             <label>1. </label> <!-- add label if there is none. Label is same as id's "b" number in this case 1; add ". " after label -->
-            <mixed-citation >
+            <mixed-citation publication-type="journal">
                 <person-group person-group-type="author">
                     <name>
                         <surname>Terl</surname> <!-- there should be an " " (space) after <surname> tag. Please add it if it's absend -->
@@ -236,7 +236,7 @@
         <!-- Publication type= Web page -->
         <ref id="b6">
             <label>6. </label>
-            <mixed-citation publication-type="web-page"> 
+            <mixed-citation publication-type="webpage"> 
                 <person-group person-group-type="author">
                     <collab>National Comprehensive Cancer Network (NCCN)</collab>.
                 </person-group>
