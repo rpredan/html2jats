@@ -1,91 +1,20 @@
-<?xml version="1.0" encoding="UTF-8"?> 
-<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
-<article
-    xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" dtd-version="1.0" article-type="reference-list">
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD with MathML3 v1.1 20151215//EN" "JATS-journalpublishing1-mathml3.dtd">
+<article dtd-version="1.1"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:mml="http://www.w3.org/1998/Math/MathML">
     <front>
+        <journal-meta>
+            <journal-id></journal-id>
+            <issn></issn>
+        </journal-meta>
         <article-meta>
-            <custom-meta-group>
-                <custom-meta>
-                    <meta-name>TotalReferences</meta-name>
-                    <meta-value>27</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesParsed</meta-name>
-                    <meta-value>22</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesBillable</meta-name>
-                    <meta-value>23</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>LinkServices</meta-name>
-                    <meta-value>pubmed-crossref</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesLinked</meta-name>
-                    <meta-value>23</meta-value> 
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesLinkedDOI</meta-name>
-                    <meta-value>22</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesLinkedPMID</meta-name>
-                    <meta-value>22</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>JournalReferences</meta-name>
-                    <meta-value>22</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>BookReferences</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>BookChapterReferences</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ConferenceReferences</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ElectronicReferences</meta-name>
-                    <meta-value>2</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>DissertationReferences</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>LegalReferences</meta-name>
-                    <meta-value>1</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>StandardReferences</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>OtherReferences</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>UnknownReferences</meta-name>
-                    <meta-value>2</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesSemiParsed</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesBookUnparsed</meta-name> 
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>EditorialStyle</meta-name>
-                    <meta-value>ICMJE-WHO</meta-value>
-                </custom-meta>
-            </custom-meta-group>
+            <title-group>
+                <article-title></article-title>
+            </title-group>
+            <pub-date>
+                <year></year>
+            </pub-date>
         </article-meta>
     </front>
     <back>
@@ -99,14 +28,14 @@
                             <given-names>D.</given-names>
                         </name>
                     </person-group>.
-                    <article-title>Karcinom Merklovih celic</article-title>.                      
-                    <source>Onkologija : strokovni časopis za zdravnike</source>.                     
+                    <article-title>Karcinom Merklovih celic</article-title>. 
+                    <source>Onkologija : strokovni časopis za zdravnike</source>. 
                     <year>2012</year>
-                    <month>Jun</month>;                     
-                    <volume>16</volume>(                     
-                    <issue>1</issue>):                     
-                    <fpage>14</fpage>-                     
-                    <lpage>7</lpage>.                     
+                    <month>Jun</month>; 
+                    <volume>16</volume>( 
+                    <issue>1</issue>): 
+                    <fpage>14</fpage>- 
+                    <lpage>7</lpage>. 
                     <issn>1408-1741</issn>
                 </mixed-citation>
             </ref>
@@ -244,8 +173,8 @@
                             <surname>Cobo</surname>
                             <given-names>J</given-names>
                         </name>, 
-                        <etal>et al.</etal>
-                    </person-group>
+                        <etal>et al</etal>
+                    </person-group>.
                     <article-title>Merkel cells and Meissner’s corpuscles in human digital skin display Piezo2 immunoreactivity</article-title>. 
                     <source>J Anat</source>. 
                     <year>2017</year>
@@ -330,8 +259,8 @@
                             <surname>Peñas</surname>
                             <given-names>PF</given-names>
                         </name>, 
-                        <etal>et al.</etal>
-                    </person-group>
+                        <etal>et al</etal>
+                    </person-group>.
                     <article-title>Clinical characteristics of Merkel cell carcinoma at diagnosis in 195 patients: the AEIOU features</article-title>. 
                     <source>J Am Acad Dermatol</source>. 
                     <year>2008</year>
@@ -368,10 +297,10 @@
                     <month>Jan</month>;
                     <volume>8</volume>(
                     <issue>1</issue>):
-                    <fpage>5</fpage>.                      
+                    <fpage>5</fpage>. 
                     <pub-id pub-id-type="doi">10.1186/1471-2296-8-5</pub-id>
                     <pub-id pub-id-type="pmid">17257417</pub-id>
-                    <issn>1471-2296</issn>                     
+                    <issn>1471-2296</issn> 
                 </mixed-citation>
             </ref>
             <ref id="b10">
@@ -381,24 +310,24 @@
                         <name>
                             <surname>Bergant</surname>
                             <given-names>D</given-names>
-                        </name>,                         
+                        </name>, 
                         <name>
                             <surname>Hočevar</surname>
                             <given-names>M</given-names>
-                        </name>,                          
+                        </name>, 
                         <name>
                             <surname>Čufer</surname>
                             <given-names>T.</given-names>
                         </name>
                     </person-group>
                     <article-title>Karcinom Merklovih celic.</article-title>
-                    <source>Onkologija : strokovni časopis za zdravnike</source>.                     
+                    <source>Onkologija : strokovni časopis za zdravnike</source>. 
                     <year iso-8601-date="2002">2002</year>
-                    <month>Dec</month>;                     
-                    <volume>9</volume>(                     
-                    <issue>2</issue>):                     
-                    <fpage>63</fpage>-                     
-                    <lpage>7</lpage>.                     
+                    <month>Dec</month>; 
+                    <volume>9</volume>( 
+                    <issue>2</issue>): 
+                    <fpage>63</fpage>- 
+                    <lpage>7</lpage>. 
                     <issn>1408-1741</issn>
                 </mixed-citation>
             </ref>
@@ -430,8 +359,8 @@
                             <surname>Veness</surname>
                             <given-names>M</given-names>
                         </name>, 
-                        <etal>et al.</etal>
-                    </person-group>
+                        <etal>et al</etal>
+                    </person-group>.
                     <article-title>Merkel cell carcinoma</article-title>. 
                     <source>Nat Rev Dis Primers</source>. 
                     <year>2017</year>
@@ -539,8 +468,8 @@
                             <surname>Colebatch</surname>
                             <given-names>A</given-names>
                         </name>, 
-                        <etal>et al.</etal>
-                    </person-group>
+                        <etal>et al</etal>
+                    </person-group>.
                     <article-title>Immunohistochemistry for Merkel cell polyomavirus is highly specific but not sensitive for the diagnosis of Merkel cell carcinoma in the Australian population</article-title>. 
                     <source>Hum Pathol</source>. 
                     <year>2011</year>
@@ -559,12 +488,12 @@
                     <label>15.	</label>
                     <mixed-citation publication-type="web-page">
                         <person-group person-group-type="author">
-                            <collab>National Comprehensive Cancer Network (NCCN)</collab>.                         
-                            <source>Clinical practice guidelines in oncology: Merkel cell carcinoma</source>.                   
-                            <year>2018</year>.                          
-                            <date-in-citation content-type="access-date">cited 2018 Avg 26</date-in-citation>.                          
+                            <collab>National Comprehensive Cancer Network (NCCN)</collab>. 
+                            <source>Clinical practice guidelines in oncology: Merkel cell carcinoma</source>. 
+                            <year>2018</year>. 
+                            <date-in-citation content-type="access-date">cited 2018 Avg 26</date-in-citation>. 
                             <comment>Available from</comment>: 
-                            <uri>"https://www.nccn.org/professionals/physician_gls/pdf/mcc.pdf</uri>.                         
+                            <uri>"https://www.nccn.org/professionals/physician_gls/pdf/mcc.pdf</uri>. 
                     </mixed-citation>
             </ref>
             <ref id="b16">
@@ -629,9 +558,9 @@
                     <volume>134</volume>(
                     <issue>5</issue>):
                     <fpage>468</fpage>–
-                    <lpage>73</lpage>.                 
+                    <lpage>73</lpage>. 
                     <pub-id pub-id-type="pmid">19757348</pub-id>
-                    <issn>0044-409X</issn>                     
+                    <issn>0044-409X</issn> 
                 </mixed-citation>
             </ref>
             <ref id="b18">
@@ -734,8 +663,8 @@
                             <surname>Tonita</surname>
                             <given-names>J</given-names>
                         </name>, 
-                        <etal>et al.</etal>
-                    </person-group>
+                        <etal>et al</etal>
+                    </person-group>.
                     <article-title>Chemotherapy in neuroendocrine/Merkel cell carcinoma of the skin: case series and review of 204 cases</article-title>. 
                     <source>J Clin Oncol</source>. 
                     <year>2000</year>
@@ -777,8 +706,8 @@
                             <surname>Anderson</surname>
                             <given-names>A</given-names>
                         </name>, 
-                        <etal>et al.</etal>
-                    </person-group>
+                        <etal>et al</etal>
+                    </person-group>.
                     <article-title>Response rates and durability of chemotherapy among 62 patients with metastatic Merkel cell carcinoma</article-title>. 
                     <source>Cancer Med</source>. 
                     <year>2016</year>
@@ -820,8 +749,8 @@
                             <surname>Yamada</surname>
                             <given-names>T</given-names>
                         </name>, 
-                        <etal>et al.</etal>
-                    </person-group>
+                        <etal>et al</etal>
+                    </person-group>.
                     <article-title>Complete remission of Merkel cell carcinoma on the upper lip treated with radiation monotherapy and a literature review of Japanese cases</article-title>. 
                     <source>World J Surg Oncol</source>. 
                     <year>2015</year>
@@ -862,8 +791,8 @@
                             <surname>Guerreschi</surname>
                             <given-names>P</given-names>
                         </name>, 
-                        <etal>et al.</etal>
-                    </person-group>
+                        <etal>et al</etal>
+                    </person-group>.
                     <article-title>Radiotherapy alone for Merkel cell carcinoma: a comparative and retrospective study of 25 patients</article-title>. 
                     <source>J Am Acad Dermatol</source>. 
                     <year>2011</year>
@@ -906,27 +835,27 @@
                 <ref id="b25">
                     <label>25.	</label>
                     <mixed-citation publication-type="book">
-                        <source>Rak v Sloveniji 2014</source>.                      
-                        <publisher-loc>Ljubljana</publisher-loc>:                     
+                        <source>Rak v Sloveniji 2014</source>. 
+                        <publisher-loc>Ljubljana</publisher-loc>: 
                         <publisher-name>Onkološki inštitut Ljubljana, Epidemiologija in register raka, Register raka Republike Slovenije</publisher-name>;
                         <year>2017</year>. 
                     </mixed-citation>
             <ref id="b26">
                 <ref id="b26">
                     <label>26.	</label>
-                    <mixed-citation publication-type="journal">                                   
+                    <mixed-citation publication-type="journal"> 
                         <person-group person-group-type="author">
                             <name>
                                 <surname>Zucchi</surname>
                                 <given-names>S</given-names>
                             </name>
-                        </person-group>.                      
-                        <article-title>Merkel cell carcinoma: case report and literature review, from a remote region of France </article-title>.                     
-                        <source>Rural Remote Health</source>.                      
+                        </person-group>. 
+                        <article-title>Merkel cell carcinoma: case report and literature review, from a remote region of France </article-title>. 
+                        <source>Rural Remote Health</source>. 
                         <year>2009</year>
-                        <month>Jan_Mar</month>;                     
-                        <volume>9</volume>(                     
-                        <issue>1</issue>):                    
+                        <month>Jan_Mar</month>; 
+                        <volume>9</volume>( 
+                        <issue>1</issue>): 
                         <fpage>1072</fpage>.
                         <pub-id pub-id-type="pmid">19206996</pub-id>
                         <issn>1445-6354</issn>

@@ -1,7 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD with MathML3 v1.1 20151215//EN" "JATS-journalpublishing1-mathml3.dtd">
-<article xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" dtd-version="1.1" article-type="reference-list">
+<article dtd-version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
     <front>
+        <journal-meta>
+            <journal-id></journal-id> 
+            <issn></issn>
+        </journal-meta>
+        <article-meta>
+            <title-group>
+                <article-title></article-title>
+            </title-group>
+            <pub-date>
+                <year></year>
+            </pub-date>
+        </article-meta>
     </front>
     <back>
         <ref-list>
@@ -9,7 +21,7 @@
                 <mixed-citation publication-type="web-page">
                     <article-title>Global Strategy for Asthma Management and Prevention</article-title>.
                     <year>2018</year>.
-                    <date-in-citation content-type="access-date" iso-8601-date="2018-08-25">[cited 2018 Aug 25]</date-in-citation>.                 
+                    <date-in-citation content-type="access-date" iso-8601-date="2018-08-25">[cited 2018 Aug 25]</date-in-citation>. 
                     <comment>Available from:<uri>https://ginasthma.org/wp-content/uploads/2018/04/wms-GINA-2018-report-tracked_v1.3.pdfi</uri></comment>. 
                 </mixed-citation>
             </ref>
@@ -97,8 +109,8 @@
                             <surname>Sterk</surname>
                             <given-names>PJ</given-names>
                         </name>, 
-                        <etal>et al.</etal>
-                    </person-group>
+                        <etal>et al</etal>
+                    </person-group>.
                     <article-title>International ERS/ATS guidelines on definition, evaluation and treatment of severe asthma</article-title>. 
                     <source>Eur Respir J</source>. 
                     <year>2014</year>
@@ -139,8 +151,8 @@
                             <surname>Vodopivec Jamšek</surname>
                             <given-names>V</given-names>
                         </name>, 
-                        <etal>et al.</etal>
-                    </person-group>
+                        <etal>et al</etal>
+                    </person-group>.
                     <article-title>Priporočila za obravnavo bolnika z astmo na primarni in specialistični pulmološki ravni v Sloveniji</article-title>. 
                     <source>Zdrav Vestn</source>. 
                     <year>2016</year>;
@@ -179,8 +191,8 @@
                             <surname>Kočí</surname>
                             <given-names>T</given-names>
                         </name>, 
-                        <etal>et al.</etal>
-                    </person-group>
+                        <etal>et al</etal>
+                    </person-group>.
                     <article-title>Asthma management: A new phenotype-based approach using presence of eosinophilia and allergy</article-title>. 
                     <source>Allergy</source>. 
                     <year>2017</year>
@@ -221,8 +233,8 @@
                             <surname>Casale</surname>
                             <given-names>TB</given-names>
                         </name>, 
-                        <etal>et al.</etal>
-                    </person-group>
+                        <etal>et al</etal>
+                    </person-group>.
                     <article-title>A new perspective on concepts of asthma severity and control</article-title>. 
                     <source>Eur Respir J</source>. 
                     <year>2008</year>
@@ -339,8 +351,8 @@
                             <surname>Salome</surname>
                             <given-names>CM</given-names>
                         </name>, 
-                        <etal>et al.</etal>
-                    </person-group>
+                        <etal>et al</etal>
+                    </person-group>.
                     <article-title>Optimal asthma control, starting with high doses of inhaled budesonide</article-title>. 
                     <source>Eur Respir J</source>. 
                     <year>2000</year>
@@ -381,8 +393,8 @@
                             <surname>May</surname>
                             <given-names>N</given-names>
                         </name>, 
-                        <etal>et al.</etal>
-                    </person-group>
+                        <etal>et al</etal>
+                    </person-group>.
                     <article-title>Achieving asthma control in practice: understanding the reasons for poor control</article-title>. 
                     <source>Respir Med</source>. 
                     <year>2008</year>
@@ -543,8 +555,8 @@
                             <surname>Feng</surname>
                             <given-names>J</given-names>
                         </name>, 
-                        <etal>et al.</etal>
-                    </person-group>
+                        <etal>et al</etal>
+                    </person-group>.
                     <article-title>Use of the Asthma Control Questionnaire to predict future risk of asthma exacerbation</article-title>. 
                     <source>J Allergy Clin Immunol</source>. 
                     <year>2011</year>
@@ -585,8 +597,8 @@
                             <surname>Schermer</surname>
                             <given-names>TR</given-names>
                         </name>, 
-                        <etal>et al.</etal>
-                    </person-group>
+                        <etal>et al</etal>
+                    </person-group>.
                     <article-title>Identifying patients at risk for severe exacerbations of asthma: development and external validation of a multivariable prediction model</article-title>. 
                     <source>Thorax</source>. 
                     <year>2016</year>
@@ -627,8 +639,8 @@
                             <surname>Haywood</surname>
                             <given-names>P</given-names>
                         </name>, 
-                        <etal>et al.</etal>
-                    </person-group>
+                        <etal>et al</etal>
+                    </person-group>.
                     <article-title>Self-management education and regular practitioner review for adults with asthma</article-title>. 
                     <source>Cochrane Database Syst Rev</source>. 
                     <year>2003</year>;(

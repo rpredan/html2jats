@@ -1,91 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
-<article
-    xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" dtd-version="1.0" article-type="reference-list">  
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD with MathML3 v1.1 20151215//EN" "JATS-journalpublishing1-mathml3.dtd">
+<article dtd-version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
     <front>
+        <journal-meta>
+            <journal-id></journal-id> 
+            <issn></issn>
+        </journal-meta>
         <article-meta>
-            <custom-meta-group> 
-                <custom-meta>
-                    <meta-name>TotalReferences</meta-name> 
-                    <meta-value>48</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesParsed</meta-name>
-                    <meta-value>48</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesBillable</meta-name>
-                    <meta-value>48</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>LinkServices</meta-name>
-                    <meta-value>pubmed-crossref</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesLinked</meta-name>
-                    <meta-value>41</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesLinkedDOI</meta-name>
-                    <meta-value>39</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesLinkedPMID</meta-name>
-                    <meta-value>37</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>JournalReferences</meta-name>
-                    <meta-value>43</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>BookReferences</meta-name>
-                    <meta-value>4</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>BookChapterReferences</meta-name>
-                    <meta-value>1</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ConferenceReferences</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ElectronicReferences</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>DissertationReferences</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>LegalReferences</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>StandardReferences</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>OtherReferences</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>UnknownReferences</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesSemiParsed</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesBookUnparsed</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>EditorialStyle</meta-name>
-                    <meta-value>ICMJE-WHO</meta-value>
-                </custom-meta>
-            </custom-meta-group>
+            <title-group>
+                <article-title></article-title>
+            </title-group>
+            <pub-date>
+                <year></year>
+            </pub-date>
         </article-meta>
     </front>
     <back>
@@ -180,8 +107,7 @@
                             <given-names>H</given-names>
                         </name>
                     </person-group>. 
-                    <chapter-title>Chronic pain: a biobehavioral perspective</chapter-title>. 
-                    <comment>In</comment>: 
+                    <chapter-title>Chronic pain: a biobehavioral perspective</chapter-title>. In: 
                     <person-group person-group-type="editor">
                         <name>
                             <surname>Gatchel</surname>
@@ -501,7 +427,7 @@
                     <fpage>9724371</fpage>. 
                     <pub-id pub-id-type="doi">10.1155/2017/9724371</pub-id>
                     <pub-id pub-id-type="pmid">28706741</pub-id>
-                    <issn>1687-5443</issn>                     
+                    <issn>1687-5443</issn> 
                 </mixed-citation>
             </ref>
             <ref id="b12">
@@ -528,7 +454,7 @@
                     <supplement>S6</supplement>):
                     <fpage>S17</fpage>–
                     <lpage>20</lpage>.
-                    <pub-id pub-id-type="pmid">25370278</pub-id>                     
+                    <pub-id pub-id-type="pmid">25370278</pub-id> 
                 </mixed-citation>
             </ref>
             <ref id="b13">
@@ -567,7 +493,7 @@
                     <lpage>92</lpage>. 
                     <pub-id pub-id-type="doi">10.1016/j.jpain.2016.01.001</pub-id>
                     <pub-id pub-id-type="pmid">27586832</pub-id>
-                    <issn>1526-5900</issn>                     
+                    <issn>1526-5900</issn> 
                 </mixed-citation>
             </ref>
             <ref id="b14">
@@ -629,7 +555,7 @@
                     <fpage>51</fpage>–
                     <lpage>2</lpage>. 
                     <pub-id pub-id-type="doi">10.1097/00002508-199103000-00053</pub-id>
-                    <issn>0749-8047</issn>                     
+                    <issn>0749-8047</issn> 
                 </mixed-citation>
             </ref>
             <ref id="b16">
@@ -799,7 +725,7 @@
                     <fpage>77</fpage>–
                     <lpage>100</lpage>. 
                     <pub-id pub-id-type="doi">10.1016/0272-7358(88)90050-5</pub-id>
-                    <issn>0272-7358</issn>                     
+                    <issn>0272-7358</issn> 
                 </mixed-citation>
             </ref>
             <ref id="b22">
@@ -890,7 +816,7 @@
                     <fpage>102</fpage>–
                     <lpage>9</lpage>. 
                     <pub-id pub-id-type="doi">10.20419/2014.23.410</pub-id>
-                    <issn>1318-1874</issn>                    
+                    <issn>1318-1874</issn> 
                 </mixed-citation>
             </ref>
             <ref id="b25">
@@ -967,8 +893,8 @@
                     <issue>1</issue>):
                     <fpage>27</fpage>–
                     <lpage>38</lpage>. 
-                    <pub-id pub-id-type="doi">10.1027/1614-1881.1.1.27</pub-id>                                        
-                    <issn>1614-1881</issn>                    
+                    <pub-id pub-id-type="doi">10.1027/1614-1881.1.1.27</pub-id> 
+                    <issn>1614-1881</issn> 
                 </mixed-citation>
             </ref>
             <ref id="b29">
@@ -1026,7 +952,7 @@
                     <lpage>54</lpage>. 
                     <pub-id pub-id-type="doi">10.1016/j.jpsychores.2017.05.004</pub-id>
                     <pub-id pub-id-type="pmid">28554372</pub-id>
-                    <issn>0022-3999</issn>                     
+                    <issn>0022-3999</issn> 
                 </mixed-citation>
             </ref>
             <ref id="b31">
@@ -1206,7 +1132,7 @@
                     <lpage>36</lpage>. 
                     <pub-id pub-id-type="doi">10.2147/JPR.S155241</pub-id>
                     <pub-id pub-id-type="pmid">29563832</pub-id>
-                    <issn>1178-7090</issn>                    
+                    <issn>1178-7090</issn> 
                 </mixed-citation>
             </ref>
             <ref id="b36">
@@ -1651,11 +1577,9 @@
                     <fpage>7217684</fpage>. 
                     <pub-id pub-id-type="doi">10.1155/2016/7217684</pub-id>
                     <pub-id pub-id-type="pmid">27242925</pub-id>
-                    <issn>2090-1542</issn>                     
+                    <issn>2090-1542</issn> 
                 </mixed-citation>
             </ref>
         </ref-list>
     </back>
-</article>
-
-   
+</article> 

@@ -1,91 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd"> 
-<article
-    xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" dtd-version="1.0" article-type="reference-list">
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD with MathML3 v1.1 20151215//EN" "JATS-journalpublishing1-mathml3.dtd">
+<article dtd-version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
     <front>
+        <journal-meta>
+            <journal-id></journal-id> 
+            <issn></issn>
+        </journal-meta>
         <article-meta>
-            <custom-meta-group>
-                <custom-meta>
-                    <meta-name>TotalReferences</meta-name>
-                    <meta-value>35</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesParsed</meta-name>
-                    <meta-value>31</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesBillable</meta-name>
-                    <meta-value>31</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>LinkServices</meta-name>
-                    <meta-value>pubmed-crossref</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesLinked</meta-name>
-                    <meta-value>26</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesLinkedDOI</meta-name>
-                    <meta-value>26</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesLinkedPMID</meta-name>
-                    <meta-value>26</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>JournalReferences</meta-name>
-                    <meta-value>27</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>BookReferences</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>BookChapterReferences</meta-name>
-                    <meta-value>5</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ConferenceReferences</meta-name>
-                    <meta-value>1</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ElectronicReferences</meta-name>
-                    <meta-value>1</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>DissertationReferences</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>LegalReferences</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>StandardReferences</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>OtherReferences</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>UnknownReferences</meta-name>
-                    <meta-value>1</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesSemiParsed</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesBookUnparsed</meta-name>
-                    <meta-value>1</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>EditorialStyle</meta-name>
-                    <meta-value>ICMJE-WHO</meta-value>
-                </custom-meta>
-            </custom-meta-group>
+            <title-group>
+                <article-title></article-title>
+            </title-group>
+            <pub-date>
+                <year></year>
+            </pub-date>
         </article-meta>
     </front>
     <back>
@@ -173,7 +100,7 @@
                             <given-names>JB</given-names>
                         </name>
                     </person-group>. 
-                    <chapter-title>Difussion: how gas gests across the blood-gas barrier</chapter-title>.                   
+                    <chapter-title>Difussion: how gas gests across the blood-gas barrier</chapter-title>. 
                     <comment>In</comment>:
                     <source>Respiratory physiology: the essentials</source>. 
                     <edition>9th ed</edition>.
@@ -181,7 +108,7 @@
                     <publisher-name>Lippincott Williams & Wilkins</publisher-name>; 
                     <year>2012</year>. pp. 
                     <fpage>24</fpage>–
-                    <lpage>35</lpage>.                     
+                    <lpage>35</lpage>. 
                 </mixed-citation>
             </ref>
             <ref id="b5">
@@ -201,7 +128,7 @@
                     <publisher-name>Lippincott Williams & Wilkins</publisher-name>; 
                     <year>2012</year>. pp. 
                     <fpage>56</fpage>–
-                    <lpage>76</lpage>.                     
+                    <lpage>76</lpage>. 
                 </mixed-citation>
             </ref>
             <ref id="b6">
@@ -221,7 +148,7 @@
                     <publisher-name>Lippincott Williams & Wilkins</publisher-name>; 
                     <year>2012</year>. pp. 
                     <fpage>77</fpage>–
-                    <lpage>94</lpage>.                     
+                    <lpage>94</lpage>. 
                 </mixed-citation>
             </ref>
             <ref id="b7">
@@ -309,7 +236,7 @@
                     <fpage>CD005975</fpage>. 
                     <pub-id pub-id-type="doi">10.1002/14651858.CD005975.pub3</pub-id>
                     <pub-id pub-id-type="pmid">25493690</pub-id>
-                    <issn>1469-493X</issn>                     
+                    <issn>1469-493X</issn> 
                 </mixed-citation>
             </ref>
             <ref id="b10">
@@ -610,7 +537,7 @@
                     <lpage>904</lpage>. 
                     <pub-id pub-id-type="doi">10.1001/jamapediatrics.2015.1746</pub-id>
                     <pub-id pub-id-type="pmid">26322819</pub-id>
-                    <issn>2168-6203</issn>                     
+                    <issn>2168-6203</issn> 
                 </mixed-citation>
             </ref>
             <ref id="b18">
@@ -716,7 +643,7 @@
                     <publisher-name>Lippincott Williams & Wilkins</publisher-name>; 
                     <year>2012</year>. pp. 
                     <fpage>125</fpage>–
-                    <lpage>40</lpage>.                     
+                    <lpage>40</lpage>. 
                 </mixed-citation>
             </ref>
             <ref id="b22">
@@ -796,8 +723,8 @@
                     <year>2015</year>.
                     <date-in-citation content-type="copyright-year"
                         iso-8601-date="2018 04 10 ">2018 Apr 01</date-in-citation>
-                    <comment>Available from</comment>:                  
-                    <ext-link ext-link-type="uri" xlink:href="http://www.nice.org.uk/guidance/ng9">http://www.nice.org.uk/guidance/ng9</ext-link>                     
+                    <comment>Available from</comment>: 
+                    <ext-link ext-link-type="uri" xlink:href="http://www.nice.org.uk/guidance/ng9">http://www.nice.org.uk/guidance/ng9</ext-link> 
                 </mixed-citation>
             </ref>
             <ref id="b25">
@@ -907,7 +834,7 @@
                     </person-group>. 
                     <chapter-title>Zdravljenje akutnega bronhiolitisa z visokim pretokom</chapter-title>.
                     <comment>In</comment>:
-                    <person-group person-group-type="editor">                         
+                    <person-group person-group-type="editor"> 
                         <name>
                             <surname>Kržišnik</surname>
                             <given-names>C</given-names>
@@ -922,7 +849,7 @@
                     <publisher-name>Medicinska fakulteta, Katedra za pediatrijo</publisher-name>; 
                     <year>2013</year>. pp. 
                     <fpage>235</fpage>-
-                    <lpage>9</lpage>.                     
+                    <lpage>9</lpage>. 
                 </mixed-citation>
             </ref>
             <ref id="b29">
@@ -1153,7 +1080,7 @@
                     </person-group>. 
                     <article-title>High flow nasal cannula therapy improves clinical and gas exchange parameters in children with acute bronchiolitis</article-title> 
                     <article-title>Eur Respir J</article-title>.
-                    <year>2013</year>.                     
+                    <year>2013</year>. 
                     <volume>42</volume>
                     <supplement>57</supplement>:
                     <fpage>2050</fpage>.

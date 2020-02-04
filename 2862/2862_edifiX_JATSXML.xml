@@ -1,91 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
-<article
-    xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" dtd-version="1.0" article-type="reference-list"> 
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD with MathML3 v1.1 20151215//EN" "JATS-journalpublishing1-mathml3.dtd">
+<article dtd-version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
     <front>
+        <journal-meta>
+            <journal-id></journal-id> 
+            <issn></issn>
+        </journal-meta>
         <article-meta>
-            <custom-meta-group>
-                <custom-meta>
-                    <meta-name>TotalReferences</meta-name>
-                    <meta-value>44</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesParsed</meta-name>
-                    <meta-value>32</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesBillable</meta-name>
-                    <meta-value>35</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>LinkServices</meta-name>
-                    <meta-value>pubmed-crossref</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesLinked</meta-name>
-                    <meta-value>33</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesLinkedDOI</meta-name>
-                    <meta-value>32</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesLinkedPMID</meta-name>
-                    <meta-value>29</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>JournalReferences</meta-name>
-                    <meta-value>31</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>BookReferences</meta-name>
-                    <meta-value>3</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>BookChapterReferences</meta-name>
-                    <meta-value>3</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ConferenceReferences</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ElectronicReferences</meta-name>
-                    <meta-value>1</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>DissertationReferences</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>LegalReferences</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>StandardReferences</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>OtherReferences</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>UnknownReferences</meta-name>
-                    <meta-value>6</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesSemiParsed</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesBookUnparsed</meta-name>
-                    <meta-value>5</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>EditorialStyle</meta-name>
-                    <meta-value>ICMJE-WHO</meta-value>
-                </custom-meta>
-            </custom-meta-group>
+            <title-group>
+                <article-title></article-title>
+            </title-group>
+            <pub-date>
+                <year></year>
+            </pub-date>
         </article-meta>
     </front>
     <back>
@@ -143,7 +70,7 @@
                 </mixed-citation>
             </ref>
             <ref id="b3">
-                <label>3.           </label>
+                <label>3. </label>
                 <mixed-citation publication-type="book-chapter">
                     <person-group person-group-type="author">
                         <name>
@@ -156,11 +83,11 @@
                     <source>Reconstructive Facial Plastic Surgery: A Problem-solving Manual<article-title>. 
                     <edition>2. ed<edition>. 
                     <publisher-loc>New York<publisher-loc>:
-                    <publisher-name>Thieme</publisher-name>;                     
+                    <publisher-name>Thieme</publisher-name>; 
                     <year>2001</year>. 
                     <comment>(Thieme Publishers Series)</comment>. pp. 
                     <fpage>5</fpage>–
-                    <lpage>19</lpage>.                     
+                    <lpage>19</lpage>. 
                 </mixed-citation>
             </ref>
             <ref id="b4">
@@ -355,12 +282,12 @@
                     <publisher-loc>Edinburgh</publisher-loc>: 
                     <publisher-name>Churchill Livingstone</publisher-name>; 
                     <year>2000</year>. pp.
-                    <fpage>61</fpage>-   
+                    <fpage>61</fpage>- 
                     <lpage>120</lpage>.
                 </mixed-citation>
             </ref>
             <ref id="b12">
-                <label>12.         </label>
+                <label>12. </label>
                 <mixed-citation publication-type="book-chapter">
                     <person-group person-group-type="author">
                         <name>
@@ -372,7 +299,7 @@
                     <comment>In</comment>:
                     <source>Local and Regional Flaps in Head and Neck Reconstruction : A Practical Approach</source>. 
                     <edition>1. ed</edition>. 
-                    <publisher-loc>Hoboken</publisher-loc>:                     
+                    <publisher-loc>Hoboken</publisher-loc>: 
                     <publisher-name>Wiley Blackwell</publisher-name>; 
                     <year>2014</year>. pp.
                     <fpage>2</fpage>-
@@ -410,7 +337,7 @@
                 </mixed-citation>
             </ref>
             <ref id="b14">
-                <label>14.         </label>
+                <label>14. </label>
                 <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
@@ -425,13 +352,13 @@
                     <volume>117</volume>(
                     <issue>7</issue>):
                     <fpage>151E</fpage>–
-                    <lpage>60E</lpage>.                    
+                    <lpage>60E</lpage>. 
                     <pub-id pub-id-type="doi">10.1097/01.prs.0000219178.20541.7f</pub-id>
-                    <issn>0032-1052</issn>  
+                    <issn>0032-1052</issn> 
                 </mixed-citation>
             </ref>
             <ref id="b15">
-                <label>15.         </label>
+                <label>15. </label>
                 <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
@@ -444,13 +371,13 @@
                         </name>
                     </person-group>. 
                     <article-title>Prefabrication and Prelamination Applications in Current Aesthetic Facial Reconstruction</article-title>. 
-                    <source>Clinics in Plastic Surgery</source>.                   
+                    <source>Clinics in Plastic Surgery</source>. 
                     <year>2009</year>.
                     <month>July</month>;
                     <volume>36</volume>(
                     <issue>3</issue>):
                     <fpage>493</fpage>–
-                    <lpage>505</lpage>.                      
+                    <lpage>505</lpage>. 
                     <pub-id pub-id-type="doi">10.1016/j.cps.2009.02.010</pub-id>
                     <issn>0094-1298</issn>
                 </mixed-citation>
@@ -548,11 +475,10 @@
                             <given-names>R</given-names>
                         </name>
                     </person-group>. 
-                    <chapter-title>V to Y advancement flap</chapter-title>.
-                    <comment>In</comment>: 
+                    <chapter-title>V to Y advancement flap</chapter-title>. In: 
                     <source>Local and Regional Flaps in Head and Neck Reconstruction : A Practical Approach</source>.
                     <edition>1. ed</edition>. 
-                    <publisher-loc>Hoboken</publisher-loc>:                     
+                    <publisher-loc>Hoboken</publisher-loc>: 
                     <publisher-name>Wiley Blackwell</publisher-name>; 
                     <year>2015</year>. pp.
                     <fpage>50<fpage>–
@@ -770,10 +696,10 @@
                     <volume>3</volume>(
                     <issue>10</issue>):
                     <fpage>135</fpage>–
-                    <lpage>9</lpage>.     
+                    <lpage>9</lpage>. 
                     <pub-id pub-id-type="doi">10.1097/GOX.0000000000000499</pub-id>
                     <pub-id pub-id-type="pmid">26579337</pub-id>
-                    <issn>2169-7574</issn>                         
+                    <issn>2169-7574</issn> 
                 </mixed-citation>
             </ref>
             <ref id="b27">
@@ -871,7 +797,7 @@
                 </mixed-citation>
             </ref>
             <ref id="b30">
-                <label>30.         </label>
+                <label>30. </label>
                 <mixed-citation publication-type="book-title">
                     <person-group person-group-type="author">
                         <name>
@@ -883,11 +809,11 @@
                     <comment>In<comment>:
                     <source>Local and Regional Flaps in Head and Neck Reconstruction : A Practical Approach</source>. 
                     <edition>1. ed</edition>. 
-                    <publisher-loc>Hoboken</publisher-loc>:                    
+                    <publisher-loc>Hoboken</publisher-loc>: 
                     <publisher-name>Wiley Blackwell</publisher-name>; 
                     <year>2015</year>. pp.
-                    <fpage>92</fpage>-  
-                    <lpage>102</lpage>.    
+                    <fpage>92</fpage>- 
+                    <lpage>102</lpage>. 
                 </mixed-citation>
             </ref>
             <ref id="b31">
@@ -955,7 +881,7 @@
                 </mixed-citation>
             </ref>
             <ref id="b33">
-                <label>33.         </label>
+                <label>33. </label>
                 <mixed-citation publication-type="book-chapter">
                     <person-group person-group-type="author">
                         <name>
@@ -966,10 +892,10 @@
                     <article-title>Submental island flap<article-title>. 
                     <comment>In<comment>:
                     <source>Local and Regional Flaps in Head and Neck Reconstruction : A Practical Approach</source>. 
-                    <publisher-loc>Hoboken</publisher-loc>:                    
+                    <publisher-loc>Hoboken</publisher-loc>: 
                     <publisher-name>Wiley Blackwell</publisher-name>; 
                     <year>2015</year>. pp.
-                    <fapge>103</fpage>-    
+                    <fapge>103</fpage>- 
                     <fapge>13</fpage>. 
                 </mixed-citation>
             </ref>
@@ -1024,9 +950,9 @@
                     <comment>In<comment>: 
                         <source>Reconstructive Plastic Surgery of the Head and Neck: Current Techniques and Flap Atlas<source>. 
                          <publisher-loc>New York<publisher-loc>:
-                         <publisher-name>Thieme</publisher-name>;                             
+                         <publisher-name>Thieme</publisher-name>; 
                          <year>2016</year>. 
-                         <fpage>337</fpage>    
+                         <fpage>337</fpage> 
                          <lpage>8</lpage>.
                 </mixed-citation>
             </ref>
@@ -1075,11 +1001,11 @@
                     <article-title>Arteries of the Face and Neck</article-title>.
                     <comment>In<comment>:
                     <source>Anatomy for Plastic Surgery of the Face, Head and Neckh</source>. 
-                    <publisher-loc>New York</publisher-loc>:                    
+                    <publisher-loc>New York</publisher-loc>: 
                     <publisher-name>Thimeme</publisher-name>; 
                     <year>2016</year>. pp.
-                    <fapge>47</fpage>-    
-                    <fapge>62</fpage>.                     
+                    <fapge>47</fpage>- 
+                    <fapge>62</fpage>. 
                 </mixed-citation>
             </ref>
             <ref id="b38">
@@ -1134,7 +1060,7 @@
                         </name>, 
                         <name>
                             <surname>Margono</surname>
-                            <given-names>C</given-names>                            
+                            <given-names>C</given-names> 
                         </name>,
                         <etal>et al</etal>
                     </person-group>. 
@@ -1241,8 +1167,8 @@
                             <surname>Brown</surname>
                             <given-names>DH</given-names>
                         </name>, 
-                        <etal>et al.</etal>
-                    </person-group>
+                        <etal>et al</etal>
+                    </person-group>.
                     <article-title>Morbidity and cost differences between free flap reconstruction and pedicled flap reconstruction in oral and oropharyngeal cancer: matched control study</article-title>. 
                     <source>J Otolaryngol</source>. 
                     <year>2006</year>

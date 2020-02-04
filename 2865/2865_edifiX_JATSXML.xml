@@ -1,91 +1,18 @@
-<?xml version="1.0" encoding="UTF-8"?> 
-<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
-<article
-    xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" dtd-version="1.0" article-type="reference-list">
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD with MathML3 v1.1 20151215//EN" "JATS-journalpublishing1-mathml3.dtd">
+<article dtd-version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
     <front>
+        <journal-meta>
+            <journal-id></journal-id> 
+            <issn></issn>
+        </journal-meta>
         <article-meta>
-            <custom-meta-group>
-                <custom-meta>
-                    <meta-name>TotalReferences</meta-name>
-                    <meta-value>50</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesParsed</meta-name>
-                    <meta-value>41</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesBillable</meta-name>
-                    <meta-value>42</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>LinkServices</meta-name>
-                    <meta-value>pubmed-crossref</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesLinked</meta-name>
-                    <meta-value>38</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesLinkedDOI</meta-name>
-                    <meta-value>35</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesLinkedPMID</meta-name>
-                    <meta-value>29</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>JournalReferences</meta-name>
-                    <meta-value>38</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>BookReferences</meta-name>
-                    <meta-value>1</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>BookChapterReferences</meta-name>
-                    <meta-value>2</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ConferenceReferences</meta-name>
-                    <meta-value>3</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ElectronicReferences</meta-name>
-                    <meta-value>6</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>DissertationReferences</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>LegalReferences</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>StandardReferences</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>OtherReferences</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>UnknownReferences</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesSemiParsed</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesBookUnparsed</meta-name>
-                    <meta-value>1</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>EditorialStyle</meta-name>
-                    <meta-value>ICMJE-WHO</meta-value>
-                </custom-meta>
-            </custom-meta-group>
+            <title-group>
+                <article-title></article-title>
+            </title-group>
+            <pub-date>
+                <year></year>
+            </pub-date>
         </article-meta>
     </front>
     <back>
@@ -97,7 +24,7 @@
                     <date-in-citation content-type="access-date">cited 2017 May 15</date-in-citation>. 
                     <comment>Available from</comment>:
                     <ext-link ext-link-type="uri" xlink:href="http://apps.who.int/iris/bitstream/handle/10665/186463/9789240694811_eng.pdf?sequence=1">http://apps.who.int/iris/bitstream/handle/10665/186463/9789240694811_eng.pdf?sequence=1</ext-link>
-                </mixed-citation>       
+                </mixed-citation> 
                 </ref>
             <ref id="b2">
                 <label>2.	</label>
@@ -111,7 +38,7 @@
                     <chapter-title>Frailty and Novel Technologies - A Step Ahead</chapter-title>. 
                     <person-group person-group-type="editor">
                         <name><surname>Vellas</surname>
-                            <given-names>B</given-names></name>                         
+                            <given-names>B</given-names></name> 
                         <role>editor</role>
                     </person-group>.
                     <source>White book on frailty</source>.
@@ -120,7 +47,7 @@
                     <date-in-citation content-type="copyright-year"
                         iso-8601-date="2016">2016</date-in-citation>
                     <fpage>140</fpage>-
-                    <lpage>2</lpage>.                     
+                    <lpage>2</lpage>. 
                 </mixed-citation>
             </ref>
             <ref id="b3">
@@ -244,14 +171,14 @@
                             <surname>Gabrovec</surname>
                             <given-names>B</given-names>
                         </name>, 
-                        <etal>et al.</etal>
-                    </person-group>              
+                        <etal>et al</etal>
+                    </person-group>. 
                     <article-title>World health organization. World report on ageing and health</article-title>. 
                     <year>2015</year>.
                     <date-in-citation content-type="access-date">cited 2019 Jan 9</date-in-citation>. 
                     <comment>Available from</comment>:
                     <ext-link ext-link-type="uri" xlink:href="<ext-link ext-link-type="uri" xlink:href="http://advantageja.eu/images/SoAR-AdvantageJA_Fulltext.pdf">http://advantageja.eu/images/SoAR-AdvantageJA_Fulltext.pdf</ext-link>
-                </mixed-citation>       
+                </mixed-citation> 
             </ref>
             </ref>
             <ref id="b7">
@@ -352,8 +279,8 @@
                             <surname>Korpelainen</surname>
                             <given-names>R</given-names>
                         </name>, 
-                        <etal>et al.</etal>
-                    </person-group>
+                        <etal>et al</etal>
+                    </person-group>.
                     <article-title>Use of information and communication technologies among older people with and without frailty: A population-based survey</article-title>. 
                     <source>J Med Internet Res</source>. 
                     <year>2017</year>
@@ -437,15 +364,15 @@
                         <name>
                             <surname>Jansen-Kosterink</surname>
                             <given-names>S</given-names>
-                        </name>                         
+                        </name> 
                     </person-group>. 
-                    <article-title>Vollenbroek - Hutten MM, Hermens HJ. A renewed framework for the evaluation of telemedicine<article-title>.                         
+                    <article-title>Vollenbroek - Hutten MM, Hermens HJ. A renewed framework for the evaluation of telemedicine<article-title>. 
                         <cof-name>eTELEMED 2016 - The eighth international conference on ehealth, telemedicine, and social medicine</conf-name>. 
                         <conf-date iso-8601-date="2016-04-24">2016 Apr 24-28</conf-date>
-                        <conf-loc>Venice</conf-loc>    
+                        <conf-loc>Venice</conf-loc> 
                         <publisher-loc>Amsterdam</publisher-loc>:
                         <publisher-name>Elsevier</publisher-name>;
-                        <year iso-8601-date="2016">2016</year>.                        
+                        <year iso-8601-date="2016">2016</year>. 
                 </mixed-citation>
             </ref>
             <ref id="b13">
@@ -456,21 +383,20 @@
                             <surname>Peruzzini</surname>
                             <given-names>M</given-names>
                         </name>, 
-                        <name>          
+                        <name> 
                             <surname>Germani</surname>
                             <given-names>M</given-names>
                         </name>
                     </person-group>. 
-                    <article-title>Designing a user-centred ICT platform for active aging </article-title>.                     
+                    <article-title>Designing a user-centred ICT platform for active aging </article-title>. 
                     <conf-name>2014 IEEE/ASME 10th International Conference on Mechatronic and Embedded Systems and Applications (MESA)</conf-name>.
                     <conf-date iso-8601-date="2014-09-10">2014 Sep 10-12</conf-date>;
                     <conf-place>Senigallia, Italy </conf-place>.
-                    <comment>Available from</comment>:  
+                    <comment>Available from</comment>: 
                     <ext-link ext-link-type="uri" xlink:href="https://ieeexplore.ieee.org/document/6935624">https://ieeexplore.ieee.org/document/6935624</ext-link>
                     <date-in-citation content-type="access-date">cited 2017 Mar 24</date-in-citation>. 
                     <pub-id pub-id-type="doi">10.1109/MESA.2014.6935624</pub-id>
-                </mixed-citation>              
- 
+                </mixed-citation> 
             </ref>
             <ref id="b14">
                 <label>14.	</label>
@@ -614,8 +540,8 @@
                             <surname>Sinacore</surname>
                             <given-names>DR</given-names>
                         </name>, 
-                        <etal>et al.</etal>
-                    </person-group>
+                        <etal>et al</etal>
+                    </person-group>.
                     <article-title>Effects of exercise training on frailty in community-dwelling older adults: results of a randomized, controlled trial</article-title>. 
                     <source>J Am Geriatr Soc</source>. 
                     <year>2002</year>
@@ -657,8 +583,8 @@
                             <surname>Gómez</surname>
                             <given-names>M</given-names>
                         </name>, 
-                        <etal>et al.</etal>
-                    </person-group>
+                        <etal>et al</etal>
+                    </person-group>.
                     <article-title>Multicomponent exercises including muscle power training enhance muscle mass, power output, and functional outcomes in institutionalized frail nonagenarians</article-title>. 
                     <source>Age (Dordr)</source>. 
                     <year>2014</year>
@@ -784,8 +710,8 @@
                             <surname>Koutsouri</surname>
                             <given-names>G</given-names>
                         </name>, 
-                        <etal>et al.</etal>
-                    </person-group>
+                        <etal>et al</etal>
+                    </person-group>.
                     <article-title>KINOPTIM: a tele-rehabilitation gaming platform for fall prevention in the elderly community</article-title>. 
                     <source>Int J Health Res Innov</source>.
                     <year>2014</year>;
@@ -793,7 +719,7 @@
                     <issue>1</issue>):
                     <fpage>37</fpage>–
                     <lpage>49</lpage>.
-                    <issn>2051-5057 </issn>  
+                    <issn>2051-5057 </issn> 
                 </mixed-citation>
             </ref>
             <ref id="b23">
@@ -956,7 +882,7 @@
                             <given-names>M</given-names>
                         </name>
                     </person-group>. 
-                    <article-title>Using smartwatch as telecare and fall detection device</article-title>.                     
+                    <article-title>Using smartwatch as telecare and fall detection device</article-title>. 
                     <conf-name>12th international conference on intelligent environments (IE)</conf-name>. 
                     <conf-date iso-8601-date="2016-04-14">2016 Apr 14-16</conf-date>;
                     <conf-loc>London</conf-loc>.
@@ -964,7 +890,7 @@
                     <publisher-name>IEEE</publisher-name>; 
                     <year>2016</year>. 
                     <fpage>242</fpage>-
-                    <lpage>5</lpage>.   
+                    <lpage>5</lpage>. 
                     <pub-id pub-id-type="doi">10.1109/IE.2016.55</pub-id>
                 </mixed-citation>
             </ref>
@@ -1054,8 +980,7 @@
                             <given-names>MB</given-names>
                         </name>
                     </person-group>. 
-                    <chapter-title>Smart home with healthcare technologies for community-dwelling older adults</chapter-title>. 
-                    <comment>In</comment>: 
+                    <chapter-title>Smart home with healthcare technologies for community-dwelling older adults</chapter-title>. In: 
                     <person-group person-group-type="editor">
                         <name>
                             <surname>Mahmoud</surname>
@@ -1176,8 +1101,8 @@
                             <surname>Schreiber</surname>
                             <given-names>D</given-names>
                         </name>, 
-                        <etal>et al.</etal>
-                    </person-group>
+                        <etal>et al</etal>
+                    </person-group>.
                     <article-title>ICT-based fall prevention system for older adults: qualitative results from a long-term field study</article-title>. 
                     <source>ACM Trans Comput Interact</source>.
                     <year>2016</year>;
@@ -1352,8 +1277,8 @@
                             <surname>García</surname>
                             <given-names>M</given-names>
                         </name>, 
-                        <etal>et al.</etal>
-                    </person-group>
+                        <etal>et al</etal>
+                    </person-group>.
                     <article-title>Deploying integrated care models for frail elderly patients</article-title>. 
                     <source>Int J Integr Care</source>. 
                     <year>2015</year>;
@@ -1528,8 +1453,8 @@
                             <surname>Taylor-Piliae</surname>
                             <given-names>R</given-names>
                         </name>, 
-                        <etal>et al.</etal>
-                    </person-group>
+                        <etal>et al</etal>
+                    </person-group>.
                     <article-title>Wearable sensor-based in-home assessment of gait, balance, and physical activity for discrimination of frailty status: baseline results of the Arizona frailty cohort study</article-title>. 
                     <source>Gerontology</source>. 
                     <year>2015</year>;
@@ -1635,12 +1560,12 @@
                     <fpage>39</fpage>–
                     <lpage>50</lpage>.
                     <comment>Available from</comment>:
-                    <ext-link ext-link-type="uri" xlink:href="https://aisel.aisnet.org/icis1998/5/">https://aisel.aisnet.org/icis1998/5/</ext-link>                 
+                    <ext-link ext-link-type="uri" xlink:href="https://aisel.aisnet.org/icis1998/5/">https://aisel.aisnet.org/icis1998/5/</ext-link> 
                 </mixed-citation>
             </ref>
             <ref id="b49">
                 <label>49.	</label>
-                <mixed-citation publication-type="journal">  
+                <mixed-citation publication-type="journal"> 
                     <person-group person-group-type="author">
                         <name>
                             <surname>Ross</surname>

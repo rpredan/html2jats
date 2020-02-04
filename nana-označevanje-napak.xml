@@ -1,52 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD with MathML3 v1.1 20151215//EN" "JATS-journalpublishing1-mathml3.dtd">
 <article dtd-version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
-  <front>
-    <journal-meta>
-      <journal-id></journal-id>
-      <issn></issn>
-    </journal-meta>
-    <article-meta>
-      <title-group>
-        <article-title></article-title>
-      </title-group>
-      <pub-date>
-        <year></year>
-      </pub-date>
-    </article-meta>
-  </front>
-  <!-- Do sem skopiraš in nadometiš vse besedilo do taga </front> vključno z njim -->
-
-
+    <front>
+        <journal-meta>
+            <journal-id></journal-id>
+            <issn></issn>
+        </journal-meta>
+        <article-meta>
+            <title-group>
+                <article-title></article-title>
+            </title-group>
+            <pub-date>
+                <year></year>
+            </pub-date>
+        </article-meta>
+    </front>
+  <!-- Do sem skopiraš in nadometiš vse besedilo do taga </front> vključno z njim --> 
 <!-- Tagi: malo sem uredil, ker je bilo nekaj errorjev :-) --> 
   <back>
     <ref-list>
       <ref>
-        <mixed-citation>  
+        <mixed-citation> 
           <mixed-citation publication-type="web-page">
           (<series></series>).
           <person-group>
             <name name-style="western">
               <surname></surname>
               <given-names></given-names>
-            </name>,  
+            </name>, 
           </person-group>.
           <article-title></article-title>.
           <chapter-title></chapter-title>.
           <collab> </collab> 
-          <comment>[Thesis]</comment>.
+          [<comment>Thesis</comment>].
           <comment></comment>
+          <person-group><name><surname></surname></name></person-group>
           <comment>Available from:<uri></uri></comment>.
           <conf-name></conf-name>;
           <conf-date></conf-date>;
           <conf-loc></conf-loc>.
           [<date-in-citation content-type="access-date" iso-8601-date="2019-03-22">cited 2019 Mar 22</date-in-citation>]. 
           <edition></edition>. 
-          <issue></issue>  
+          <issue></issue> 
           [<comment>PhD Thesis</comment>].
           <pub-id pub-id-type="doi"></pub-id>
-          <pub-id pub-id-type="pmid"></pub-id>
-          <comment>In</comment>: 
+          <pub-id pub-id-type="pmid"></pub-id> In: 
           <source></source>. 
           <publisher-loc></publisher-loc>:
           <publisher-name></publisher-name>;
@@ -60,8 +58,7 @@
           <volume></volume>(
           <issue></issue>:
           <fpage></fpage>–
-          <lpage></lpage>.
-          
+          <lpage></lpage>. 
         <!--   <book-chapter></book-chapter>. Nana, to ni pravi tag. Verjetno imaš v mislih <chapter-title></chapter-title>, ki je pravi tag. Ene 2x sem že popravljal tole zadevo ... --> 
         </mixed-citation>
       </ref>

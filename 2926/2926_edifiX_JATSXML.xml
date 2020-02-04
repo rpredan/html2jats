@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
-<article xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" dtd-version="1.0" article-type="reference-list">
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD with MathML3 v1.1 20151215//EN" "JATS-journalpublishing1-mathml3.dtd">
+<article dtd-version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
     <front>
+        <journal-meta>
+            <journal-id></journal-id> 
+            <issn></issn>
+        </journal-meta>
+        <article-meta>
+            <title-group>
+                <article-title></article-title>
+            </title-group>
+            <pub-date>
+                <year></year>
+            </pub-date>
+        </article-meta>
     </front>
     <back>
         <ref-list>
@@ -44,13 +56,13 @@
                             <surname>On</surname>
                             <given-names>CJ</given-names>
                         </name>, 
-                        <etal>et al.</etal>
-                    </person-group>
+                        <etal>et al</etal>
+                    </person-group>.
                     <article-title>Feasibility of zero or near zero fluoroscopy during catheter ablation procedures</article-title>. 
                     <source>Cardiol J</source>. 
                     <year>2018</year>.
                     <pub-id pub-id-type="pmid">29611170</pub-id>
-                    <issn>1897-5593</issn>                     
+                    <issn>1897-5593</issn> 
                 </mixed-citation>
             </ref>
             <ref id="b3">
@@ -61,8 +73,7 @@
                             <given-names>GF</given-names>
                         </name>
                     </person-group>. 
-                    <chapter-title>Clinical paediatric arrhythmias</chapter-title>.
-                    <comment>In</comment>: 
+                    <chapter-title>Clinical paediatric arrhythmias</chapter-title>. In: 
                     <person-group person-group-type="editor">
                         <name>
                             <surname>Gillette</surname>
@@ -110,8 +121,8 @@
                             <surname>Ballard</surname>
                             <given-names>DJ</given-names>
                         </name>, 
-                        <etal>et al.</etal>
-                    </person-group>
+                        <etal>et al</etal>
+                    </person-group>.
                     <article-title>A population study of the natural history of Wolff-Parkinson-White syndrome in Olmsted County, Minnesota, 1953-1989</article-title>. 
                     <source>Circulation</source>. 
                     <year>1993</year>
@@ -234,13 +245,13 @@
                             <surname>Bay</surname>
                             <given-names>B</given-names>
                         </name>, 
-                        <etal>et al.</etal>
-                    </person-group>
+                        <etal>et al</etal>
+                    </person-group>.
                     <article-title>The transjugular approach: an alternative route to improve ablation success in right anteriorly and anterolaterally-located supraventricular tachycardia substrates in children</article-title>. 
                     <source>Pediatr Cardiol</source>. 
-                    <year>2018</year>;                      
+                    <year>2018</year>; 
                     <pub-id pub-id-type="pmid">30244304</pub-id>
-                    <issn>0172-0643</issn>                     
+                    <issn>0172-0643</issn> 
                 </mixed-citation>
             </ref>
             <ref id="b9">
@@ -311,8 +322,8 @@
                             <surname>Emad</surname>
                             <given-names>A</given-names>
                         </name>, 
-                        <etal>et al.</etal>
-                    </person-group>
+                        <etal>et al</etal>
+                    </person-group>.
                     <article-title>Cancer risk from professional exposure in staff working in cardiac catheterization laboratory: insights from the National Research Council’s Biological Effects of Ionizing Radiation VII Report</article-title>. 
                     <source>Am Heart J</source>. 
                     <year>2009</year>
@@ -343,7 +354,7 @@
                     <fpage>599</fpage>–
                     <lpage>600</lpage>.
                     <pub-id pub-id-type="pmid">24609722</pub-id>
-                    <issn>1522-9645</issn>                     
+                    <issn>1522-9645</issn> 
                 </mixed-citation>
             </ref>
         </ref-list>

@@ -1,91 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd"> 
-<article xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" dtd-version="1.0" article-type="reference-list">
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD with MathML3 v1.1 20151215//EN" "JATS-journalpublishing1-mathml3.dtd">
+<article dtd-version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
     <front>
-        <article-meta></article-meta>
-    </front>     
-            <custom-meta-group>	
-                <custom-meta>	
-                    <meta-name>TotalReferences</meta-name>	
-                    <meta-value>52</meta-value>	
-                </custom-meta>	
-                <custom-meta>	
-                    <meta-name>ReferencesParsed</meta-name>	
-                    <meta-value>52</meta-value>	
-                </custom-meta>	
-                <custom-meta>	
-                    <meta-name>ReferencesBillable</meta-name>	
-                    <meta-value>52</meta-value>	
-                </custom-meta>	
-                <custom-meta>	
-                    <meta-name>LinkServices</meta-name>	
-                    <meta-value>pubmed-crossref</meta-value>	
-                </custom-meta>	
-                <custom-meta>	
-                    <meta-name>ReferencesLinked</meta-name>	
-                    <meta-value>51</meta-value>	
-                </custom-meta>	
-                <custom-meta>	
-                    <meta-name>ReferencesLinkedDOI</meta-name>	
-                    <meta-value>40</meta-value>	
-                </custom-meta>	
-                <custom-meta>	
-                    <meta-name>ReferencesLinkedPMID</meta-name>	
-                    <meta-value>51</meta-value>	
-                </custom-meta>	
-                <custom-meta>	
-                    <meta-name>JournalReferences</meta-name>	
-                    <meta-value>52</meta-value>	
-                </custom-meta>	
-                <custom-meta>	
-                    <meta-name>BookReferences</meta-name>	
-                    <meta-value>0</meta-value>	
-                </custom-meta>	
-                <custom-meta>	
-                    <meta-name>BookChapterReferences</meta-name>	
-                    <meta-value>0</meta-value>	
-                </custom-meta>	
-                <custom-meta>	
-                    <meta-name>ConferenceReferences</meta-name>	
-                    <meta-value>0</meta-value>	
-                </custom-meta>	
-                <custom-meta>	
-                    <meta-name>ElectronicReferences</meta-name>	
-                    <meta-value>0</meta-value>	
-                </custom-meta>	
-                <custom-meta>	
-                    <meta-name>DissertationReferences</meta-name>	
-                    <meta-value>0</meta-value>	
-                </custom-meta>	
-                <custom-meta>	
-                    <meta-name>LegalReferences</meta-name>	
-                    <meta-value>0</meta-value>	
-                </custom-meta>	
-                <custom-meta>	
-                    <meta-name>StandardReferences</meta-name>	
-                    <meta-value>0</meta-value>	
-                </custom-meta>	
-                <custom-meta>	
-                    <meta-name>OtherReferences</meta-name>	
-                    <meta-value>0</meta-value>	
-                </custom-meta>	
-                <custom-meta>	
-                    <meta-name>UnknownReferences</meta-name>	
-                    <meta-value>0</meta-value>	
-                </custom-meta>	
-                <custom-meta>	
-                    <meta-name>ReferencesSemiParsed</meta-name>	
-                    <meta-value>0</meta-value>	
-                </custom-meta>	
-                <custom-meta>	
-                    <meta-name>ReferencesBookUnparsed</meta-name>	
-                    <meta-value>0</meta-value>	
-                </custom-meta>	
-                <custom-meta>	
-                    <meta-name>EditorialStyle</meta-name>	
-                    <meta-value>ICMJE-WHO</meta-value>	
-                </custom-meta>	
-            </custom-meta-group>	 
+        <journal-meta>
+            <journal-id></journal-id> 
+            <issn></issn>
+        </journal-meta>
+        <article-meta>
+            <title-group>
+                <article-title></article-title>
+            </title-group>
+            <pub-date>
+                <year></year>
+            </pub-date>
+        </article-meta>
+    </front>
     <back>
         <ref-list>
             <ref id="b1">
@@ -106,7 +35,7 @@
                     <fpage>98</fpage>. 
                     <pub-id pub-id-type="doi">10.1186/s12984-017-0310-6</pub-id>
                     <pub-id pub-id-type="pmid">28915834</pub-id>
-                    <issn>1743-0003</issn>                     
+                    <issn>1743-0003</issn> 
                 </mixed-citation>
             </ref>
             <ref id="b2">
@@ -227,7 +156,7 @@
                     <lpage>6</lpage>. 
                     <pub-id pub-id-type="doi">10.3944/AOTT.2009.081</pub-id>
                     <pub-id pub-id-type="pmid">19448346</pub-id>
-                    <issn>1017-995X</issn>                     
+                    <issn>1017-995X</issn> 
                 </mixed-citation>
             </ref>
             <ref id="b6">
@@ -260,7 +189,7 @@
                     <fpage>387</fpage>–
                     <lpage>94</lpage>.
                     <pub-id pub-id-type="pmid">29790572</pub-id>
-                    <issn>1576-6578</issn>                     
+                    <issn>1576-6578</issn> 
                 </mixed-citation>
             </ref>
             <ref id="b7">
@@ -406,8 +335,8 @@
                             <surname>Farley</surname>
                             <given-names>FA</given-names>
                         </name>, 
-                        <etal>et al.</etal>
-                    </person-group>
+                        <etal>et al</etal>
+                    </person-group>.
                     <article-title>A comparison of hip dislocation rates and hip containment procedures after selective dorsal rhizotomy versus intrathecal baclofen pump insertion in nonambulatory cerebral palsy patients</article-title>. 
                     <source>J Pediatr Orthop</source>. 
                     <year>2012</year>
@@ -491,7 +420,7 @@
                     <volume>6</volume>:
                     <fpage>CD011660</fpage>.
                     <pub-id pub-id-type="pmid">28602046</pub-id>
-                    <issn>1469-493X</issn>                     
+                    <issn>1469-493X</issn> 
                 </mixed-citation>
             </ref>
             <ref id="b15">
@@ -574,8 +503,8 @@
                             <surname>Zhang</surname>
                             <given-names>T</given-names>
                         </name>, 
-                        <etal>et al.</etal>
-                    </person-group>
+                        <etal>et al</etal>
+                    </person-group>.
                     <article-title>Functional Connectivity Alterations in Children with Spastic and Dyskinetic Cerebral Palsy</article-title>. 
                     <source>Neural Plast</source>. 
                     <year>2018</year>
@@ -584,7 +513,7 @@
                     <fpage>7058953</fpage>. 
                     <pub-id pub-id-type="doi">10.1155/2018/7058953</pub-id>
                     <pub-id pub-id-type="pmid">30186320</pub-id>
-                    <issn>1687-5443</issn>                     
+                    <issn>1687-5443</issn> 
                 </mixed-citation>
             </ref>
             <ref id="b18">
@@ -615,8 +544,8 @@
                             <surname>Hosneara</surname>
                             <given-names>M</given-names>
                         </name>, 
-                        <etal>et al.</etal>
-                    </person-group>
+                        <etal>et al</etal>
+                    </person-group>.
                     <article-title>Magnetic Resonance Imaging of Cerebral Palsy in the Assessment of Time of Brain Insult</article-title>. 
                     <source>Mymensingh Med J</source>. 
                     <year>2018</year>
@@ -721,8 +650,8 @@
                             <surname>Macintosh</surname>
                             <given-names>A</given-names>
                         </name>, 
-                        <etal>et al.</etal>
-                    </person-group>
+                        <etal>et al</etal>
+                    </person-group>.
                     <article-title>Pharmacological and neurosurgical interventions for managing dystonia in cerebral palsy: a systematic review</article-title>. 
                     <source>Dev Med Child Neurol</source>. 
                     <year>2018</year>
@@ -1405,7 +1334,7 @@
                     <fpage>422</fpage>–
                     <lpage>39</lpage>.
                     <pub-id pub-id-type="pmid">11197715</pub-id>
-                    <issn>0069-4827</issn>                     
+                    <issn>0069-4827</issn> 
                 </mixed-citation>
             </ref>
             <ref id="b43">
@@ -1496,8 +1425,8 @@
                             <surname>Galli</surname>
                             <given-names>C</given-names>
                         </name>, 
-                        <etal>et al.</etal>
-                    </person-group>
+                        <etal>et al</etal>
+                    </person-group>.
                     <article-title>Long-term functional outcome after selective posterior rhizotomy</article-title>. 
                     <source>J Neurosurg</source>. 
                     <year>2002</year>
@@ -1627,8 +1556,8 @@
                             <surname>Gold</surname>
                             <given-names>JT</given-names>
                         </name>, 
-                        <etal>et al.</etal>
-                    </person-group>
+                        <etal>et al</etal>
+                    </person-group>.
                     <article-title>Selective dorsal rhizotomy: outcome and complications in treating spastic cerebral palsy</article-title>. 
                     <source>Neurosurgery</source>. 
                     <year>1993</year>
@@ -1696,8 +1625,8 @@
                             <surname>Cantin</surname>
                             <given-names>MA</given-names>
                         </name>, 
-                        <etal>et al.</etal>
-                    </person-group>
+                        <etal>et al</etal>
+                    </person-group>.
                     <article-title>Spinal deformities following selective dorsal rhizotomy</article-title>. 
                     <source>J Neurosurg</source>. 
                     <year>2007</year>

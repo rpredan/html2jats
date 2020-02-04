@@ -1,91 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
-<article
-    xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" dtd-version="1.0" article-type="reference-list">
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD with MathML3 v1.1 20151215//EN" "JATS-journalpublishing1-mathml3.dtd">
+<article dtd-version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
     <front>
+        <journal-meta>
+            <journal-id></journal-id>
+            <issn></issn>
+        </journal-meta>
         <article-meta>
-            <custom-meta-group>
-                <custom-meta>
-                    <meta-name>TotalReferences</meta-name>
-                    <meta-value>40</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesParsed</meta-name>
-                    <meta-value>38</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesBillable</meta-name>
-                    <meta-value>38</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>LinkServices</meta-name>
-                    <meta-value>pubmed-crossref</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesLinked</meta-name>
-                    <meta-value>32</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesLinkedDOI</meta-name>
-                    <meta-value>31</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesLinkedPMID</meta-name>
-                    <meta-value>29</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>JournalReferences</meta-name>
-                    <meta-value>34</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>BookReferences</meta-name>
-                    <meta-value>1</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>BookChapterReferences</meta-name>
-                    <meta-value>3</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ConferenceReferences</meta-name>
-                    <meta-value>1</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ElectronicReferences</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>DissertationReferences</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>LegalReferences</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>StandardReferences</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>OtherReferences</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>UnknownReferences</meta-name>
-                    <meta-value>1</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesSemiParsed</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesBookUnparsed</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>EditorialStyle</meta-name>
-                    <meta-value>ICMJE-WHO</meta-value>
-                </custom-meta>
-            </custom-meta-group>
+            <title-group>
+                <article-title></article-title>
+            </title-group>
+            <pub-date>
+                <year></year>
+            </pub-date>
         </article-meta>
     </front>
     <back>
@@ -94,32 +21,32 @@
                 <label>1.	</label>
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Koh</surname>
                             <given-names>S</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Jayakar</surname>
                             <given-names>P</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Dunoyer</surname>
                             <given-names>C</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Whiting</surname>
                             <given-names>SE</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Resnick</surname>
                             <given-names>TJ</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Alvarez</surname>
                             <given-names>LA</given-names>
-                        </string-name>
-                        <etal>et al.</etal>
-                    </person-group>
+                        </name>
+                        <etal>et al</etal>
+                    </person-group>.
                     <article-title>Epilepsy surgery in children with tuberous sclerosis complex: presurgical evaluation and outcome</article-title>. 
                     <source>Epilepsia</source>. 
                     <year>2000</year>
@@ -137,32 +64,32 @@
                 <label>2.	</label>
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Paolicchi</surname>
                             <given-names>JM</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Jayakar</surname>
                             <given-names>P</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Dean</surname>
                             <given-names>P</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Yaylali</surname>
                             <given-names>I</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Morrison</surname>
                             <given-names>G</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Prats</surname>
                             <given-names>A</given-names>
-                        </string-name>
-                        <etal>et al.</etal>
-                    </person-group>
+                        </name>
+                        <etal>et al</etal>
+                    </person-group>.
                     <article-title>Predictors of outcome in pediatric epilepsy surgery</article-title>. 
                     <source>Neurology</source>. 
                     <year>2000</year>
@@ -180,30 +107,30 @@
                 <label>3.	</label>
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Wyllie</surname>
                             <given-names>E</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Comair</surname>
                             <given-names>YG</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Kotagal</surname>
                             <given-names>P</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Bulacio</surname>
                             <given-names>J</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Bingaman</surname>
                             <given-names>W</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Ruggieri</surname>
                             <given-names>P</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Seizure outcome after epilepsy surgery in children and adolescents</article-title>. 
                     <source>Ann Neurol</source>. 
@@ -222,22 +149,22 @@
                 <label>4.	</label>
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Maehara</surname>
                             <given-names>T</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Shimizu</surname>
                             <given-names>H</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Oda</surname>
                             <given-names>M</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Arai</surname>
                             <given-names>N</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Surgical treatment of children with medically intractable epilepsy—outcome of various surgical procedures</article-title>. 
                     <source>Neurol Med Chir (Tokyo)</source>. 
@@ -256,32 +183,32 @@
                 <label>5.	</label>
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Dorfmüller</surname>
                             <given-names>G</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Ferrand-Sorbets</surname>
                             <given-names>S</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Fohlen</surname>
                             <given-names>M</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Bulteau</surname>
                             <given-names>C</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Archambaud</surname>
                             <given-names>F</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Delalande</surname>
                             <given-names>O</given-names>
-                        </string-name>
-                        <etal>et al.</etal>
-                    </person-group>
+                        </name>
+                        <etal>et al</etal>
+                    </person-group>.
                     <article-title>Outcome of surgery in children with focal cortical dysplasia younger than 5 years explored by stereo-electroencephalography</article-title>. 
                     <source>Childs Nerv Syst</source>. 
                     <year>2014</year>
@@ -299,29 +226,29 @@
                 <label>6. </label>
                 <mixed-citation publication-type="book-chapter" specific-use="restruct">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Ravnik</surname>
                             <given-names>IM</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Paro</surname>
                             <given-names>D</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Tivadar</surname>
                             <given-names>I</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Panjan</surname>
                             <given-names>B</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <chapter-title>Epidemiologie descriptive des épilepsies dans la région sanitaire de Ljubljana</chapter-title>. In: 
                     <person-group person-group-type="editor">
-                        <string-name>
+                        <name>
                             <surname>Jallon</surname>
                             <given-names>P</given-names>
-                        </string-name>, 
+                        </name>, 
                         <role>editor</role>
                     </person-group>. 
                     <source>Epidemiologie des épilepsies</source>. 
@@ -336,32 +263,32 @@
                 <label>7.	</label>
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Kwan</surname>
                             <given-names>P</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Arzimanoglou</surname>
                             <given-names>A</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Berg</surname>
                             <given-names>AT</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Brodie</surname>
                             <given-names>MJ</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Allen Hauser</surname>
                             <given-names>W</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Mathern</surname>
                             <given-names>G</given-names>
-                        </string-name>
-                        <etal>et al.</etal>
-                    </person-group>
+                        </name>
+                        <etal>et al</etal>
+                    </person-group>.
                     <article-title>Definition of drug resistant epilepsy: consensus proposal by the ad hoc Task Force of the ILAE Commission on Therapeutic Strategies</article-title>. 
                     <source>Epilepsia</source>. 
                     <year>2010</year>
@@ -379,18 +306,18 @@
                 <label>8.	</label>
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Holthausen</surname>
                             <given-names>H</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Pieper</surname>
                             <given-names>T</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Kudernatsch</surname>
                             <given-names>M</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Towards early diagnosis and treatment to save children from catastrophic epilepsy— focus on epilepsy surgery</article-title>. 
                     <source>Brain Dev</source>. 
@@ -409,32 +336,32 @@
                 <label>9.	</label>
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Titus</surname>
                             <given-names>JB</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Lee</surname>
                             <given-names>A</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Kasasbeh</surname>
                             <given-names>A</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Thio</surname>
                             <given-names>LL</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Stephenson</surname>
                             <given-names>J</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Steger-May</surname>
                             <given-names>K</given-names>
-                        </string-name>
-                        <etal>et al.</etal>
-                    </person-group>
+                        </name>
+                        <etal>et al</etal>
+                    </person-group>.
                     <article-title>Health-related quality of life before and after pediatric epilepsy surgery: the influence of seizure outcome on changes in physical functioning and social functioning</article-title>. 
                     <source>Epilepsy Behav</source>. 
                     <year>2013</year>
@@ -452,32 +379,32 @@
                 <label>10.	</label>
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Baca</surname>
                             <given-names>CB</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Vickrey</surname>
                             <given-names>BG</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Vassar</surname>
                             <given-names>S</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Hauptman</surname>
                             <given-names>JS</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Dadour</surname>
                             <given-names>A</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Oh</surname>
                             <given-names>T</given-names>
-                        </string-name>
-                        <etal>et al.</etal>
-                    </person-group>
+                        </name>
+                        <etal>et al</etal>
+                    </person-group>.
                     <article-title>Time to pediatric epilepsy surgery is related to disease severity and nonclinical factors</article-title>. 
                     <source>Neurology</source>. 
                     <year>2013</year>
@@ -495,30 +422,30 @@
                 <label>11.	</label>
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Vicari</surname>
                             <given-names>S</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Albertoni</surname>
                             <given-names>A</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Chilosi</surname>
                             <given-names>AM</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Cipriani</surname>
                             <given-names>P</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Cioni</surname>
                             <given-names>G</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Bates</surname>
                             <given-names>E</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Plasticity and reorganization during language development in children with early brain injury</article-title>. 
                     <source>Cortex</source>. 
@@ -537,32 +464,32 @@
                 <label>12.	</label>
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Hertz-Pannier</surname>
                             <given-names>L</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Chiron</surname>
                             <given-names>C</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Jambaqué</surname>
                             <given-names>I</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Renaux-Kieffer</surname>
                             <given-names>V</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Van de Moortele</surname>
                             <given-names>PF</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Delalande</surname>
                             <given-names>O</given-names>
-                        </string-name>
-                        <etal>et al.</etal>
-                    </person-group>
+                        </name>
+                        <etal>et al</etal>
+                    </person-group>.
                     <article-title>Late plasticity for language in a child’s non-dominant hemisphere: a pre- and post-surgery fMRI study</article-title>. 
                     <source>Brain</source>. 
                     <year>2002</year>
@@ -580,32 +507,32 @@
                 <label>13.	</label>
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Bulteau</surname>
                             <given-names>C</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Delalande</surname>
                             <given-names>O</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Fohlen</surname>
                             <given-names>M</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Jalin</surname>
                             <given-names>C</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Pinard</surname>
                             <given-names>JM</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Castelli</surname>
                             <given-names>N</given-names>
-                        </string-name>
-                        <etal>et al.</etal>
-                    </person-group>
+                        </name>
+                        <etal>et al</etal>
+                    </person-group>.
                     <article-title>Comportement et cognition chez l’enfant traité par hémisphérotomie</article-title>. 
                     <source>Approch Neuropsychol Apprentiss Enfant</source>. 
                     <year>2002</year>;
@@ -622,24 +549,24 @@
                 <label>14.	</label>
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>André-Obadia</surname>
                             <given-names>N</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Sauleauc</surname>
                             <given-names>P</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Cheliout-Heraute</surname>
                             <given-names>F</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Convers</surname>
                             <given-names>P</given-names>
-                        </string-name>
-                        <etal>et al.</etal>
-                    </person-group>
+                        </name>
+                        <etal>et al</etal>
+                    </person-group>.
                     <article-title>Recommandations françaises sur l’électroencéphalogramme. French Guidelines on electroencephalogram. Neurophysiologie Clinique</article-title>. 
                     <source>Clin Neurophysiol</source>. 
                     <year>2014</year>;
@@ -657,32 +584,32 @@
                 <label>15.	</label>
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Beniczky</surname>
                             <given-names>S</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Neufeld</surname>
                             <given-names>M</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Diehl</surname>
                             <given-names>B</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Dobesberger</surname>
                             <given-names>J</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Trinka</surname>
                             <given-names>E</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Mameniskiene</surname>
                             <given-names>R</given-names>
-                        </string-name>
-                        <etal>et al.</etal>
-                    </person-group>
+                        </name>
+                        <etal>et al</etal>
+                    </person-group>.
                     <article-title>Testing patients during seizures: A European consensus procedure developed by a joint taskforce of the ILAE - Commission on European Affairs and the European Epilepsy Monitoring Unit Association</article-title>. 
                     <source>Epilepsia</source>. 
                     <year>2016</year>
@@ -700,14 +627,14 @@
                 <label>16.	</label>
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Wieser</surname>
                             <given-names>HG</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Siegel</surname>
                             <given-names>AM</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Analysis of foramen ovale electrode-recorded seizures and correlation with outcome following amygdalohippocampectomy</article-title>. 
                     <source>Epilepsia</source>. 
@@ -726,30 +653,30 @@
                 <label>17.	</label>
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Adamsbaum</surname>
                             <given-names>C</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Robain</surname>
                             <given-names>O</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Cohen</surname>
                             <given-names>PA</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Delalande</surname>
                             <given-names>O</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Fohlen</surname>
                             <given-names>M</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Kalifa</surname>
                             <given-names>G</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Focal cortical dysplasia and hemimegalencephaly: histological and neuroimaging correlations</article-title>. 
                     <source>Pediatr Radiol</source>. 
@@ -768,30 +695,30 @@
                 <label>18.	</label>
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Talairach</surname>
                             <given-names>J</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Bancaud</surname>
                             <given-names>J</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Szikla</surname>
                             <given-names>G</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Bonis</surname>
                             <given-names>A</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Geier</surname>
                             <given-names>S</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Vedrenne</surname>
                             <given-names>C</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Approche nouvelle de la neurochirurgie de l’épilepsie. Méthode stéréotaxique et résultats thérapeutiques</article-title>. 
                     <source>Neurochirurgie</source>. 
@@ -807,22 +734,22 @@
                 <label>19.	</label>
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Jayakar</surname>
                             <given-names>P</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Alvarez</surname>
                             <given-names>LA</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Duchowny</surname>
                             <given-names>MS</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Resnick</surname>
                             <given-names>TJ</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>A safe and effective paradigm to functionally map the cortex in childhood</article-title>. 
                     <source>J Clin Neurophysiol</source>. 
@@ -841,25 +768,25 @@
                 <label>20. </label>
                 <mixed-citation publication-type="book-chapter" specific-use="restruct">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Villemure</surname>
                             <given-names>JG</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Vernet</surname>
                             <given-names>O</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Delalande</surname>
                             <given-names>O</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <chapter-title>Hemispheric disconnection: callosotomy and hemispherotomy</chapter-title>. In: 
                     <person-group person-group-type="editor">
-                        <string-name>
+                        <name>
                             <surname>Cohadon</surname>
                             <given-names>F</given-names>
-                        </string-name>, 
+                        </name>, 
                         <role>editor</role>
                     </person-group>. 
                     <source>Advances and Technical Standards in Neurosurgery</source>. 
@@ -876,37 +803,37 @@
                 <label>21. </label>
                 <mixed-citation publication-type="book-chapter" specific-use="restruct">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Fohlen</surname>
                             <given-names>M</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Jalin</surname>
                             <given-names>C</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Pinard</surname>
                             <given-names>JM</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Delalande</surname>
                             <given-names>O</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <chapter-title>De l’hémisphérectomie à l’hémisphérotomie</chapter-title>. In: 
                     <person-group person-group-type="editor">
-                        <string-name>
+                        <name>
                             <surname>Bureau</surname>
                             <given-names>M</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Kahane</surname>
                             <given-names>P</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Munari</surname>
                             <given-names>C</given-names>
-                        </string-name>, 
+                        </name>, 
                         <role>editors</role>
                     </person-group>. 
                     <source>Epilepsies partielles graves pharmaco-résistantes de l’enfant : stratégies diagnostiques et traitements chirurgicaux</source>. 
@@ -921,32 +848,32 @@
                 <label>22.	</label>
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Munari</surname>
                             <given-names>C</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Kahane</surname>
                             <given-names>P</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Francione</surname>
                             <given-names>S</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Hoffmann</surname>
                             <given-names>D</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Tassi</surname>
                             <given-names>L</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Cusmai</surname>
                             <given-names>R</given-names>
-                        </string-name>
-                        <etal>et al.</etal>
-                    </person-group>
+                        </name>
+                        <etal>et al</etal>
+                    </person-group>.
                     <article-title>Role of the hypothalamic hamartoma in the genesis of gelastic fits (a video-stereo-EEG study)</article-title>. 
                     <source>Electroencephalogr Clin Neurophysiol</source>. 
                     <year>1995</year>
@@ -964,32 +891,32 @@
                 <label>23.	</label>
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Kuzniecky</surname>
                             <given-names>R</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Guthrie</surname>
                             <given-names>B</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Mountz</surname>
                             <given-names>J</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Bebin</surname>
                             <given-names>M</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Faught</surname>
                             <given-names>E</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Gilliam</surname>
                             <given-names>F</given-names>
-                        </string-name>
-                        <etal>et al.</etal>
-                    </person-group>
+                        </name>
+                        <etal>et al</etal>
+                    </person-group>.
                     <article-title>Intrinsic epileptogenesis of hypothalamic hamartomas in gelastic epilepsy</article-title>. 
                     <source>Ann Neurol</source>. 
                     <year>1997</year>
@@ -1007,14 +934,14 @@
                 <label>24.	</label>
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Delalande</surname>
                             <given-names>O</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Fohlen</surname>
                             <given-names>M</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Disconnecting surgical treatment of hypothalamic hamartoma in children and adults with refractory epilepsy and proposal of a new classification</article-title>. 
                     <source>Neurol Med Chir (Tokyo)</source>. 
@@ -1033,30 +960,30 @@
                 <label>25.	</label>
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Kameyama</surname>
                             <given-names>S</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Shirozu</surname>
                             <given-names>H</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Masuda</surname>
                             <given-names>H</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Ito</surname>
                             <given-names>Y</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Sonoda</surname>
                             <given-names>M</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Akazawa</surname>
                             <given-names>K</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>MRI-guided stereotactic radiofrequency thermocoagulation for 100 hypothalamic hamartomas</article-title>. 
                     <source>J Neurosurg</source>. 
@@ -1075,22 +1002,22 @@
                 <label>26.	</label>
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Delalande</surname>
                             <given-names>O</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Pinard</surname>
                             <given-names>JM</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Jalin</surname>
                             <given-names>C</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Fohlen</surname>
                             <given-names>M</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Chirurgie et épilepsie</article-title>. 
                     <source>Neurochirurgie</source>. 
@@ -1114,30 +1041,30 @@
                 <label>27.	</label>
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Pinard</surname>
                             <given-names>JM</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Delalande</surname>
                             <given-names>O</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Soufflet</surname>
                             <given-names>C</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Plouin</surname>
                             <given-names>P</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Kim</surname>
                             <given-names>Y</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Dulac</surname>
                             <given-names>O</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Callosotomy in epilepsies following infantile spasms</article-title>. 
                     <source>Epilepsia</source>. 
@@ -1159,32 +1086,32 @@
                 <label>28.	</label>
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Paglioli</surname>
                             <given-names>E</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Martins</surname>
                             <given-names>WA</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Azambuja</surname>
                             <given-names>N</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Portuguez</surname>
                             <given-names>M</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Frigeri</surname>
                             <given-names>TM</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Pinos</surname>
                             <given-names>L</given-names>
-                        </string-name>
-                        <etal>et al.</etal>
-                    </person-group>
+                        </name>
+                        <etal>et al</etal>
+                    </person-group>.
                     <article-title>Selective posterior callosotomy for drop attacks: A new approach sparing prefrontal connectivity</article-title>. 
                     <source>Neurology</source>. 
                     <year>2016</year>
@@ -1202,22 +1129,22 @@
                 <label>29.	</label>
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Lassonde</surname>
                             <given-names>M</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Sauerwein</surname>
                             <given-names>H</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Chicoine</surname>
                             <given-names>AJ</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Geoffroy</surname>
                             <given-names>G</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Absence of disconnexion syndrome in callosal agenesis and early callosotomy: brain reorganization or lack of structural specificity during ontogeny?</article-title>
                     <source>Neuropsychologia</source>. 
@@ -1235,18 +1162,18 @@
                 <label>30.	</label>
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Morrell</surname>
                             <given-names>F</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Whisler</surname>
                             <given-names>WW</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Bleck</surname>
                             <given-names>TP</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Multiple subpial transection: a new approach to the surgical treatment of focal epilepsy</article-title>. 
                     <source>J Neurosurg</source>. 
@@ -1265,26 +1192,26 @@
                 <label>31.	</label>
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Healy</surname>
                             <given-names>S</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Lang</surname>
                             <given-names>J</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Te Water Naude</surname>
                             <given-names>J</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Gibbon</surname>
                             <given-names>F</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Leach</surname>
                             <given-names>P</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Vagal nerve stimulation in children under 12 years old with medically intractable epilepsy</article-title>. 
                     <source>Childs Nerv Syst</source>. 
@@ -1303,22 +1230,22 @@
                 <label>32.	</label>
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Jayalakshmi</surname>
                             <given-names>S</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Vooturi</surname>
                             <given-names>S</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Gupta</surname>
                             <given-names>S</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Panigrahi</surname>
                             <given-names>M</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Epilepsy surgery in children</article-title>. 
                     <source>Neurol India</source>. 
@@ -1337,10 +1264,10 @@
                 <label>33.	</label>
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Rutecki</surname>
                             <given-names>P</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Anatomical, physiological, and theoretical basis for the antiepileptic effect of vagus nerve stimulation</article-title>. 
                     <source>Epilepsia</source>. 
@@ -1359,30 +1286,30 @@
                 <label>34.	</label>
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Fisher</surname>
                             <given-names>R</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Salanova</surname>
                             <given-names>V</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Witt</surname>
                             <given-names>T</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Worth</surname>
                             <given-names>R</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Henry</surname>
                             <given-names>T</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Gross</surname>
                             <given-names>R</given-names>
-                        </string-name>
+                        </name>
                         <etal>et al.</etal>; 
                         <collab>SANTE Study Group</collab>
                     </person-group>. 
@@ -1403,30 +1330,30 @@
                 <label>35) </label>
                 <mixed-citation publication-type="unknown" specific-use="linked">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Klun</surname>
                             <given-names>B</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Stojanović</surname>
                             <given-names>V</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Strojnik</surname>
                             <given-names>P</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Stanič</surname>
                             <given-names>U</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Vodovnik</surname>
                             <given-names>L</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Žirovnik</surname>
                             <given-names>S</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Chronic cerebellar stimulation in the treatment of epilepsy.</article-title> Advances in neurosurgery. 
                     <year>1987</year>;15:205-9. 
@@ -1437,30 +1364,30 @@
                 <label>36.	</label>
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Wyllie</surname>
                             <given-names>E</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Comair</surname>
                             <given-names>YG</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Kotagal</surname>
                             <given-names>P</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Bulacio</surname>
                             <given-names>J</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Bingaman</surname>
                             <given-names>W</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Ruggieri</surname>
                             <given-names>P</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Seizure outcome after epilepsy surgery in children and adolescents</article-title>. 
                     <source>Ann Neurol</source>. 
@@ -1482,32 +1409,32 @@
                 <label>37.	</label>
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Ravnik</surname>
                             <given-names>IM</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Krajnc</surname>
                             <given-names>N</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Tretnjak</surname>
                             <given-names>V</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Kržan</surname>
                             <given-names>M</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Gosar</surname>
                             <given-names>D</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Župančič</surname>
                             <given-names>N</given-names>
-                        </string-name>
-                        <etal>et al.</etal>
-                    </person-group>
+                        </name>
+                        <etal>et al</etal>
+                    </person-group>.
                     <article-title>Collaborative cross border management of drug resistant paediatric epilepsy - example of a small Mediterranean country</article-title>. 
                     <source>Med Razgl</source>. 
                     <year>2011</year>;
@@ -1524,32 +1451,32 @@
                 <label>38. </label>
                 <mixed-citation publication-type="book" specific-use="restruct">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Krajnc</surname>
                             <given-names>N</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Ravnik</surname>
                             <given-names>IM</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Gosar</surname>
                             <given-names>D</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Tretnjak</surname>
                             <given-names>V</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Župančič</surname>
                             <given-names>N</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Kržan</surname>
                             <given-names>M</given-names>
-                        </string-name>
-                        <etal>et al.</etal>
-                    </person-group>
+                        </name>
+                        <etal>et al</etal>
+                    </person-group>.
                     <source>Surgical management of patients with pediatric onset epilepsies from Slovenia. V: 
                         <italic>Pediatric epilepsy surgery : final program</italic>
                     </source>. 
@@ -1563,22 +1490,22 @@
                 <label>39.	</label>
                 <mixed-citation publication-type="conference" specific-use="unparsed">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Tretnjak</surname>
                             <given-names>V</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Ravnik</surname>
                             <given-names>IM</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Krajnc</surname>
                             <given-names>N</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Gosar</surname>
                             <given-names>D</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. Referrals abroad for epilepsy surgery : experience in neuropsychological assessment gathered by the Center for Child &amp; Adolescent Epilepsy at the Children's University Hospital in Ljubljana. V: 7th European congress on epileptology, Helsinki, July 02-06, 
                     <year specific-use="italic">2006</year>, (Epilepsia, vol. 47, suppl. 3). Copenhagen: Blackwell Publishing; 2006, p. 200-1
                 </mixed-citation>
@@ -1587,26 +1514,26 @@
                 <label>40.	</label>
                 <mixed-citation publication-type="journal" specific-use="restruct">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Ravnik</surname>
                             <given-names>IM</given-names> 
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Krajnc</surname>
                             <given-names>N</given-names> 
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Benedik Perković</surname>
                             <given-names>M</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Gosar</surname>
                             <given-names>D</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Vranič</surname>
                             <given-names>A</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Comprehensive management of severe epilepsies in small countries with limited resources</article-title>. 
                     <source>Paediatr Croat</source>. 

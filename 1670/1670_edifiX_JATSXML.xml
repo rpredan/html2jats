@@ -1,109 +1,21 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<article
-    xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" dtd-version="1.0" article-type="reference-list">
-    <front>
-        <article-meta>
-            <custom-meta-group>
-                <custom-meta>
-                    <meta-name>TotalReferences</meta-name>
-                    <meta-value>68</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesParsed</meta-name>
-                    <meta-value>67</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesBillable</meta-name>
-                    <meta-value>65</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>LinkServices</meta-name>
-                    <meta-value>pubmed-crossref</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesLinked</meta-name>
-                    <meta-value>62</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesLinkedDOI</meta-name>
-                    <meta-value>55</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesLinkedPMID</meta-name>
-                    <meta-value>62</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>JournalReferences</meta-name>
-                    <meta-value>63</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>BookReferences</meta-name>
-                    <meta-value>2</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>BookChapterReferences</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ConferenceReferences</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ElectronicReferences</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>DissertationReferences</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>LegalReferences</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>StandardReferences</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>OtherReferences</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>UnknownReferences</meta-name>
-                    <meta-value>3</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesSemiParsed</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesBookUnparsed</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>EditorialStyle</meta-name>
-                    <meta-value>ICMJE-WHO</meta-value>
-                </custom-meta>
-            </custom-meta-group>
-        </article-meta>
-    </front>
+name>
     <back>
         <ref-list>
             <ref id="b1">
                 <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Guilleminault</surname>
                             <given-names>C</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Tilkian</surname>
                             <given-names>A</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Dement</surname>
                             <given-names>WC</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>The sleep apnea syndromes</article-title>. 
                     <source>Annu Rev Med</source>. 
@@ -120,10 +32,10 @@
             <ref id="b2">
                 <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Brown</surname>
                             <given-names>LK</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Sleep apnea syndromes: overview and diagnostic approach</article-title>. 
                     <source>Mt Sinai J Med</source>. 
@@ -152,18 +64,18 @@
             <ref id="b4">
                 <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Guilleminault</surname>
                             <given-names>C</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Korobkin</surname>
                             <given-names>R</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Winkle</surname>
                             <given-names>R</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>A review of 50 children with obstructive sleep apnea syndrome</article-title>. 
                     <source>Hai</source>. 
@@ -180,22 +92,22 @@
             <ref id="b5">
                 <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Prabhat</surname>
                             <given-names>KC</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Goyal</surname>
                             <given-names>L</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Bey</surname>
                             <given-names>A</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Maheshwari</surname>
                             <given-names>S</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Recent advances in the management of obstructive sleep apnea: the dental perspective</article-title>. 
                     <source>J Nat Sci Biol Med</source>. 
@@ -213,10 +125,10 @@
             <ref id="b6">
                 <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Rosen</surname>
                             <given-names>CL</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Clinical features of obstructive sleep apnea hypoventilation syndrome in otherwise healthy children</article-title>. 
                     <source>Pediatr Pulmonol</source>. 
@@ -234,14 +146,14 @@
             <ref id="b7">
                 <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Guilleminault</surname>
                             <given-names>C</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Eldridge</surname>
                             <given-names>L</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Tilkian A in sod. Sleep apnea syndrome due to upper airway obstruction</article-title>. 
                     <source>Arch Intern Med</source>. 
@@ -262,32 +174,32 @@
             <ref id="b8">
                 <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Bearpark</surname>
                             <given-names>H</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Elliott</surname>
                             <given-names>L</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Grunstein</surname>
                             <given-names>R</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Cullen</surname>
                             <given-names>S</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Schneider</surname>
                             <given-names>H</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Althaus</surname>
                             <given-names>W</given-names>
-                        </string-name>, 
-                        <etal>et al.</etal>
-                    </person-group>
+                        </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
                     <article-title>Snoring and sleep apnea. A population study in Australian men</article-title>. 
                     <source>Am J Respir Crit Care Med</source>. 
                     <year>1995</year>
@@ -304,22 +216,22 @@
             <ref id="b9">
                 <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Udwadia</surname>
                             <given-names>ZF</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Doshi</surname>
                             <given-names>AV</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Lonkar</surname>
                             <given-names>SG</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Singh</surname>
                             <given-names>CI</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Prevalence of sleep-disordered breathing and sleep apnea in middle-aged urban Indian men</article-title>. 
                     <source>Am J Respir Crit Care Med</source>. 
@@ -337,32 +249,32 @@
             <ref id="b10">
                 <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Bixler</surname>
                             <given-names>EO</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Vgontzas</surname>
                             <given-names>AN</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Lin</surname>
                             <given-names>HM</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Ten Have</surname>
                             <given-names>T</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Rein</surname>
                             <given-names>J</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Vela-Bueno</surname>
                             <given-names>A</given-names>
-                        </string-name>, 
-                        <etal>et al.</etal>
-                    </person-group>
+                        </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
                     <article-title>Prevalence of sleep-disordered breathing in women: effects of gender</article-title>. 
                     <source>Am J Respir Crit Care Med</source>. 
                     <year>2001</year>
@@ -379,32 +291,32 @@
             <ref id="b11">
                 <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Brunetti</surname>
                             <given-names>L</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Rana</surname>
                             <given-names>S</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Lospalluti</surname>
                             <given-names>ML</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Pietrafesa</surname>
                             <given-names>A</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Francavilla</surname>
                             <given-names>R</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Fanelli</surname>
                             <given-names>M</given-names>
-                        </string-name>, 
-                        <etal>et al.</etal>
-                    </person-group>
+                        </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
                     <article-title>Prevalence of obstructive sleep apnea syndrome in a cohort of 1,207 children of southern Italy</article-title>. 
                     <source>Chest</source>. 
                     <year>2001</year>
@@ -421,32 +333,32 @@
             <ref id="b12">
                 <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Kaditis</surname>
                             <given-names>AG</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Finder</surname>
                             <given-names>J</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Alexopoulos</surname>
                             <given-names>EI</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Starantzis</surname>
                             <given-names>K</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Tanou</surname>
                             <given-names>K</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Gampeta</surname>
                             <given-names>S</given-names>
-                        </string-name>, 
-                        <etal>et al.</etal>
-                    </person-group>
+                        </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
                     <article-title>Sleep-disordered breathing in 3,680 Greek children</article-title>. 
                     <source>Pediatr Pulmonol</source>. 
                     <year>2004</year>
@@ -463,10 +375,10 @@
             <ref id="b13">
                 <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Kapur</surname>
                             <given-names>VK</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Obstructive sleep apnea: diagnosis, epidemiology, and economics</article-title>. 
                     <source>Respir Care</source>. 
@@ -483,14 +395,14 @@
             <ref id="b14">
                 <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Battagel</surname>
                             <given-names>JM</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>L’Estrange</surname>
                             <given-names>PR</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>The cephalometric morphology of patients with obstructive sleep apnoea (OSA)</article-title>. 
                     <source>Eur J Orthod</source>. 
@@ -508,26 +420,26 @@
             <ref id="b15">
                 <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Solow</surname>
                             <given-names>B</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Skov</surname>
                             <given-names>S</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Ovesen</surname>
                             <given-names>J</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Norup</surname>
                             <given-names>PW</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Wildschiødtz</surname>
                             <given-names>G</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Airway dimensions and head posture in obstructive sleep apnoea</article-title>. 
                     <source>Eur J Orthod</source>. 
@@ -545,30 +457,30 @@
             <ref id="b16">
                 <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Schwab</surname>
                             <given-names>RJ</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Gupta</surname>
                             <given-names>KB</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Gefter</surname>
                             <given-names>WB</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Metzger</surname>
                             <given-names>LJ</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Hoffman</surname>
                             <given-names>EA</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Pack</surname>
                             <given-names>AI</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Upper airway and soft tissue anatomy in normal subjects and patients with sleep-disordered breathing. Significance of the lateral pharyngeal walls</article-title>. 
                     <source>Am J Respir Crit Care Med</source>. 
@@ -586,10 +498,10 @@
             <ref id="b17">
                 <mixed-citation publication-type="book">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Kushida</surname>
                             <given-names>CA</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <source>Obstructive sleep apnea</source>. 
                     <publisher-name>Informa Health Care</publisher-name>; 
@@ -602,10 +514,10 @@
             <ref id="b18">
                 <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Hudgel</surname>
                             <given-names>DW</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Mechanisms of obstructive sleep apnea</article-title>. 
                     <source>Chest</source>. 
@@ -623,14 +535,14 @@
             <ref id="b19">
                 <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Strobel</surname>
                             <given-names>RJ</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Rosen</surname>
                             <given-names>RC</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Obesity and weight loss in obstructive sleep apnea: a critical review</article-title>. 
                     <source>Sleep</source>. 
@@ -648,30 +560,30 @@
             <ref id="b20">
                 <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Young</surname>
                             <given-names>T</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Palta</surname>
                             <given-names>M</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Dempsey</surname>
                             <given-names>J</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Skatrud</surname>
                             <given-names>J</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Weber</surname>
                             <given-names>S</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Badr</surname>
                             <given-names>S</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>The occurrence of sleep-disordered breathing among middle-aged adults</article-title>. 
                     <source>N Engl J Med</source>. 
@@ -689,26 +601,26 @@
             <ref id="b21">
                 <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Liu</surname>
                             <given-names>Y</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Lowe</surname>
                             <given-names>AA</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Zeng</surname>
                             <given-names>X</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Fu</surname>
                             <given-names>M</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Fleetham</surname>
                             <given-names>JA</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Cephalometric comparisons between Chinese and Caucasian patients with obstructive sleep apnea</article-title>. 
                     <source>Am J Orthod Dentofacial Orthop</source>. 
@@ -726,22 +638,22 @@
             <ref id="b22">
                 <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Scrima</surname>
                             <given-names>L</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Broudy</surname>
                             <given-names>M</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Nay</surname>
                             <given-names>KN</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Cohn</surname>
                             <given-names>MA</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Increased severity of obstructive sleep apnea after bedtime alcohol ingestion: diagnostic potential and proposed mechanism of action</article-title>. 
                     <source>Sleep</source>. 
@@ -758,14 +670,14 @@
             <ref id="b23">
                 <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Wetter</surname>
                             <given-names>DW</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Young</surname>
                             <given-names>TB</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>The relation between cigarette smoking and sleep disturbance</article-title>. 
                     <source>Prev Med</source>. 
@@ -783,18 +695,18 @@
             <ref id="b24">
                 <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Wolk</surname>
                             <given-names>R</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Shamsuzzaman</surname>
                             <given-names>AS</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Somers</surname>
                             <given-names>VK</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Obesity, sleep apnea, and hypertension</article-title>. 
                     <source>Hypertension</source>. 
@@ -812,18 +724,18 @@
             <ref id="b25">
                 <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Albajalan</surname>
                             <given-names>OB</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Samsudin</surname>
                             <given-names>AR</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Hassan</surname>
                             <given-names>R</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Craniofacial morphology of Malay patients with obstructive sleep apnoea</article-title>. 
                     <source>Eur J Orthod</source>. 
@@ -843,14 +755,14 @@
             <ref id="b26">
                 <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Hochban</surname>
                             <given-names>W</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Brandenburg</surname>
                             <given-names>U</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Morphology of the viscerocranium in obstructive sleep apnoea syndrome—cephalometric evaluation of 400 patients</article-title>. 
                     <source>J Craniomaxillofac Surg</source>. 
@@ -868,22 +780,22 @@
             <ref id="b27">
                 <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Tangugsorn</surname>
                             <given-names>V</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Krogstad</surname>
                             <given-names>O</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Espeland</surname>
                             <given-names>L</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Lyberg</surname>
                             <given-names>T</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Obstructive sleep apnoea: multiple comparisons of cephalometric variables of obese and non-obese patients</article-title>. 
                     <source>J Craniomaxillofac Surg</source>. 
@@ -901,26 +813,26 @@
             <ref id="b28">
                 <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Mandell</surname>
                             <given-names>DL</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Yellon</surname>
                             <given-names>RF</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Bradley</surname>
                             <given-names>JP</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Izadi</surname>
                             <given-names>K</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Gordon</surname>
                             <given-names>CB</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Mandibular distraction for micrognathia and severe upper airway obstruction</article-title>. 
                     <source>Arch Otolaryngol Head Neck Surg</source>. 
@@ -938,22 +850,22 @@
             <ref id="b29">
                 <mixed-citation publication-type="unknown" specific-use="unparsed">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Imes</surname>
                             <given-names>NK</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Orr</surname>
                             <given-names>WC</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Smith</surname>
                             <given-names>RO</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Rogers</surname>
                             <given-names>RM</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Retrognathia and sleep.</article-title> JAMA1977;237:1596–7.
                 </mixed-citation>
@@ -961,30 +873,30 @@
             <ref id="b30">
                 <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Rivlin</surname>
                             <given-names>J</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Hoffstein</surname>
                             <given-names>V</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Kalbfleisch</surname>
                             <given-names>J</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>McNicholas</surname>
                             <given-names>W</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Zamel</surname>
                             <given-names>N</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Bryan</surname>
                             <given-names>AC</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Upper airway morphology in patients with idiopathic obstructive sleep apnea</article-title>. 
                     <source>Am Rev Respir Dis</source>. 
@@ -1001,32 +913,32 @@
             <ref id="b31">
                 <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Hui</surname>
                             <given-names>DS</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Ko</surname>
                             <given-names>FW</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Chu</surname>
                             <given-names>AS</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Fok</surname>
                             <given-names>JP</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Chan</surname>
                             <given-names>MC</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Li</surname>
                             <given-names>TS</given-names>
-                        </string-name>, 
-                        <etal>et al.</etal>
-                    </person-group>
+                        </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
                     <article-title>Cephalometric assessment of craniofacial morphology in Chinese patients with obstructive sleep apnoea</article-title>. 
                     <source>Respir Med</source>. 
                     <year>2003</year>
@@ -1043,26 +955,26 @@
             <ref id="b32">
                 <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Rojewski</surname>
                             <given-names>TE</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Schuller</surname>
                             <given-names>DE</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Clark</surname>
                             <given-names>RW</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Schmidt</surname>
                             <given-names>HS</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Potts</surname>
                             <given-names>RE</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Synchronous video recording of the pharyngeal airway and polysomnograph in patients with obstructive sleep apnea</article-title>. 
                     <source>Laryngoscope</source>. 
@@ -1085,22 +997,22 @@
             <ref id="b33">
                 <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Riley</surname>
                             <given-names>R</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Guilleminault</surname>
                             <given-names>C</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Herran</surname>
                             <given-names>J</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Powell</surname>
                             <given-names>N</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Cephalometric analyses and flow-volume loops in obstructive sleep apnea patients</article-title>. 
                     <source>Sleep</source>. 
@@ -1117,22 +1029,22 @@
             <ref id="b34">
                 <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Tangugsorn</surname>
                             <given-names>V</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Skatvedt</surname>
                             <given-names>O</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Krogstad</surname>
                             <given-names>O</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Lyberg</surname>
                             <given-names>T</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Obstructive sleep apnoea: a cephalometric study. Part II. Uvulo-glossopharyngeal morphology</article-title>. 
                     <source>Eur J Orthod</source>. 
@@ -1150,22 +1062,22 @@
             <ref id="b35">
                 <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Tangugsorn</surname>
                             <given-names>V</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Skatvedt</surname>
                             <given-names>O</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Krogstad</surname>
                             <given-names>O</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Lyberg</surname>
                             <given-names>T</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Obstructive sleep apnoea: a cephalometric study. Part I. Cervico-craniofacial skeletal morphology</article-title>. 
                     <source>Eur J Orthod</source>. 
@@ -1183,18 +1095,18 @@
             <ref id="b36">
                 <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Zettergren-Wijk</surname>
                             <given-names>L</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Forsberg</surname>
                             <given-names>CM</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Linder-Aronson</surname>
                             <given-names>S</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Changes in dentofacial morphology after adeno-/tonsillectomy in young children with obstructive sleep apnoea—a 5-year follow-up study</article-title>. 
                     <source>Eur J Orthod</source>. 
@@ -1212,30 +1124,30 @@
             <ref id="b37">
                 <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Pirilä-Parkkinen</surname>
                             <given-names>K</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Pirttiniemi</surname>
                             <given-names>P</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Nieminen</surname>
                             <given-names>P</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Tolonen</surname>
                             <given-names>U</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Pelttari</surname>
                             <given-names>U</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Löppönen</surname>
                             <given-names>H</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Dental arch morphology in children with sleep-disordered breathing</article-title>. 
                     <source>Eur J Orthod</source>. 
@@ -1261,18 +1173,18 @@
             <ref id="b38">
                 <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Vos</surname>
                             <given-names>WG</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>De Backer</surname>
                             <given-names>WA</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Verhulst</surname>
                             <given-names>SL</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Correlation between the severity of sleep apnea and upper airway morphology in pediatric and adult patients</article-title>. 
                     <source>Curr Opin Allergy Clin Immunol</source>. 
@@ -1290,18 +1202,18 @@
             <ref id="b39">
                 <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Douglas</surname>
                             <given-names>NJ</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Thomas</surname>
                             <given-names>S</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Jan</surname>
                             <given-names>MA</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Clinical value of polysomnography</article-title>. 
                     <source>Lancet</source>. 
@@ -1324,32 +1236,32 @@
             <ref id="b40">
                 <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Marcus</surname>
                             <given-names>CL</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Omlin</surname>
                             <given-names>KJ</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Basinki</surname>
                             <given-names>DJ</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Bailey</surname>
                             <given-names>SL</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Rachal</surname>
                             <given-names>AB</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Von Pechmann</surname>
                             <given-names>WS</given-names>
-                        </string-name>, 
-                        <etal>et al.</etal>
-                    </person-group>
+                        </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
                     <article-title>Normal polysomnographic values for children and adolescents</article-title>. 
                     <source>Am Rev Respir Dis</source>. 
                     <year>1992</year>
@@ -1366,14 +1278,14 @@
             <ref id="b41">
                 <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Carli</surname>
                             <given-names>E</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Hočevar Boltežar</surname>
                             <given-names>I</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Sindrom obstrukcijske apneje v spanju pri odraslih in otrocih</article-title>. 
                     <source>Zobozdrav Vestn</source>. 
@@ -1390,22 +1302,22 @@
             <ref id="b42">
                 <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Partinen</surname>
                             <given-names>M</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Guilleminault</surname>
                             <given-names>C</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Quera-Salva</surname>
                             <given-names>MA</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Jamieson</surname>
                             <given-names>A</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Quera-Salva M in sod. Obstructive sleep apnea and cephalometric roentgenograms</article-title>. 
                     <source>Chest</source>. 
@@ -1427,32 +1339,32 @@
             <ref id="b43">
                 <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Gami</surname>
                             <given-names>AS</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Olson</surname>
                             <given-names>EJ</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Shen</surname>
                             <given-names>WK</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Wright</surname>
                             <given-names>RS</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Ballman</surname>
                             <given-names>KV</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Hodge</surname>
                             <given-names>DO</given-names>
-                        </string-name>, 
-                        <etal>et al.</etal>
-                    </person-group>
+                        </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
                     <article-title>Obstructive sleep apnea and the risk of sudden cardiac death: a longitudinal study of 10,701 adults</article-title>. 
                     <source>J Am Coll Cardiol</source>. 
                     <year>2013</year>
@@ -1474,14 +1386,14 @@
             <ref id="b44">
                 <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Benninger</surname>
                             <given-names>M</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Walner</surname>
                             <given-names>D</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Obstructive sleep-disordered breathing in children</article-title>. 
                     <source>Clin Cornerstone</source>. 
@@ -1501,22 +1413,22 @@
             <ref id="b45">
                 <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Grote</surname>
                             <given-names>L</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Hedner</surname>
                             <given-names>J</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Grunstein</surname>
                             <given-names>R</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Kraiczi</surname>
                             <given-names>H</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Therapy with nCPAP: incomplete elimination of Sleep Related Breathing Disorder</article-title>. 
                     <source>Eur Respir J</source>. 
@@ -1534,10 +1446,10 @@
             <ref id="b46">
                 <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Flemons</surname>
                             <given-names>WW</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Measuring quality of life in patients with sleep apnoea: whose life is it anyway?</article-title>
                     <source>Thorax</source>. 
@@ -1555,31 +1467,31 @@
             <ref id="b47">
                 <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Epstein</surname>
                             <given-names>LJ</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Kristo</surname>
                             <given-names>D</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Strollo</surname>
                             <given-names>PJ</given-names>
                             <suffix>Jr</suffix>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Friedman</surname>
                             <given-names>N</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Malhotra</surname>
                             <given-names>A</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Patil</surname>
                             <given-names>SP</given-names>
-                        </string-name>, 
+                        </name>, 
                         <etal>et al.</etal>; 
                         <collab>Adult Obstructive Sleep Apnea Task Force of the American Academy of Sleep Medicine</collab>
                     </person-group>. 
@@ -1603,18 +1515,18 @@
             <ref id="b48">
                 <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Ohayon</surname>
                             <given-names>MM</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Li</surname>
                             <given-names>KK</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Guilleminault</surname>
                             <given-names>C</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Risk factors for sleep bruxism in the general population</article-title>. 
                     <source>Chest</source>. 
@@ -1632,26 +1544,26 @@
             <ref id="b49">
                 <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Behlfelt</surname>
                             <given-names>K</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Linder-Aronson</surname>
                             <given-names>S</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>McWilliam</surname>
                             <given-names>J</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Neander</surname>
                             <given-names>P</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Laage-Hellman</surname>
                             <given-names>J</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Cranio-facial morphology in children with and without enlarged tonsils</article-title>. 
                     <source>Eur J Orthod</source>. 
@@ -1669,26 +1581,26 @@
             <ref id="b50">
                 <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Pirilä-Parkkinen</surname>
                             <given-names>K</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Löppönen</surname>
                             <given-names>H</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Nieminen</surname>
                             <given-names>P</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Tolonen</surname>
                             <given-names>U</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Pirttiniemi</surname>
                             <given-names>P</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Cephalometric evaluation of children with nocturnal sleep-disordered breathing</article-title>. 
                     <source>Eur J Orthod</source>. 
@@ -1706,18 +1618,18 @@
             <ref id="b51">
                 <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Oksenberg</surname>
                             <given-names>A</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Khamaysi</surname>
                             <given-names>I</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Silverberg</surname>
                             <given-names>DS</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Apnoea characteristics across the night in severe obstructive sleep apnoea: influence of body posture</article-title>. 
                     <source>Eur Respir J</source>. 
@@ -1735,18 +1647,18 @@
             <ref id="b52">
                 <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Alsufyani</surname>
                             <given-names>NA</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Al-Saleh</surname>
                             <given-names>MA</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Major</surname>
                             <given-names>PW</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>CBCT assessment of upper airway changes and treatment outcomes of obstructive sleep apnoea: a systematic review</article-title>. 
                     <source>Sleep Breath</source>. 
@@ -1765,22 +1677,22 @@
                 <label>53.	</label>
                 <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Momany</surname>
                             <given-names>SM</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>AlJamal</surname>
                             <given-names>G</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Shugaa-Addin</surname>
                             <given-names>B</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Khader</surname>
                             <given-names>YS</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Cone beam computed tomography analysis of upper airway measurments in patients with obstructive sleep apnea</article-title>. 
                     <source>Am J Med Sci</source>. 
@@ -1804,18 +1716,18 @@
                 <label>54.	</label>
                 <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Ahrens</surname>
                             <given-names>A</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>McGrath</surname>
                             <given-names>C</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Hägg</surname>
                             <given-names>U</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>A systematic review of the efficacy of oral appliance design in the management of obstructive sleep apnoea</article-title>. 
                     <source>Eur J Orthod</source>. 
@@ -1834,30 +1746,30 @@
                 <label>55.	</label>
                 <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Gale</surname>
                             <given-names>DJ</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Sawyer</surname>
                             <given-names>RH</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Woodcock</surname>
                             <given-names>A</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Stone</surname>
                             <given-names>P</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Thompson</surname>
                             <given-names>R</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>O’Brien</surname>
                             <given-names>K</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Do oral appliances enlarge the airway in patients with obstructive sleep apnoea? A prospective computerized tomographic study</article-title>. 
                     <source>Eur J Orthod</source>. 
@@ -1886,26 +1798,26 @@
                 <label>57.	</label>
                 <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Johnston</surname>
                             <given-names>CD</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Gleadhill</surname>
                             <given-names>IC</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Cinnamond</surname>
                             <given-names>MJ</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Gabbey</surname>
                             <given-names>J</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Burden</surname>
                             <given-names>DJ</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Mandibular advancement appliances and obstructive sleep apnoea: a randomized clinical trial</article-title>. 
                     <source>Eur J Orthod</source>. 
@@ -1924,18 +1836,18 @@
                 <label>58.	</label>
                 <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Robertson</surname>
                             <given-names>C</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Herbison</surname>
                             <given-names>P</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Harkness</surname>
                             <given-names>M</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Dental and occlusal changes during mandibular advancement splint therapy in sleep disordered patients</article-title>. 
                     <source>Eur J Orthod</source>. 
@@ -1954,26 +1866,26 @@
                 <label>59.	</label>
                 <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Adachi</surname>
                             <given-names>S</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Lowe</surname>
                             <given-names>AA</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Tsuchiya</surname>
                             <given-names>M</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Ryan</surname>
                             <given-names>CF</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Fleetham</surname>
                             <given-names>JA</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Genioglossus muscle activity and inspiratory timing in obstructive sleep apnea</article-title>. 
                     <source>Am J Orthod Dentofacial Orthop</source>. 
@@ -1992,18 +1904,18 @@
                 <label>60.	</label>
                 <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Kyung</surname>
                             <given-names>SH</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Park</surname>
                             <given-names>YC</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Pae</surname>
                             <given-names>EK</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Obstructive sleep apnea patients with the oral appliance experience pharyngeal size and shape changes in three dimensions</article-title>. 
                     <source>Angle Orthod</source>. 
@@ -2021,32 +1933,32 @@
                 <label>61.	</label>
                 <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Tan</surname>
                             <given-names>YK</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>L’Estrange</surname>
                             <given-names>PR</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Luo</surname>
                             <given-names>YM</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Smith</surname>
                             <given-names>C</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Grant</surname>
                             <given-names>HR</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Simonds</surname>
                             <given-names>AK</given-names>
-                        </string-name>, 
-                        <etal>et al.</etal>
-                    </person-group>
+                        </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
                     <article-title>Mandibular advancement splints and continuous positive airway pressure in patients with obstructive sleep apnoea: a randomized cross-over trial</article-title>. 
                     <source>Eur J Orthod</source>. 
                     <year>2002</year>
@@ -2064,32 +1976,32 @@
                 <label>62.	</label>
                 <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Lazard</surname>
                             <given-names>DS</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Blumen</surname>
                             <given-names>M</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Lévy</surname>
                             <given-names>P</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Chauvin</surname>
                             <given-names>P</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Fragny</surname>
                             <given-names>D</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Buchet</surname>
                             <given-names>I</given-names>
-                        </string-name>, 
-                        <etal>et al.</etal>
-                    </person-group>
+                        </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
                     <article-title>The tongue-retaining device: efficacy and side effects in obstructive sleep apnea syndrome</article-title>. 
                     <source>J Clin Sleep Med</source>. 
                     <year>2009</year>
@@ -2106,32 +2018,32 @@
                 <label>63.	</label>
                 <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Ronchi</surname>
                             <given-names>P</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Novelli</surname>
                             <given-names>G</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Colombo</surname>
                             <given-names>L</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Valsecchi</surname>
                             <given-names>S</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Oldani</surname>
                             <given-names>A</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Zucconi</surname>
                             <given-names>M</given-names>
-                        </string-name>, 
-                        <etal>et al.</etal>
-                    </person-group>
+                        </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
                     <article-title>Effectiveness of maxillo-mandibular advancement in obstructive sleep apnea patients with and without skeletal anomalies</article-title>. 
                     <source>Int J Oral Maxillofac Surg</source>. 
                     <year>2010</year>
@@ -2149,14 +2061,14 @@
                 <label>64.	</label>
                 <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Schwab</surname>
                             <given-names>RJ</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Gefter</surname>
                             <given-names>WB</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Hoffman EA in sod. Dynamic upper airway imaging during respiration in normal subjects and patients with sleep disordered breathing</article-title>. 
                     <source>Am Rev Respir Dis</source>. 
@@ -2177,30 +2089,30 @@
                 <label>65.	</label>
                 <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Abramson</surname>
                             <given-names>Z</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Susarla</surname>
                             <given-names>SM</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Lawler</surname>
                             <given-names>M</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Bouchard</surname>
                             <given-names>C</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Troulis</surname>
                             <given-names>M</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Kaban</surname>
                             <given-names>LB</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Three-dimensional computed tomographic airway analysis of patients with obstructive sleep apnea treated by maxillomandibular advancement</article-title>. 
                     <source>J Oral Maxillofac Surg</source>. 
@@ -2219,14 +2131,14 @@
                 <label>66.	</label>
                 <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Holty</surname>
                             <given-names>JE</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Guilleminault</surname>
                             <given-names>C</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Maxillomandibular advancement for the treatment of obstructive sleep apnea: a systematic review and meta-analysis</article-title>. 
                     <source>Sleep Med Rev</source>. 
@@ -2245,18 +2157,18 @@
                 <label>67.	</label>
                 <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
-                        <string-name>
+                        <name>
                             <surname>Islam</surname>
                             <given-names>S</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Uwadiae</surname>
                             <given-names>N</given-names>
-                        </string-name>, 
-                        <string-name>
+                        </name>, 
+                        <name>
                             <surname>Ormiston</surname>
                             <given-names>IW</given-names>
-                        </string-name>
+                        </name>
                     </person-group>. 
                     <article-title>Orthognathic surgery in the management of obstructive sleep apnoea: experience from maxillofacial surgery unit in the United Kingdom</article-title>. 
                     <source>Br J Oral Maxillofac Surg</source>. 

@@ -1,91 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
-<article
-    xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" dtd-version="1.0" article-type="reference-list"> 
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD with MathML3 v1.1 20151215//EN" "JATS-journalpublishing1-mathml3.dtd">
+<article dtd-version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
     <front>
+        <journal-meta>
+            <journal-id></journal-id> 
+            <issn></issn>
+        </journal-meta>
         <article-meta>
-            <custom-meta-group>
-                <custom-meta>
-                    <meta-name>TotalReferences</meta-name>
-                    <meta-value>29</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesParsed</meta-name>
-                    <meta-value>17</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesBillable</meta-name>
-                    <meta-value>19</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>LinkServices</meta-name>
-                    <meta-value>pubmed-crossref</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesLinked</meta-name>
-                    <meta-value>17</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesLinkedDOI</meta-name>
-                    <meta-value>14</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesLinkedPMID</meta-name>
-                    <meta-value>15</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>JournalReferences</meta-name>
-                    <meta-value>16</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>BookReferences</meta-name>
-                    <meta-value>2</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>BookChapterReferences</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ConferenceReferences</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ElectronicReferences</meta-name>
-                    <meta-value>1</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>DissertationReferences</meta-name>
-                    <meta-value>4</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>LegalReferences</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>StandardReferences</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>OtherReferences</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>UnknownReferences</meta-name>
-                    <meta-value>5</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesSemiParsed</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesBookUnparsed</meta-name>
-                    <meta-value>1</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>EditorialStyle</meta-name>
-                    <meta-value>ICMJE-WHO</meta-value>
-                </custom-meta>
-            </custom-meta-group>
+            <title-group>
+                <article-title></article-title>
+            </title-group>
+            <pub-date>
+                <year></year>
+            </pub-date>
         </article-meta>
     </front>
     <back>
@@ -118,17 +45,17 @@
                             <surname>Hunt</surname>
                             <given-names>B</given-names>
                         </name>,
-                        <etal>et al.</etal>;                          
+                        <etal>et al.</etal>; 
                         <collab>General Haematology Task Force of the British Committee for Standards in Haematology</collab>
-                    </person-group>.                      
-                    <article-title>Guidelines for the diagnosis, investigation and management of polycythaemia/erythrocytosis</article-title>.                      
-                    <source>Br J Haematol</source>.                      
+                    </person-group>. 
+                    <article-title>Guidelines for the diagnosis, investigation and management of polycythaemia/erythrocytosis</article-title>. 
+                    <source>Br J Haematol</source>. 
                     <year>2005</year>
-                    <month>Jul</month>;                     
-                    <volume>130</volume>(                     
-                    <issue>2</issue>):                     
-                    <fpage>174</fpage>–                     
-                    <lpage>95</lpage>.                      
+                    <month>Jul</month>; 
+                    <volume>130</volume>( 
+                    <issue>2</issue>): 
+                    <fpage>174</fpage>– 
+                    <lpage>95</lpage>. 
                     <pub-id pub-id-type="doi">10.1111/j.1365-2141.2005.05535.x</pub-id>
                     <pub-id pub-id-type="pmid">16029446</pub-id>
                     <issn>0007-1048</issn>
@@ -142,15 +69,15 @@
                             <surname>McMullin</surname>
                             <given-names>MF</given-names>
                         </name>
-                    </person-group>.                      
-                    <article-title>Investigation and Management of Erythrocytosis</article-title>.                      
-                    <source>Curr Hematol Malig Rep</source>.                      
+                    </person-group>. 
+                    <article-title>Investigation and Management of Erythrocytosis</article-title>. 
+                    <source>Curr Hematol Malig Rep</source>. 
                     <year>2016</year>
-                    <month>Oct</month>;                     
-                    <volume>11</volume>(                     
-                    <issue>5</issue>):                     
-                    <fpage>342</fpage>–                     
-                    <lpage>7</lpage>.                      
+                    <month>Oct</month>; 
+                    <volume>11</volume>( 
+                    <issue>5</issue>): 
+                    <fpage>342</fpage>– 
+                    <lpage>7</lpage>. 
                     <pub-id pub-id-type="doi">10.1007/s11899-016-0334-1</pub-id>
                     <pub-id pub-id-type="pmid">27423232</pub-id>
                     <issn>1558-8211</issn>
@@ -163,26 +90,26 @@
                         <name>
                             <surname>Bento</surname>
                             <given-names>C</given-names>
-                        </name>,                          
+                        </name>, 
                         <name>
                             <surname>Cario</surname>
                             <given-names>H</given-names>
-                        </name>,                          
+                        </name>, 
                         <name>
                             <surname>Gardie</surname>
                             <given-names>B</given-names>
-                        </name>,                          
+                        </name>, 
                         <name>
                             <surname>Hermouet</surname>
                             <given-names>S</given-names>
-                        </name>,                          
+                        </name>, 
                         <name>
                             <surname>McMullin</surname>
                             <given-names>MF</given-names>
                         </name>
-                    </person-group>.                      
-                    <source>Congenital Erythrocytosis and Hereditary Thrombocytosis Clinical presentation, diagnosis, treatment and follow-up: A practical guide with clinical cases</source>.                      
-                    <publisher-loc>S.l.</publisher-loc>:                     
+                    </person-group>. 
+                    <source>Congenital Erythrocytosis and Hereditary Thrombocytosis Clinical presentation, diagnosis, treatment and follow-up: A practical guide with clinical cases</source>. 
+                    <publisher-loc>S.l.</publisher-loc>: 
                     <publisher-name>european Cooperation in Science &amp; Technology</publisher-name>; 
                     <year>2015</year>. pp.
                     <fpage>9</fpage>–
@@ -290,7 +217,7 @@
                             <surname>Arcasoy</surname>
                             <given-names>MO</given-names>
                         </name>
-                    </person-group>.  
+                    </person-group>. 
                     <article-title>The clinical and laboratory evaluation of the patient with erythrocytosis</article-title>. 
                     <source>Eur J Intern Med</source>. 
                     <year>2015</year>
@@ -333,7 +260,7 @@
                             <given-names>S</given-names>
                         </name>, 
                         <etal>et al.</etal>; 
-                        <collab>ECE-Consortium</collab>;               
+                        <collab>ECE-Consortium</collab>; 
                     </person-group>. 
                     <article-title>Genetic basis of congenital erythrocytosis: mutation update and online databases</article-title>. 
                     <source>Hum Mutat</source>. 
@@ -435,15 +362,15 @@
                             <surname>McMullin</surname>
                             <given-names>MF</given-names>
                         </name>, 
-                        <etal>et al.</etal>
-                    </person-group>
+                        <etal>et al</etal>
+                    </person-group>.
                     <article-title>Gene panel sequencing improves the diagnostic work-up of patients with idiopathic erythrocytosis and identifies new mutations</article-title>.
                     <source>Haematologica</source>. 
                     <year>2016</year>. 
                     <volume>10</volume>(
                     <issue>11</issue>):
                     <fpage>1306</fpage>–
-                    <lpage>18</lpage>.   
+                    <lpage>18</lpage>. 
                     <pub-id pub-id-type="doi">10.3324/haematol.2016.144063</pub-id>
                     <pub-id pub-id-type="pmid">27651169</pub-id>
                     <issn>0390-6078</issn>
@@ -477,8 +404,8 @@
                             <surname>Waage</surname>
                             <given-names>A</given-names>
                         </name>, 
-                        <etal>et al.</etal>
-                    </person-group>
+                        <etal>et al</etal>
+                    </person-group>.
                     <article-title>A Gain-of-Function Mutation in EPO in Familial Erythrocytosis</article-title>. 
                     <source>N Engl J Med</source>. 
                     <year>2018</year>
@@ -520,8 +447,8 @@
                             <surname>Le Beau</surname>
                             <given-names>MM</given-names>
                         </name>, 
-                        <etal>et al.</etal>
-                    </person-group>
+                        <etal>et al</etal>
+                    </person-group>.
                     <article-title>The 2016 revision to the World Health Organization classification of myeloid neoplasms and acute leukemia</article-title>. 
                     <source>Blood</source>. 
                     <year>2016</year>
@@ -563,11 +490,11 @@
                             <surname>Stein</surname>
                             <given-names>H</given-names>
                         </name>,
-                        <etal>et al.</etal>
-                    </person-group>
+                        <etal>et al</etal>
+                    </person-group>.
                     <book-title>Myeloproliferativne neoplasms</book-title>.
                     <source>WHO Classification of Tumours of Haematopoetic and Lymphoid Tissues</source>.
-                    <edition>4th ed</edition>.  
+                    <edition>4th ed</edition>. 
                     <publisher-loc>Lyon</publisher-loc>:
                     <publisher-name>IARC</publisher-name>;
                     <year>2017</year>. 
@@ -706,7 +633,7 @@
                     </person-group>
                     <article-title>Mutation of the Calreticulin (CALR) Gene in Myeloproliferative Neoplasms</article-title>.
                     <source>Hematologist</source>.
-                    <year>2015</year>.  
+                    <year>2015</year>. 
                     <volume>12</volume>(
                     <issue>1</issue>):
                     <fpage>11</fpage>–
@@ -726,7 +653,7 @@
                             <given-names>JW</given-names>
                         </name>
                     </person-group>.
-                    <article-title>Classification and diagnosis of myeloproliferative neoplasms: the 2008 World Health Organization criteria and point-of-care diagnostic algorithms</article-title>.                     
+                    <article-title>Classification and diagnosis of myeloproliferative neoplasms: the 2008 World Health Organization criteria and point-of-care diagnostic algorithms</article-title>. 
                     <source>Leukemia</source>. 
                     <year>2008</year>.
                     <volume>22</volume>(
@@ -750,7 +677,6 @@
                             <surname>Solarovič</surname>
                             <given-names>A</given-names>
                         </name>, 
-                        
                         <name>
                             <surname>Vermiglio</surname>
                             <given-names>L.</given-names>
@@ -806,7 +732,7 @@
                     <article-title>Analiza variabilnosti gena za eritropoetin pri družinski eritrocitozi</article-title>.
                     <comment>[Master's Thesis]</comment>. 
                     <publisher-loc>Ljubljana</publisher-loc>:
-                    <publisher-name>T. Prijatelj</publisher-name>;  
+                    <publisher-name>T. Prijatelj</publisher-name>; 
                     <year>2018</year>.
                 </mixed-citation>
             </ref>
@@ -822,7 +748,7 @@
                     <article-title>Analiza variabilnosti gena za eritropoetinski receptor pri družinski eritrocitozi</article-title>.
                     <comment>[Master's Thesis]</comment>. 
                     <publisher-loc>Ljubljana</publisher-loc>:
-                    <publisher-name>D. Vočanec</publisher-name>;  
+                    <publisher-name>D. Vočanec</publisher-name>; 
                     <year>2018</year>.
                 </mixed-citation>
             </ref>

@@ -1,32 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
-<article xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" dtd-version="1.0" article-type="reference-list">
-<front>
-<article-meta>
-<custom-meta-group>
-<custom-meta><meta-name>TotalReferences</meta-name><meta-value>25</meta-value></custom-meta>
-<custom-meta><meta-name>ReferencesParsed</meta-name><meta-value>23</meta-value></custom-meta>
-<custom-meta><meta-name>ReferencesBillable</meta-name><meta-value>23</meta-value></custom-meta>
-<custom-meta><meta-name>LinkServices</meta-name><meta-value>pubmed-crossref</meta-value></custom-meta>
-<custom-meta><meta-name>ReferencesLinked</meta-name><meta-value>23</meta-value></custom-meta>
-<custom-meta><meta-name>ReferencesLinkedDOI</meta-name><meta-value>23</meta-value></custom-meta>
-<custom-meta><meta-name>ReferencesLinkedPMID</meta-name><meta-value>19</meta-value></custom-meta>
-<custom-meta><meta-name>JournalReferences</meta-name><meta-value>23</meta-value></custom-meta>
-<custom-meta><meta-name>BookReferences</meta-name><meta-value>0</meta-value></custom-meta>
-<custom-meta><meta-name>BookChapterReferences</meta-name><meta-value>1</meta-value></custom-meta>
-<custom-meta><meta-name>ConferenceReferences</meta-name><meta-value>0</meta-value></custom-meta>
-<custom-meta><meta-name>ElectronicReferences</meta-name><meta-value>1</meta-value></custom-meta>
-<custom-meta><meta-name>DissertationReferences</meta-name><meta-value>0</meta-value></custom-meta>
-<custom-meta><meta-name>LegalReferences</meta-name><meta-value>0</meta-value></custom-meta>
-<custom-meta><meta-name>StandardReferences</meta-name><meta-value>0</meta-value></custom-meta>
-<custom-meta><meta-name>OtherReferences</meta-name><meta-value>0</meta-value></custom-meta>
-<custom-meta><meta-name>UnknownReferences</meta-name><meta-value>0</meta-value></custom-meta>
-<custom-meta><meta-name>ReferencesSemiParsed</meta-name><meta-value>0</meta-value></custom-meta>
-<custom-meta><meta-name>ReferencesBookUnparsed</meta-name><meta-value>1</meta-value></custom-meta>
-<custom-meta><meta-name>EditorialStyle</meta-name><meta-value>ICMJE-WHO</meta-value></custom-meta>
-</custom-meta-group>
-</article-meta>
-</front>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD with MathML3 v1.1 20151215//EN" "JATS-journalpublishing1-mathml3.dtd">
+<article dtd-version="1.1"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:mml="http://www.w3.org/1998/Math/MathML">
+    <front>
+        <journal-meta>
+            <journal-id></journal-id>
+            <issn></issn>
+        </journal-meta>
+        <article-meta>
+            <title-group>
+                <article-title></article-title>
+            </title-group>
+            <pub-date>
+                <year></year>
+            </pub-date>
+        </article-meta>
+    </front>
 <back>
 <ref-list>
 <ref id="b1"><label>1.	</label><mixed-citation publication-type="journal" specific-use="restruct"><person-group person-group-type="author"><name><surname>Alvine</surname> <given-names>FG</given-names></name>, <name><surname>Garvin</surname> <given-names>KL</given-names></name></person-group>. <article-title>Peg and dowel fusion of the proximal interphalangeal joint</article-title>. <source>Foot Ankle</source>. <year>1980</year> <month>Sep</month>;<volume>1</volume>(<issue>2</issue>):<fpage>90</fpage>–<lpage>4</lpage>. <pub-id pub-id-type="doi">10.1177/107110078000100208</pub-id><pub-id pub-id-type="pmid">7274904</pub-id><issn>0198-0211</issn></mixed-citation></ref>
@@ -73,6 +63,4 @@
 <ref id="b25"><label>25.	</label><mixed-citation publication-type="journal" specific-use="restruct"><person-group person-group-type="author"><name><surname>Wolke</surname> <given-names>B</given-names></name>, <name><surname>Sparmann</surname> <given-names>M</given-names></name></person-group>. <article-title>[Arthrodesis of proximal interphalangeal joint of toes using the peg-in-hole technique]</article-title>. <source>Oper Orthop Traumatol</source>. <year>1999</year> <month>Dec</month>;<volume>11</volume>(<issue>4</issue>):<fpage>319</fpage>–<lpage>27</lpage>. <pub-id pub-id-type="doi">10.1007/BF02593997</pub-id><issn>0934-6694</issn>. </mixed-citation></ref>
 </ref-list>
 </back>
-</article>
-
-
+</article> 

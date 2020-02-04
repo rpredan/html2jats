@@ -1,91 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd"> 
-<article
-    xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" dtd-version="1.0" article-type="reference-list">
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD with MathML3 v1.1 20151215//EN" "JATS-journalpublishing1-mathml3.dtd">
+<article dtd-version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
     <front>
+        <journal-meta>
+            <journal-id></journal-id> 
+            <issn></issn>
+        </journal-meta>
         <article-meta>
-            <custom-meta-group>
-                <custom-meta>
-                    <meta-name>TotalReferences</meta-name>
-                    <meta-value>75</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesParsed</meta-name>
-                    <meta-value>72</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesBillable</meta-name>
-                    <meta-value>71</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>LinkServices</meta-name>
-                    <meta-value>pubmed-crossref</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesLinked</meta-name>
-                    <meta-value>67</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesLinkedDOI</meta-name>
-                    <meta-value>63</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesLinkedPMID</meta-name>
-                    <meta-value>65</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>JournalReferences</meta-name>
-                    <meta-value>69</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>BookReferences</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>BookChapterReferences</meta-name>
-                    <meta-value>4</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ConferenceReferences</meta-name>
-                    <meta-value>1</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ElectronicReferences</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>DissertationReferences</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>LegalReferences</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>StandardReferences</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>OtherReferences</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>UnknownReferences</meta-name>
-                    <meta-value>1</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesSemiParsed</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesBookUnparsed</meta-name>
-                    <meta-value>1</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>EditorialStyle</meta-name>
-                    <meta-value>ICMJE-WHO</meta-value>
-                </custom-meta>
-            </custom-meta-group>
+            <title-group>
+                <article-title></article-title>
+            </title-group>
+            <pub-date>
+                <year></year>
+            </pub-date>
         </article-meta>
     </front>
     <back>
@@ -354,30 +281,30 @@
                     <person-group person-group-type="author">
                         <name>
                             <surname>Ince</surname>
-                            <given-names>C</given-names>                             
+                            <given-names>C</given-names> 
                         </name>, 
                         <name>
                             <surname>Boerma</surname>
-                            <given-names>EC</given-names>                             
+                            <given-names>EC</given-names> 
                         </name>,
                         <name>
                             <surname>Cecconi</surname>
-                            <given-names>M</given-names>                             
+                            <given-names>M</given-names> 
                         </name>,
                         <name>
                             <surname>De Backer</surname>
-                            <given-names>D</given-names>                             
+                            <given-names>D</given-names> 
                         </name>,
                         <name>
                             <surname>Shapiro</surname>
-                            <given-names>NI</given-names>                             
+                            <given-names>NI</given-names> 
                         </name>,
                         <name>
                             <surname>Duranteau</surname>
-                            <given-names>J</given-names>                             
+                            <given-names>J</given-names> 
                         </name>,
-                        <etal>et al.</etal>
-                    </person-group>
+                        <etal>et al</etal>
+                    </person-group>.
                     <article-title>Consensus on circulatory shock and hemodynamic monitoring. Task force of the ESICM</article-title>. 
                     <source>Intensive Care Med</source>. 
                     <year>2014</year>;
@@ -555,7 +482,7 @@
                     <volume>5</volume>(
                     <issue>2</issue>):
                     <fpage>98</fpage>–
-                    <lpage>109</lpage>.                    
+                    <lpage>109</lpage>. 
                 </mixed-citation>
             </ref>
             <ref id="b16">
@@ -601,8 +528,8 @@
                             <surname>Yu</surname>
                             <given-names>S</given-names>
                         </name>, 
-                        <etal>et al.</etal>
-                    </person-group>
+                        <etal>et al</etal>
+                    </person-group>.
                     <article-title>Lactated Ringer’s solution reduces systemic inflammation compared with saline in patients with acute pancreatitis</article-title>. 
                     <source>Clin Gastroenterol Hepatol</source>. 
                     <year>2011</year>
@@ -627,7 +554,7 @@
                         <name>
                             <surname>Roberts</surname>
                             <given-names>I</given-names>
-                        </name>  
+                        </name> 
                     </person-group>. 
                     <article-title>Colloids versus crysalloids for fluid resuscitation in critically ill patients</article-title>. 
                     <source>Cochrane Database Syst Rev</source>. 
@@ -731,8 +658,8 @@
                             <surname>Lisbon</surname>
                             <given-names>A</given-names>
                         </name>, 
-                        <etal>et al.</etal>
-                    </person-group>
+                        <etal>et al</etal>
+                    </person-group>.
                     <article-title>Mechanical ventilation guided by esophageal pressure in acute lung injury</article-title>. 
                     <source>N Engl J Med</source>. 
                     <year>2008</year>
@@ -799,8 +726,8 @@
                             <surname>Quirós Barrera</surname>
                             <given-names>R</given-names>
                         </name>, 
-                        <etal>et al.</etal>
-                    </person-group>
+                        <etal>et al</etal>
+                    </person-group>.
                     <article-title>[Intraabdominal and thoracic pressure in critically ill patients with suspected intraabdominal hypertension]</article-title>. 
                     <source>Med Intensiva</source>. 
                     <year>2011</year>
@@ -837,7 +764,7 @@
                     <publisher-name>Slovensko združenje za intenzivno medicino</publisher-name>;
                     <year>2014</year>. pp.
                     <fpage>73</fpage>–
-                    <lpage>90</lpage>.      
+                    <lpage>90</lpage>. 
                 </mixed-citation>
             </ref>
             <ref id="b25">
@@ -912,8 +839,8 @@
                             <surname>Cesana</surname>
                             <given-names>B</given-names>
                         </name>, 
-                        <etal>et al.</etal>
-                    </person-group>
+                        <etal>et al</etal>
+                    </person-group>.
                     <article-title>A validation study of a new nasogastric polyfunctional catheter</article-title>. 
                     <source>Intensive Care Med</source>. 
                     <year>2011</year>
@@ -1090,7 +1017,7 @@
                     <fpage>CD002941</fpage>. 
                     <pub-id pub-id-type="doi">10.1002/14651858.CD002941.pub3</pub-id>
                     <pub-id pub-id-type="pmid">20464721</pub-id>
-                    <issn>1469-493X</issn>                     
+                    <issn>1469-493X</issn> 
                 </mixed-citation>
             </ref>
             <ref id="b32">
@@ -1166,7 +1093,7 @@
                     <lpage>70</lpage>. 
                     <pub-id pub-id-type="doi">10.3109/00365521.2010.531486</pub-id>
                     <pub-id pub-id-type="pmid">21067283</pub-id>
-                    <issn>0036-5521</issn>                    
+                    <issn>0036-5521</issn> 
                 </mixed-citation>
             </ref>
             <ref id="b34">
@@ -1240,8 +1167,8 @@
                             <surname>Nathens</surname>
                             <given-names>A</given-names>
                         </name>, 
-                        <etal>et al.</etal>
-                    </person-group>
+                        <etal>et al</etal>
+                    </person-group>.
                     <article-title>Clinical practice guideline: management of acute pancreatitis</article-title>. 
                     <source>Can J Surg</source>. 
                     <year>2016</year>
@@ -1354,8 +1281,8 @@
                             <surname>Hopt</surname>
                             <given-names>UT</given-names>
                         </name>, 
-                        <etal>et al.</etal>
-                    </person-group>
+                        <etal>et al</etal>
+                    </person-group>.
                     <article-title>Penetration of moxifloxacin into the human pancreas following a single intravenous or oral dose</article-title>. 
                     <source>J Antimicrob Chemother</source>. 
                     <year>2006</year>
@@ -1565,8 +1492,8 @@
                             <surname>Murray</surname>
                             <given-names>M</given-names>
                         </name>, 
-                        <etal>et al.</etal>
-                    </person-group>
+                        <etal>et al</etal>
+                    </person-group>.
                     <article-title>Nutrition support in clinical practice: review of published data and recommendations for future research directions. National Institutes of Health, American Society for Parenteral and Enteral Nutrition, and American Society for Clinical Nutrition</article-title>. 
                     <source>JPEN J Parenter Enteral Nutr</source>. 
                     <year>1997</year>
@@ -1668,8 +1595,8 @@
                             <surname>Schneider</surname>
                             <given-names>L</given-names>
                         </name>, 
-                        <etal>et al.</etal>
-                    </person-group>
+                        <etal>et al</etal>
+                    </person-group>.
                     <article-title>Bacterial translocation and infected pancreatic necrosis in acute necrotizing pancreatitis derives from small bowel rather than from colon</article-title>. 
                     <source>Am J Surg</source>. 
                     <year>2010</year>
@@ -1753,8 +1680,8 @@
                             <surname>van Santvoort</surname>
                             <given-names>HC</given-names>
                         </name>, 
-                        <etal>et al.</etal>
-                    </person-group>
+                        <etal>et al</etal>
+                    </person-group>.
                     <article-title>A Prospective, Randomized Trial of Clear Liquids Versus Low-Fat Solid Diet as the Initial Meal in Mild Acute Pancreatitis</article-title>. 
                     <source>Clin Gastroenterol Hepatol</source>. 
                     <year>2007</year>;
@@ -1859,8 +1786,8 @@
                             <surname>Tian</surname>
                             <given-names>F</given-names>
                         </name>, 
-                        <etal>et al.</etal>
-                    </person-group>
+                        <etal>et al</etal>
+                    </person-group>.
                     <article-title>The role of omega-3 fatty acids in acute pancreatitis: a meta-analysis of randomized controlled trials</article-title>. 
                     <source>Nutrients</source>. 
                     <year>2015</year>
@@ -1938,8 +1865,7 @@
                     <lpage>14</lpage>. 
                     <pub-id pub-id-type="doi">10.1016/j.redox.2015.01.014</pub-id>
                     <pub-id pub-id-type="pmid">25778551</pub-id>
-                    <issn>2213-2317</issn>
-                    
+                    <issn>2213-2317</issn> 
                 </mixed-citation>
             </ref>
             <ref id="b55">
@@ -2009,11 +1935,11 @@
                     <fpage>762</fpage>. 
                     <pub-id pub-id-type="doi">10.3389/fimmu.2017.00762</pub-id>
                     <pub-id pub-id-type="pmid">28713382</pub-id>
-                    <issn>1664-3224</issn>                    
+                    <issn>1664-3224</issn> 
                 </mixed-citation>
             </ref>
             <ref id="b57">
-                <label>57.   </label>
+                <label>57. </label>
                 <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
@@ -2034,7 +1960,7 @@
                         </name>
                     </person-group>. 
                     <article-title>Early enteral nutrition versus delayed enteral nutrition in acute pancreatitis A PRISMA-compliant systematic review and meta-analysis</article-title>. 
-                    <source>Medicine</source>.  
+                    <source>Medicine</source>. 
                     <year>2017</year>
                     <month>Nov</month>;
                     <volume>96</volume>:(
@@ -2224,8 +2150,8 @@
                             <surname>Thiolet</surname>
                             <given-names>C</given-names>
                         </name>, 
-                        <etal>et al.</etal>
-                    </person-group>
+                        <etal>et al</etal>
+                    </person-group>.
                     <article-title>[Acute pancreatitis after treatment by celecoxib]</article-title>. 
                     <source>Gastroenterol Clin Biol</source>. 
                     <year>2007</year>
@@ -2236,8 +2162,7 @@
                     <lpage>9</lpage>. 
                     <pub-id pub-id-type="doi">10.1016/S0399-8320(07)91915-6</pub-id>
                     <pub-id pub-id-type="pmid">17925765</pub-id>
-                    <issn>0399-8320</issn>
-                    
+                    <issn>0399-8320</issn> 
                 </mixed-citation>
             </ref>
             <ref id="b63">
@@ -2271,8 +2196,7 @@
                     <lpage>6</lpage>. 
                     <pub-id pub-id-type="doi">10.1016/S0399-8320(06)73248-1</pub-id>
                     <pub-id pub-id-type="pmid">16733395</pub-id>
-                    <issn>0399-8320</issn>
-                   
+                    <issn>0399-8320</issn> 
                 </mixed-citation>
             </ref>
             <ref id="b64">
@@ -2305,8 +2229,7 @@
                     <fpage>721</fpage>–
                     <lpage>2</lpage>.
                     <pub-id pub-id-type="pmid">11673744</pub-id>
-                    <issn>0399-8320</issn>
-                   
+                    <issn>0399-8320</issn> 
                 </mixed-citation>
             </ref>
             <ref id="b65">
@@ -2430,8 +2353,7 @@
                     <issue>7</issue>):
                     <fpage>CD009179</fpage>.
                     <pub-id pub-id-type="pmid">23888429</pub-id>
-                    <issn>1469-493X</issn>
-                    
+                    <issn>1469-493X</issn> 
                 </mixed-citation>
             </ref>
             <ref id="b69">
@@ -2605,8 +2527,8 @@
                             <surname>Platon</surname>
                             <given-names>A</given-names>
                         </name>, 
-                        <etal>et al.</etal>
-                    </person-group>
+                        <etal>et al</etal>
+                    </person-group>.
                     <article-title>Epidural anesthesia improves pancreatic perfusion and decreases the severity of acute pancreatitis</article-title>. 
                     <source>World J Gastroenterol</source>. 
                     <year>2015</year>

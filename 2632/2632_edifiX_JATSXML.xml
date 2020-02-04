@@ -1,93 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
-<article
-    xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" dtd-version="1.0" article-type="reference-list">
-    <front>
-        <article-meta>
-            <custom-meta-group>
-                <custom-meta>
-                    <meta-name>TotalReferences</meta-name>
-                    <meta-value>34</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesParsed</meta-name>
-                    <meta-value>32</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesBillable</meta-name>
-                    <meta-value>32</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>LinkServices</meta-name>
-                    <meta-value>pubmed-crossref</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesLinked</meta-name>
-                    <meta-value>24</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesLinkedDOI</meta-name>
-                    <meta-value>18</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesLinkedPMID</meta-name>
-                    <meta-value>24</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>JournalReferences</meta-name>
-                    <meta-value>25</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>BookReferences</meta-name>
-                    <meta-value>7</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>BookChapterReferences</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ConferenceReferences</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ElectronicReferences</meta-name>
-                    <meta-value>1</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>DissertationReferences</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>LegalReferences</meta-name>
-                    <meta-value>1</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>StandardReferences</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>OtherReferences</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>UnknownReferences</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesSemiParsed</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesBookUnparsed</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>EditorialStyle</meta-name>
-                    <meta-value>ICMJE-WHO</meta-value>
-                </custom-meta>
-            </custom-meta-group>
-        </article-meta>
-    </front>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD with MathML3 v1.1 20151215//EN" "JATS-journalpublishing1-mathml3.dtd">
+<article dtd-version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+  <front>
+    <journal-meta>
+      <journal-id></journal-id>
+      <issn></issn>
+    </journal-meta>
+    <article-meta>
+      <title-group>
+        <article-title></article-title>
+      </title-group>
+      <pub-date>
+        <year></year>
+      </pub-date>
+    </article-meta>
+  </front>
     <back>
         <ref-list>
             <ref id="b1">
@@ -108,7 +35,7 @@
                     <fpage>S124</fpage>–
                     <lpage>8</lpage>.
                     <pub-id pub-id-type="pmid">17722326</pub-id>
-                    <issn>0125-2208</issn>                    
+                    <issn>0125-2208</issn> 
                 </mixed-citation>
             </ref>
             <ref id="b2">
@@ -121,8 +48,7 @@
                         </name>, 
                         <name>
                             <surname>de Jong</surname>
-                            <given-names>P</given-names>
-                            
+                            <given-names>P</given-names> 
                             <role>editor</role>.
                     </person-group>. 
                     <source>Textbook of urogynaecology</source>. 
@@ -172,8 +98,7 @@
                     <lpage>40</lpage>. 
                     <pub-id pub-id-type="doi">10.1002/nau.20870</pub-id>
                     <pub-id pub-id-type="pmid">20025020</pub-id>
-                    <issn>0733-2467</issn>
-                    
+                    <issn>0733-2467</issn> 
                 </mixed-citation>
             </ref>
             <ref id="b4">
@@ -182,8 +107,8 @@
                     <person-group person-group-type="author">
                         <name>
                             <surname>Milson</surname>
-                            <given-names>I</given-names>                         
-                        </name>                   
+                            <given-names>I</given-names> 
+                        </name> 
                     </person-group>. 
                     <cahpter-title>Epidemiology of Urinary Incontinence (UI) and other Lower Urinary Tract Symptoms (LUTS), Pelvic Organ Prolapse (POP) and Anal Incontinence (AI)</cahpter-title>. 
                     <comment>In</comment>:
@@ -209,9 +134,8 @@
                     <source>Incontinence</source>.
                     <edition>5th ed 2013</edition>.
                     <publisher-loc>Paris</publisher-loc>:
-                    <publisher-name>ICUD-EAU </publisher-name>;                     
-                    <year>2013</year>.
-                    
+                    <publisher-name>ICUD-EAU </publisher-name>; 
+                    <year>2013</year>. 
                 </mixed-citation>
             </ref>
             <ref id="b5">
@@ -310,8 +234,7 @@
                     <issue>82</issue>):
                     <fpage>225</fpage>–
                     <lpage>33</lpage>.
-                    <issn>0350-0063</issn>
-                    
+                    <issn>0350-0063</issn> 
                 </mixed-citation>
             </ref>
             <ref id="b8">
@@ -321,7 +244,7 @@
                         <name>
                             <surname>Roškar</surname>
                             <given-names>S</given-names>
-                        </name>                        
+                        </name> 
                     </person-group>. 
                     <source>Samopodoba ženske z urinsko inkontinenco</source>.
                     <comment>[diplomsko delo]</comment>.
@@ -385,7 +308,7 @@
                     <year>2016</year>.
                     <date-in-citation content-type="copyright-year"
                      iso-8601-date="2017 091 ">2017 Sept 2017</date-in-citation>
-                    <comment>Available from</comment>:                  
+                    <comment>Available from</comment>: 
                     <ext-link ext-link-type="uri" xlink:href="https://www.nice.org.uk/guidance/cg171">https://www.nice.org.uk/guidance/cg171</ext-link>
                 </mixed-citation>
             </ref>
@@ -426,11 +349,10 @@
                     <source>Incontinence</source>.
                     <edition>5th ed 2013</edition>.
                     <publisher-loc>Paris</publisher-loc>:
-                    <publisher-name>ICUD-EAU </publisher-name>;                     
+                    <publisher-name>ICUD-EAU </publisher-name>; 
                     <year>2013</year>.
                     <publisher-name>Pariz</publisher-name>; 
-                    <year>2013</year>.
-                    
+                    <year>2013</year>. 
                 </mixed-citation>
             </ref>
             <ref id="b12">
@@ -467,7 +389,7 @@
                         </name>
                         <role>editors</role>
                     </person-group>.
-                    <source>Urogynecology today</source>.                   
+                    <source>Urogynecology today</source>. 
                     <publisher-loc>Portorož</publisher-loc>: 
                     <publisher-name>Slovene Urogynecological Society and Austrian Society for Urogynecology and Pelvic Reconstructive Surgery</publisher-name>; 
                     <year>2004</year>.
@@ -512,11 +434,10 @@
                     <source>Incontinence</source>.
                     <edition>5th ed 2013</edition>.
                     <publisher-loc>Paris</publisher-loc>:
-                    <publisher-name>ICUD-EAU </publisher-name>;                     
+                    <publisher-name>ICUD-EAU </publisher-name>; 
                     <year>2013</year>.
                     <publisher-name>Pariz</publisher-name>; 
-                    <year>2013</year>.                  
-                  
+                    <year>2013</year>. 
                 </mixed-citation>
             </ref>
             <ref id="b14">
@@ -666,8 +587,8 @@
                             <surname>Klarskov</surname>
                             <given-names>P</given-names>
                         </name>, 
-                        <etal>et al.</etal>
-                    </person-group>
+                        <etal>et al</etal>
+                    </person-group>.
                     <article-title>The standardization of terminology of female pelvic organ prolapse and pelvic floor dysfunction</article-title>. 
                     <source>Am J Obstet Gynecol</source>. 
                     <year>1996</year>
@@ -709,8 +630,8 @@
                             <surname>Swift</surname>
                             <given-names>SE</given-names>
                         </name>, 
-                        <etal>et al.</etal>
-                    </person-group>
+                        <etal>et al</etal>
+                    </person-group>.
                     <article-title>Interobserver and intraobserver reliability of the proposed International Continence Society, Society of Gynecologic Surgeons, and American Urogynecologic Society pelvic organ prolapse classification system</article-title>. 
                     <source>Am J Obstet Gynecol</source>. 
                     <year>1996</year>
@@ -759,8 +680,8 @@
                         <source>Incontinence</source>.
                         <edition>5th ed 2013</edition>.
                         <publisher-loc>Paris</publisher-loc>:
-                        <publisher-name>ICUD-EAU </publisher-name>;                     
-                        <year>2013</year>.                            
+                        <publisher-name>ICUD-EAU </publisher-name>; 
+                        <year>2013</year>. 
                 </mixed-citation>
             </ref>
             <ref id="b20">
@@ -859,8 +780,8 @@
                             <surname>Cardozo</surname>
                             <given-names>L</given-names>
                         </name>, 
-                        <etal>et al.</etal>
-                    </person-group>
+                        <etal>et al</etal>
+                    </person-group>.
                     <article-title>Inter-observer reliability of three different methods of measuring urethrovesical mobility</article-title>. 
                     <source>Int Urogynecol J Pelvic Floor Dysfunct</source>. 
                     <year>2008</year>
@@ -1123,8 +1044,8 @@
                             <surname>Wells</surname>
                             <given-names>EC</given-names>
                         </name>, 
-                        <etal>et al.</etal>
-                    </person-group>
+                        <etal>et al</etal>
+                    </person-group>.
                     <article-title>Diagnostic accuracy of visual urethral mobility exam versus Q-Tip test: a randomized crossover trial</article-title>. 
                     <source>Am J Obstet Gynecol</source>. 
                     <year>2012</year>
@@ -1230,7 +1151,7 @@
                     <person-group person-group-type="author"> 
                         <name>
                             <surname>Tubaro</surname>
-                            <given-names>A</given-names>   
+                            <given-names>A</given-names> 
                         </name>
                     </person-group>. 
                     <source>Imaging, Neurophysiological Testing and Other Tests</source>. 
@@ -1256,9 +1177,8 @@
                         <source>Incontinence</source>.
                         <edition>5th ed 2013</edition>.
                         <publisher-loc>Paris</publisher-loc>:
-                        <publisher-name>ICUD-EAU </publisher-name>;                     
-                        <year>2013</year>.
-                        
+                        <publisher-name>ICUD-EAU </publisher-name>; 
+                        <year>2013</year>. 
             </ref>
         </ref-list>
     </back>

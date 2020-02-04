@@ -1,91 +1,18 @@
-<?xml version="1.0" encoding="UTF-8"?> 
-<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
-<article
-    xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" dtd-version="1.0" article-type="reference-list">
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD with MathML3 v1.1 20151215//EN" "JATS-journalpublishing1-mathml3.dtd">
+<article dtd-version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
     <front>
+        <journal-meta>
+            <journal-id></journal-id> 
+            <issn></issn>
+        </journal-meta>
         <article-meta>
-            <custom-meta-group>
-                <custom-meta>
-                    <meta-name>TotalReferences</meta-name>
-                    <meta-value>77</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesParsed</meta-name>
-                    <meta-value>76</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesBillable</meta-name>
-                    <meta-value>76</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>LinkServices</meta-name>
-                    <meta-value>pubmed-crossref</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesLinked</meta-name>
-                    <meta-value>76</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesLinkedDOI</meta-name>
-                    <meta-value>75</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesLinkedPMID</meta-name>
-                    <meta-value>75</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>JournalReferences</meta-name>
-                    <meta-value>76</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>BookReferences</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>BookChapterReferences</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ConferenceReferences</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ElectronicReferences</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>DissertationReferences</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>LegalReferences</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>StandardReferences</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>OtherReferences</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>UnknownReferences</meta-name>
-                    <meta-value>1</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesSemiParsed</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesBookUnparsed</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>EditorialStyle</meta-name>
-                    <meta-value>ICMJE-WHO</meta-value>
-                </custom-meta>
-            </custom-meta-group>
+            <title-group>
+                <article-title></article-title>
+            </title-group>
+            <pub-date>
+                <year></year>
+            </pub-date>
         </article-meta>
     </front>
     <back>
@@ -272,7 +199,7 @@
                     <lpage>56</lpage>. 
                     <pub-id pub-id-type="doi">10.1016/j.jacc.2013.09.052</pub-id>
                     <pub-id pub-id-type="pmid">24184245</pub-id>
-                    <issn>0735-1097</issn>                      
+                    <issn>0735-1097</issn> 
                 </mixed-citation>
             </ref>
             <ref id="b6">
@@ -1022,7 +949,7 @@
                             <surname>Gaemperli</surname>
                             <given-names>O</given-names>
                         </name>, 
-                        <etal>et al</etal>.;                         
+                        <etal>et al</etal>.; 
                         <collab>EACVI Scientific Documents Committee, EACVI Board members and external reviewers</collab>
                     </person-group>. 
                     <article-title>Comprehensive multi-modality imaging approach in arrhythmogenic cardiomyopathy-an expert consensus document of the European Association of Cardiovascular Imaging</article-title>. 
@@ -1073,7 +1000,7 @@
                     <volume>19</volume>(
                     <issue>7-8</issue>):
                     <fpage>204</fpage>–
-                    <lpage>10</lpage>.                                        
+                    <lpage>10</lpage>. 
                 </mixed-citation>
             </ref>
             <ref id="b26">
@@ -1775,7 +1702,7 @@
                 </mixed-citation>
             </ref>
             <ref id="b43">
-                <label>43.   </label>
+                <label>43. </label>
                 <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
@@ -1804,7 +1731,7 @@
                         </name>
                     </person-group>. 
                     <article-title>Prognostic Value of Global Longitudinal Strain in Hypertrophic Cardiomyopathy: A Systematic Review of Existing Literature</article-title>.
-                    <source>JACC Cardiovasc Imaging</source>.                  
+                    <source>JACC Cardiovasc Imaging</source>. 
                     <year>2019</year>
                     <month>Oct</month>;
                     <volume>12</volume>(
@@ -1813,7 +1740,7 @@
                     <lpage>42</lpage>. 
                     <pub-id pub-id-type="doi">10.1016/j.jcmg.2018.07.016</pub-id>
                     <pub-id pub-id-type="pmid">30219395</pub-id>
-                    <issn>1936-878X</issn>                  
+                    <issn>1936-878X</issn> 
                 </mixed-citation>
             </ref>
             <ref id="b44">
@@ -2981,7 +2908,7 @@
                     <lpage>8</lpage>. 
                     <pub-id pub-id-type="doi">10.1016/j.ijcard.2017.05.038</pub-id>
                     <pub-id pub-id-type="pmid">28536004</pub-id>
-                    <issn>0167-5273</issn>                     
+                    <issn>0167-5273</issn> 
                 </mixed-citation>
             </ref>
             <ref id="b72">
@@ -3214,11 +3141,11 @@
                         <name>
                             <surname>Anker</surname>
                             <given-names>SD</given-names>
-                        </name>,  
+                        </name>, 
                         <name>
                             <surname>Bueno</surname>
                             <given-names>H</given-names>
-                        </name>,  
+                        </name>, 
                         <name>
                             <surname>Cleland</surname>
                             <given-names>JG</given-names>

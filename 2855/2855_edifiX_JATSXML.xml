@@ -1,91 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
-<article
-    xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" dtd-version="1.0" article-type="reference-list"> 
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD with MathML3 v1.1 20151215//EN" "JATS-journalpublishing1-mathml3.dtd">
+<article dtd-version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
     <front>
+        <journal-meta>
+            <journal-id></journal-id> 
+            <issn></issn>
+        </journal-meta>
         <article-meta>
-            <custom-meta-group>
-                <custom-meta>
-                    <meta-name>TotalReferences</meta-name>
-                    <meta-value>13</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesParsed</meta-name>
-                    <meta-value>6</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesBillable</meta-name>
-                    <meta-value>6</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>LinkServices</meta-name>
-                    <meta-value>pubmed-crossref</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesLinked</meta-name>
-                    <meta-value>6</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesLinkedDOI</meta-name>
-                    <meta-value>6</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesLinkedPMID</meta-name>
-                    <meta-value>5</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>JournalReferences</meta-name>
-                    <meta-value>6</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>BookReferences</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>BookChapterReferences</meta-name>
-                    <meta-value>1</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ConferenceReferences</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ElectronicReferences</meta-name>
-                    <meta-value>5</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>DissertationReferences</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>LegalReferences</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>StandardReferences</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>OtherReferences</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>UnknownReferences</meta-name>
-                    <meta-value>1</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesSemiParsed</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesBookUnparsed</meta-name>
-                    <meta-value>1</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>EditorialStyle</meta-name>
-                    <meta-value>ICMJE-WHO</meta-value>
-                </custom-meta>
-            </custom-meta-group>
+            <title-group>
+                <article-title></article-title>
+            </title-group>
+            <pub-date>
+                <year></year>
+            </pub-date>
         </article-meta>
     </front>
     <back>
@@ -117,9 +44,9 @@
                             <surname>Wagenlehner</surname>
                             <given-names>F</given-names>
                         </name>, 
-                        <etal>et al.</etal>
-                    </person-group> 
-                    <source>Guidelines on Urological Infections 2017. European Association of Urology</source>.  
+                        <etal>et al</etal>
+                    </person-group>. 
+                    <source>Guidelines on Urological Infections 2017. European Association of Urology</source>. 
                     <date-in-citation content-type="access-date">cited 2017 Sep 7</date-in-citation>. 
                     <comment>Available from</comment>:
                     <ext-link ext-link-type="uri" xlink:href="http://uroweb.org/guideline/urological-infections/">http://uroweb.org/guideline/urological-infections/</ext-link>
@@ -137,8 +64,7 @@
                             <given-names>K</given-names>
                         </name>
                     </person-group>. 
-                    <article-title>Acute Complicated cystitis and pyelonephritis</article-title>.
-                    <comment>In</comment>: 
+                    <article-title>Acute Complicated cystitis and pyelonephritis</article-title>. In: 
                     <person-group person-group-type="author">
                         <name>
                             <surname>Bloom </surname>
@@ -194,8 +120,7 @@
                     <lpage>9</lpage>. 
                     <pub-id pub-id-type="doi">10.1097/QCO.0000000000000228</pub-id>
                     <pub-id pub-id-type="pmid">26694621</pub-id>
-                    <issn>0951-7375</issn>
-                    
+                    <issn>0951-7375</issn> 
                 </mixed-citation>
             </ref>
             <ref id="b5">
@@ -269,8 +194,8 @@
                             <surname>Harlander</surname>
                             <given-names>T</given-names>
                         </name>, 
-                        <etal>et al.</etal>
-                    </person-group>.  
+                        <etal>et al</etal>
+                    </person-group>.. 
                     <chapter-title>Občutljivost pogostih bakterij za antbiotike v Sloveniji po podatkih SKIJOP, 2017-2016<chapter-title>. 
                         <person-group person-group-type="editor">
                             <name><surname>Beović</surname>
@@ -287,8 +212,7 @@
                         <date-in-citation content-type="copyright-year"
                             iso-8601-date="2017">2017</date-in-citation>
                         <fpage>43</fpage>-
-                        <lpage>52</lpage>.
-                     
+                        <lpage>52</lpage>. 
                 </mixed-citation>
             </ref>
             <ref id="b7">
@@ -360,10 +284,10 @@
                         <volume>29</volume>(
                         <issue>Supplement_4</issue>):
                         <fpage>S341</fpage>–
-                        <lpage>5</lpage>.    
+                        <lpage>5</lpage>. 
                         <pub-id pub-id-type="doi">10.1086/382690</pub-id>
                         <pub-id pub-id-type="pmid">15127367</pub-id>
-                        <issn>1058-4838</issn>  
+                        <issn>1058-4838</issn> 
                 </mixed-citation>
             </ref>
             <ref id="b10">
@@ -405,9 +329,9 @@
                             <surname>Nieberg</surname>
                             <given-names>P</given-names>
                         </name>, 
-                        <etal>et al.</etal>
-                    </person-group>
-                    <article-title>Risk factors for early return visits to the emergency department in patients with urinary tract infection</article-title>.  
+                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>Risk factors for early return visits to the emergency department in patients with urinary tract infection</article-title>. 
                     <source>Am J Emerg Med</source>. 
                     <year>2018</year>
                     <month>Jan</month>;
@@ -487,8 +411,8 @@
                             <given-names>S</given-names>
                         </name>;
                         <collab>Paul-Ehrlich-Gesellschaft für Chemotherapie e.V</collab>.
-                        <etal>et al.</etal>
-                    </person-group> 
+                        <etal>et al</etal>
+                    </person-group>. 
                     <article-title>Kalkulierte parenterale Initialtherapie bakterieller Erkrankungen bei Erwachsenen – Update<article-title>.
                     <year>2018</year>.
                     <date-in-citation content-type="access-date">cited 2019 Apr 1</date-in-citation>. 

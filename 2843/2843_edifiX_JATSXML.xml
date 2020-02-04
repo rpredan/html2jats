@@ -1,91 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
-<article
-    xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" dtd-version="1.0" article-type="reference-list">
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD with MathML3 v1.1 20151215//EN" "JATS-journalpublishing1-mathml3.dtd">
+<article dtd-version="1.1"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:mml="http://www.w3.org/1998/Math/MathML">
     <front>
+        <journal-meta>
+            <journal-id></journal-id>
+            <issn></issn>
+        </journal-meta>
         <article-meta>
-            <custom-meta-group>
-                <custom-meta>
-                    <meta-name>TotalReferences</meta-name>
-                    <meta-value>25</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesParsed</meta-name>
-                    <meta-value>23</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesBillable</meta-name>
-                    <meta-value>23</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>LinkServices</meta-name>
-                    <meta-value>pubmed-crossref</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesLinked</meta-name>
-                    <meta-value>19</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesLinkedDOI</meta-name>
-                    <meta-value>14</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesLinkedPMID</meta-name>
-                    <meta-value>19</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>JournalReferences</meta-name>
-                    <meta-value>22</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>BookReferences</meta-name>
-                    <meta-value>2</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>BookChapterReferences</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ConferenceReferences</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ElectronicReferences</meta-name>
-                    <meta-value>1</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>DissertationReferences</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>LegalReferences</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>StandardReferences</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>OtherReferences</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>UnknownReferences</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesSemiParsed</meta-name>
-                    <meta-value>0</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>ReferencesBookUnparsed</meta-name>
-                    <meta-value>1</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>EditorialStyle</meta-name>
-                    <meta-value>ICMJE-WHO</meta-value>
-                </custom-meta>
-            </custom-meta-group>
+            <title-group>
+                <article-title></article-title>
+            </title-group>
+            <pub-date>
+                <year></year>
+            </pub-date>
         </article-meta>
     </front>
     <back>
@@ -217,8 +146,8 @@
                     <publisher-loc>Philadelphia<publisher-loc>: 
                     <publisher-name>Elsevier</publisher-name>; 
                     <year>2005</year>. pp.
-                    <fpage>75</fpage>-  
-                    <fpage>6</fpage>.                     
+                    <fpage>75</fpage>- 
+                    <fpage>6</fpage>. 
                 </mixed-citation>
             </ref>
             <ref id="b6">
@@ -392,7 +321,7 @@
                     <volume>72</volume>:
                     <fpage>671</fpage>–
                     <lpage>3</lpage>.
-                    <issn>0350-0063</issn>                     
+                    <issn>0350-0063</issn> 
                 </mixed-citation>
             </ref>
             <ref id="b12">
@@ -519,7 +448,7 @@
                     <lpage>22</lpage>. 
                     <pub-id pub-id-type="doi">10.1016/j.plabm.2015.10.001</pub-id>
                     <pub-id pub-id-type="pmid">28932805</pub-id>
-                    <issn>2352-5517</issn>                    
+                    <issn>2352-5517</issn> 
                 </mixed-citation>
             </ref>
             <ref id="b16">
@@ -552,7 +481,7 @@
                     <year>2018</year>;
                     <volume>8</volume>:
                     <fpage>33</fpage>–
-                    <lpage>44</lpage>.                     
+                    <lpage>44</lpage>. 
                 </mixed-citation>
             </ref>
             <ref id="b17">
@@ -611,12 +540,12 @@
                     </person-group>. 
                     <article-title>Haemolytic disease of newborn</article-title.
                     <source>Zdrav Vestn<source>. 28Oct.
-                    <year>2018</year>  
+                    <year>2018</year> 
                     <month>Nov</month>.
                     <volume>87</volume>(
                     <issue>9-10</issue>):
-                    <fpage>405</fapge>-    
-                    <lpage>416</lapge>.    
+                    <fpage>405</fapge>- 
+                    <lpage>416</lapge>. 
                 </mixed-citation>
             </ref>
             <ref id="b19">
@@ -751,8 +680,8 @@
                             <surname>Orzińska</surname>
                             <given-names>A</given-names>
                         </name>, 
-                        <etal>et al.</etal>
-                    </person-group>
+                        <etal>et al</etal>
+                    </person-group>.
                     <article-title>Fetal/Neonatal Alloimmune Thrombocytopenia: Pathogenesis, Diagnostics and Prevention</article-title>. 
                     <source>Arch Immunol Ther Exp (Warsz)</source>. 
                     <year>2016</year>
@@ -794,8 +723,8 @@
                             <surname>Peterson</surname>
                             <given-names>J</given-names>
                         </name>, 
-                        <etal>et al.</etal>
-                    </person-group>
+                        <etal>et al</etal>
+                    </person-group>.
                     <article-title>Neonatal alloimmune thrombocytopenia associated with maternal-fetal incompatibility for blood group B</article-title>. 
                     <source>Transfusion</source>. 
                     <year>2008</year>

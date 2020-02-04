@@ -13,3 +13,30 @@ a.	Dsadsa
 7.	Bug: Corresponden’s email is missing from tag <corresp>. It should be in the <email> tag which is present as <email xlink:type="simple"/>.
 8.	XML-all – back matter is the same for both articles … are you suppose to duplicate refs?
 9.	<xref ref-type="corresp" rid="en-corr"/> -- tole je problem pri Zvonki -- 3018
+10. sistem ignorira <bold> tag. Poglej 3018 v spodnjem delu za referenco
+11. sistem hecno dela z list in list-item -- oz hecno pretvarja iz: 
+            <p class="ul"><span>•</span>8809 – diplomantov medicine (zdravniki),</p>
+            <p class="ul"><span>•</span>2269 – diplomantov dentalne medicine (zobozdravniki),</p>
+            <p class="ul"><span>•</span>1079 – magistrov znanosti, </p>
+            <p class="ul"><span>•</span>1724 – doktorjev znanosti.</p> (ista referenca 3018)
+        <list>
+            <list-item>
+               <label>•</label>
+               <p>8809 - medical graduates,</p>
+            </list-item>
+             <list-item>
+               <label>•</label>
+               <p>2269 - dental graduates,</p>
+            </list-item>
+             <list-item>
+               <label>•</label>
+               <p>1079 - Masters of Science,</p>
+            </list-item>
+             <list-item>
+               <label>•</label>
+               <p>1724 - Ph.D.</p>
+            </list-item>
+         </list>
+         Izgleda isto z ali brez labele. Preskusi tudi s številkami.
+
+12. 

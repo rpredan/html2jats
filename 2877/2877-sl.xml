@@ -444,7 +444,7 @@
          </ref>
          <ref id="b3">
             <label>3. </label>
-            <mixed-citation publication-type="web-page">
+            <mixed-citation publication-type="webpage">
                     <person-group person-group-type="author">
                         <name name-style="western">
                      <surname>Frelih</surname>
@@ -463,45 +463,41 @@
                      <given-names>A</given-names>
                   </name>
                     </person-group>. 
-                    <source>Gripa – algoritem ukrepanja. Priporočila za obravnavo izbruha ali suma na izbruh gripe v ustanovah</source>.                     
+                    <source>Gripa – algoritem ukrepanja. Priporočila za obravnavo izbruha ali suma na izbruh gripe v ustanovah</source>. 
                     <year>2015</year> 
                     <date-in-citation content-type="access-date" iso-8601-date="2016-10-01">cited 2016 Oct 01</date-in-citation>.
-                    <comment> Available from</comment>:                        
-                    <ext-link ext-link-type="uri" xlink:href="www.nijz.si/podro">www.nijz.si/podro</ext-link>
+                    <comment>Available from: <uri>https://www.nijz.si/sites/www.nijz.si/files/uploaded/priporocila_za_obravnavo_izbruha_ali_suma_na_izbruh_gripe_v_socialno-varstvenih_zavodih.pdf</uri>
+               </comment>
                 </mixed-citation>
          </ref>
          <ref id="b4">
             <label>4. </label>
-            <mixed-citation publication-type="web-page">
+            <mixed-citation publication-type="webpage">
                     <person-group person-group-type="author">
                         <name name-style="western">
                      <surname>Communicable Diseases Report</surname>
                   </name>
                     </person-group>. 
                     <source>NSW Public Health Bulletin</source>.
-                    <comment>[internet]</comment>. 
                     <year>2004</year>; 
                     <volume>15</volume>:
                     <fpage>220</fpage>-
                     <lpage>221</lpage>. 
                     <date-in-citation content-type="access-date" iso-8601-date="2016-10-01">cited 2016 Oct 01</date-in-citation>
-                    <comment> Available from</comment>: 
-                    <ext-link ext-link-type="uri"
-                         xlink:href="http://www.publish.csiro.au/?act=view_file&amp;file_id=NB04050.pdf">http://www.publish.csiro.au/?act=view_file&amp;file_id=NB04050.pdf</ext-link>
+                    <comment>Available from: <uri>http://www.publish.csiro.au/?act=view_file&amp;file_id=NB04050.pdf</uri>
+               </comment>
                 </mixed-citation>
          </ref>
          <ref id="b5">
             <label>5. </label>
-            <mixed-citation publication-type="unknown">
+            <mixed-citation publication-type="webpage">
                     <person-group person-group-type="author">
                         <collab>CDC</collab>
                     </person-group>. 
                     <source>2010-2011 Influenza Antiviral Medications: A Summary for Clinicians</source>.
-                    <comment>[internet]</comment>. 
                     <date-in-citation content-type="access-date" iso-8601-date="2016-10-01">cited 2016 Oct 01</date-in-citation>
-                    <comment> Available from</comment>: 
-                    <ext-link ext-link-type="uri"
-                         xlink:href=" http://www.flu.org.cn/en/news-16482.htmlf"> http://www.flu.org.cn/en/news-16482.html</ext-link>                           
+                    <comment>Available from: <uri>http://www.flu.org.cn/en/news-16482.html</uri>
+               </comment>
                 </mixed-citation>
          </ref>
          <ref id="b6">
@@ -546,8 +542,9 @@
                      <surname>Vanhems</surname>
                      <given-names>P</given-names>
                   </name>
-                    </person-group>. 
-                    <article-title>etal. Hospital-acquired influenza: a synthesis using the Outbreak Reports and Intervention Studies of Nosocomial Infection (ORION) statement</article-title>. 
+                        <etal>etal.</etal>
+                    </person-group> 
+                    <article-title>Hospital-acquired influenza: a synthesis using the Outbreak Reports and Intervention Studies of Nosocomial Infection (ORION) statement</article-title>. 
                     <source>J Hosp Infect</source>. 
                     <year>2009</year>
                     <month>Jan</month>;
@@ -622,7 +619,7 @@
                      <surname>Fernandez</surname>
                      <given-names>MA</given-names>
                   </name>, 
-                        <etal>et al</etal>.; 
+                        <etal>et al.</etal>; 
                         <collab>The Working Group Of The Project Pi</collab>
                     </person-group>. 
                     <article-title>The effectiveness of influenza vaccination in preventing hospitalisations of elderly individuals in two influenza seasons: a multicentre case-control study, Spain, 2013/14 and 2014/15</article-title>. 
@@ -959,7 +956,7 @@
                      <surname>Leroux-Roels</surname>
                      <given-names>G</given-names>
                   </name>, 
-                        <etal>et al</etal>.; 
+                        <etal>et al.</etal>; 
                         <collab>Influence65 study group</collab>
                     </person-group>. 
                     <article-title>AS03-adjuvanted versus non-adjuvanted inactivated trivalent influenza vaccine against seasonal influenza in elderly people: a phase 3 randomised trial</article-title>. 
@@ -977,12 +974,17 @@
          </ref>
          <ref id="b19">
             <label>19. </label>
-            <mixed-citation publication-type="web-page">"
-                    <article-title>Healthcare utilisation, OECD Health Statistics (database)</article-title>
+            <mixed-citation publication-type="webpage">
+                    <person-group>
+                  <name name-style="western">
+                     <surname/>
+                  </name>
+               </person-group>
+                    <source>Healthcare utilisation, OECD Health Statistics (database)</source>
                     <year>2016</year>.
-                    <comment>Available from</comment>:
-                    <ext-link ext-link-type="uri"
-                         xlink:href="https://www.oecd.org/els/health-systems/Table-of-Content-Metadata-OECD-Health-Statistics-2016.pdf">https://www.oecd.org/els/health-systems/Table-of-Content-Metadata-OECD-Health-Statistics-2016.pdf</ext-link>. [ Dostop 20.8. 2018 ].
+                    [<date-in-citation content-type="access date" iso-8601-date="2018-08-20">cited 20. 8. 2018</date-in-citation>].
+                    <comment>Available from: <uri>https://www.oecd.org/els/health-systems/Table-of-Content-Metadata-OECD-Health-Statistics-2016.pdf</uri>
+               </comment>
                 </mixed-citation>
          </ref>
          <ref id="b20">
@@ -1030,11 +1032,15 @@
          </ref>
          <ref id="b21">
             <label>21. </label>
-            <mixed-citation publication-type="web-page">
-                 <article-title>Preventivni programi</article-title>.
-                     <comment>Available from</comment>:  
-                    <ext-link ext-link-type="uri"
-                         xlink:href="http://www.nijz.si/sites/www.nijz.si/files/uploaded/publikacije/letopisi/2015/4.1_precepljenost_2015.pdf">http://www.nijz.si/sites/www.nijz.si/files/uploaded/publikacije/letopisi/2015/4.1_precepljenost_2015.pdf</ext-link>. 
+            <mixed-citation publication-type="webpage">
+                    <person-group>
+                  <name name-style="western">
+                     <surname/>
+                  </name>
+               </person-group>
+                    <source>Preventivni programi</source>.
+                    <comment>Available from: <uri>http://www.nijz.si/sites/www.nijz.si/files/uploaded/publikacije/letopisi/2015/4.1_precepljenost_2015.pdf</uri>
+               </comment>. 
                     <year>2018</year>.
                 </mixed-citation>
          </ref>
@@ -1158,7 +1164,7 @@
          </ref>
          <ref id="b25">
             <label>25. </label>
-            <mixed-citation publication-type="web-page">
+            <mixed-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name name-style="western">
                      <surname>Pedersen</surname>
