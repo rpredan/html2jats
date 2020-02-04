@@ -16,7 +16,14 @@ replace:
 et al</etal>
 $1</person-group>.
 
-3. ukini trailing spaces (več kot dva) in nadomesti z enim
+3. et al. piko ven iz taga -- če je za njim collab tag
+(?<=<etal>et al).(</etal>)(;)(?= 
+\s+<collab>)
+
+replace:
+$1.$2
+
+4. ukini trailing spaces (več kot dva) in nadomesti z enim
 find: \s{2,}+$
 replace: " "
 
