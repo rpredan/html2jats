@@ -1,0 +1,1321 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD with MathML3 v1.1 20151215//EN" "JATS-journalpublishing1-mathml3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink"
+         dtd-version="1.1"
+         xml:lang="sl"
+         article-type="other">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher-id">Zdrav Vestn</journal-id>
+         <journal-id journal-id-type="nlm-ta">Zdrav Vestn</journal-id>
+         <journal-id journal-id-type="doi">Zdrav Vestn</journal-id>
+         <journal-title-group>
+            <journal-title>Zdravniški vestnik</journal-title>
+            <trans-title-group xml:lang="en">
+               <trans-title>Slovenian Medical Journal</trans-title>
+            </trans-title-group>
+            <abbrev-journal-title>Zdrav Vestn</abbrev-journal-title>
+         </journal-title-group>
+         <issn publication-format="ppub" pub-type="ppub">1318-0347</issn>
+         <issn publication-format="epub" pub-type="epub">1581-0224</issn>
+         <issn-l>0350-0063</issn-l>
+         <publisher>
+            <publisher-name xml:lang="sl">Slovensko zdravniško društvo</publisher-name>
+            <publisher-name xml:lang="en">Slovenian Medical Association</publisher-name>
+            <publisher-loc xml:lang="sl">Ljubljana, Slovenia</publisher-loc>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.6016/ZdravVestn.2946</article-id>
+         <article-id pub-id-type="publisher-id">2946</article-id>
+         <article-categories>
+            <subj-group subj-group-type="discipline" xml:lang="en">
+               <subject>Medicine and health sciences</subject>
+               <subj-group>
+                  <subject>Microbiology and immunology</subject>
+               </subj-group>
+            </subj-group>
+            <subj-group subj-group-type="discipline" xml:lang="sl">
+               <subject>Medicina/Zdravstvo</subject>
+               <subj-group>
+                  <subject>Mikrobiologija in imunologija Review article</subject>
+               </subj-group>
+            </subj-group>
+            <subj-group subj-group-type="article-type" xml:lang="en">
+               <subject/>
+            </subj-group>
+            <subj-group subj-group-type="article-type" xml:lang="sl">
+               <subject>Pregledni znanstveni članek</subject>
+            </subj-group>
+            <subj-group subj-group-type="heading" xml:lang="sl">
+               <subject>Mikrobiologija in imunologija Review article</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title xml:lang="sl">Uvedba programa »Skrb za bolnikovo kri« v vsakodnevno klinično prakso</article-title>
+            <trans-title-group>
+               <trans-title xml:lang="en">Implementing the »Patient Blood Management« program in everyday clinical practice</trans-title>
+            </trans-title-group>
+            <alt-title alt-title-type="running-head" xml:lang="sl">Uvedba programa »Skrb za bolnikovo kri« v vsakodnevno klinično prakso</alt-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Bitenc</surname>
+                  <given-names>Marko</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1">1</xref>
+            </contrib>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Gams</surname>
+                  <given-names>Polona</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1">1</xref>
+            </contrib>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Danojević</surname>
+                  <given-names>Nenad</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1">1</xref>
+            </contrib>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Hlebič</surname>
+                  <given-names>Gregor</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1">1</xref>
+            </contrib>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Rozman</surname>
+                  <given-names>Aleš</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1">1</xref>
+            </contrib>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Zupan</surname>
+                  <given-names>Irena</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff3">3</xref>
+               <xref ref-type="aff" rid="aff4">4</xref>
+            </contrib>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Šoštarič</surname>
+                  <given-names>Maja</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff5">5</xref>
+               <xref ref-type="aff" rid="aff6">6</xref>
+               <xref ref-type="corresp" rid="corr"/>
+            </contrib>
+         </contrib-group>
+         <aff-alternatives id="aff1">
+            <aff xml:lang="sl">
+               <label>1</label>
+               <institution>Kirurgija Bitenc d.o.o., Ljubljana, Slovenija</institution>
+            </aff>
+            <aff xml:lang="en">
+               <label>1</label>
+               <institution>Surgery Bitenc, Ljubljana, Slovenia</institution>
+            </aff>
+         </aff-alternatives>
+         <aff-alternatives id="aff2">
+            <aff xml:lang="sl">
+               <label>2</label>
+               <institution>Univerzitetna bolnišnica za pljučne bolezni in alergijo Golnik, Golnik, Slovenija</institution>
+            </aff>
+            <aff xml:lang="en">
+               <label>2</label>
+               <institution>University Clinic of Pulmonary and Allergic Diseases Golnik, Golnik, Slovenia</institution>
+            </aff>
+         </aff-alternatives>
+         <aff-alternatives id="aff3">
+            <aff xml:lang="sl">
+               <label>3</label>
+               <institution>Klinični oddelek za hematologijo, Interna klinika, Univerzitetni klinični center Ljubljana, Ljubljana, Slovenija</institution>
+            </aff>
+            <aff xml:lang="en">
+               <label>3</label>
+               <institution>Department of Haematology, Division of Internal Medicine, University Medical Centre Ljubljana, Ljubljana</institution>
+            </aff>
+         </aff-alternatives>
+         <aff-alternatives id="aff4">
+            <aff xml:lang="sl">
+               <label>4</label>
+               <institution>Katedra za interno medicino, Medicinska fakulteta Ljubljana, Univerza v Ljubljani, Ljubljana Slovenija</institution>
+            </aff>
+            <aff xml:lang="en">
+               <label>4</label>
+               <institution>Department of Internal Medicine, Medical Faculty Ljubljana, University of Ljubljana, Ljubljana, Slovenia</institution>
+            </aff>
+         </aff-alternatives>
+         <aff-alternatives id="aff5">
+            <aff xml:lang="sl">
+               <label>5</label>
+               <institution>Klinični oddelek za anesteziologijo in intenzivno terapijo kirurških strok, Kirurška klinika, Univerzitetni klinični center Ljubljana, Ljubljana, Slovenija</institution>
+            </aff>
+            <aff xml:lang="en">
+               <label>5</label>
+               <institution>Department of Anaesthesiology and Surgical Intensive Therapy, Division of Surgery, University Medical Centre Ljubljana, Ljubljana, Slovenia</institution>
+            </aff>
+         </aff-alternatives>
+         <aff-alternatives id="aff6">
+            <aff xml:lang="sl">
+               <label>6</label>
+               <institution>Katedra za anesteziologijo in reanimatologijo, Medicinska fakulteta Ljubljana, Univerza v Ljubljani, Ljubljana, Slovenija</institution>
+            </aff>
+            <aff xml:lang="en">
+               <label>6</label>
+               <institution>Department of Anaesthesiology and Reanimatology, Medical Faculty Ljubljana, University of Ljubljana, Ljubljana, Slovenia</institution>
+            </aff>
+         </aff-alternatives>
+         <author-notes>
+            <fn fn-type="conflict" xml:lang="en">
+               <p>The authors have declared that no competing interests exist.</p>
+            </fn>
+            <fn fn-type="conflict" xml:lang="sl">
+               <p>Avtorji so izjavili, da ne obstajajo nobeni konkurenčni interesi.</p>
+            </fn>
+            <corresp id="corr">Maja Šoštarič, e-mail: <email xlink:type="simple"/>
+            </corresp>
+         </author-notes>
+         <pub-date pub-type="ppub">
+            <month>6</month>
+            <year>2020</year>
+         </pub-date>
+         <pub-date pub-type="epub">
+            <month>6</month>
+            <year>2020</year>
+         </pub-date>
+         <volume>89</volume>
+         <issue>5–6</issue>
+         <fpage>278</fpage>
+         <lpage>86</lpage>
+         <history>
+            <date date-type="received">
+               <day>17</day>
+               <month>4</month>
+               <year>2019</year>
+            </date>
+            <date date-type="accepted">
+               <day>15</day>
+               <month>12</month>
+               <year>2019</year>
+            </date>
+         </history>
+         <permissions>
+            <copyright-statement xml:lang="en">Copyright © 2020, Slovenian Medical Association (SZD)</copyright-statement>
+            <copyright-statement xml:lang="sl">© 2020, Slovensko zdravniško društvo (SZD)</copyright-statement>
+            <copyright-year>2020</copyright-year>
+            <copyright-holder xml:lang="en">Slovenian Medical Association (SZD)</copyright-holder>
+            <copyright-holder xml:lang="sl">Slovensko zdravniško društvo (SZD)</copyright-holder>
+            <license xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                     xlink:type="simple"
+                     xml:lang="en">
+               <license-p>This is an open access article distributed under the terms of the
+          <ext-link ext-link-type="uri"
+                            xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                            xlink:type="simple">Creative Commons Attribution-NonCommercial
+            License</ext-link>, which permits unrestricted use, distribution, and
+          reproduction in any medium, provided the original author and source are
+          credited and only for non-commercial purposes. </license-p>
+            </license>
+            <license xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                     xlink:type="simple"
+                     xml:lang="sl">
+               <license-p>To je članek z odprtim dostopom, ki ga lahko uporabite pod pogoji iz
+          <ext-link ext-link-type="uri"
+                            xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                            xlink:type="simple">Creative Commons Priznanje avtorstva-Nekomercialno
+            licence</ext-link>. ki dovoljuje distribucijo, predelavo ali
+          prilagoditev, ter gradijo na njem, v nekomercialne namene, z navedbo avtorja
+          in izvirnega dela.</license-p>
+            </license>
+         </permissions>
+         <abstract xml:lang="sl">
+            <title>Izvleček</title>
+            <p>Neopredeljena in nezdravljena anemija pred operacijo je neodvisni napovedni dejavnik za zaplete ob kirurškem posegu in transfuzijo v obdobju po posegu. Transfuzija krvi po kirurškem posegu poveča tveganje za zaplete po operaciji, podaljša bolnišnično zdravljenje in poslabša izid kirurškega zdravljenja. Pred operacijo moramo anemične bolnike odkriti in zdraviti, prilagoditi pripravo na operacijo, kirurško tehniko in zdravljenje po posegu.</p>
+            <p>Program »Skrb za bolnikovo kri« (<italic>angl.</italic> Patient Blood Management, PBM), uveljavljen že v mnogih evropskih državah, podpira pa ga Direktorat Evropske komisije za zdravje, se usmerja v zdravljenje anemije, optimiziranje hemostaze in zmanjšanje potrebe po transfuziji krvi. Trije osnovni stebri so (1) optimalna hematopoeza, (2) zmanjšana iatrogena izguba krvi in (3) izboljšava bolnikove tolerance za anemijo.</p>
+            <p>Članek analizira, koliko anemičnih bolnikov je prišlo na operacijo, pri kateri je prisotno tveganje za večjo krvavitev, v obdobju med oktobrom 2016 in oktobrom 2018, in kakšne so bile potrebe po transfuziji krvi v opazovani kirurški ustanovi. Poleg tega opisuje elemente programa PBM ter načrt za uvedbo programa v vsakdanjo klinično prakso.</p>
+         </abstract>
+         <trans-abstract xml:lang="en">
+            <title>Abstract</title>
+            <p>Transfusion after a surgical procedure elevates risk for perioperative complications, prolongs hospital stay and worsens the outcome of surgical treatment. Undefined and untreated preoperative anaemia presents an independent factor for perioperative complications and transfusion in the perioperative period. Before surgery, we must identify patients at higher risk for anaemia and adjust preoperative preparation, surgical technique and postoperative treatment accordingly.</p>
+            <p>The “Patient Blood Management” (PBM) programme is established in many European countries and supported by a directorate of the European Commission. It is concerned with the treatment of anemia, optimization of haemostasis and measures to reduce the need for blood transfusion. The three pillars of PBM are: (1) optimal haematopoiesis, (2) reduced iatrogenic blood loss and (3) improved patients’ tolerance for anaemia.</p>
+            <p>In this article we analyse the proportion of patients that came for surgery to the observed surgical institution in an anaemic state in a two-year period and how many of them needed blood transfusion. We also describe the foundations of the PBM program and a plan to implement it in everyday clinical practice</p>
+         </trans-abstract>
+         <kwd-group xml:lang="sl">
+            <kwd>transfuzija</kwd>
+            <kwd>anemija pred operacijo</kwd>
+            <kwd>izguba krvi</kwd>
+            <kwd>priprava na operacijo</kwd>
+            <kwd>optimiziranje hematopoeze</kwd>
+         </kwd-group>
+         <kwd-group xml:lang="en">
+            <kwd>transfusion</kwd>
+            <kwd>preoperative anaemia</kwd>
+            <kwd>blood loss</kwd>
+            <kwd>preoperative preparation</kwd>
+            <kwd>haematopoiesis optimisation</kwd>
+         </kwd-group>
+      </article-meta>
+   </front>
+   <body>
+      <sec id="s1" sec-type="Uvod">
+         <label>1</label>
+         <title>Uvod</title>
+         <p>Transfuzija po kirurškem posegu poveča tveganje za zaplete po njem, podaljša bolnišnično zdravljenje in poslabša izid kirurškega zdravljenja (<xref ref-type="bibr" rid="b1">1</xref>). To še posebno velja za bolnike, ki so operirani zaradi maligne bolezni (<xref ref-type="bibr" rid="b2">2</xref>). Neopredeljena in nezdravljena anemija pred operacijo je neodvisni napovedni dejavnik za zaplete in potrebo po transfuziji v obdobju ob operaciji (<xref ref-type="bibr" rid="b3">3</xref>). Pred operacijo moramo odkriti bolnike, pri katerih je tveganje za transfuzijo krvi večje ter zanje prilagoditi pripravo na operacijo, kirurško tehniko in zdravljenje po operaciji.</p>
+         <p>Zdravstvena ustanova <italic>Kirurgija Bitenc</italic> predstavlja pljučne in urološke operacije, pri katerih je lahko izguba krvi večja od 500 ml, zaradi česar je tveganje za transfuzijo krvi večje. Da bi izboljšali rezultate kirurškega zdravljenja in zmanjšali tveganje za potrebo transfuzije eritrocitov, smo se v letu 2019 po vzoru številnih centrov v Evropi in svetu (<xref ref-type="bibr" rid="b4">4</xref>) odločili, da pričnemo uvajati program Skrb za bolnikovo kri (<italic>angl.</italic> Patient blood management, PBM). V prispevku opisujemo program PBM in naše dosedanje izkušnje.</p>
+      </sec>
+      <sec id="s2" sec-type="Program Skrb za bolnikovo kri">
+         <label>2</label>
+         <title>Program Skrb za bolnikovo kri</title>
+         <p>Program PBM se usmerja v zmanjševanje potrebe po transfuziji koncentriranih eritrocitov z vsemi ukrepi pri bolniku: zdravljenje anemije, optimiziranje hemostaze, zmanjšanje iatrogene izgube krvi in izboljšanje bolnikove tolerance za anemijo (<xref ref-type="bibr" rid="b5">5</xref>). V središču dogajanja je bolnik, ne varna transfuzija krvi! Zato smo PBM slovensko poimenovali ob posvetovanju z zdravniki in prevajalci »Skrb za bolnikovo kri«.</p>
+         <p>Gre za koncept zdravljenja, pri katerem se za vsakega bolnika skrbi celovito, multidisciplinarno in individualizirano, da bi najboljše deloval njegov hematopoetski sistem (<xref ref-type="bibr" rid="b6">6</xref>,<xref ref-type="bibr" rid="b7">7</xref>).</p>
+         <p>V Republiki Sloveniji program PBM ni nov, opisan je že leta 2015 v Zdravniškem vestniku, v katerem so avtorji navedli elemente treh stebrov PBM (<xref ref-type="bibr" rid="b8">8</xref>). Promocijo programa v Evropi so prevzele stanovske strokovne organizacije. To so predvsem tiste, ki združujejo specialiste anesteziologije in intenzivne medicine (<xref ref-type="bibr" rid="b9">9</xref>). Vsi strokovnjaki na tem področju se strinjajo, da je skrajni čas, da se program uvede v klinično prakso. Priporočila, ki olajšajo uvedbo v klinično prakso, je leta 2018 podal tudi Direktorat za zdravje in hrano Evropske komisije (<xref ref-type="bibr" rid="b6">6</xref>).</p>
+      </sec>
+      <sec id="s3"
+           sec-type="Prvi steber programa PBM je zdravljenje anemije in pomanjkanja železa pred operacijo">
+         <label>3</label>
+         <title>Prvi steber programa PBM je zdravljenje anemije in pomanjkanja železa pred operacijo</title>
+         <p>Prvi steber programa PBM vsebuje postopke, usmerjene v optimiziranje koncentracije hemoglobina v krvi oz. zdravljenje anemije pred operacijo. Prevalenca anemije pred operacijo se ocenjuje na 5–75 % in je odvisna od vrste operacije in definicije anemije (<xref ref-type="bibr" rid="b10">10</xref>).</p>
+         <p>Svetovna zdravstvena organizacija (SZO) je slabokrvnost opredelila kot vrednost hemoglobina (Hb) pri moških pod 130 g/l in pri ženskah pod 120 g/l (<xref ref-type="bibr" rid="b11">11</xref>). Strokovnjaki, ki se ukvarjajo z anemijo ob operaciji, pa menijo, da bi bilo treba definicijo anemije pred operacijo spremeniti oz. poenotiti ne glede na spol. Tako pri moških kot pri ženskah naj bi bila definicija anemije pred operacijo vrednost Hb pod 130 g/l (<xref ref-type="bibr" rid="b12">12</xref>). Vzrokov za slabokrvnost je več, a v obdobju ob operaciji je anemija zaradi pomanjkanja železa najpogostejša (<xref ref-type="bibr" rid="b13">13</xref>). Pomanjkanje železa je lahko absolutno ali funkcionalno (<xref ref-type="bibr" rid="b14">14</xref>). Kadar so zmanjšane zaloge železa v telesu, govorimo o absolutnem pomanjkanju, zaradi česar je prisotna mikrocitna anemija. Pri funkcionalnem pomanjkanju železa pa so njegove zaloge v telesu zadostne. Zaradi stanja kroničnega vnetja ob avtoimunskih boleznih, kroničnih okužbah, malignomih ali drugih sodobnih kroničnih boleznih, se poveča koncentracija regulacijskega hormona hepcidina, ki prepreči absorbiranje železa iz prebavil ter njegov prenos iz zalog v jetrih in makrofagih (<xref ref-type="bibr" rid="b15">15</xref>). Sledi zmanjšanje eritropoeze v kostnem mozgu. Na podlagi laboratorijskih izvidov lahko anemijo pred operacijo pri bolniku opredelimo in ustrezno zdravimo. Anemijo zaradi pomanjkanja železa je treba zdraviti s pripravki železa. Če je dovolj časa do operacije, če ni stanja kroničnega vnetja in je absorpcija železa iz prebavil zadostna, lahko predpišemo jemanje železa v obliki tablet. Za tak način zdravljenja anemije pa moramo imeti vsaj 6 tednov časa. Če pred operacijo ni na voljo toliko časa, oz. stanje bolnika ne omogoča zadostne absorpcije, dajemo železo intravensko. Za ugotovitev vzroka anemije moramo poleg krvne slike določiti tudi koncentracijo feritina, nasičenost transferina ter kazalce vnetja, kot je CRP. Če ne gre za očitno mikrocitno anemijo, določimo še vitamin B12, folno kislino in preverimo delovanje ščitnice. Po potrebi se posvetujemo s konziliarnim hematologom. Glede na laboratorijske izvide se odločimo za ustrezno nadomestno zdravljenje.</p>
+         <p>Leta 2017 so objavili mednarodni dogovor o obravnavi slabokrvnosti in pomanjkanju železa ob operaciji (<xref ref-type="bibr" rid="b16">16</xref>). V določenih primerih se poleg nadomeščanja železa odločimo za zdravljenje z eritropoetinom, ko pretehtamo nevarnost tveganja za trombembolične zaplete oz. vpliv na rast tumorjev (<xref ref-type="bibr" rid="b17">17</xref>). Redkeje je vzrok za slabokrvnost pomanjkanje folne kisline, vitamina B12 ali pa hipotiroza. Slabokrvnost je bolj pogosta pri starejših kot pri mlajših bolnikih in jo je pri starostnikih običajno teže opredeliti in zdraviti, saj lahko gre za preplet več dejavnikov (<xref ref-type="bibr" rid="b15">15</xref>,<xref ref-type="bibr" rid="b18">18</xref>). Anemijo je potrebno zdraviti tudi v obdobju po operaciji.</p>
+      </sec>
+      <sec id="s4"
+           sec-type="Drugi steber programa PBM je zmanjšanje izgube krvi med operacijo in po njej">
+         <label>4</label>
+         <title>Drugi steber programa PBM je zmanjšanje izgube krvi med operacijo in po njej</title>
+         <p>V obdobju pred operacijo moramo odkriti bolnike, pri katerih je tveganje za krvavitev večje. Glavna pomoč pri tem je dobra anamneza. Iz anamneze lahko povzamemo, ali je bolnik po morebitni predhodni operaciji ali poškodbi bolj krvavel, ali imajo ženske obilnejše menstruacijske krvavitve oz. ali imajo družinski člani motnjo strjevanja krvi. Po mnenju nekaterih strokovnjakov naj ne bi bolniki, ki nimajo nagnjenosti h krvavitvi v anamnezi, pred operacijami sploh ne potrebovali presejalnega testiranja za strjevanje krvi, saj z nepravilno izbiro in oceno preiskave brez potrebe odlagamo operacijo (<xref ref-type="bibr" rid="b19">19</xref>). Bolnikom, ki jemljejo antikoagulacijska zdravila, le-ta ukinemo oz. jih nadomestimo z nizkomolekularnim heparinom, kadar je tveganje za ishemične dogodke res veliko.</p>
+         <p>Med operacijo prilagodimo kirurško in anestezijsko tehniko. Manj invazivne kirurške tehnike, kot so laparoskopske in torakoskopske operacije, ki imajo za posledico manjšo poškodbo tkiva in manjšo krvavitev, dokazano zmanjšajo potrebo po transfuziji eritrocitov (<xref ref-type="bibr" rid="b20">20</xref>). Vzdrževanje normotermije, permisivne hipotenzije ter preprečevanje venske staze prav tako prispeva k zmanjšanju krvavitve med operacijo. Uporaba aparata za vračanje koncentriranih eritrocitov (KE) (<italic>angl.</italic> Cell saver) je upravičena le v primeru, ko je pričakovana izguba krvi več kot 1000 ml ob pogoju, da bolnik nima maligne bolezni (<xref ref-type="bibr" rid="b21">21</xref>).</p>
+         <p>V obdobju po operaciji je prav tako potrebno preprečevati visok arterijski krvni tlak, vzdrževati normalno telesno temperaturo in premišljeno predpisovati kristaloidne ali koloidne raztopine, da preprečimo hemodilucijo ter motnje strjevanja krvi (<xref ref-type="bibr" rid="b5">5</xref>).</p>
+         <p>V obdobju med operacijo in po njej se za ugotavljanje motenj strjevanja krvi ne poslužujemo več standardnih testov hemostaze, temveč, t. i. obposteljnih testov oz. viskoelastičnih testov, ki so hitri in nam podajo informacijo o nastajanju, čvrstosti in razgradnji krvnega strdka (<xref ref-type="bibr" rid="b22">22</xref>). Uporaba antifibrinolitikov, kot sta ε-aminokaproična kislina in traneksamična kislina, prispeva k zmanjšanju krvavitve med operacijo. K temu prispeva tudi uporaba topičnih lepil, ki jih kirurg nanese na še krvavečo rano oz. tkivo (<xref ref-type="bibr" rid="b20">20</xref>).</p>
+      </sec>
+      <sec id="s5"
+           sec-type="Tretji steber je izboljšava bolnikove tolerance za anemijo in restriktivni transfuzijski pristop">
+         <label>5</label>
+         <title>Tretji steber je izboljšava bolnikove tolerance za anemijo in restriktivni transfuzijski pristop</title>
+         <p>V obdobju pred operacijo je pomembno optimizirati bolnikovo zdravstveno stanje, predvsem srčno-žilni sistem in dihala. V obdobju med in po operaciji se ob pojavu slabokrvnosti osredinimo na optimiziranje minutnega volumna srca in oksigenacijo krvi, ker na ta način zagotovimo dobro tkivno oksigenacijo. Raziskave so pokazale, da transfuzija eritrocitov dolgoročno ne izboljša tkivne oksigenacije (<xref ref-type="bibr" rid="b23">23</xref>). Za transfuzijo eritrocitov se odločimo, ko se zmanjša oksigenacija tkiv, ne pa zlasti glede na laboratorijski izvid. Priporočeni prag za transfuzijo eritrocitov je vrednost Hb 70 g/l, če bolnik nima znakov zmanjšane tkivne oksigenacije in srčno-žilnih bolezni (<xref ref-type="bibr" rid="b24">24</xref>). Če je možno, vedno naročamo le po eno enoto KE/čas. Po vsaki transfuziji ene enote KE je potrebno pred naročanjem nadaljnje transfuzije ponovno oceniti bolnikovo zdravstveno stanje.</p>
+      </sec>
+      <sec id="s6"
+           sec-type="Analiza dejavnikov programa PBM in potrebe po transfuziji krvi pri bolnikih, operiranih v našem kirurškem centru, v dveletnem obdobju med oktobrom 2016 in oktobrom 2018">
+         <label>6</label>
+         <title>Analiza dejavnikov programa PBM in potrebe po transfuziji krvi pri bolnikih, operiranih v našem kirurškem centru, v dveletnem obdobju med oktobrom 2016 in oktobrom 2018</title>
+         <p>V našem kirurškem centru je pri pljučnih in uroloških operacijah tveganje za izgubo krvi v obdobju ob operaciji povečano. Za obdobje dveh let smo analizirali podatke o potrebi po transfuziji eritrocitov.</p>
+         <p>V obdobju dveh let je bilo operiranih 639 bolnikov na področju torakalne kirurgije in urologije. 413 (64,6 %) bolnikov je bilo operiranih zaradi bolezni pljuč in 226 (36,4 %) zaradi urološke bolezni. Demografski podatki, vrsta operacije ter vrednosti Hb pred operacijo so zbrani v <xref ref-type="table" rid="table1">Tabeli 1</xref>. 458 (71,7 %) bolnikov je bilo operiranih z manj invazivno kirurško tehniko, tj. videoasistirana torakoskopska kirurgija (VATS) pri pljučni operaciji oz. laparoskopska kirurgija pri urološki operaciji. 90 (14,1 %) bolnikov je imelo anemijo pred operacijo, ki smo jo opredelili kot koncentracijo Hb &lt; 130 g/l. 67 (74 %) bolnikov z anemijo je bilo operiranih z manj invazivno kirurško tehniko. Transfuzijo KE je potrebovalo 31 (4,9 %) bolnikov, od tega 7 (22,6 %) v operacijski dvorani in 24 (77,4 %) na intenzivnem oddelku po operaciji. Od bolnikov, ki so transfuzijo prejeli med operacijo, so bili pred operacijo anemični 4 (57 %) bolniki. Od bolnikov, ki so transfuzijo dobili na oddelku po operaciji, je bilo anemičnih pred operacijo 12 (50 %) bolnikov. Bolniki, ki so transfuzijo KE prejeli na oddelku, so bili v času ob prejemu transfuzije vsi anemični s povprečno vrednostjo Hb 93,7 g/l.</p>
+         <table-wrap position="anchor" id="table1">
+            <label>Tabela 1:</label>
+            <caption>
+               <p> Demografski podatki. Pri starosti in anemiji pred operacijo so navedene povprečne vrednosti, pri ASA mediana.</p>
+            </caption>
+            <table>
+               <colgroup>
+                  <col/>
+                  <col/>
+                  <col/>
+                  <col/>
+               </colgroup>
+               <thead>
+                  <tr>
+                     <th/>
+                     <th>Skupaj</th>
+                     <th>Moški</th>
+                     <th>Ženske</th>
+                  </tr>
+               </thead>
+               <tbody>
+                  <tr>
+                     <td>Operacije s povečanim tveganjem za krvavitev</td>
+                     <td align="right">639</td>
+                     <td align="right">429 (67,1 %)</td>
+                     <td align="right">210 (32,9 %)</td>
+                  </tr>
+                  <tr>
+                     <td>Starost (leta)</td>
+                     <td align="right">67</td>
+                     <td align="right">66</td>
+                     <td align="right">70</td>
+                  </tr>
+                  <tr>
+                     <td>ASA</td>
+                     <td align="right">2</td>
+                     <td align="right">2</td>
+                     <td align="right">2</td>
+                  </tr>
+                  <tr>
+                     <td>Pljučne operacije</td>
+                     <td align="right">413</td>
+                     <td align="right">215</td>
+                     <td align="right">198</td>
+                  </tr>
+                  <tr>
+                     <td>Urološke operacije</td>
+                     <td align="right">226</td>
+                     <td align="right">214</td>
+                     <td align="right">12</td>
+                  </tr>
+                  <tr>
+                     <td>Anemija pred operacijo (Hb &lt; 130 g/l)</td>
+                     <td align="right">90</td>
+                     <td align="right">40 (44 %)</td>
+                     <td align="right">50 (56 %)</td>
+                  </tr>
+               </tbody>
+            </table>
+            <table-wrap-foot>
+               <p>ASA – ocena tveganja pred operacijo po Ameriškem združenju anesteziologov.</p>
+            </table-wrap-foot>
+         </table-wrap>
+      </sec>
+      <sec id="s7" sec-type="Uvajanje programa PBM">
+         <label>7</label>
+         <title>Uvajanje programa PBM</title>
+         <p>Glede na priporočila strokovnih združenj (<xref ref-type="bibr" rid="b9">9</xref>) ter Direktorata Evropske komisije za zdravje in zdravo hrano (<xref ref-type="bibr" rid="b6">6</xref>) smo se v opazovani kirurški ustanovi odločili, da v letu 2019 pričnemo uvajati program PBM v klinično prakso.</p>
+         <p>Z analizo bolnikov, ki so bili v zadnjih dveh letih operirani zaradi pljučne ali urološke bolezni, pri katerih se pričakuje večja izguba krvi, smo ugotovili, da je bilo 14,1 % bolnikov pred operacijo anemičnih. Pri nobenemu bolniku pa anemija pred operacijo ni bila natančneje opredeljena in tudi je niso ustrezno zdravili. Transfuzijo KE je med operacijo ali po njej potrebovalo več kot 50 % teh bolnikov, ki so imeli anemijo že pred operacijo.</p>
+         <p>Prvi steber: Najpomembnejši ukrep za uvajanje programa PBM je optimiziranje koncentracije hemoglobina pred operacijo. Bolnike, ki so predvideni za pljučno operacijo v opazovanem kirurškem centru, obravnavajo in pripravijo pulmologi z Univerzitetne klinike za pljučne bolezni in alergije Golnik. Po dogovoru bodo pri bolnikih s koncentracijo Hb &lt; 130 g/l anemijo opredelili in ustrezno zdravili (<xref ref-type="fig" rid="fig1">Slika 1</xref>) (<xref ref-type="bibr" rid="b25">25</xref>). Bolnike, predvidene za urološko operacijo, pregleda pred operacijo urolog. Urolog bo prav tako ob anemiji sprožil diagnostični postopek za opredelitev anemije. V obdobju pred operacijo bomo poleg zdravljenja anemije pozorni na optimiziranje bolnikovega zdravstvenega stanja s poudarkom na srčno-žilnem sistemu in delovanju pljuč. Če bolnik jemlje antikoagulacijska in antiagregacijska zdravila, jih bomo ukinili ter jih nadomestili s kratkodelujočimi učinkovinami po smernicah za vodenje antikoagulacijskega zdravljenja (<xref ref-type="bibr" rid="b26">26</xref>). Ker so bolniki v opazovani kirurški ustanovi v veliki večini operirani zaradi rakave bolezni, priprava pred posegom ne sme podaljšati časa čakanja na operacijo.</p>
+         <fig position="anchor" id="fig1">
+            <label>Slika 1:</label>
+            <caption>
+               <p> Algoritem odkrivanja in zdravljenja anemije pred operacijo (<xref ref-type="bibr" rid="b25">25</xref>).</p>
+            </caption>
+            <p>
+               <graphic xlink:href="2946-web-resources/image/zdravvestn-2946-sl-01.png"/>
+            </p>
+         </fig>
+         <p>Drugi steber: Glede na našo analizo je večina bolnikov že do sedaj operirana z manj invazivno kirurško tehniko. V standardnem postopku je že uvedeno vzdrževanje normalne telesne temperature, zmanjševanje venske staze in preprečevanje arterijske hipertenzije. Vsem bolnikom, predvidenim za pljučno operacijo, in večini bolnikov, ki bodo operirani zaradi urološke bolezni, invazivno merimo arterijski krvni tlak med operacijo in v zgodnjem obdobju po njej. Uporaba naprave cell saver med operacijo rakave bolezni ni priporočena.</p>
+         <p>Ker v opazovani ustanovi prav tako kot v nekaterih drugih kirurških centrih v Sloveniji nimamo možnosti uporabe viskoelastičnih testov za ugotavljanje motenj strjevanja krvi, se bomo še naprej zanašali na anamnezo, klinično sliko in standardne teste strjevanja krvi. Po operaciji bomo uvedli profilaktično antikoagulacijsko zdravljenje po priporočilih Slovenskega zdravniškega društva (<xref ref-type="bibr" rid="b26">26</xref>).</p>
+         <p>Tretji steber: Za transfuzijo krvi se bomo odločili pri bolnikih, pri katerih bomo ugotovili vrednost Hb pod 70 g/l, oz. pri vrednosti 70–80 g/l, če bomo ugotovili, da so ob anemiji prisotni znaki nezadostne tkivne perfuzije (<xref ref-type="bibr" rid="b27">27</xref>). Če se bo lečeči zdravnik odločil za transfuzijo KE ob vrednosti Hb &gt; 80 g/l, bo na Obrazcu za odločanje za transfuzijo napisal obrazložitev za to odločitev. Ob tem bomo upoštevali bolnikovo starost in spremljajoče bolezni. Zdravnik bo odločitev za transfuzijo utemeljil na obrazcu (<xref ref-type="fig" rid="fig2">Slika 2</xref>). Pri bolnikih, pri katerih bo v obdobju med in po operaciji izguba krvi več kot 300 ml, bomo ponovili laboratorijske preiskave za ugotavljanje morebitne anemije, sicer pa se bomo v obdobju ob operaciji izogibali čezmernim laboratorijskim preiskavam in tudi s tem ukrepom zmanjšali izgubo krvi.</p>
+         <fig position="anchor" id="fig2">
+            <label>Slika 2:</label>
+            <caption>
+               <p> Obrazec odločanja za transfuzijo (<xref ref-type="bibr" rid="b27">27</xref>)..</p>
+            </caption>
+            <p>
+               <graphic xlink:href="2946-web-resources/image/zdravvestn-2946-sl-02.png"/>
+            </p>
+         </fig>
+         <p>Ob anemiji zaradi pomanjkanja železa bomo uvedli ustrezno zdravljenje. O načrtu zdravljenja anemije po odpustu bomo obvestili družinske zdravnike z zapisom v odpustnici.</p>
+      </sec>
+      <sec id="s8" sec-type="Zaključek">
+         <label>8</label>
+         <title>Zaključek</title>
+         <p>Z raziskavami je bilo dokazano, da je anemija pred operacijo samostojen napovedni dejavnik za slabši izid kirurškega zdravljenja tudi pri bolnikih, ki niso potrebovali transfuzije. Opredelitev anemije pred operacijo in ustrezno zdravljenje je prvi in najpomembnejši element PBM, sledi ustrezna hemostaza in restriktivni transfuzijski pristop z optimiziranjem bolnikovega stanja.</p>
+         <p>Evropsko združenje anesteziologov (<italic>angl.</italic> European Society of Anesthesiology, ESA) si je kot enega izmed ciljev zastavilo, da bi čim več bolnišnic uvedlo program PBM. Temu razmišljanju moramo slediti tudi v Sloveniji. V sodelovanju s Slovenskim združenjem anesteziologov smo se v izbranem kirurškem centru odločili za uvedbo tega programa v letu 2019. Program PBM bo zagotovil boljšo kakovost in večjo varnost obravnave bolnikov, kar bomo v naslednjih letih potrdili s prospektivnim zbiranjem in analizo podatkov.</p>
+         <p>Natančna opredelitev in zdravljenje anemije pred operacijo bo glavni korak naše uvedbe programa. Večina elementov iz drugega stebra programa PBM je že del standardne obravnave bolnikov ob operaciji. Pri odločitvi o transfuziji KE je poleg laboratorijskih vrednosti pomembno upoštevati tudi bolnikovo klinično stanje, zato bomo uvedli obrazec za pomoč pri odločanju.</p>
+         <p>Za uvedbo programa PBM je potreben multidisciplinarni pristop, zato bodo pri izvajanju programa poleg anesteziologov in kirurgov sodelovali tudi drugi specialisti.</p>
+      </sec>
+   </body>
+   <back>
+      <ref-list>
+         <ref id="b1">
+            <label>1. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Fowler</surname>
+                     <given-names>AJ</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Ahmad</surname>
+                     <given-names>T</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Phull</surname>
+                     <given-names>MK</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Allard</surname>
+                     <given-names>S</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Gillies</surname>
+                     <given-names>MA</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Pearse</surname>
+                     <given-names>RM</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Meta-analysis of the association between preoperative anaemia and mortality after surgery</article-title>. 
+                    <source>Br J Surg</source>. 
+                    <year>2015</year>
+                    <month>Oct</month>;
+                    <volume>102</volume>(
+                    <issue>11</issue>):
+                    <fpage>1314</fpage>–
+                    <lpage>24</lpage>. 
+                    <pub-id pub-id-type="doi">10.1002/bjs.9861</pub-id>
+                    <pub-id pub-id-type="pmid">26349842</pub-id>
+                    <issn>0007-1323</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b2">
+            <label>2. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Atzil</surname>
+                     <given-names>S</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Arad</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Glasner</surname>
+                     <given-names>A</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Abiri</surname>
+                     <given-names>N</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Avraham</surname>
+                     <given-names>R</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Greenfeld</surname>
+                     <given-names>K</given-names>
+                  </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>Blood transfusion promotes cancer progression: a critical role for aged erythrocytes</article-title>. 
+                    <source>Anesthesiology</source>. 
+                    <year>2008</year>
+                    <month>Dec</month>;
+                    <volume>109</volume>(
+                    <issue>6</issue>):
+                    <fpage>989</fpage>–
+                    <lpage>97</lpage>. 
+                    <pub-id pub-id-type="doi">10.1097/ALN.0b013e31818ddb72</pub-id>
+                    <pub-id pub-id-type="pmid">19034095</pub-id>
+                    <issn>0003-3022</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b3">
+            <label>3. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Muñoz</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Gómez-Ramírez</surname>
+                     <given-names>S</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Campos</surname>
+                     <given-names>A</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Ruiz</surname>
+                     <given-names>J</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Liumbruno</surname>
+                     <given-names>GM</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Pre-operative anaemia: prevalence, consequences and approaches to management</article-title>. 
+                    <source>Blood Transfus</source>. 
+                    <year>2015</year>
+                    <month>Jul</month>;
+                    <volume>13</volume>(
+                    <issue>3</issue>):
+                    <fpage>370</fpage>–
+                    <lpage>9</lpage>.
+                    <pub-id pub-id-type="pmid">26192787</pub-id>
+                    <issn>2385-2070</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b4">
+            <label>4. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Mueller</surname>
+                     <given-names>MM</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Van Remoortel</surname>
+                     <given-names>H</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Meybohm</surname>
+                     <given-names>P</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Aranko</surname>
+                     <given-names>K</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Aubron</surname>
+                     <given-names>C</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Burger</surname>
+                     <given-names>R</given-names>
+                  </name>, 
+                        <etal>et al</etal>; 
+                        <collab>ICC PBM Frankfurt 2018 Group</collab>
+                    </person-group>. 
+                    <article-title>Patient Blood Management: Recommendations From the 2018 Frankfurt Consensus Conference</article-title>. 
+                    <source>JAMA</source>. 
+                    <year>2019</year>
+                    <month>Mar</month>;
+                    <volume>321</volume>(
+                    <issue>10</issue>):
+                    <fpage>983</fpage>–
+                    <lpage>97</lpage>. 
+                    <pub-id pub-id-type="doi">10.1001/jama.2019.0554</pub-id>
+                    <pub-id pub-id-type="pmid">30860564</pub-id>
+                    <issn>0098-7484</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b5">
+            <label>5. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Meybohm</surname>
+                     <given-names>P</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Richards</surname>
+                     <given-names>T</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Isbister</surname>
+                     <given-names>J</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Hofmann</surname>
+                     <given-names>A</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Shander</surname>
+                     <given-names>A</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Goodnough</surname>
+                     <given-names>LT</given-names>
+                  </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>Patient Blood Management Bundles to Facilitate Implementation</article-title>. 
+                    <source>Transfus Med Rev</source>. 
+                    <year>2017</year>
+                    <month>Jan</month>;
+                    <volume>31</volume>(
+                    <issue>1</issue>):
+                    <fpage>62</fpage>–
+                    <lpage>71</lpage>. 
+                    <pub-id pub-id-type="doi">10.1016/j.tmrv.2016.05.012</pub-id>
+                    <pub-id pub-id-type="pmid">27317382</pub-id>
+                    <issn>0887-7963</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b6">
+            <label>6. </label>
+            <mixed-citation publication-type="book">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Gombotz</surname>
+                     <given-names>H</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Hofmann</surname>
+                     <given-names>A</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Norgaard</surname>
+                     <given-names>A</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Kastner</surname>
+                     <given-names>P</given-names>
+                  </name>
+                    </person-group>. 
+                    <source>Supporting Patient Blood Management (PBM) in the EU - A Practical Implementation Guide for Hospitals 2017</source>. 
+                    <publisher-loc>Luxemburg</publisher-loc>:
+                    <publisher-name>Publications Office of the European Union</publisher-name>; 
+                    <year>2017</year>. pp. 
+                    <fpage>3</fpage>–
+                    <lpage>67</lpage>. 
+                </mixed-citation>
+         </ref>
+         <ref id="b7">
+            <label>7. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Althoff</surname>
+                     <given-names>FC</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Neb</surname>
+                     <given-names>H</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Herrmann</surname>
+                     <given-names>E</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Trentino</surname>
+                     <given-names>KM</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Vernich</surname>
+                     <given-names>L</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Füllenbach</surname>
+                     <given-names>C</given-names>
+                  </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>Multimodal Patient Blood Management Program Based on a Three-pillar Strategy: A Systematic Review and Meta-analysis</article-title>. 
+                    <source>Ann Surg</source>. 
+                    <year>2019</year>
+                    <month>May</month>;
+                    <volume>269</volume>(
+                    <issue>5</issue>):
+                    <fpage>794</fpage>–
+                    <lpage>804</lpage>. 
+                    <pub-id pub-id-type="doi">10.1097/SLA.0000000000003095</pub-id>
+                    <pub-id pub-id-type="pmid">30418206</pub-id>
+                    <issn>0003-4932</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b8">
+            <label>8. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Poženel</surname>
+                     <given-names>P</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Zver</surname>
+                     <given-names>S</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Nikolić</surname>
+                     <given-names>B</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Rožman</surname>
+                     <given-names>P</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Klinično vodenje transfuzije - sodobni pristopi za optimizacijo transfuzije</article-title>. 
+                    <source>Zdrav Vestn</source>. 
+                    <year>2015</year>;
+                    <volume>84</volume>(
+                    <issue>11</issue>):
+                    <fpage>743</fpage>–
+                    <lpage>56</lpage>. 
+                    <pub-id pub-id-type="doi">10.6016/ZdravVestn.1357</pub-id>
+                    <issn>0350-0063</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b9">
+            <label>9. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Shander</surname>
+                     <given-names>A</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Van Aken</surname>
+                     <given-names>H</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Colomina</surname>
+                     <given-names>MJ</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Gombotz</surname>
+                     <given-names>H</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Hofmann</surname>
+                     <given-names>A</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Krauspe</surname>
+                     <given-names>R</given-names>
+                  </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>Patient blood management in Europe</article-title>. 
+                    <source>Br J Anaesth</source>. 
+                    <year>2012</year>
+                    <month>Jul</month>;
+                    <volume>109</volume>(
+                    <issue>1</issue>):
+                    <fpage>55</fpage>–
+                    <lpage>68</lpage>. 
+                    <pub-id pub-id-type="doi">10.1093/bja/aes139</pub-id>
+                    <pub-id pub-id-type="pmid">22628393</pub-id>
+                    <issn>0007-0912</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b10">
+            <label>10. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Patel</surname>
+                     <given-names>MS</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Carson</surname>
+                     <given-names>JL</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Anemia in the preoperative patient</article-title>. 
+                    <source>Anesthesiol Clin</source>. 
+                    <year>2009</year>
+                    <month>Dec</month>;
+                    <volume>27</volume>(
+                    <issue>4</issue>):
+                    <fpage>751</fpage>–
+                    <lpage>60</lpage>. 
+                    <pub-id pub-id-type="doi">10.1016/j.anclin.2009.09.009</pub-id>
+                    <pub-id pub-id-type="pmid">19942178</pub-id>
+                    <issn>1932-2275</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b11">
+            <label>11. </label>
+            <mixed-citation publication-type="webpage">
+                    <person-group person-group-type="author">
+                        <collab>WHO</collab>
+                    </person-group>. 
+                    <source>Haemoglobin concentrations for the diagnosis of anaemia and assessment of severity</source>. 
+                    <year>2011</year>.
+                    [<date-in-citation content-type="access-date">cited 2019 Jan 20</date-in-citation>]. 
+                    <comment>Available from:<uri>http://www.who.int/vmnis/indicators/haemoglobin.pdf</uri>
+               </comment>.
+                </mixed-citation>
+         </ref>
+         <ref id="b12">
+            <label>12. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Muñoz</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Gómez-Ramírez</surname>
+                     <given-names>S</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Kozek-Langeneker</surname>
+                     <given-names>S</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Shander</surname>
+                     <given-names>A</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Richards</surname>
+                     <given-names>T</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Pavía</surname>
+                     <given-names>J</given-names>
+                  </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>‘Fit to fly’: overcoming barriers to preoperative haemoglobin optimization in surgical patients</article-title>. 
+                    <source>Br J Anaesth</source>. 
+                    <year>2015</year>
+                    <month>Jul</month>;
+                    <volume>115</volume>(
+                    <issue>1</issue>):
+                    <fpage>15</fpage>–
+                    <lpage>24</lpage>. 
+                    <pub-id pub-id-type="doi">10.1093/bja/aev165</pub-id>
+                    <pub-id pub-id-type="pmid">26089443</pub-id>
+                    <issn>0007-0912</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b13">
+            <label>13. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Kassebaum</surname>
+                     <given-names>NJ</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Jasrasaria</surname>
+                     <given-names>R</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Naghavi</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Wulf</surname>
+                     <given-names>SK</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Johns</surname>
+                     <given-names>N</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Lozano</surname>
+                     <given-names>R</given-names>
+                  </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>A systematic analysis of global anemia burden from 1990 to 2010</article-title>. 
+                    <source>Blood</source>. 
+                    <year>2014</year>
+                    <month>Jan</month>;
+                    <volume>123</volume>(
+                    <issue>5</issue>):
+                    <fpage>615</fpage>–
+                    <lpage>24</lpage>. 
+                    <pub-id pub-id-type="doi">10.1182/blood-2013-06-508325</pub-id>
+                    <pub-id pub-id-type="pmid">24297872</pub-id>
+                    <issn>0006-4971</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b14">
+            <label>14. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Shander</surname>
+                     <given-names>A</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Javidroozi</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Ozawa</surname>
+                     <given-names>S</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Hare</surname>
+                     <given-names>GM</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>What is really dangerous: anaemia or transfusion?</article-title>
+                    <source>Br J Anaesth</source>. 
+                    <year>2011</year>
+                    <month>Dec</month>;
+                    <volume>107</volume>(
+                    <issue>1</issue>
+                    <supplement>Suppl 1</supplement>):
+                    <fpage>i41</fpage>–
+                    <lpage>59</lpage>. 
+                    <pub-id pub-id-type="doi">10.1093/bja/aer350</pub-id>
+                    <pub-id pub-id-type="pmid">22156270</pub-id>
+                    <issn>0007-0912</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b15">
+            <label>15. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Steinbicker</surname>
+                     <given-names>AU</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Role of anesthesiologists in managing perioperative anemia</article-title>. 
+                    <source>Curr Opin Anaesthesiol</source>. 
+                    <year>2019</year>
+                    <month>Feb</month>;
+                    <volume>32</volume>(
+                    <issue>1</issue>):
+                    <fpage>64</fpage>–
+                    <lpage>71</lpage>. 
+                    <pub-id pub-id-type="doi">10.1097/ACO.0000000000000671</pub-id>
+                    <pub-id pub-id-type="pmid">30531608</pub-id>
+                    <issn>0952-7907</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b16">
+            <label>16. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Muñoz</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Acheson</surname>
+                     <given-names>AG</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Auerbach</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Besser</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Habler</surname>
+                     <given-names>O</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Kehlet</surname>
+                     <given-names>H</given-names>
+                  </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>International consensus statement on the peri-operative management of anaemia and iron deficiency</article-title>. 
+                    <source>Anaesthesia</source>. 
+                    <year>2017</year>
+                    <month>Feb</month>;
+                    <volume>72</volume>(
+                    <issue>2</issue>):
+                    <fpage>233</fpage>–
+                    <lpage>47</lpage>. 
+                    <pub-id pub-id-type="doi">10.1111/anae.13773</pub-id>
+                    <pub-id pub-id-type="pmid">27996086</pub-id>
+                    <issn>0003-2409</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b17">
+            <label>17. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Alghamdi</surname>
+                     <given-names>AA</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Albanna</surname>
+                     <given-names>MJ</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Guru</surname>
+                     <given-names>V</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Brister</surname>
+                     <given-names>SJ</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Does the use of erythropoietin reduce the risk of exposure to allogeneic blood transfusion in cardiac surgery? A systematic review and meta-analysis</article-title>. 
+                    <source>J Card Surg</source>. 
+                    <year>2006</year>
+                    <month>May-Jun</month>;
+                    <volume>21</volume>(
+                    <issue>3</issue>):
+                    <fpage>320</fpage>–
+                    <lpage>6</lpage>. 
+                    <pub-id pub-id-type="doi">10.1111/j.1540-8191.2006.00241.x</pub-id>
+                    <pub-id pub-id-type="pmid">16684074</pub-id>
+                    <issn>0886-0440</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b18">
+            <label>18. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Wawer</surname>
+                     <given-names>AA</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Jennings</surname>
+                     <given-names>A</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Fairweather-Tait</surname>
+                     <given-names>SJ</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Iron status in the elderly: A review of recent evidence</article-title>. 
+                    <source>Mech Ageing Dev</source>. 
+                    <year>2018</year>
+                    <month>Oct</month>;
+                    <volume>175</volume>:
+                    <fpage>55</fpage>–
+                    <lpage>73</lpage>. 
+                    <pub-id pub-id-type="doi">10.1016/j.mad.2018.07.003</pub-id>
+                    <pub-id pub-id-type="pmid">30040993</pub-id>
+                    <issn>0047-6374</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b19">
+            <label>19. </label>
+            <mixed-citation publication-type="webpage">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Zehnder</surname>
+                     <given-names>JL</given-names>
+                  </name>
+                    </person-group>. 
+                    <source>Clinical use of coagulation tests</source>.
+                    <year>2019</year>.
+                    [<date-in-citation content-type="access-date">cited 2019 Mar 21</date-in-citation>].
+                    <comment>Available from:<uri>https://www.uptodate.com/contents/clinical-use-of-coagulation-tests</uri>
+               </comment>.
+                </mixed-citation>
+         </ref>
+         <ref id="b20">
+            <label>20. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Desai</surname>
+                     <given-names>N</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Schofield</surname>
+                     <given-names>N</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Richards</surname>
+                     <given-names>T</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Perioperative patient blood management to improve outcome</article-title>. 
+                    <source>Anesth Analg</source>. 
+                    <year>2018</year>
+                    <month>Nov</month>;
+                    <volume>127</volume>(
+                    <issue>5</issue>):
+                    <fpage>1211</fpage>–
+                    <lpage>20</lpage>. 
+                    <pub-id pub-id-type="doi">10.1213/ANE.0000000000002549</pub-id>
+                    <pub-id pub-id-type="pmid">29064875</pub-id>
+                    <issn>0003-2999</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b21">
+            <label>21. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Carless</surname>
+                     <given-names>PA</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Henry</surname>
+                     <given-names>DA</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Moxey</surname>
+                     <given-names>AJ</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>O’Connell</surname>
+                     <given-names>D</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Brown</surname>
+                     <given-names>T</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Fergusson</surname>
+                     <given-names>DA</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Cell salvage for minimising perioperative allogeneic blood transfusion</article-title>. 
+                    <source>Cochrane Database Syst Rev</source>. 
+                    <year>2010</year>
+                    <month>Mar</month>;
+                    <volume>17</volume>(
+                    <issue>3</issue>):
+                    <fpage>CD001888</fpage>. 
+                    <pub-id pub-id-type="doi">10.1002/14651858.CD001888.pub3</pub-id>
+                    <pub-id pub-id-type="pmid">20238316</pub-id>
+                    <issn>1469-493X</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b22">
+            <label>22. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Whiting</surname>
+                     <given-names>D</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>DiNardo</surname>
+                     <given-names>JA</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>TEG and ROTEM: technology and clinical applications</article-title>. 
+                    <source>Am J Hematol</source>. 
+                    <year>2014</year>
+                    <month>Feb</month>;
+                    <volume>89</volume>(
+                    <issue>2</issue>):
+                    <fpage>228</fpage>–
+                    <lpage>32</lpage>. 
+                    <pub-id pub-id-type="doi">10.1002/ajh.23599</pub-id>
+                    <pub-id pub-id-type="pmid">24123050</pub-id>
+                    <issn>0361-8609</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b23">
+            <label>23. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Tsai</surname>
+                     <given-names>AG</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Cabrales</surname>
+                     <given-names>P</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Intaglietta</surname>
+                     <given-names>M</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Microvascular perfusion upon exchange transfusion with stored red blood cells in normovolemic anemic conditions</article-title>. 
+                    <source>Transfusion</source>. 
+                    <year>2004</year>
+                    <month>Nov</month>;
+                    <volume>44</volume>(
+                    <issue>11</issue>):
+                    <fpage>1626</fpage>–
+                    <lpage>34</lpage>. 
+                    <pub-id pub-id-type="doi">10.1111/j.0041-1132.2004.04128.x</pub-id>
+                    <pub-id pub-id-type="pmid">15504169</pub-id>
+                    <issn>0041-1132</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b24">
+            <label>24. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Padhi</surname>
+                     <given-names>S</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Kemmis-Betty</surname>
+                     <given-names>S</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Rajesh</surname>
+                     <given-names>S</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Hill</surname>
+                     <given-names>J</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Murphy</surname>
+                     <given-names>MF</given-names>
+                  </name>; 
+                        <collab>Guideline Development Group</collab>
+                    </person-group>. 
+                    <article-title>Blood transfusion: summary of NICE guidance</article-title>. 
+                    <source>BMJ</source>. 
+                    <year>2015</year>
+                    <month>Nov</month>;
+                    <volume>351</volume>
+                    <supplement>nov18 2</supplement>:
+                    <fpage>h5832</fpage>. 
+                    <pub-id pub-id-type="doi">10.1136/bmj.h5832</pub-id>
+                    <pub-id pub-id-type="pmid">26581483</pub-id>
+                    <issn>0959-8138</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b25">
+            <label>25. </label>
+            <mixed-citation publication-type="conference">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Preložnik Zupan</surname>
+                     <given-names>I</given-names>
+                  </name>
+                    </person-group>. 
+                    <source>Pomen predoperativne anemije</source>. In: 
+                    <conf-name>21. Schrottovi dnevi. Zbornik predavanj</conf-name>.
+                    <conf-date>2019</conf-date>;
+                    <conf-loc>Ljubljana</conf-loc>. pp.
+                    <fpage>61</fpage>-
+                    <lpage>5</lpage>.
+                </mixed-citation>
+         </ref>
+         <ref id="b26">
+            <label>26. </label>
+            <mixed-citation publication-type="book">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Mavri</surname>
+                     <given-names>A</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Vene</surname>
+                     <given-names>N</given-names>
+                  </name>
+                    </person-group>. 
+                    <source>Smernice za vodenje antikoagulacijskega zdravljenja</source>.
+                    <publisher-loc>Ljubljana</publisher-loc>:
+                    <publisher-name>Slovensko zdravniško društvo</publisher-name>;
+                    <year>2009</year>.
+                </mixed-citation>
+         </ref>
+         <ref id="b27">
+            <label>27. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Carson</surname>
+                     <given-names>JL</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Grossman</surname>
+                     <given-names>BJ</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Kleinman</surname>
+                     <given-names>S</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Tinmouth</surname>
+                     <given-names>AT</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Marques</surname>
+                     <given-names>MB</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Fung</surname>
+                     <given-names>MK</given-names>
+                  </name>, 
+                        <etal>et al</etal>; 
+                        <collab>Clinical Transfusion Medicine Committee of the AABB</collab>
+                    </person-group>. 
+                    <article-title>Red blood cell transfusion: a clinical practice guideline from the AABB*</article-title>. 
+                    <source>Ann Intern Med</source>. 
+                    <year>2012</year>
+                    <month>Jul</month>;
+                    <volume>157</volume>(
+                    <issue>1</issue>):
+                    <fpage>49</fpage>–
+                    <lpage>58</lpage>. 
+                    <pub-id pub-id-type="doi">10.7326/0003-4819-157-1-201206190-00429</pub-id>
+                    <pub-id pub-id-type="pmid">22751760</pub-id>
+                    <issn>0003-4819</issn>
+                </mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

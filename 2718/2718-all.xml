@@ -1,0 +1,3018 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD with MathML3 v1.1 20151215//EN" "JATS-journalpublishing1-mathml3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         xmlns:ali="http://www.niso.org/schemas/ali/1.0/"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         dtd-version="1.1"
+         xml:lang="sl"
+         article-type="other">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher-id">Zdrav Vestn</journal-id>
+         <journal-id journal-id-type="nlm-ta">Zdrav Vestn</journal-id>
+         <journal-id journal-id-type="doi">Zdrav Vestn</journal-id>
+         <journal-title-group>
+            <journal-title>Zdravniški vestnik</journal-title>
+            <trans-title-group xml:lang="en">
+               <trans-title>Slovenian Medical Journal</trans-title>
+            </trans-title-group>
+            <abbrev-journal-title>Zdrav Vestn</abbrev-journal-title>
+         </journal-title-group>
+         <issn publication-format="ppub" pub-type="ppub">1318-0347</issn>
+         <issn publication-format="epub" pub-type="epub">1581-0224</issn>
+         <issn-l>0350-0063</issn-l>
+         <publisher>
+            <publisher-name xml:lang="sl">Slovensko zdravniško društvo</publisher-name>
+            <publisher-name xml:lang="en">Slovenian Medical Association</publisher-name>
+            <publisher-loc xml:lang="sl">Ljubljana, Slovenia</publisher-loc>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.6016/ZdravVestn.2718</article-id>
+         <article-id pub-id-type="publisher-id">2718</article-id>
+         <article-categories>
+            <subj-group subj-group-type="discipline" xml:lang="en">
+               <subject>Medicine and health sciences</subject>
+               <subj-group>
+                  <subject>Public health (occupational medicine)</subject>
+               </subj-group>
+            </subj-group>
+            <subj-group subj-group-type="discipline" xml:lang="sl">
+               <subject>Medicina/Zdravstvo</subject>
+               <subj-group>
+                  <subject>Javno zdravstvo (varstvo pri delu)</subject>
+               </subj-group>
+            </subj-group>
+            <subj-group subj-group-type="article-type" xml:lang="en">
+               <subject>Review article</subject>
+            </subj-group>
+            <subj-group subj-group-type="article-type" xml:lang="sl">
+               <subject>Pregledni znanstveni članek</subject>
+            </subj-group>
+            <subj-group subj-group-type="heading" xml:lang="sl">
+               <subject>Javno zdravstvo (varstvo pri delu)</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title xml:lang="sl">Raziskovanje v družinski medicini v Sloveniji</article-title>
+            <trans-title-group>
+               <trans-title xml:lang="en">Research in Family Medicine in Slovenia</trans-title>
+            </trans-title-group>
+            <alt-title alt-title-type="running-head" xml:lang="sl">Raziskovanje v družinski medicini v Sloveniji</alt-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Petek Šter</surname>
+                  <given-names>Marija</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1">1</xref>
+               <xref ref-type="corresp" rid="corr"/>
+            </contrib>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Švab</surname>
+                  <given-names>Igor</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1">1</xref>
+            </contrib>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Petek</surname>
+                  <given-names>Davorina</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1">1</xref>
+            </contrib>
+         </contrib-group>
+         <aff-alternatives id="aff1">
+            <aff xml:lang="sl">
+               <label>1</label>
+               <institution>Katedra za družinsko medicino, Medicinska fakulteta, Univerza v Ljubljani, Ljubljana</institution>
+            </aff>
+            <aff xml:lang="en">
+               <label>1</label>
+               <institution>Department of Family Medicine, Faculty of medicine, University of Ljubljana, Ljubljana, Slovenia</institution>
+            </aff>
+         </aff-alternatives>
+         <author-notes>
+            <fn fn-type="conflict" xml:lang="en">
+               <p>The authors have declared that no competing interests exist.</p>
+            </fn>
+            <fn fn-type="conflict" xml:lang="sl">
+               <p>Avtorji so izjavili, da ne obstajajo nobeni konkurenčni interesi.</p>
+            </fn>
+            <corresp id="corr">Marija Petek Šter, e-mail: <email xlink:type="simple"/>
+            </corresp>
+         </author-notes>
+         <pub-date pub-type="ppub">
+            <month>12</month>
+            <year>2018</year>
+         </pub-date>
+         <pub-date pub-type="epub">
+            <month>12</month>
+            <year>2018</year>
+         </pub-date>
+         <volume>87</volume>
+         <issue>11–12</issue>
+         <fpage>547</fpage>
+         <lpage>56</lpage>
+         <history>
+            <date date-type="received">
+               <day>3</day>
+               <month>2</month>
+               <year>2018</year>
+            </date>
+            <date date-type="accepted">
+               <day>7</day>
+               <month>3</month>
+               <year>2018</year>
+            </date>
+         </history>
+         <permissions>
+            <copyright-statement xml:lang="en">Copyright © 2018, Slovenian Medical Association (SZD)</copyright-statement>
+            <copyright-statement xml:lang="sl">© 2018, Slovensko zdravniško društvo (SZD)</copyright-statement>
+            <copyright-year>2018</copyright-year>
+            <copyright-holder xml:lang="en">Slovenian Medical Association (SZD)</copyright-holder>
+            <copyright-holder xml:lang="sl">Slovensko zdravniško društvo (SZD)</copyright-holder>
+            <license xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                     xlink:type="simple"
+                     xml:lang="en">
+               <license-p>This is an open access article distributed under the terms of the
+          <ext-link ext-link-type="uri"
+                            xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                            xlink:type="simple">Creative Commons Attribution-NonCommercial
+            License</ext-link>, which permits unrestricted use, distribution, and
+          reproduction in any medium, provided the original author and source are
+          credited and only for non-commercial purposes. </license-p>
+            </license>
+            <license xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                     xlink:type="simple"
+                     xml:lang="sl">
+               <license-p>To je članek z odprtim dostopom, ki ga lahko uporabite pod pogoji iz
+          <ext-link ext-link-type="uri"
+                            xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                            xlink:type="simple">Creative Commons Priznanje avtorstva-Nekomercialno
+            licence</ext-link>. ki dovoljuje distribucijo, predelavo ali
+          prilagoditev, ter gradijo na njem, v nekomercialne namene, z navedbo avtorja
+          in izvirnega dela.</license-p>
+            </license>
+         </permissions>
+         <abstract xml:lang="sl">
+            <title>Izvleček</title>
+            <p>Primarna raven zdravstvenega varstva je vstopno mesto v zdravstveni sistem in od njega je v veliki meri odvisna kakovost in stroškovna vzdržnost zdravstvenega sistema. Raziskovanje je gonilo strokovnega razvoja v skrbi za čim boljšo kakovost oskrbe bolnikov.</p>
+            <p>Družinska medicina (DM) v Sloveniji predstavlja največjo specialnost na primarni ravni zdravstvenega varstva, ki je na področju raziskovanja v zadnjih desetletjih dosegla velike uspehe.</p>
+            <p>Pregledni prispevek prikazuje značilnosti raziskovanja v družinski medicini, predstavlja vključenost raziskovanja v različne ravni izobraževalnega procesa in v delo v praksi ter nakazuje izzive, ki družinsko medicino kot znanstveno in raziskovalno vedo čakajo v prihodnje.</p>
+         </abstract>
+         <trans-abstract xml:lang="en">
+            <title>Abstract</title>
+            <p>The primary level of health care represents an entry point into the health system, and the quality and economic sustainability of the healthcare system largely depend on it. Research is the driving force of professional development aimed at providing the best quality of patient care.</p>
+            <p>Family medicine in Slovenia represents the largest specialty at the primary level of health care, which has achieved great success in the field of research in recent decades.</p>
+            <p>The overview shows the characteristics of family medicine research, its inclusion into the educational process and practical work at different levels, pointing out the challenges that await family medicine as a scientific and research discipline in the future.</p>
+         </trans-abstract>
+         <kwd-group xml:lang="sl">
+            <kwd>družinska medicina</kwd>
+            <kwd>raziskovanje</kwd>
+            <kwd>Slovenija</kwd>
+            <kwd>inštitut</kwd>
+         </kwd-group>
+         <kwd-group xml:lang="en">
+            <kwd>family medicine</kwd>
+            <kwd>research</kwd>
+            <kwd>Slovenia</kwd>
+            <kwd>institute</kwd>
+         </kwd-group>
+      </article-meta>
+   </front>
+   <body>
+      <sec id="s1" sec-type="Uvod">
+         <label>1</label>
+         <title>Uvod</title>
+         <p>Svetovna zdravstvena organizacija že več desetletij poudarja pomen močnega primarnega zdravstvenega varstva za boljše zdravje populacije, zmanjšanje neenakosti in boljšo dostopnost do zdravstvene oskrbe ter nižjih stroškov (<xref ref-type="bibr" rid="b1">1</xref>,<xref ref-type="bibr" rid="b2">2</xref>)</p>
+         <p>Priznanje »specialnosti« družinski medicini je utemeljeno v definiciji družinske medicine v naslednjih glavnih značilnostih: prvem stiku za vse zdravstvene potrebe, dolgotrajni, v osebo usmerjeni zdravstveni oskrbi, celostni obravnavi vseh zdravstvenih potreb in koordinirani oskrbi v širokem timu sodelavcev ter usmerjenosti v družino in skupnost (<xref ref-type="bibr" rid="b3">3</xref>).</p>
+         <p>Kot razmeroma mlada stroka je družinska medicina dolgo dokazovala, da ima ne le svoje klinično področje dela, ampak tudi raziskovalno področje, ki je nujno za napredek stroke. Krepitev raziskovanih zmogljivosti (<italic toggle="yes">angl.</italic> research capacity building) stroke predstavlja proces razvoja posameznika in institucij, kar vodi do krepitve veščin in večje zmožnosti za uporabno raziskovanje (<xref ref-type="bibr" rid="b4">4</xref>). Ustrezen raziskovalni potencial je nujen za pridobivanje informacij v zvezi z načrtovanjem in odločanjem o zdravstvenih storitvah na primarni ravni. Merjenje tega razvoja zajema kazalnike procesov in izidov – korake in mehanizme za doseganje ciljev ter končne cilje kot take (<xref ref-type="bibr" rid="b5">5</xref>). Tradicionalni in lahko merljivi rezultati krepitve raziskovalne zmogljivosti so objavljeni znanstveni članki, prispevki na konferencah in uspešnost pri pridobivanju projektov. Vendar je temeljni cilj raziskovanja širši, saj zajema neposreden učinek na zdravstveno oskrbo bolnikov, družin in skupnosti.</p>
+         <p>Prispevek prikazuje razvoj raziskovanja v družinski medicini. V prvem delu kratko predstavi analize in teoretska izhodišča o krepitvi raziskovalnih zmogljivosti v družinski medicini (DM) na splošno. Nato predstavi raziskovanje ter organizacijo raziskovanja v Sloveniji; začenši s predstavitvijo razvoja družinske medicine, ključnimi uspehi akademske družinske medicine in izzivi, ki nas čakajo v prihodnosti.</p>
+         <sec id="s1.1"
+              sec-type="Pregled literature o krepitvi raziskovalnih zmogljivosti">
+            <label>1.1</label>
+            <title>Pregled literature o krepitvi raziskovalnih zmogljivosti</title>
+            <p>Za prikaz razvoja raziskovalnih zmogljivosti v družinski medicini je strokovna literatura predstavila več modelov, npr. Farmerjev model, ki opisuje sistemski pristop s širokim vključevanjem zdravnikov DM z različnimi veščinami in znanjem raziskovanja ob upoštevanju lokalnih virov in potreb ter različnega raziskovalnega interesa, kliničnega ozadja oz. izobraževalnih potreb. Kot pomembne stimulativne dejavnike avtor navaja zmanjševanje ovir (plačan raziskovalni čas, podpora drugih raziskovalcev …), povezavo raziskovalcev raziskovalne institucije z zdravniki v praksi ter povratne informacije in mentorstvo (<xref ref-type="bibr" rid="b6">6</xref>).</p>
+            <p>Sodelovanje v raziskovanju je med zdravniki družinske medicine po podatkih Jowetta pogostejše, kot se domneva. Zdravniki, ki so na kateri koli ravni vključeni v pedagoško delo, se pogosteje želijo preizkusiti tudi kot raziskovalci, motivirajoči dejavniki pa so še stik z raziskovalnimi partnerji, poseben opredeljen čas za raziskovanje, velike skupinske prakse, ovire pa so, kot v Farmerjevem modelu, pomanjkanje časa, podpore in denarja za raziskovanje (<xref ref-type="bibr" rid="b7">7</xref>).</p>
+            <p>Zanimiv je tudi prispevek Hicknerja, ki povzema izkušnje uspešnih predstojnikov kateder za družinsko medicino v procesu krepitve raziskovalnih zmogljivosti. Kot uspešni za krepitev raziskovalnih zmogljivosti so se izkazali začetki z malimi raziskovalnimi projekti, katerim so sledili večji in kompleksnejši, iskanje za zdravnike zanimivih raziskovalnih vprašanj, postopno pridobivanje izkušenj (npr. aktivna udeležba na mednarodnih kongresih s plakati, pisanje preglednih člankov...), mentorstvo, prilagojeno raziskovalnemu problemu in kandidatu tudi za posamezno, ožje področje, iskanje finančne podpore tudi pri manjših finančnih podpornikih, aktivno iskanje povezav z drugimi katedrami za družinsko medicino ali z drugimi specialisti, podpora in financiranje lastne institucije, opredelitev časa za raziskovanje in sodelavcev pri raziskovanju (<xref ref-type="bibr" rid="b8">8</xref>).</p>
+            <p>Cooke in sodelavci pa razvoj raziskovalnega potenciala predstavljajo v treh, med seboj povezanih ravneh: individualnem, organizacijskem in okoljskem. Individualna raven zajema krepitev raziskovalnega potenciala pri posameznikih z doktorskim in postdoktorskim študijem, razvoj spretnosti prijavljanja in vodenja projekta, pridobivanje raziskovalnih štipendij, mentorstvo in povezovanje. Na organizacijski ravni gre za formalizacijo raziskovalnih institucij, usmeritev v raziskovalna področja, harmonizacijo novih programov z že obstoječimi. Okoljsko raven pa predstavlja politično podporo raziskovanju, zakonske podlage, sodelovanje z raziskovalnim agencijami in drugimi partnerji v raziskovanju, organizacijska infrastruktura in v končni fazi prilagajanje raziskovalnim potrebam in zmožnostim okolja (<xref ref-type="bibr" rid="b9">9</xref>).</p>
+         </sec>
+      </sec>
+      <sec id="s2" sec-type="Raziskovanje v družinski medicini v Evropi">
+         <label>2</label>
+         <title>Raziskovanje v družinski medicini v Evropi</title>
+         <p>Čeprav velja družinska medicina v številnih evropskih državah za mlado stroko, je v nekaterih tradicija raziskovanja v družinski medicini že dolgoletna in uspešna. Začetnice raziskovanja v družinski medicini so Velika Britanija, skandinavske dežele in Nizozemska (<xref ref-type="bibr" rid="b10">10</xref>).</p>
+         <p>Raziskovalci v družinski medicini so že v 70. letih 20. stoletja občutili potrebo po povezovanju. Leta 1974 je bila ustanovljena mreža raziskovalcev v družinski medicini, ki jo danes poznamo pod imenom European General Practice Research Network (EGPRN). Trenutno je v mrežo raziskovalcev, katere namen je širjenje raziskovalne dejavnosti, vključenih prek 30 držav iz vseh delov Evrope, vključno s Turčijo in z Izraelom (<xref ref-type="bibr" rid="b11">11</xref>).</p>
+         <p>V okviru EGPRN je bil leta 2009 sprejet in objavljen krovni dokument na področju raziskovanja v družinski medicini »Research agenda for General Practice/Family medicine and Primary Health Care in Europe«. Predstavlja vodilo za zdravnike in raziskovalce v družinski medicini. Pri nastanku pa smo sodelovali tudi slovenski raziskovalci. Dokument povzema raziskovalna področja, povezana s ključnimi pristojnostmi in značilnostmi stroke po evropski definiciji družinske medicine ter podaja predloge, katera področja se redkeje raziskujejo in s kakšnimi vrstami/metodami raziskav bi lahko najbolje prispevali h kakovosti zdravstvene oskrbe in izboljšanju zdravja populacije (<xref ref-type="bibr" rid="b12">12</xref>).</p>
+         <sec id="s2.1" sec-type="Področja raziskovanja v družinski medicini">
+            <label>2.1</label>
+            <title>Področja raziskovanja v družinski medicini</title>
+            <p>Avtorji evropske raziskovalne agende so predlagali usmeritev raziskovanja v družinski medicini na naslednjih sedem področij (<xref ref-type="bibr" rid="b12">12</xref>):</p>
+            <list>
+               <list-item>
+                  <label>1.</label>
+                  <p>Razvoj in vrednotenje modelov ali strategij oskrbe, ki so usmerjeni v osebo na osnovi bio-psiho-socialnega pristopa.</p>
+               </list-item>
+               <list-item>
+                  <label>2.</label>
+                  <p>Primerjalne raziskave v populacijah z različnimi kulturnimi, socialnimi ali geografskimi okoliščinami in zdravstvenimi sistemi.</p>
+               </list-item>
+               <list-item>
+                  <label>3.</label>
+                  <p>Longitudinalne kohortne študije za oceno napovedi in dejavnikov zdravja in bolezni.</p>
+               </list-item>
+               <list-item>
+                  <label>4.</label>
+                  <p>Intervencijske in randomizirane kontrolirane raziskave, ki upoštevajo široka vprašanja, kot so več sočasnimi boleznimi, kakovost življenja ter družbene in okoljske vplive na zdravje.</p>
+               </list-item>
+               <list-item>
+                  <label>5.</label>
+                  <p>Raziskave, katerih namen je prepoznati diagnostično strategije in sklepanje.</p>
+               </list-item>
+               <list-item>
+                  <label>6.</label>
+                  <p>Raziskave, ki ocenjujejo učinkovitost in varnost v vsakodnevni klinični praksi.</p>
+               </list-item>
+               <list-item>
+                  <label>7.</label>
+                  <p>Razvijanje in potrjevanje funkcionalnih in generičnih instrumentov za uporabo pri raziskavah in oskrbi na področju raziskav in zdravljenja.</p>
+               </list-item>
+            </list>
+            <p>Dokument tudi poudarja, da naj se težišče raziskav premakne od presečnih na longitudinalne in primerjalne raziskave s posebnim poudarkom na mešani kvalitativno-kvantitativni metodologiji.</p>
+         </sec>
+      </sec>
+      <sec id="s3" sec-type="Razvoj raziskovanja v družinski medicini v Sloveniji">
+         <label>3</label>
+         <title>Razvoj raziskovanja v družinski medicini v Sloveniji</title>
+         <p>V družinski medicini smo v zadnjih 25 letih sistematično razvijali raziskovanje tako z vzgojo in podporo individualnim raziskovalcem kot z ustrezno podporno strukturo in organizacijo raziskovanja. Ob tem smo želeli doseči tudi zavedanje v širši medicinski stroki in v družbi, da je raziskovanje v družinski medicini potrebno in da sodi v strateške prioritete družbe. V razvoju smo sledili evropski definiciji DM, ki predstavlja standard za akademski in strokovni razvoj (<xref ref-type="bibr" rid="b3">3</xref>).</p>
+         <sec id="s3.1" sec-type="Krepitev individualnih raziskovalnih sposobnosti">
+            <label>3.1</label>
+            <title>Krepitev individualnih raziskovalnih sposobnosti</title>
+            <p>Individualno usposabljanje raziskovalcev poteka v lokalnem, nacionalnem in mednarodnem okolju.</p>
+            <sec id="s3.1.1" sec-type="Izobraževanje za raziskovanje">
+               <label>3.1.1</label>
+               <title>Izobraževanje za raziskovanje</title>
+               <p>Z ustanovitvijo Katedre za družinsko medicino Medicinske fakultete v Ljubljani in s tem s postopnim povečanjem ugleda stroke v strokovni in laični javnosti so bili podani pogoji za uspešen razvoj raziskovanja na področju družinske medicine v Sloveniji.</p>
+               <p>Pouk o raziskovanju v družinski medicini poteka na vseh ravneh in se začne na dodiplomski ravni z izbirnim predmetom »Raziskave v družinski medicini«, ki je namenjen študentom 5. in 6. letnika študija medicine. Cilj pouka je študentu omogočiti, da spozna in se vključi v vse faze raziskovalnega dela do končnega rezultata – objave. Rezultati so raziskovalne objave študentov v revijah z zunanjo recenzijo (<xref ref-type="bibr" rid="b13">13</xref>,<xref ref-type="bibr" rid="b14">14</xref>).</p>
+               <p>Med specializacijo mora vsak specializant izdelati raziskovalno nalogo. Namen naloge ni le v tem, da specializant spozna proces raziskovalnega dela, temveč tudi oblikovanje stališča, da je raziskovanje ključno za izboljšanje kakovosti obravnave bolnikov. Nekatere raziskovalne naloge so tako kakovostne, da so bile objavljene v uglednih indeksiranih revijah s faktorjem vpliva (<xref ref-type="bibr" rid="b15">15</xref>,<xref ref-type="bibr" rid="b16">16</xref>).</p>
+               <p>Na podiplomskem znanstvenem doktorskem študiju se število doktorskih študentov, zdravnikov družinske medicine, povečuje. Trenutno imamo že več kot 20 doktorjev znanosti in še približno 10 doktorskih študentov. V zadnjem času podpiramo vse bolj intenzivno multidisciplinarno povezovanje tudi na področju doktorskih nalog; tako sodelujemo s strokovnjaki z različnih kliničnih področij – sociologi, psihologi, strokovnjaki zdravstvene nege in informatiki.</p>
+               <p>Za individualni razvoj raziskovalcev je posebej pomemben čas, ki ga imajo ti na voljo kot raziskovalci. Na katedri že vrsto let tečejo različni raziskovalni projekti, na katerih imajo raziskovalci možnost delnih zaposlitev in nadaljnjega kariernega razvoja. V zmanjšanem obsegu lahko še vedno delujejo kot zdravniki v ambulanti, delno pa svoj čas namenjajo raziskovanju.</p>
+               <p>Z razvojem raziskovalcev in novimi doktorskimi študenti se je izpopolnjevala tudi kakovost mentorstva. Mentorji se razvijajo tako, da mentorstvo začnejo pri manj zahtevnih raziskovalnih projektih (npr. specialistične naloge) zato, da se usposobijo za zahtevnejše, kot je mentorstvo doktorskemu kandidatu.</p>
+            </sec>
+         </sec>
+         <sec id="s3.2" sec-type="Povezave raziskovalcev v lokalnem okolju">
+            <label>3.2</label>
+            <title>Povezave raziskovalcev v lokalnem okolju</title>
+            <p>Na nacionalni ravni delujeta dve raziskovalni skupini v okviru kateder za družinsko medicino v Ljubljani in Mariboru. Zelo pomembno je povezovanje raziskovalcev tako na nacionalni kot na mednarodni ravni, saj smo lahko le kot skupina sposobni izpeljati večje raziskovalne projekte (<xref ref-type="bibr" rid="b17">17</xref>). Raziskovalne skupine vodijo strategijo raziskovalne dejavnosti v družinski medicini z oblikovanjem ključnih raziskovalnih področij, na katerih vodijo posamezni raziskovalci. Raziskovalci se redno srečujemo na sestankih, na katerih načrtujemo in spremljamo potek raziskovalnega dela ter objavljanje rezultatov raziskav. Sodelovanje v raziskovalni skupini je priložnost za mlajše in manj izkušene raziskovalce, da se pri sodelovanju v projektih naučijo projektnega dela in kasneje vodenja projektov.</p>
+            <p>Znotraj nekaterih večjih zdravstvenih domov, kot je Zdravstveni dom Ljubljana, deluje enota za raziskovalno dejavnost. Zdravstveni dom Ljubljana ima obsežne izkušnje z raziskovanjem kakovosti referenčnih ambulant in uspešno sodelovanje pri raziskovalnih projektih v okviru strukturnih skladov, kot je bil npr. projekt celostne obravnave bolnika, ki ga je s partnerji vodila vlada Republike Slovenije v sektorju za razvoj in evropsko kohezijsko politiko (<xref ref-type="bibr" rid="b18">18</xref>).</p>
+            <p>Poleg tega pa so tudi v manjših zdravstvenih domovih zaposleni uveljavljeni raziskovalci, ki formalno ali neformalno širijo kulturo raziskovanja med sodelavci in se vključujejo v lokalno usmerjene in širše zastavljene raziskovalne projekte (<xref ref-type="bibr" rid="b19">19</xref>).</p>
+            <p>V zadnjih letih pa vidimo velik potencial v medprofesionalnem povezovanju z drugimi raziskovalnimi skupinami s področja zdravstvene nege, s psihologi, sociologi, z informatiki in drugimi. Plod sodelovanja so številni aplikativni projekti, kot je npr. spremljanje in analiza projekta »Referenčnih ambulant« (<xref ref-type="bibr" rid="b20">20</xref>-<xref ref-type="bibr" rid="b22">22</xref>) in raziskovalni projekti, ki so vključevali več različnih raziskovalnih institucij, kot so Inštitut za javno zdravje, Fakulteta za računalništvo in informatiko (<xref ref-type="bibr" rid="b23">23</xref>-<xref ref-type="bibr" rid="b25">25</xref>).</p>
+         </sec>
+         <sec id="s3.3" sec-type="Povezave v mednarodnem okolju">
+            <label>3.3</label>
+            <title>Povezave v mednarodnem okolju</title>
+            <p>Mreže, ki delujejo pod okriljem Evropskega združenja zdravnikov družinske medicine WONCA (EGPRN – raziskovalci v družinski medicini Equip, skupina za kakovost EuroQuol – skupina za kakovostno raziskovanje v družinski medicini, Euract – Akademija učiteljev v družinski medicini…), razvijajo raziskovanje v okviru svojega poslanstva in predstavljajo priložnost za spoznavanje vsebine in metodologije raziskovanja. Slovenski raziskovalci se dejavno vključujemo v projekte teh mrež. Preko mreže raziskovalcev sodelujemo v številnih projektih, kot so samozdravljenje (<xref ref-type="bibr" rid="b26">26</xref>), dejavniki zdravstvenega sistema, ki vplivajo na zgodnjo diagnosticiranje raka (<xref ref-type="bibr" rid="b27">27</xref>) ter zdravljenje hipertenzije pri zelo starih starostnikih (<xref ref-type="bibr" rid="b28">28</xref>).</p>
+            <p>Euract vodi številne raziskovalne in aplikativne projekte na področju edukacije, kot so oblikovanje nadaljnje strategije razvoja (<xref ref-type="bibr" rid="b30">30</xref>) in uvedba sistema za akreditacijo učiteljev v družinski medicini (<xref ref-type="bibr" rid="b31">31</xref>).</p>
+            <p>Raziskovalci se povezujemo tudi s katedrami in inštituti za družinsko medicino v Evropi ter zunaj nje. Najbolj tesne povezave imamo z ustanovami Imperial College London, Univerza v Antwerpnu, v Maastrichtu, v Goteborgu, v Bergnu in še številnih drugih (<xref ref-type="bibr" rid="b17">17</xref>).</p>
+            <p>Slovenska družinska medicina je z doseženo visoko ravnijo dela in raziskovanja vodilna na področju Balkana. Svojo vlogo v prostoru nekdanje Jugoslavije širimo preko izobraževalnih in raziskovalnih projektov, kot so bili uvedba specializacije iz družinske medicine v Makedoniji in Črni gori, ki ga je podprla svetovna banka (<xref ref-type="bibr" rid="b33">33</xref>). Preko omenjenih projektov smo posamezniki vključeni kot zunanji eksperti pri nadaljnjem razvoju in analizi stroke na območju nekdanje Jugoslavije (<xref ref-type="bibr" rid="b34">34</xref>).</p>
+         </sec>
+      </sec>
+      <sec id="s4" sec-type="Podpora raziskovanju na nacionalni ravni">
+         <label>4</label>
+         <title>Podpora raziskovanju na nacionalni ravni</title>
+         <p>Osnovni namen raziskovalnega delovanja je izboljšanje zdravja populacije. Tega se zavedajo tudi raziskovalne agencije, finančni skladi, farmacevtske in druge gospodarske družbe, ki preko razpisov za (so)financiranje spodbujajo raziskovalne in aplikativne projekte. Državno usmeritev v raziskovanje na področju družinske medicine predstavlja:</p>
+         <list>
+            <list-item>
+               <label>•</label>
+               <p>
+                  <italic toggle="yes">Podpora sodelovanju v evropskih </italic>
+                  <italic toggle="yes">projektih.</italic> Kot partnerska institucija smo sodelovali na evropskih projektih, katerih namen je zmanjševanje škode zaradi uživanja alkohola, kot so CHAPAPs, IATPAD in SOPA, projektu PHAMEU, ki je proučeval organizacijo primarnega zdravstva v Evropi, in projektu PREDICT, katerega namen je bil prepoznati napovedne dejavnike depresije (<xref ref-type="bibr" rid="b35">35</xref>).</p>
+            </list-item>
+            <list-item>
+               <label>•</label>
+               <p>
+                  <italic toggle="yes">Pridobitev številnih projektov preko agencije</italic>
+                  <italic toggle="yes"> za raziskovalno dejavnost Republike Slovenije (ARRS)</italic>, kot so projekt o obremenjenosti zdravnikov družinske medicine (<xref ref-type="bibr" rid="b36">36</xref>) in projekti, povezani z izboljšanjem kakovosti dela v družinski medicini na področju vodenja kroničnih bolezni in obravnave starostnikov (<xref ref-type="bibr" rid="b37">37</xref>,<xref ref-type="bibr" rid="b38">38</xref>).</p>
+            </list-item>
+            <list-item>
+               <label>•</label>
+               <p>
+                  <italic toggle="yes">Sodelovanje v projektih Ministrstva </italic>
+                  <italic toggle="yes">za zdravje</italic> s projektom referenčnih ambulant (<xref ref-type="bibr" rid="b39">39</xref>).</p>
+            </list-item>
+            <list-item>
+               <label>•</label>
+               <p>
+                  <italic toggle="yes">Sodelovanje v projektih </italic>
+                  <italic toggle="yes">Zdravniške zbornice Slovenije in Zavoda za zdravstveno zavarovanje Slovenije</italic> za prepoznavanje sistemskih rešitev za izboljšanje organizacije zdravstvenega varstva. Sodelovali smo pri oblikovanju na dokazih temelječih standardov in normativov za delo v družinski medicini (<xref ref-type="bibr" rid="b40">40</xref>).</p>
+            </list-item>
+            <list-item>
+               <label>•</label>
+               <p>
+                  <italic toggle="yes">Raziskave v javnem interesu</italic> (npr. o kakovosti, o učinkih nacionalnih projektov, kot je projekt referenčnih ambulant) (<xref ref-type="bibr" rid="b20">20</xref>-<xref ref-type="bibr" rid="b22">22</xref>).</p>
+            </list-item>
+         </list>
+      </sec>
+      <sec id="s5" sec-type="Slovenska akademska družinska medicina v številkah">
+         <label>5</label>
+         <title>Slovenska akademska družinska medicina v številkah</title>
+         <p>Na katedri za družinsko medicino v Ljubljani in Mariboru so trenutno aktivni 1 redni profesor, 6 izrednih profesorjev, 5 docentov, poleg njih pa še 17 asistentov ter več kot 400 mentorjev, ki kot zunanji sodelavci sodelujejo pri izvajanju pedagoškega dela Poleg temeljnega predmeta »Družinska medicina«, ki poteka od leta 1994 na MF v Ljubljani, zdaj katedri sodelujeta pri izvajanju številnih obveznih predmetov (Primarno zdravstveno varstvo v Ljubljani in Družinska medicina v Mariboru, Sporazumevanje, Stik z bolnikom) ter izbirnih predmetov (Motivacijske tehnike, Raziskave v družinski medicini in Medicina na podeželju in v odmaknjenih krajih) (<xref ref-type="bibr" rid="b41">41</xref>).</p>
+         <p>V okviru raziskovalne skupine na MF v Ljubljani in Mariboru nas je registriranih 17 raziskovalcev, ki smo v zadnjih petih letih objavili 87 izvirnih znanstvenih člankov v revijah s faktorjem vpliva, preko 1000 drugih objav in imamo 325 čistih citatov. Mnogi članki in publikacije so nastali v sodelovanju s priznanimi domačimi in tujimi raziskovalci s področja družinske medicine, ostalih kliničnih specialnosti in drugih področij, kot so psihologija sociologija, informatika in drugo.</p>
+      </sec>
+      <sec id="s6" sec-type="Ključni uspehi in izzivi družinske medicine">
+         <label>6</label>
+         <title>Ključni uspehi in izzivi družinske medicine</title>
+         <sec id="s6.1"
+              sec-type="Ključni uspehi družinske medicine na področju raziskovanja in razlogi zanje">
+            <label>6.1</label>
+            <title>Ključni uspehi družinske medicine na področju raziskovanja in razlogi zanje</title>
+            <p>Med ključne uspehe družinske medicine na področju raziskovanja je potrebno omeniti:</p>
+            <list>
+               <list-item>
+                  <label>•</label>
+                  <p>Oblikovanje raziskovalne skupine in mreže raziskovalcev, ki predstavlja most med raziskovalci, vezanimi na akademske institucije, in zdravniki v praksi, ki jih raziskovanje zanima.</p>
+               </list-item>
+               <list-item>
+                  <label>•</label>
+                  <p>Povezovanje z mednarodnim okoljem, ki daje preko sodelovanja v mednarodnih projektih in raziskovalnih skupinah možnost nadaljnjega razvoja ter krepi mesto družinske medicine kot znanstvene, akademske in profesionalne discipline tako doma kot v tujini.</p>
+               </list-item>
+               <list-item>
+                  <label>•</label>
+                  <p>Izboljšanje položaja stroke, ki mu je dal podlago akademski razvoj, je pripomoglo tudi k večjemu interesu mladih, ki si izberejo specializacijo iz družinske medicine za svoj karierni cilj.</p>
+               </list-item>
+               <list-item>
+                  <label>•</label>
+                  <p>Z večjim interesom za družinsko medicino se za stroko vse pogosteje odločajo mladi in sposobni zdravniki, ki imajo željo po raziskovalni in akademski karieri, ki jo začnejo z vpisom na doktorski študij.</p>
+               </list-item>
+            </list>
+         </sec>
+         <sec id="s6.2"
+              sec-type="Izzivi za nadalje razvoj na področju raziskovanja v družinski medicini">
+            <label>6.2</label>
+            <title>Izzivi za nadalje razvoj na področju raziskovanja v družinski medicini</title>
+            <sec id="s6.2.1" sec-type="Mreža raziskovalcev">
+               <label>6.2.1</label>
+               <title>Mreža raziskovalcev</title>
+               <p>Za izpeljavo raziskovalnih projektov v družinski medicini praviloma potrebujemo sodelovanje zdravnikov iz prakse, ki pomagajo pri zbiranju podatkov. V nastajanju je mreža raziskovalcev oz. raziskovalnih ambulant. Prednost dobro delujoče mreže raziskovalnih ambulant je predvsem v kakovosti zbiranja podatkov, saj so člani mreže dodatno usposobljeni za raziskovalno delo.</p>
+               <p>Mreža raziskovalcev povezuje ambulante družinske medicine, ki so glavni vir pridobivanja »realnih« podatkov, hkrati pa tudi mesto izvedbe raziskav v vsakodnevnem kliničnem delu. Zdravniki, ki niso primarno raziskovalci in delajo v praksi, se na ta način postopoma vključujejo v raziskovalno delo in sodelujejo postopoma v vse bolj zahtevnih raziskovalnih projektih. Gre za proces, ko se ambulante postopoma vključujejo v mreže, ki se testirajo na manjših projektih in se povezujejo z drugimi raziskovalnimi projekti. Glavna ovira, s katero se srečujemo pri utrjevanju raziskovalne mreže, je pomanjkanje časa zdravnikov, namenjenega raziskovanju, zaradi vsakodnevnih visokih kliničnih obremenitev in pomanjkanje možnosti nagrajevanja za opravljeno delo. Pri tem ne mislimo le na finančno spodbudo, ampak tudi na druge načine priznanja za prispevek k nekemu delu. Ambulante potrebujejo pouk o izvajanju raziskav, saj postaja pridobivanje kakovostnih raziskovalnih podatkov vse zahtevnejše, zato v prihodnosti lahko pričakujemo tudi neke vrste certifikat usposobljenosti ambulante za vključevanje v raziskave.</p>
+            </sec>
+            <sec id="s6.2.2" sec-type="Institut za družinsko medicino">
+               <label>6.2.2</label>
+               <title>Institut za družinsko medicino</title>
+               <p>Najvišja organizacijska oblika, ki bi zagotovila kadrovske in finančne vire za nadaljnji uspešen razvoj raziskovanja in prenos znanstvenih spoznanj v prakso, je inštitut. Trenutno imamo dobro usposobljene raziskovalce, ki pa jim ob tem, da so pretežno zaposleni v zdravstvenih ustanovah in pretežno delajo za bolnike, zmanjkuje časa za raziskovanje. Nimamo stalnih sodelavcev, ki bi jih pri izvedbi in analizi podatkov potrebovali (npr. zdravstvenoadministrativnega osebja, statistika, informatika…) ter podpore v strokovnjakih, ki jih za vodenje projektov potrebujemo (npr. finančno vodenje projektov).</p>
+            </sec>
+            <sec id="s6.2.3" sec-type="Drugi izzivi">
+               <label>6.2.3</label>
+               <title>Drugi izzivi</title>
+               <p>Pred nami so še številni drugi izzivi, povezani z demografskimi spremembami, razvojem novih tehnologij, spreminjanjem vloge bolnika ter spremembami v sistemu zdravstvenega varstva. V prihodnje se bomo še bolj usmerili k:</p>
+               <list>
+                  <list-item>
+                     <label>•</label>
+                     <p>raziskovanju problemov, ki se pojavljajo ob vsakodnevnem delu z namenom najti rešitve, ki vodijo k izboljšanju obravnave bolnikov – analizi lastnega dela;</p>
+                  </list-item>
+                  <list-item>
+                     <label>•</label>
+                     <p>sodelovanju v nacionalnih in mednarodnih raziskavah, ki krepijo sposobnost zdravnikov na področju raziskovanja in spodbujajo prenos novosti v naš prostor;</p>
+                  </list-item>
+                  <list-item>
+                     <label>•</label>
+                     <p>aktivni vključenosti v mednarodne mreže raziskovalcev in izmenjavi raziskovalcev med raziskovalnimi ustanovami.</p>
+                  </list-item>
+               </list>
+            </sec>
+         </sec>
+      </sec>
+      <sec id="s7" sec-type="Zaključek">
+         <label>7</label>
+         <title>Zaključek</title>
+         <p>Slovenska akademska družinska medicina je od svojih začetkov v 90. letih 20. stoletja do danes dosegla izjemen napredek in tako prispevala k razvoju družinske medicine kot klinične vede. V prihodnje je potrebno povezati akademski in klinični razvoj v inštituciji, ki bo delovala na ravni države. Potrebujemo inštitut za družinsko medicino.</p>
+      </sec>
+   </body>
+   <back>
+      <ref-list>
+         <ref id="b1">
+            <label>1. </label>
+            <mixed-citation publication-type="webpage">
+                    <person-group person-group-type="author">
+                        <collab>World Health Organization</collab>
+                    </person-group>. 
+                    <conf-name>Declaration of Alma-Ata: International Conference on Primary Health Care</conf-name>.
+                    <conf-date>6–12 September 1978</conf-date>;
+                    <conf-loc>Alma-Ata, USSR</conf-loc>.
+                    [<date-in-citation content-type="access-date" iso-8601-date="2019-01-28">cited 2019 Jan 28</date-in-citation>]. 
+                    <comment>Available from:<uri>http://www.who.int/hpr/NPH/docs/declaration_almaata.pdf</uri>
+               </comment>.
+                </mixed-citation>
+         </ref>
+         <ref id="b2">
+            <label>2. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Starfield</surname>
+                     <given-names>B</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Shi</surname>
+                     <given-names>L</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Macinko</surname>
+                     <given-names>J</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Contribution of primary care to health systems and health</article-title>. 
+                    <source>Milbank Q</source>. 
+                    <year>2005</year>;
+                    <volume>83</volume>(
+                    <issue>3</issue>):
+                    <fpage>457</fpage>–
+                    <lpage>502</lpage>. 
+                    <pub-id pub-id-type="doi">10.1111/j.1468-0009.2005.00409.x</pub-id>
+                    <pub-id pub-id-type="pmid">16202000</pub-id>
+                    <issn>0887-378X</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b3">
+            <label>3. </label>
+            <mixed-citation publication-type="webpage">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Allen</surname>
+                     <given-names>J</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Gay</surname>
+                     <given-names>B</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Crebolder</surname>
+                     <given-names>H</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Heyrman</surname>
+                     <given-names>J</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Švab</surname>
+                     <given-names>I</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Ram</surname>
+                     <given-names>P</given-names>
+                  </name>
+                    </person-group>. 
+                    <source>Evropska definicija družinske medicine</source>.
+                    [<date-in-citation content-type="access-date" iso-8601-date="2017-12-18">cited 2017 Dec 18</date-in-citation>].
+                    <comment>Available from:<uri>http://www.woncaeurope.org/sites/default/files/documents/Evropska_definicija_druzinske_medicine.pdf</uri>
+               </comment>.
+                </mixed-citation>
+         </ref>
+         <ref id="b4">
+            <label>4. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Trostle</surname>
+                     <given-names>J</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Research capacity building in international health: definitions, evaluations and strategies for success</article-title>. 
+                    <source>Soc Sci Med</source>. 
+                    <year>1992</year>
+                    <month>Dec</month>;
+                    <volume>35</volume>(
+                    <issue>11</issue>):
+                    <fpage>1321</fpage>–
+                    <lpage>4</lpage>. 
+                    <pub-id pub-id-type="doi">10.1016/0277-9536(92)90035-O</pub-id>
+                    <pub-id pub-id-type="pmid">1462171</pub-id>
+                    <issn>0277-9536</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b5">
+            <label>5. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Crisp</surname>
+                     <given-names>BR</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Swerissen</surname>
+                     <given-names>H</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Duckett</surname>
+                     <given-names>SJ</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Four approaches to capacity building in health: consequences for measurement and accountability</article-title>. 
+                    <source>Health Promot Int</source>. 
+                    <year>2000</year>;
+                    <volume>15</volume>(
+                    <issue>2</issue>):
+                    <fpage>99</fpage>–
+                    <lpage>107</lpage>. 
+                    <pub-id pub-id-type="doi">10.1093/heapro/15.2.99</pub-id>
+                    <issn>0957-4824</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b6">
+            <label>6. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Farmer</surname>
+                     <given-names>E</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Weston</surname>
+                     <given-names>K</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>A conceptual model for capacity building in Australian primary health care research</article-title>. 
+                    <source>Aust Fam Physician</source>. 
+                    <year>2002</year>
+                    <month>Dec</month>;
+                    <volume>31</volume>(
+                    <issue>12</issue>):
+                    <fpage>1139</fpage>–
+                    <lpage>42</lpage>.
+                    <pub-id pub-id-type="pmid">12516520</pub-id>
+                    <issn>0300-8495</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b7">
+            <label>7. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Jowett</surname>
+                     <given-names>SM</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Macleod</surname>
+                     <given-names>J</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Wilson</surname>
+                     <given-names>S</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Hobbs</surname>
+                     <given-names>FD</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Research in primary care: extent of involvement and perceived determinants among practitioners from one English region</article-title>. 
+                    <source>Br J Gen Pract</source>. 
+                    <year>2000</year>
+                    <month>May</month>;
+                    <volume>50</volume>(
+                    <issue>454</issue>):
+                    <fpage>387</fpage>–
+                    <lpage>9</lpage>.
+                    <pub-id pub-id-type="pmid">10897537</pub-id>
+                    <issn>0960-1643</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b8">
+            <label>8. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Hickner</surname>
+                     <given-names>J</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Kuzel</surname>
+                     <given-names>T</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Weidner</surname>
+                     <given-names>A</given-names>
+                  </name>; 
+                        <collab>ADFM Research Development Committee</collab>
+                    </person-group>. 
+                    <article-title>Building research capacity in departments of family medicine: pearls from NAPCRG 2013</article-title>. 
+                    <source>Ann Fam Med</source>. 
+                    <year>2015</year>
+                    <month>Mar</month>;
+                    <volume>13</volume>(
+                    <issue>2</issue>):
+                    <fpage>189</fpage>–
+                    <lpage>90</lpage>. 
+                    <pub-id pub-id-type="doi">10.1370/afm.1770</pub-id>
+                    <pub-id pub-id-type="pmid">25755047</pub-id>
+                    <issn>1544-1709</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b9">
+            <label>9. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Cooke</surname>
+                     <given-names>J</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Ariss</surname>
+                     <given-names>S</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Smith</surname>
+                     <given-names>C</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Read</surname>
+                     <given-names>J</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>On-going collaborative priority-setting for research activity: a method of capacity building to reduce the research-practice translational gap</article-title>. 
+                    <source>Health Res Policy Syst</source>. 
+                    <year>2015</year>
+                    <month>May</month>;
+                    <volume>13</volume>(
+                    <issue>1</issue>):
+                    <fpage>25</fpage>. 
+                    <pub-id pub-id-type="doi">10.1186/s12961-015-0014-y</pub-id>
+                    <pub-id pub-id-type="pmid">25948236</pub-id>
+                    <issn>1478-4505</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b10">
+            <label>10. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>De Maeseneer</surname>
+                     <given-names>JM</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>van Weel</surname>
+                     <given-names>C</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Research in geneneral practice in Europe: a growing community</article-title>. 
+                    <source>Eur J Gen Pract</source>. 
+                    <year>2001</year>;
+                    <volume>7</volume>(
+                    <issue>3</issue>):
+                    <fpage>90</fpage>–
+                    <lpage>1</lpage>. 
+                    <pub-id pub-id-type="doi">10.3109/13814780109080867</pub-id>
+                    <issn>1381-4788</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b11">
+            <label>11. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Buono</surname>
+                     <given-names>N</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Thulesius</surname>
+                     <given-names>H</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Petrazzuoli</surname>
+                     <given-names>F</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Van Merode</surname>
+                     <given-names>T</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Koskela</surname>
+                     <given-names>T</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Le Reste</surname>
+                     <given-names>JY</given-names>
+                  </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>40 years of biannual family medicine research meetings—the European General Practice Research Network (EGPRN)</article-title>. 
+                    <source>Scand J Prim Health Care</source>. 
+                    <year>2013</year>
+                    <month>Dec</month>;
+                    <volume>31</volume>(
+                    <issue>4</issue>):
+                    <fpage>185</fpage>–
+                    <lpage>7</lpage>. 
+                    <pub-id pub-id-type="doi">10.3109/02813432.2013.847594</pub-id>
+                    <pub-id pub-id-type="pmid">24191874</pub-id>
+                    <issn>0281-3432</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b12">
+            <label>12. </label>
+            <mixed-citation publication-type="webpage">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Hummers-Pradier</surname>
+                     <given-names>E</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Beyer</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Chevallier</surname>
+                     <given-names>P</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Eilat-Tsanani</surname>
+                     <given-names>S</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Lionis</surname>
+                     <given-names>C</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Peremans</surname>
+                     <given-names>L</given-names>
+                  </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <source>Research Agenda for General Practice : Familiy medicine and Primary Health Care in Europe</source>.
+                    [<date-in-citation content-type="access-date" iso-8601-date="2017-12-20">cited 2017 Dec 22</date-in-citation>].
+                    <comment>Available from:<uri>https://www.egprn.org/page/research-agenda</uri>
+               </comment>.
+                </mixed-citation>
+         </ref>
+         <ref id="b13">
+            <label>13. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Dolinšek</surname>
+                     <given-names>E</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Fink</surname>
+                     <given-names>N</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Petek Šter</surname>
+                     <given-names>M</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Orodja za merjenje multimorbidnosti : pregledni prispevek</article-title>. 
+                    <source>Med Razgl</source>. 
+                    <year>2016</year>;
+                    <volume>55</volume>:
+                    <fpage>273</fpage>–
+                    <lpage>82</lpage>.
+                    <issn>0025-8121</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b14">
+            <label>14. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Omejec</surname>
+                     <given-names>J</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Stepišnik</surname>
+                     <given-names>A</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Selič</surname>
+                     <given-names>P</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Petek Šter</surname>
+                     <given-names>M</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Razlogi za študij medicine in dentalne medicine pri študentih prvega letnika Medicinske fakultete v Ljubljani</article-title>. 
+                    <source>Zdrav Vestn</source>. 
+                    <year>2017</year>;
+                    <volume>86</volume>(
+                    <issue>7-8</issue>):
+                    <fpage>286</fpage>–
+                    <lpage>94</lpage>. 
+                    <pub-id pub-id-type="doi">10.6016/ZdravVestn.2468</pub-id>
+                    <issn>0350-0063</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b15">
+            <label>15. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Petek</surname>
+                     <given-names>D</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Rotar Pavlic</surname>
+                     <given-names>D</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Svab</surname>
+                     <given-names>I</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Lolić</surname>
+                     <given-names>D</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Attitudes of Roma toward smoking: qualitative study in Slovenia</article-title>. 
+                    <source>Croat Med J</source>. 
+                    <year>2006</year>
+                    <month>Apr</month>;
+                    <volume>47</volume>(
+                    <issue>2</issue>):
+                    <fpage>344</fpage>–
+                    <lpage>7</lpage>.
+                    <pub-id pub-id-type="pmid">16625703</pub-id>
+                    <issn>1332-8166</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b16">
+            <label>16.</label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Petek</surname>
+                     <given-names>D</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Gajšek</surname>
+                     <given-names>T</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Petek Šter</surname>
+                     <given-names>M</given-names>
+                  </name>
+                    </person-group>
+                    <article-title>Work-family balance by women GP specialist trainees in Slovenia: a qualitative study</article-title>.
+                    <source>BMC Med Educ</source>.
+                    <year>2016</year>
+                    <month>Jan</month>;
+                    <volume>16</volume>:
+                    <fpage>31</fpage>.
+                    <pub-id pub-id-type="doi">10.1186/s12909-016-0551-2</pub-id>
+                    <pub-id pub-id-type="pmid">26821533</pub-id>
+                    <issn>1472-6920</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b17">
+            <label>17. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Klemenc-Ketiš</surname>
+                     <given-names>Z</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Kersnik</surname>
+                     <given-names>J</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Importance of international networking in academic family medicine</article-title>. 
+                    <source>Acta Med Acad</source>. 
+                    <year>2014</year>;
+                    <volume>43</volume>(
+                    <issue>1</issue>):
+                    <fpage>63</fpage>–
+                    <lpage>8</lpage>. 
+                    <pub-id pub-id-type="doi">10.5644/ama2006-124.101</pub-id>
+                    <pub-id pub-id-type="pmid">24893640</pub-id>
+                    <issn>1840-1848</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b18">
+            <label>18. </label>
+            <mixed-citation publication-type="webpage">
+                    <person-group>
+                  <name name-style="western">
+                     <surname/>
+                  </name>
+               </person-group>.
+                    <source>CPC plus. Uspešno zaključen prvi mednarodni projekt Zdravstvenega doma Ljubljana (ZDL)</source>. 
+                    [<date-in-citation content-type="access-date" iso-8601-date="2018-01-28">cited 2018 Jan 28</date-in-citation>].
+                    <comment>Available from:<uri>https://www.zd-lj.si/cpc/index.php?option=com_content&amp;view=article</uri>
+               </comment>.
+                </mixed-citation>
+         </ref>
+         <ref id="b19">
+            <label>19. </label>
+            <mixed-citation publication-type="conference">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Petek Šter</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Pivk</surname>
+                     <given-names>L</given-names>
+                  </name>
+                    </person-group>. 
+                    <chapter-title>Ne-nujni obiski v predbolnišnični nujni medicinski pomoči</chapter-title>. In:
+                    <person-group person-group-type="editor">
+                        <name name-style="western">
+                     <surname>Skela-Savič</surname>
+                     <given-names>B</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Hvlaič Touzery</surname>
+                     <given-names>S</given-names>
+                  </name>, 
+                        <role>eds</role>
+                    </person-group>.
+                    <conf-name>7. mednarodna znanstvena konferenca Znanje, vrednote, prepričanja in dokazi za razvoj kakovostne zdravstvene obravnave: mesto in vloga zdravstvene nege: zbornik predavanj z recenzijo</conf-name>;
+                    <conf-date>12.-13. junij 2014</conf-date>;
+                    <conf-loc>[Bled, Slovenija]</conf-loc>.
+                    <publisher-loc>Jesenice</publisher-loc>:
+                    <publisher-name>Fakulteta za zdravstvo Jesenice</publisher-name>;
+                    <year>2014</year>. pp.  186-93.
+                    <fpage>186</fpage>–
+                    <lpage>93</lpage>. 
+                </mixed-citation>
+         </ref>
+         <ref id="b20">
+            <label>20. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Petek</surname>
+                     <given-names>D</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Mlakar</surname>
+                     <given-names>M</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Quality of care for patients with diabetes mellitus type 2 in ‘model practices’ in Slovenia - first results</article-title>. 
+                    <source>Zdr Varst</source>. 
+                    <year>2016</year>
+                    <month>May</month>;
+                    <volume>55</volume>(
+                    <issue>3</issue>):
+                    <fpage>179</fpage>–
+                    <lpage>84</lpage>. 
+                    <pub-id pub-id-type="doi">10.1515/sjph-2016-0023</pub-id>
+                    <pub-id pub-id-type="pmid">27703537</pub-id>
+                    <issn>0351-0026</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b21">
+            <label>21. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Poplas-Susič</surname>
+                     <given-names>T</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Švab</surname>
+                     <given-names>I</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Klančar</surname>
+                     <given-names>D</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Petek</surname>
+                     <given-names>D</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Vodopivec-Jamšek</surname>
+                     <given-names>V</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Bulc</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <etal>et al</etal>
+                    </person-group>-
+                    <article-title>Screening and Registering Patients with Asthma and Copd in Slovenian Primary Care: first Results</article-title>. 
+                    <source>Zdr Varst</source>. 
+                    <year>2015</year>
+                    <month>Jun</month>;
+                    <volume>54</volume>(
+                    <issue>3</issue>):
+                    <fpage>161</fpage>–
+                    <lpage>7</lpage>. 
+                    <pub-id pub-id-type="doi">10.1515/sjph-2015-0023</pub-id>
+                    <pub-id pub-id-type="pmid">27646723</pub-id>
+                    <issn>0351-0026</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b22">
+            <label>22.</label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Petek Šter</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Šter</surname>
+                     <given-names>B</given-names>
+                  </name>
+                    </person-group>.
+                    <article-title>Pomen izobraževanja diplomiranih medicinskih sester v referenčnih ambulantah: primer arterijske hipertenzije</article-title>.
+                    <source>Obzornik zdravstvene nege</source>.
+                    <year>2015</year>.
+                    <volume>49</volume>(
+                    <issue>1</issue>):
+                    <fpage>52</fpage>–
+                    <lpage>9</lpage>. 
+                    <pub-id pub-id-type="doi">10.14528/snr.2015.49.1.46 </pub-id>
+                    <issn>2350-4595</issn>
+               </mixed-citation>
+         </ref>
+         <ref id="b23">
+            <label>23. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Iljaž</surname>
+                     <given-names>R</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Brodnik</surname>
+                     <given-names>A</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Zrimec</surname>
+                     <given-names>T</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Cukjati</surname>
+                     <given-names>I</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>E-healthcare for Diabetes Mellitus Type 2 Patients - A Randomised Controlled Trial in Slovenia</article-title>. 
+                    <source>Zdr Varst</source>. 
+                    <year>2017</year>
+                    <month>May</month>;
+                    <volume>56</volume>(
+                    <issue>3</issue>):
+                    <fpage>150</fpage>–
+                    <lpage>7</lpage>. 
+                    <pub-id pub-id-type="doi">10.1515/sjph-2017-0020</pub-id>
+                    <pub-id pub-id-type="pmid">28713443</pub-id>
+                    <issn>0351-0026</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b24">
+            <label>24.</label>
+            <mixed-citation publication-type="journal">
+                    <article-title>Building consensus about eHealth in Slovene primary health care: Delphi study</article-title>. 
+                    <source>BMC Med Inform Decis Mak</source>. 
+                    <year>2011</year>;(
+                    <issue>11</issue>):
+                    <fpage>25</fpage>.
+                    <pub-id pub-id-type="doi">10.1186/1472-6947-11-25</pub-id>
+                    <pub-id pub-id-type="pmid">21501514</pub-id>
+                    <issn>1472-6947</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b25">
+            <label>25. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Petek Šter</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Švab</surname>
+                     <given-names>I</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Šter</surname>
+                     <given-names>B</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Prediction of intended career choice in family medicine using artificial neural networks</article-title>. 
+                    <source>Eur J Gen Pract</source>. 
+                    <year>2015</year>
+                    <month>Mar</month>;
+                    <volume>21</volume>(
+                    <issue>1</issue>):
+                    <fpage>63</fpage>–
+                    <lpage>9</lpage>. 
+                    <pub-id pub-id-type="doi">10.3109/13814788.2014.933314</pub-id>
+                    <pub-id pub-id-type="pmid">25223737</pub-id>
+                    <issn>1381-4788</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b26">
+            <label>26. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Weltermann</surname>
+                     <given-names>BM</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Gerasimovska-Kitanovska</surname>
+                     <given-names>B</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Thielmann</surname>
+                     <given-names>A</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Chambe</surname>
+                     <given-names>J</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Lingner</surname>
+                     <given-names>H</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Pirrotta</surname>
+                     <given-names>E</given-names>
+                  </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>Self-Care Practices for Common Colds by Primary Care Patients: Study Protocol of a European Multicenter Survey-The COCO Study</article-title>. 
+                    <source>Evid Based Complement Alternat Med</source>. 
+                    <year>2015</year>;
+                    <volume>2015</volume>:
+                    <fpage>272189</fpage>. 
+                    <pub-id pub-id-type="doi">10.1155/2015/272189</pub-id>
+                    <pub-id pub-id-type="pmid">26421048</pub-id>
+                    <issn>1741-427X</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b27">
+            <label>27. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Harris</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Frey</surname>
+                     <given-names>P</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Esteva</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Gašparović Babić</surname>
+                     <given-names>S</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Marzo-Castillejo</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Petek</surname>
+                     <given-names>D</given-names>
+                  </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>How the probability of presentation to a primary care clinician correlates with cancer survival rates: a European survey using vignettes</article-title>. 
+                    <source>Scand J Prim Health Care</source>. 
+                    <year>2017</year>
+                    <month>Mar</month>;
+                    <volume>35</volume>(
+                    <issue>1</issue>):
+                    <fpage>27</fpage>–
+                    <lpage>34</lpage>. 
+                    <pub-id pub-id-type="doi">10.1080/02813432.2017.1288692</pub-id>
+                    <pub-id pub-id-type="pmid">28277044</pub-id>
+                    <issn>0281-3432</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b28">
+            <label>28. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Streit</surname>
+                     <given-names>S</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Verschoor</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Rodondi</surname>
+                     <given-names>N</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Bonfim</surname>
+                     <given-names>D</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Burman</surname>
+                     <given-names>RA</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Collins</surname>
+                     <given-names>C</given-names>
+                  </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>Variation in GP decisions on antihypertensive treatment in oldest-old and frail individuals across 29 countries</article-title>. 
+                    <source>BMC Geriatr</source>. 
+                    <year>2017</year>
+                    <month>Apr</month>;
+                    <volume>17</volume>(
+                    <issue>1</issue>):
+                    <fpage>93</fpage>. 
+                    <pub-id pub-id-type="doi">10.1186/s12877-017-0486-4</pub-id>
+                    <pub-id pub-id-type="pmid">28427345</pub-id>
+                    <issn>1471-2318</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b29">
+            <label>29. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Streit</surname>
+                     <given-names>S</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Gussekloo</surname>
+                     <given-names>J</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Burman</surname>
+                     <given-names>RA</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Collins</surname>
+                     <given-names>C</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Kitanovska</surname>
+                     <given-names>BG</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Gintere</surname>
+                     <given-names>S</given-names>
+                  </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>Burden of cardiovascular disease across 29 countries and GPs’ decision to treat hypertension in oldest-old</article-title>. 
+                    <source>Scand J Prim Health Care</source>. 
+                    <year>2018</year>
+                    <month>Mar</month>;
+                    <volume>36</volume>(
+                    <issue>1</issue>):
+                    <fpage>89</fpage>–
+                    <lpage>98</lpage>. 
+                    <pub-id pub-id-type="doi">10.1080/02813432.2018.1426142</pub-id>
+                    <pub-id pub-id-type="pmid">29366388</pub-id>
+                    <issn>0281-3432</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b30">
+            <label>30. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Zarbailov</surname>
+                     <given-names>N</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Wilm</surname>
+                     <given-names>S</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Tandeter</surname>
+                     <given-names>H</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Carelli</surname>
+                     <given-names>F</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Brekke</surname>
+                     <given-names>M</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Strengthening general practice/family medicine in Europe-advice from professionals from 30 European countries</article-title>. 
+                    <source>BMC Fam Pract</source>. 
+                    <year>2017</year>
+                    <month>Aug</month>;
+                    <volume>18</volume>(
+                    <issue>1</issue>):
+                    <fpage>80</fpage>. 
+                    <pub-id pub-id-type="doi">10.1186/s12875-017-0653-x</pub-id>
+                    <pub-id pub-id-type="pmid">28830385</pub-id>
+                    <issn>1471-2296</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b31">
+            <label>31. </label>
+            <mixed-citation publication-type="webpage">
+                    <person-group>
+                  <name name-style="western">
+                     <surname/>
+                  </name>
+               </person-group>.
+                    <source>The electronic portfolio of evidence of teaching performance</source>. 
+                    [<date-in-citation content-type="access-date" iso-8601-date="2018-01-28">cited 2018 Jan 28</date-in-citation>].
+                    <comment>Available from:<uri>http://euract-appraisal.woncaeurope.org/</uri>
+               </comment>.
+                </mixed-citation>
+         </ref>
+         <ref id="b32">
+            <label>32. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Švab</surname>
+                     <given-names>I</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Allen</surname>
+                     <given-names>J</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Žebiene</surname>
+                     <given-names>E</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Petek Šter</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Windak</surname>
+                     <given-names>A</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Training experts in family medicine teaching</article-title>. 
+                    <source>Eur J Gen Pract</source>. 
+                    <year>2016</year>;
+                    <volume>22</volume>(
+                    <issue>1</issue>):
+                    <fpage>58</fpage>–
+                    <lpage>63</lpage>. 
+                    <pub-id pub-id-type="doi">10.3109/13814788.2015.1118456</pub-id>
+                    <pub-id pub-id-type="pmid">26800044</pub-id>
+                    <issn>1381-4788</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b33">
+            <label>33. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Cvejanov Kezunović</surname>
+                     <given-names>L</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Drecun</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Švab</surname>
+                     <given-names>I</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Primary care reform in Montenegro</article-title>. 
+                    <source>Zdr Varst</source>. 
+                    <year>2013</year>;
+                    <volume>53</volume>(
+                    <issue>4</issue>):
+                    <fpage>247</fpage>–
+                    <lpage>54</lpage>. 
+                    <pub-id pub-id-type="doi">10.2478/sjph-2013-0025</pub-id>
+                    <issn>0351-0026</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b34">
+            <label>34. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Klančar</surname>
+                     <given-names>D</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Švab</surname>
+                     <given-names>I</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Primary care principles and community health centers in the countries of former Yugoslavia</article-title>. 
+                    <source>Health Policy</source>. 
+                    <year>2014</year>
+                    <month>Nov</month>;
+                    <volume>118</volume>(
+                    <issue>2</issue>):
+                    <fpage>166</fpage>–
+                    <lpage>72</lpage>. 
+                    <pub-id pub-id-type="doi">10.1016/j.healthpol.2014.08.014</pub-id>
+                    <pub-id pub-id-type="pmid">25257653</pub-id>
+                    <issn>0168-8510</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b35">
+            <label>35. </label>
+            <mixed-citation publication-type="book">
+                    <person-group person-group-type="editor">
+                        <name name-style="western">
+                     <surname>Pašić</surname>
+                     <given-names>K</given-names>
+                  </name>
+                        <role>ed</role>
+                    </person-group>. 
+                    <source>Desetletje družinske medicine. Kronika razvoja družinske medicine v Sloveniji v letih 2005-2015</source>.
+                    <publisher-loc>Ljubljana</publisher-loc>:
+                    <publisher-name>Združenje zdravnikov družinske medicine SZD</publisher-name>;
+                    <year>2016</year>.
+                </mixed-citation>
+         </ref>
+         <ref id="b36">
+            <label>36. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Švab</surname>
+                     <given-names>I</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Petek Šter</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Kersnik</surname>
+                     <given-names>J</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Živčec Kalan</surname>
+                     <given-names>G</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Car</surname>
+                     <given-names>J</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Presečna študija o delu zdravnikov splošne medicine v Sloveniji</article-title>. 
+                    <source>Zdr Varst</source>. 
+                    <year>2005</year>;
+                    <volume>44</volume>:
+                    <fpage>183</fpage>–
+                    <lpage>92</lpage>.
+                </mixed-citation>
+         </ref>
+         <ref id="b37">
+            <label>37. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Gorup</surname>
+                     <given-names>EC</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Šter</surname>
+                     <given-names>MP</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Number of medications or number of diseases: what influences underprescribing?</article-title>
+                    <source>Eur J Clin Pharmacol</source>. 
+                    <year>2017</year>
+                    <month>Dec</month>;
+                    <volume>73</volume>(
+                    <issue>12</issue>):
+                    <fpage>1673</fpage>–
+                    <lpage>9</lpage>. 
+                    <pub-id pub-id-type="doi">10.1007/s00228-017-2336-x</pub-id>
+                    <pub-id pub-id-type="pmid">28920183</pub-id>
+                    <issn>0031-6970</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b38">
+            <label>38.</label>
+            <mixed-citation publication-type="thesis">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Petek Šter</surname>
+                     <given-names>M</given-names>
+                  </name>
+                    </person-group> 
+                    <source>Kakovost vodenja bolnikov z arterijsko hipertenzijo v ambulantah splošne medicine v Sloveniji</source>.
+                    <comment>[doktorska disertacija]</comment>. 
+                    <publisher-loc>Ljubljana</publisher-loc>:
+                    <publisher-name>Medicinska fakulteta</publisher-name>;
+                    <year>2005</year>.
+                </mixed-citation>
+         </ref>
+         <ref id="b39">
+            <label>39. </label>
+            <mixed-citation publication-type="webpage">
+                    <person-group>
+                  <name name-style="western">
+                     <surname/>
+                  </name>
+               </person-group>.
+                    <source>Referenčne ambulante družinske medicine</source>.
+                    [<date-in-citation content-type="access-date" iso-8601-date="2018-01-28">cited 2018 Jan 28</date-in-citation>].
+                    <comment>Available from:<uri>http://www.referencna-ambulanta.si</uri>
+               </comment>.
+                </mixed-citation>
+         </ref>
+         <ref id="b40">
+            <label>40. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Živčec Kalan</surname>
+                     <given-names>G</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Petek Šter</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Kersnik</surname>
+                     <given-names>J</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Elementi obremenitve zdravnikov družinske medicine z delom</article-title>. 
+                    <source>Zdrav Vestn</source>. 
+                    <year>2012</year>;
+                    <volume>81</volume>:(
+                    <issue>6</issue>):
+                    <fpage>461</fpage>–
+                    <lpage>9</lpage>.
+                    <issn>0350-0063</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b41">
+            <label>41. </label>
+            <mixed-citation publication-type="webpage">
+                    <person-group person-group-type="editor">
+                        <name name-style="western">
+                     <surname>Ribarič</surname>
+                     <given-names>S</given-names>
+                  </name>
+                        <role>ed</role>
+                    </person-group>.
+                    <source>Enovit magistrski študij program druge bolonjske stopnje medicine. Predstavitveni zbornik</source>. 
+                    [<date-in-citation content-type="access-date" iso-8601-date="2018-01-28">cited 2018 Jan 28</date-in-citation>].
+                    <comment>Available from:<uri>http://www.mf.uni-lj.si/media-library/2017/11/edc64e85c4b293aefd3edf5b86aae00b.pdf</uri>
+               </comment>.
+                </mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+   <sub-article id="article-en" xml:lang="en" article-type="other">
+      <front-stub>
+         <article-categories>
+            <subj-group subj-group-type="discipline" xml:lang="en">
+               <subject>Medicine and health sciences</subject>
+               <subj-group>
+                  <subject>Public health (occupational medicine)</subject>
+               </subj-group>
+            </subj-group>
+            <subj-group subj-group-type="article-type" xml:lang="en">
+               <subject>Review article</subject>
+            </subj-group>
+            <subj-group subj-group-type="heading" xml:lang="en">
+               <subject>Public health (occupational medicine)</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title xml:lang="en">Research in Family Medicine in Slovenia</article-title>
+            <alt-title alt-title-type="running-head" xml:lang="en">Research in Family Medicine in Slovenia</alt-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Petek Šter</surname>
+                  <given-names>Marija</given-names>
+               </name>
+               <xref ref-type="aff" rid="en-aff1">1</xref>
+               <xref ref-type="corresp" rid="en-corr"/>
+            </contrib>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Švab</surname>
+                  <given-names>Igor</given-names>
+               </name>
+               <xref ref-type="aff" rid="en-aff1">1</xref>
+            </contrib>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Petek</surname>
+                  <given-names>Davorina</given-names>
+               </name>
+               <xref ref-type="aff" rid="en-aff1">1</xref>
+            </contrib>
+         </contrib-group>
+         <aff id="en-aff1" xml:lang="en">
+            <label>1</label>
+            <institution>Department of Family Medicine, Faculty of medicine, University of Ljubljana, Ljubljana, Slovenia</institution>
+         </aff>
+         <abstract xml:lang="en">
+            <title>Abstract</title>
+            <p>The primary level of health care represents an entry point into the health system, and the quality and economic sustainability of the healthcare system largely depend on it. Research is the driving force of professional development aimed at providing the best quality of patient care.</p>
+            <p>Family medicine in Slovenia represents the largest specialty at the primary level of health care, which has achieved great success in the field of research in recent decades.</p>
+            <p>The overview shows the characteristics of family medicine research, its inclusion into the educational process and practical work at different levels, pointing out the challenges that await family medicine as a scientific and research discipline in the future.</p>
+         </abstract>
+      </front-stub>
+      <body>
+         <sec id="en-s1" sec-type="Introduction">
+            <label>1</label>
+            <title>Introduction</title>
+            <p>For decades the World Health Organization has underlined the importance of strong primary health care for better population health, reducing inequalities and improving access to health care and lower costs (<xref ref-type="bibr" rid="en-b1">1</xref>,<xref ref-type="bibr" rid="en-b2">2</xref>).</p>
+            <p>The recognition of “specialty” for family medicine is based on the definition of family medicine and is in line with the following main features: point of first contact for all health needs, long-term person-centred health care, comprehensive treatment of all health needs and coordinated care within a broad team of colleagues, and family and community orientation (<xref ref-type="bibr" rid="en-b3">3</xref>).</p>
+            <p>As a relatively young profession, family medicine has long argued that besides its clinical work, there is also a research field that is essential for the advancement of the profession. Research capacity building (RCB) of a profession represents the process of the development of an individual and an institution, which leads to the strengthening of skills and greater capacity for applied research (<xref ref-type="bibr" rid="en-b4">4</xref>). Appropriate research potential is necessary to obtain information regarding the planning and decision-making of health services at the primary level. Measuring this development includes process and outcome indicators - steps and mechanisms for achieving goals and final goals as a result (<xref ref-type="bibr" rid="en-b5">5</xref>). Traditional and easily measurable results of a strengthening research capacity are published scientific articles, conference contributions, and successful project funding. However, research has a broader fundamental goal, covering the direct effect on the health care of patients, families and communities.</p>
+            <p>The article presents the development of research in family medicine. The first part briefly presents the analyses and theoretical starting points on strengthening research capacities in family medicine (FM) in general. What follows is a presentation of research and the organization of research in Slovenia; starting with the presentation of the development in family medicine, the key successes of academic family medicine, and future challenges.</p>
+            <sec id="en-s1.1"
+                 sec-type="Strengthening research capacities - literature review">
+               <label>1.1</label>
+               <title>Strengthening research capacities - literature review</title>
+               <p>Professional literature has presented several models to demonstrate the development of research capacities in family medicine, for example, Farmer’s model describing the systemic approach with the wide involvement of FM practitioners with different research skills and knowledge, taking into account local resources, needs and different research interests, clinical background, or educational needs. As an important stimulating factor the author points to fewer obstacles (paid research time, support from other researchers…), the link between researchers of the research institution and doctors in practice, and lastly, feedback and mentoring (<xref ref-type="bibr" rid="en-b6">6</xref>).</p>
+               <p>According to Jowett’s data, participation in research among family medical doctors is more frequent than expected. Doctors who are involved in pedagogical work at any level are more likely to test themselves as researchers, while motivating factors are also contact with research partners, specific time allotted for research, large group practices, whereas obstacles are, as in the Farmer model, lack of time, support, and money for research (<xref ref-type="bibr" rid="en-b7">7</xref>).</p>
+               <p>Hickner’s contribution is also interesting and it summarizes the experience of successful heads of departments of family medicine in the process of strengthening research capacities. The beginnings with small research projects followed by larger and more complex projects proved as successful in strengthening research capacities, followed by the search for research questions doctors would find interesting, gradual acquisition of experience (e.g. active participation in international congresses with posters, writing review papers…), mentorship tailored to the research problem and the candidate also for an individual, narrower research field, seeking financial support with smaller financial supporters, actively seeking connections with other family medicine departments or other specialists, supporting and financing their own institution, allotting research time and research co-workers (<xref ref-type="bibr" rid="en-b8">8</xref>).</p>
+               <p>Cooke and colleagues present the development of research potential in three interrelated levels: individual, organizational, and environmental. The individual level involves strengthening the research potential of individuals with doctoral and postdoctoral studies, developing the skills for project development and management, obtaining research grants, mentorship and networking. The organizational level consists of the formalization of research institutions, research area focus, and harmonization of new programs with existing ones. The environmental level represents political support for research, legal basis, cooperation with research agencies and other research partners, organizational infrastructure, and, lastly, adapting to research needs and capabilities of the environment (<xref ref-type="bibr" rid="en-b9">9</xref>).</p>
+            </sec>
+         </sec>
+         <sec id="en-s2" sec-type="Research in family medicine in Europe">
+            <label>2</label>
+            <title>Research in family medicine in Europe</title>
+            <p>Some European countries have a long and successful tradition of family medicine research, even though family medicine is considered a young profession in many of them. The beginnings of family medicine research can be found in the UK, Scandinavian countries, and the Netherlands (<xref ref-type="bibr" rid="en-b10">10</xref>).</p>
+            <p>Even back in the 1970s, family medicine researchers felt the need to connect. In 1974 a network of family medicine researchers was established, known today as the European General Practice Research Network (EGPRN). Currently this network of researchers, whose aim is to expand research activities, includes more than 30 countries from all parts of Europe, together with Turkey and Israel (<xref ref-type="bibr" rid="en-b11">11</xref>).</p>
+            <p>Within EGPRN an umbrella document “Research agenda for General Practice / Family medicine and Primary Health Care in Europe” in the field of family medicine research was adopted and published in 2009. It is a guide for doctors and researchers in the field of family medicine. Slovenian researchers also took part in its development. The document summarizes research areas related to key competences and characteristics of the profession according to the European definition of family medicine, suggests less frequently researched areas and types / methods of research that could best contribute to the quality of health care and improve the health of the population (<xref ref-type="bibr" rid="en-b12">12</xref>).</p>
+            <sec id="en-s2.1" sec-type="Areas of research in family medicine">
+               <label>2.1</label>
+               <title>Areas of research in family medicine</title>
+               <p>The authors of the European Research Agenda proposed the following seven areas as a focus of family medicine research (<xref ref-type="bibr" rid="en-b12">12</xref>):</p>
+               <list>
+                  <list-item>
+                     <label>1.</label>
+                     <p>Development and evaluation of care-oriented models or strategies, based on a bio-psycho-social approach.</p>
+                  </list-item>
+                  <list-item>
+                     <label>2.</label>
+                     <p>Comparative studies in populations with different cultural, social or geographic circumstances and health care systems.</p>
+                  </list-item>
+                  <list-item>
+                     <label>3.</label>
+                     <p>Longitudinal cohort studies to assess predictions and factors of health and disease.</p>
+                  </list-item>
+                  <list-item>
+                     <label>4.</label>
+                     <p>Interventional and randomized controlled trials that take into account broad issues such as multi-morbidity, quality of life, and social and environmental impacts on health.</p>
+                  </list-item>
+                  <list-item>
+                     <label>5.</label>
+                     <p>Research focusing on diagnostic strategies and reasoning.</p>
+                  </list-item>
+                  <list-item>
+                     <label>6.</label>
+                     <p>Research assessing the effectiveness and safety of routine clinical practice.</p>
+                  </list-item>
+                  <list-item>
+                     <label>7.</label>
+                     <p>Developing and validating functional and generic instruments for use in research and care in the field of research and treatment.</p>
+                  </list-item>
+               </list>
+               <p>The document also stresses that the focus of research should shift from cross-sectional to longitudinal and comparative studies, with a particular emphasis on a mixed qualitative-quantitative methodology.</p>
+            </sec>
+         </sec>
+         <sec id="en-s3"
+              sec-type="Development of research in family medicine in Slovenia">
+            <label>3</label>
+            <title>Development of research in family medicine in Slovenia</title>
+            <p>In the last 25 years family medicine observed systematically developed research through the education and support of individual researchers, as well as with an adequate support structure and organization of research.</p>
+            <p>At the same time, we wished to achieve awareness of the wider medical profession and society that research in family medicine is necessary and that it falls within the strategic priorities of society. During the development phase we followed the European definition of FM, which represents a standard for academic and professional development (<xref ref-type="bibr" rid="en-b3">3</xref>).</p>
+            <sec id="en-s3.1" sec-type="Strengthening individual research skills">
+               <label>3.1</label>
+               <title>Strengthening individual research skills</title>
+               <p>Individual training of researchers takes place at a local, national and international level.</p>
+               <sec id="en-s3.1.1" sec-type="Education for research">
+                  <label>3.1.1</label>
+                  <title>Education for research</title>
+                  <p>The establishment of the Department of Family Medicine at the Faculty of Medicine in Ljubljana, and consequently, a gradual increase in the reputation of the profession in the professional and lay public, set the conditions for a successful development of research in the field of family medicine in Slovenia.</p>
+                  <p>The study of research in family medicine takes place at all levels, starting at the undergraduate level with an elective course “Research in Family medicine”, which is aimed toward students of medicine Year 5 and 6. The aim of the course is to enable students to learn about and get involved in all phases of research work up to the final result - publication. The results are research publications of students in journals with an external review (<xref ref-type="bibr" rid="en-b13">13</xref>,<xref ref-type="bibr" rid="en-b14">14</xref>).</p>
+                  <p>Each resident must compose a research paper during their residency. The aim of the paper is not only in the research work learning process for the resident, but also establishing a viewpoint that research is the key to improving the quality of patient care. Some research papers are of such high quality that they have been published in prominent indexed journals with an impact factor (<xref ref-type="bibr" rid="en-b15">15</xref>,<xref ref-type="bibr" rid="en-b16">16</xref>).</p>
+                  <p>Postgraduate doctoral studies observe an increase in the number of doctoral students specialized in the field of family medicine. Currently, we have more than 20 doctors with a PhD degree and another 10 PhD students. Lately, we have been supporting an intensified multidisciplinary integration even in the field of doctoral work; e.g., cooperation with experts from different clinical fields - sociologists, psychologists, nursing care professionals and IT specialists.</p>
+                  <p>Researchers’ individual development strongly depends on the time they have available for research. Various research projects have been on-going at the Department for many years, where researchers have the possibility of part-time employment and further career development. They can partly still work as clinicians in outpatient clinics and partly spend their time on research.</p>
+                  <p>The quality of mentoring improved with the advancement of researchers and new doctoral students. Mentors are trained in such a way that mentorship begins with less demanding research projects (e.g. residents’ papers) in order to qualify for more demanding tasks, such as mentoring a doctoral candidate.</p>
+               </sec>
+            </sec>
+            <sec id="en-s3.2" sec-type="Local network of researchers">
+               <label>3.2</label>
+               <title>Local network of researchers</title>
+               <p>Two research groups are working within the Departments of Family Medicine in Ljubljana and Maribor on the national level. Connecting researchers both on the national and international level is very important, since carrying out major research projects is only possible as a group (<xref ref-type="bibr" rid="en-b17">17</xref>). Research groups are leading a research strategy in family medicine by designing key research areas led by individual researchers. As researchers we regularly meet at meetings where we plan and monitor the course of our research work and publishing progress of research results. Participation in a research group is an opportunity for younger and less experienced researchers to learn about project work and later project management by participating in projects.</p>
+               <p>Some major Community Health Centres, such as the Community Health Centre Ljubljana, have their own research units. The Community Health Centre Ljubljana has extensive experience in researching the quality of model practices and successful cooperation in research projects within the framework of Structural Funds, such as, for example, a project of comprehensive patient treatment, which was led by the Government Office for Development and European Cohesion Policy of the Republic of Slovenia with partners (<xref ref-type="bibr" rid="en-b18">18</xref>).</p>
+               <p>Additionally, smaller health centres employ well-established researchers who formally or informally expand the culture of research among colleagues and are involved in both locally oriented and more broadly-based research projects (<xref ref-type="bibr" rid="en-b19">19</xref>).</p>
+               <p>In recent years, however, we have seen great potential in inter-professional networking with other research groups in the field of nursing, psychologists, sociologists, IT, and others. A number of applied projects, for example, monitoring and analysis of the project “Model Practices” (<xref ref-type="bibr" rid="en-b20">20</xref>-<xref ref-type="bibr" rid="en-b22">22</xref>) and research projects that included several different research institutions, such as the National Institute of Public Health and Faculty of Computer and Information Science (<xref ref-type="bibr" rid="en-b23">23</xref>-<xref ref-type="bibr" rid="en-b25">25</xref>).</p>
+            </sec>
+            <sec id="en-s3.3" sec-type="International networks">
+               <label>3.3</label>
+               <title>International networks</title>
+               <p>Networks working under the auspices of the European Society of General Practice/Family Medicine WONCA (EGPRN - European General Practice Research Network, EuroQuol Quality Group - group for quality research in family medicine, EURACT - European Academy of Teachers in General Practice/Family Medicine…) have a mission of research development and represent an opportunity to learn about the content and methodology of research. Slovene researchers are actively involved in the projects of these networks. Through the network of researchers we are participating in numerous projects such as self-care (<xref ref-type="bibr" rid="en-b26">26</xref>), health care system factors that influence early cancer diagnosis (<xref ref-type="bibr" rid="en-b27">27</xref>), and treatment of hypertension in the oldest-old (<xref ref-type="bibr" rid="en-b28">28</xref>).</p>
+               <p>Euract manages a number of research and applied projects in the field of education, such as drafting future development strategy (<xref ref-type="bibr" rid="en-b30">30</xref>) and the implementation of a system for the accreditation of teachers in family medicine (<xref ref-type="bibr" rid="en-b31">31</xref>).</p>
+               <p>As researchers we are also connected with Departments and Institutes of Family Medicine across Europe and beyond. Our closest connections are with the Imperial College London, the University of Antwerp, Maastricht, Gothenburg, Bergen, and many others (<xref ref-type="bibr" rid="en-b17">17</xref>).</p>
+               <p>With its high level of work and research, Slovenian family medicine is the leader in the Balkans. We are expanding our role in the territory of the former Yugoslavia through educational and research projects, such as the introduction of a specialization in family medicine in Macedonia and Montenegro, which was supported by the World Bank (<xref ref-type="bibr" rid="en-b33">33</xref>). Through these projects some of us are included as external experts in the further development and analysis of the profession in the territory of the former Yugoslavia (<xref ref-type="bibr" rid="en-b34">34</xref>).</p>
+            </sec>
+         </sec>
+         <sec id="en-s4" sec-type="Research support at a national level">
+            <label>4</label>
+            <title>Research support at a national level</title>
+            <p>The main purpose of research work is to improve the health of the population. Research agencies, financial funds, pharmaceutical companies, and other companies are also aware of this, and are promoting research and applied projects through (co-)financing. National orientation to research in the field of family medicine is:</p>
+            <list>
+               <list-item>
+                  <label>•</label>
+                  <p>
+                     <italic toggle="yes">Support for participation in European projects.</italic> As a partner institution, we participated in European projects aimed at reducing alcohol-related harm, such as CHAPAPs, IATPAD, and SOPA, the PHAMEU project that examined the organization of primary health care in Europe, and the project PREDICT aimed at identifying predictive factors of depression (<xref ref-type="bibr" rid="en-b35">35</xref>).</p>
+               </list-item>
+               <list-item>
+                  <label>•</label>
+                  <p>
+                     <italic toggle="yes">Funding of numerous projects through the Slovenian Research</italic>
+                     <italic toggle="yes"> Agency (ARRS)</italic>, such as the project on the workload of family medicine doctors (<xref ref-type="bibr" rid="en-b36">36</xref>) and projects related to improving the quality of work in family medicine in the field of management of chronic diseases and treatment of the elderly (<xref ref-type="bibr" rid="en-b37">37</xref>,<xref ref-type="bibr" rid="en-b38">38</xref>).</p>
+               </list-item>
+               <list-item>
+                  <label>•</label>
+                  <p>
+                     <italic toggle="yes">Participation in the Ministry of Health’s projects</italic>; the project of Model Practices (<xref ref-type="bibr" rid="en-b39">39</xref>).</p>
+               </list-item>
+               <list-item>
+                  <label>•</label>
+                  <p>
+                     <italic toggle="yes">Participation in projects of the</italic>
+                     <italic toggle="yes"> Medical Chamber of Slovenia and the Health Insurance Institute of</italic>
+                     <italic toggle="yes"> Slovenia</italic> for identifying system solutions for improving the organization of health care. We have been involved in the development of evidence-based standards and norms for the practice of family medicine (<xref ref-type="bibr" rid="en-b40">40</xref>).</p>
+               </list-item>
+               <list-item>
+                  <label>•</label>
+                  <p>
+                     <italic toggle="yes">Research in the public interest</italic> (e.g. on quality, on the effects of national projects such as the project of Model Practices) (<xref ref-type="bibr" rid="en-b20">20</xref>-<xref ref-type="bibr" rid="en-b22">22</xref>).</p>
+               </list-item>
+            </list>
+         </sec>
+         <sec id="en-s5" sec-type="Slovenian academic family medicine in figures">
+            <label>5</label>
+            <title>Slovenian academic family medicine in figures</title>
+            <p>The Department of Family Medicine in Ljubljana and Maribor has 1 full time professor, 6 associate professors, and 5 assistant professors active currently, plus 17 teaching assistants and more than 400 mentors who, as external staff, participate in the implementation of pedagogical work. In addition to the basic subject “Family Medicine”, which has been a part of the curriculum since 1994, the Departments are now cooperating in the implementation of a number of core curriculum subjects (Primary Health Care in Ljubljana and Family Medicine in Maribor, Communication, Contact with the Patient) and electives (Motivational Techniques, Research in Family Medicine, and Medicine in Rural and Remote Areas) (<xref ref-type="bibr" rid="en-b41">41</xref>).</p>
+            <p>As part of the research group at Faculties of Medicine in Ljubljana and Maribor there are 17 registered researchers who, over the last five years, published 87 original scientific articles in high impact journals, over 1000 other publications, and have 325 pure citations. Many articles and publications were created in cooperation with renowned domestic and foreign researchers in the field of family medicine, other clinical specialties and other fields, such as psychology sociology, IT, and more.</p>
+         </sec>
+         <sec id="en-s6"
+              sec-type="Key achievements and challenges of family medicine">
+            <label>6</label>
+            <title>Key achievements and challenges of family medicine</title>
+            <sec id="en-s6.1"
+                 sec-type="Key achievements of family medicine in the field of research and the reasons for success">
+               <label>6.1</label>
+               <title>Key achievements of family medicine in the field of research and the reasons for success</title>
+               <p>Notable key achievements of family medicine in the field of research are:</p>
+               <list>
+                  <list-item>
+                     <label>•</label>
+                     <p>Formation of a research group and network of researchers that represents a bridge between researchers linked to academic institutions and practitioners interested in research.</p>
+                  </list-item>
+                  <list-item>
+                     <label>•</label>
+                     <p>Connecting on the international level; this offers the possibility of further development and reinforces the place of family medicine as a scientific, academic, and professional discipline both at home and abroad through the participation in international projects and research groups.</p>
+                  </list-item>
+                  <list-item>
+                     <label>•</label>
+                     <p>Improved position of the profession, a result of the academic development, has also contributed to a greater interest among young people, who choose family medicine residency for their career goals.</p>
+                  </list-item>
+                  <list-item>
+                     <label>•</label>
+                     <p>An increased interest in family medicine results is a higher number of young and capable doctors choosing this specialty; their drive for a research and academic career starts with enrolling in doctoral studies.</p>
+                  </list-item>
+               </list>
+            </sec>
+            <sec id="en-s6.2"
+                 sec-type="Challenges for further development in the field of research in family medicine">
+               <label>6.2</label>
+               <title>Challenges for further development in the field of research in family medicine</title>
+               <sec id="en-s6.2.1" sec-type="Network of researchers">
+                  <label>6.2.1</label>
+                  <title>Network of researchers</title>
+                  <p>The implementation of research projects in family medicine generally requires the participation of practicing family doctors, who help collect data. A network of researchers or research clinics is under development. The advantage of a well-functioning network of research clinics lies primarily in the quality of data collection, as network members have advanced training in research work.</p>
+                  <p>The network of researchers connects outpatient clinics of family medicine, which are the main source of “real” data, and at the same time, the place where research is carried out in everyday clinical work. Doctors who, primarily, are not researchers and work in clinical practice are gradually involved in research work and are even progressively involved in increasingly complex research projects. This is a process where outpatient clinics are gradually integrated into networks that are tested on smaller projects and are associated with other research projects. The main obstacle that we encounter in reinforcing the research network is doctors’ lack of time for research, a result of heavy day-to-day clinical workload and the lack of rewarding opportunities for work performance. We are not only implying a financial incentive, but also other means of recognition for their contribution. Outpatient clinics need instructions on the implementation of research, since high quality research data collection is becoming increasingly demanding; in the future we can, therefore, expect outpatient clinic competence certification for inclusion in research projects.</p>
+               </sec>
+               <sec id="en-s6.2.2" sec-type="Institute for Family Medicine">
+                  <label>6.2.2</label>
+                  <title>Institute for Family Medicine</title>
+                  <p>An Institute is the highest form of organization, which would provide human resources and financial resources for the further successful development of research and the transfer of scientific knowledge into practice. At present, we have well-trained researchers who, because they are mainly employed in health care institutions and mainly work with patients, lack research time. We also lack permanent staff needed for the implementation and data analysis (for example, administrative staff, statistical analyst, IT specialist…) and support in the form of experts needed for project management (e.g. financial management of projects).</p>
+               </sec>
+               <sec id="en-s6.2.3" sec-type="Other challenges">
+                  <label>6.2.3</label>
+                  <title>Other challenges</title>
+                  <p>We will be faced with many other challenges linked to demographic change, the development of new technologies, the changing role of the patient, and changes in the health care system. In the future we will be more focused on:</p>
+                  <list>
+                     <list-item>
+                        <label>•</label>
+                        <p>the research of problems that we encounter in our everyday work in order to find solutions that lead to improved patient treatment - an analysis of one’s own work;</p>
+                     </list-item>
+                     <list-item>
+                        <label>•</label>
+                        <p>participation in national and international research that boost doctors’ skills in the field of research and promote the transfer of novelties into our space;</p>
+                     </list-item>
+                     <list-item>
+                        <label>•</label>
+                        <p>active involvement in international networks of researchers and exchange of researchers between research institutions.</p>
+                     </list-item>
+                  </list>
+               </sec>
+            </sec>
+         </sec>
+         <sec id="en-s7" sec-type="Conclusion">
+            <label>7</label>
+            <title>Conclusion</title>
+            <p>Since its beginnings in the 1990s, the Slovenian academic family medicine has made remarkable progress and thus contributed to the development of family medicine as a clinical science. In the future, it is necessary to integrate the academic and clinical development into an institution that will function at a national level. We need an Institute for Family Medicine.</p>
+         </sec>
+      </body>
+      <back>
+         <ref-list>
+            <ref id="en-b1">
+               <label>1. </label>
+               <mixed-citation publication-type="webpage">
+                    <person-group person-group-type="author">
+                        <collab>World Health Organization</collab>
+                    </person-group>. 
+                    <conf-name>Declaration of Alma-Ata: International Conference on Primary Health Care</conf-name>.
+                    <conf-date>6–12 September 1978</conf-date>;
+                    <conf-loc>Alma-Ata, USSR</conf-loc>.
+                    [<date-in-citation content-type="access-date" iso-8601-date="2019-01-28">cited 2019 Jan 28</date-in-citation>]. 
+                    <comment>Available from:<uri>http://www.who.int/hpr/NPH/docs/declaration_almaata.pdf</uri>
+                  </comment>.
+                </mixed-citation>
+            </ref>
+            <ref id="en-b2">
+               <label>2. </label>
+               <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                        <surname>Starfield</surname>
+                        <given-names>B</given-names>
+                     </name>, 
+                        <name name-style="western">
+                        <surname>Shi</surname>
+                        <given-names>L</given-names>
+                     </name>, 
+                        <name name-style="western">
+                        <surname>Macinko</surname>
+                        <given-names>J</given-names>
+                     </name>
+                    </person-group>. 
+                    <article-title>Contribution of primary care to health systems and health</article-title>. 
+                    <source>Milbank Q</source>. 
+                    <year>2005</year>;
+                    <volume>83</volume>(
+                    <issue>3</issue>):
+                    <fpage>457</fpage>–
+                    <lpage>502</lpage>. 
+                    <pub-id pub-id-type="doi">10.1111/j.1468-0009.2005.00409.x</pub-id>
+                    <pub-id pub-id-type="pmid">16202000</pub-id>
+                    <issn>0887-378X</issn>
+                </mixed-citation>
+            </ref>
+            <ref id="en-b3">
+               <label>3. </label>
+               <mixed-citation publication-type="webpage">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                        <surname>Allen</surname>
+                        <given-names>J</given-names>
+                     </name>, 
+                        <name name-style="western">
+                        <surname>Gay</surname>
+                        <given-names>B</given-names>
+                     </name>, 
+                        <name name-style="western">
+                        <surname>Crebolder</surname>
+                        <given-names>H</given-names>
+                     </name>, 
+                        <name name-style="western">
+                        <surname>Heyrman</surname>
+                        <given-names>J</given-names>
+                     </name>, 
+                        <name name-style="western">
+                        <surname>Švab</surname>
+                        <given-names>I</given-names>
+                     </name>, 
+                        <name name-style="western">
+                        <surname>Ram</surname>
+                        <given-names>P</given-names>
+                     </name>
+                    </person-group>. 
+                    <source>Evropska definicija družinske medicine</source>.
+                    [<date-in-citation content-type="access-date" iso-8601-date="2017-12-18">cited 2017 Dec 18</date-in-citation>].
+                    <comment>Available from:<uri>http://www.woncaeurope.org/sites/default/files/documents/Evropska_definicija_druzinske_medicine.pdf</uri>
+                  </comment>.
+                </mixed-citation>
+            </ref>
+            <ref id="en-b4">
+               <label>4. </label>
+               <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                        <surname>Trostle</surname>
+                        <given-names>J</given-names>
+                     </name>
+                    </person-group>. 
+                    <article-title>Research capacity building in international health: definitions, evaluations and strategies for success</article-title>. 
+                    <source>Soc Sci Med</source>. 
+                    <year>1992</year>
+                    <month>Dec</month>;
+                    <volume>35</volume>(
+                    <issue>11</issue>):
+                    <fpage>1321</fpage>–
+                    <lpage>4</lpage>. 
+                    <pub-id pub-id-type="doi">10.1016/0277-9536(92)90035-O</pub-id>
+                    <pub-id pub-id-type="pmid">1462171</pub-id>
+                    <issn>0277-9536</issn>
+                </mixed-citation>
+            </ref>
+            <ref id="en-b5">
+               <label>5. </label>
+               <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                        <surname>Crisp</surname>
+                        <given-names>BR</given-names>
+                     </name>, 
+                        <name name-style="western">
+                        <surname>Swerissen</surname>
+                        <given-names>H</given-names>
+                     </name>, 
+                        <name name-style="western">
+                        <surname>Duckett</surname>
+                        <given-names>SJ</given-names>
+                     </name>
+                    </person-group>. 
+                    <article-title>Four approaches to capacity building in health: consequences for measurement and accountability</article-title>. 
+                    <source>Health Promot Int</source>. 
+                    <year>2000</year>;
+                    <volume>15</volume>(
+                    <issue>2</issue>):
+                    <fpage>99</fpage>–
+                    <lpage>107</lpage>. 
+                    <pub-id pub-id-type="doi">10.1093/heapro/15.2.99</pub-id>
+                    <issn>0957-4824</issn>
+                </mixed-citation>
+            </ref>
+            <ref id="en-b6">
+               <label>6. </label>
+               <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                        <surname>Farmer</surname>
+                        <given-names>E</given-names>
+                     </name>, 
+                        <name name-style="western">
+                        <surname>Weston</surname>
+                        <given-names>K</given-names>
+                     </name>
+                    </person-group>. 
+                    <article-title>A conceptual model for capacity building in Australian primary health care research</article-title>. 
+                    <source>Aust Fam Physician</source>. 
+                    <year>2002</year>
+                    <month>Dec</month>;
+                    <volume>31</volume>(
+                    <issue>12</issue>):
+                    <fpage>1139</fpage>–
+                    <lpage>42</lpage>.
+                    <pub-id pub-id-type="pmid">12516520</pub-id>
+                    <issn>0300-8495</issn>
+                </mixed-citation>
+            </ref>
+            <ref id="en-b7">
+               <label>7. </label>
+               <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                        <surname>Jowett</surname>
+                        <given-names>SM</given-names>
+                     </name>, 
+                        <name name-style="western">
+                        <surname>Macleod</surname>
+                        <given-names>J</given-names>
+                     </name>, 
+                        <name name-style="western">
+                        <surname>Wilson</surname>
+                        <given-names>S</given-names>
+                     </name>, 
+                        <name name-style="western">
+                        <surname>Hobbs</surname>
+                        <given-names>FD</given-names>
+                     </name>
+                    </person-group>. 
+                    <article-title>Research in primary care: extent of involvement and perceived determinants among practitioners from one English region</article-title>. 
+                    <source>Br J Gen Pract</source>. 
+                    <year>2000</year>
+                    <month>May</month>;
+                    <volume>50</volume>(
+                    <issue>454</issue>):
+                    <fpage>387</fpage>–
+                    <lpage>9</lpage>.
+                    <pub-id pub-id-type="pmid">10897537</pub-id>
+                    <issn>0960-1643</issn>
+                </mixed-citation>
+            </ref>
+            <ref id="en-b8">
+               <label>8. </label>
+               <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                        <surname>Hickner</surname>
+                        <given-names>J</given-names>
+                     </name>, 
+                        <name name-style="western">
+                        <surname>Kuzel</surname>
+                        <given-names>T</given-names>
+                     </name>, 
+                        <name name-style="western">
+                        <surname>Weidner</surname>
+                        <given-names>A</given-names>
+                     </name>; 
+                        <collab>ADFM Research Development Committee</collab>
+                    </person-group>. 
+                    <article-title>Building research capacity in departments of family medicine: pearls from NAPCRG 2013</article-title>. 
+                    <source>Ann Fam Med</source>. 
+                    <year>2015</year>
+                    <month>Mar</month>;
+                    <volume>13</volume>(
+                    <issue>2</issue>):
+                    <fpage>189</fpage>–
+                    <lpage>90</lpage>. 
+                    <pub-id pub-id-type="doi">10.1370/afm.1770</pub-id>
+                    <pub-id pub-id-type="pmid">25755047</pub-id>
+                    <issn>1544-1709</issn>
+                </mixed-citation>
+            </ref>
+            <ref id="en-b9">
+               <label>9. </label>
+               <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                        <surname>Cooke</surname>
+                        <given-names>J</given-names>
+                     </name>, 
+                        <name name-style="western">
+                        <surname>Ariss</surname>
+                        <given-names>S</given-names>
+                     </name>, 
+                        <name name-style="western">
+                        <surname>Smith</surname>
+                        <given-names>C</given-names>
+                     </name>, 
+                        <name name-style="western">
+                        <surname>Read</surname>
+                        <given-names>J</given-names>
+                     </name>
+                    </person-group>. 
+                    <article-title>On-going collaborative priority-setting for research activity: a method of capacity building to reduce the research-practice translational gap</article-title>. 
+                    <source>Health Res Policy Syst</source>. 
+                    <year>2015</year>
+                    <month>May</month>;
+                    <volume>13</volume>(
+                    <issue>1</issue>):
+                    <fpage>25</fpage>. 
+                    <pub-id pub-id-type="doi">10.1186/s12961-015-0014-y</pub-id>
+                    <pub-id pub-id-type="pmid">25948236</pub-id>
+                    <issn>1478-4505</issn>
+                </mixed-citation>
+            </ref>
+            <ref id="en-b10">
+               <label>10. </label>
+               <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                        <surname>De Maeseneer</surname>
+                        <given-names>JM</given-names>
+                     </name>, 
+                        <name name-style="western">
+                        <surname>van Weel</surname>
+                        <given-names>C</given-names>
+                     </name>
+                    </person-group>. 
+                    <article-title>Research in geneneral practice in Europe: a growing community</article-title>. 
+                    <source>Eur J Gen Pract</source>. 
+                    <year>2001</year>;
+                    <volume>7</volume>(
+                    <issue>3</issue>):
+                    <fpage>90</fpage>–
+                    <lpage>1</lpage>. 
+                    <pub-id pub-id-type="doi">10.3109/13814780109080867</pub-id>
+                    <issn>1381-4788</issn>
+                </mixed-citation>
+            </ref>
+            <ref id="en-b11">
+               <label>11. </label>
+               <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                        <surname>Buono</surname>
+                        <given-names>N</given-names>
+                     </name>, 
+                        <name name-style="western">
+                        <surname>Thulesius</surname>
+                        <given-names>H</given-names>
+                     </name>, 
+                        <name name-style="western">
+                        <surname>Petrazzuoli</surname>
+                        <given-names>F</given-names>
+                     </name>, 
+                        <name name-style="western">
+                        <surname>Van Merode</surname>
+                        <given-names>T</given-names>
+                     </name>, 
+                        <name name-style="western">
+                        <surname>Koskela</surname>
+                        <given-names>T</given-names>
+                     </name>, 
+                        <name name-style="western">
+                        <surname>Le Reste</surname>
+                        <given-names>JY</given-names>
+                     </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>40 years of biannual family medicine research meetings—the European General Practice Research Network (EGPRN)</article-title>. 
+                    <source>Scand J Prim Health Care</source>. 
+                    <year>2013</year>
+                    <month>Dec</month>;
+                    <volume>31</volume>(
+                    <issue>4</issue>):
+                    <fpage>185</fpage>–
+                    <lpage>7</lpage>. 
+                    <pub-id pub-id-type="doi">10.3109/02813432.2013.847594</pub-id>
+                    <pub-id pub-id-type="pmid">24191874</pub-id>
+                    <issn>0281-3432</issn>
+                </mixed-citation>
+            </ref>
+            <ref id="en-b12">
+               <label>12. </label>
+               <mixed-citation publication-type="webpage">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                        <surname>Hummers-Pradier</surname>
+                        <given-names>E</given-names>
+                     </name>, 
+                        <name name-style="western">
+                        <surname>Beyer</surname>
+                        <given-names>M</given-names>
+                     </name>, 
+                        <name name-style="western">
+                        <surname>Chevallier</surname>
+                        <given-names>P</given-names>
+                     </name>, 
+                        <name name-style="western">
+                        <surname>Eilat-Tsanani</surname>
+                        <given-names>S</given-names>
+                     </name>, 
+                        <name name-style="western">
+                        <surname>Lionis</surname>
+                        <given-names>C</given-names>
+                     </name>, 
+                        <name name-style="western">
+                        <surname>Peremans</surname>
+                        <given-names>L</given-names>
+                     </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <source>Research Agenda for General Practice : Familiy medicine and Primary Health Care in Europe</source>.
+                    [<date-in-citation content-type="access-date" iso-8601-date="2017-12-20">cited 2017 Dec 22</date-in-citation>].
+                    <comment>Available from:<uri>https://www.egprn.org/page/research-agenda</uri>
+                  </comment>.
+                </mixed-citation>
+            </ref>
+            <ref id="en-b13">
+               <label>13. </label>
+               <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                        <surname>Dolinšek</surname>
+                        <given-names>E</given-names>
+                     </name>, 
+                        <name name-style="western">
+                        <surname>Fink</surname>
+                        <given-names>N</given-names>
+                     </name>, 
+                        <name name-style="western">
+                        <surname>Petek Šter</surname>
+                        <given-names>M</given-names>
+                     </name>
+                    </person-group>. 
+                    <article-title>Orodja za merjenje multimorbidnosti : pregledni prispevek</article-title>. 
+                    <source>Med Razgl</source>. 
+                    <year>2016</year>;
+                    <volume>55</volume>:
+                    <fpage>273</fpage>–
+                    <lpage>82</lpage>.
+                    <issn>0025-8121</issn>
+                </mixed-citation>
+            </ref>
+            <ref id="en-b14">
+               <label>14. </label>
+               <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                        <surname>Omejec</surname>
+                        <given-names>J</given-names>
+                     </name>, 
+                        <name name-style="western">
+                        <surname>Stepišnik</surname>
+                        <given-names>A</given-names>
+                     </name>, 
+                        <name name-style="western">
+                        <surname>Selič</surname>
+                        <given-names>P</given-names>
+                     </name>, 
+                        <name name-style="western">
+                        <surname>Petek Šter</surname>
+                        <given-names>M</given-names>
+                     </name>
+                    </person-group>. 
+                    <article-title>Razlogi za študij medicine in dentalne medicine pri študentih prvega letnika Medicinske fakultete v Ljubljani</article-title>. 
+                    <source>Zdrav Vestn</source>. 
+                    <year>2017</year>;
+                    <volume>86</volume>(
+                    <issue>7-8</issue>):
+                    <fpage>286</fpage>–
+                    <lpage>94</lpage>. 
+                    <pub-id pub-id-type="doi">10.6016/ZdravVestn.2468</pub-id>
+                    <issn>0350-0063</issn>
+                </mixed-citation>
+            </ref>
+            <ref id="en-b15">
+               <label>15. </label>
+               <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                        <surname>Petek</surname>
+                        <given-names>D</given-names>
+                     </name>, 
+                        <name name-style="western">
+                        <surname>Rotar Pavlic</surname>
+                        <given-names>D</given-names>
+                     </name>, 
+                        <name name-style="western">
+                        <surname>Svab</surname>
+                        <given-names>I</given-names>
+                     </name>, 
+                        <name name-style="western">
+                        <surname>Lolić</surname>
+                        <given-names>D</given-names>
+                     </name>
+                    </person-group>. 
+                    <article-title>Attitudes of Roma toward smoking: qualitative study in Slovenia</article-title>. 
+                    <source>Croat Med J</source>. 
+                    <year>2006</year>
+                    <month>Apr</month>;
+                    <volume>47</volume>(
+                    <issue>2</issue>):
+                    <fpage>344</fpage>–
+                    <lpage>7</lpage>.
+                    <pub-id pub-id-type="pmid">16625703</pub-id>
+                    <issn>1332-8166</issn>
+                </mixed-citation>
+            </ref>
+            <ref id="en-b16">
+               <label>16.</label>
+               <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                        <surname>Petek</surname>
+                        <given-names>D</given-names>
+                     </name>, 
+                        <name name-style="western">
+                        <surname>Gajšek</surname>
+                        <given-names>T</given-names>
+                     </name>, 
+                        <name name-style="western">
+                        <surname>Petek Šter</surname>
+                        <given-names>M</given-names>
+                     </name>
+                    </person-group>
+                    <article-title>Work-family balance by women GP specialist trainees in Slovenia: a qualitative study</article-title>.
+                    <source>BMC Med Educ</source>.
+                    <year>2016</year>
+                    <month>Jan</month>;
+                    <volume>16</volume>:
+                    <fpage>31</fpage>.
+                    <pub-id pub-id-type="doi">10.1186/s12909-016-0551-2</pub-id>
+                    <pub-id pub-id-type="pmid">26821533</pub-id>
+                    <issn>1472-6920</issn>
+                </mixed-citation>
+            </ref>
+            <ref id="en-b17">
+               <label>17. </label>
+               <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                        <surname>Klemenc-Ketiš</surname>
+                        <given-names>Z</given-names>
+                     </name>, 
+                        <name name-style="western">
+                        <surname>Kersnik</surname>
+                        <given-names>J</given-names>
+                     </name>
+                    </person-group>. 
+                    <article-title>Importance of international networking in academic family medicine</article-title>. 
+                    <source>Acta Med Acad</source>. 
+                    <year>2014</year>;
+                    <volume>43</volume>(
+                    <issue>1</issue>):
+                    <fpage>63</fpage>–
+                    <lpage>8</lpage>. 
+                    <pub-id pub-id-type="doi">10.5644/ama2006-124.101</pub-id>
+                    <pub-id pub-id-type="pmid">24893640</pub-id>
+                    <issn>1840-1848</issn>
+                </mixed-citation>
+            </ref>
+            <ref id="en-b18">
+               <label>18. </label>
+               <mixed-citation publication-type="webpage">
+                    <person-group>
+                     <name name-style="western">
+                        <surname/>
+                     </name>
+                  </person-group>.
+                    <source>CPC plus. Uspešno zaključen prvi mednarodni projekt Zdravstvenega doma Ljubljana (ZDL)</source>. 
+                    [<date-in-citation content-type="access-date" iso-8601-date="2018-01-28">cited 2018 Jan 28</date-in-citation>].
+                    <comment>Available from:<uri>https://www.zd-lj.si/cpc/index.php?option=com_content&amp;view=article</uri>
+                  </comment>.
+                </mixed-citation>
+            </ref>
+            <ref id="en-b19">
+               <label>19. </label>
+               <mixed-citation publication-type="conference">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                        <surname>Petek Šter</surname>
+                        <given-names>M</given-names>
+                     </name>, 
+                        <name name-style="western">
+                        <surname>Pivk</surname>
+                        <given-names>L</given-names>
+                     </name>
+                    </person-group>. 
+                    <chapter-title>Ne-nujni obiski v predbolnišnični nujni medicinski pomoči</chapter-title>. In:
+                    <person-group person-group-type="editor">
+                        <name name-style="western">
+                        <surname>Skela-Savič</surname>
+                        <given-names>B</given-names>
+                     </name>, 
+                        <name name-style="western">
+                        <surname>Hvlaič Touzery</surname>
+                        <given-names>S</given-names>
+                     </name>, 
+                        <role>eds</role>
+                    </person-group>.
+                    <conf-name>7. mednarodna znanstvena konferenca Znanje, vrednote, prepričanja in dokazi za razvoj kakovostne zdravstvene obravnave: mesto in vloga zdravstvene nege: zbornik predavanj z recenzijo</conf-name>;
+                    <conf-date>12.-13. junij 2014</conf-date>;
+                    <conf-loc>[Bled, Slovenija]</conf-loc>.
+                    <publisher-loc>Jesenice</publisher-loc>:
+                    <publisher-name>Fakulteta za zdravstvo Jesenice</publisher-name>;
+                    <year>2014</year>. pp.  186-93.
+                    <fpage>186</fpage>–
+                    <lpage>93</lpage>. 
+                </mixed-citation>
+            </ref>
+            <ref id="en-b20">
+               <label>20. </label>
+               <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                        <surname>Petek</surname>
+                        <given-names>D</given-names>
+                     </name>, 
+                        <name name-style="western">
+                        <surname>Mlakar</surname>
+                        <given-names>M</given-names>
+                     </name>
+                    </person-group>. 
+                    <article-title>Quality of care for patients with diabetes mellitus type 2 in ‘model practices’ in Slovenia - first results</article-title>. 
+                    <source>Zdr Varst</source>. 
+                    <year>2016</year>
+                    <month>May</month>;
+                    <volume>55</volume>(
+                    <issue>3</issue>):
+                    <fpage>179</fpage>–
+                    <lpage>84</lpage>. 
+                    <pub-id pub-id-type="doi">10.1515/sjph-2016-0023</pub-id>
+                    <pub-id pub-id-type="pmid">27703537</pub-id>
+                    <issn>0351-0026</issn>
+                </mixed-citation>
+            </ref>
+            <ref id="en-b21">
+               <label>21. </label>
+               <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                        <surname>Poplas-Susič</surname>
+                        <given-names>T</given-names>
+                     </name>, 
+                        <name name-style="western">
+                        <surname>Švab</surname>
+                        <given-names>I</given-names>
+                     </name>, 
+                        <name name-style="western">
+                        <surname>Klančar</surname>
+                        <given-names>D</given-names>
+                     </name>, 
+                        <name name-style="western">
+                        <surname>Petek</surname>
+                        <given-names>D</given-names>
+                     </name>, 
+                        <name name-style="western">
+                        <surname>Vodopivec-Jamšek</surname>
+                        <given-names>V</given-names>
+                     </name>, 
+                        <name name-style="western">
+                        <surname>Bulc</surname>
+                        <given-names>M</given-names>
+                     </name>, 
+                        <etal>et al</etal>
+                    </person-group>-
+                    <article-title>Screening and Registering Patients with Asthma and Copd in Slovenian Primary Care: first Results</article-title>. 
+                    <source>Zdr Varst</source>. 
+                    <year>2015</year>
+                    <month>Jun</month>;
+                    <volume>54</volume>(
+                    <issue>3</issue>):
+                    <fpage>161</fpage>–
+                    <lpage>7</lpage>. 
+                    <pub-id pub-id-type="doi">10.1515/sjph-2015-0023</pub-id>
+                    <pub-id pub-id-type="pmid">27646723</pub-id>
+                    <issn>0351-0026</issn>
+                </mixed-citation>
+            </ref>
+            <ref id="en-b22">
+               <label>22.</label>
+               <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                        <surname>Petek Šter</surname>
+                        <given-names>M</given-names>
+                     </name>, 
+                        <name name-style="western">
+                        <surname>Šter</surname>
+                        <given-names>B</given-names>
+                     </name>
+                    </person-group>.
+                    <article-title>Pomen izobraževanja diplomiranih medicinskih sester v referenčnih ambulantah: primer arterijske hipertenzije</article-title>.
+                    <source>Obzornik zdravstvene nege</source>.
+                    <year>2015</year>.
+                    <volume>49</volume>(
+                    <issue>1</issue>):
+                    <fpage>52</fpage>–
+                    <lpage>9</lpage>. 
+                    <pub-id pub-id-type="doi">10.14528/snr.2015.49.1.46 </pub-id>
+                    <issn>2350-4595</issn>
+               </mixed-citation>
+            </ref>
+            <ref id="en-b23">
+               <label>23. </label>
+               <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                        <surname>Iljaž</surname>
+                        <given-names>R</given-names>
+                     </name>, 
+                        <name name-style="western">
+                        <surname>Brodnik</surname>
+                        <given-names>A</given-names>
+                     </name>, 
+                        <name name-style="western">
+                        <surname>Zrimec</surname>
+                        <given-names>T</given-names>
+                     </name>, 
+                        <name name-style="western">
+                        <surname>Cukjati</surname>
+                        <given-names>I</given-names>
+                     </name>
+                    </person-group>. 
+                    <article-title>E-healthcare for Diabetes Mellitus Type 2 Patients - A Randomised Controlled Trial in Slovenia</article-title>. 
+                    <source>Zdr Varst</source>. 
+                    <year>2017</year>
+                    <month>May</month>;
+                    <volume>56</volume>(
+                    <issue>3</issue>):
+                    <fpage>150</fpage>–
+                    <lpage>7</lpage>. 
+                    <pub-id pub-id-type="doi">10.1515/sjph-2017-0020</pub-id>
+                    <pub-id pub-id-type="pmid">28713443</pub-id>
+                    <issn>0351-0026</issn>
+                </mixed-citation>
+            </ref>
+            <ref id="en-b24">
+               <label>24.</label>
+               <mixed-citation publication-type="journal">
+                    <article-title>Building consensus about eHealth in Slovene primary health care: Delphi study</article-title>. 
+                    <source>BMC Med Inform Decis Mak</source>. 
+                    <year>2011</year>;(
+                    <issue>11</issue>):
+                    <fpage>25</fpage>.
+                    <pub-id pub-id-type="doi">10.1186/1472-6947-11-25</pub-id>
+                    <pub-id pub-id-type="pmid">21501514</pub-id>
+                    <issn>1472-6947</issn>
+                </mixed-citation>
+            </ref>
+            <ref id="en-b25">
+               <label>25. </label>
+               <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                        <surname>Petek Šter</surname>
+                        <given-names>M</given-names>
+                     </name>, 
+                        <name name-style="western">
+                        <surname>Švab</surname>
+                        <given-names>I</given-names>
+                     </name>, 
+                        <name name-style="western">
+                        <surname>Šter</surname>
+                        <given-names>B</given-names>
+                     </name>
+                    </person-group>. 
+                    <article-title>Prediction of intended career choice in family medicine using artificial neural networks</article-title>. 
+                    <source>Eur J Gen Pract</source>. 
+                    <year>2015</year>
+                    <month>Mar</month>;
+                    <volume>21</volume>(
+                    <issue>1</issue>):
+                    <fpage>63</fpage>–
+                    <lpage>9</lpage>. 
+                    <pub-id pub-id-type="doi">10.3109/13814788.2014.933314</pub-id>
+                    <pub-id pub-id-type="pmid">25223737</pub-id>
+                    <issn>1381-4788</issn>
+                </mixed-citation>
+            </ref>
+            <ref id="en-b26">
+               <label>26. </label>
+               <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                        <surname>Weltermann</surname>
+                        <given-names>BM</given-names>
+                     </name>, 
+                        <name name-style="western">
+                        <surname>Gerasimovska-Kitanovska</surname>
+                        <given-names>B</given-names>
+                     </name>, 
+                        <name name-style="western">
+                        <surname>Thielmann</surname>
+                        <given-names>A</given-names>
+                     </name>, 
+                        <name name-style="western">
+                        <surname>Chambe</surname>
+                        <given-names>J</given-names>
+                     </name>, 
+                        <name name-style="western">
+                        <surname>Lingner</surname>
+                        <given-names>H</given-names>
+                     </name>, 
+                        <name name-style="western">
+                        <surname>Pirrotta</surname>
+                        <given-names>E</given-names>
+                     </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>Self-Care Practices for Common Colds by Primary Care Patients: Study Protocol of a European Multicenter Survey-The COCO Study</article-title>. 
+                    <source>Evid Based Complement Alternat Med</source>. 
+                    <year>2015</year>;
+                    <volume>2015</volume>:
+                    <fpage>272189</fpage>. 
+                    <pub-id pub-id-type="doi">10.1155/2015/272189</pub-id>
+                    <pub-id pub-id-type="pmid">26421048</pub-id>
+                    <issn>1741-427X</issn>
+                </mixed-citation>
+            </ref>
+            <ref id="en-b27">
+               <label>27. </label>
+               <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                        <surname>Harris</surname>
+                        <given-names>M</given-names>
+                     </name>, 
+                        <name name-style="western">
+                        <surname>Frey</surname>
+                        <given-names>P</given-names>
+                     </name>, 
+                        <name name-style="western">
+                        <surname>Esteva</surname>
+                        <given-names>M</given-names>
+                     </name>, 
+                        <name name-style="western">
+                        <surname>Gašparović Babić</surname>
+                        <given-names>S</given-names>
+                     </name>, 
+                        <name name-style="western">
+                        <surname>Marzo-Castillejo</surname>
+                        <given-names>M</given-names>
+                     </name>, 
+                        <name name-style="western">
+                        <surname>Petek</surname>
+                        <given-names>D</given-names>
+                     </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>How the probability of presentation to a primary care clinician correlates with cancer survival rates: a European survey using vignettes</article-title>. 
+                    <source>Scand J Prim Health Care</source>. 
+                    <year>2017</year>
+                    <month>Mar</month>;
+                    <volume>35</volume>(
+                    <issue>1</issue>):
+                    <fpage>27</fpage>–
+                    <lpage>34</lpage>. 
+                    <pub-id pub-id-type="doi">10.1080/02813432.2017.1288692</pub-id>
+                    <pub-id pub-id-type="pmid">28277044</pub-id>
+                    <issn>0281-3432</issn>
+                </mixed-citation>
+            </ref>
+            <ref id="en-b28">
+               <label>28. </label>
+               <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                        <surname>Streit</surname>
+                        <given-names>S</given-names>
+                     </name>, 
+                        <name name-style="western">
+                        <surname>Verschoor</surname>
+                        <given-names>M</given-names>
+                     </name>, 
+                        <name name-style="western">
+                        <surname>Rodondi</surname>
+                        <given-names>N</given-names>
+                     </name>, 
+                        <name name-style="western">
+                        <surname>Bonfim</surname>
+                        <given-names>D</given-names>
+                     </name>, 
+                        <name name-style="western">
+                        <surname>Burman</surname>
+                        <given-names>RA</given-names>
+                     </name>, 
+                        <name name-style="western">
+                        <surname>Collins</surname>
+                        <given-names>C</given-names>
+                     </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>Variation in GP decisions on antihypertensive treatment in oldest-old and frail individuals across 29 countries</article-title>. 
+                    <source>BMC Geriatr</source>. 
+                    <year>2017</year>
+                    <month>Apr</month>;
+                    <volume>17</volume>(
+                    <issue>1</issue>):
+                    <fpage>93</fpage>. 
+                    <pub-id pub-id-type="doi">10.1186/s12877-017-0486-4</pub-id>
+                    <pub-id pub-id-type="pmid">28427345</pub-id>
+                    <issn>1471-2318</issn>
+                </mixed-citation>
+            </ref>
+            <ref id="en-b29">
+               <label>29. </label>
+               <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                        <surname>Streit</surname>
+                        <given-names>S</given-names>
+                     </name>, 
+                        <name name-style="western">
+                        <surname>Gussekloo</surname>
+                        <given-names>J</given-names>
+                     </name>, 
+                        <name name-style="western">
+                        <surname>Burman</surname>
+                        <given-names>RA</given-names>
+                     </name>, 
+                        <name name-style="western">
+                        <surname>Collins</surname>
+                        <given-names>C</given-names>
+                     </name>, 
+                        <name name-style="western">
+                        <surname>Kitanovska</surname>
+                        <given-names>BG</given-names>
+                     </name>, 
+                        <name name-style="western">
+                        <surname>Gintere</surname>
+                        <given-names>S</given-names>
+                     </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>Burden of cardiovascular disease across 29 countries and GPs’ decision to treat hypertension in oldest-old</article-title>. 
+                    <source>Scand J Prim Health Care</source>. 
+                    <year>2018</year>
+                    <month>Mar</month>;
+                    <volume>36</volume>(
+                    <issue>1</issue>):
+                    <fpage>89</fpage>–
+                    <lpage>98</lpage>. 
+                    <pub-id pub-id-type="doi">10.1080/02813432.2018.1426142</pub-id>
+                    <pub-id pub-id-type="pmid">29366388</pub-id>
+                    <issn>0281-3432</issn>
+                </mixed-citation>
+            </ref>
+            <ref id="en-b30">
+               <label>30. </label>
+               <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                        <surname>Zarbailov</surname>
+                        <given-names>N</given-names>
+                     </name>, 
+                        <name name-style="western">
+                        <surname>Wilm</surname>
+                        <given-names>S</given-names>
+                     </name>, 
+                        <name name-style="western">
+                        <surname>Tandeter</surname>
+                        <given-names>H</given-names>
+                     </name>, 
+                        <name name-style="western">
+                        <surname>Carelli</surname>
+                        <given-names>F</given-names>
+                     </name>, 
+                        <name name-style="western">
+                        <surname>Brekke</surname>
+                        <given-names>M</given-names>
+                     </name>
+                    </person-group>. 
+                    <article-title>Strengthening general practice/family medicine in Europe-advice from professionals from 30 European countries</article-title>. 
+                    <source>BMC Fam Pract</source>. 
+                    <year>2017</year>
+                    <month>Aug</month>;
+                    <volume>18</volume>(
+                    <issue>1</issue>):
+                    <fpage>80</fpage>. 
+                    <pub-id pub-id-type="doi">10.1186/s12875-017-0653-x</pub-id>
+                    <pub-id pub-id-type="pmid">28830385</pub-id>
+                    <issn>1471-2296</issn>
+                </mixed-citation>
+            </ref>
+            <ref id="en-b31">
+               <label>31. </label>
+               <mixed-citation publication-type="webpage">
+                    <person-group>
+                     <name name-style="western">
+                        <surname/>
+                     </name>
+                  </person-group>.
+                    <source>The electronic portfolio of evidence of teaching performance</source>. 
+                    [<date-in-citation content-type="access-date" iso-8601-date="2018-01-28">cited 2018 Jan 28</date-in-citation>].
+                    <comment>Available from:<uri>http://euract-appraisal.woncaeurope.org/</uri>
+                  </comment>.
+                </mixed-citation>
+            </ref>
+            <ref id="en-b32">
+               <label>32. </label>
+               <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                        <surname>Švab</surname>
+                        <given-names>I</given-names>
+                     </name>, 
+                        <name name-style="western">
+                        <surname>Allen</surname>
+                        <given-names>J</given-names>
+                     </name>, 
+                        <name name-style="western">
+                        <surname>Žebiene</surname>
+                        <given-names>E</given-names>
+                     </name>, 
+                        <name name-style="western">
+                        <surname>Petek Šter</surname>
+                        <given-names>M</given-names>
+                     </name>, 
+                        <name name-style="western">
+                        <surname>Windak</surname>
+                        <given-names>A</given-names>
+                     </name>
+                    </person-group>. 
+                    <article-title>Training experts in family medicine teaching</article-title>. 
+                    <source>Eur J Gen Pract</source>. 
+                    <year>2016</year>;
+                    <volume>22</volume>(
+                    <issue>1</issue>):
+                    <fpage>58</fpage>–
+                    <lpage>63</lpage>. 
+                    <pub-id pub-id-type="doi">10.3109/13814788.2015.1118456</pub-id>
+                    <pub-id pub-id-type="pmid">26800044</pub-id>
+                    <issn>1381-4788</issn>
+                </mixed-citation>
+            </ref>
+            <ref id="en-b33">
+               <label>33. </label>
+               <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                        <surname>Cvejanov Kezunović</surname>
+                        <given-names>L</given-names>
+                     </name>, 
+                        <name name-style="western">
+                        <surname>Drecun</surname>
+                        <given-names>M</given-names>
+                     </name>, 
+                        <name name-style="western">
+                        <surname>Švab</surname>
+                        <given-names>I</given-names>
+                     </name>
+                    </person-group>. 
+                    <article-title>Primary care reform in Montenegro</article-title>. 
+                    <source>Zdr Varst</source>. 
+                    <year>2013</year>;
+                    <volume>53</volume>(
+                    <issue>4</issue>):
+                    <fpage>247</fpage>–
+                    <lpage>54</lpage>. 
+                    <pub-id pub-id-type="doi">10.2478/sjph-2013-0025</pub-id>
+                    <issn>0351-0026</issn>
+                </mixed-citation>
+            </ref>
+            <ref id="en-b34">
+               <label>34. </label>
+               <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                        <surname>Klančar</surname>
+                        <given-names>D</given-names>
+                     </name>, 
+                        <name name-style="western">
+                        <surname>Švab</surname>
+                        <given-names>I</given-names>
+                     </name>
+                    </person-group>. 
+                    <article-title>Primary care principles and community health centers in the countries of former Yugoslavia</article-title>. 
+                    <source>Health Policy</source>. 
+                    <year>2014</year>
+                    <month>Nov</month>;
+                    <volume>118</volume>(
+                    <issue>2</issue>):
+                    <fpage>166</fpage>–
+                    <lpage>72</lpage>. 
+                    <pub-id pub-id-type="doi">10.1016/j.healthpol.2014.08.014</pub-id>
+                    <pub-id pub-id-type="pmid">25257653</pub-id>
+                    <issn>0168-8510</issn>
+                </mixed-citation>
+            </ref>
+            <ref id="en-b35">
+               <label>35. </label>
+               <mixed-citation publication-type="book">
+                    <person-group person-group-type="editor">
+                        <name name-style="western">
+                        <surname>Pašić</surname>
+                        <given-names>K</given-names>
+                     </name>
+                        <role>ed</role>
+                    </person-group>. 
+                    <source>Desetletje družinske medicine. Kronika razvoja družinske medicine v Sloveniji v letih 2005-2015</source>.
+                    <publisher-loc>Ljubljana</publisher-loc>:
+                    <publisher-name>Združenje zdravnikov družinske medicine SZD</publisher-name>;
+                    <year>2016</year>.
+                </mixed-citation>
+            </ref>
+            <ref id="en-b36">
+               <label>36. </label>
+               <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                        <surname>Švab</surname>
+                        <given-names>I</given-names>
+                     </name>, 
+                        <name name-style="western">
+                        <surname>Petek Šter</surname>
+                        <given-names>M</given-names>
+                     </name>, 
+                        <name name-style="western">
+                        <surname>Kersnik</surname>
+                        <given-names>J</given-names>
+                     </name>, 
+                        <name name-style="western">
+                        <surname>Živčec Kalan</surname>
+                        <given-names>G</given-names>
+                     </name>, 
+                        <name name-style="western">
+                        <surname>Car</surname>
+                        <given-names>J</given-names>
+                     </name>
+                    </person-group>. 
+                    <article-title>Presečna študija o delu zdravnikov splošne medicine v Sloveniji</article-title>. 
+                    <source>Zdr Varst</source>. 
+                    <year>2005</year>;
+                    <volume>44</volume>:
+                    <fpage>183</fpage>–
+                    <lpage>92</lpage>.
+                </mixed-citation>
+            </ref>
+            <ref id="en-b37">
+               <label>37. </label>
+               <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                        <surname>Gorup</surname>
+                        <given-names>EC</given-names>
+                     </name>, 
+                        <name name-style="western">
+                        <surname>Šter</surname>
+                        <given-names>MP</given-names>
+                     </name>
+                    </person-group>. 
+                    <article-title>Number of medications or number of diseases: what influences underprescribing?</article-title>
+                    <source>Eur J Clin Pharmacol</source>. 
+                    <year>2017</year>
+                    <month>Dec</month>;
+                    <volume>73</volume>(
+                    <issue>12</issue>):
+                    <fpage>1673</fpage>–
+                    <lpage>9</lpage>. 
+                    <pub-id pub-id-type="doi">10.1007/s00228-017-2336-x</pub-id>
+                    <pub-id pub-id-type="pmid">28920183</pub-id>
+                    <issn>0031-6970</issn>
+                </mixed-citation>
+            </ref>
+            <ref id="en-b38">
+               <label>38.</label>
+               <mixed-citation publication-type="thesis">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                        <surname>Petek Šter</surname>
+                        <given-names>M</given-names>
+                     </name>
+                    </person-group> 
+                    <source>Kakovost vodenja bolnikov z arterijsko hipertenzijo v ambulantah splošne medicine v Sloveniji</source>.
+                    <comment>[doktorska disertacija]</comment>. 
+                    <publisher-loc>Ljubljana</publisher-loc>:
+                    <publisher-name>Medicinska fakulteta</publisher-name>;
+                    <year>2005</year>.
+                </mixed-citation>
+            </ref>
+            <ref id="en-b39">
+               <label>39. </label>
+               <mixed-citation publication-type="webpage">
+                    <person-group>
+                     <name name-style="western">
+                        <surname/>
+                     </name>
+                  </person-group>.
+                    <source>Referenčne ambulante družinske medicine</source>.
+                    [<date-in-citation content-type="access-date" iso-8601-date="2018-01-28">cited 2018 Jan 28</date-in-citation>].
+                    <comment>Available from:<uri>http://www.referencna-ambulanta.si</uri>
+                  </comment>.
+                </mixed-citation>
+            </ref>
+            <ref id="en-b40">
+               <label>40. </label>
+               <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                        <surname>Živčec Kalan</surname>
+                        <given-names>G</given-names>
+                     </name>, 
+                        <name name-style="western">
+                        <surname>Petek Šter</surname>
+                        <given-names>M</given-names>
+                     </name>, 
+                        <name name-style="western">
+                        <surname>Kersnik</surname>
+                        <given-names>J</given-names>
+                     </name>
+                    </person-group>. 
+                    <article-title>Elementi obremenitve zdravnikov družinske medicine z delom</article-title>. 
+                    <source>Zdrav Vestn</source>. 
+                    <year>2012</year>;
+                    <volume>81</volume>:(
+                    <issue>6</issue>):
+                    <fpage>461</fpage>–
+                    <lpage>9</lpage>.
+                    <issn>0350-0063</issn>
+                </mixed-citation>
+            </ref>
+            <ref id="en-b41">
+               <label>41. </label>
+               <mixed-citation publication-type="webpage">
+                    <person-group person-group-type="editor">
+                        <name name-style="western">
+                        <surname>Ribarič</surname>
+                        <given-names>S</given-names>
+                     </name>
+                        <role>ed</role>
+                    </person-group>.
+                    <source>Enovit magistrski študij program druge bolonjske stopnje medicine. Predstavitveni zbornik</source>. 
+                    [<date-in-citation content-type="access-date" iso-8601-date="2018-01-28">cited 2018 Jan 28</date-in-citation>].
+                    <comment>Available from:<uri>http://www.mf.uni-lj.si/media-library/2017/11/edc64e85c4b293aefd3edf5b86aae00b.pdf</uri>
+                  </comment>.
+                </mixed-citation>
+            </ref>
+         </ref-list>
+      </back>
+   </sub-article>
+</article>

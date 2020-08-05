@@ -1,0 +1,1618 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD with MathML3 v1.1 20151215//EN" "JATS-journalpublishing1-mathml3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink"
+         dtd-version="1.1"
+         xml:lang="sl"
+         article-type="other">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher-id">Zdrav Vestn</journal-id>
+         <journal-id journal-id-type="nlm-ta">Zdrav Vestn</journal-id>
+         <journal-id journal-id-type="doi">Zdrav Vestn</journal-id>
+         <journal-title-group>
+            <journal-title>Zdravniški vestnik</journal-title>
+            <trans-title-group xml:lang="en">
+               <trans-title>Slovenian Medical Journal</trans-title>
+            </trans-title-group>
+            <abbrev-journal-title>Zdrav Vestn</abbrev-journal-title>
+         </journal-title-group>
+         <issn publication-format="ppub" pub-type="ppub">1318-0347</issn>
+         <issn publication-format="epub" pub-type="epub">1581-0224</issn>
+         <issn-l>0350-0063</issn-l>
+         <publisher>
+            <publisher-name xml:lang="sl">Slovensko zdravniško društvo</publisher-name>
+            <publisher-name xml:lang="en">Slovenian Medical Association</publisher-name>
+            <publisher-loc xml:lang="sl">Ljubljana, Slovenia</publisher-loc>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.6016/ZdravVestn.2523</article-id>
+         <article-id pub-id-type="publisher-id">2523</article-id>
+         <article-categories>
+            <subj-group subj-group-type="discipline" xml:lang="en">
+               <subject>Medicine and health sciences</subject>
+               <subj-group>
+                  <subject>Cardiovascular system</subject>
+               </subj-group>
+            </subj-group>
+            <subj-group subj-group-type="discipline" xml:lang="sl">
+               <subject>Medicina/Zdravstvo</subject>
+               <subj-group>
+                  <subject>Srce in ožilje</subject>
+               </subj-group>
+            </subj-group>
+            <subj-group subj-group-type="article-type" xml:lang="en">
+               <subject>Original scientific article</subject>
+            </subj-group>
+            <subj-group subj-group-type="article-type" xml:lang="sl">
+               <subject>Izvirni znanstveni članek</subject>
+            </subj-group>
+            <subj-group subj-group-type="heading" xml:lang="sl">
+               <subject>Srce in ožilje</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title xml:lang="sl">Analiza bolnikov z anemijo zaradi pomanjkanja železa v hematološki ambulanti</article-title>
+            <trans-title-group>
+               <trans-title xml:lang="en">Survey of patients with iron deficiency anemia in haematology outpatient clinic</trans-title>
+            </trans-title-group>
+            <alt-title alt-title-type="running-head" xml:lang="sl">Analiza bolnikov z anemijo zaradi pomanjkanja železa v hematološki ambulanti</alt-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Cvejić Vidali</surname>
+                  <given-names>Gaja</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1">1</xref>
+               <xref ref-type="corresp" rid="corr"/>
+            </contrib>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Zver</surname>
+                  <given-names>Samo</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1">1</xref>
+            </contrib>
+         </contrib-group>
+         <aff-alternatives id="aff1">
+            <aff xml:lang="sl">
+               <label>1</label>
+               <institution>Klinični oddelek za hematologijo, Interna klinika, Univerzitetni klinični center Ljubljana, Ljubljana</institution>
+            </aff>
+            <aff xml:lang="en">
+               <label>1</label>
+               <institution>Department of Haematology, Division of Internal Medicine, University Medical Centre Ljubljana, Ljubljana, Slovenia</institution>
+            </aff>
+         </aff-alternatives>
+         <author-notes>
+            <fn fn-type="conflict" xml:lang="en">
+               <p>The authors have declared that no competing interests exist.</p>
+            </fn>
+            <fn fn-type="conflict" xml:lang="sl">
+               <p>Avtorji so izjavili, da ne obstajajo nobeni konkurenčni interesi.</p>
+            </fn>
+            <corresp id="corr">Gaja Cvejić Vidali, e-mail: <email xlink:type="simple">gaja.vidali@gmail.com</email>
+            </corresp>
+         </author-notes>
+         <pub-date pub-type="ppub">
+            <month>6</month>
+            <year>2018</year>
+         </pub-date>
+         <pub-date pub-type="epub">
+            <month>6</month>
+            <year>2018</year>
+         </pub-date>
+         <volume>87</volume>
+         <issue>5–6</issue>
+         <fpage>223</fpage>
+         <lpage>36</lpage>
+         <history>
+            <date date-type="received">
+               <day>28</day>
+               <month>3</month>
+               <year>2017</year>
+            </date>
+            <date date-type="accepted">
+               <day>2</day>
+               <month>3</month>
+               <year>2018</year>
+            </date>
+         </history>
+         <permissions>
+            <copyright-statement xml:lang="en">Copyright © 2018, Slovenian Medical Association (SZD)</copyright-statement>
+            <copyright-statement xml:lang="sl">© 2018, Slovensko zdravniško društvo (SZD)</copyright-statement>
+            <copyright-year>2018</copyright-year>
+            <copyright-holder xml:lang="en">Slovenian Medical Association (SZD)</copyright-holder>
+            <copyright-holder xml:lang="sl">Slovensko zdravniško društvo (SZD)</copyright-holder>
+            <license xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                     xlink:type="simple"
+                     xml:lang="en">
+               <license-p>This is an open access article distributed under the terms of the
+          <ext-link ext-link-type="uri"
+                            xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                            xlink:type="simple">Creative Commons Attribution-NonCommercial
+            License</ext-link>, which permits unrestricted use, distribution, and
+          reproduction in any medium, provided the original author and source are
+          credited and only for non-commercial purposes. </license-p>
+            </license>
+            <license xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                     xlink:type="simple"
+                     xml:lang="sl">
+               <license-p>To je članek z odprtim dostopom, ki ga lahko uporabite pod pogoji iz
+          <ext-link ext-link-type="uri"
+                            xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                            xlink:type="simple">Creative Commons Priznanje avtorstva-Nekomercialno
+            licence</ext-link>. ki dovoljuje distribucijo, predelavo ali
+          prilagoditev, ter gradijo na njem, v nekomercialne namene, z navedbo avtorja
+          in izvirnega dela.</license-p>
+            </license>
+         </permissions>
+         <abstract xml:lang="sl">
+            <title>Izvleček</title>
+            <p>Izhodišče: Anemija zaradi pomanjkanja železa, tj. sideropenična anemija (v nadaljevanju SDA), je najpogostejša med anemijami in pogost vzrok napotitve v hematološko ambulanto. Z raziskavo smo želeli ugotoviti, koliko bolnikov s SDA smo v dveletnem obdobju obravnavali v Hematološki ambulanti UKC Ljubljana (v nadaljevanju ambulanta KOH). Zanimal nas je vzrok napotitve, značilnosti bolnikov in njihove krvne slike ob prvem pregledu, vrsta terapije, ki so jo prejeli, ter število in razlog kontrolnih pregledov. V prispevku se osredinjamo na prepoznavanje SDA, diagnosticiranje in možnosti zdravljenja ter obravnavo bolnikov v primeru, da z nadomeščanjem z železom ni ustreznega hematološkega odziva.</p>
+            <p>Metode: Retrospektivno smo analizirali dokumentacijo bolnikov, ki so bili med 1. 1. 2014 in 31. 12. 2015 pregledani v ambulanti KOH in pri katerih smo na osnovi klinične slike ter upoštevaje laboratorijske vrednosti postavili diagnozo SDA. Podatke smo zbrali z računalniškim informacijskim sistemom Hipokrat in jih statistično ovrednotili z računalniškim programom Excel.</p>
+            <p>Rezultati: Med 1. 1. 2014 in 31. 12. 2015 je bilo v ambulanti KOH pregledanih 277 bolnikov, pri katerih je bila po pregledu ugotovljena SDA. Obravnavali smo 11,6 % moških in 88,4 % žensk. Žensk v rodni dobi je bilo 62,5 %. SDA je bila kot napotna diagnoza v specialistično ambulanto navedena zgolj v 39 %, v ostalih primerih stanja napotni zdravnik ni prepoznal. Pridružene bolezni smo beležili pri 50,2 % bolnikov. 62,5 % bolnikov je bilo naročenih na kontrolni pregled k hematologu. 63,5 % vseh bolnikov je bilo v ambulanti KOH ob prvem pregledu zdravljenih z intravenskim pripravkom železa. Transfuzijo koncentriranih eritrocitov je ob prvem pregledu prejelo 4,3 % bolnikov.</p>
+            <p>Zaključek: V dveletnem obdobju smo v ambulanti KOH pogosto obravnavali bolnike s SDA. Podatki kažejo, da napotni zdravniki slabo prepoznavajo to najpogostejšo anemijo. SDA ni krvna bolezen. Napotitev bolnikov s SDA v ambulanto KOH je upravičena pri hudi mikrocitni anemiji, neodzivnosti na peroralno in/ali intravensko nadomestno zdravljenje z železom in pri tistih bolnikih, pri katerih pridružena sprememba v krvni sliki vztraja kljub učinkovitemu zdravljenju s pripravki železa.</p>
+         </abstract>
+         <trans-abstract xml:lang="en">
+            <title>Abstract</title>
+            <p>Background: Iron deficiency anaemia (IDA) is the most prevalent type of anaemia and a common cause for patient referrals to the haematology outpatient clinic. The aim of this study was to determine the number of patients with IDA treated at the Haematology Outpatient Clinic of the UMC Ljubljana in the period of two years, as well as to inquire into the causes for their referrals to the clinic, patient characteristics, their complete blood count results at initial examination, the prescribed therapy, the number and the causes of their follow-up visits. We draw special attention to the IDA onset mechanism, the microcytic anaemia therapy principles and the indications prompting a referral of an IDA patient to the haematology specialist.</p>
+            <p>Methods: We undertook a retrospective analysis of the medical records of patients who were referred to the Haematology outpatient clinic of the UMC Ljubljana for examination in the two-year period between 1 January 2014 and 31 December 2015 and had been diagnosed with IDA on the basis of their clinical picture and their CBC values. Data were collected with the Hipokrat IT system and statistically evaluated with Microsoft Excel.</p>
+            <p>Results: In the period relevant for our research, 277 patients of those who were referred to the Haematology outpatient clinic for medical examination were diagnosed with IDA. 11.6 % of these patients were male and 88.4 % female; 62.1 % of the female patients were of childbearing age. IDA was specified as the referral diagnosis in the cases of no more than 39 % of the patients referred to the specialist outpatient clinic, whilst the medical condition of the remaining percentage of patients was not identified by the referring doctor. Comorbidities were observed in 50.2 % of the patients, and for 62.5 % of the patients a follow-up appointment was scheduled by the treating haematologist. Of all patients, 63.5 % were treated with an intravenous iron preparation during their first examination at the outpatient clinic and a transfusion of erythrocytes was administered during such an examination to 4.3 % of the patients.</p>
+            <p>Conclusion: Patients with IDA were often treated at our Haematology Outpatient Clinic in the relevant two-year period. The data indicates a poor recognition rate of this prevalent type of anaemia. IDA is not a blood disorder and the referral of IDA patients to the Haematology Outpatient Clinic is justified in the case of severe microcytic anaemia, when the patient does not respond to the oral or intravenous iron replacement therapy or if a concomitant change in the CBC persists despite the effective treatment with iron preparations.</p>
+         </trans-abstract>
+         <kwd-group xml:lang="sl">
+            <kwd>anemija zaradi pomanjkanja železa</kwd>
+            <kwd>mikrocitna anemija</kwd>
+            <kwd>anemija kroničnega vnetja</kwd>
+            <kwd>hepcidin</kwd>
+            <kwd>nadomeščanje z železovimi pripravki</kwd>
+         </kwd-group>
+         <kwd-group xml:lang="en">
+            <kwd>iron deficiency anaemia</kwd>
+            <kwd>microcytic anaemia</kwd>
+            <kwd>anaemia of chronic disease</kwd>
+            <kwd>hepcidin</kwd>
+            <kwd>iron supplements</kwd>
+         </kwd-group>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>TotalReferences</meta-name>
+               <meta-value>43</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ReferencesParsed</meta-name>
+               <meta-value>37</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ReferencesBillable</meta-name>
+               <meta-value>36</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>LinkServices</meta-name>
+               <meta-value>pubmed-crossref</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ReferencesLinked</meta-name>
+               <meta-value>34</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ReferencesLinkedDOI</meta-name>
+               <meta-value>28</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ReferencesLinkedPMID</meta-name>
+               <meta-value>34</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>JournalReferences</meta-name>
+               <meta-value>37</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>BookReferences</meta-name>
+               <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>BookChapterReferences</meta-name>
+               <meta-value>1</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ConferenceReferences</meta-name>
+               <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ElectronicReferences</meta-name>
+               <meta-value>5</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>DissertationReferences</meta-name>
+               <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>LegalReferences</meta-name>
+               <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>StandardReferences</meta-name>
+               <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>OtherReferences</meta-name>
+               <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>UnknownReferences</meta-name>
+               <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ReferencesSemiParsed</meta-name>
+               <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ReferencesBookUnparsed</meta-name>
+               <meta-value>1</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>EditorialStyle</meta-name>
+               <meta-value>ICMJE-WHO</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <body>
+      <sec id="s1" sec-type="Uvod">
+         <label>1</label>
+         <title>Uvod</title>
+         <p>Anemija zaradi pomanjkanja železa je edina anemija, ki v enakem obsegu prizadene tako revne kot bogate sloje. V razvitem svetu je pogostejša pri ženskah v rodni dobi zaradi obilnih menstruacij (<xref ref-type="bibr" rid="b1">1</xref>). Pogosteje jo ugotavljamo pri osebah, ki redno jemljejo nesteroidne antirevmatike in zaviralce protonske črpalke, slednje verjetno zaradi ulkusne bolezni in zmanjšanja kislosti želodčnega soka (<xref ref-type="bibr" rid="b2">2</xref>). Pomanjkljiva prehrana je redko vzrok SDA v razvitem svetu. Lahko pa se pojavi pri ljudeh, ki se poslužujejo nenavadnih diet (<xref ref-type="bibr" rid="b1">1</xref>). Vzroki so tudi skrajno nenavadni; anemijo zaradi pomanjkanja železa lahko najdemo pri bolnikih s sindromom Münchausen (<xref ref-type="bibr" rid="b3">3</xref>). V deželah tretjega sveta na račun pomanjkljive prehrane in parazitskih okužb prizadane predvsem otroke, mladostnike in nosečnice (<xref ref-type="bibr" rid="b1">1</xref>). Ko SDA ugotovimo moškim ali ženskam v menopavzi, je prva misel izključiti raka prebavil (<xref ref-type="bibr" rid="b4">4</xref>). Zdravljenje z nadomeščanjem železa je pri SDA zgolj simptomatski ukrep. Ključno je poiskati vzrok in ga odpraviti. V prispevku predstavljamo rezultate analize bolnikov, ki so bili v dveletnem obdobju napoteni v ambulanto KOH z napotno diagnozo SDA, in tistih, pri katerih smo z anamnezo in kliničnim pregledom, upoštevajoč laboratorijske izvide, odkrili SDA. V prispevku se osredinjamo na prepoznavanje te anemije, diagnosticiranje vzrokov, možnosti zdravljenja z oralnimi in intravenskimi železovimi pripravki ter obravnavo bolnikov v primeru, da z nadomeščanjem ni ustreznega odziva.</p>
+      </sec>
+      <sec id="s2" sec-type="Material in metode">
+         <label>2</label>
+         <title>Material in metode</title>
+         <p>Retrospektivno smo analizirali popise 277 bolnikov, ki so bili med 1.1. 2014 in 31.12. 2015 napoteni v ambulanto KOH zaradi SDA, vključno tiste bolnike, pri katerih smo v hematološki ambulanti s kliničnim pregledom, upoštevajoč laboratorijske izvide, postavili diagnozo SDA. Zanimala nas je starost in spol bolnikov, napotna diagnoza, prisotnost simptomov in znakov anemije, vrednost hemoglobina, eritrocitov, povprečne prostornine eritrocita (PVE), serumskega železa, celotne vezalne sposobnosti seruma za železo (<italic>angl</italic>
+            <italic>.</italic> total iron binding capacity, TIBC), serumskega feritina in pridružene spremembe v krvni sliki, pri ženskah pa prisotnost menopavze. Beležili smo morebitno pridruženost kroničnih bolezni in vnetij, ki bi lahko vplivale na sočasen pojav anemije kroničnega vnetja. V ta namen smo poleg anamneze zabeležili druge bolnikove pridružene bolezni, vrednosti vnetnih parametrov, ledvičnih retentov in jetrnih encimov. Zanimalo nas je, koliko bolnikov je bilo naročenih na kontrolni pregled v ambulanto KOH in kaj je bil razlog za kontrolni pregled, kakšno zdravljenje je bolnikom pred prihodom v ambulanto KOH predpisal izbrani zdravnik in kakšnega zdravljenja so bili deležni ob prvem pregledu v ambulanti KOH. V <xref ref-type="table" rid="table1">Tabeli 1</xref> je opisana uporabljena razdelitev anemije glede na vrednost hemoglobina. Podatke za raziskavo smo zbrali z računalniškim informacijskim sistemom Hipokrat in jih statistično ovrednotili z računalniškim programom Excel.</p>
+         <p>V raziskavi smo uporabili naslednje referenčne vrednosti:</p>
+         <table-wrap position="anchor" id="table1">
+            <label>Tabela 1:</label>
+            <caption>
+               <p> Razdelitev anemij glede na vrednost hemoglobina.</p>
+            </caption>
+            <table>
+               <colgroup>
+                  <col/>
+                  <col/>
+               </colgroup>
+               <thead>
+                  <tr>
+                     <th>Razdelitev anemij</th>
+                     <th>koncentracija hemoglobina</th>
+                  </tr>
+               </thead>
+               <tbody>
+                  <tr>
+                     <td>Blaga</td>
+                     <td>
+                        <p>100–120 g/L (ženske)</p>
+                        <p>100–130 g/L (moški)</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td>Zmerna</td>
+                     <td>70–100 g/L</td>
+                  </tr>
+                  <tr>
+                     <td>Huda</td>
+                     <td>&lt; 70 g/L</td>
+                  </tr>
+               </tbody>
+            </table>
+         </table-wrap>
+         <list>
+            <list-item>
+               <label>•</label>
+               <p>Hemoglobin: 120–160 g/L za ženske in 130–180 g/L za moške (<xref ref-type="bibr" rid="b5">5</xref>).</p>
+            </list-item>
+            <list-item>
+               <label>•</label>
+               <p>Hematokrit: 0,30–0,47 za ženske in 0,40–0,54 za moške; povprečni volumen (PVE): 82–98 fL; eritrociti: 4,2–5,4 × 10<sup>12</sup>/L za ženske in 5,4–6,3 × 10<sup>12</sup>/L za moške; levkociti: 3,9–11,1 × 10<sup>9</sup>/L; trombociti: 157–384 × 10<sup>9</sup>/L (<xref ref-type="bibr" rid="b6">6</xref>).</p>
+            </list-item>
+            <list-item>
+               <label>•</label>
+               <p>Serumsko železo: 10,7–28,6 µmol/L; feritin: 10–120 μg/L za ženske in 20–300 μg/L za moške; totalna vezalna sposobnost za železo (TIBC): 44,8–80,6 µmol/L; povišan C-reaktivni protein: vrednost nad 5 mg/L; kreatinin: 44–97 µmol/L; povišana aspartatna transaminaza (AST): 3-kratna zgornja meja (0,52 µkat/L) za ženske in 3-kratna zgornja meja (0,58 µkat/L) za moške; povišana alaninska transaminaza (ALT): 3-kratna zgornja meja (0,56 µkat/L) za ženske in 3-kratna zgornja meja (0,74 µkat/L) za moške (<xref ref-type="bibr" rid="b7">7</xref>).</p>
+            </list-item>
+         </list>
+         <p>Raziskavo je odobrila Komisija za medicinsko etiko RS dne 14. 11. 2017 (sklep št. 0120–583/2017/5).</p>
+      </sec>
+      <sec id="s3" sec-type="Rezultati">
+         <label>3</label>
+         <title>Rezultati</title>
+         <p>Analizirali smo obravnavo 277 bolnikov, pregledanih od 1.1. 2014 do 31.12. 2015 v ambulanti KOH, pri katerih smo ugotovili anemijo zaradi pomanjkanja železa. Moških je bilo 32 (11,6 %). Ženske so bile zastopane v 88,4 % (245). 172 (62,1 %) žensk je bilo v rodni dobi in 73 (26,3 %) žensk v menopavzi. Mediana starosti pri moških je bila 66,5 let (razpon 21–87 let). Mediana starosti pri ženskah je bila 44 let (razpon od 18–94 let). V <xref ref-type="table" rid="table2">Tabeli 2</xref> so predstavljeni izsledki povprečnih vrednosti kazalcev rdeče krvne slike. Večina napotenih bolnikov je imela vrednosti hemoglobina v območju blage in zmerne anemije. Malo manj kot petina pregledanih bolnikov je imela vrednost hemoglobina v referenčnem območju. <xref ref-type="fig" rid="fig1">Slika 1</xref> prikazuje porazdelitev anemij glede na vrednost hemoglobina.</p>
+         <table-wrap position="anchor" id="table2">
+            <label>Tabela 2:</label>
+            <caption>
+               <p> Povprečne vrednosti kazalcev rdeče krvne slike in stanja železa.</p>
+            </caption>
+            <table>
+               <colgroup>
+                  <col/>
+                  <col/>
+                  <col/>
+               </colgroup>
+               <thead>
+                  <tr>
+                     <th>Laboratorijski kazalci</th>
+                     <th>Ženske</th>
+                     <th>Moški</th>
+                  </tr>
+               </thead>
+               <tbody>
+                  <tr>
+                     <td>Povprečna vrednost hemoglobina (g/L)</td>
+                     <td>100,5 (σ = ± 20,4)</td>
+                     <td>101,5 (σ = ± 23,3)</td>
+                  </tr>
+                  <tr>
+                     <td>Povprečna vrednost eritrocitov (10<sup>12</sup>/L)</td>
+                     <td>4,18 (σ = ± 0,62)</td>
+                     <td>4,13 (σ = ± 0,95)</td>
+                  </tr>
+                  <tr>
+                     <td>Povprečna vrednost serumskega železa (µmol/L)</td>
+                     <td colspan="2">8,3 (σ = ± 10,9)</td>
+                  </tr>
+                  <tr>
+                     <td>Povprečna vrednost feritina (μg/L )</td>
+                     <td colspan="2">21,6 (σ = ± 70,5)</td>
+                  </tr>
+                  <tr>
+                     <td>Povprečna vrednost TIBC (µmol/L)</td>
+                     <td colspan="2">71,3 (σ = ± 10,6)</td>
+                  </tr>
+               </tbody>
+            </table>
+            <table-wrap-foot>
+               <p>TIBC – angl. totalna vezalna sposobnost za železo, σ – standardni odklon</p>
+            </table-wrap-foot>
+         </table-wrap>
+         <fig position="anchor" id="fig1">
+            <label>Slika 1:</label>
+            <caption>
+               <p> Porazdelitev anemij glede na vrednost hemoglobina. N = 277</p>
+            </caption>
+            <p>
+               <graphic xlink:href="2523-web-resources/image/2523-1.png"/>
+            </p>
+         </fig>
+         <p>Bolnike so izbrani zdravniki napotili z napotnimi diagnozami, ki so po pogostosti opisane v <xref ref-type="table" rid="table3">Tabeli 3</xref>.</p>
+         <table-wrap position="anchor" id="table3">
+            <label>Tabela 3:</label>
+            <caption>
+               <p> Najpogostejše napotne diagnoze bolnikov z ugotovljeno SDA v hematološki ambulanti.</p>
+            </caption>
+            <table>
+               <colgroup>
+                  <col/>
+                  <col/>
+               </colgroup>
+               <thead>
+                  <tr>
+                     <th>Napotna diagnoza</th>
+                     <th>n = 277 (%)</th>
+                  </tr>
+               </thead>
+               <tbody>
+                  <tr>
+                     <td>Anemija zaradi pomanjkanja železa</td>
+                     <td>108 (39)</td>
+                  </tr>
+                  <tr>
+                     <td>Mikrocitna anemija</td>
+                     <td>77 (27,8)</td>
+                  </tr>
+                  <tr>
+                     <td>Anemija</td>
+                     <td>30 (10,8)</td>
+                  </tr>
+                  <tr>
+                     <td>Levkopenija</td>
+                     <td>5 (1,8)</td>
+                  </tr>
+                  <tr>
+                     <td>Trombocitopenija</td>
+                     <td>5 (1,8)</td>
+                  </tr>
+                  <tr>
+                     <td>Pomanjkanje železa</td>
+                     <td>4 (1,4)</td>
+                  </tr>
+                  <tr>
+                     <td>Bicitopenija</td>
+                     <td>4 (1,4)</td>
+                  </tr>
+                  <tr>
+                     <td>Normocitna anemija</td>
+                     <td>4 (1,4)</td>
+                  </tr>
+                  <tr>
+                     <td>Ostalo</td>
+                     <td>40 (14,6)</td>
+                  </tr>
+               </tbody>
+            </table>
+         </table-wrap>
+         <p>Preostale napotne diagnoze so bile potenje, monoklonski zobec, slabo počutje, monoklonski imunoglobulin nedoločenega pomena (MINP), sum na mielodisplastični sindrom (MDS), sum na talasemijo, pancitopenija, kronična anemija, makrocitoza, pomanjkanje vitamina B12, periferna nevropatija, sum na hemolitično anemijo, pozitivni Coombsov test, zlatenica idr.</p>
+         <p>Po mnenju izbranega zdravnika je bil pregled nujen pri 12 bolnikih (4,3 %). Med njimi je imel 1 bolnik blago anemijo, 7 bolnikov zmerno in 6 bolnikov hudo anemijo.</p>
+         <p>V kliničnem statusu ob pregledu v ambulanti KOH je bila kot edini znak anemije opisana bledica kože. Zabeležili smo jo pri 145 (52,3 %) bolnikov.</p>
+         <p>Kot je razvidno iz <xref ref-type="table" rid="table4">Tabele 4</xref>, so bile anemiji pogosto pridružene druge spremembe v krvni sliki.</p>
+         <table-wrap position="anchor" id="table4">
+            <label>Tabela 4:</label>
+            <caption>
+               <p> Porazdelitev najpogostejših pridruženih sprememb v krvni sliki.</p>
+            </caption>
+            <table>
+               <colgroup>
+                  <col/>
+                  <col/>
+               </colgroup>
+               <thead>
+                  <tr>
+                     <th>Pridružena sprememba v krvni sliki</th>
+                     <th>n = 277 (%)</th>
+                  </tr>
+               </thead>
+               <tbody>
+                  <tr>
+                     <td>Levkopenija</td>
+                     <td>21 (7,6)</td>
+                  </tr>
+                  <tr>
+                     <td>Levkocitoza</td>
+                     <td>16 (5,8)</td>
+                  </tr>
+                  <tr>
+                     <td>Trombocitopenija</td>
+                     <td>20 (7,2)</td>
+                  </tr>
+                  <tr>
+                     <td>Trombocitoza</td>
+                     <td>46 (16,6)</td>
+                  </tr>
+                  <tr>
+                     <td>Pancitopenija</td>
+                     <td>4 (1,4)</td>
+                  </tr>
+               </tbody>
+            </table>
+         </table-wrap>
+         <p>Iz <xref ref-type="table" rid="table5">Tabele 5</xref> ugotovimo, da smo vsaj eno pridruženo bolezen ugotavljali pri 139 (50,2 %) napotenih bolnikov.</p>
+         <table-wrap position="anchor" id="table5">
+            <label>Tabela 5:</label>
+            <caption>
+               <p> Pridružene bolezni bolnikov s SDA. </p>
+            </caption>
+            <table>
+               <colgroup>
+                  <col/>
+                  <col/>
+               </colgroup>
+               <thead>
+                  <tr>
+                     <th>Pridružena bolezen/stanje</th>
+                     <th>n = 277 (%)</th>
+                  </tr>
+               </thead>
+               <tbody>
+                  <tr>
+                     <td>Sladkorna bolezen tipa 2</td>
+                     <td>23 (8,3)</td>
+                  </tr>
+                  <tr>
+                     <td>Avtoimunska bolezen*</td>
+                     <td>23 (8,3)</td>
+                  </tr>
+                  <tr>
+                     <td>Hipotiroza</td>
+                     <td>18 (6,5)</td>
+                  </tr>
+                  <tr>
+                     <td>Rak</td>
+                     <td>8 (2,9)</td>
+                  </tr>
+                  <tr>
+                     <td>Srčno popuščanje</td>
+                     <td>8 (2,9)</td>
+                  </tr>
+                  <tr>
+                     <td>Okultna krvavitev iz prebavil</td>
+                     <td>6 (2,2)</td>
+                  </tr>
+                  <tr>
+                     <td>Nosečnost</td>
+                     <td>5 (1,8)</td>
+                  </tr>
+                  <tr>
+                     <td>Kronična ledvična odpoved</td>
+                     <td>3 (1,1)</td>
+                  </tr>
+                  <tr>
+                     <td>Drugo</td>
+                     <td>69 (24,9)</td>
+                  </tr>
+               </tbody>
+            </table>
+            <table-wrap-foot>
+               <p>* ulcerozni kolitis, Chronova bolezen, revmatoidni artritis, tiroiditis Hashimoto, celiakija, Sjögrenov sindrom, sistemska skleroza, sladkorna bolezen tipa 1</p>
+            </table-wrap-foot>
+         </table-wrap>
+         <p>Tri ali več pridruženih bolezni je imelo 35 (12,6 %) bolnikov.</p>
+         <p>Pri skupini bolnikov, pri katerih smo z anamnezo ugotavljali kronične bolezni, smo povišan C-reaktivni protein zabeležili pri 541 (9,5 %) bolnikih, nepravilnosti jetrnih transaminaz pri 5 (1,8 %) bolnikih in povišano vrednost sečnine in kreatinina pri eni bolnici. Pri 4 bolnicah (1,4 %) je hematolog v izvidih navedel poleg diagnoze SDA tudi anemijo kroničnega vnetja.</p>
+         <p>Na kontrolni pregled pri hematologu je bilo naročenih 173 (62,5 %) bolnikov. Razlog kontrolnega pregleda je bil pri 133 (48 %) bolnikih kontrola krvne slike po zdravljenju z železovimi pripravki. V 144 (52 %) primerih se je hematolog odločil za nadaljnje diagnostične ukrepe v sklopu SDA.</p>
+         <p>163 (58,8 %) bolnikov se je zaradi SDA zdravilo bodisi v preteklosti ali pa je železo prejemalo ob prvem obisku v ambulanti. 144 (52 %) bolnikov se je zdravilo z oralnimi pripravki železa. 30 (10,8 %) jih je prejelo intravenske pripravke. 9 (3,2 %) bolnikov je prejelo transfuzijo koncentriranih eritrocitov. Za ostale bolnike ni podatka. 210 (75,8 %) vseh pregledanih bolnikov je prejelo zdravljenje oz. navodila za zdravljenje. Med njimi je 176 (83,9 %) bolnikov prejelo intravenski pripravek železa in 12 (5,5 %) bolnikov transfuzijo koncentriranih eritrocitov. 9 (30 %) bolnikov, ki so ob prvem ambulantnem pregledu prejeli intravensko železo, so prejeli še drugi odmerek intravenskega železa v ambulanti KOH. Med bolniki, ki so bili najprej zdravljeni z oralnimi pripravki železa, jih je 41 (28,5 %) nadaljevalo z oralnim nadomeščanjem železa tudi po kontrolnem pregledu. Transfuzijo koncentriranih eritrocitov je ob kontrolnem pregledu prejelo 9 (2,9 %) bolnikov.</p>
+      </sec>
+      <sec id="s4" sec-type="Razpravljanje">
+         <label>4</label>
+         <title>Razpravljanje</title>
+         <p>Anemija zaradi pomanjkanja železa je najpogostejša med anemijami in v osnovi ni krvna bolezen. V raziskavi smo ugotovili, da smo v dveletnem obdobju v KOH obravnavali 277 bolnikov s SDA, torej 2,7 bolnika s SDA na dan. Med obravnavanimi bolniki so bile najštevilčnejše ženske v rodni dobi. Verjeten vzrok anemije pri tej populaciji je izguba krvi ob menstruacijah.</p>
+         <p>Absorpcija železa je omejena na 1–2 mg dnevno, saj železo, potrebno za eritropoezo pridobimo predvsem preko metabolnega obrata makrofagov, ki fagocitirajo nefunkcionalne eritrocite (<xref ref-type="bibr" rid="b1">1</xref>). Pri klinično pomembnem pomanjkanju železa se sprva izpraznijo zaloge železa, kar beležimo kot padec vrednosti serumskega feritina (<xref ref-type="bibr" rid="b8">8</xref>). Po izpraznitvi zalog železa nastanejo motnje sinteze hemoglobina, v kostnem mozgu pa nastajajo hipokromni mikrocitni eritrociti. Kot je razvidno v <xref ref-type="fig" rid="fig2">Sliki 2</xref>, se klinično pomembno pomanjkanje železa razvije postopoma.</p>
+         <fig position="anchor" id="fig2">
+            <label>Slika 2:</label>
+            <caption>
+               <p> Razvoj laboratorijskih sprememb ob pojavu negativne bilance železa. </p>
+            </caption>
+            <p>
+               <graphic xlink:href="2523-web-resources/image/2523-2.png"/>
+            </p>
+            <p>(TIBC – totalna vezalna sposobnost za železo, angl. total iron binding capacity; RDW – variabilnost širine eritrocitov, angl. red cell distributon width). Povzeto po Alleyne in sodelavci (<xref ref-type="bibr" rid="b8">8</xref>).</p>
+         </fig>
+         <p>Izguba železa pri ženskah v rodni dobi se ocenjuje na 1–3 mg dnevno, vnos pa je pogosto prenizek za vzdrževanje ničelne bilance železa (<xref ref-type="bibr" rid="b1">1</xref>). Poleg obilnih menstruacij so v razvitem svetu najpogostejši razlogi za SDA krvavitev iz prebavil, motena absorpcija železa in nenavadne diete (<xref ref-type="bibr" rid="b1">1</xref>). V nerazvitem svetu se SDA najpogosteje pojavi ob pomanjkljivi prehrani zaradi revščine tamkajšnjega prebivalstva.</p>
+         <fig position="anchor" id="fig3">
+            <label>Slika 3:</label>
+            <caption>
+               <p> Predlog diagnostičnega postopka ob mikrocitni anemiji.</p>
+            </caption>
+            <p>
+               <graphic xlink:href="2523-web-resources/image/2523-3.png"/>
+            </p>
+            <p>(PVE – povprečni volumen eritorcitov, Eri – eritrociti, TIBC – angl. total iron binding capacity, totalna vezalna sposobnost za železo, N – normalno).</p>
+         </fig>
+         <p>Pri ženskah z menoragijo moramo pomisliti na motnjo primarne hemostaze (<xref ref-type="bibr" rid="b9">9</xref>). Medtem ko von Wilebrandova bolezen prizadane okoli 1 % populacije, jo pri ženskah z menoragijo ugotavljamo v več kot 5 % (<xref ref-type="bibr" rid="b10">10</xref>). Prav tako so pri ženskah z menoragijo pogostejše motnje v delovanju trombocitov (<xref ref-type="bibr" rid="b9">9</xref>). Nadaljnje diagnosticiranje pri ženskah s SDA pred menopavzo je v domeni družinskega zdravnika in ginekologa. Tudi pri mlajših ženskah s SDA je v ozadju lahko prikrita krvavitev iz prebavil. Zato je potrebno opraviti presejalno testiranje krvi v blatu vsaj šestkrat zaporedoma.</p>
+         <p>Tretjina obravnavanih bolnikov s SDA v hematološki ambulanti so bili po izsledkih raziskave starejši moški in ženske v menopavzi. Pri njih je verjetnost za vzrok bolezni v prebavilih velika (<xref ref-type="bibr" rid="b1">1</xref>). Obvezna je gastroenterološka diagnostika (<xref ref-type="bibr" rid="b4">4</xref>). Z endoskopskimi preiskavami izključujemo morebitno maligno bolezen v prebavilih, prisotnost vnetja in razjed po sluznici prebavil ter angiodisplazije (<xref ref-type="bibr" rid="b1">1</xref>). Tudi krvavitev iz hemeroidov je lahko vzrok za SDA. Ko izključimo krvavitev iz prebavil, je potrebno pri bolnikih vseh starosti pomisliti na moteno absorpcijo železa, ki je lahko posledica okužbe z bakterijo <italic>H. pylori</italic>, celiakije ali kroničnih vnetnih črevesnih bolezni. Redkeje je izvor krvavitev v sečilih. Pri obeh spolih je pomembna anamneza o nenavadnih dietah in zdravilih, ki jih bolnik prejema (<xref ref-type="bibr" rid="b11">11</xref>). SDA se lahko pojavi ob uživanju nesteroidnih antirevmatikov, salicilatov, varfarina, klopidogrela, heparina, glukokortikoidov in zaviralcev protonske črpalke (<xref ref-type="bibr" rid="b1">1</xref>). Anemija ni bolezen, temveč simptom, pri katerem je potrebno ugotoviti vzrok njenega nastanka.</p>
+         <p>Iz <xref ref-type="table" rid="table3">Tabele 3</xref> razberemo, da je bila povprečna raven hemoglobina pri vključenih moških in ženskah na meji med blago in zmerno anemijo. Povprečna raven serumskega železa je bila pričakovano zmanjšana, povprečna raven serumskega feritina na spodnji meji normale, povprečna raven TIBC še v okviru referenčnih vrednosti. Zanimivo je, da je imela skoraj petina bolnikov ob prvem pregledu v ambulanti KOH normalno raven hemoglobina. Slednje pripisujemo ukrepanju triažnega hematologa, ki ob triaži, upoštevajoč priložene laboratorijske izvide, pošlje navodila izbranemu zdravniku še pred prvim pregledom bolnika s SDA v ambulanti KOH.</p>
+         <p>V raziskavi preseneča delež bolnikov, napotenih kot nujni primeri. Pri polovici teh bolnikov je bila raven hemoglobina v območju zmerne anemije, ena bolnica je imela raven hemoglobina celo v območju blage anemije.</p>
+         <p>Iz <xref ref-type="table" rid="table4">Tabele 4</xref> je razvidno, da je bila malo manj kot polovica bolnikov v ambulanto KOH napotena kot SDA. Zgolj desetina le-teh je imela raven hemoglobina v območju hude anemije. Indikacije za napotitev bolnika s SDA k specialistu hematologu so huda mikrocitna anemija (Hb pod 70 g/L), negotovost pri razmejitvi SDA od anemije kroničnega vnetja (AKV) ter druge nepravilnosti v krvni sliki, ki se kljub nadomestnemu zdravljenju z železom in dvigu ravni hemoglobina ne popravljajo.</p>
+         <p>SDA ostaja slabo prepoznana anemija. Kar tretjina bolnikov je bila napotena z diagnozo ‘mikrocitna anemija’. Podatek preseneča, saj je SDA daleč najpogostejši vzrok mikrocitne anemije. Poleg znižane vrednosti ravni hemoglobina in spremljajoče mikrocitoze za potrditev diagnoze SDA potrebujemo še dokaz zmanjšanih zalog železa v telesu, tj. znižana vrednost serumskega železa in zmanjšan serumski feritin (<xref ref-type="bibr" rid="b1">1</xref>,<xref ref-type="bibr" rid="b11">11</xref>). PVE je nespecifični kazalec, saj normocitna anemija pomanjkanja železa ne izključuje (<xref ref-type="bibr" rid="b12">12</xref>). Pri bolnikih je potrebno pomisliti na kombinacijo SDA in pomanjkanje vitamina B12 ali folatov. Poleg SDA v diferencialno diagnozo mikrocitne anemije sodi še anemija kroničnega vnetja in talasemija minor (<xref ref-type="bibr" rid="b11">11</xref>).</p>
+         <p>Anemija kroničnega vnetja je anemija, ki se pojavi ob kroničnih boleznih, kroničnih okužbah in vnetjih ter ob malignih boleznih (<xref ref-type="bibr" rid="b11">11</xref>). Značilna je povišana raven hormona hepcidina, kar onemogoči absorpcijo železa iz prebavil in sproščanje železa iz zalog v telesu. Zato v laboratorijskih izvidih vidimo zmanjšano koncentracijo serumskega železa, povišano koncentracijo serumskega feritina in pogosto nizko koncentracijo TIBC. Za oceno zalog železa vrednost serumskega feritina pri AKV ni povedna (<xref ref-type="bibr" rid="b1">1</xref>
+            <xref ref-type="bibr" rid="b3">3</xref>).</p>
+         <p>Talasemija beta minor je pri nas najpogostejša hemoglobinopatija (<xref ref-type="bibr" rid="b14">14</xref>). V Sloveniji se pojavlja predvsem pri osebah z mediteranskimi ali balkanskimi predniki. Verjetno bo v prihodnosti bistveno pogostejša zaradi migracijskih tokov. Bolnik s talasemijo beta minor je praviloma brez kliničnih težav. V krvni sliki je prisotna blaga anemija (vrednost hemoglobina okoli 100 g/L) z izrazito mikrocitozo (PVE med 60 in 70 fl) ob normalni vrednosti eritrocitov (<xref ref-type="bibr" rid="b15">15</xref>). Opazno je nesorazmerje med ravnijo hemoglobina in izrazito mikrocitozo. V razmazu periferne krvi najdemo tarčaste eritrocite, bazofilne punktacije v eritrocitih, pogostejši so dakriociti in ovalociti (<xref ref-type="bibr" rid="b16">16</xref>). Bolniku ob sumu na talasemijo minor prizanesemo z neprijetnimi endoskopskimi preiskavami in nepravilnost potrdimo z elektroforezo hemoglobina.</p>
+         <p>Ob ugotovitvi mikrocitne anemije je potrebno ovrednotiti status železa v krvi (<xref ref-type="bibr" rid="b11">11</xref>). Slednje razumemo kot določitev vrednosti serumskega železa, serumskega feritina in TIBC. Pri SDA je vrednost serumskega železa in serumskega feritina nizka, vrednost TIBC pa visoka. Zmanjšana vrednost feritina je najbolj zanesljiv test za potrditev anemije zaradi pomanjkanja železa (<xref ref-type="bibr" rid="b17">17</xref>). Normalna vrednost serumskega feritina ob nizkem serumskem železu ne izključujeta SDA, saj je SDA lahko pridružena AKV (<xref ref-type="bibr" rid="b11">11</xref>,<xref ref-type="bibr" rid="b13">13</xref>).</p>
+         <p>Homeostaza železa je nadzorovan proces. Glavno vlogo igra hormon hepcidin, ki se nahaja v jetrih (<xref ref-type="bibr" rid="b11">11</xref>). Velika plazemska koncentracija železa sproži izločanje hepcidina iz jeter. Preko vezave na feroportin, transmembranski prenašalec železa, vpliva na razpad le-tega in tako zavre absorpcijo železa iz duodenuma in privzem iz retikuloendotelijskega sistema v kri. Kronična vnetja in okužbe preko imunskih mehanizmov prav tako povečajo izločanje hepcidina iz jeter in zato zmanjšajo raven serumskega železa, ki ga je v zalogah sicer dovolj. Stanje imenujemo funkcionalno pomanjkanja železa. Od manifestnega pomanjkanja se razlikuje tako, da so pri funkcionalnem zaloge železa velike, kar prepoznamo kot zvečano vrednost serumskega feritina.</p>
+         <p>Klinične raziskave zaključujejo, da je pomanjkanja železa pri kroničnih boleznih prisotno, če je vrednost feritina manjša od 100 μg/L (<xref ref-type="bibr" rid="b1">1</xref>
+            <xref ref-type="bibr" rid="b8">8</xref>). Mnenja so deljena. Nekateri menijo, da je ta vrednost 200 μg/L (<xref ref-type="bibr" rid="b2">2</xref>,<xref ref-type="bibr" rid="b19">19</xref>). Dokončnega priporočila ni. V Sloveniji se pri AKV železo nadomešča, kolikor je vrednost feritina manjša od 100 μg/L. Oralni pripravki železa pri AKV niso učinkoviti, zato železo nadomeščamo vedno intravensko (<xref ref-type="bibr" rid="b19">19</xref>,<xref ref-type="bibr" rid="b20">20</xref>).</p>
+         <p>V raziskavi smo pri tretjini bolnikov zabeležili pridružene kronične bolezni. Pri opredelitvi kombiniranih vzrokov za mikrocitno anemijo so nam v pomoč drugi laboratorijski parametri. To so zasičenost transferina, vrednost topnega transferinskega receptorja, koncentracija hemoglobina v retikulocitih in raven hepcidina (<xref ref-type="bibr" rid="b19">19</xref>). Določamo jih v laboratoriju KOH, v klinični praksi pa jih redkeje uporabljamo.</p>
+         <p>Zmanjšana raven serumskega železa lahko sovpada s pomanjkanjem železa. Za oceno zalog železa pa ni primerna, saj je odvisna od posameznikove diete. Bolnik z SDA, ki zaužije obrok z visoko vsebnostjo železa, ima v krvi lahko povečano ali normalno raven serumskega železa. Vrednost lahko zdravnika zavede, kakor da so zaloge železa zadostne, dejansko pa je raven feritina, ki je kazalec zaloge v odsotnosti AKV, zmanjšana. Zaradi dnevne variabilnosti je raven serumskega železa največja zjutraj in opoldne, v popoldnevu pa se postopoma manjša (<xref ref-type="bibr" rid="b21">21</xref>). Železo je odlično hranilo za mikroorganizme. Zato imajo posamezniki z veliko vrednostjo serumskega železa pogostejše okužbe in septična stanja (<xref ref-type="bibr" rid="b35">35</xref>,<xref ref-type="bibr" rid="b36">36</xref>).</p>
+         <p>Bolniki prihajajo v ambulanto KOH z izvidom krvne slike in določeno vrednostjo serumskega železa, a brez podatka o vrednosti serumskega feritina. Pri obravnavi SDA je to ključnega pomena, zato ga je ob napotitvi bolnika potrebno priložiti bolnikovi dokumentaciji.</p>
+         <p>Klinična slika bolnika z anemijo je poznana. Ključen je podatek o hitrosti nastanka anemije. Če je anemija kronična, so tudi bolniki s hudo mikrocitno anemijo neredko brez simptomov. Po lastnih izkušnjsah z Jehovovimi pričami smo to populacijsko skupino videvali na kontrolnih pregledih, dokler raven hemoglobina ni bila manjša od 40 g/L. V naši raziskavi je imela zgolj polovica bolnikov, pregledanih v hematološki ambulanti, opisano bledico kože. Gre za subjektivno oceno lečečega hematologa. V kliničnem statusu bolnikov se le-ta redko opiše, kar pripisujemo dejstvu, da je zaradi gneče v hematoloških ambulantah delo zdravnika prehitro in tako tudi nenatančno. Za nadomeščanje z železom se odločimo tudi pri bolnikih, ki navajajo izrazito utrujenost, dispnejo ob naporu in palpitacije.</p>
+         <p>Iz <xref ref-type="table" rid="table4">Tabele 4</xref> je razvidno, da je imelo v raziskavi veliko bolnikov ob anemiji še drugo nepravilnost v krvni sliki. SDA pogosto spremljajo pridružene spremembe v krvni sliki (<xref ref-type="bibr" rid="b22">22</xref>). Najpogostejša je bila reaktivna trombocitoza. Prisotna je bila pri šestini vseh obravnavanih bolnikov. Mehanizem nastanka reaktivne trombocitoze ob SDA še ni poznan (<xref ref-type="bibr" rid="b23">23</xref>). Nekateri avtorji menijo, da gre za sinergistični vpliv eritropoetina na trombopoezo (<xref ref-type="bibr" rid="b24">24</xref>). Ob anemiji in trombocitozi je smiselno opraviti preiskave železa v periferni krvi, saj se lahko v ozadju skriva SDA. Po podatkih iz literature reaktivno levkopenijo opisujejo pri 2–17 % bolnikov s SDA (<xref ref-type="bibr" rid="b25">25</xref>,<xref ref-type="bibr" rid="b26">26</xref>). Običajno je blaga in vrednosti niso manjše od 3,0 × 10<sup>9</sup> /L (<xref ref-type="bibr" rid="b22">22</xref>). V naši analizi smo levkopenijo zabeležili pri 7 % bolnikov. V podobnem deležu smo beležili tudi trombocitopenijo, ki pa je v literaturi redkeje opisana pridružena sprememba v krvni sliki pri SDA (<xref ref-type="bibr" rid="b27">27</xref>,<xref ref-type="bibr" rid="b28">28</xref>). Pri kombinaciji anemije in trombocitopenije je pomembno pomisliti tudi na trombotično mikroangiopatijo oz. eno njenih oblik, kotsta trombotična trombocitopenična purpura in hemolitični uremični sindrom, ki imata značilno klinično sliko in odstopanja v drugih laboratorijskih izvidih. Zabeležili smo nekaj primerov pancitopenije, vendar je ta pri SDA zelo redka (<xref ref-type="bibr" rid="b29">29</xref>). Znižanje vseh celičnih vrednosti v krvni sliki pogosteje ugotavljamo pri megaloblastni anemiji (<xref ref-type="bibr" rid="b30">30</xref>). Ob nadomeščanju železa tudi opisane pridružene spremembe v krvni sliki običajno izzvenijo. Če SDA izzveni, druga pridružena sprememba v krvni sliki pa ostaja, je potrebna nadaljnja hematološka obravnava, saj se v ozadju lahko skriva pridružena krvna bolezen (<xref ref-type="bibr" rid="b22">22</xref>).</p>
+         <p>Na kontrolni pregled je bilo naročenih presenetljivo veliko število bolnikov. Menimo, da v večini primerov za to ni pravega razloga in da spremljanje bolnika s SDA sodi v pristojnost izbranega družinskega zdravnika.</p>
+         <p>Pred prvim pregledom v ambulanti KOH je več kot polovica napotenih bolnikov prejemala pripravke železa. SDA vedno zdravimo z železom.</p>
+         <p>Oralno železo je prva izbira pri zdravljenju hemodinamsko stabilnih bolnikov s SDA (<xref ref-type="bibr" rid="b1">1</xref>). Priporočeni dnevni odmerek za odraslega bolnika je 200 mg, ki ga običajno razdelimo na jutranji in večerni odmerek. Zdravimo 3 mesece. Pričakovan porast ravni hemoglobina je 20 g/L v 3 tednih oz. 1 g/L dnevno (<xref ref-type="bibr" rid="b20">20</xref>,<xref ref-type="bibr" rid="b31">31</xref>). Za zapolnitev zalog železa nadaljujemo z zdravljenjem z odmerkom 100 mg na dan še 3–6 mesecev (<xref ref-type="bibr" rid="b32">32</xref>). Absorpcija železa je boljša, če se železo jemlje na tešče ali vsaj dve uri po obroku ter ob dodatku vitamina C (<xref ref-type="bibr" rid="b1">1</xref>). Nekateri avtorji svetujejo jemanje pripravkov železa ob mesnem obroku (<xref ref-type="bibr" rid="b11">11</xref>). Absorpcija se zmanjša ob sočasnim uživanjem kalcija (mleko in mlečni izdelki), čreslovine (črni čaj, nekateri zeliščni čaji, rdeče vino), fitatov (kosmiči, žitarice) in kofeina (<xref ref-type="bibr" rid="b33">33</xref>).</p>
+         <p>Železovi pripravki lahko povzročajo prebavne težave, kar je najpogostejši razlog za neučinkovito zdravljenje (<xref ref-type="bibr" rid="b11">11</xref>). Redno uživanje železovih pripravkov je namreč za učinkovitost zdravljenja pomembnejše od izbire med dvovalentno ali trivalentno obliko železa (<xref ref-type="bibr" rid="b1">1</xref>). Nekateri proizvajalci menijo, da so pripravki s počasnim sproščanjem železa (<italic>angl.</italic> slow release) ustreznejši. Vendar se prične železo iz tovrstnega pripravka sproščati šele distalno od dvanajstnika, kjer absorbcije ni več (<xref ref-type="bibr" rid="b1">1</xref>). Večina železa se namreč absorbira v zgornjih delih prebavil do polovice jejunuma. Stranski učinki so tako še bolj izraziti. Uživanje železovih pripravkov obarva blato črno, vendar je test za prisotnost krvi v blatu negativen (<xref ref-type="bibr" rid="b1">1</xref>).</p>
+         <p>Razumevanje vloge hepcidina je spremenilo pogled na zdravljenje z oralnim železom. Novejše raziskave kažejo, da enkratni dnevni odmerek železa poveča vrednost hepcidina v krvi, ta pa moti absorpcijo naslednjih dnevnih odmerkov oralnega železa. Učinek hepcidina lahko traja do 48 ur (<xref ref-type="bibr" rid="b37">37</xref>). Shema odmerjanja železa v prihodnosti bo morda vključevala samo enkratni dnevni odmerek, predvidoma vsak drug dan (<xref ref-type="bibr" rid="b38">38</xref>).Potrebne bodo še dodatne klinične raziskave, zaenkrat pa se svetuje še standardno odmerjanje oralnih oblik železa, kar smo v prispevku že opisali.</p>
+         <p>Če se vrednost hemoglobina po 4–6 tednih zdravljenja z minimalno 100 mg elementarnega železa dnevno ne poviša za 10 g/L, govorimo o trdovratni (refraktarni) anemiji zaradi pomanjkanja železa (<xref ref-type="bibr" rid="b2">2</xref>0). Pogosti razlogi refraktarnosti so celiakija, avtoimunski atrofični gastritis, gastritis zaradi okužbe z bakterijo <italic>H. pylori</italic> in dedna oblika SDA, imenovana IRIDA (<italic>angl.</italic> iron refractory iron deficiency anaemia) (<xref ref-type="bibr" rid="b20">20</xref>). SDA je pri celiakiji najpogostejši zunajčrevesni pojav. Vzrok bolezni je kombinacija motene absorpcije železa in prikritih krvavitev (<xref ref-type="bibr" rid="b20">20</xref>). Pomanjkanje želodčne kisline moti topnost peroralnega železa pri avtoimunskem atrofičnem gastritisu (<xref ref-type="bibr" rid="b20">20</xref>). Klinične raziskave so potrdile povezavo refraktarne oblike SDA z gastritisom zaradi okužbe z bakterijo <italic>H. pylori</italic>. Jasen mehanizem delovanja bakterije na absorpcijo železa ni poznan, verjetno pa gre za kombinacijo kompetitvnega delovanja bakterije za privzem železa, prikritih krvavitev in alkaliziranje želodčne kisline (<xref ref-type="bibr" rid="b20">20</xref>). Sočasno izkoreninjenje bakterije <italic>H. pylori</italic> in nadomeščanje železa sta SDA pri večini bolnikov odpravila (<xref ref-type="bibr" rid="b34">34</xref>). IRIDA je redka dedna motnja, pri kateri je mutiran gen TMPRSS6, ki kodira encim metatriptazo-2 (<xref ref-type="bibr" rid="b1">1</xref>). Ta sodeluje pri uravnavanju izločanja hormona hepcidina. Pri tej bolezni je vrednost hepcidina zelo visoka in moti absorpcijo železa iz prebavil. V laboratorijskih izvidih je ob hipokromni mikrocitni anemiji izvid statusa železa podoben kot pri AKV; vrednost serumskega železa je zelo nizka, serumski feritin pa normalen ali celo visok. Od AKV je ločimo po odsotnosti znakov vnetja. Pogosteje jo odkrijemo pri otrocih in mladih odraslih.</p>
+         <p>Indikacije za intravensko zdravljenje z železom so neprenašanje oralnih železovih pripravkov, refraktarna anemija ob pomanjkanju železa, zavračanje transfuzije krvnih pripravkov zaradi verskih razlogov (Jehovove priče), zapolnitev zalog železa pred zdravljenjem z eritropoetinom (<xref ref-type="bibr" rid="b1">1</xref>). Pri intravenskem nadomeščanju serumska raven hemoglobina hitro poraste, zato ga uporabljamo pri bolnikih pred načrtovano operacijo, ki imajo SDA, pri nosečnicah v drugem in tretjem trimesečju, če je anemija huda, ali ob krvavitvi iz prebavil pri bolnikih z motnjami strjevanja krvi. Strah pred alergijskimi reakcijami ob infuziji železa izvira iz preteklosti, ko je bil dekstran nosilec železa v intravenskih pripravkih (<xref ref-type="bibr" rid="b39">39</xref>). Slednji je bil vzrok za večino alergijskih reakcij. Danes so na voljo pripravki brez dekstrana. Alergijske reakcije so redke. Bolnik lahko varno prejme intravensko železo v ambulanti zdravstvenega doma, zato napotitev k hematologu ni upravičena (<xref ref-type="bibr" rid="b4">4</xref>0). Stroške krije Zavod za zdravstveno zavarovanje Slovenije. Pri nosečnicah v prvem trimesečju se zaradi pomanjkanja študij o varnosti dajanja železa v veno izogibamo (<xref ref-type="bibr" rid="b40">40</xref>).</p>
+         <p>Transfuzija koncentriranih eritrocitov (KE) je pri SDA na mestu zgolj ob resnih kliničnih težavah in predstavlja simptomatski ukrep (<xref ref-type="bibr" rid="b1">1</xref>). Zdravi posamezniki imajo korist od transfuzije KE pri vrednosti hemoglobina, ki je manjša od 60 g/L. Predvsem srčni bolniki slabše prenašajo anemijo. Tako so večjo umrljivost ugotovili pri srčnih bolnikih z vrednostjo hemoglobina, manjšo od 100 g/L (<xref ref-type="bibr" rid="b41">41</xref>). Transfuzijo KE običajno prejmejo bolniki po akutni krvavitvi, in sicer ne glede na mesto krvavitve, in tisti bolniki z večjo kronično krvavitvijo, pri kateri hematopoeza ne zmore dohajati izgube krvi. To so na primer bolniki s hereditarno hemoragično teleangiektazijo (<xref ref-type="bibr" rid="b1">1</xref>). Transfuzija KE je na mestu pri kroničnih bolnikih s srčnim popuščanjem, kronično ledvično ali jetrno boleznijo in drugimi kroničnimi boleznimi, kjer je prag za nadomeščanje s transfuzijo KE višji oz. odvisen od simptomov in znakov anemije. Transfuzija KE vedno poslabša potek in uspešnost zdravljenja osnovne bolezni.</p>
+         <p>Ob prejetih transfuzijah KE morajo bolniki hkrati pričeti z nadomeščanjem železa, praviloma v intravenski obliki (<xref ref-type="bibr" rid="b42">42</xref>). Eritropoetini pri zdravljenju SDA niso na mestu.</p>
+         <p>Zdravila za zdravljenje anemije zaradi pomanjkanja železa v Sloveniji (<xref ref-type="bibr" rid="b43">43</xref>):</p>
+         <list>
+            <list-item>
+               <label>•</label>
+               <p>Zdravila za peroralno uporabo so navedena v <xref ref-type="table" rid="table6">Tabeli 6</xref>.</p>
+            </list-item>
+         </list>
+         <table-wrap position="anchor" id="table6">
+            <label>Tabela 6:</label>
+            <caption>
+               <p> Pripravki za oralno zdravljenje SDA.</p>
+            </caption>
+            <table>
+               <colgroup>
+                  <col/>
+                  <col/>
+                  <col/>
+                  <col/>
+               </colgroup>
+               <thead>
+                  <tr>
+                     <th>Lastniško ime</th>
+                     <th>Učinkovina</th>
+                     <th>Pakiranje</th>
+                     <th>Odmerek *</th>
+                  </tr>
+               </thead>
+               <tbody>
+                  <tr>
+                     <td>Ferrum Lek®</td>
+                     <td>trivalentni železov oksid</td>
+                     <td>30 × 100 mg žvečljive tablete; 100 ml sirupa, 50 mg/5 ml</td>
+                     <td>
+                        <p>1–3 tbl/dan</p>
+                        <p>10–30 ml/dan</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td>Eisensulfat Lomapharm®</td>
+                     <td>dvovalentni železov sulfat</td>
+                     <td>
+                        <p>20 x, 50 x, 100 x</p>
+                        <p>100 mg tablete</p>
+                     </td>
+                     <td>1 tbl/12 ur</td>
+                  </tr>
+                  <tr>
+                     <td>Legofer®</td>
+                     <td>trivalentni železov proteinsukcinilat</td>
+                     <td>
+                        <p>150 ml sirupa,</p>
+                        <p>40 mg/15 ml</p>
+                     </td>
+                     <td>7,5–15 ml/12 ur</td>
+                  </tr>
+                  <tr>
+                     <td>Tardyfer®</td>
+                     <td>dvovalentni železov sulfat</td>
+                     <td>30 × 80 mg tablete</td>
+                     <td>1–2 tbl/dan</td>
+                  </tr>
+               </tbody>
+            </table>
+            <table-wrap-foot>
+               <p>* Odmerek za očitno pomanjkanje železa pri odraslih.</p>
+            </table-wrap-foot>
+         </table-wrap>
+         <list>
+            <list-item>
+               <label>•</label>
+               <p>Zdravila za intravensko uporabo so navedena v <xref ref-type="table" rid="table7">Tabeli 7</xref>.</p>
+            </list-item>
+         </list>
+         <table-wrap position="anchor" id="table7">
+            <label>Tabela 7:</label>
+            <caption>
+               <p> Pripravki za intravensko zdravljenje SDA.</p>
+            </caption>
+            <table>
+               <colgroup>
+                  <col/>
+                  <col/>
+                  <col/>
+                  <col/>
+               </colgroup>
+               <thead>
+                  <tr>
+                     <th>Lastniško ime</th>
+                     <th>Učinkovina in nosilec</th>
+                     <th>Pakiranje</th>
+                     <th>Odmerek*</th>
+                  </tr>
+               </thead>
+               <tbody>
+                  <tr>
+                     <td>Ferrologic®</td>
+                     <td>trivalentni železov oksid saharat</td>
+                     <td>
+                        <p>20 mg/ml</p>
+                        <p>5 ml ampule</p>
+                     </td>
+                     <td>100–200 mg/dan do 3-krat na teden ali največ 500 mg 1-krat na teden</td>
+                  </tr>
+                  <tr>
+                     <td>Iroprem®</td>
+                     <td>trivalentna železova karboksimaltoza</td>
+                     <td>
+                        <p>50 mg/ml</p>
+                        <p>10 ml viale</p>
+                        <p>2 ml viale</p>
+                     </td>
+                     <td>največ 1000 mg/dan 1-krat na teden</td>
+                  </tr>
+                  <tr>
+                     <td>Venofer®</td>
+                     <td>trivalentni železov oksid saharat</td>
+                     <td>
+                        <p>20 mg/ml</p>
+                        <p>5 ml ampule</p>
+                     </td>
+                     <td>100–200 mg/dan do 3-krat na teden ali največ 500 mg 1-krat na teden</td>
+                  </tr>
+               </tbody>
+            </table>
+            <table-wrap-foot>
+               <p>*Celotni kumulativni odmerek intravenskega železa izračunamo:</p>
+               <p>Ferrologic® in Venofer®</p>
+               <p>Celotna količina železa, ki naj jo bolnik prejme [mg] = telesna masa [kg] x (želena koncentracija Hb – dejanska koncentracija Hb) [g/l] × 0,24* + količina železa za zapolnitev zalog [500 mg]</p>
+               <p>Iroprem®</p>
+               <p>Bolniki s telesno maso 35 kg do &lt; 70 kg; Hb &lt; 10 g/dl: 1.500 mg, Hb ≥ 10 g/dl: 1.000 mg</p>
+               <p>Bolniki s telesno maso ≥ 70 kg; Hb &lt; 10 g/dl: 2.000 mg, Hb ≥ 10 g/dl: 1.500 mg</p>
+            </table-wrap-foot>
+         </table-wrap>
+      </sec>
+      <sec id="s5" sec-type="Zaključek">
+         <label>5</label>
+         <title>Zaključek</title>
+         <p>Anemija zaradi pomanjkanja železa je pogost vzrok napotitve bolnikov v hematološko ambulanto. V naši raziskavi so bile najpogosteje obravnavane ženske v rodni dobi. V hematološki ambulanti je večina bolnikov s SDA prejela intravensko železo. Podatki kažejo, da je mikrocitna anemija slabo prepoznano stanje. V hematološko ambulanto napotimo bolnike s hudo mikrocitno anemijo s simptomi (Hb, manjši od 70 g/L) ter tiste, pri katerih kljub nadomeščanju s pripravki železa in porastu vrednosti hemoglobina, opažamo vztrajanje pridruženih sprememb v krvni sliki.</p>
+      </sec>
+   </body>
+   <back>
+      <ref-list>
+         <ref id="b1">
+            <label>1.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Camaschella</surname> 
+                     <given-names>C</given-names>
+                  </name>
+               </person-group>. <article-title>Iron-deficiency anemia</article-title>. <source>N Engl J Med</source>. <year>2015</year> 
+               <month>May</month>;<volume>372</volume>(<issue>19</issue>):<fpage>1832</fpage>–<lpage>43</lpage>. <pub-id pub-id-type="doi">10.1056/NEJMra1401038</pub-id>
+               <pub-id pub-id-type="pmid">25946282</pub-id>
+               <issn>0028-4793</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b2">
+            <label>2.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Short</surname> 
+                     <given-names>MW</given-names>
+                  </name>, <name>
+                     <surname>Domagalski</surname> 
+                     <given-names>JE</given-names>
+                  </name>
+               </person-group>. <article-title>Iron deficiency anemia: evaluation and management</article-title>. <source>Am Fam Physician</source>. <year>2013</year> 
+               <month>Jan</month>;<volume>87</volume>(<issue>2</issue>):<fpage>98</fpage>–<lpage>104</lpage>.<pub-id pub-id-type="pmid">23317073</pub-id>
+               <issn>1532-0650</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b3">
+            <label>3.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Nishimura</surname> 
+                     <given-names>S</given-names>
+                  </name>, <name>
+                     <surname>Matsuzaki</surname> 
+                     <given-names>H</given-names>
+                  </name>, <name>
+                     <surname>Fujimoto</surname> 
+                     <given-names>K</given-names>
+                  </name>, <name>
+                     <surname>Kawakita</surname> 
+                     <given-names>M</given-names>
+                  </name>, <name>
+                     <surname>Takatsuki</surname> 
+                     <given-names>K</given-names>
+                  </name>
+               </person-group>. <article-title>[Münchhausen syndrome with severe iron deficiency anemia]</article-title>. <source>Rinsho Ketsueki</source>. <year>1992</year> 
+               <month>Apr</month>;<volume>33</volume>(<issue>4</issue>):<fpage>478</fpage>–<lpage>82</lpage>.<pub-id pub-id-type="pmid">1602612</pub-id>
+               <issn>0485-1439</issn>
+               <annotation>
+                  <p content-type="warning">PubMed reports that this reference was published in Japanese, but a vernacular title is not available. (Ref. 3 "Nishimura, Matsuzaki, Fujimoto, Kawakita, Takatsuki, 1992")</p>
+               </annotation>
+            </mixed-citation>
+         </ref>
+         <ref id="b4">
+            <label>4.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Khadem</surname> 
+                     <given-names>G</given-names>
+                  </name>, <name>
+                     <surname>Scott</surname> 
+                     <given-names>IA</given-names>
+                  </name>, <name>
+                     <surname>Klein</surname> 
+                     <given-names>K</given-names>
+                  </name>
+               </person-group>. <article-title>Evaluation of iron deficiency anaemia in tertiary hospital settings: room for improvement?</article-title> 
+               <source>Intern Med J</source>. <year>2012</year> 
+               <month>Jun</month>;<volume>42</volume>(<issue>6</issue>):<fpage>658</fpage>–<lpage>64</lpage>. <pub-id pub-id-type="doi">10.1111/j.1445-5994.2012.02724.x</pub-id>
+               <pub-id pub-id-type="pmid">22288902</pub-id>
+               <issn>1444-0903</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b5">
+            <label>5.	</label>
+            <mixed-citation publication-type="web-page" specific-use="unparsed">
+               <person-group person-group-type="author">
+                  <collab>WHO</collab>
+               </person-group>. <article-title>Haemoglobin concentrations for the diagnosis of anaemia and assessment of severity.</article-title> Geneva, World Health Organ, <year>2011</year>. [cited 2017 Jan 10]. Available from: <ext-link ext-link-type="uri"
+                         xlink:href="http://www.who.int/vmnis/indicators/haemoglobin.pdf">http://www.who.int/vmnis/indicators/haemoglobin.pdf</ext-link>
+            </mixed-citation>
+         </ref>
+         <ref id="b6">
+            <label>6.	</label>
+            <mixed-citation publication-type="web-page" specific-use="unparsed">Laboratorijski vodnik UKC Ljubljana, Specializirani hematološki laboratorij. [cited 2017 Jan 10]. Available from: <ext-link ext-link-type="uri" xlink:href="http://lab.biarti.si/">http://lab.biarti.si/</ext-link>
+            </mixed-citation>
+         </ref>
+         <ref id="b7">
+            <label>7.	</label>
+            <mixed-citation publication-type="web-page" specific-use="unparsed">Laboratorijski vodnik UKC Ljubljana, KIKKB. [cited 2017 Jan 10]. Available from: <ext-link ext-link-type="uri" xlink:href="http://lab.biarti.si/">http://lab.biarti.si/</ext-link>
+               <annotation>
+                  <p content-type="warning">Reference 7 "Laboratorijski vodnik UKC Ljubljana, KIKKB." is a duplicate. Please compare it to reference 6.</p>
+               </annotation>
+            </mixed-citation>
+         </ref>
+         <ref id="b8">
+            <label>8.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Alleyne</surname> 
+                     <given-names>M</given-names>
+                  </name>, <name>
+                     <surname>Horne</surname> 
+                     <given-names>MK</given-names>
+                  </name>, <name>
+                     <surname>Miller</surname> 
+                     <given-names>JL</given-names>
+                  </name>
+               </person-group>. <article-title>Individualized treatment for iron-deficiency anemia in adults</article-title>. <source>Am J Med</source>. <year>2008</year> 
+               <month>Nov</month>;<volume>121</volume>(<issue>11</issue>):<fpage>943</fpage>–<lpage>8</lpage>. <pub-id pub-id-type="doi">10.1016/j.amjmed.2008.07.012</pub-id>
+               <pub-id pub-id-type="pmid">18954837</pub-id>
+               <issn>0002-9343</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b9">
+            <label>9.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Mills</surname> 
+                     <given-names>HL</given-names>
+                  </name>, <name>
+                     <surname>Abdel-Baki</surname> 
+                     <given-names>MS</given-names>
+                  </name>, <name>
+                     <surname>Teruya</surname> 
+                     <given-names>J</given-names>
+                  </name>, <name>
+                     <surname>Dietrich</surname> 
+                     <given-names>JE</given-names>
+                  </name>, <name>
+                     <surname>Shah</surname> 
+                     <given-names>MD</given-names>
+                  </name>, <name>
+                     <surname>Mahoney</surname> 
+                     <given-names>D</given-names> 
+                     <suffix>Jr</suffix>
+                  </name> 
+                  <etal>et al</etal>
+               </person-group>. 
+               <article-title>Platelet function defects in adolescents with heavy menstrual bleeding</article-title>. <source>Haemophilia</source>. <year>2014</year> 
+               <month>Mar</month>;<volume>20</volume>(<issue>2</issue>):<fpage>249</fpage>–<lpage>54</lpage>. <pub-id pub-id-type="doi">10.1111/hae.12293</pub-id>
+               <pub-id pub-id-type="pmid">24251971</pub-id>
+               <issn>1351-8216</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b10">
+            <label>10.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Dilley</surname> 
+                     <given-names>A</given-names>
+                  </name>, <name>
+                     <surname>Drews</surname> 
+                     <given-names>C</given-names>
+                  </name>, <name>
+                     <surname>Miller</surname> 
+                     <given-names>C</given-names>
+                  </name>, <name>
+                     <surname>Lally</surname> 
+                     <given-names>C</given-names>
+                  </name>, <name>
+                     <surname>Austin</surname> 
+                     <given-names>H</given-names>
+                  </name>, <name>
+                     <surname>Ramaswamy</surname> 
+                     <given-names>D</given-names>
+                  </name> 
+                  <etal>et al</etal>
+               </person-group>. 
+               <article-title>von Willebrand disease and other inherited bleeding disorders in women with diagnosed menorrhagia</article-title>. <source>Obstet Gynecol</source>. <year>2001</year> 
+               <month>Apr</month>;<volume>97</volume>(<issue>4</issue>):<fpage>630</fpage>–<lpage>6</lpage>.<pub-id pub-id-type="pmid">11275041</pub-id>
+               <issn>0029-7844</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b11">
+            <label>11.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>DeLoughery</surname> 
+                     <given-names>TG</given-names>
+                  </name>
+               </person-group>. <article-title>Microcytic anemia</article-title>. <source>N Engl J Med</source>. <year>2014</year> 
+               <month>Oct</month>;<volume>371</volume>(<issue>14</issue>):<fpage>1324</fpage>–<lpage>31</lpage>. <pub-id pub-id-type="doi">10.1056/NEJMra1215361</pub-id>
+               <pub-id pub-id-type="pmid">25271605</pub-id>
+               <issn>0028-4793</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b12">
+            <label>12.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Johnson-Wimbley</surname> 
+                     <given-names>TD</given-names>
+                  </name>, <name>
+                     <surname>Graham</surname> 
+                     <given-names>DY</given-names>
+                  </name>
+               </person-group>. <article-title>Diagnosis and management of iron deficiency anemia in the 21st century</article-title>. <source>Therap Adv Gastroenterol</source>. <year>2011</year> 
+               <month>May</month>;<volume>4</volume>(<issue>3</issue>):<fpage>177</fpage>–<lpage>84</lpage>. <pub-id pub-id-type="doi">10.1177/1756283X11398736</pub-id>
+               <pub-id pub-id-type="pmid">21694802</pub-id>
+               <issn>1756-283X</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b13">
+            <label>13.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Bermejo</surname> 
+                     <given-names>F</given-names>
+                  </name>, <name>
+                     <surname>García-López</surname> 
+                     <given-names>S</given-names>
+                  </name>
+               </person-group>. <article-title>A guide to diagnosis of iron deficiency and iron deficiency anemia in digestive diseases</article-title>. <source>World J Gastroenterol</source>. <year>2009</year> 
+               <month>Oct</month>;<volume>15</volume>(<issue>37</issue>):<fpage>4638</fpage>–<lpage>43</lpage>. <pub-id pub-id-type="doi">10.3748/wjg.15.4638</pub-id>
+               <pub-id pub-id-type="pmid">19787826</pub-id>
+               <issn>1007-9327</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b14">
+            <label>14.	</label>
+            <mixed-citation publication-type="web-page" specific-use="unparsed">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Todorova</surname> 
+                     <given-names>B</given-names>
+                  </name>
+               </person-group>. <article-title>Talasemije v Sloveniji.</article-title> 
+               <year>2014</year>. [cited 2017 Jan 10]. Available from: <ext-link ext-link-type="uri"
+                         xlink:href="http://www.hematologija.org/admin/files/news/pics/file/Todorova%20B%20p2014.pdf">http://www.hematologija.org/admin/files/news/pics/file/Todorova%20B%20p2014.pdf</ext-link>
+            </mixed-citation>
+         </ref>
+         <ref id="b15">
+            <label>15.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Nuchprayoon</surname> 
+                     <given-names>I</given-names>
+                  </name>, <name>
+                     <surname>Sukthawee</surname> 
+                     <given-names>B</given-names>
+                  </name>, <name>
+                     <surname>Nuchprayoon</surname> 
+                     <given-names>T</given-names>
+                  </name>
+               </person-group>. <article-title>Red cell indices and therapeutic trial of iron in diagnostic work-up for anemic Thai females</article-title>. <source>J Med Assoc Thai</source>. <year>2003</year> 
+               <month>Jun</month>;<volume>86</volume> 
+               <supplement>Suppl 2</supplement>:<fpage>S160</fpage>–<lpage>9</lpage>.<pub-id pub-id-type="pmid">12929984</pub-id>
+               <issn>0125-2208</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b16">
+            <label>16.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Körber</surname> 
+                     <given-names>C</given-names>
+                  </name>, <name>
+                     <surname>Wölfler</surname> 
+                     <given-names>A</given-names>
+                  </name>, <name>
+                     <surname>Neubauer</surname> 
+                     <given-names>M</given-names>
+                  </name>, <name>
+                     <surname>Robier</surname> 
+                     <given-names>C</given-names>
+                  </name>
+               </person-group>. <article-title>Short Communication Red blood cell morphology in patients with β-thalassemia minor</article-title>. <source>J Lab Med.</source> 
+               <year>2016</year>;<volume>41</volume>(<issue>1</issue>):<fpage>49</fpage>–<lpage>52</lpage>.<annotation>
+                  <p content-type="warning">Edifix does not recognize the journal "J Lab Med.". If this is a valid journal title, please send this reference to journals@inera.com for addition to our journal database. (Ref. 16 "Körber, Wölfler, Neubauer, Robier, 2016")</p>
+               </annotation>
+            </mixed-citation>
+         </ref>
+         <ref id="b17">
+            <label>17.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Ganz</surname> 
+                     <given-names>T</given-names>
+                  </name>
+               </person-group>. <article-title>Hepcidin and iron regulation, 10 years later</article-title>. <source>Blood</source>. <year>2011</year> 
+               <month>Apr</month>;<volume>117</volume>(<issue>17</issue>):<fpage>4425</fpage>–<lpage>33</lpage>. <pub-id pub-id-type="doi">10.1182/blood-2011-01-258467</pub-id>
+               <pub-id pub-id-type="pmid">21346250</pub-id>
+               <issn>0006-4971</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b18">
+            <label>18.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Locatelli</surname> 
+                     <given-names>F</given-names>
+                  </name>, <name>
+                     <surname>Aljama</surname> 
+                     <given-names>P</given-names>
+                  </name>, <name>
+                     <surname>Bárány</surname> 
+                     <given-names>P</given-names>
+                  </name>, <name>
+                     <surname>Canaud</surname> 
+                     <given-names>B</given-names>
+                  </name>, <name>
+                     <surname>Carrera</surname> 
+                     <given-names>F</given-names>
+                  </name>, <name>
+                     <surname>Eckardt</surname> 
+                     <given-names>KU</given-names>
+                  </name> 
+                  <etal>et al.</etal>; <collab>European Best Practice Guidelines Working Group</collab>
+               </person-group>. <article-title>Revised European best practice guidelines for the management of anaemia in patients with chronic renal failure</article-title>. <source>Nephrol Dial Transplant</source>. <year>2004</year> 
+               <month>May</month>;<volume>19</volume> 
+               <supplement>Suppl 2</supplement>:<fpage>ii1</fpage>–<lpage>47</lpage>.<pub-id pub-id-type="pmid">15206425</pub-id>
+               <issn>0931-0509</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b19">
+            <label>19.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Thomas</surname> 
+                     <given-names>DW</given-names>
+                  </name>, <name>
+                     <surname>Hinchliffe</surname> 
+                     <given-names>RF</given-names>
+                  </name>, <name>
+                     <surname>Briggs</surname> 
+                     <given-names>C</given-names>
+                  </name>, <name>
+                     <surname>Macdougall</surname> 
+                     <given-names>IC</given-names>
+                  </name>, <name>
+                     <surname>Littlewood</surname> 
+                     <given-names>T</given-names>
+                  </name>, <name>
+                     <surname>Cavill</surname> 
+                     <given-names>I</given-names>
+                  </name>; <collab>British Committee for Standards in Haematology</collab>
+               </person-group>. <article-title>Guideline for the laboratory diagnosis of functional iron deficiency</article-title>. <source>Br J Haematol</source>. <year>2013</year> 
+               <month>Jun</month>;<volume>161</volume>(<issue>5</issue>):<fpage>639</fpage>–<lpage>48</lpage>. <pub-id pub-id-type="doi">10.1111/bjh.12311</pub-id>
+               <pub-id pub-id-type="pmid">23573815</pub-id>
+               <issn>0007-1048</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b20">
+            <label>20.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Hershko</surname> 
+                     <given-names>C</given-names>
+                  </name>, <name>
+                     <surname>Camaschella</surname> 
+                     <given-names>C</given-names>
+                  </name>
+               </person-group>. <article-title>How I treat unexplained refractory iron deficiency anemia</article-title>. <source>Blood</source>. <year>2014</year> 
+               <month>Jan</month>;<volume>123</volume>(<issue>3</issue>):<fpage>326</fpage>–<lpage>33</lpage>. <pub-id pub-id-type="doi">10.1182/blood-2013-10-512624</pub-id>
+               <pub-id pub-id-type="pmid">24215034</pub-id>
+               <issn>0006-4971</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b21">
+            <label>21.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Sinniah</surname> 
+                     <given-names>R</given-names>
+                  </name>, <name>
+                     <surname>Doggart</surname> 
+                     <given-names>JR</given-names>
+                  </name>, <name>
+                     <surname>Neill</surname> 
+                     <given-names>DW</given-names>
+                  </name>
+               </person-group>. <article-title>Diurnal variations of the serum iron in normal subjects and in patients with haemochromatosis</article-title>. <source>Br J Haematol</source>. <year>1969</year> 
+               <month>Oct</month>;<volume>17</volume>(<issue>4</issue>):<fpage>351</fpage>–<lpage>8</lpage>. <pub-id pub-id-type="doi">10.1111/j.1365-2141.1969.tb01381.x</pub-id>
+               <pub-id pub-id-type="pmid">5346408</pub-id>
+               <issn>0007-1048</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b22">
+            <label>22.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Skopec</surname> 
+                     <given-names>B</given-names>
+                  </name>, <name>
+                     <surname>Zver</surname> 
+                     <given-names>S</given-names>
+                  </name>
+               </person-group>. <article-title>Reaktivne spremembe krvne slike in osnove zdravljenja anemije zaradi pomanjkanja železa</article-title>. <source>Zdrav Vestn</source>. <year>2008</year>;<volume>77</volume>(<issue>1</issue>):<fpage>161</fpage>–<lpage>5</lpage>.<issn>0350-0063</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b23">
+            <label>23.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Akan</surname> 
+                     <given-names>H</given-names>
+                  </name>, <name>
+                     <surname>Güven</surname> 
+                     <given-names>N</given-names>
+                  </name>, <name>
+                     <surname>Aydogdu</surname> 
+                     <given-names>I</given-names>
+                  </name>, <name>
+                     <surname>Arat</surname> 
+                     <given-names>M</given-names>
+                  </name>, <name>
+                     <surname>Beksaç</surname> 
+                     <given-names>M</given-names>
+                  </name>, <name>
+                     <surname>Dalva</surname> 
+                     <given-names>K</given-names>
+                  </name>
+               </person-group>. <article-title>Thrombopoietic cytokines in patients with iron deficiency anemia with or without thrombocytosis</article-title>. <source>Acta Haematol</source>. <year>2000</year>;<volume>103</volume>(<issue>3</issue>):<fpage>152</fpage>–<lpage>6</lpage>. <pub-id pub-id-type="doi">10.1159/000041038</pub-id>
+               <pub-id pub-id-type="pmid">10940653</pub-id>
+               <issn>0001-5792</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b24">
+            <label>24.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Bleeker</surname> 
+                     <given-names>JS</given-names>
+                  </name>, <name>
+                     <surname>Hogan</surname> 
+                     <given-names>WJ</given-names>
+                  </name>
+               </person-group>. <article-title>Thrombocytosis: diagnostic evaluation, thrombotic risk stratification, and risk-based management strategies</article-title>. <source>Thrombosis</source>. <year>2011</year>;<volume>2011</volume>:<fpage>536062</fpage>. <pub-id pub-id-type="doi">10.1155/2011/536062</pub-id>
+               <pub-id pub-id-type="pmid">22084665</pub-id>
+               <issn>2090-1488</issn>
+               <annotation>
+                  <p content-type="warning">Edifix has not found an issue number in the journal reference. Please check the volume/issue information. (Ref. 24 "Bleeker, Hogan, 2011")</p>
+               </annotation>
+            </mixed-citation>
+         </ref>
+         <ref id="b25">
+            <label>25.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Lim</surname> 
+                     <given-names>Y</given-names>
+                  </name>, <name>
+                     <surname>Lee</surname> 
+                     <given-names>EY</given-names>
+                  </name>, <name>
+                     <surname>Choi</surname> 
+                     <given-names>IS</given-names>
+                  </name>, <name>
+                     <surname>Kim</surname> 
+                     <given-names>TY</given-names>
+                  </name>, <name>
+                     <surname>Yoon</surname> 
+                     <given-names>SS</given-names>
+                  </name>, <name>
+                     <surname>Kim</surname> 
+                     <given-names>KH</given-names>
+                  </name>
+               </person-group>. <article-title>Leukopenia in patients with iron deficiency anemia</article-title>. <source>Blood</source>. <year>2011</year>;<volume>118</volume>(<issue>21</issue>):<fpage>5279</fpage>.<issn>0006-4971</issn>
+               <annotation>
+                  <p content-type="warning">Reference has only first page number. Please provide the last page number if article is longer than one page. (Ref. 25 "Lim, Lee, Choi, Kim, Yoon, Kim, 2011")</p>
+               </annotation>
+            </mixed-citation>
+         </ref>
+         <ref id="b26">
+            <label>26.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Lima</surname> 
+                     <given-names>CS</given-names>
+                  </name>, <name>
+                     <surname>Paula</surname> 
+                     <given-names>EV</given-names>
+                  </name>, <name>
+                     <surname>Takahashi</surname> 
+                     <given-names>T</given-names>
+                  </name>, <name>
+                     <surname>Saad</surname> 
+                     <given-names>ST</given-names>
+                  </name>, <name>
+                     <surname>Lorand-Metze</surname> 
+                     <given-names>I</given-names>
+                  </name>, <name>
+                     <surname>Costa</surname> 
+                     <given-names>FF</given-names>
+                  </name>
+               </person-group>. <article-title>Causes of incidental neutropenia in adulthood</article-title>. <source>Ann Hematol</source>. <year>2006</year> 
+               <month>Oct</month>;<volume>85</volume>(<issue>10</issue>):<fpage>705</fpage>–<lpage>9</lpage>. <pub-id pub-id-type="doi">10.1007/s00277-006-0150-0</pub-id>
+               <pub-id pub-id-type="pmid">16807747</pub-id>
+               <issn>0939-5555</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b27">
+            <label>27.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Lopas</surname> 
+                     <given-names>H</given-names>
+                  </name>, <name>
+                     <surname>Rabiner</surname> 
+                     <given-names>SF</given-names>
+                  </name>
+               </person-group>. <article-title>Thrombocytopenia associated with iron deficiency anemia. A report of five cases</article-title>. <source>Clin Pediatr (Phila)</source>. <year>1966</year> 
+               <month>Oct</month>;<volume>5</volume>(<issue>10</issue>):<fpage>609</fpage>–<lpage>16</lpage>. <pub-id pub-id-type="doi">10.1177/000992286600501008</pub-id>
+               <pub-id pub-id-type="pmid">5926915</pub-id>
+               <issn>0009-9228</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b28">
+            <label>28.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Morris</surname> 
+                     <given-names>VK</given-names>
+                  </name>, <name>
+                     <surname>Spraker</surname> 
+                     <given-names>HL</given-names>
+                  </name>, <name>
+                     <surname>Howard</surname> 
+                     <given-names>SC</given-names>
+                  </name>, <name>
+                     <surname>Ware</surname> 
+                     <given-names>RE</given-names>
+                  </name>, <name>
+                     <surname>Reiss</surname> 
+                     <given-names>UM</given-names>
+                  </name>
+               </person-group>. <article-title>Severe thrombocytopenia with iron deficiency anemia</article-title>. <source>Pediatr Hematol Oncol</source>. <year>2010</year> 
+               <month>Aug</month>;<volume>27</volume>(<issue>5</issue>):<fpage>413</fpage>–<lpage>9</lpage>. <pub-id pub-id-type="doi">10.3109/08880011003739455</pub-id>
+               <pub-id pub-id-type="pmid">20670168</pub-id>
+               <issn>0888-0018</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b29">
+            <label>29.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Ganti</surname> 
+                     <given-names>AK</given-names>
+                  </name>, <name>
+                     <surname>Shonka</surname> 
+                     <given-names>NA</given-names>
+                  </name>, <name>
+                     <surname>Haire</surname> 
+                     <given-names>WD</given-names>
+                  </name>
+               </person-group>. <article-title>Pancytopenia due to iron deficiency worsened by iron infusion: a case report</article-title>. <source>J Med Case Reports</source>. <year>2007</year> 
+               <month>Dec</month>;<volume>1</volume>(<issue>1</issue>):<fpage>175</fpage>. <pub-id pub-id-type="doi">10.1186/1752-1947-1-175</pub-id>
+               <pub-id pub-id-type="pmid">18067664</pub-id>
+               <issn>1752-1947</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b30">
+            <label>30.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Das Makheja</surname> 
+                     <given-names>K</given-names>
+                  </name>, <name>
+                     <surname>Kumar Maheshwari</surname> 
+                     <given-names>B</given-names>
+                  </name>, <name>
+                     <surname>Arain</surname> 
+                     <given-names>S</given-names>
+                  </name>, <name>
+                     <surname>Kumar</surname> 
+                     <given-names>S</given-names>
+                  </name>, <name>
+                     <surname>Kumari</surname> 
+                     <given-names>S</given-names>
+                  </name>, <name>
+                     <surname>Vikash</surname>
+                  </name>
+               </person-group>. <article-title>The common causes leading to pancytopenia in patients presenting to tertiary care hospital</article-title>. <source>Pak J Med Sci</source>. <year>2013</year> 
+               <month>Sep</month>;<volume>29</volume>(<issue>5</issue>):<fpage>1108</fpage>–<lpage>11</lpage>.<pub-id pub-id-type="pmid">24353701</pub-id>
+               <issn>1682-024X</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b31">
+            <label>31.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Andrews</surname> 
+                     <given-names>NC</given-names>
+                  </name>
+               </person-group>. <article-title>Iron metabolism: iron deficiency and iron overload</article-title>. <source>Annu Rev Genomics Hum Genet</source>. <year>2000</year>;<volume>1</volume>(<issue>1</issue>):<fpage>75</fpage>–<lpage>98</lpage>. <pub-id pub-id-type="doi">10.1146/annurev.genom.1.1.75</pub-id>
+               <pub-id pub-id-type="pmid">11701625</pub-id>
+               <issn>1527-8204</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b32">
+            <label>32.	</label>
+            <mixed-citation publication-type="book-chapter" specific-use="unparsed">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Andoljšek</surname> 
+                     <given-names>D</given-names>
+                  </name> 
+                  <etal>et al</etal>
+               </person-group>. 
+               <chapter-title>Bolezni krvi in krvotvornih organov.</chapter-title> In: Kocijančič A, Mrevlje F, Štajer D, Koželj M, Černelč P, eds. Interna medicina. 3rd ed. Ljubljana: Littera picta, <year>2011</year>: 1243-393.<annotation>
+                  <p content-type="warning">Edifix Bibliographic Reference Processing failed to fully style this reference. Please check the copyediting. (Ref. 32 "Andoljšek, et al., 2011")</p>
+                  <p content-type="warning">"Et al" found after fewer than 6 authors. Please check reference (Ref. 32 "Andoljšek, et al., 2011")</p>
+               </annotation>
+            </mixed-citation>
+         </ref>
+         <ref id="b33">
+            <label>33.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Zijp</surname> 
+                     <given-names>IM</given-names>
+                  </name>, <name>
+                     <surname>Korver</surname> 
+                     <given-names>O</given-names>
+                  </name>, <name>
+                     <surname>Tijburg</surname> 
+                     <given-names>LB</given-names>
+                  </name>
+               </person-group>. <article-title>Effect of tea and other dietary factors on iron absorption</article-title>. <source>Crit Rev Food Sci Nutr</source>. <year>2000</year> 
+               <month>Sep</month>;<volume>40</volume>(<issue>5</issue>):<fpage>371</fpage>–<lpage>98</lpage>. <pub-id pub-id-type="doi">10.1080/10408690091189194</pub-id>
+               <pub-id pub-id-type="pmid">11029010</pub-id>
+               <issn>1040-8398</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b34">
+            <label>34.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Marignani</surname> 
+                     <given-names>M</given-names>
+                  </name>, <name>
+                     <surname>Angeletti</surname> 
+                     <given-names>S</given-names>
+                  </name>, <name>
+                     <surname>Bordi</surname> 
+                     <given-names>C</given-names>
+                  </name>, <name>
+                     <surname>Malagnino</surname> 
+                     <given-names>F</given-names>
+                  </name>, <name>
+                     <surname>Mancino</surname> 
+                     <given-names>C</given-names>
+                  </name>, <name>
+                     <surname>Delle Fave</surname> 
+                     <given-names>G</given-names>
+                  </name> 
+                  <etal>et al</etal>
+               </person-group>. 
+               <article-title>Reversal of long-standing iron deficiency anaemia after eradication of Helicobacter pylori infection</article-title>. <source>Scand J Gastroenterol</source>. <year>1997</year> 
+               <month>Jun</month>;<volume>32</volume>(<issue>6</issue>):<fpage>617</fpage>–<lpage>22</lpage>. <pub-id pub-id-type="doi">10.3109/00365529709025109</pub-id>
+               <pub-id pub-id-type="pmid">9200297</pub-id>
+               <issn>0036-5521</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b35">
+            <label>35.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Nairz</surname> 
+                     <given-names>M</given-names>
+                  </name>, <name>
+                     <surname>Schroll</surname> 
+                     <given-names>A</given-names>
+                  </name>, <name>
+                     <surname>Sonnweber</surname> 
+                     <given-names>T</given-names>
+                  </name>, <name>
+                     <surname>Weiss</surname> 
+                     <given-names>G</given-names>
+                  </name>
+               </person-group>. <article-title>The struggle for iron - a metal at the host-pathogen interface</article-title>. <source>Cell Microbiol</source>. <year>2010</year> 
+               <month>Dec</month>;<volume>12</volume>(<issue>12</issue>):<fpage>1691</fpage>–<lpage>702</lpage>. <pub-id pub-id-type="doi">10.1111/j.1462-5822.2010.01529.x</pub-id>
+               <pub-id pub-id-type="pmid">20964797</pub-id>
+               <issn>1462-5814</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b36">
+            <label>36.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Zager</surname> 
+                     <given-names>RA</given-names>
+                  </name>, <name>
+                     <surname>Johnson</surname> 
+                     <given-names>AC</given-names>
+                  </name>, <name>
+                     <surname>Hanson</surname> 
+                     <given-names>SY</given-names>
+                  </name>
+               </person-group>. <article-title>Parenteral iron therapy exacerbates experimental sepsis</article-title>. <source>Kidney Int</source>. <year>2004</year> 
+               <month>Jun</month>;<volume>65</volume>(<issue>6</issue>):<fpage>2108</fpage>–<lpage>12</lpage>. <pub-id pub-id-type="doi">10.1111/j.1523-1755.2004.00742.x</pub-id>
+               <pub-id pub-id-type="pmid">15149323</pub-id>
+               <issn>0085-2538</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b37">
+            <label>37.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Moretti</surname> 
+                     <given-names>D</given-names>
+                  </name>, <name>
+                     <surname>Goede</surname> 
+                     <given-names>JS</given-names>
+                  </name>, <name>
+                     <surname>Zeder</surname> 
+                     <given-names>C</given-names>
+                  </name>, <name>
+                     <surname>Jiskra</surname> 
+                     <given-names>M</given-names>
+                  </name>, <name>
+                     <surname>Chatzinakou</surname> 
+                     <given-names>V</given-names>
+                  </name>, <name>
+                     <surname>Tjalsma</surname> 
+                     <given-names>H</given-names>
+                  </name> 
+                  <etal>et al</etal>
+               </person-group>. 
+               <article-title>Oral iron supplements increase hepcidin and decrease iron absorption from daily or twice-daily doses in iron-depleted young women</article-title>. <source>Blood</source>. <year>2015</year> 
+               <month>Oct</month>;<volume>126</volume>(<issue>17</issue>):<fpage>1981</fpage>–<lpage>9</lpage>. <pub-id pub-id-type="doi">10.1182/blood-2015-05-642223</pub-id>
+               <pub-id pub-id-type="pmid">26289639</pub-id>
+               <issn>0006-4971</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b38">
+            <label>38.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Schrier</surname> 
+                     <given-names>SL</given-names>
+                  </name>
+               </person-group>. <article-title>So you know how to treat iron deficiency anemia</article-title>. <source>Blood</source>. <year>2015</year> 
+               <month>Oct</month>;<volume>126</volume>(<issue>17</issue>):<fpage>1971</fpage>. <pub-id pub-id-type="doi">10.1182/blood-2015-09-666511</pub-id>
+               <pub-id pub-id-type="pmid">26494915</pub-id>
+               <issn>0006-4971</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b39">
+            <label>39.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Bircher</surname> 
+                     <given-names>AJ</given-names>
+                  </name>, <name>
+                     <surname>Auerbach</surname> 
+                     <given-names>M</given-names>
+                  </name>
+               </person-group>. <article-title>Hypersensitivity from intravenous iron products</article-title>. <source>Immunol Allergy Clin North Am</source>. <year>2014</year> 
+               <month>Aug</month>;<volume>34</volume>(<issue>3</issue>):<fpage>707</fpage>–<lpage>23</lpage>. <pub-id pub-id-type="doi">10.1016/j.iac.2014.04.013</pub-id>
+               <pub-id pub-id-type="pmid">25017687</pub-id>
+               <issn>0889-8561</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b40">
+            <label>40.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Rampton</surname> 
+                     <given-names>D</given-names>
+                  </name>, <name>
+                     <surname>Folkersen</surname> 
+                     <given-names>J</given-names>
+                  </name>, <name>
+                     <surname>Fishbane</surname> 
+                     <given-names>S</given-names>
+                  </name>, <name>
+                     <surname>Hedenus</surname> 
+                     <given-names>M</given-names>
+                  </name>, <name>
+                     <surname>Howaldt</surname> 
+                     <given-names>S</given-names>
+                  </name>, <name>
+                     <surname>Locatelli</surname> 
+                     <given-names>F</given-names>
+                  </name> 
+                  <etal>et al</etal>
+               </person-group>. 
+               <article-title>Hypersensitivity reactions to intravenous iron: guidance for risk minimization and management</article-title>. <source>Haematologica</source>. <year>2014</year> 
+               <month>Nov</month>;<volume>99</volume>(<issue>11</issue>):<fpage>1671</fpage>–<lpage>6</lpage>. <pub-id pub-id-type="doi">10.3324/haematol.2014.111492</pub-id>
+               <pub-id pub-id-type="pmid">25420283</pub-id>
+               <issn>0390-6078</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b41">
+            <label>41.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Carson</surname> 
+                     <given-names>JL</given-names>
+                  </name>, <name>
+                     <surname>Strair</surname> 
+                     <given-names>R</given-names>
+                  </name>
+               </person-group>. <article-title>Transfusion strategies in hematologic and nonhematologic disease</article-title>. <source>Hematology (Am Soc Hematol Educ Program)</source>. <year>2014</year> 
+               <month>Dec</month>;<volume>2014</volume>(<issue>1</issue>):<fpage>548</fpage>–<lpage>52</lpage>. <pub-id pub-id-type="doi">10.1182/asheducation-2014.1.548</pub-id>
+               <pub-id pub-id-type="pmid">25696909</pub-id>
+               <issn>1520-4391</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b42">
+            <label>42.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Goddard</surname> 
+                     <given-names>AF</given-names>
+                  </name>, <name>
+                     <surname>James</surname> 
+                     <given-names>MW</given-names>
+                  </name>, <name>
+                     <surname>McIntyre</surname> 
+                     <given-names>AS</given-names>
+                  </name>, <name>
+                     <surname>Scott</surname> 
+                     <given-names>BB</given-names>
+                  </name>; <collab>British Society of Gastroenterology</collab>
+               </person-group>. <article-title>Guidelines for the management of iron deficiency anaemia</article-title>. <source>Gut</source>. <year>2011</year> 
+               <month>Oct</month>;<volume>60</volume>(<issue>10</issue>):<fpage>1309</fpage>–<lpage>16</lpage>. <pub-id pub-id-type="doi">10.1136/gut.2010.228874</pub-id>
+               <pub-id pub-id-type="pmid">21561874</pub-id>
+               <issn>0017-5749</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b43">
+            <label>43.	</label>
+            <mixed-citation publication-type="web-page" specific-use="unparsed">Centralna baza zdravil 2. [cited 2017 Jan 11]. Available from: <ext-link ext-link-type="uri"
+                         xlink:href="http://www.cbz.si/cbz/bazazdr2.nsf/Search?SearchView&amp;Query=(%5BSEZNAMUCINKNAZIV%5D=_%C5%BEelezo*)&amp;SearchOrder=4&amp;SearchMax=301">http://www.cbz.si/cbz/bazazdr2.nsf/Search?SearchView&amp;Query=(%5BSEZNAMUCINKNAZIV%5D=_%C5%BEelezo*)&amp;SearchOrder=4&amp;SearchMax=301</ext-link>
+            </mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

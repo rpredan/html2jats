@@ -1,0 +1,1672 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD with MathML3 v1.1 20151215//EN" "JATS-journalpublishing1-mathml3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink"
+         dtd-version="1.1"
+         xml:lang="en"
+         article-type="other">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher-id">Zdrav Vestn</journal-id>
+         <journal-id journal-id-type="nlm-ta">Zdrav Vestn</journal-id>
+         <journal-id journal-id-type="doi">Zdrav Vestn</journal-id>
+         <journal-title-group>
+            <journal-title>Slovenian Medical Journal</journal-title>
+            <trans-title-group xml:lang="sl">
+               <trans-title>Zdravniški vestnik</trans-title>
+            </trans-title-group>
+            <abbrev-journal-title>Zdrav Vestn</abbrev-journal-title>
+         </journal-title-group>
+         <issn publication-format="ppub" pub-type="ppub">1318-0347</issn>
+         <issn publication-format="epub" pub-type="epub">1581-0224</issn>
+         <issn-l>0350-0063</issn-l>
+         <publisher>
+            <publisher-name xml:lang="sl">Slovensko zdravniško društvo</publisher-name>
+            <publisher-name xml:lang="en">Slovenian Medical Association</publisher-name>
+            <publisher-loc xml:lang="sl">Ljubljana, Slovenia</publisher-loc>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.6016/ZdravVestn.2829</article-id>
+         <article-id pub-id-type="publisher-id">2829</article-id>
+         <article-categories>
+            <subj-group subj-group-type="discipline" xml:lang="en">
+               <subject>Medicine and health sciences</subject>
+               <subj-group>
+                  <subject>Neurobiology</subject>
+               </subj-group>
+            </subj-group>
+            <subj-group subj-group-type="article-type" xml:lang="en">
+               <subject>Original scientific article</subject>
+            </subj-group>
+            <subj-group subj-group-type="heading" xml:lang="en">
+               <subject>Neurobiology</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title xml:lang="en">Computer-assisted measurement of sagittal pelvic alignment parameters from radiographic images</article-title>
+            <alt-title alt-title-type="running-head" xml:lang="en">Computer-assisted measurement of sagittal pelvic alignment parameters from radiographic images</alt-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Korez</surname>
+                  <given-names>Robert</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1">1</xref>
+            </contrib>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Putzier</surname>
+                  <given-names>Michael</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff2">2</xref>
+            </contrib>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Vrtovec</surname>
+                  <given-names>Tomaž</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1">1</xref>
+               <xref ref-type="corresp" rid="corr"/>
+            </contrib>
+         </contrib-group>
+         <aff id="aff1" xml:lang="en">
+            <label>1</label>
+            <institution>Faculty of Electrical Engineering, University of Ljubljana, Ljubljana, Slovenia</institution>
+         </aff>
+         <aff id="aff2" xml:lang="en">
+            <label>2</label>
+            <institution>Charité – University Berlin, Berlin, Germany</institution>
+         </aff>
+         <author-notes>
+            <fn fn-type="conflict" xml:lang="en">
+               <p>The authors have declared that no competing interests exist.</p>
+            </fn>
+            <fn fn-type="conflict" xml:lang="sl">
+               <p>Avtorji so izjavili, da ne obstajajo nobeni konkurenčni interesi.</p>
+            </fn>
+            <corresp id="corr">Tomaž Vrtovec, e-mail: <email xlink:type="simple"/>
+            </corresp>
+         </author-notes>
+         <pub-date pub-type="ppub">
+            <month>12</month>
+            <year>2018</year>
+         </pub-date>
+         <pub-date pub-type="epub">
+            <month>12</month>
+            <year>2018</year>
+         </pub-date>
+         <volume>87</volume>
+         <issue>11–12</issue>
+         <fpage>519</fpage>
+         <lpage>29</lpage>
+         <history>
+            <date date-type="received">
+               <day>4</day>
+               <month>7</month>
+               <year>2017</year>
+            </date>
+            <date date-type="accepted">
+               <day>31</day>
+               <month>10</month>
+               <year>2018</year>
+            </date>
+         </history>
+         <permissions>
+            <copyright-statement xml:lang="en">Copyright © 2018, Slovenian Medical Association (SZD)</copyright-statement>
+            <copyright-statement xml:lang="sl">© 2018, Slovensko zdravniško društvo (SZD)</copyright-statement>
+            <copyright-year>2018</copyright-year>
+            <copyright-holder xml:lang="en">Slovenian Medical Association (SZD)</copyright-holder>
+            <copyright-holder xml:lang="sl">Slovensko zdravniško društvo (SZD)</copyright-holder>
+            <license xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                     xlink:type="simple"
+                     xml:lang="en">
+               <license-p>This is an open access article distributed under the terms of the
+          <ext-link ext-link-type="uri"
+                            xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                            xlink:type="simple">Creative Commons Attribution-NonCommercial
+            License</ext-link>, which permits unrestricted use, distribution, and
+          reproduction in any medium, provided the original author and source are
+          credited and only for non-commercial purposes. </license-p>
+            </license>
+            <license xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                     xlink:type="simple"
+                     xml:lang="sl">
+               <license-p>To je članek z odprtim dostopom, ki ga lahko uporabite pod pogoji iz
+          <ext-link ext-link-type="uri"
+                            xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                            xlink:type="simple">Creative Commons Priznanje avtorstva-Nekomercialno
+            licence</ext-link>. ki dovoljuje distribucijo, predelavo ali
+          prilagoditev, ter gradijo na njem, v nekomercialne namene, z navedbo avtorja
+          in izvirnega dela.</license-p>
+            </license>
+         </permissions>
+         <abstract xml:lang="en">
+            <title>Abstract</title>
+            <p>Background: Sagittal pelvic alignment is an important aspect of the sagittal balance that can be quantitatively assessed by measuring pelvic geometrical parameters, i.e. the sacral slope (SS), pelvic tilt (PT) and pelvic incidence (PI). In this paper we present the results of a completely automated computer-assisted measurement of the parameters of sagittal pelvic alignment from radiographic images, and test the hypothesis stating that there are no statistically significant differences between the obtained and reference manual measurements.</p>
+            <p>Methods: Automated computer-assisted measurements of the sagittal pelvic alignment parameters are based on the latest technologies in the field of medical image processing and analysis, namely on the convolutional neural networks as a special group of deep learning techniques. In each sagittal radiographic image of the pelvis, regions of interest (sacral endplate and both femoral heads) are first automatically defined, and then distinctive points are detected within these regions, i.e. the anterior edge, the center and the posterior edge of the sacral endplate, to which a line is fitted at a later stage, and the centers of both femoral heads with the corresponding midpoint representing the hip axis. From the hip axis, and the line along the sacral endplate and its center point we can finally compute SS, PT and PI.</p>
+            <p>Results: Measurements were retrospectively performed on 90 sagittal radiographic images of the pelvis from 47 subjects (19 males and 28 females; mean age 71.3 years). Statistical analysis of reference manual and automated computer-assisted measurements of the sagittal pelvic alignment parameters revealed a relatively good agreement and low variability. For SS, PT and PI, the mean absolute difference (standard deviation) was 4.9 ° (3.4 °), 2.7 ° (2.5 °) and 5.5 ° (4.2 °) respectively, the correlation coefficient was 0.71, 0.91 and 0.81 (p &lt; 10<sup>-6</sup>), and the paired t-test always confirmed the null hypothesis (p &gt; 0.05).</p>
+            <p>Conclusion: The results showed that there are no statistically significant differences between the reference manual and automated computer-assisted measurements of the sagittal pelvic alignment parameters. Moreover, the deviation from reference manual measurements is within the repeatability and reliability of manual parameter measurements, and therefore the parameters of sagittal pelvic alignment can be accurately determined by the automated computer-assisted measurement. Nevertheless, verification and confirmation of measured values cannot be completely omitted, as the deviation can be in specific cases quite large, especially due to the natural biological variability of the human anatomy and properties of radiographic imaging.</p>
+         </abstract>
+         <kwd-group xml:lang="en">
+            <kwd>X-ray imaging</kwd>
+            <kwd>Musculoskeletal system</kwd>
+            <kwd>Pelvic incidence</kwd>
+            <kwd>Medical image analysis</kwd>
+            <kwd>Deep learning</kwd>
+         </kwd-group>
+      </article-meta>
+   </front>
+   <body>
+      <sec id="s1" sec-type="Introduction">
+         <label>1</label>
+         <title>Introduction</title>
+         <p>Sagittal balance as a mechanism for ensuring correct body posture represents a key concept in the diagnosis and evaluation of spinal disorders, including cases of hyper-kyphosis and hyper-lordosis (<xref ref-type="bibr" rid="b1">1</xref>), scoliosis (<xref ref-type="bibr" rid="b2">2</xref>), and spondylolisthesis (<xref ref-type="bibr" rid="b3">3</xref>), as well as in improving surgery planning based on spinal fixation with pedicle screws (<xref ref-type="bibr" rid="b4">4</xref>,<xref ref-type="bibr" rid="b5">5</xref>) and cages (<xref ref-type="bibr" rid="b6">6</xref>). Sagittal pelvic alignment is an important element of sagittal balance, and can be quantitatively evaluated by examining the morphology of the pelvis (<xref ref-type="bibr" rid="b7">7</xref>) and measuring its geometrical parameters (<xref ref-type="bibr" rid="b8">8</xref>). In the past few decades, measurement of sagittal pelvic alignments has been a recurrent research topic (<xref ref-type="bibr" rid="b9">9</xref>-<xref ref-type="bibr" rid="b15">15</xref>), moreover, sagittal balance and the associated sagittal pelvic alignment were also among the main topics of the <italic>Annual Spine </italic>
+            <italic>Experts Group Meeting &amp; Slovenia Spine Symposium</italic> held in November 2017 in Ljubljana, Slovenia (<xref ref-type="bibr" rid="b16">16</xref>-<xref ref-type="bibr" rid="b18">18</xref>), and the associated invited lectures (<xref ref-type="bibr" rid="b19">19</xref>,<xref ref-type="bibr" rid="b20">20</xref>).</p>
+         <p>One of the most important parameters of sagittal pelvic alignment is the pelvic incidence (PI), which represents the angle between the line connecting the centre of the femoral heads with the centre of the sacral endplate, and the line orthogonal to the inclination of the sacral endplate (<xref ref-type="fig" rid="fig1">Figure 1</xref>) (<xref ref-type="bibr" rid="b9">9</xref>,<xref ref-type="bibr" rid="b21">21</xref>). It can also be computed as the sum of the sacral slope (SS) and pelvic tilt (PT), however, the latter parameters depend on the subject position and/or the position of the imaging device. On the other hand, PI is an anatomical parameter, meaning that it is independent of the afore mentioned influences and therefore enables a more objective comparison between, for example, subject standing and supine positions, different imaging modalities, etc. (<xref ref-type="bibr" rid="b9">9</xref>) From the clinical point of view, these parameters are important for sagittal balance regulation, which is based on the capability of the pelvis to rotate around the femoral heads. In the case of pelvic retroversion PI increases, whereas in the case of pelvic anteversion PI decreases; when PI is large, the vertical axis through the centre of gravity of the body is positioned more in the posterior direction from the femoral heads (<xref ref-type="bibr" rid="b22">22</xref>). Moreover, the pelvic morphology can be observed through PI, which is defined by the relative position of the sacral endplate against the femoral heads, and is for normal asymptomatic adult subjects equal to 50 °–60 ° (<xref ref-type="bibr" rid="b9">9</xref>). Large PI values (70 °–85 °) correspond to configurations with the femoral heads positioned ahead in the anterior direction compared to the centre of the sacral endplate, resulting in the pelvis being wide in the sagittal and narrow in the axial direction. Conversely, low PI values (35 °–40 °) correspond to configurations with the femoral heads positioned directly below the centre of the sacral endplate, resulting in the pelvis being narrow in the sagittal and wide in the axial direction (<xref ref-type="bibr" rid="b8">8</xref>). The latter pelvic shape is capable of a lower retroversion and is similar to those of big primates, therefore less adapted to the standing position and bipedalism (<xref ref-type="bibr" rid="b8">8</xref>). Apart from the fact that the parameters of sagittal pelvic alignment can be, to a certain extent, used to describe the body posture, these parameters are also related to the regulation of sagittal spinal curves through the lumbar lordosis and thoracic kyphosis (<xref ref-type="bibr" rid="b23">23</xref>), and therefore important for diagnosing and quantitatively evaluating specific spinal deformities (<xref ref-type="bibr" rid="b9">9</xref>). For example, SS and therefore also PI are large in the case of spondylolisthesis, as they increase approximately linearly according to the level of vertebral slippage (<xref ref-type="bibr" rid="b24">24</xref>), while an increased value of both parameters can be an indicator of the risk for the development of this disease (<xref ref-type="bibr" rid="b19">19</xref>,<xref ref-type="bibr" rid="b25">25</xref>). On the other hand, a decrease of SS and a simultaneous increase of PI is common for degenerative spinal diseases, such as hernia or the degenerative intervertebral disc disease (<xref ref-type="bibr" rid="b26">26</xref>). Recent studies also indicate that there exists a relationship between the pelvic morphology and sagittal pelvic/spinal alignment for some types of idiopathic scoliosis (<xref ref-type="bibr" rid="b16">16</xref>,<xref ref-type="bibr" rid="b27">27</xref>).</p>
+         <fig position="anchor" id="fig1">
+            <label>Figure 1:</label>
+            <caption>
+               <p> (a) A sagittal radiographic image of a pelvis (clipping of a larger image). (b) Sagittal pelvic alignment parameters, namely the sacral slope – SS (the angle between the horizontal line and the line along the sacral endplate), pelvic tilt – PT (the angle between the vertical line, and the line through the hip axis – HA and the center of the sacral endplate) and pelvic incidence – PI (the angle between the line through HA and the center of the sacral endplate, and the line orthogonal to the sacral endplate). HA is defined as the midpoint between the centers of both femoral heads. The relationship is PI = SS + PT.</p>
+            </caption>
+            <p>
+               <graphic xlink:href="2829-en-web-resources/image/zdravvestn-2829-sl-01.jpg"/>
+            </p>
+         </fig>
+         <p>Pelvic incidence is commonly measured from medical images of the spine and pelvis, and can be most accurately defined in three-dimensional images such as those acquired by computed tomography (<xref ref-type="bibr" rid="b10">10</xref>,<xref ref-type="bibr" rid="b28">28</xref>). Nevertheless, PI measurements are usually obtained from radiographic (X-ray) images (<xref ref-type="fig" rid="fig1">Figure 1</xref>), as imaging of the spine and pelvis is in general first performed by radiography (<xref ref-type="bibr" rid="b29">29</xref>), which is the modality of choice when we start to investigate a specific pathological condition of the bone structures due to its accessible price and relatively high diagnostic value (<xref ref-type="bibr" rid="b30">30</xref>). However, the determination of the sagittal pelvic alignment parameters from radiographic images is a very tedious and relatively subjective task, mostly due to the quality of the acquired images and the projective nature of the imaging technique, resulting in difficulties in identifying the sacral endplate (<xref ref-type="bibr" rid="b31">31</xref>,<xref ref-type="bibr" rid="b32">32</xref>). Moreover, to compute PI it is necessary to also determine the centre of the femoral heads, specifically the hip axis as the midpoint between the centres of both femoral heads. However, in radiographic images the femoral heads usually overlap due to the projective properties of the imaging technique (<xref ref-type="bibr" rid="b33">33</xref>).</p>
+         <p>Although several software packages for computer-assisted evaluation of the afore mentioned parameters exist (<xref ref-type="bibr" rid="b12">12</xref>,<xref ref-type="bibr" rid="b13">13</xref>,<xref ref-type="bibr" rid="b31">31</xref>,<xref ref-type="bibr" rid="b34">34</xref>,<xref ref-type="bibr" rid="b35">35</xref>), the resulting measurements are still obtained manually by placing points with the support of geometrical constructs and statistical modelling, and therefore such measurements are not completely automated. In this paper we present the results of a completely automated computer-assisted measurement of the parameters of sagittal pelvic alignment from radiographic images. Our basic research (null) hypothesis is that there are no statistically significant differences between the reference manual and the obtained automated computer-assisted measurements of the sagittal pelvic alignment parameters.</p>
+      </sec>
+      <sec id="s2" sec-type="Material and methods">
+         <label>2</label>
+         <title>Material and methods</title>
+         <p>The automated computer-assisted measurement of the sagittal pelvic alignment parameters is based on the deep learning technologies, which have in the past few years considerably improved the performance of computerized medical image processing and analysis (<xref ref-type="bibr" rid="b36">36</xref>). Deep learning, a special group of machine learning and data mining techniques, imitates the information processing and communication patterns of biological neural systems, and can in terms of performance even outperform the capability of the human brain. Among different deep learning approaches, convolutional neural networks (CNNs) systematically search for distinctive patterns in a relatively large set of training images, in which these patterns have been already defined, and learn about the rules for detecting the same patterns in a new, unknown image that was not included in the training set.</p>
+         <fig position="anchor" id="fig2">
+            <label>Figure 2:</label>
+            <caption>
+               <p> Automated computer-assisted measurement of the sagittal pelvic alignment parameters. (a) The region of interest for the sacral endplate – S1 and the regions of interest for both femoral heads – FH1 and FH2. (b) Distinctive points within the regions of interest: the anterior edge, the center and the posterior edge on the sacral endplate, and the centers of both femoral heads. (c) The sacral slope is determined by fitting a line to the distinctive points on the sacral endplate, while the hip axis – HA is defined as the midpoint between the centers of the femoral heads. From the sacral slope, the center of the sacral endplate and the hip axis, the parameters of sagittal pelvic alignment can be computed.</p>
+            </caption>
+            <p>
+               <graphic xlink:href="2829-en-web-resources/image/zdravvestn-2829-sl-02.jpg"/>
+            </p>
+         </fig>
+         <p>The automated computer-assisted measurement is composed of three steps, namely the determination of the regions of interest, detection of distinctive points and measurement of the sagittal pelvic alignment parameters (<xref ref-type="fig" rid="fig2">Figure 2</xref>). The first step (<xref ref-type="fig" rid="fig2">Figure 2</xref>(a)) is therefore the automated determination of the regions of interest, which contain the observed anatomical structures in the given radiographic image, namely the sacral endplate and each individual femoral head. For this purpose we designed a special architecture of CNNs (<xref ref-type="bibr" rid="b37">37</xref>) and performed training on a set of radiographic images with already defined regions of interest, so that the CNN was then able to automatically define the same regions of interest containing the observed anatomical structures in a new, unknown image. The second step (<xref ref-type="fig" rid="fig2">Figure 2</xref>(b)) is the automated detection of distinctive points within individual regions of interest, namely the centres of both femoral heads as the centres of the corresponding regions of interest, and the anterior edge, the centre and the posterior edge of the sacral endplate, for which we designed a second CNN architecture (<xref ref-type="bibr" rid="b38">38</xref>) that was trained on a set of already detected distinctive points. The third step (<xref ref-type="fig" rid="fig2">Figure 2</xref>(c)) is the automated determination of the inclination of the sacral endplate by fitting a line to the distinctive points on the sacral endplate with the least squares method. Afterwards, the hip axis is defined as the midpoint between the centrer of both femoral heads. In the case the femoral heads overlap so that only one region of interest is defined for both, the hip axis is defined as the centre of this region of interest. From the hip axis and the line along the sacral endplate, the parameters of sagittal pelvic alignment, i.e. SS, PT and PI, are computed while considering PI = SS + PT.</p>
+         <p>The automated computer-assisted measurement of the sagittal pelvic alignment parameters was trained on 145 sagittal radiographic images of the spine and pelvis from 145 subjects (32 males and 113 females; mean age 66.8 years, range 61–75 years), acquired with the Kodak Elite CR and Kodak DRX-Evolution (Carestream Health; Rochester, NY, USA), Discovery XR656 (GE Healthcare; Chicago, IL, USA), EOS 3.2 + + and EOS 3.5 (EOS Imaging; Paris, France), and Fluorospot Compact FD (Siemens Healthineers; Erlangen, Germany) scanners, and then tested on 97 sagittal radiographic images of the spine from 55 subjects (21 males and 34 females; mean age 69.6 years, range 35–85 years), acquired with the Kodak Elite CR and Kodak DRX-Evolution (Carestream Health; Rochester, NY, USA) scanners. All images were obtained from the University clinic Charité (Berlin, Germany) for purposes not related to this study. Moreover, the study was performed retrospectively, and therefore the observed subjects were not submitted to any additional procedure or radiation. Confidential data (e.g. subject name, subject identification, etc.) were removed from images before they were handed over for analysis. For each training image, the required regions of interest and distinctive points were manually defined, whereas for each testing image we manually defined only the reference measurements of the sagittal pelvic alignment parameters, which enabled statistical comparison to the measurements, obtained by the completely automated computer-assisted method described. The results are presented in the form of the mean absolute difference and the corresponding standard deviation. We also computed the Pearson correlation coefficient R and searched for statistically significant differences by applying the Student’s paired t-test (level of significance set at p &lt; 0.05), with the null hypothesis (H0) stating that there are no statistically significant differences between the reference manual and automated computer-assisted measurements of the sagittal pelvic alignment parameters.</p>
+      </sec>
+      <sec id="s3" sec-type="Results">
+         <label>3</label>
+         <title>Results</title>
+         <p>Due to partially visible femoral heads (6 cases), ambiguities in the determination of the centre and inclination of the sacral endplate (4 cases), and poor image quality (1 case), the reference manual measurements could not be performed for 7 out of 97 radiographic images. For these images, the comparison of the sagittal pelvic alignment parameters would be inappropriate, and therefore they were excluded from further analysis, resulting in reference measurements being manually obtained for 90 radiographic images from 47 subjects (19 males and 28 females; mean age 71.3 years, range 49–85 years). For these images, the manually measured reference parameters of sagittal pelvic alignment were on average (standard deviation) equal to SS = 36.0 ° (8.5 °), PT = 20.0 ° (7.8 °) and PI = 56.0 ° (11.7 °), which is in agreement with the existing demographic studies of these parameters (<xref ref-type="bibr" rid="b9">9</xref>). By applying the described automated computer-assisted measurement we then successfully obtained the sagittal pelvic alignment parameters for the same radiographic images, which were on average (standard deviation) equal to SS = 36.0 ° (6.1 °), PT = 20.7 ° (8.1 °) and PI = 56.7 ° (9.3 °). For each radiographic image we therefore obtained paired measurements (manual and automated), which enabled their comparison and statistical analysis in terms of measurement agreement. The results are presented in <xref ref-type="table" rid="table1">Table 1</xref> and <xref ref-type="fig" rid="fig3">Figure 3</xref>.</p>
+         <fig position="anchor" id="fig3">
+            <label>Figure 3:</label>
+            <caption>
+               <p> Correlation diagrams for the reference manual and automated computer-assisted measurements of the sagittal pelvic alignment parameters. (a) Sacral slope – SS. (b) Pelvic tilt – PT. (c) Pelvic incidence – PI.</p>
+            </caption>
+            <p>
+               <graphic xlink:href="2829-en-web-resources/image/zdravvestn-2829-sl-03.jpg"/>
+            </p>
+         </fig>
+      </sec>
+      <sec id="s4" sec-type="Discussion">
+         <label>4</label>
+         <title>Discussion</title>
+         <p>The determination of the sagittal pelvic alignment parameters from radiographic images is a relatively challenging task, as the anatomical structures of interest may overlap due to the properties of radiographic imaging; moreover, different characteristics such as the natural biological variability of the human anatomy may cause ambiguities in their determination. Classical manual measurements, performed by drawing on radiographic films, were eventually replaced by the computer-assisted manual determination of geometrical constructs (e.g. points, lines, circles) in digital radiographic images using a computer mouse (<xref ref-type="bibr" rid="b12">12</xref>,<xref ref-type="bibr" rid="b13">13</xref>,<xref ref-type="bibr" rid="b31">31</xref>,<xref ref-type="bibr" rid="b34">34</xref>,<xref ref-type="bibr" rid="b35">35</xref>), which also proved to be more repeatable (from the perspective of multiple measurements performed by a single observer) and reliable (from the perspective of measurements performed by multiple observers). Vialle et al. (<xref ref-type="bibr" rid="b34">34</xref>) reported a mean repeatability of <italic>R </italic>= 0.86 (<italic>p </italic>= 0.014) and 0.96 (<italic>p </italic>&lt; 0.001), and a mean reliability of <italic>R </italic>= 0.65 (<italic>p </italic>= 0.024) and 0.99 (<italic>p </italic>&lt; 0.001) respectively for classical and computer-assisted manual measurements of PI from radiographic images. An even worse agreement was reported by Dimar II et al. (<xref ref-type="bibr" rid="b35">35</xref>), who achieved a mean repeatability of <italic>R </italic>= 0.71,<italic> </italic>0.55 and 0.65, and a mean reliability of <italic>R </italic>= 0.61, 0.44 and 0.29 for SS, PT and PI, respectively, when performing classical manual measurements, while the mean agreement with computer-assisted manual measurements was (from the perspective of a single observer) respectively equal to <italic>R </italic>= 0.72, 0.63 and 0.59. Although computer-assisted measurements improved the repeatability and reliability of the results, this task is still relatively subjective especially from the perspective of observer inexperience, and also quite time-consuming. On the other hand, a completely automated computer-assisted approach has not been presented yet, mainly because the task is challenging also from the perspective of automated analysis and processing of radiographic images.</p>
+         <table-wrap position="anchor" id="table1">
+            <label>Table 1:</label>
+            <caption>
+               <p> Statistical comparison of the reference manual and automated computer-assisted measurements of the sagittal pelvic alignment parameters, i.e. the sacral slope – SS, pelvic tilt – PT and pelvic incidence – PI, from 90 sagittal radiographic images.</p>
+            </caption>
+            <table>
+               <colgroup>
+                  <col/>
+                  <col/>
+                  <col/>
+                  <col/>
+               </colgroup>
+               <thead>
+                  <tr>
+                     <th>Statistical analysis</th>
+                     <th>SS</th>
+                     <th>PT</th>
+                     <th>PI</th>
+                  </tr>
+               </thead>
+               <tbody>
+                  <tr>
+                     <td>Mean absolute difference (standard deviation)</td>
+                     <td align="right">4.9º (3.4º)</td>
+                     <td align="right">2.7º (2.5º)</td>
+                     <td align="right">5.5º (4.2º)</td>
+                  </tr>
+                  <tr>
+                     <td>Pearson correlation R (p-value)</td>
+                     <td align="right">0.71 (p &lt; 10–6) </td>
+                     <td align="right">0.90 (p &lt; 10–6)</td>
+                     <td align="right">0.82 (p &lt; 10–6)</td>
+                  </tr>
+                  <tr>
+                     <td>H0 confirmed by paired t-test (p-value)</td>
+                     <td align="right">YES (p = 0.968)</td>
+                     <td align="right">YES (p = 0.074)</td>
+                     <td align="right">YES (p = 0.328)</td>
+                  </tr>
+               </tbody>
+            </table>
+         </table-wrap>
+         <p>The described approaches solve this problem to a certain degree, as it represents a completely automated measurement of the sagittal pelvic alignment parameters from radiographic images. Statistical comparison (<xref ref-type="table" rid="table1">Table 1</xref>) has revealed that there are no statistically significant differences between the reference manual and automated computer-assisted measurements of the sagittal pelvic alignment parameters (the null hypothesis was always confirmed). We can also conclude that the automatically obtained measurements are in agreement with the reference manual measurements, i.e. within the range of the repeatability and reliability of classical manual and computer-assisted manual measurements (<xref ref-type="bibr" rid="b34">34</xref>,<xref ref-type="bibr" rid="b35">35</xref>). The resulting agreement can be labelled as good in the case of SS and PI (0.7 &lt; <italic>R </italic>&lt; 0.9), and very good in the case of PT (0.7 &lt; <italic>R </italic>&lt; 1.0), while the correlation was always statistically significant (<italic>p &lt; </italic>0.05). Nevertheless, we have to be careful, as a high correlation and low mean absolute difference do not necessarily mean that the automated measurements are always correct, and therefore we present selected examples of a poor, an average and a good agreement in <xref ref-type="fig" rid="fig4">Figure 4</xref> and <xref ref-type="table" rid="table2">Table 2</xref>. From <xref ref-type="fig" rid="fig4">Figure 4</xref>(a) it can be observed that poor agreement originates from the automated measurement of SS, where the distinctive point at the posterior edge of the sacral endplate was relatively poorly detected (i.e. excessively in the posterior and caudal directions), causing an inadequate inclination of the line along the sacral endplate. However, if we take a closer look at the radiographic image, we can conclude that in this case the distinctive point at the posterior edge of the sacral endplate is very difficult to identify even manually due to image blurring and overlapping of anatomical structures. <xref ref-type="fig" rid="fig4">Figure 4</xref>(b) shows an average agreement, which can be observed also from the results (<xref ref-type="table" rid="table2">Table 2</xref>), as the difference of around 5 ° for manual measurements can originate from the comparison of multiple measurements of a single observer (measurement repeatability) or from the comparison of measurements performed by multiple observers (measurement reliability) (<xref ref-type="bibr" rid="b9">9</xref>,<xref ref-type="bibr" rid="b28">28</xref>). The good agreement of the reference manual and automated computer-assisted measurements shown in <xref ref-type="fig" rid="fig4">Figure 4</xref>(c) is due to the application of the state-of-the-art technologies in the field of medial image processing and analysis, namely the CNNs as a form of deep learning (<xref ref-type="bibr" rid="b36">36</xref>). It has to be pointed out that the described method does not make use of already implemented solutions, but is augmented according to the detailed knowledge in CNN architectures, and corresponding criterion functions and supervised learning methods, as well as detailed knowledge in detecting spinal and pelvic anatomical structures, and measurement of geometrical parameters in medical images.</p>
+         <fig position="anchor" id="fig4">
+            <label>Figure 4:</label>
+            <caption>
+               <p> Comparison of the reference manual (in yellow) and automated computer-assisted (in red) measurements of the sagittal pelvic alignment parameters (cf. <xref ref-type="table" rid="table2">Table 2</xref>). (a) Poor agreement (radiographic image No. 11). (b) Average agreement (radiographic image No. 24). (c) Good agreement (radiographic image No. 30).</p>
+            </caption>
+            <p>
+               <graphic xlink:href="2829-en-web-resources/image/zdravvestn-2829-sl-04.jpg"/>
+            </p>
+         </fig>
+         <p>We presented the results of a completely automated computer-assisted measurement of the sagittal pelvic alignment parameters from radiographic images. The results indicate that the parameters of sagittal pelvic alignment can be precisely determined, as the deviation from the reference manual measurements is within the repeatability and reliability of manual parameter determination. Nevertheless, the described method should not replace manual verification and confirmation of the measured values, as the deviation can be for specific cases quite large, especially due to the natural biological variability of the human anatomy and properties of radiographic imaging. The next step in method development is the automated determination of the position of the seventh cervical vertebra (C7), which would allow determining the plumb line and consequently describing the sagittal alignment of the spine, which would in turn be combined with the sagittal pelvic alignment to describe the sagittal balance of the whole body. Moreover, the described measurement approach will have to be evaluated on a larger number of radiographic images and compared to a larger number of reference manual measurements. As the described computer-assisted measurement of the sagittal pelvic alignment parameters is completely automated, other studies in this field are feasible, such as similar retrospective studies, but on larger subject cohorts, as well as prospective studies for observing specific spinal or pelvic pathologies over a longer period of time, both with comparison to a normal asymptomatic population.</p>
+         <table-wrap position="anchor" id="table2">
+            <label>Table 2:</label>
+            <caption>
+               <p> Comparison of the reference manual and automated computer-assisted measurements of the sagittal pelvic alignment parameters, i.e. the sacral slope – SS, pelvic tilt – PT and pelvic incidence – PI, for selected radiographic images (cf. Figure 4).</p>
+            </caption>
+            <table>
+               <colgroup>
+                  <col/>
+                  <col/>
+                  <col/>
+                  <col/>
+                  <col/>
+                  <col/>
+                  <col/>
+                  <col/>
+                  <col/>
+                  <col/>
+               </colgroup>
+               <thead>
+                  <tr>
+                     <th>Radiographic image No.</th>
+                     <th align="center" colspan="3">Reference manual measurements</th>
+                     <th align="center" colspan="3">Automated computer-assisted measurements</th>
+                     <th align="center" colspan="3">Absolute difference</th>
+                  </tr>
+               </thead>
+               <tbody>
+                  <tr>
+                     <th content-type="table-subhead"/>
+                     <th align="center" content-type="table-subhead">SS</th>
+                     <th align="center" content-type="table-subhead">PT</th>
+                     <th align="center" content-type="table-subhead">PI</th>
+                     <th align="center" content-type="table-subhead">SS</th>
+                     <th align="center" content-type="table-subhead">PT</th>
+                     <th align="center" content-type="table-subhead">PI</th>
+                     <th align="center" content-type="table-subhead">SS</th>
+                     <th align="center" content-type="table-subhead">PT</th>
+                     <th align="center" content-type="table-subhead">PI</th>
+                  </tr>
+                  <tr>
+                     <td>11</td>
+                     <td align="right">33.0º</td>
+                     <td align="right">17.3º</td>
+                     <td align="right">50.3º</td>
+                     <td align="right">19.6º</td>
+                     <td align="right">17.6º</td>
+                     <td align="right">37.2º</td>
+                     <td align="right">13.4º</td>
+                     <td align="right">0.3º</td>
+                     <td align="right">13.1º</td>
+                  </tr>
+                  <tr>
+                     <td>24</td>
+                     <td align="right">39.6º</td>
+                     <td align="right">19.2º</td>
+                     <td align="right">58.8º</td>
+                     <td align="right">45.8º</td>
+                     <td align="right">18.7º</td>
+                     <td align="right">64.5º</td>
+                     <td align="right">6.2º</td>
+                     <td align="right">0.5º</td>
+                     <td align="right">5.7º</td>
+                  </tr>
+                  <tr>
+                     <td>30</td>
+                     <td align="right">28.0º</td>
+                     <td align="right">33.4º</td>
+                     <td align="right">61.4º</td>
+                     <td align="right">27.7º</td>
+                     <td align="right">33.4º</td>
+                     <td align="right">61.1º</td>
+                     <td align="right">0.3º</td>
+                     <td align="right">0.0º</td>
+                     <td align="right">0.3º</td>
+                  </tr>
+               </tbody>
+            </table>
+         </table-wrap>
+      </sec>
+   </body>
+   <back>
+      <ref-list>
+         <ref id="b1">
+            <label>1. </label>
+            <mixed-citation publication-type="journal">													     																						     									&gt;
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Li</surname>
+                     <given-names>W</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Sun</surname>
+                     <given-names>Z</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Guo</surname>
+                     <given-names>Z</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Qi</surname>
+                     <given-names>Q</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Kim</surname>
+                     <given-names>SD</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Zeng</surname>
+                     <given-names>Y</given-names>
+                  </name>, 
+                        <etal>et al</etal>												     									
+                    </person-group>.											     									
+                    <article-title>Analysis of spinopelvic sagittal alignment in patients with thoracic and thoracolumbar angular kyphosis</article-title>. 
+                    <source>Spine</source>. 
+                    <year>2013</year>
+                    <month>Jun</month>;
+                    <volume>38</volume>(
+                    <issue>13</issue>):
+                    <fpage>E813</fpage>–
+                    <lpage>8</lpage>. 
+                    <pub-id pub-id-type="doi">10.1097/BRS.0b013e3182913219</pub-id>
+                    <pub-id pub-id-type="pmid">23524868</pub-id>
+                    <issn>0362-2436</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b2">
+            <label>2. </label>
+            <mixed-citation publication-type="journal">													     																						     									&gt;
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Obeid</surname>
+                     <given-names>I</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Hauger</surname>
+                     <given-names>O</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Aunoble</surname>
+                     <given-names>S</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Bourghli</surname>
+                     <given-names>A</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Pellet</surname>
+                     <given-names>N</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Vital</surname>
+                     <given-names>JM</given-names>
+                  </name>
+                    </person-group>.											     									. 
+                    <article-title>Global analysis of sagittal spinal alignment in major deformities: correlation between lack of lumbar lordosis and flexion of the knee</article-title>. 
+                    <source>Eur Spine J</source>. 
+                    <year>2011</year>
+                    <month>Sep</month>;
+                    <volume>20</volume>(
+                    <issue>S5</issue>
+                    <supplement>Suppl 5</supplement>):
+                    <fpage>681</fpage>–
+                    <lpage>5</lpage>. 
+                    <pub-id pub-id-type="doi">10.1007/s00586-011-1936-x</pub-id>
+                    <pub-id pub-id-type="pmid">21870096</pub-id>
+                    <issn>0940-6719</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b3">
+            <label>3. </label>
+            <mixed-citation publication-type="journal">													     																						     									&gt;
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Labelle</surname>
+                     <given-names>H</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Mac-Thiong</surname>
+                     <given-names>JM</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Roussouly</surname>
+                     <given-names>P</given-names>
+                  </name>
+                    </person-group>.											     									. 
+                    <article-title>Spino-pelvic sagittal balance of spondylolisthesis: a review and classification</article-title>. 
+                    <source>Eur Spine J</source>. 
+                    <year>2011</year>
+                    <month>Sep</month>;
+                    <volume>20</volume>(
+                    <issue>S5</issue>
+                    <supplement>Suppl 5</supplement>):
+                    <fpage>641</fpage>–
+                    <lpage>6</lpage>. 
+                    <pub-id pub-id-type="doi">10.1007/s00586-011-1932-1</pub-id>
+                    <pub-id pub-id-type="pmid">21809015</pub-id>
+                    <issn>0940-6719</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b4">
+            <label>4. </label>
+            <mixed-citation publication-type="journal">													     																						     									&gt;
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Rečnik</surname>
+                     <given-names>G</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Millčič</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Fokter</surname>
+                     <given-names>SK</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Mirnik</surname>
+                     <given-names>N</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Moličnik</surname>
+                     <given-names>A</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Vogrin</surname>
+                     <given-names>M</given-names>
+                  </name>
+                    </person-group>.											     									. 
+                    <article-title>Zgodnje prednosti manj invazivne transforaminalne zatrditve ledvene hrbtenice v primerjavi s klasično odprto metodo</article-title>. 
+                    <source>Zdrav Vestn</source>. 
+                    <year>2015</year>;
+                    <volume>84</volume>(
+                    <issue>5</issue>):
+                    <fpage>358</fpage>–
+                    <lpage>65</lpage>.
+                    <issn>0350-0063</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b5">
+            <label>5. </label>
+            <mixed-citation publication-type="journal">													     																						     									&gt;
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Knez</surname>
+                     <given-names>D</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Mohar</surname>
+                     <given-names>J</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Cirman</surname>
+                     <given-names>RJ</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Likar</surname>
+                     <given-names>B</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Pernuš</surname>
+                     <given-names>F</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Vrtovec</surname>
+                     <given-names>T</given-names>
+                  </name>
+                    </person-group>.											     									. 
+                    <article-title>Določanje velikosti in vstavitvene trajektorije pedikularnih vijakov v računalniškotomografskih (CT) slikah deformacij prsne hrbtenice: primerjava ročnega in računalniško podprtega predoperacijskega načrtovanja</article-title>. 
+                    <source>Zdrav Vestn</source>. 
+                    <year>2016</year>;
+                    <volume>85</volume>(
+                    <issue>11–12</issue>):
+                    <fpage>619</fpage>–
+                    <lpage>31</lpage>.
+                    <issn>0350-0063</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b6">
+            <label>6. </label>
+            <mixed-citation publication-type="journal">													     																						     									&gt;
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Fokter</surname>
+                     <given-names>SK</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Rečnik</surname>
+                     <given-names>G</given-names>
+                  </name>
+                    </person-group>.											     									. 
+                    <article-title>The use of porous tantalum cages in the treatment of unremitting spondylodiscitis: a case report</article-title>. 
+                    <source>Zdrav Vestn</source>. 
+                    <year>2018</year>;
+                    <volume>87</volume>(
+                    <issue>1–2</issue>):
+                    <fpage>41</fpage>–
+                    <lpage>8</lpage>. 
+                    <pub-id pub-id-type="doi">10.6016/ZdravVestn.2596</pub-id>
+                    <issn>0350-0063</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b7">
+            <label>7. </label>
+            <mixed-citation publication-type="journal">													     																						     									&gt;
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Schlösser</surname>
+                     <given-names>TP</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Janssen</surname>
+                     <given-names>MM</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Hogervorst</surname>
+                     <given-names>T</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Vrtovec</surname>
+                     <given-names>T</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>de Vos</surname>
+                     <given-names>J</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Öner</surname>
+                     <given-names>FC</given-names>
+                  </name>, 
+                        <etal>et al</etal>												     									
+                    </person-group>.											     									
+                    <article-title>The odyssey of sagittal pelvic morphology during human evolution: a perspective on different Hominoidae</article-title>. 
+                    <source>Spine J</source>. 
+                    <year>2017</year>
+                    <month>Aug</month>;
+                    <volume>17</volume>(
+                    <issue>8</issue>):
+                    <fpage>1202</fpage>–
+                    <lpage>6</lpage>. 
+                    <pub-id pub-id-type="doi">10.1016/j.spinee.2017.03.016</pub-id>
+                    <pub-id pub-id-type="pmid">28343047</pub-id>
+                    <issn>1529-9430</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b8">
+            <label>8. </label>
+            <mixed-citation publication-type="journal">													     																						     									&gt;
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Le Huec</surname>
+                     <given-names>JC</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Aunoble</surname>
+                     <given-names>S</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Philippe</surname>
+                     <given-names>L</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Nicolas</surname>
+                     <given-names>P</given-names>
+                  </name>
+                    </person-group>.											     									. 
+                    <article-title>Pelvic parameters: origin and significance</article-title>. 
+                    <source>Eur Spine J</source>. 
+                    <year>2011</year>
+                    <month>Sep</month>;
+                    <volume>20</volume>(
+                    <issue>S5</issue>
+                    <supplement>Suppl 5</supplement>):
+                    <fpage>564</fpage>–
+                    <lpage>71</lpage>. 
+                    <pub-id pub-id-type="doi">10.1007/s00586-011-1940-1</pub-id>
+                    <pub-id pub-id-type="pmid">21830079</pub-id>
+                    <issn>0940-6719</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b9">
+            <label>9. </label>
+            <mixed-citation publication-type="journal">													     																						     									&gt;
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Vrtovec</surname>
+                     <given-names>T</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Janssen</surname>
+                     <given-names>MM</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Likar</surname>
+                     <given-names>B</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Castelein</surname>
+                     <given-names>RM</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Viergever</surname>
+                     <given-names>MA</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Pernuš</surname>
+                     <given-names>F</given-names>
+                  </name>
+                    </person-group>.											     									. 
+                    <article-title>A review of methods for evaluating the quantitative parameters of sagittal pelvic alignment</article-title>. 
+                    <source>Spine J</source>. 
+                    <year>2012</year>
+                    <month>May</month>;
+                    <volume>12</volume>(
+                    <issue>5</issue>):
+                    <fpage>433</fpage>–
+                    <lpage>46</lpage>. 
+                    <pub-id pub-id-type="doi">10.1016/j.spinee.2012.02.013</pub-id>
+                    <pub-id pub-id-type="pmid">22480531</pub-id>
+                    <issn>1529-9430</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b10">
+            <label>10. </label>
+            <mixed-citation publication-type="journal">													     																						     									&gt;
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Vrtovec</surname>
+                     <given-names>T</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Janssen</surname>
+                     <given-names>MM</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Likar</surname>
+                     <given-names>B</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Castelein</surname>
+                     <given-names>RM</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Viergever</surname>
+                     <given-names>MA</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Pernuš</surname>
+                     <given-names>F</given-names>
+                  </name>
+                    </person-group>.											     									. 
+                    <article-title>Evaluation of pelvic morphology in the sagittal plane</article-title>. 
+                    <source>Spine J</source>. 
+                    <year>2013</year>
+                    <month>Nov</month>;
+                    <volume>13</volume>(
+                    <issue>11</issue>):
+                    <fpage>1500</fpage>–
+                    <lpage>9</lpage>. 
+                    <pub-id pub-id-type="doi">10.1016/j.spinee.2013.06.034</pub-id>
+                    <pub-id pub-id-type="pmid">24094715</pub-id>
+                    <issn>1529-9430</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b11">
+            <label>11. </label>
+            <mixed-citation publication-type="journal">													     																						     									&gt;
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Schlösser</surname>
+                     <given-names>TP</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Janssen</surname>
+                     <given-names>MM</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Vrtovec</surname>
+                     <given-names>T</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Pernuš</surname>
+                     <given-names>F</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Öner</surname>
+                     <given-names>FC</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Viergever</surname>
+                     <given-names>MA</given-names>
+                  </name>, 
+                        <etal>et al</etal>												     									
+                    </person-group>.											     									
+                    <article-title>Evolution of the ischio-iliac lordosis during natural growth and its relation with the pelvic incidence</article-title>. 
+                    <source>Eur Spine J</source>. 
+                    <year>2014</year>
+                    <month>Jul</month>;
+                    <volume>23</volume>(
+                    <issue>7</issue>):
+                    <fpage>1433</fpage>–
+                    <lpage>41</lpage>. 
+                    <pub-id pub-id-type="doi">10.1007/s00586-014-3358-z</pub-id>
+                    <pub-id pub-id-type="pmid">24838427</pub-id>
+                    <issn>0940-6719</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b12">
+            <label>12. </label>
+            <mixed-citation publication-type="journal">													     																						     									&gt;
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Lafage</surname>
+                     <given-names>R</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Ferrero</surname>
+                     <given-names>E</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Henry</surname>
+                     <given-names>JK</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Challier</surname>
+                     <given-names>V</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Diebo</surname>
+                     <given-names>B</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Liabaud</surname>
+                     <given-names>B</given-names>
+                  </name>, 
+                        <etal>et al</etal>												     									
+                    </person-group>.											     									
+                    <article-title>Validation of a new computer-assisted tool to measure spino-pelvic parameters</article-title>. 
+                    <source>Spine J</source>. 
+                    <year>2015</year>
+                    <month>Dec</month>;
+                    <volume>15</volume>(
+                    <issue>12</issue>):
+                    <fpage>2493</fpage>–
+                    <lpage>502</lpage>. 
+                    <pub-id pub-id-type="doi">10.1016/j.spinee.2015.08.067</pub-id>
+                    <pub-id pub-id-type="pmid">26343243</pub-id>
+                    <issn>1529-9430</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b13">
+            <label>13. </label>
+            <mixed-citation publication-type="journal">													     																						     									&gt;
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Maillot</surname>
+                     <given-names>C</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Ferrero</surname>
+                     <given-names>E</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Fort</surname>
+                     <given-names>D</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Heyberger</surname>
+                     <given-names>C</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Le Huec</surname>
+                     <given-names>JC</given-names>
+                  </name>
+                    </person-group>.											     									. 
+                    <article-title>Reproducibility and repeatability of a new computerized software for sagittal spinopelvic and scoliosis curvature radiologic measurements: keops(®)</article-title>. 
+                    <source>Eur Spine J</source>. 
+                    <year>2015</year>
+                    <month>Jul</month>;
+                    <volume>24</volume>(
+                    <issue>7</issue>):
+                    <fpage>1574</fpage>–
+                    <lpage>81</lpage>. 
+                    <pub-id pub-id-type="doi">10.1007/s00586-015-3817-1</pub-id>
+                    <pub-id pub-id-type="pmid">25724685</pub-id>
+                    <issn>0940-6719</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b14">
+            <label>14. </label>
+            <mixed-citation publication-type="journal">													     																						     									&gt;
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Weinberg</surname>
+                     <given-names>DS</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Morris</surname>
+                     <given-names>WZ</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Gebhart</surname>
+                     <given-names>JJ</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Liu</surname>
+                     <given-names>RW</given-names>
+                  </name>
+                    </person-group>.											     									. 
+                    <article-title>Pelvic incidence: an anatomic investigation of 880 cadaveric specimens</article-title>. 
+                    <source>Eur Spine J</source>. 
+                    <year>2016</year>
+                    <month>Nov</month>;
+                    <volume>25</volume>(
+                    <issue>11</issue>):
+                    <fpage>3589</fpage>–
+                    <lpage>95</lpage>. 
+                    <pub-id pub-id-type="doi">10.1007/s00586-015-4317-z</pub-id>
+                    <pub-id pub-id-type="pmid">26538158</pub-id>
+                    <issn>0940-6719</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b15">
+            <label>15. </label>
+            <mixed-citation publication-type="journal">													     																						     									&gt;
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Saltychev</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Pernaa</surname>
+                     <given-names>K</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Seppänen</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Mäkelä</surname>
+                     <given-names>K</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Laimi</surname>
+                     <given-names>K</given-names>
+                  </name>
+                    </person-group>.											     									. 
+                    <article-title>Pelvic incidence and hip disorders</article-title>. 
+                    <source>Acta Orthop</source>. 
+                    <year>2018</year>
+                    <month>Feb</month>;
+                    <volume>89</volume>(
+                    <issue>1</issue>):
+                    <fpage>66</fpage>–
+                    <lpage>70</lpage>. 
+                    <pub-id pub-id-type="doi">10.1080/17453674.2017.1377017</pub-id>
+                    <pub-id pub-id-type="pmid">28914101</pub-id>
+                    <issn>1745-3674</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b16">
+            <label>16. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Brink</surname>
+                     <given-names>R</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Varvuch</surname>
+                     <given-names>L</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Schlösser</surname>
+                     <given-names>TP</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Abul-Kasim</surname>
+                     <given-names>K</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Ohlin</surname>
+                     <given-names>A</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Tropp</surname>
+                     <given-names>H</given-names>
+                  </name>,  
+                        <etal>et al</etal>												     									
+                    </person-group>.
+                    <article-title>Three-dimensional pelvic incidence is much higher in (thoraco)lumbar scoliosis than in thoracic scoliosis and controls</article-title>. 
+                    <source>Eur Spine J</source>. 
+                    <year>2019</year>
+                    <month>mar</month>;
+                    <volume>28</volume>(
+                    <issue>3</issue>):
+                    <fpage>544</fpage>–
+                    <lpage>50</lpage>.
+                    <pub-id pub-id-type="doi">10.1007/s00586-018-5718-6</pub-id>
+                    <pub-id pub-id-type="pmid">30128762</pub-id>
+                    <issn>0940-6719</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b17">
+            <label>17. </label>
+            <mixed-citation publication-type="conference">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Vengust</surname>
+                     <given-names>R</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Košak</surname>
+                     <given-names>R</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Vodičar</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Travnik</surname>
+                     <given-names>L</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Gorenšek</surname>
+                     <given-names>M</given-names>
+                  </name>
+                    </person-group>.	
+                    <article-title>Corner osteotomy for treatment of fixed sagittal malalignment following previous spinal fusion: case report</article-title>. In:
+                    <conf-name>Annual Spine Experts Group Meeting &amp; Slovenia 2017 Spine Symposium</conf-name>.
+                    <conf-loc>Ljubljana</conf-loc>;
+                    <conf-date>23 Nov 2017</conf-date>. pp.
+                    <fpage>10</fpage>.
+                </mixed-citation>
+         </ref>
+         <ref id="b18">
+            <label>18. </label>
+            <mixed-citation publication-type="conference">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Milčić</surname>
+                     <given-names>M</given-names>
+                  </name>
+                    </person-group>.
+                    <article-title>Compliance ability of intrinsic pelvis parameters due to changes in sagittal balance and load distribution</article-title>. In:										     									
+                    <conf-name>Annual Spine Experts Group Meeting &amp; Slovenia 2017 Spine Symposium</conf-name>.
+                    <conf-loc>Ljubljana</conf-loc>;
+                    <conf-date>23 Nov 2017</conf-date>. pp.
+                    <fpage>18</fpage>.
+                </mixed-citation>
+         </ref>
+         <ref id="b19">
+            <label>19. </label>
+            <mixed-citation publication-type="conference">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Le Huec</surname>
+                     <given-names>JC</given-names>
+                  </name>
+                    </person-group>.											     									. 
+                    <article-title>Sagittal balance in different pathology: spondylolisthesis with and without lysis</article-title>. In:
+                    <conf-name>Annual Spine Experts Group Meeting &amp; Slovenia 2017 Spine Symposium</conf-name>.
+                    <conf-loc>Ljubljana</conf-loc>;
+                    <conf-date>23 Nov 2017</conf-date>.
+                    <year>2017</year>.  
+                </mixed-citation>
+         </ref>
+         <ref id="b20">
+            <label>20. </label>
+            <mixed-citation publication-type="conference">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Le Huec</surname>
+                     <given-names>JC</given-names>
+                  </name>
+                    </person-group>.											     									. 
+                    <article-title>Osteotomies to correct sagittal imbalance and their complications</article-title>. In:  
+                    <conf-name>Annual Spine Experts Group Meeting &amp; Slovenia 2017 Spine Symposium</conf-name>.
+                    <conf-loc>Ljubljana</conf-loc>;
+                    <conf-date>23 Nov 2017</conf-date>.
+                    <year>2017</year>.
+                </mixed-citation>
+         </ref>
+         <ref id="b21">
+            <label>21. </label>
+            <mixed-citation publication-type="journal">													     																						     									&gt;
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Duval-Beaupere</surname>
+                     <given-names>G</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Schmidt</surname>
+                     <given-names>C</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Cosson</surname>
+                     <given-names>P</given-names>
+                  </name>
+                    </person-group>.											     									. 
+                    <article-title>A Barycentremetric study of the sagittal shape of spine and pelvis: the conditions required for an economic standing position</article-title>. 
+                    <source>Ann Biomed Eng</source>. 
+                    <year>1992</year>;
+                    <volume>20</volume>(
+                    <issue>4</issue>):
+                    <fpage>451</fpage>–
+                    <lpage>62</lpage>. 
+                    <pub-id pub-id-type="doi">10.1007/BF02368136</pub-id>
+                    <pub-id pub-id-type="pmid">1510296</pub-id>
+                    <issn>0090-6964</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b22">
+            <label>22. </label>
+            <mixed-citation publication-type="journal">													     																						     									&gt;
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Vaz</surname>
+                     <given-names>G</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Roussouly</surname>
+                     <given-names>P</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Berthonnaud</surname>
+                     <given-names>E</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Dimnet</surname>
+                     <given-names>J</given-names>
+                  </name>
+                    </person-group>.											     									. 
+                    <article-title>Sagittal morphology and equilibrium of pelvis and spine</article-title>. 
+                    <source>Eur Spine J</source>. 
+                    <year>2002</year>
+                    <month>Feb</month>;
+                    <volume>11</volume>(
+                    <issue>1</issue>):
+                    <fpage>80</fpage>–
+                    <lpage>7</lpage>. 
+                    <pub-id pub-id-type="doi">10.1007/s005860000224</pub-id>
+                    <pub-id pub-id-type="pmid">11931071</pub-id>
+                    <issn>0940-6719</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b23">
+            <label>23. </label>
+            <mixed-citation publication-type="journal">													     																						     									&gt;
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Legaye</surname>
+                     <given-names>J</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Duval-Beaupere</surname>
+                     <given-names>G</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Hecquet</surname>
+                     <given-names>J</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Marty</surname>
+                     <given-names>C</given-names>
+                  </name>
+                    </person-group>.											     									. 
+                    <article-title>Pelvic incidence: a fundamental pelvic parameter for three-dimensional regulation of spinal sagittal curves</article-title>. 
+                    <source>Eur Spine J</source>. 
+                    <year>1998</year>;
+                    <volume>7</volume>(
+                    <issue>2</issue>):
+                    <fpage>99</fpage>–
+                    <lpage>103</lpage>. 
+                    <pub-id pub-id-type="doi">10.1007/s005860050038</pub-id>
+                    <pub-id pub-id-type="pmid">9629932</pub-id>
+                    <issn>0940-6719</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b24">
+            <label>24. </label>
+            <mixed-citation publication-type="journal">													     																						     									&gt;
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Berthonnaud</surname>
+                     <given-names>E</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Dimnet</surname>
+                     <given-names>J</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Roussouly</surname>
+                     <given-names>P</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Labelle</surname>
+                     <given-names>H</given-names>
+                  </name>
+                    </person-group>.											     									. 
+                    <article-title>Analysis of the sagittal balance of the spine and pelvis using shape and orientation parameters</article-title>. 
+                    <source>J Spinal Disord Tech</source>. 
+                    <year>2005</year>
+                    <month>Feb</month>;
+                    <volume>18</volume>(
+                    <issue>1</issue>):
+                    <fpage>40</fpage>–
+                    <lpage>7</lpage>. 
+                    <pub-id pub-id-type="doi">10.1097/01.bsd.0000117542.88865.77</pub-id>
+                    <pub-id pub-id-type="pmid">15687851</pub-id>
+                    <issn>1536-0652</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b25">
+            <label>25. </label>
+            <mixed-citation publication-type="journal">													     																						     									&gt;
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Labelle</surname>
+                     <given-names>H</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Roussouly</surname>
+                     <given-names>P</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Berthonnaud</surname>
+                     <given-names>E</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Transfeldt</surname>
+                     <given-names>E</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>O’Brien</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Chopin</surname>
+                     <given-names>D</given-names>
+                  </name>, 
+                        <etal>et al</etal>												     									
+                    </person-group>.											     									
+                    <article-title>Spondylolisthesis, pelvic incidence, and spinopelvic balance</article-title>. 
+                    <source>Spine</source>. 
+                    <year>2004</year>;
+                    <volume>29</volume>(
+                    <issue>18</issue>):
+                    <fpage>2049</fpage>–
+                    <lpage>54</lpage>. 
+                    <pub-id pub-id-type="doi">10.1097/01.brs.0000138279.53439.cc</pub-id>
+                    <pub-id pub-id-type="pmid">15371707</pub-id>
+                    <issn>0362-2436</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b26">
+            <label>26. </label>
+            <mixed-citation publication-type="journal">													     																						     									&gt;
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Barrey</surname>
+                     <given-names>C</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Jund</surname>
+                     <given-names>J</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Noseda</surname>
+                     <given-names>O</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Roussouly</surname>
+                     <given-names>P</given-names>
+                  </name>
+                    </person-group>.											     									. 
+                    <article-title>Sagittal balance of the pelvis-spine complex and lumbar degenerative diseases. A comparative study about 85 cases</article-title>. 
+                    <source>Eur Spine J</source>. 
+                    <year>2007</year>
+                    <month>Sep</month>;
+                    <volume>16</volume>(
+                    <issue>9</issue>):
+                    <fpage>1459</fpage>–
+                    <lpage>67</lpage>. 
+                    <pub-id pub-id-type="doi">10.1007/s00586-006-0294-6</pub-id>
+                    <pub-id pub-id-type="pmid">17211522</pub-id>
+                    <issn>0940-6719</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b27">
+            <label>27. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Brink</surname>
+                     <given-names>RC</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Vavruch</surname>
+                     <given-names>L</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Schlösser</surname>
+                     <given-names>TPC</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Abul-Kasim</surname>
+                     <given-names>K</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Ohlin</surname>
+                     <given-names>A</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Tropp</surname>
+                     <given-names>H</given-names>
+                  </name>
+                      <etal>et al</etal>	
+                    </person-group>.	
+                    <article-title>Three-dimensional pelvic incidence is much higher in (thoraco)lumbar scoliosis than in controls</article-title>. 
+                    <source>Eur Spine J</source>. 
+                    <year>2019</year>
+                    <month>Mar</month>;
+                    <volume>28</volume>(
+                    <issue>3</issue>):
+                    <fpage>544</fpage>–
+                    <lpage>50</lpage>. 
+                    <pub-id pub-id-type="doi">10.1007/s00586-018-5718-6</pub-id>
+                    <pub-id pub-id-type="pmid">30128762</pub-id>
+                    <issn>0940-6719</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b28">
+            <label>28. </label>
+            <mixed-citation publication-type="journal">													     																						     									&gt;
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Vrtovec</surname>
+                     <given-names>T</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Janssen</surname>
+                     <given-names>MM</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Pernuš</surname>
+                     <given-names>F</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Castelein</surname>
+                     <given-names>RM</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Viergever</surname>
+                     <given-names>MA</given-names>
+                  </name>
+                    </person-group>.											     									. 
+                    <article-title>Analysis of pelvic incidence from 3-dimensional images of a normal population</article-title>. 
+                    <source>Spine</source>. 
+                    <year>2012</year>
+                    <month>Apr</month>;
+                    <volume>37</volume>(
+                    <issue>8</issue>):
+                    <fpage>E479</fpage>–
+                    <lpage>85</lpage>. 
+                    <pub-id pub-id-type="doi">10.1097/BRS.0b013e31823770af</pub-id>
+                    <pub-id pub-id-type="pmid">21971132</pub-id>
+                    <issn>0362-2436</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b29">
+            <label>29. </label>
+            <mixed-citation publication-type="book">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>O’Brien</surname>
+                     <given-names>MF</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Kuklo</surname>
+                     <given-names>TR</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Blanke</surname>
+                     <given-names>KM</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Lenke</surname>
+                     <given-names>LG</given-names>
+                  </name>
+                    </person-group>.	
+                    <source>Spinal Deformity Study Group’s Radiographic Measurement Manual</source>.
+                    <publisher-loc>Memphis</publisher-loc>:
+                    <publisher-name>Medtronic Sofamor Danes Inc</publisher-name>;	     									
+                    <year>2008</year>. 
+                </mixed-citation>
+         </ref>
+         <ref id="b30">
+            <label>30. </label>
+            <mixed-citation publication-type="book-chapter">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Waldman</surname>
+                     <given-names>SD</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Campbell</surname>
+                     <given-names>RSD</given-names>
+                  </name>
+                    </person-group>.	
+		            <chapter-title>Radiology</chapter-title>. In:
+                    <source>Imaging of Pain</source>. 	
+                    <publisher-loc>Philadelphia</publisher-loc>:
+                    <publisher-name>Saunders Elsevier</publisher-name>;						     									
+                    <year>2011</year>. pp.
+                    <fpage>3</fpage>–
+                    <lpage>5</lpage>. 
+                </mixed-citation>
+         </ref>
+         <ref id="b31">
+            <label>31. </label>
+            <mixed-citation publication-type="journal">													     																						     									&gt;
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Berthonnaud</surname>
+                     <given-names>E</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Labelle</surname>
+                     <given-names>H</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Roussouly</surname>
+                     <given-names>P</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Grimard</surname>
+                     <given-names>G</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Vaz</surname>
+                     <given-names>G</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Dimnet</surname>
+                     <given-names>J</given-names>
+                  </name>
+                    </person-group>.											     									. 
+                    <article-title>A variability study of computerized sagittal spinopelvic radiologic measurements of trunk balance</article-title>. 
+                    <source>J Spinal Disord Tech</source>. 
+                    <year>2005</year>
+                    <month>Feb</month>;
+                    <volume>18</volume>(
+                    <issue>1</issue>):
+                    <fpage>66</fpage>–
+                    <lpage>71</lpage>. 
+                    <pub-id pub-id-type="doi">10.1097/01.bsd.0000128345.32521.43</pub-id>
+                    <pub-id pub-id-type="pmid">15687855</pub-id>
+                    <issn>1536-0652</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b32">
+            <label>32. </label>
+            <mixed-citation publication-type="journal">													     																						     									&gt;
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Yamada</surname>
+                     <given-names>K</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Aota</surname>
+                     <given-names>Y</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Higashi</surname>
+                     <given-names>T</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Ishida</surname>
+                     <given-names>K</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Nimura</surname>
+                     <given-names>T</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Saito</surname>
+                     <given-names>T</given-names>
+                  </name>
+                    </person-group>.											     									. 
+                    <article-title>Accuracies in measuring spinopelvic parameters in full-spine lateral standing radiograph</article-title>. 
+                    <source>Spine</source>. 
+                    <year>2015</year>
+                    <month>Jun</month>;
+                    <volume>40</volume>(
+                    <issue>11</issue>):
+                    <fpage>E640</fpage>–
+                    <lpage>6</lpage>. 
+                    <pub-id pub-id-type="doi">10.1097/BRS.0000000000000904</pub-id>
+                    <pub-id pub-id-type="pmid">25816139</pub-id>
+                    <issn>0362-2436</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b33">
+            <label>33. </label>
+            <mixed-citation publication-type="journal">													     																						     									&gt;
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Tyrakowski</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Yu</surname>
+                     <given-names>H</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Siemionow</surname>
+                     <given-names>K</given-names>
+                  </name>
+                    </person-group>.											     									. 
+                    <article-title>Pelvic incidence and pelvic tilt measurements using femoral heads or acetabular domes to identify centers of the hips: comparison of two methods</article-title>. 
+                    <source>Eur Spine J</source>. 
+                    <year>2015</year>
+                    <month>Jun</month>;
+                    <volume>24</volume>(
+                    <issue>6</issue>):
+                    <fpage>1259</fpage>–
+                    <lpage>64</lpage>. 
+                    <pub-id pub-id-type="doi">10.1007/s00586-014-3739-3</pub-id>
+                    <pub-id pub-id-type="pmid">25550104</pub-id>
+                    <issn>0940-6719</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b34">
+            <label>34. </label>
+            <mixed-citation publication-type="journal">													     																						     									&gt;
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Vialle</surname>
+                     <given-names>R</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Ilharreborde</surname>
+                     <given-names>B</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Dauzac</surname>
+                     <given-names>C</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Guigui</surname>
+                     <given-names>P</given-names>
+                  </name>
+                    </person-group>.											     									. 
+                    <article-title>Intra and inter-observer reliability of determining degree of pelvic incidence in high-grade spondylolisthesis using a computer assisted method</article-title>. 
+                    <source>Eur Spine J</source>. 
+                    <year>2006</year>
+                    <month>Oct</month>;
+                    <volume>15</volume>(
+                    <issue>10</issue>):
+                    <fpage>1449</fpage>–
+                    <lpage>53</lpage>. 
+                    <pub-id pub-id-type="doi">10.1007/s00586-006-0096-x</pub-id>
+                    <pub-id pub-id-type="pmid">16596420</pub-id>
+                    <issn>0940-6719</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b35">
+            <label>35. </label>
+            <mixed-citation publication-type="journal">													     																						     									&gt;
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Dimar</surname>
+                     <given-names>JR</given-names>
+                     <suffix>2nd</suffix>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Carreon</surname>
+                     <given-names>LY</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Labelle</surname>
+                     <given-names>H</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Djurasovic</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Weidenbaum</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Brown</surname>
+                     <given-names>C</given-names>
+                  </name>, 
+                        <etal>et al</etal>												     									
+                    </person-group>.											     									
+                    <article-title>Intra- and inter-observer reliability of determining radiographic sagittal parameters of the spine and pelvis using a manual and a computer-assisted methods</article-title>. 
+                    <source>Eur Spine J</source>. 
+                    <year>2008</year>
+                    <month>Oct</month>;
+                    <volume>17</volume>(
+                    <issue>10</issue>):
+                    <fpage>1373</fpage>–
+                    <lpage>9</lpage>. 
+                    <pub-id pub-id-type="doi">10.1007/s00586-008-0755-1</pub-id>
+                    <pub-id pub-id-type="pmid">18726124</pub-id>
+                    <issn>0940-6719</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b36">
+            <label>36. </label>
+            <mixed-citation publication-type="journal">													     																						     									&gt;
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Shen</surname>
+                     <given-names>D</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Wu</surname>
+                     <given-names>G</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Suk</surname>
+                     <given-names>HI</given-names>
+                  </name>
+                    </person-group>.											     									. 
+                    <article-title>Deep learning in medical image analysis</article-title>. 
+                    <source>Annu Rev Biomed Eng</source>. 
+                    <year>2017</year>
+                    <month>Jun</month>;
+                    <volume>19</volume>(
+                    <issue>1</issue>):
+                    <fpage>221</fpage>–
+                    <lpage>48</lpage>. 
+                    <pub-id pub-id-type="doi">10.1146/annurev-bioeng-071516-044442</pub-id>
+                    <pub-id pub-id-type="pmid">28301734</pub-id>
+                    <issn>1523-9829</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b37">
+            <label>37. </label>
+            <mixed-citation publication-type="conference">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Lin</surname>
+                     <given-names>TY</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Goyal</surname>
+                     <given-names>P</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Girshick</surname>
+                     <given-names>R</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>He</surname>
+                     <given-names>K</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Dollár</surname>
+                     <given-names>P</given-names>
+                  </name>
+                    </person-group>.
+                    <article-title>Focal loss for dense object detection</article-title>. In
+                    <conf-name>IEEE International Conference on Computer Vision - ICCV 2017</conf-name>.
+                    <conf-date>Oct 22 2017 to oct 2 2017</conf-date>;
+                    <conf-loc>Venice, Ital</conf-loc>. pp.
+                    <fpage>2999</fpage>–
+                    <lpage>3007</lpage>. 
+                    [<date-in-citation content-type="access-date" iso-8601-date="2019-08-26">cited 2019 Aug 26</date-in-citation>].
+                    <comment>Available from:<uri>https://www.computer.org/csdl/proceedings-article/iccv/2017/1032c999/12OmNApu5iv</uri>
+               </comment>.
+                </mixed-citation>
+         </ref>
+         <ref id="b38">
+            <label>38. </label>
+            <mixed-citation publication-type="conference">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Krizhevsky</surname>
+                     <given-names>A</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Sutskever</surname>
+                     <given-names>I</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Hinton</surname>
+                     <given-names>GE</given-names>
+                  </name>
+                    </person-group>.
+                    <article-title>ImageNet classification with deep convolutional neural networks</article-title>. In:
+                    <conf-name>NIPS'12: Proceedings of the 25th International Conference on Neural Information Processing Systems</conf-name>. 	
+                    <conf-date>Dec 2012</conf-date>;										     									
+                    <fpage>1097</fpage>–
+                    <lpage>105</lpage>. 
+                    [<date-in-citation content-type="access-date" iso-8601-date="2019-08-26">cited 2019 Aug 26</date-in-citation>].
+                    <comment>Available from:<uri>http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf</uri>
+               </comment>.
+                </mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

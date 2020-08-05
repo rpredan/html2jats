@@ -1,0 +1,1017 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD with MathML3 v1.1 20151215//EN" "JATS-journalpublishing1-mathml3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink"
+         dtd-version="1.1"
+         xml:lang="sl"
+         article-type="other">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher-id">Zdrav Vestn</journal-id>
+         <journal-id journal-id-type="nlm-ta">Zdrav Vestn</journal-id>
+         <journal-id journal-id-type="doi">Zdrav Vestn</journal-id>
+         <journal-title-group>
+            <journal-title>Zdravniški vestnik</journal-title>
+            <trans-title-group xml:lang="en">
+               <trans-title>Slovenian Medical Journal</trans-title>
+            </trans-title-group>
+            <abbrev-journal-title>Zdrav Vestn</abbrev-journal-title>
+         </journal-title-group>
+         <issn publication-format="ppub" pub-type="ppub">1318-0347</issn>
+         <issn publication-format="epub" pub-type="epub">1581-0224</issn>
+         <issn-l>0350-0063</issn-l>
+         <publisher>
+            <publisher-name xml:lang="sl">Slovensko zdravniško društvo</publisher-name>
+            <publisher-name xml:lang="en">Slovenian Medical Association</publisher-name>
+            <publisher-loc xml:lang="sl">Ljubljana, Slovenia</publisher-loc>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.6016/ZdravVestn.3068</article-id>
+         <article-id pub-id-type="publisher-id">3068</article-id>
+         <article-categories>
+            <subj-group subj-group-type="discipline" xml:lang="en">
+               <subject>Medicine and health sciences</subject>
+               <subj-group>
+                  <subject>Public health (occupational medicine)</subject>
+               </subj-group>
+            </subj-group>
+            <subj-group subj-group-type="discipline" xml:lang="sl">
+               <subject>Medicina/Zdravstvo</subject>
+               <subj-group>
+                  <subject>Javno zdravstvo (varstvo pri delu)</subject>
+               </subj-group>
+            </subj-group>
+            <subj-group subj-group-type="article-type" xml:lang="en">
+               <subject>Original scientific article</subject>
+            </subj-group>
+            <subj-group subj-group-type="article-type" xml:lang="sl">
+               <subject>Izvirni znanstveni članek</subject>
+            </subj-group>
+            <subj-group subj-group-type="heading" xml:lang="sl">
+               <subject>Javno zdravstvo (varstvo pri delu)</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title xml:lang="sl">Ocena stopnje reprodukcije okužbe in deleža okuženih z virusom SARS-CoV-2 v Sloveniji</article-title>
+            <trans-title-group>
+               <trans-title xml:lang="en">Estimation of the reproductive number and the outbreak size of SARS-CoV-2 in Slovenia</trans-title>
+            </trans-title-group>
+            <alt-title alt-title-type="running-head" xml:lang="sl">Ocena stopnje reprodukcije okužbe in deleža okuženih z virusom SARS-CoV-2 v Sloveniji</alt-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Manevski</surname>
+                  <given-names>Damjan</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1">1</xref>
+            </contrib>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Pohar Perme</surname>
+                  <given-names>Maja</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1">1</xref>
+            </contrib>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Blagus</surname>
+                  <given-names>Rok</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1">1</xref>
+               <xref ref-type="corresp" rid="corr"/>
+            </contrib>
+         </contrib-group>
+         <aff-alternatives id="aff1">
+            <aff xml:lang="sl">
+               <label>1</label>
+               <institution>Inštitut za biostatistiko in medicinsko informatiko, Medicinska fakulteta, Univerza v Ljubljani, Ljubljana, Slovenija</institution>
+            </aff>
+            <aff xml:lang="en">
+               <label>1</label>
+               <institution>Institute of Biostatistics and Medical Informatics, Faculty of medicine, University of Ljubljana, Ljubljana, Slovenia</institution>
+            </aff>
+         </aff-alternatives>
+         <author-notes>
+            <fn fn-type="conflict" xml:lang="en">
+               <p>The authors have declared that no competing interests exist.</p>
+            </fn>
+            <fn fn-type="conflict" xml:lang="sl">
+               <p>Avtorji so izjavili, da ne obstajajo nobeni konkurenčni interesi.</p>
+            </fn>
+            <corresp id="corr">Rok Blagus, e-mail: <email xlink:type="simple"/>
+            </corresp>
+         </author-notes>
+         <pub-date pub-type="ppub">
+            <month>Volume</month>
+            <year>89</year>
+         </pub-date>
+         <pub-date pub-type="epub">
+            <month>Volume</month>
+            <year>89</year>
+         </pub-date>
+         <volume>89</volume>
+         <issue>Epub ahead of print</issue>
+         <fpage>1</fpage>
+         <lpage>12</lpage>
+         <history>
+            <date date-type="received">
+               <day>15</day>
+               <month>4</month>
+               <year>2020</year>
+            </date>
+            <date date-type="accepted">
+               <day>20</day>
+               <month>4</month>
+               <year>2020</year>
+            </date>
+         </history>
+         <permissions>
+            <copyright-statement xml:lang="en">Copyright © 2020, Slovenian Medical Association (SZD)</copyright-statement>
+            <copyright-statement xml:lang="sl">© 2020, Slovensko zdravniško društvo (SZD)</copyright-statement>
+            <copyright-year>2020</copyright-year>
+            <copyright-holder xml:lang="en">Slovenian Medical Association (SZD)</copyright-holder>
+            <copyright-holder xml:lang="sl">Slovensko zdravniško društvo (SZD)</copyright-holder>
+            <license xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                     xlink:type="simple"
+                     xml:lang="en">
+               <license-p>This is an open access article distributed under the terms of the
+          <ext-link ext-link-type="uri"
+                            xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                            xlink:type="simple">Creative Commons Attribution-NonCommercial
+            License</ext-link>, which permits unrestricted use, distribution, and
+          reproduction in any medium, provided the original author and source are
+          credited and only for non-commercial purposes. </license-p>
+            </license>
+            <license xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                     xlink:type="simple"
+                     xml:lang="sl">
+               <license-p>To je članek z odprtim dostopom, ki ga lahko uporabite pod pogoji iz
+          <ext-link ext-link-type="uri"
+                            xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                            xlink:type="simple">Creative Commons Priznanje avtorstva-Nekomercialno
+            licence</ext-link>. ki dovoljuje distribucijo, predelavo ali
+          prilagoditev, ter gradijo na njem, v nekomercialne namene, z navedbo avtorja
+          in izvirnega dela.</license-p>
+            </license>
+         </permissions>
+         <abstract xml:lang="sl">
+            <title>Izvleček</title>
+            <p><bold>Izhodišče:</bold> članek ocenjuje vpliv uveljavljenih ukrepov za obvladovanje epidemije okužbe z virusom SARS-CoV-2 na stopnjo reproduciranja okužbe z virusom in ocenjuje delež okuženih v Sloveniji.</p>
+            <p><bold>Metode:</bold> uporabljen je Bayesov model, ki predpostavlja enako učinkovitost ukrepov v različnih državah in je zgrajen na podlagi podatkov o številu umrlih za 12 (model A) oz. 10 evropskih držav (izločeni Španija in Italija, model B).</p>
+            <p><bold>Rezultati:</bold> ocenjena stopnja reproduciranja virusa v Sloveniji po sprejetih ukrepih je 0,6; pod 1 je celoten 95-odstotni interval kredibilnosti [0,3–0,9]. Če pri gradnji modela izločimo Italijo in Španijo (model B), je ocena stopnje reproduciranja v Sloveniji po sprejetih ukrepih 0,8 (95-odstotni interval kredibilnosti [0,5–1,2]). Ocenjeni delež okuženih v Sloveniji je manjši od enega odstotka (0,53 [0,23–1,01] % pri modelu A in 0,66 [0,26–1,45] % pri modelu B), uradno število potrjenih primerov pa podcenjuje dejansko število za približno faktor 10.</p>
+            <p><bold>Zaključek:</bold> dosedanji sprejeti ukrepi so bili uspešni, saj menimo, da je trenutna stopnja reproduciranja virusa SARS-CoV-2 pod 1. Pri sproščanju ukrepov je smiselno počakati vsaj 2 tedna, saj ocenjujemo, da to pomeni vsaj dodatnih 5 tednov zamika do ponovnih zaostritev.</p>
+         </abstract>
+         <trans-abstract xml:lang="en">
+            <title>Abstract</title>
+            <p><bold>Background:</bold> the paper estimates the impact of nonpharmaceutical interventions implemented to slow-down the SARS-CoV-2 epidemics in Slovenia. Our main measures of interest are the reproductive number in time and the total number of infected individuals.</p>
+            <p><bold>Methods:</bold> we apply a recently proposed Bayes model, which is built using most recent data of 12 (model A) or 10 European countries (model B, Spain and Italy excluded).</p>
+            <p><bold>Results:</bold> the reproductive number after lock-down is estimated to equal 0.6, with the whole 95% credible interval remaining below 1 [0.3–0.9]. By excluding Italy and Spain from the model (model B), the estimated reproductive number increases to 0.8 (95% credible interval [0.5–1.2]). The estimated proportion of infected individuals in Slovenia is below 1% (0.53 [0.23–1.01]% in model A and 0.66 [0.26–1.45]% in model B). Thus, it is our opinion that the official number of confirmed cases underestimates the true one approximately by a factor of 10.</p>
+            <p><bold>Conclusion:</bold> the results indicate that the interventions were successful, we estimate that the current reproductive number is below 1. We estimate that it is sensible to keep the current set of interventions for at least 2 more weeks, as we expect that this will ensure at least 5 additional weeks before the need to reinitiate lock-down.</p>
+         </trans-abstract>
+         <kwd-group xml:lang="sl">
+            <kwd>pandemija SARS-CoV-2</kwd>
+            <kwd>reproduktivno število</kwd>
+            <kwd>nefarmakološki ukrepi</kwd>
+            <kwd>modeliranje epidemij</kwd>
+            <kwd>Bayesov model</kwd>
+         </kwd-group>
+         <kwd-group xml:lang="en">
+            <kwd>SARS-CoV-2 pandemics</kwd>
+            <kwd>reproductive number</kwd>
+            <kwd>non-pharmaceutical interventions</kwd>
+            <kwd>modelling epidemics</kwd>
+            <kwd>Bayes model</kwd>
+         </kwd-group>
+      </article-meta>
+   </front>
+   <body>
+      <sec id="s1" sec-type="Uvod">
+         <label>1</label>
+         <title>Uvod</title>
+         <p>Novi koronavirus SARS-CoV-2 se je bliskovito razširil po vsem svetu. Eden ključnih razlogov za hitro širjenje je visoka stopnja reprodukcije okužbe (<italic>R</italic>
+            <sub>t</sub>). Vrednost <italic>R</italic>
+            <sub>t</sub> je povprečno število ljudi, ki jih posameznik okuži med potekom svoje infekcije, <sub>t</sub> je pri tem koledarski čas, saj se <italic>R</italic>
+            <sub>t </sub>lahko spreminja (zaradi ukrepov, vremena ipd). Ko velja <italic>R</italic>
+            <sub>t</sub> &lt; 1, se pojavnost novih primerov okužbe zmanjšuje. Ko velja <italic>R</italic>
+            <sub>t</sub> &gt; 1, pa se število novih primerov povečuje, dokler epidemija ne doseže vrha in se potem zaradi pridobitve kolektivne imunosti začne število novih primerov zmanjševati. Ocene <italic>R</italic>
+            <sub>0</sub>, to je začetne stopnje reprodukcije, se za virus SARS-CoV-2 razlikujejo in se gibljejo okrog 3 (<xref ref-type="bibr" rid="b1">1</xref>-<xref ref-type="bibr" rid="b7">7</xref>). Tako visoka stopnja reprodukcije pomeni eksponentno povečevanje števila primerov, kar vodi v hitro povečanje števila oseb, ki potrebujejo bolnišnično in intenzivno oskrbo. Zaradi omejenih zmogljivosti zdravstvenega sistema to lahko hitro vodi v stanje, ko ni več možno oskrbeti vseh, ki bi zaradi težjega poteka bolezni oskrbo potrebovali.</p>
+         <p>Slovenija je, podobno kot številne druge države po svetu, sprejela nekatere nefarmakološke ukrepe, namenjene zmanjšanju stopnje reprodukcije okužbe. Med drugim je 10. 3. 2020 obveljala prepoved organiziranja prireditev zaprtega tipa nad 100 oseb, od 16. 3. 2020 so bili zaprti vsi vrtci ter šole, s tem dnem je bil ukinjen tudi ves javni promet, od 20. 3. 2020 pa velja prepoved zbiranja ljudi na javnih shodih in javnih prireditvah ter ob drugih dogodkih na javnem kraju. Pri tem je ključnega pomena oceniti, kakšen vpliv imajo ti ukrepi na <italic>R</italic>
+            <sub>t</sub>. Flaxman in sodelavci so v nedavni študiji preučevali vpliv nefarmakoloških ukrepov na <italic>R</italic>
+            <sub>t</sub> za 11 evropskih držav, med drugim Italijo, Španijo, Francijo, Avstrijo in Švedsko (Slovenija ni bila vključena), in ugotovili, da se je <italic>R</italic>
+            <sub>t</sub> iz začetne vrednosti 3,87 (povprečje za vseh 11 držav) po vseh sprejetih ukrepih zmanjšal na 1,43 (razpon od 0,97 za Norveško in do 2,64 za Švedsko) (<xref ref-type="bibr" rid="b7">7</xref>), pri čemer so upoštevali podatke o državah vključno do 28. 3. 2020.</p>
+         <p>Standardno ocenjevanje <italic>R</italic>
+            <sub>t </sub>temelji na podatku o številu okuženih, kar pa za primer okužbe s SARS-CoV-2 ni ustrezno, saj je ta podatek izrazito podcenjen. Število potrjenih primerov je namreč močno odvisno od strategije in metodologije testiranja, ki pa se med državami razlikuje in med pandemijo spreminja. To povzroča različno stopnjo podcenjenosti in ovira neposredne primerjave števila okuženih po obdobjih in državah. Flaxman in sodelavci so zato kot osnovo za ocenjevanje <italic>R</italic>
+            <sub>t</sub> uporabili podatke o številu umrlih, ki so med podatki, ki so na voljo, verjetno najbolj zanesljiva in primerljiva informacija (<xref ref-type="bibr" rid="b7">7</xref>). Za ocenjevanje infekcijskega cikla do zaznanih primerov smrti so uporabili Bayesov model.</p>
+         <p>V tem članku bomo v predlagani model vključili tudi Slovenijo ter tako ocenili dejansko število in delež okuženih z virusom SARS-CoV-2 ter ovrednotili vpliv sprejetih ukrepov na <italic>R</italic>
+            <sub>t</sub> pri nas. V nadaljevanju najprej na kratko predstavimo uporabljeno metodologijo, nato pa predstavimo ključne rezultate in zaključke.</p>
+      </sec>
+      <sec id="s2" sec-type="Metode">
+         <label>2</label>
+         <title>Metode</title>
+         <p>Podatke o številu smrti za Slovenijo smo pridobili na sledilniku COVID-19 [https://covid-19.sledilnik.org/]. Podatke za ostale države smo pridobili na spletni strani ECDC (<xref ref-type="bibr" rid="b8">8</xref>). Analizirali smo podatke o številu smrti do vključno 13. 4. 2020. Kumulativno število smrti v času za Slovenijo je prikazano na <xref ref-type="fig" rid="fig1">Sliki 1</xref>.</p>
+         <fig position="anchor" id="fig1">
+            <label>Slika 1:</label>
+            <caption>
+               <p> Skupno število smrti v času v Sloveniji.</p>
+            </caption>
+            <p>
+               <graphic xlink:href="3068-web-resources/image/zdravvestn-3058-sl-01.png"/>
+            </p>
+         </fig>
+         <p>Uporabljeni model so natančno predstavili Flaxman in sodelavci (<xref ref-type="bibr" rid="b7">7</xref>), tu pa povzemamo zgolj nekaj ključnih značilnosti.</p>
+         <p>Model ocenimo s podatki o številu smrti za 12 držav (poleg Slovenije so v analizo vključene še: Avstrija, Belgija, Danska, Francija, Italija, Nemčija, Norveška, Španija, Švedska, Švica in Združeno kraljestvo). Upoštevajo se podatki o številu umrlih na posamezni dan, pri čemer se kot prvi dan analize upošteva 30 dni pred pojavom 10 smrti v neki državi; s tem se izloči vpliv bolnikov, ki so se okužili zunaj svoje matične države. Pri tem sta ključni predpostavki, da imajo ukrepi podoben vpliv na <italic>R</italic>
+            <sub>t</sub> v vseh 12 državah in da se učinkovitost posameznega ukrepa ne spreminja v času. Na ta način lahko pri ocenjevanju modela uporabimo podatke več držav, in s tem dobimo bolj natančne ocene. Vendar pa je treba poudariti, da imajo pri tem večjo težo države, ki imajo več smrtnih primerov, in ki so ukrepe sprejele prej; to sta Italija in Španija. Zaradi velikega števila primerov v teh dveh državah je hkrati možno, da je podatek o številu umrlih manj zanesljiv oz. se je spremljal na drugačen način kot v drugih državah (<xref ref-type="bibr" rid="b9">9</xref>-<xref ref-type="bibr" rid="b10">10</xref>), Da bi preverili, kakšen vpliv ima to na rezultate za Slovenijo, smo analizo ponovili tako, da nismo upoštevali teh dveh držav (model B).</p>
+         <p>Da bi zagotavljali primerljivost različnih ukrepov med državami, smo ukrepe razvrstili v 5 skupin na enak način kot v študiji Flaxmana in sodelavcev (<xref ref-type="bibr" rid="b7">7</xref>) (<xref ref-type="table" rid="table1">Tabela 1</xref>). Z določitvijo datumov ukrepov smo določili meje intervalov, za katere ocenjujemo vrednost <italic>R</italic>
+            <sub>t</sub>: z <italic>R</italic>
+            <sub>0</sub> označimo vrednost pred začetkom ukrepov (pred 9. 3. 2020), z <italic>R</italic>
+            <sub>1</sub> vrednost med prvima dvema ukrepoma (od 9. 3. 2020 do 10. 3. 2020) itd. Vrednost od zadnjega uvedenega ukrepa (20. 3. 2020) do datuma analize (13. 4. 2020) tako označimo z <italic>R</italic>
+            <sub>4</sub>. Model predpostavlja, da so vrednosti znotraj intervalov konstantne, interpretiramo pa jih kot povprečje vrednosti na tem intervalu.</p>
+         <table-wrap position="anchor" id="table1">
+            <label>Tabela 1:</label>
+            <caption>
+               <p> Datumi sprejetja ukrepov, kakor so bili definirani v študiji Flaxmana in sodelavcev (<xref ref-type="bibr" rid="b7">7</xref>), v Sloveniji</p>
+            </caption>
+            <table>
+               <colgroup>
+                  <col/>
+                  <col/>
+               </colgroup>
+               <thead>
+                  <tr>
+                     <th>Ukrep</th>
+                     <th align="center">Datum</th>
+                  </tr>
+               </thead>
+               <tbody>
+                  <tr>
+                     <td>Samoizolacija (<italic>angl.</italic> self isolation)</td>
+                     <td align="right">9. 3. 2020</td>
+                  </tr>
+                  <tr>
+                     <td>Prepoved javnih dogodkov (<italic>angl.</italic> public events banned)</td>
+                     <td align="right">10. 3. 2020</td>
+                  </tr>
+                  <tr>
+                     <td>Zaprtje šol (<italic>angl.</italic> 
+                        <italic>school closure</italic>)</td>
+                     <td align="right">16. 3. 2020</td>
+                  </tr>
+                  <tr>
+                     <td>Socialno distanciranje (<italic>angl.</italic> 
+                        <italic>social distancing</italic>)</td>
+                     <td align="right">16. 3. 2020</td>
+                  </tr>
+                  <tr>
+                     <td>Popolna zapora (<italic>angl.</italic> 
+                        <italic>complete lock-down</italic>)</td>
+                     <td align="right">20. 3. 2020</td>
+                  </tr>
+               </tbody>
+            </table>
+         </table-wrap>
+         <p>Pri iskanju datumov ukrepov za Slovenijo je bilo naše temeljno vodilo najti datume, ki najbolj ustrezajo definiciji v raziskavi Flaxmana in sodelavcev (<xref ref-type="bibr" rid="b7">7</xref>). V dodatku (6.1) smo utemeljili izbor datumov za Slovenijo. Jasno je, da nekateri ukrepi niso bili popolnoma enaki v vseh državah, razlikujejo se pa tudi, kako so jih poimenovali. Menimo, da je razporeditev v <xref ref-type="table" rid="table1">Tabeli 1</xref> najbolj sorodna z ukrepi v ostalih državah.</p>
+         <p>Alternativno bi lahko kot začetek t. i. <italic>popolne zapore</italic> upoštevali šele datum 30. 3., ko je Slovenija uvedla omejitev gibanja zunaj lastne občine posameznika. To možnost obravnavamo kot model C, rezultate pa podajamo v dodatku (6.3). S tem predpostavljamo, da so bili slovenski ukrepi 20. 3.  milejši kot v ostalih državah. Še več, model ne dovoljuje skoka na ta datum, saj v drugih državah podobnega vmesnega koraka ni bilo. Zaradi te neprimerljivosti z drugimi državami gre pri Sloveniji lahko za možno pomembno omejitev modela: uporabljeni model ne more odgovoriti na vprašanje, ali oz. za koliko se razlikujeta obdobji [20. 3.–30. 3.] in [30. 3.–13. 4.].</p>
+         <p>Ključna parametra v modelu sta verjetnost smrti med okuženimi (<italic>angl.</italic> infection fatality ratio, <italic>ifr</italic>) in porazdelitev časa od okužbe do smrti, ki povežeta število smrti s številom primerov in tako omogočita ocenjevanje <italic>R</italic>
+            <sub>t</sub>. Za čas od okužbe do smrti smo uporabili enak pristop kot Flaxman in sodelavci ter privzeli, da je porazdelitev časa od okužbe do smrti enaka v vseh državah, tj. s povprečjem 23,9 dni (<xref ref-type="bibr" rid="b7">7</xref>), <xref ref-type="fig" rid="fig2">Slika 2</xref>.</p>
+         <fig position="anchor" id="fig2">
+            <label>Slika 2:</label>
+            <caption>
+               <p> Predpostavljena porazdelitev časa od okužbe do smrti za umrle.</p>
+            </caption>
+            <p>
+               <graphic xlink:href="3068-web-resources/image/zdravvestn-3058-sl-02.png"/>
+            </p>
+         </fig>
+         <p>Flaxman in sodelavci so za vsako od navedenih 11 držav izračunali <italic>ifr</italic>
+            <sub>m</sub>, m = 1, …, 11. Povprečna vrednost <italic>ifr</italic>, torej povprečna predpostavljena verjetnost smrti med okuženimi za navedenih 11 držav, je enaka 0,954 % (razpon od 0,792 % za Norveško do 1,153 % za Francijo). Vrednost <italic>ifr</italic> je bila ocenjena na podlagi dosedanjih raziskav in upoštevajoč starostno strukturo prebivalstva ter stike med posamezniki različnih starostnih skupin v posameznih državah (<xref ref-type="bibr" rid="b7">7</xref>). Zaradi pomanjkanja podatkov za Slovenijo izračuna <italic>ifr</italic> na tak način ni bilo mogoče izvesti, zato smo <italic>ifr</italic> za Slovenijo določili kot: [1] povprečni <italic>ifr</italic>
+            <sub>m</sub>, [2] največji <italic>ifr</italic>
+            <sub>m</sub> in [3] najmanjši <italic>ifr</italic>
+            <sub>m</sub>.</p>
+         <p>Dodatno smo proučili še napoved krivulj ponovne rasti števila okuženih oz. smrti po sprostitvi ukrepov. V ta namen smo predpostavili v modelu ocenjene vrednosti števila okuženih ter različne vrednosti <italic>R</italic>
+            <sub>t</sub> po sprostitvi ukrepov (označimo z <italic>R</italic>
+            <sub>5</sub>). Ker je čas do ponovnega porasta povsem odvisen od predpostavljene vrednosti <italic>R</italic>
+            <sub>5</sub>, smo se v tem delu analize osredinili predvsem na vpliv t. i. <italic>zamika, </italic>tj. <italic>podaljšanja</italic> pri sproščanju ukrepov (časa od konca naše analize (13. 4.) do datuma prve sprostitve ukrepov) na pričakovano število tednov do trenutka, ko krivulje rasti presežejo neke kritične meje (arbitrarno postavljena na 500 novih okuženih oz. 5 smrti na dan). Pri tem smo tako kot doslej predpostavili vztrajanje ocenjene vrednosti <italic>R</italic>
+            <sub>4 </sub>celoten čas t. i. <italic>zamika</italic> do prve sprostitve ukrepov in konstantno vrednost <italic>R</italic>
+            <sub>5 </sub>na celotnem intervalu po sprostitvi.</p>
+         <p>Analizo smo izvedli s programom R (R verzija 3.6.3 (<xref ref-type="bibr" rid="b11">11</xref>)) z uporabo paketa rstan (<xref ref-type="bibr" rid="b12">12</xref>). V rezultatih poročamo povprečje aposteriorne porazdelitve s pripadajočim 95-odstotnim intervalom kredibilnosti (CI) v oglatih oklepajih, torej intervalom, ki zajema 95 % ocenjene porazdelitve parametra.</p>
+      </sec>
+      <sec id="s3" sec-type="Rezultati">
+         <label>3</label>
+         <title>Rezultati</title>
+         <p>Za Slovenijo ocenjujemo, da je bila, glede na srednji scenarij (povprečni <italic>ifr</italic>
+            <sub>m</sub>), začetna stopnja reprodukcije pred sprejetimi ukrepi 3,4 [2,0–5,0] (kar je najmanjša ocenjena vrednost in enaka Švedski: 3,4 [2,6–4,6], največja ocenjena vrednost velja za Belgijo: 6,9 [5,6–8,7]) in se je po vseh sprejetih ukrepih znižala na 0,6 [0,3–0,9] (najmanjša ocenjena vrednost za Slovenijo in Norveško: 0,6 [0,4–0,9], največja ocenjena vrednost za Švedsko: 2,1 [1,6–2,5]), <xref ref-type="fig" rid="fig3">Slika 3</xref>A (desna slika), <xref ref-type="table" rid="table2">Tabela 2</xref>. V modelu B, ki je zgrajen brez upoštevanja Italije in Španije, je končna ocena stopnje reprodukcije enaka 0,8, zaradi manj podatkov je interval kredibilnosti pričakovano širši ([0,5–1,2], <xref ref-type="fig" rid="fig3">Slika 3</xref>B, <xref ref-type="table" rid="table2">Tabela 2</xref>). Ocene <italic>R</italic>
+            <sub>t</sub> so nekoliko večje, ko upoštevamo najmanjši <italic>ifr</italic>
+            <sub>m</sub> ter nekoliko manjše, ko upoštevamo največji <italic>ifr</italic>
+            <sub>m</sub> (<xref ref-type="table" rid="table2">Tabela 2</xref> in <xref ref-type="fig" rid="fig6">Slika 6</xref> v dodatku).</p>
+         <fig position="anchor" id="fig3">
+            <label>Slika 3:</label>
+            <caption>
+               <p> Ocene za Slovenijo. Leva slika: napovedano in dejansko število novih primerov na dan. Srednja slika: napovedano in dejansko število smrti na dan. Desna slika: <italic>R</italic>
+                  <sub>t</sub> ob sprejetju različnih ukrepov. Zgoraj: model A vključuje vse države. Spodaj: model B izključuje Italijo in Španijo. Vse ocene so narejene ob upoštevanju povprečnega <italic>ifr</italic>
+                  <sub>m</sub>.</p>
+            </caption>
+            <p>
+               <graphic xlink:href="3068-web-resources/image/zdravvestn-3058-sl-03.png"/>
+            </p>
+         </fig>
+         <table-wrap position="anchor" id="table2">
+            <label>Tabela 2:</label>
+            <caption>
+               <p> Ocenjeni <italic>R</italic>
+                  <sub>t</sub> (povprečje ter [95 % CI]) ob sprejetju različnih ukrepov za Slovenijo po različnih scenarijih.</p>
+            </caption>
+            <table>
+               <colgroup>
+                  <col/>
+                  <col/>
+                  <col/>
+                  <col/>
+                  <col/>
+                  <col/>
+                  <col/>
+               </colgroup>
+               <thead>
+                  <tr>
+                     <th>Model</th>
+                     <th>Scenarij</th>
+                     <th>
+                        <italic>R</italic>
+                        <sub>0</sub>
+                     </th>
+                     <th>
+                        <italic>R</italic>
+                        <sub>1</sub>
+                     </th>
+                     <th>
+                        <italic>R</italic>
+                        <sub>2</sub>
+                     </th>
+                     <th>
+                        <italic>R</italic>
+                        <sub>3</sub>
+                     </th>
+                     <th>
+                        <italic>R</italic>
+                        <sub>4</sub>
+                     </th>
+                  </tr>
+               </thead>
+               <tbody>
+                  <tr>
+                     <td rowspan="3">A</td>
+                     <td>povprečni <italic>ifr</italic>
+                        <sub>m</sub>
+                     </td>
+                     <td>3,4 [2,0–5,0]</td>
+                     <td>3,2 [1,9–4,8]</td>
+                     <td>2,9 [1,7–4,5]</td>
+                     <td>2,1 [1,1–3,2]</td>
+                     <td>0,6 [0,3–0,9]</td>
+                  </tr>
+                  <tr>
+                     <td>največji <italic>ifr</italic>
+                        <sub>m</sub>
+                     </td>
+                     <td>3,4 [1,9–5,1]</td>
+                     <td>3,2 [1,8–4,8]</td>
+                     <td>2,9 [1,6–4,5]</td>
+                     <td>2,1 [1,1–3,5]</td>
+                     <td>0,6 [0,3–0,9]</td>
+                  </tr>
+                  <tr>
+                     <td>najmanjši <italic>ifr</italic>
+                        <sub>m</sub>
+                     </td>
+                     <td>3,6 [2,1–1]</td>
+                     <td>3,3 [2,1–4,8]</td>
+                     <td>3,1 [1,8–4,5]</td>
+                     <td>2,2 [1,1–3,3]</td>
+                     <td>0,6 [0,4–0,9]</td>
+                  </tr>
+                  <tr>
+                     <td rowspan="3">B</td>
+                     <td>povprečni <italic>ifr</italic>
+                        <sub>m</sub>
+                     </td>
+                     <td>2,8 [1,7–4,4]</td>
+                     <td>2,6 [1,6–4,0]</td>
+                     <td>2,4 [1,5–3,8]</td>
+                     <td>2,0 [1,1–3,0]</td>
+                     <td>0,8 [0,5–1,2]</td>
+                  </tr>
+                  <tr>
+                     <td>največji <italic>ifr</italic>
+                        <sub>m</sub>
+                     </td>
+                     <td>2,7 [1,6–4,1]</td>
+                     <td>2,6 [1,5–3,8]</td>
+                     <td>2,4 [1,3–3,7]</td>
+                     <td>1,9 [1,0–3,0]</td>
+                     <td>0,8 [0,4–1,2]</td>
+                  </tr>
+                  <tr>
+                     <td>najmanjši <italic>ifr</italic>
+                        <sub>m</sub>
+                     </td>
+                     <td>3,0 [1,9–4,4]</td>
+                     <td>2,8 [1,8–4,2]</td>
+                     <td>2,6 [1,5–4,0]</td>
+                     <td>2,1 [1,3–3,3]</td>
+                     <td>0,9 [0,5–1,3]</td>
+                  </tr>
+               </tbody>
+            </table>
+         </table-wrap>
+         <p>Ocenjeni (kumulativni) delež okuženih za Slovenijo po različnih scenarijih podaja <xref ref-type="table" rid="table3">Tabela 3</xref>. Po srednjem scenariju (povprečni <italic>ifr</italic>
+            <sub>m</sub>) ocenjujemo, da je delež okuženih v Sloveniji 0,5 % [0,2–1,0](najmanjša ocenjena vrednost za Slovenijo in Norveško: 0,5 % [0,3–0,9], največja ocenjena vrednost za Švedsko: 12,9 % [6,2–24,9]). Ocenjeni podatki o številu primerov kažejo na to, da je uradno število potrjenih primerov podcenjeno za približno faktor 10. Uporaba različne ocene <italic>ifr</italic>
+            <sub>m</sub> za Slovenijo pomembneje ne vpliva na rezultate, pričakovano je ocena večja, če je <italic>ifr</italic>
+            <sub>m</sub> manjši in obratno. Prav tako na rezultate nima večjega vpliva izključitev Španije in Italije iz analize, v modelu B so ocene deleža okuženih sicer nekoliko večje, vendar pa razlika nikjer ne preseže 0,2 odstotne točke.</p>
+         <table-wrap position="anchor" id="table3">
+            <label>Tabela 3:</label>
+            <caption>
+               <p> Ocenjeni (kumulativni) delež (%) okuženih za Slovenijo po različnih scenarijih.</p>
+            </caption>
+            <table>
+               <colgroup>
+                  <col/>
+                  <col/>
+                  <col/>
+               </colgroup>
+               <thead>
+                  <tr>
+                     <th>Model</th>
+                     <th>Scenarij <italic>ifr</italic>
+                        <sub>m</sub>
+                     </th>
+                     <th align="center">Povprečje [95 % CI]</th>
+                  </tr>
+               </thead>
+               <tbody>
+                  <tr>
+                     <td rowspan="3">A</td>
+                     <td>povprečni <italic>ifr</italic>
+                        <sub>m</sub>
+                     </td>
+                     <td align="right">0,53 [0,23–1,01]</td>
+                  </tr>
+                  <tr>
+                     <td>največji <italic>ifr</italic>
+                        <sub>m</sub>
+                     </td>
+                     <td align="right">0,45 [0,20–0,88]</td>
+                  </tr>
+                  <tr>
+                     <td>najmanjši <italic>ifr</italic>
+                        <sub>m</sub>
+                     </td>
+                     <td align="right">0,66 [0,31–1,22]</td>
+                  </tr>
+                  <tr>
+                     <td rowspan="3">B</td>
+                     <td>povprečni <italic>ifr</italic>
+                        <sub>m</sub>
+                     </td>
+                     <td align="right">0,66 [0,26–1,45]</td>
+                  </tr>
+                  <tr>
+                     <td>največji <italic>ifr</italic>
+                        <sub>m</sub>
+                     </td>
+                     <td align="right">0,53 [0,20–1,12]</td>
+                  </tr>
+                  <tr>
+                     <td>najmanjši <italic>ifr</italic>
+                        <sub>m</sub>
+                     </td>
+                     <td align="right">0,83 [0,34–1,77]</td>
+                  </tr>
+               </tbody>
+            </table>
+         </table-wrap>
+         <p>Dejansko in napovedano število smrti za Slovenijo v preučevanem obdobju glede na uporabljeni model je ponovno prikazano na <xref ref-type="fig" rid="fig4">Sliki 4</xref>, kjer je dodano tudi napovedano število smrti za nadaljnjih 7 dni po zadnjem datumu analize. V obeh modelih opazimo dobro ujemanje med dejanskim in napovedanim številom smrti, v modelu B pa je napoved za naslednjih 7 dni nekoliko bolj pesimistična. Uporaba različne ocene <italic>ifr</italic>
+            <sub>m</sub> sicer malo vpliva na rezultate (<xref ref-type="fig" rid="fig7">Slika 7</xref> v dodatku).</p>
+         <fig position="anchor" id="fig4">
+            <label>Slika 4:</label>
+            <caption>
+               <p> Dejansko (rdeči stolpci) in napovedano število smrti (modra krivulja) za Slovenijo ob upoštevanju povprečnega <italic>ifr</italic>
+                  <sub>m</sub> (model A: vključene vse države, B: izključena Italija in Španija).</p>
+            </caption>
+            <p>
+               <graphic xlink:href="3068-web-resources/image/zdravvestn-3058-sl-04.png"/>
+            </p>
+         </fig>
+         <p>
+            <xref ref-type="fig" rid="fig5">Slika 5</xref> prikazuje primer krivulj rasti ob predpostavki, da se <italic>R</italic>
+            <sub>t</sub> po sprostitvi zviša na <italic>R</italic>
+            <sub>5</sub> = 1,5. Opazimo lahko, da so krivulje približno vzporedne, odlašanje rahljanja ukrepov (t. i. zamik) za vsak dodaten teden pomeni približno 2,5 tedna daljše obdobje do prehoda neke kritične meje; arbitrarno sta izbrani meji 500 novih okuženih oz. 5 smrti na dan). Razdalja med krivuljami je pri manjših predpostavljenih vrednostih <italic>R</italic>
+            <sub>5</sub> še nekoliko daljša, pri <italic>R</italic>
+            <sub>5</sub> = 1,25 je enaka že 4 tednom (v bolj pesimističnem modelu B pa je v povprečju teden dni krajša in se poveča šele pri daljših zamikih).</p>
+         <fig position="anchor" id="fig5">
+            <label>Slika 5:</label>
+            <caption>
+               <p> Napoved večanja števila okuženih in umrlih po sproščanju ukrepov (predpostavljeni <italic>R</italic>
+                  <sub>5</sub> = 1,5). Z rdečimi puščicami je označena razdalja med krivuljami pri prehodu mej 500 novih okuženih dnevno oz. 5 smrti dnevno.</p>
+            </caption>
+            <p>
+               <graphic xlink:href="3068-web-resources/image/zdravvestn-3058-sl-05.png"/>
+            </p>
+         </fig>
+      </sec>
+      <sec id="s4" sec-type="Zaključki">
+         <label>4</label>
+         <title>Zaključki</title>
+         <p>Naši izračuni kažejo, da so bili ukrepi za omejevanje okužbe v preučevanih državah uspešni, saj ocenjujemo, da je trenutna stopnja reprodukcije okužbe v Sloveniji pod 1, ne glede na uporabljeni model. Pri tem v modelu A (upošteva vseh 12 držav) s 95-odstotnim intervalom kredibilnosti nismo zajeli vrednosti 1, medtem ko v modelu B, kjer smo namenoma upoštevali manj podatkov (nismo upoštevali Italije in Španije), zgornja meja 95-odstotnega intervala kredibilnosti nekoliko presega vrednost 1.</p>
+         <p>Pri interpretiranju teh rezultatov je nujno poudariti, da temeljijo na zelo močni predpostavki, da je bila učinkovitost ukrepov v Sloveniji enaka kot v drugih državah. Tu bi nas lahko skrbelo, ali ni ocenjeni padec <italic>R</italic>
+            <sub>t</sub> za Slovenijo zgolj artefakt modela, saj imajo podatki za Slovenijo pri ocenjevanju modela prav zaradi majhnega števila smrti manjšo težo. V ta namen smo naredili analizo občutljivosti, kjer smo za Slovenijo za celotno preučevano obdobje število smrti eksponentno povečevali. Ocenjeni <italic>R</italic>
+            <sub>t</sub> se je v skladu s predpostavkami modela še vedno zmanjševal, vendar pa sta bila tako začetni <italic>R</italic>
+            <sub>t</sub>, a tudi <italic>R</italic>
+            <sub>t</sub> po zadnjem ukrepu na znatno višji ravni (večja od 3), iz česar lahko sklepamo, da je model dovolj občutljiv.</p>
+         <p>V naših rezultatih opazimo, da je vpliv, ki ga ima izpustitev Španije in Italije iz analize nezanemarljiv. V tem primeru so naše ocene <italic>R</italic>
+            <sub>t</sub> pred ukrepi manjše, po ukrepih pa večje, kot če upoštevamo vse države. To je lahko posledica dejstva, da je narava pandemije in učinkovitost ukrepov v Španiji in Italiji drugačna kot drugje, lahko pa, da je to zgolj odraz različne faze, v kateri se epidemija v teh dveh državah glede na ostale države nahaja.</p>
+         <p>Oba modela dajeta podobne napovedi glede števila umrlih za naslednjih 7 dni po 13. 4., kjer so napovedi modela B nekoliko bolj pesimistične. V obdobju od 14. 4. do 18. 4. smo imeli v povprečju 3 smrti na dan (v teh 5 dneh so dnevna števila umrlih zaporedoma 1, 5, 0, 5 in 4; ti podatki še niso dokončni in se lahko tudi spremenijo), kar je v skladu z napovedjo obeh modelov. Zaradi majhnih absolutnih številk v Sloveniji so naključna nihanja toliko večja in traja dalj časa, da lahko ločimo med naključno variabilnostjo in dejanskimi trendi. Zato je v tem trenutku, tudi ob upoštevanju podatkov o številu umrlih za obdobje 14. 4. do 18. 4. (v modelu niso vključeni) nemogoče oceniti, kateri model se bolje prilega podatkom. Zaradi kratkega časa, ki je v večini držav minil med sprejetjem različnih ukrepov, na podlagi te analize ne moremo ovrednotiti učinka posameznega ukrepa, temveč zgolj njihov kumulativni učinek. Pri tem gre za možno težavo, da predpostavljamo, da je učinek ukrepa na <italic>R</italic>
+            <sub>t</sub> takojšen. Vpliv te predpostavke smo preverili tako, da smo pri vsaki državi dodali še en <italic>namišljen ukrep</italic> (10 dni za popolno zaporo), kar pa ni bistveno vplivalo na rezultate.</p>
+         <p>Preizkusili smo tudi alternativno možnost, v kateri popolno zaporo predpostavljamo šele 30. 3. (model C, podrobnejši rezultati v dodatku, <xref ref-type="fig" rid="fig8">Slika 8</xref>). Pri interpretaciji teh rezultatov se je potrebno zavedati omejitev modela. Odsotnost skoka po ukrepih 20. 3. je predpostavka modela in ne njegova ocena, hkrati pa je treba nujno upoštevati močan vpliv dejstva, da v ostalih državah stopnja reprodukcije brez popolne zapore ni odločneje padla. Model C tako tudi v Sloveniji za obdobje 16. 3. do 30. 3. poda sorazmerno visoko oceno stopnje reprodukcije (1,54; 95 % CI [1–2,28]). To visoko oceno nato skuša popraviti in uskladiti z dejanskim številom umrlih zaradi velikega skoka navzdol in zelo nizke vrednosti na zadnjem intervalu (<italic>R</italic>
+            <sub>4</sub> = 0,47; 95 % CI [0,29–0,79]). Navkljub tej nizki zadnji vrednosti je ocena skupnega števila okuženih z modelom C znatno višja od modela A in zelo podobna modelu B, modelu B pa so podobne tudi napovedi števila umrlih v naslednjih dneh.</p>
+         <p>Podatki o kumulativnem deležu okuženih (0,53 % in 0,66 % glede na model A in model B oz. C) kažejo, da smo v Sloveniji še zelo daleč od tega, da bi dosegli kolektivno imunost. Hkrati je trenutno število možnih kužnih posameznikov sorazmerno veliko, zato lahko v primeru delne opustitve ukrepov pričakujemo ponovno povečanje stopnje reproduciranja virusa in s tem rast števila okuženih. Če bo nova stopnja reproduciranja (<italic>R</italic>
+            <sub>5</sub>) podobna tisti pred ukrepi, so bili dosedanji ukrepi nesmiselni, saj bo število novo okuženih v tednu dni skočilo na dosedanje največje vrednosti. Če pa bo sprostitev zmernejša, je ključno vprašanje, koliko časa je smiselno vztrajati do začetka sprostitve, da bo čas do ponovne potrebe po zaostritvi lahko čim daljši. Naši rezultati kažejo, da vsak dodatni teden t. i. zamika sprostitve ukrepov (ki dvigne vrednost stopnje reproduciranja na <italic>R</italic>
+            <sub>5</sub> = 1,5) podaljša obdobje do prehoda neke kritične meje za približno 2,5 tedna, ta čas pa se ob manjši vrednosti <italic>R</italic>
+            <sub>5</sub> še podaljša.</p>
+         <p>Zaključimo lahko, da trenutni nabor ukrepov učinkovito vpliva na upočasnitev poteka epidemije. Na podlagi modela se zdi, da je pri ukrepih smiselno vztrajati vsaj še nekaj tednov. Kakšen vpliv bo imelo sproščanje ukrepov, je trenutno nemogoče ocenjevati, saj teh podatkov trenutno še ni na voljo.</p>
+         <p>V tej luči je zato še posebej zanimivo spremljanje in primerjava s švedskim eksperimentom, kjer so sprejeti ukrepi precej bolj mili. Po naših ocenah je stopnja reproduciranja virusa na Švedskem po vseh sprejetih ukrepih približno enaka 2. Zato je ocenjeni delež okuženih na Švedskem (12,9 %) največji med vsemi 12 državami, ki so bile vključene v analizo. Do kakšne mere je to, podobno kot v primeru modela C, morda le artefakt modela, zaradi neuporabnosti uradnega podatka o okuženih zaenkrat ne moremo oceniti. Katera izmed poti bo dolgoročneje uspešnejša, bo pokazal čas.</p>
+      </sec>
+      <sec id="s6" sec-type="Dodatek">
+         <label>6</label>
+         <title>Dodatek</title>
+         <sec id="s6.1" sec-type="Utemeljitev izbranih datumov ukrepov">
+            <label>6.1</label>
+            <title>Utemeljitev izbranih datumov ukrepov</title>
+            <p>Navedeni datumi sprejetja ukrepov iz <xref ref-type="table" rid="table1">Tabele 1</xref> so bili izbrani v skladu z definicijami, ki so bile podane v raziskavi Flaxmana in sodelavcev (<xref ref-type="bibr" rid="b7">7</xref>), stran 14. Ustrezni datumi ukrepov za Slovenijo so naslednji (<xref ref-type="fig" rid="fig6">Slika 6</xref>):</p>
+            <fig position="anchor" id="fig6">
+               <label>Slika 6:</label>
+               <caption>
+                  <p> Ocene za Slovenijo. Leva slika: napovedano in dejansko število novih primerov na dan. Srednja slika: napovedano in dejansko število smrti na dan. Desna slika: <italic>R</italic>
+                     <sub>t</sub> ob sprejetju različnih ukrepov za Slovenijo v različnih scenarijih (A: vse države ob upoštevanju največjega <italic>ifr</italic>
+                     <sub>m</sub>, B: vse države ob upoštevanju najmanjšega <italic>ifr</italic>
+                     <sub>m</sub>, C: brez Italije in Španije ob upoštevanju največjega <italic>ifr</italic>
+                     <sub>m</sub>, D: brez Italije in Španije ob upoštevanju najmanjšega <italic>ifr</italic>
+                     <sub>m</sub>).</p>
+               </caption>
+               <p>
+                  <graphic xlink:href="3068-web-resources/image/zdravvestn-3058-sl-06.png"/>
+               </p>
+            </fig>
+            <p>•9. 3. kot datum, ko so se na državni ravni začela stroga navodila za samoizolacijo tistih, ki imajo simptome za SARS-CoV-2, infrastruktura za testiranje potencialnih primerov po celi državi pa je bila že postavljena (<xref ref-type="bibr" rid="b13">13</xref>);</p>
+            <p>•10. 3. so bili prepovedani vsi javni dogodki v zaprtih prostorih za več kot 100 obiskovalcev (in na odprtih prostorih za več kot 500 obiskovalcev) (<xref ref-type="bibr" rid="b14">14</xref>);</p>
+            <p>•16. 3. so bile zaprte vse osnovne in srednje šole v Sloveniji (<xref ref-type="bibr" rid="b15">15</xref>);</p>
+            <p>•16. 3. je bil uveden ukrep, naj se prebivalstvo čimbolj izogiba medosebnim stikom, pri tem je bila večina trgovin in storitvenih dejavnostih zaprtih, večina dela naj bi potekala od doma, ustavljen pa je bil tudi javni potniški promet (<xref ref-type="bibr" rid="b16">16</xref>);</p>
+            <p>•20. 3. je bila uvedena prepoved zbiranja na javnih površinah, kar je pomenilo, da se v javnosti lahko giblje le vsak posamezno in le, če gre za nujne opravke oziroma izjeme, določene v odloku (<xref ref-type="bibr" rid="b16">16</xref>).</p>
+         </sec>
+         <sec id="s6.2"
+              sec-type="Rezultati modelov A in B ob upoštevanju najmanjše oz. največje vrednosti ifrm">
+            <label>6.2</label>
+            <title>Rezultati modelov A in B ob upoštevanju najmanjše oz. največje vrednosti ifrm</title>
+            <p>
+               <xref ref-type="fig" rid="fig7">Slika 7</xref>
+            </p>
+            <fig position="anchor" id="fig7">
+               <label>Slika 7:</label>
+               <caption>
+                  <p> Dejansko in napovedano število smrti za Slovenijo v različnih scenarijih (A: vse države ob upoštevanju največjega <italic>ifr</italic>
+                     <sub>m</sub>, B: vse države ob upoštevanju najmanjšega <italic>ifr</italic>
+                     <sub>m</sub>, C: brez Italije in Španije ob upoštevanju največjega <italic>ifr</italic>
+                     <sub>m</sub>, D: brez Italije in Španije ob upoštevanju najmanjšega <italic>ifr</italic>
+                     <sub>m</sub>).</p>
+               </caption>
+               <p>
+                  <graphic xlink:href="3068-web-resources/image/zdravvestn-3058-sl-07.png"/>
+               </p>
+            </fig>
+         </sec>
+         <sec id="s6.3"
+              sec-type="Rezultati modela C (popolna zapora šele 30. 3., 12 držav, srednja vrednost ifrm)">
+            <label>6.3</label>
+            <title>Rezultati modela C (popolna zapora šele 30. 3., 12 držav, srednja vrednost ifrm)</title>
+            <p>
+               <xref ref-type="fig" rid="fig8">Slika 8</xref>
+            </p>
+            <fig position="anchor" id="fig8">
+               <label>Slika 8:</label>
+               <caption>
+                  <p> Ocene za Slovenijo v modelu C. Leva slika: napovedano in dejansko število novih primerov na dan. Srednja slika: napovedano in dejansko število smrti na dan. Desna slika: <italic>R</italic>
+                     <sub>t</sub> ob sprejetju različnih ukrepov za Slovenijo.</p>
+               </caption>
+               <p>
+                  <graphic xlink:href="3068-web-resources/image/zdravvestn-3058-sl-08.png"/>
+               </p>
+            </fig>
+         </sec>
+      </sec>
+   </body>
+   <back>
+      <ack>
+         <label>5</label>
+         <title>Zahvala</title>
+         <p>Avtorji se zahvaljujejo za finančno podporo ARRS (program P3–0154, projekt J3–1761 ter financiranje mladega raziskovalca Damjana Manevskega).</p>
+      </ack>
+      <ref-list>
+         <ref id="b1">
+            <label>1. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Li</surname>
+                     <given-names>R</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Pei</surname>
+                     <given-names>S</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Chen</surname>
+                     <given-names>B</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Song</surname>
+                     <given-names>Y</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Zhang</surname>
+                     <given-names>T</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Yang</surname>
+                     <given-names>W</given-names>
+                  </name>, 
+                        <etal>et al</etal>.
+                    </person-group>
+                    <article-title>Substantial undocumented infection facilitates the rapid dissemination of novel coronavirus (SARS-CoV2)</article-title>. 
+                    <source>Science</source>. 
+                    <year>2020</year>
+                    <month>Mar</month>;
+                    <fpage>eabb3221</fpage>. 
+                    <pub-id pub-id-type="doi">10.1126/science.abb3221</pub-id>
+                    <pub-id pub-id-type="pmid">32179701</pub-id>
+                    <issn>0036-8075</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b2">
+            <label>2. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Du</surname>
+                     <given-names>Z</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Wang</surname>
+                     <given-names>L</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Cauchemez</surname>
+                     <given-names>S</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Xu</surname>
+                     <given-names>X</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Wang</surname>
+                     <given-names>X</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Cowling</surname>
+                     <given-names>BJ</given-names>
+                  </name>, 
+                        <etal>et al.</etal>
+                    </person-group>
+                    <article-title> Risk for Transportation of Coronavirus Disease from Wuhan to Other Cities in China</article-title>. 
+                    <source>Emerg Infect Dis</source>. 
+                    <year>2020</year>;
+                    <volume>26</volume>(
+                    <issue>5</issue>):
+                    <fpage>1049</fpage>–
+                    <lpage>52</lpage>. 
+                    <pub-id pub-id-type="doi">10.3201/eid2605.200146</pub-id>
+                    <pub-id pub-id-type="pmid">32053479</pub-id>
+                    <issn>1080-6040</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b3">
+            <label>3. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Wu</surname>
+                     <given-names>JT</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Leung</surname>
+                     <given-names>K</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Leung</surname>
+                     <given-names>GM</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Nowcasting and forecasting the potential domestic and international spread of the 2019-nCoV outbreak originating in Wuhan, China: a modelling study</article-title>. 
+                    <source>Lancet</source>. 
+                    <year>2020</year>
+                    <month>Feb</month>;
+                    <volume>395</volume>(
+                    <issue>10225</issue>):
+                    <fpage>689</fpage>–
+                    <lpage>97</lpage>. 
+                    <pub-id pub-id-type="doi">10.1016/S0140-6736(20)30260-9</pub-id>
+                    <pub-id pub-id-type="pmid">32014114</pub-id>
+                    <issn>0140-6736</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b4">
+            <label>4. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Riou</surname>
+                     <given-names>J</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Althaus</surname>
+                     <given-names>CL</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Pattern of early human-to-human transmission of Wuhan 2019 novel coronavirus (2019-nCoV), December 2019 to January 2020</article-title>. 
+                    <source>Euro Surveill</source>. 
+                    <year>2020</year>
+                    <month>Jan</month>;
+                    <volume>25</volume>(
+                    <issue>4</issue>):
+                    <fpage>2000058</fpage>. 
+                    <pub-id pub-id-type="doi">10.2807/1560-7917.ES.2020.25.4.2000058</pub-id>
+                    <pub-id pub-id-type="pmid">32019669</pub-id>
+                    <issn>1025-496X</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b5">
+            <label>5. </label>
+            <mixed-citation publication-type="webpage">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Imai</surname>
+                     <given-names>N</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Dorigatti</surname>
+                     <given-names>I</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Cori</surname>
+                     <given-names>A</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Donnelly</surname>
+                     <given-names>C</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Riley</surname>
+                     <given-names>S</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Ferguson</surname>
+                     <given-names>NM</given-names>
+                  </name>.
+                    </person-group> 
+                    <article-title>Report 2: Estimating the potential total number of novel Coronavirus cases in Wuhan City, China</article-title>. 
+                    <source>Imperial College London</source>. 
+                    <year>2020</year>
+                    <month>Jan</month>
+                    <day>22</day>;  
+                    <fpage>1</fpage>-
+                    <lpage>7</lpage>.
+                    <pub-id pub-id-type="doi">10.25561/77150</pub-id>
+                </mixed-citation>
+         </ref>
+         <ref id="b6">
+            <label>6. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Zhang</surname>
+                     <given-names>J</given-names>
+                  </name>
+                        <name name-style="western">
+                     <surname>Litvinova</surname>
+                     <given-names>M</given-names>
+                  </name>
+                        <name name-style="western">
+                     <surname>Liang</surname>
+                     <given-names>Y</given-names>
+                  </name>
+                        <name name-style="western">
+                     <surname>Wang</surname>
+                     <given-names>Y</given-names>
+                  </name>
+                        <name name-style="western">
+                     <surname>Wang</surname>
+                     <given-names>W</given-names>
+                  </name>
+                        <name name-style="western">
+                     <surname>Zhao</surname>
+                     <given-names>S</given-names>
+                  </name>
+                        <etal>et al.</etal>
+                    </person-group>
+                    <article-title>Age profile of susceptibility, mixing, and social distancing shape the dynamics of the novel coronavirus disease 2019 outbreak in China.</article-title>
+                    <source>medRxiv</source>
+                    <year>2020</year>
+                    <month>Jan</month>
+                    <pub-id pub-id-type="doi">10.1101/2020.03.19.20039107</pub-id>.
+                </mixed-citation>
+         </ref>
+         <ref id="b7">
+            <label>7. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Flaxman</surname>
+                     <given-names>S</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Mishra</surname>
+                     <given-names>S</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Gandy</surname>
+                     <given-names>A</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Unwin</surname>
+                     <given-names>HJT</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Coupland</surname>
+                     <given-names>H</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Mellan</surname>
+                     <given-names>TA</given-names>
+                  </name>, 
+                        <etal>et al.</etal>
+                    </person-group> 
+                    <article-title>Report 13: Estimating the number of infections and the impact of non-pharmaceutical interventions on COVID-19 in 11 European countries</article-title>. 
+                    <source>Imperial College London</source>30/3/
+                    <year>2020</year>
+                    <month>Mar</month>
+                    <day>30</day>; 
+                    <fpage>1</fpage>-
+                    <lpage>35</lpage>. 
+                    <pub-id pub-id-type="doi">10.25561/77731</pub-id>
+                </mixed-citation>
+         </ref>
+         <ref id="b8">
+            <label>8. </label>
+            <mixed-citation publication-type="webpage">
+                    <person-group>
+                  <name name-style="western">
+                     <surname/>
+                  </name>
+               </person-group>
+                    <source>Download today’s data on the geographic distribution of COVID-19 cases worldwide</source>. 
+                    <year>2020</year>  
+                    [<date-in-citation content-type="access-date" iso-8601-date="2020-04-10">cited 2020 Apr 10</date-in-citation>].  
+                    <comment>Available from: <uri>https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide</uri>
+               </comment>.
+                </mixed-citation>
+         </ref>
+         <ref id="b9">
+            <label>9. </label>
+            <mixed-citation publication-type="webpage">
+                    <person-group>
+                        <name name-style="western">
+                     <surname>Govan</surname>
+                     <given-names>F</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Why Spain’s true number of coronavirus deaths may be much higher than official figures</article-title>. 
+                    <source>The Local</source>. 
+                    <year>2020</year> 
+                    <month>Apr</month>
+                    <day>8</day>
+                    [<date-in-citation content-type="access-date" iso-8601-date="2020-04-10">cited 2020 Apr 10</date-in-citation>].
+                    <comment>Available from: <uri>https://www.thelocal.es/20200408/why-spains-true-number-of-coronavirus-deaths-may-be-much-higher-than-official-figures</uri>
+               </comment>
+                </mixed-citation>
+         </ref>
+         <ref id="b10">
+            <label>10. </label>
+            <mixed-citation publication-type="webpage">
+                    <person-group>
+                        <name name-style="western">
+                     <surname>Parodi</surname>
+                     <given-names>E</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Aloisi</surname>
+                     <given-names>S</given-names>
+                  </name>.
+                    </person-group>
+                    <article-title>Death at home: the unseen toll of Italy's coronavirus crisis</article-title>. 
+                    <source>Reuters</source>. 
+                    <year>2020</year> 
+                    <month>Apr</month>
+                    <day>5</day> 
+                    [<date-in-citation content-type="access-date" iso-8601-date="2020-04-10">cited 2020 Apr 10</date-in-citation>]
+                    <comment>Available from: <uri>https://www.reuters.com/article/us-health-coronavirus-italy-deaths-insig/death-at-home-the-unseen-toll-of-italys-coronavirus-crisis-idUSKBN21N08X?feedType=RSS&amp;feedName=topNews&amp;utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed:+reuters/topNews+(News+/+US+/+Top+News)</uri>
+               </comment>
+                </mixed-citation>
+         </ref>
+         <ref id="b11">
+            <label>11. </label>
+            <mixed-citation publication-type="webpage">
+                    <person-group>
+                  <collab>R Core Team</collab>
+               </person-group>
+                    <source>R: A language and environment for statistical computing. R Foundation for Statistical Computing</source>.  
+                    <publisher-name>R Foundation for Statistical Computing</publisher-name>. 
+                    <publisher-loc>Vienna, Austria</publisher-loc>
+                    <year>2019</year> 
+                    [<date-in-citation content-type="access-date" iso-8601-date="2020-04-10">cited 2020 Apr 10</date-in-citation>]
+                    <comment>Available from: <uri>https://www.r-project.org</uri>
+               </comment>
+                </mixed-citation>
+         </ref>
+         <ref id="b12">
+            <label>12. </label>
+            <mixed-citation publication-type="webpage">
+                    <person-group>
+                  <collab>Stan Development Team</collab>
+               </person-group>
+                    <source>RStan: the R interface to Stan. R package version 2.19.3.</source>.  
+                    <year>2020</year> 
+                    [<date-in-citation content-type="access-date" iso-8601-date="2020-04-10">cited 2020 Apr 10</date-in-citation>]
+                    <comment>Available from: <uri>http://mc-stan.org/</uri>
+               </comment>
+                </mixed-citation>
+         </ref>
+         <ref id="b13">
+            <label>13. </label>
+            <mixed-citation publication-type="webpage">
+                    <person-group>
+                  <collab>Urad Vlade Republike Slovenije za komuniciranje</collab>
+               </person-group>
+                    <source>Svet za nacionalno varnost sprejel ukrepe za zajezitev širjenja koronavirusa</source>.  
+                    <year>2020</year> 
+                    <month>Mar</month>
+                    <day>10</day>; 
+                    [<date-in-citation content-type="access-date" iso-8601-date="2020-04-10">cited 2020 Apr 10</date-in-citation>]
+                    <comment>Available from: <uri>https://www.gov.si/novice/2020-03-09-svet-za-nacionalno-varnost-sprejel-ukrepe-za-zajezitev-sirjenja-koronavirusa/</uri>
+               </comment>
+                </mixed-citation>
+         </ref>
+         <ref id="b14">
+            <label>14. </label>
+            <mixed-citation publication-type="webpage">
+                    <person-group>
+                  <collab>Ministrstvo za kulturo</collab>
+               </person-group>
+                    <source>Stanje glede novega koronavirusa in vpliv na prireditve s področja kulture in umetnosti</source>.  
+                    <year>2020</year> 
+                    <month>Mar</month>
+                    <day>10</day>; 
+                    [<date-in-citation content-type="access-date" iso-8601-date="2020-04-10">cited 2020 Apr 10</date-in-citation>]
+                    <comment>Available from: <uri>https://www.gov.si/novice/2020-03-10-stanje-glede-novega-koronavirusa-in-vpliv-na-prireditve-s-podrocja-kulture-in-umetnosti/</uri>
+               </comment>
+                </mixed-citation>
+         </ref>
+         <ref id="b15">
+            <label>15. </label>
+            <mixed-citation publication-type="webpage">
+                    <person-group>
+                  <collab>Urad Vlade Republike Slovenije za komuniciranje</collab>
+               </person-group>
+                    <source>Koronavirus: Ukrepi za zajezitev širjenja</source>.  
+                    <year>2020</year>; 
+                    [<date-in-citation content-type="access-date" iso-8601-date="2020-04-10">cited 2020 Apr 10</date-in-citation>]
+                    <comment>Available from: <uri>https://www.gov.si/teme/koronavirus/koronavirus-ukrepi-za-zajezitev-sirjenja/</uri>
+               </comment>
+                </mixed-citation>
+         </ref>
+         <ref id="b16">
+            <label>16. </label>
+            <mixed-citation publication-type="webpage">
+                    <person-group>
+                  <collab>Ministrstvo za notranje zadeve</collab>
+               </person-group>
+                    <source>Od polnoči začasna prepoved zbiranja ljudi na javnih shodih, prireditvah in drugih dogodkih na javnih krajih</source>.  
+                    <year>2020</year> 
+                    <month>Mar</month>
+                    <day>19</day>; 
+                    [<date-in-citation content-type="access-date" iso-8601-date="2020-04-10">cited 2020 Apr 10</date-in-citation>]
+                    <comment>Available from: <uri>https://www.gov.si/novice/2020-03-19-od-polnoci-zacasna-prepoved-zbiranja-ljudi-na-javnih-shodih-prireditvah-in-drugih-dogodkih-na-javnih-krajih/</uri>
+               </comment>
+                </mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

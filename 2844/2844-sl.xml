@@ -1,0 +1,1217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD with MathML3 v1.1 20151215//EN" "JATS-journalpublishing1-mathml3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink"
+         dtd-version="1.1"
+         xml:lang="sl"
+         article-type="other">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher-id">Zdrav Vestn</journal-id>
+         <journal-id journal-id-type="nlm-ta">Zdrav Vestn</journal-id>
+         <journal-id journal-id-type="doi">Zdrav Vestn</journal-id>
+         <journal-title-group>
+            <journal-title>Zdravniški vestnik</journal-title>
+            <trans-title-group xml:lang="en">
+               <trans-title>Slovenian Medical Journal</trans-title>
+            </trans-title-group>
+            <abbrev-journal-title>Zdrav Vestn</abbrev-journal-title>
+         </journal-title-group>
+         <issn publication-format="ppub" pub-type="ppub">1318-0347</issn>
+         <issn publication-format="epub" pub-type="epub">1581-0224</issn>
+         <issn-l>0350-0063</issn-l>
+         <publisher>
+            <publisher-name xml:lang="sl">Slovensko zdravniško društvo</publisher-name>
+            <publisher-name xml:lang="en">Slovenian Medical Association</publisher-name>
+            <publisher-loc xml:lang="sl">Ljubljana, Slovenia</publisher-loc>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.6016/ZdravVestn.2844</article-id>
+         <article-id pub-id-type="publisher-id">2844</article-id>
+         <article-categories>
+            <subj-group subj-group-type="discipline" xml:lang="en">
+               <subject>Medicine and health sciences</subject>
+               <subj-group>
+                  <subject>Metabolic and hormonal disorders</subject>
+               </subj-group>
+            </subj-group>
+            <subj-group subj-group-type="discipline" xml:lang="sl">
+               <subject>Medicina/Zdravstvo</subject>
+               <subj-group>
+                  <subject>Metabolne in hormonske motnje</subject>
+               </subj-group>
+            </subj-group>
+            <subj-group subj-group-type="article-type" xml:lang="en">
+               <subject>Review article</subject>
+            </subj-group>
+            <subj-group subj-group-type="article-type" xml:lang="sl">
+               <subject>Pregledni znanstveni članek</subject>
+            </subj-group>
+            <subj-group subj-group-type="heading" xml:lang="sl">
+               <subject>Metabolne in hormonske motnje</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title xml:lang="sl">Peritonitis pri bolnikih na peritonealni dializi</article-title>
+            <trans-title-group>
+               <trans-title xml:lang="en">Peritoneal dialysis-associated peritonitis</trans-title>
+            </trans-title-group>
+            <alt-title alt-title-type="running-head" xml:lang="sl">Peritonitis pri bolnikih na peritonealni dializi</alt-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Janež</surname>
+                  <given-names>Jurij</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1">1</xref>
+               <xref ref-type="corresp" rid="corr"/>
+            </contrib>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Čebron</surname>
+                  <given-names>Žan</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1">1</xref>
+            </contrib>
+         </contrib-group>
+         <aff-alternatives id="aff1">
+            <aff xml:lang="sl">
+               <label>1</label>
+               <institution>Klinični oddelek za abdominalno kirurgijo, Kirurška klinika, Univerzitetni klinični center Ljubljana, Ljubljana, Slovenija</institution>
+            </aff>
+            <aff xml:lang="en">
+               <label>1</label>
+               <institution>Department of Abdominal Surgery, Division of Surgery, University Medical Centre Ljubljana, Ljubljana, Slovenia</institution>
+            </aff>
+         </aff-alternatives>
+         <author-notes>
+            <fn fn-type="conflict" xml:lang="en">
+               <p>The authors have declared that no competing interests exist.</p>
+            </fn>
+            <fn fn-type="conflict" xml:lang="sl">
+               <p>Avtorji so izjavili, da ne obstajajo nobeni konkurenčni interesi.</p>
+            </fn>
+            <corresp id="corr">Jurij Janež, e-mail: <email xlink:type="simple"/>
+            </corresp>
+         </author-notes>
+         <pub-date pub-type="ppub">
+            <month>2</month>
+            <year>2019</year>
+         </pub-date>
+         <pub-date pub-type="epub">
+            <month>2</month>
+            <year>2019</year>
+         </pub-date>
+         <volume>88</volume>
+         <issue>1–2</issue>
+         <fpage>39</fpage>
+         <lpage>49</lpage>
+         <history>
+            <date date-type="received">
+               <day>26</day>
+               <month>5</month>
+               <year>2018</year>
+            </date>
+            <date date-type="accepted">
+               <day>10</day>
+               <month>2</month>
+               <year>2019</year>
+            </date>
+         </history>
+         <permissions>
+            <copyright-statement xml:lang="en">Copyright © 2019, Slovenian Medical Association (SZD)</copyright-statement>
+            <copyright-statement xml:lang="sl">© 2019, Slovensko zdravniško društvo (SZD)</copyright-statement>
+            <copyright-year>2019</copyright-year>
+            <copyright-holder xml:lang="en">Slovenian Medical Association (SZD)</copyright-holder>
+            <copyright-holder xml:lang="sl">Slovensko zdravniško društvo (SZD)</copyright-holder>
+            <license xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                     xlink:type="simple"
+                     xml:lang="en">
+               <license-p>This is an open access article distributed under the terms of the
+          <ext-link ext-link-type="uri"
+                            xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                            xlink:type="simple">Creative Commons Attribution-NonCommercial
+            License</ext-link>, which permits unrestricted use, distribution, and
+          reproduction in any medium, provided the original author and source are
+          credited and only for non-commercial purposes. </license-p>
+            </license>
+            <license xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                     xlink:type="simple"
+                     xml:lang="sl">
+               <license-p>To je članek z odprtim dostopom, ki ga lahko uporabite pod pogoji iz
+          <ext-link ext-link-type="uri"
+                            xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                            xlink:type="simple">Creative Commons Priznanje avtorstva-Nekomercialno
+            licence</ext-link>. ki dovoljuje distribucijo, predelavo ali
+          prilagoditev, ter gradijo na njem, v nekomercialne namene, z navedbo avtorja
+          in izvirnega dela.</license-p>
+            </license>
+         </permissions>
+         <abstract xml:lang="sl">
+            <title>Izvleček</title>
+            <p>Peritonealna dializa se po vsem svetu uporablja za zdravljenje končne ledvične odpovedi. Ocenjuje se, da se z metodo peritonealne dialize zdravi več kot 200.000 bolnikov v več kot 130 državah, kar je približno 11 % vseh bolnikov na dializnem zdravljenju. V Sloveniji je bilo leta 2013 na nadomestnem zdravljenju zaradi končne ledvične odpovedi skupno 2.077 bolnikov, od tega 52 (2,5 %) na peritonealni dializi. Delež bolnikov, zdravljenih s peritonealno dializo, se je v Sloveniji v zadnjem desetletju zmanjšal predvsem na račun vedno večjega deleža bolnikov z delujočo in presajeno ledvico.</p>
+            <p>Možen zaplet peritonealne dialize je pojav peritonitisa. Incidenca peritonitisa se ocenjuje na približno 0,4 epizode na bolnikovo leto zdravljenja. Smrtnost zaradi peritonitisa se je pri bolnikih na peritonealni dializi v zadnjih desetletjih zaradi preventivnih ukrepov pomembno zmanjšala. Manj kot 5 % epizod peritonitisa se konča s smrtjo, a ocenjuje se, da je peritonitis pomemben pridruženi dejavnik pri približno 16 % vseh smrti.</p>
+            <p>Čas od nastanka peritonitisa do začetka zdravljenja pomembno vpliva na potek in napoved izida peritonitisa, zato je ob prepoznavi bolezni nujno takojšnje ukrepanje. Bolniki s peritonitisom potrebujejo konzervativno in/ali kirurško zdravljenje. Peritonitis zdravimo z odstranitvijo žarišča okužbe, izpiranjem trebušne votline z 0,9-odstotno raztopino NaCl ter uvedbo najprej empiričnega in nato usmerjenega protimikrobnega zdravljenja.</p>
+            <p>Preprečevanje peritonitisa je velik izziv in je pomembno vsaj toliko, kot sta pomembna zgodnja diagnoza in zdravljenje.</p>
+         </abstract>
+         <trans-abstract xml:lang="en">
+            <title>Abstract</title>
+            <p>Peritoneal dialysis is used worldwide as a treatment for end-stage kidney failure. Globally, it accounts for about 11 % of all therapeutic dialysis interventions, with over 200.000 patients currently undergoing the procedure in more than 130 countries. In Slovenia, however, the percentage of patients treated by peritoneal dialysis has fallen due to the rise in renal transplantation services and the number of transplanted patients with functioning kidney graft. In 2013, patients receiving peritoneal dialysis in Slovenia accounted for only 2.5 % (52 patients) of the total number treated by renal replacement therapy (2077 patients).</p>
+            <p>A potential complication of peritoneal dialysis is peritonitis. Although in general, peritonitis-related mortality has declined significantly in the last decade (with less than 5 % of peritonitis episodes resulting in death) possibly due to improved preventive measures, peritonitis still remains a direct or major contributing cause of mortality in approximately 16 % of peritoneal dialysis patients.</p>
+            <p>In these patients, the time frame between the onset of peritonitis and the commencement of treatment critically determines the course and outcome of the disease. Peritonitis patients require urgent care, and therapeutic interventions may include conservative and/or surgical treatment protocols.</p>
+            <p>Meanwhile, it is important to emphasize that prevention of peritoneal dialysis-associated peritonitis is as important as early diagnosis and timely treatment.</p>
+         </trans-abstract>
+         <kwd-group xml:lang="sl">
+            <kwd>peritonitis</kwd>
+            <kwd>peritonealna dializa</kwd>
+            <kwd>zdravljenje</kwd>
+            <kwd>preprečevanje</kwd>
+         </kwd-group>
+         <kwd-group xml:lang="en">
+            <kwd>peritonitis</kwd>
+            <kwd>peritoneal dialysis</kwd>
+            <kwd>treatment</kwd>
+            <kwd>prevention</kwd>
+         </kwd-group>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>TotalReferences</meta-name>
+               <meta-value>30</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ReferencesParsed</meta-name>
+               <meta-value>26</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ReferencesBillable</meta-name>
+               <meta-value>24</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>LinkServices</meta-name>
+               <meta-value>pubmed-crossref</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ReferencesLinked</meta-name>
+               <meta-value>19</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ReferencesLinkedDOI</meta-name>
+               <meta-value>18</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ReferencesLinkedPMID</meta-name>
+               <meta-value>19</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>JournalReferences</meta-name>
+               <meta-value>22</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>BookReferences</meta-name>
+               <meta-value>3</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>BookChapterReferences</meta-name>
+               <meta-value>3</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ConferenceReferences</meta-name>
+               <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ElectronicReferences</meta-name>
+               <meta-value>2</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>DissertationReferences</meta-name>
+               <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>LegalReferences</meta-name>
+               <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>StandardReferences</meta-name>
+               <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>OtherReferences</meta-name>
+               <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>UnknownReferences</meta-name>
+               <meta-value>1</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ReferencesSemiParsed</meta-name>
+               <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ReferencesBookUnparsed</meta-name>
+               <meta-value>3</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>EditorialStyle</meta-name>
+               <meta-value>ICMJE-WHO</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <body>
+      <sec id="s1" sec-type="Uvod">
+         <label>1</label>
+         <title>Uvod</title>
+         <p>Peritonitis je akutno vnetje visceralnega in parietalnega lista potrebušnice, ki lahko hudo prizadene bolnika in ogroža njegovo življenje. Zaradi velike koncentracije bakterij v prebavilih in velike površine potrebušnice pogosto vodi v hudo sepso (<xref ref-type="bibr" rid="b1">1</xref>,<xref ref-type="bibr" rid="b2">2</xref>). Peritonitis je že od uvedbe peritonelne dialize (PD) po letu 1960 resen zaplet, ki poškoduje peritonealno membrano ter povzroča strukturne in funkcijske spremembe. Je najpogostejši razlog za sprejem v bolnišnico, odstranitev peritonealnega dializnega katetra in v 30–80 % celo za prekinitev peritonealne dialize. V Sloveniji se incidenca peritonitisa ocenjuje na približno 0,33 epizod na bolnikovo leto zdravljenja (ena epizoda na 36 bolnikovih mesecev zdravljenja) (<xref ref-type="bibr" rid="b3">3</xref>-<xref ref-type="bibr" rid="b6">6</xref>).</p>
+      </sec>
+      <sec id="s2" sec-type="Peritonitis">
+         <label>2</label>
+         <title>Peritonitis</title>
+         <p>Peritonitis je vnetje visceralnega in parietalnega lista potrebušnice zaradi različnih vzrokov. Glede na vzrok in mehanizem nastanka peritonitisa ločimo primarni, sekundarni in terciarni (<xref ref-type="bibr" rid="b1">1</xref>,<xref ref-type="bibr" rid="b2">2</xref>). Primarni peritonitis, ki predstavlja približno 10 % vseh peritonitisov, je redko vnetje potrebušnice, pri katerem ne dokažemo patoloških sprememb v trebuhu. Najpogosteje se pojavlja pri otrocih, pri bolnikih z jetrno cirozo in ascitesom, pri nefrotskem sindromu in pri bolnikih s kongestivnim srčnim popuščanjem (<xref ref-type="bibr" rid="b2">2</xref>,<xref ref-type="bibr" rid="b7">7</xref>). Sekundarni peritonitis je najpogostejši (približno 80 %) in je posledica širjenja okužbe zaradi poškodbe ali vnetja znotraj trebuha. Do sekundarnega peritonitisa največkrat pride pri peptični ulkusni bolezni, akutnem vnetju slepiča, akutnem vnetju žolčnika in črevesnih divertiklih (<xref ref-type="bibr" rid="b2">2</xref>,<xref ref-type="bibr" rid="b8">8</xref>), kot zaplet pa se pojavlja tudi pri bolnikih na PD. Etiopatogeneza peritonitisa pri PD je opisana v nadaljevanju. Pri terciarnem peritonitisu (približno 10 %) gre za vztrajajoče vnetje potrebušnice z nizkovirulentnimi bakterijami ali glivami, čeprav je septično žarišče v trebuhu že pozdravljeno. Najpogosteje se to zgodi pri imunsko oslabelih bolnikih (<xref ref-type="bibr" rid="b1">1</xref>,<xref ref-type="bibr" rid="b8">8</xref>,<xref ref-type="bibr" rid="b9">9</xref>).</p>
+         <p>Bolniki s peritonitisom potrebujejo konzervativno in/ali kirurško zdravljenje. Peritonitis zdravimo z odstranitvijo žarišča okužbe, izpiranjem trebušne votline z 0,9-odstotno raztopino NaCl ter uvedbo najprej empiričnega in nato usmerjenega antibiotičnega zdravljenja. Intenzivno pooperacijsko zdravljenje z infuzijami tekočin, nadomeščanjem elektrolitov, popravo presnovnih motenj in podporo vitalnih organov bistveno prispeva k uspešnosti zdravljenja. Pomembno je, da na peritonitis čim prej posumimo, potrdimo diagnozo in takoj začnemo zdravljenje. Čas od nastanka peritonitisa do začetka zdravljenja bistveno vpliva na potek in izid peritonitisa (<xref ref-type="bibr" rid="b1">1</xref>,<xref ref-type="bibr" rid="b2">2</xref>,<xref ref-type="bibr" rid="b10">10</xref>-<xref ref-type="bibr" rid="b13">13</xref>).</p>
+      </sec>
+      <sec id="s3" sec-type="Epidemiologija">
+         <label>3</label>
+         <title>Epidemiologija</title>
+         <p>PD se po vsem svetu uporablja za zdravljenje končne ledvične odpovedi. Ocenjuje se, da se z metodo PD zdravi več kot 200.000 bolnikov v več kot 130 državah, kar je približno 11 % vseh bolnikov na dializnem zdravljenju (<xref ref-type="bibr" rid="b14">14</xref>). V ZDA je takih bolnikov približno 26.000 (<xref ref-type="bibr" rid="b15">15</xref>). V Sloveniji se je v zadnjem desetletju zmanjšala tako prevalenca kakor tudi delež bolnikov, zdravljenih s PD, ki je sedaj precej pod svetovnim povprečjem 11 % (<xref ref-type="bibr" rid="b16">16</xref>). Leta 2013 je bilo v Sloveniji od skupno 2.077 bolnikov na nadomestnem zdravljenju zaradi končne ledvične odpovedi le 52 bolnikov (2,5 %), ki se zdravijo s PD. Delež bolnikov na PD je upadel predvsem na račun vedno večjega deleža bolnikov z delujočo in presajeno ledvico (32,5 % vseh bolnikov) (<xref ref-type="bibr" rid="b17">17</xref>).</p>
+         <p>Pogostost peritonitisa je bila v prvih letih uporabe PD zelo visoka, pogostost pa se je po uvedbi številnih ukrepov za preprečevanje peritonitisa bistveno zmanjšala. Na primer v ZDA je bila v letih 1980–1990 incidenca peritonitisa 1,1–1,3 epizod na bolnikovo leto zdravljenja, študije iz zadnjih let pa navajajo incidenco 0,4 epizod na bolnikovo leto zdravljenja (<xref ref-type="bibr" rid="b4">4</xref>).</p>
+         <p>Čeprav se je v zadnjih letih incidenca peritonitisa zmanjševala, se podatki med različnimi državami ter tudi med različnimi centri znotraj istih držav zelo razlikujejo, saj je poročana incidenca 0,06–1,66 epizode na bolnikovo leto zdravljenja. Glavni vzroki za takšne razlike v incidenci so najverjetneje predvsem neupoštevanje priporočil za preprečevanje peritonitisa v posameznih centrih, različna populacija zdravljenih bolnikov ter nedoslednost pri zbiranju podatkov. Mednarodno združenje za peritonealno dializo (<italic>angl.</italic> 
+            <italic>International Society for Peritoneal Dialysis - </italic>
+            <italic>ISPD</italic>) meni, da pogostost peritonitisa v nobenem centru ne bi smela presegati 0,5 epizod na bolnikovo leto zdravljenja. V Sloveniji se incidenca peritonitisa ocenjuje na približno 0,33 epizod na bolnikovo leto zdravljenja (ena epizoda na 36 bolnikovih mesecev zdravljenja) (<xref ref-type="bibr" rid="b2">2</xref>-<xref ref-type="bibr" rid="b4">4</xref>,<xref ref-type="bibr" rid="b6">6</xref>,<xref ref-type="bibr" rid="b14">14</xref>,<xref ref-type="bibr" rid="b15">15</xref>,<xref ref-type="bibr" rid="b18">18</xref>).</p>
+         <p>Za kakovostno zbiranje podatkov, ki se med posameznimi ustanovami lahko primerjajo in nato ocenjujejo kakovost dela posameznega centra, je ISPD izdal naslednja priporočila za spremljanje pogostosti peritonitisa pri PD. Vsak center, ki izvaja PD, mora beležiti letno incidenco peritonitisa. Svetuje se natančno beleženje, ali se je peritonitis pojavil že v bolnišnici kmalu po vstavitvi peritonealnega dializnega katetra ali šele po začetku izvajanja dialize na domu. Pri oblikovanju lokalnih priporočil za empirično protimikrobno zdravljenje so ključni podatki o povzročiteljih peritonitisa in njihova občutljivost na protimikrobna zdravila. Zaželeno je tudi beleženje števila bolnikov, ki v zadnjem letu niso imeli nobene epizode peritonitisa, in števila bolnikov, ki so zaradi peritonitisa umrli (smrt med bolnišničnim zdravljenjem zaradi peritonitisa ali smrt znotraj štirih tednov po začetku peritonitisa) (<xref ref-type="bibr" rid="b4">4</xref>).</p>
+      </sec>
+      <sec id="s4" sec-type="Etiopatogeneza">
+         <label>4</label>
+         <title>Etiopatogeneza</title>
+         <p>Možnih je več poti okužbe:</p>
+         <list>
+            <list-item>
+               <label>•</label>
+               <p>intraluminalno – do okužbe pride skozi peritonealni dializni kateter zaradi okužbe pri menjavi vrečk ali zaradi bakterij v dializni raztopini;</p>
+            </list-item>
+            <list-item>
+               <label>•</label>
+               <p>periluminalno – do okužbe pride ob katetru skozi trebušno steno;</p>
+            </list-item>
+            <list-item>
+               <label>•</label>
+               <p>transmuralno – do okužbe pride zaradi translokacije bakterij iz črevesa;</p>
+            </list-item>
+            <list-item>
+               <label>•</label>
+               <p>ascendentno – do okužbe pride, če obstaja povezava med nožnico in peritonealno votlino skozi jajcevode ali fistule;</p>
+            </list-item>
+            <list-item>
+               <label>•</label>
+               <p>hematogeno.</p>
+            </list-item>
+         </list>
+         <p>Najpogostejša je intraluminalna pot okužbe. Periluminalna pot je redek vzrok okužbe zaradi napredka in izboljšav pri vstavljanju dializnega katetra, saj imajo dializni katetri dvojno objemko, ki preprečuje vdor bakterij v peritonealno votlino. Ostale poti okužbe so še redkejše (<xref ref-type="bibr" rid="b3">3</xref>,<xref ref-type="bibr" rid="b19">19</xref>,<xref ref-type="bibr" rid="b20">20</xref>).</p>
+         <p>Globalno gledano približno 75 % okužb povzročajo po Gramu-pozitivne bakterije, najpogostejša povzročitelja sta <italic>S. epidermidis</italic> (30–50 % vseh okužb) in <italic>S. aureus</italic>, ki sta normalno prisotna na koži in lahko prideta v trebušno votlino preko intraluminalne poti zaradi nesterilnega rokovanja s spoji katetra. Drugi pogosti povzročitelji so še koagulazno negativni stafilokoki<italic>, E. coli</italic>, <italic>P. aeruginosa</italic> in glive (predvsem <italic>Candida spp.</italic>) (<xref ref-type="bibr" rid="b2">2</xref>,<xref ref-type="bibr" rid="b3">3</xref>,<xref ref-type="bibr" rid="b19">19</xref>). Etiološki podatki se sicer nekoliko razlikujejo glede na geografsko lego, npr. v Indiji je peritonitis zaradi okužbe s po Gramu negativnimi bakterijami bolj pogost od peritonitisa s po Gramu pozitivnimi bakterijami, kar vpliva na slabši izid zdravljenja. Med povzročitelji, ki povzročajo doma ali v bolnišnici nastali peritonitis, ni pomembnih razlik (<xref ref-type="bibr" rid="b19">19</xref>,<xref ref-type="bibr" rid="b21">21</xref>).</p>
+      </sec>
+      <sec id="s5" sec-type="Klinična slika">
+         <label>5</label>
+         <title>Klinična slika</title>
+         <p>Peritonitis je pogost zaplet PD. Najpomembnejši simptom so difuzne bolečine v trebuhu, najpomembnejši znak je môten dializat (<xref ref-type="bibr" rid="b12">12</xref>,<xref ref-type="bibr" rid="b18">18</xref>). Moten dializat skoraj vedno pomeni infekcijski peritonitis, ostali vzroki motnega dializata so namreč izjemno redki (npr. kemični peritonitis, antagonisti kalcijevih kanalčkov, maligna bolezen, hematoperitonej ter drugi) (<xref ref-type="bibr" rid="b4">4</xref>). Pri hudem peritonitisu so lahko navzoči še drugi simptomi in znaki, kot so povišana telesna temperatura, slabost, bruhanje, driska in motnje pri iztoku dializata (<xref ref-type="bibr" rid="b3">3</xref>).</p>
+      </sec>
+      <sec id="s6" sec-type="Diagnoza">
+         <label>6</label>
+         <title>Diagnoza</title>
+         <p>Za potrditev diagnoze peritonitisa morata biti izpolnjena dva od treh naštetih meril:</p>
+         <list>
+            <list-item>
+               <label>1.</label>
+               <p>prisotnost kliničnih znakov peritonitisa (npr. občutljivost ali bolečina v trebuhu);</p>
+            </list-item>
+            <list-item>
+               <label>2.</label>
+               <p>moten peritonealni izpirek z več kot 0,1 × 10<sup>9</sup>/L levkocitov, od tega več kot 50 % nevtrofilcev;</p>
+            </list-item>
+            <list-item>
+               <label>3.</label>
+               <p>dokazani mikrobi iz peritonealnega izpirka (<xref ref-type="bibr" rid="b3">3</xref>,<xref ref-type="bibr" rid="b4">4</xref>).</p>
+            </list-item>
+         </list>
+         <p>Za hitrejše določanje, ali peritonitis povzročajo po Gramu pozitivne ali po Gramu negativne bakterije, se lahko odločimo, da izpirek barvamo po Gramu, vendar je ta metoda zelo slabo občutljiva, saj zaznamo le 10–40 % okuženih vzorcev (<xref ref-type="bibr" rid="b2">2</xref>). V primeru bolečin v trebuhu in bistrega izpirka moramo pri bolnikih na PD v diferencialno diagnozo bolečin vedno vključiti tudi peritonitis (<xref ref-type="bibr" rid="b4">4</xref>).</p>
+         <p>Slikovne preiskave pri postavitvi diagnoze nimajo pravega pomena, so pa nam v veliko pomoč pri izključevanju ostalih možnih vzrokov peritonitisa, ki bi glede na bolnikovo klinično sliko bili možni (<xref ref-type="bibr" rid="b11">11</xref>,<xref ref-type="bibr" rid="b12">12</xref>). Če pri bolniku na PD s slikovnimi preiskavami ugotovimo prosti zrak v trebuhu, je to neodvisni dejavnik tveganja za peritonitis, zato je tako pri bistrem kot pri motnem peritonealnem izpirku potrebno opraviti prej naštete preiskave za potrditev ali izključitev peritonitisa (<xref ref-type="bibr" rid="b22">22</xref>). Za oceno debeline peritonealne membrane, ki vpliva na učinkovitost PD, se lahko namesto invazivnih metod uporablja ultrazvočna preiskava (UZ) (<xref ref-type="bibr" rid="b23">23</xref>).</p>
+      </sec>
+      <sec id="s7" sec-type="Zdravljenje">
+         <label>7</label>
+         <title>Zdravljenje</title>
+         <p>Ko je verjetnost peritonitisa pri bolnikih na PD zelo verjetna ali potrjena, si ogledamo izstopišče peritonealnega katetra ter ocenimo, ali so prisotni znaki vnetja. Nato odvzamemo vzorec izpirka in ga pošljemo na nadaljnje preiskave. Z začetnim empiričnim antibiotičnim zdravljenjem ne odlašamo in začnemo takoj, saj lahko odlaganje zdravljenja pomembno vpliva na potek in izid peritonitisa. ISPD svetuje prekinitev PD za vsaj 6–48 ur po prvem odmerku protimikrobnega zdravila. Glede tega so mnenja deljena, saj prekinitev PD pomeni, da bo bolnik potreboval hemodializo, ki tudi ima svoja tveganja in zaplete. V literaturi zato nekateri avtorji svetujejo, da se PD ne prekinja, razen v primeru, ko je potrebna odstranitev peritonealnega katetra. Pri vsakem bolniku ocenimo, ali je potrebna dodatno zdravljenje z analgetiki, intraperitonealnim vnosom heparina in profilaktičnim antimikotikom. Bolnika je potrebno pred odpustom izobraziti o načinu intraperitonealnega dajanja zdravil ter ga naročiti na redne kontrolne preglede. Smiselno je, da se preveri pravilnost izvajanja PD in se bolnika opozori o domnevnih napakah pri izvajanju PD. Začetni ukrepi pri peritonitisu so predstavljeni v <xref ref-type="fig" rid="fig1">Sliki 1</xref> (<xref ref-type="bibr" rid="b4">4</xref>).</p>
+         <fig position="anchor" id="fig1">
+            <label>Slika 1:</label>
+            <caption>
+               <p> Začetno zdravljenje pri peritonitisu; IP – intraperitonealno; prirejeno po ISPD smernicah (<xref ref-type="bibr" rid="b4">4</xref>).</p>
+            </caption>
+            <p>
+               <graphic xlink:href="2844-web-resources/image/zdravvestn-2844-sl-01.png"/>
+            </p>
+         </fig>
+         <sec id="s7.1" sec-type="Izbira in odmerjanje antibiotika">
+            <label>7.1</label>
+            <title>Izbira in odmerjanje antibiotika</title>
+            <p>Začetno empirično zdravljenje mora pokriti tako po Gramu pozitivne kot po Gramu negativne povzročitelje. Priporočila ISPD so, da se za po Gramu pozitivne povzročitelje dajejo vankomicin ali cefalosporini prve generacije (npr. cefazolin), za po Gramu negativne pa cefalosporine tretje generacije (npr. cefepim, ceftazidim) ali aminoglikozid (npr. gentamicin). Bolj kot upoštevanje priporočil ISPD je pomembno upoštevanje občutljivosti lokalnih povzročiteljev na antibiotike ter na predhodne izkušnje posameznega dializnega centra. V Sloveniji imamo največ dobrih izkušenj z intraperitonealnim zdravljenjem s cefazolinom in gentamicinom (glej Algoritem 1). Po prejemu izvida bakterijskih kultur in antibiograma antibiotično zdravljenje po potrebi prilagodimo. Zgolj s protimikrobnim zdravljenjem brez drugih ukrepov uspemo pozdraviti približno 75 % peritonitisov. Uspešnost protimikrobnega zdravljenja brez odstranitve katetra je v veliki meri odvisna od povzročitelja in je za posamezne povzročitelje naslednja – koagulazno negativni stafilokoki 90 %, <italic>S. aureus</italic> 66 %, G-negativni bacili 56 % in glive 0 %. Če pri bolniku ne pride do izboljšanja kliničnega stanja in do zbistritve izpirka v petih dneh, peritonealni kateter odstranimo. Včasih peritonealni kateter odstranimo prej kot v petih dneh; indikacije za odstranitev peritonealnega katetra so opisane v nadaljevanju. Če je bolnik ogrožen, ima znake sepse in/ali znake okužbe izstopišča peritonealnega katetra, dodamo sistemski antibiotik intravensko, empirično izberemo vankomicin in ceftazidim, sicer pa antibiotik izberemo glede na povzročitelje in antibiogram. Priporočeni odmerki za intraperitonealno dajanje pogosteje uporabljenih antibiotikov so predstavljeni v <xref ref-type="table" rid="table1">Tabeli 1</xref> (<xref ref-type="bibr" rid="b2">2</xref>-<xref ref-type="bibr" rid="b4">4</xref>,<xref ref-type="bibr" rid="b19">19</xref>,<xref ref-type="bibr" rid="b24">24</xref>).</p>
+            <table-wrap position="anchor" id="table1">
+               <label>Tabela 1:</label>
+               <caption>
+                  <p> Odmerki pogosteje uporabljenih antibiotikov za zdravljenje peritonitisa pri PD, prirejeno po smernicah ISPD (<xref ref-type="bibr" rid="b4">4</xref>). LD – polnitveni odmerek (<italic>angl.</italic> loading dose), MD – vzdrževalni odmerek (<italic>angl.</italic> maintenance dose) </p>
+               </caption>
+               <table>
+                  <colgroup>
+                     <col/>
+                     <col/>
+                     <col/>
+                  </colgroup>
+                  <thead>
+                     <tr>
+                        <th>Antibiotik</th>
+                        <th>Intermitentno (1 izmenjava)</th>
+                        <th>Kontinuirano (vse izmenjave)</th>
+                     </tr>
+                  </thead>
+                  <tbody>
+                     <tr>
+                        <td>Gentamicin</td>
+                        <td>0,6 mg/kg na dan</td>
+                        <td>LD 25 mg/L, MD 12 mg/L</td>
+                     </tr>
+                     <tr>
+                        <td>Amikacin</td>
+                        <td>2 mg/kg na dan</td>
+                        <td>LD 8 mg/L, MD 4 mg/L</td>
+                     </tr>
+                     <tr>
+                        <td>Cefazolin</td>
+                        <td>15–20 mg/kg na dan</td>
+                        <td>LD 500 mg/L, MD 125 mg/L</td>
+                     </tr>
+                     <tr>
+                        <td>Ceftriakson</td>
+                        <td>1,000 mg na dan</td>
+                        <td>ni podatka</td>
+                     </tr>
+                     <tr>
+                        <td>Cefotaksim</td>
+                        <td>500–1,000 mg na dan</td>
+                        <td>ni podatka</td>
+                     </tr>
+                     <tr>
+                        <td>Ceftazidim</td>
+                        <td>1,000–1,500 mg na dan</td>
+                        <td>LD 500 mg/L, MD 125 mg/L</td>
+                     </tr>
+                     <tr>
+                        <td>Vankomicin</td>
+                        <td>15–30 mg/kg na 5–7 dni</td>
+                        <td>LD 30 mg/kg, MD 1,5 mg/kg/vrečka</td>
+                     </tr>
+                  </tbody>
+               </table>
+            </table-wrap>
+         </sec>
+         <sec id="s7.2" sec-type="Trajanje zdravljenja">
+            <label>7.2</label>
+            <title>Trajanje zdravljenja</title>
+            <p>Trajanje zdravljenja je odvisno od povzročitelja. Za priporočeno trajanje zdravljenja pri posameznih povzročiteljih glej <xref ref-type="table" rid="table2">Tabelo 2</xref> (<xref ref-type="bibr" rid="b3">3</xref>,<xref ref-type="bibr" rid="b4">4</xref>).</p>
+            <table-wrap position="anchor" id="table2">
+               <label>Tabela 2:</label>
+               <caption>
+                  <p> Čas zdravljenja in druge posebnosti zdravljenja za posamezne povzročitelje peritonitisa, prirejeno po smernicah ISPD (<xref ref-type="bibr" rid="b4">4</xref>). </p>
+               </caption>
+               <table>
+                  <colgroup>
+                     <col/>
+                     <col/>
+                  </colgroup>
+                  <thead>
+                     <tr>
+                        <th>Povzročitelj</th>
+                        <th>Priporočila</th>
+                     </tr>
+                  </thead>
+                  <tbody>
+                     <tr>
+                        <td>Koagulazno negativni stafilokoki</td>
+                        <td>
+                           <p>Zdravljenje z IP cefalosporini ali vankomicinom glede na lokalno občutljivost mikroorganizmov.</p>
+                           <p>Čas zdravljenja 2 tedna.</p>
+                        </td>
+                     </tr>
+                     <tr>
+                        <td>Enterococuss spp.</td>
+                        <td>
+                           <p>Zdravljenje z IP vankomicinom. Za zdravljenje hudega peritonitisa IP aminoglikozidi.</p>
+                           <p>Čas zdravljenja 3 tedne.</p>
+                           <p>*Izjema VRE (<italic>angl.</italic>
+                              <italic> </italic>vankomicin-resistant Enterococcus) – zdravljenje z IP ampicilin. V primeru odpornosti na ampicilin zdravljenje glede na antibiogram (npr. linezolid, teikoplanin…).</p>
+                        </td>
+                     </tr>
+                     <tr>
+                        <td>Streptococcus spp.</td>
+                        <td>
+                           <p>Zdravljenje z IP ampicilinom.</p>
+                           <p>Čas zdravljenja 2 tedna.</p>
+                        </td>
+                     </tr>
+                     <tr>
+                        <td>S. aureus</td>
+                        <td>
+                           <p>Zdravljenje z lokalno učinkovitim antibiotikom.</p>
+                           <p>Čas zdravljenja 3 tedne.</p>
+                        </td>
+                     </tr>
+                     <tr>
+                        <td>Corynebacterium spp.</td>
+                        <td>
+                           <p>Zdravljenje z lokalno učinkovitim antibiotikom.</p>
+                           <p>Čas zdravljenja 3 tedne.</p>
+                        </td>
+                     </tr>
+                     <tr>
+                        <td>Pseudomonas spp.</td>
+                        <td>
+                           <p>Zdravljenje z dvema antibiotikoma, ki imata različen mehanizem delovanja. (npr. IP gentamicin ali oralno ciprofloksacin z IP cefazidimom ali cefepimom).</p>
+                           <p>Čas zdravljenja 3 tedne.</p>
+                           <p>V primeru okužbe vstopnega mesta odstranitev dializnega katetra.</p>
+                        </td>
+                     </tr>
+                     <tr>
+                        <td>Druge gram negativne bakterije</td>
+                        <td>
+                           <p>Zdravljenje z lokalno učinkovitim antibiotikom.</p>
+                           <p>Čas zdravljenja 3 tedne.</p>
+                        </td>
+                     </tr>
+                     <tr>
+                        <td>Polimikrobni peritonitis</td>
+                        <td>
+                           <p>Mikroorganizmi črevesne flore</p>
+                           <p>Če ni odziva na začetno empirično zdravljenje, opravimo slikovno diagnostiko (UZ, CT trebuha) in se posvetujemo s kirurgom.</p>
+                           <p>Zdravljenje z metronidazolom, IP vankomicinom in IP aminoglikozidi ali IP cefazidimom.</p>
+                           <p>Čas zdravljenja najmanj 3 tedne.</p>
+                           <p>Več po Gramu pozitivnih mikroorganizmov</p>
+                           <p>Zdravljenje z lokalno učinkovitim antibiotikom.</p>
+                           <p>Čas zdravljenja 3 tedne.</p>
+                        </td>
+                     </tr>
+                     <tr>
+                        <td>Peritonitis z negativnimi kulturami</td>
+                        <td>
+                           <p>Ponovni odvzem vzorca izpirka po treh dneh zdravljenja. Ob izboljšanju izvidov izpirka lahko zožimo spekter antibiotičnega zdravljenja (npr. aminoglikozide zamenjamo za cefalosporine prve generacije ali vankomicin).</p>
+                           <p>Čas zdravljenja 2 tedna.</p>
+                        </td>
+                     </tr>
+                     <tr>
+                        <td>Glivni peritonitis</td>
+                        <td>
+                           <p>Takojšnja odstranitev dializnega katetra.</p>
+                           <p>Zdravljenje z lokalno učinkovitim antimikotikom.</p>
+                           <p>Čas zdravljenja vsaj 2 tedna.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </table-wrap>
+         </sec>
+         <sec id="s7.3" sec-type="Ocena uspešnosti zdravljenja">
+            <label>7.3</label>
+            <title>Ocena uspešnosti zdravljenja</title>
+            <p>Bolnike po pričetku zdravljenja redno spremljamo in ocenjujemo, ali se njihovo klinično stanje izboljšuje. Klinično izboljšanje in vsaj delno zbistritev motnega izpirka pričakujemo znotraj 48 ur po pričetku zdravljenja; takrat določamo število levkocitov in odstotek nevtrofilcev v izpirku. Če se njihovo število po treh dneh zdravljenja ne zmanjša, je verjetnost, da bo zdravljenje učinkovito, manjša od 64 % (<xref ref-type="bibr" rid="b11">11</xref>,<xref ref-type="bibr" rid="b25">25</xref>). V tovrstnih primerih je smiselno intermitentno dajanje antibiotika zamenjati s kontinuiranimi. Če to ni mogoče, povečamo odmerek in pogostost izmenjave antibiotika (<xref ref-type="bibr" rid="b11">11</xref>).</p>
+         </sec>
+         <sec id="s7.4" sec-type="Indikacije za odstranitev in zamenjavo katetra">
+            <label>7.4</label>
+            <title>Indikacije za odstranitev in zamenjavo katetra</title>
+            <p>Včasih protimikrobno zdravljenje ni učinkovito pri zdravljenju peritonitisa, zato moramo razmišljati o odstranitvi peritonealnega katetra. Zgodnja odstranitev katetra ob neučinkovitem protimikrobnem zdravljenju zmanjšuje smrtnost in trajanje epizode peritonitisa. Indikacije za odstranitev peritonealnega katetra so:</p>
+            <list>
+               <list-item>
+                  <label>•</label>
+                  <p>refraktarni peritonitis (ni pričakovanega odgovora na antibiotično zdravljenje v roku 5 dni);</p>
+               </list-item>
+               <list-item>
+                  <label>•</label>
+                  <p>ponavljajoči se peritonitis (ponovitev peritonitisa v roku štirih tednov);</p>
+               </list-item>
+               <list-item>
+                  <label>•</label>
+                  <p>glivni ali mikobakterijski peritonitis;</p>
+               </list-item>
+               <list-item>
+                  <label>•</label>
+                  <p>peritonitis, ki se pojavi ob drugih patoloških stanjih v trebuhu (npr. absces, perforacija…);</p>
+               </list-item>
+               <list-item>
+                  <label>•</label>
+                  <p>peritonitis z negativnimi mikrobiološkimi kulturami z vztrajajočimi povišanimi vrednostmi levkocitov v izpirku.</p>
+               </list-item>
+            </list>
+            <p>Zamenjava peritonealnega katetra je možna pri ponavljajočem se peritonitisu, če pride po začetnem zdravljenju do zbistritve izpirka. V ostalih primerih stari kateter odstranimo in novega ne vstavljamo takoj, temveč je potrebno vsaj dvotedensko zdravljenje s sistemskim protimikrobnim zdravilom. Ponovno vstavitev katetra lahko izvedemo šele 2–4 tedne po odstranitvi, ko simptomi peritonitisa popolnoma izzvenijo (<xref ref-type="bibr" rid="b4">4</xref>,<xref ref-type="bibr" rid="b11">11</xref>,<xref ref-type="bibr" rid="b12">12</xref>).</p>
+         </sec>
+         <sec id="s7.5" sec-type="Dodatno zdravljenje in posebnosti">
+            <label>7.5</label>
+            <title>Dodatno zdravljenje in posebnosti</title>
+            <p>Včasih lahko bolnike s peritonitisom zdravimo tudi doma. Odločitev za sprejem v bolnišnico temelji na hemodinamski stabilnosti bolnika ter izraženosti simptomov in znakov. Ob prisotnosti hudih bolečin moramo bolniku omogočiti zadostno količino analgetikov. ISPD priporoča profilaktično dajanje sistemskega antimikotika, saj so okužbe z glivami trdovratne za zdravljenje in praktično vedno zahtevajo odstranitev dializnega katetra, najpogosteje pa se pojavijo prav med antibiotičnim zdravljenjem. Pri bolnikih z motnim ascitesom se svetuje intraperitonealno dajanje 500 enot/L heparina, ki preprečuje zamašitev katetra s fibrinom (<xref ref-type="bibr" rid="b4">4</xref>).</p>
+         </sec>
+      </sec>
+      <sec id="s8" sec-type="Preprečevanje">
+         <label>8</label>
+         <title>Preprečevanje</title>
+         <p>Preprečevanje peritonitisa je velik izziv in je pomembno vsaj toliko, kot sta pomembna zgodnja diagnoza in zdravljenje. Vsak center, ki svojim bolnikom ponuja PD, mora redno spremljati in analizirati pogostost peritonitisa pri bolnikih ter zagotavljati ustrezne ukrepe za preprečevanje (<xref ref-type="bibr" rid="b3">3</xref>,<xref ref-type="bibr" rid="b5">5</xref>,<xref ref-type="bibr" rid="b26">26</xref>).</p>
+         <p>ISPD je leta 2016 v posodobljenih smernicah podal naslednja priporočila za preprečevanje peritonitisa pri PD.</p>
+         <p>Vstavitev dializnega katetra. Uporaba parenteralnega profilaktičnega antibiotičnega odmerka pred vstavitvijo peritonealnega katetra dokazano zmanjša pogostost zgodnjega peritonitisa. Glede na opravljene študije se svetuje uporaba cefalosporinov, gentamicina in vankomicina, pri izbiri antibiotika pa je potrebno upoštevati lokalno občutljivost bakterij. V Univerzitetnem kliničnem centru Ljubljana (UKC LJ) dajemo kot antibiotično profilakso cefazolin 2 g v enkratnem odmerku 30–60 min pred kirurškim rezom. Pri bolnikih s povečano telesno maso se včasih odločimo za večji odmerek, torej 3 g (<xref ref-type="bibr" rid="b27">27</xref>,<xref ref-type="bibr" rid="b28">28</xref>). Tehnika vstavitve katetra ne vpliva na pogostost peritonitisa (<xref ref-type="bibr" rid="b4">4</xref>,<xref ref-type="bibr" rid="b5">5</xref>,<xref ref-type="bibr" rid="b18">18</xref>,<xref ref-type="bibr" rid="b19">19</xref>,<xref ref-type="bibr" rid="b26">26</xref>,<xref ref-type="bibr" rid="b29">29</xref>). V UKC LJ zadnjih nekaj let vstavljamo peritonealne dializne katetre izključno laparoskopsko. V letu 2016 smo jih vstavili 22, pomembnejših zgodnjih zapletov pa nismo beležili (<xref ref-type="bibr" rid="b27">27</xref>).</p>
+         <p>Oblika dializnega katetra. Poznamo več vrst in oblik katetrov – ravne, zavite in katetre v obliki labodjega vratu. Večinoma so ti katetri iz silikona, poznamo pa tudi poliuretanske. Največkrat se uporabljajo katetri z dvema dakronskima balončkoma, ki se po vstavitvi vrasteta v trebušno steno in poskrbita za dobro učvrstitev katetra (<xref ref-type="bibr" rid="b27">27</xref>). Več študij je primerjalo pogostost peritonitisa pri ravnih in zavitih katetrih, pomembnih razlik v pogostosti pa ni bilo (<xref ref-type="bibr" rid="b4">4</xref>).</p>
+         <p>Metoda dializiranja. Uporabljamo izključno sistem z dvojnimi vrečkami, saj je pri tovrstnem načinu pogostost peritonitisa za približno 30 % nižja v primerjavi z drugimi metodami (<xref ref-type="bibr" rid="b3">3</xref>,<xref ref-type="bibr" rid="b4">4</xref>,<xref ref-type="bibr" rid="b6">6</xref>,<xref ref-type="bibr" rid="b18">18</xref>).</p>
+         <p>Izobraževanje bolnikov in bolnikovih svojcev. Dializno osebje z dolgoletnimi izkušnjami mora zagotoviti, da se bolnik in njegovi svojci naučijo pravilnega izvajanja peritonealne dialize, saj kakovost izobraževanja zelo pomembno vpliva na pogostost peritonitisa. Žal še nimamo z dokazi podprtih priporočil, ki bi jasno opredeljevali, kdaj, kje in kako pogosto je potrebno izvajati izobraževanje. Vsekakor je pomembno, da po začetku izvajanja PD dializno osebje, ki ima izkušnje na področju peritonealne dialize, obišče bolnika in opazuje pravilnost izvajanja dialize ter bolnika opozori na nepravilnosti (<xref ref-type="bibr" rid="b3">3</xref>-<xref ref-type="bibr" rid="b5">5</xref>,<xref ref-type="bibr" rid="b26">26</xref>).</p>
+         <p>Dializna raztopina. Več študij je raziskovalo vpliv različnih dializnih raztopin, ki so v uporabi. Obstajajo domneve, da so raztopine z manjšimi koncentracijami glukoznih razpadnih produktov bolj biokompatibilne z manjšim vplivom na pojav vnetja v primerjavi z ostalimi dializnimi raztopinami. Vendar je za potrditev domnev potrebnih več raziskav; zaenkrat velja mnenje, da vrsta raztopine ne vpliva na pogostost peritonitisa (<xref ref-type="bibr" rid="b4">4</xref>,<xref ref-type="bibr" rid="b18">18</xref>,<xref ref-type="bibr" rid="b30">30</xref>).</p>
+         <p>Oskrba izstopišča peritonealnega katetra. Priporoča se, da se vstopno mesto enkrat na dan namaže s topičnim antibiotičnim mazilom. Ob izvajanju dialize se mora poskrbeti za ustrezno higieno rok. Uporaba obrazne maske ni obvezna, je pa vsekakor priporočljiva in jo svetujemo (<xref ref-type="bibr" rid="b3">3</xref>-<xref ref-type="bibr" rid="b5">5</xref>).</p>
+         <p>Antibiotična profilaksa pred posegi. Glede na povečano tveganje za razvoj peritonitisa po posegih pri bolnikih na PD se svetuje profilaktična uporaba antibiotika pred kolonoskopijo in ginekološkimi posegi (<xref ref-type="bibr" rid="b4">4</xref>).</p>
+      </sec>
+      <sec id="s9" sec-type="Napoved izida">
+         <label>9</label>
+         <title>Napoved izida</title>
+         <p>Čeprav se je smrtnost pri bolnikih na PD v zadnjih letih zmanjšala, je dolgoročno preživetje sorazmerno slabo (<xref ref-type="bibr" rid="b11">11</xref>,<xref ref-type="bibr" rid="b15">15</xref>). Enoletno preživetje je približno 86 %, desetletno preživetje pa znaša le približno 11 % (<xref ref-type="bibr" rid="b15">15</xref>). Vzrok nizkega desetletnega preživetja je posledica več dejavnikov in je odvisen od bolnikovih lastnosti in od dejavnikov dializnega centra (<xref ref-type="bibr" rid="b15">15</xref>). Potrebno je poudariti, da so podatki o dolgoročnem preživetju lahko zavajajoči in je potrebna pazljivost pri njihovi interpretaciji, saj se bolniki s PD redko zdravijo več kot 5 let. Pogosto namreč pride do prehoda na drugo obliko nadomestnega zdravljenja, kar veliko analiz obravnava kot neuspeh PD in to upošteva pri oceni dolgoročnega preživetja. V Sloveniji je v letu 2013 umrlo 12,3 % bolnikov na PD (<xref ref-type="bibr" rid="b17">17</xref>).</p>
+         <p>Znanih je več dejavnikov, ki vplivajo na preživetje pri bolnikih na PD. Veliko dejavnikov, kot so na primer starost, sladkorna bolezen in etiologija kronične ledvične odpovedi, je nespremenljivih in nanje ne moremo vplivati. Pozornost moramo usmeriti k spremenljivim dejavnikom, ki vplivajo na dolgoročno napoved izida. To so predvsem preostala ledvična funkcija, ohranjena integriteta in funkcija peritonealne membrane ter peritonitis. Svetuje se, da vsem bolnikom s hipertenzijo in tudi brez nje, ki zdravljenje z zaviralci angiotenzin konvertaze (ACEI) dobro prenašajo, predpišemo ACEI, saj ACEI pomagajo pri ohranjanju preostale ledvične funkcije. Preostala ledvična funkcija je dober napovedni dejavnik, ki napoveduje boljši izid tako pri bolnikih na PD in pri tistih na hemodializi. Ena od študij je ugotovila povezavo, da se za vsakih 250 ml preostalega urina za približno 36 % zmanjša tveganje za 2-letno smrtnost (<xref ref-type="bibr" rid="b15">15</xref>). Srčno-žilni vzroki so najpogostejši vzroki za smrt pri bolnikih na PD (<xref ref-type="bibr" rid="b18">18</xref>).</p>
+         <p>Smrtnost zaradi peritonitisa se je pri bolnikih na PD v zadnjih desetletjih zaradi preventivnih ukrepov za preprečevanje peritonitisa bistveno zmanjšala. Delež uspešno pozdravljenih peritonitisov ostaja visok in stabilen kljub vedno večji odpornosti mikroorganizmov na protimikrobna zdravila. Manj kot 5 % epizod peritonitisa se konča s smrtjo, a ocenjuje se, da je peritonitis pomemben pridruženi dejavnik pri približno 16 % vseh smrti. Po epizodi peritonitisa se poveča tveganje za smrt zaradi okužbe, pridruženih srčno-žilnih bolezni in prekinitve PD. Peritonitis je najpogostejši vzrok za odstranitev peritonealnega katetra, prekinitev PD in prehod na trajno hemodializno zdravljenje (<xref ref-type="bibr" rid="b4">4</xref>,<xref ref-type="bibr" rid="b6">6</xref>,<xref ref-type="bibr" rid="b18">18</xref>).</p>
+      </sec>
+      <sec id="s10" sec-type="Zaključek">
+         <label>10</label>
+         <title>Zaključek</title>
+         <p>Peritonitis je možen in resen zaplet PD, ki lahko hudo prizadene bolnika in ogroža njegovo življenje. Čas od nastanka peritonitisa do začetka zdravljenja bistveno vpliva na potek in napoved izida peritonitisa, zato je nujno takojšnje ukrepanje. Peritonitis zdravimo z odstranitvijo žarišča okužbe, izpiranjem trebušne votline z 0,9-odstotno raztopino NaCl ter uvedbo najprej empiričnega in nato usmerjenega protimikrobnega zdravljenja. Peritonitis je najpogostejši vzrok za odstranitev peritonealnega katetra, prekinitev PD in prehod na trajno hemodializno zdravljenje, zato mora biti preprečevanje peritonitisa glavni namen vsakega dializnega centra. Poseben poudarek moramo nameniti izobraževanju bolnika in bolnikovih svojcev, še posebej po epizodi peritonitisa, saj je pogost vzrok peritonitisa ravno neustrezno rokovanje s peritonealnim katetrom.</p>
+      </sec>
+   </body>
+   <back>
+      <ref-list>
+         <ref id="b1">
+            <label>1. </label>
+            <mixed-citation publication-type="book-chapter" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Omejc</surname> 
+                     <given-names>M</given-names>
+                  </name>
+               </person-group>. <chapter-title>Kirurgija trebušne votline</chapter-title>. In: <person-group person-group-type="editor">
+                  <string-name name-style="western">
+                     <surname>Smrkolj</surname> 
+                     <given-names>V</given-names>
+                  </name>, <role>editor</role>
+               </person-group>. <source>Kirurgija. Celje: Grafika Gracer</source>. <year>2014</year>. pp. <fpage>1000</fpage>–<lpage>2</lpage>.<annotation>
+                  <p content-type="warning">Could not find a publisher location in this book chapter reference. (Ref. 1 "Omejc, 2014")</p>
+                  <p content-type="warning">Could not find a publisher name in this book chapter reference. (Ref. 1 "Omejc, 2014")</p>
+               </annotation>
+            </mixed-citation>
+         </ref>
+         <ref id="b2">
+            <label>2. </label>
+            <mixed-citation publication-type="book" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Townsend</surname> 
+                     <given-names>C</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Beauchamp</surname> 
+                     <given-names>RD</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Evers</surname> 
+                     <given-names>BM</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Mattox</surname> 
+                     <given-names>K</given-names>
+                  </name>
+               </person-group>. <source>Sabiston Textbook of Surgery: the Biological Basis of Modern Surgical Practice</source>. <publisher-loc>Amsterdam</publisher-loc>: <publisher-name>Elsevier</publisher-name>; <year>2017</year>.</mixed-citation>
+         </ref>
+         <ref id="b3">
+            <label>3.	</label>
+            <mixed-citation publication-type="book" specific-use="unparsed">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Košnik</surname> 
+                     <given-names>M</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Mrevlje</surname> 
+                     <given-names>F</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Štajer</surname> 
+                     <given-names>D</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Černelč</surname> 
+                     <given-names>P</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Koželj</surname> 
+                     <given-names>M</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Andoljšek</surname> 
+                     <given-names>D</given-names>
+                  </name>, <etal>et al</etal>
+               </person-group>. 
+               <source>Interna medicina.</source> Ljubljana: Littera picta: Slovensko medicinsko društvo; <year>2011</year>. p. 1133-1137.<annotation>
+                  <p content-type="warning">Edifix Bibliographic Reference Processing failed to fully style this reference. Please check the copyediting. (Ref. 3 "Košnik, Mrevlje, Štajer, Černelč, Koželj, Andoljšek, et al., 2011")</p>
+               </annotation>
+            </mixed-citation>
+         </ref>
+         <ref id="b4">
+            <label>4.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Li</surname> 
+                     <given-names>PK</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Szeto</surname> 
+                     <given-names>CC</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Piraino</surname> 
+                     <given-names>B</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>de Arteaga</surname> 
+                     <given-names>J</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Fan</surname> 
+                     <given-names>S</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Figueiredo</surname> 
+                     <given-names>AE</given-names>
+                  </name>, <etal>et al</etal>
+               </person-group>. 
+               <article-title>ISPD Peritonitis Recommendations: 2016 Update on Prevention and Treatment</article-title>. <source>Perit Dial Int</source>. <year>2016</year> 
+               <month>Sep</month>;<volume>36</volume>(<issue>5</issue>):<fpage>481</fpage>–<lpage>508</lpage>. <pub-id pub-id-type="doi">10.3747/pdi.2016.00078</pub-id>
+               <pub-id pub-id-type="pmid">27282851</pub-id>
+               <issn>0896-8608</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b5">
+            <label>5.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Segal</surname> 
+                     <given-names>JH</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Messana</surname> 
+                     <given-names>JM</given-names>
+                  </name>
+               </person-group>. <article-title>Prevention of peritonitis in peritoneal dialysis</article-title>. <source>Semin Dial</source>. <year>2013</year> 
+               <month>Jul-Aug</month>;<volume>26</volume>(<issue>4</issue>):<fpage>494</fpage>–<lpage>502</lpage>. <pub-id pub-id-type="doi">10.1111/sdi.12114</pub-id>
+               <pub-id pub-id-type="pmid">23859192</pub-id>
+               <issn>0894-0959</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b6">
+            <label>6.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Szeto</surname> 
+                     <given-names>CC</given-names>
+                  </name>
+               </person-group>. <article-title>Peritonitis rates of the past thirty years: from improvement to stagnation</article-title>. <source>Perit Dial Int</source>. <year>2014</year> 
+               <month>Mar-Apr</month>;<volume>34</volume>(<issue>2</issue>):<fpage>151</fpage>–<lpage>3</lpage>. <pub-id pub-id-type="doi">10.3747/pdi.2014.00007</pub-id>
+               <pub-id pub-id-type="pmid">24676740</pub-id>
+               <issn>0896-8608</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b7">
+            <label>7.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Khilji</surname> 
+                     <given-names>MF</given-names>
+                  </name>
+               </person-group>. <article-title>Primary Peritonitis-A Forgotten Entity</article-title>. <source>European J Pediatr Surg Rep</source>. <year>2015</year> 
+               <month>Jun</month>;<volume>3</volume>(<issue>1</issue>):<fpage>27</fpage>–<lpage>9</lpage>.<pub-id pub-id-type="pmid">26171311</pub-id>
+               <issn>2194-7619</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b8">
+            <label>8. </label>
+            <mixed-citation publication-type="book-chapter" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Holzheimer</surname> 
+                     <given-names>RG</given-names>
+                  </name>
+               </person-group>. <chapter-title>Management of secondary peritonitis</chapter-title>. In: <person-group person-group-type="editor">
+                  <string-name name-style="western">
+                     <surname>Holzheimer</surname> 
+                     <given-names>RG</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Mannick</surname> 
+                     <given-names>JA</given-names>
+                  </name>, <role>editors</role>
+               </person-group>. <source>Surgical Treatment: Evidence-Based and Problem-Oriented</source>. <publisher-loc>Munich</publisher-loc>: <publisher-name>Zuckschwerdt</publisher-name>; <year>2001</year>.</mixed-citation>
+         </ref>
+         <ref id="b9">
+            <label>9.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Mishra</surname> 
+                     <given-names>SP</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Tiwary</surname> 
+                     <given-names>SK</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Mishra</surname> 
+                     <given-names>M</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Gupta</surname> 
+                     <given-names>SK</given-names>
+                  </name>
+               </person-group>. <article-title>An introduction of Tertiary Peritonitis</article-title>. <source>J Emerg Trauma Shock</source>. <year>2014</year> 
+               <month>Apr</month>;<volume>7</volume>(<issue>2</issue>):<fpage>121</fpage>–<lpage>3</lpage>. <pub-id pub-id-type="doi">10.4103/0974-2700.130883</pub-id>
+               <pub-id pub-id-type="pmid">24812458</pub-id>
+               <issn>0974-2700</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b10">
+            <label>10.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Walker</surname> 
+                     <given-names>A</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Bannister</surname> 
+                     <given-names>K</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>George</surname> 
+                     <given-names>C</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Mudge</surname> 
+                     <given-names>D</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Yehia</surname> 
+                     <given-names>M</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Lonergan</surname> 
+                     <given-names>M</given-names>
+                  </name>, <etal>et al</etal>
+               </person-group>. 
+               <article-title>KHA-CARI Guideline: peritonitis treatment and prophylaxis</article-title>. <source>Nephrology (Carlton)</source>. <year>2014</year> 
+               <month>Feb</month>;<volume>19</volume>(<issue>2</issue>):<fpage>69</fpage>–<lpage>71</lpage>. <pub-id pub-id-type="doi">10.1111/nep.12152</pub-id>
+               <pub-id pub-id-type="pmid">23944845</pub-id>
+               <issn>1320-5358</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b11">
+            <label>11.	</label>
+            <mixed-citation publication-type="web-page" specific-use="unparsed">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Burkart</surname> 
+                     <given-names>MD</given-names>
+                  </name>
+               </person-group>. <article-title>Microbiology and therapy of peritonitis in peritoneal dialysis.</article-title> Post TW, ed. UpToDate. Waltham, MA: UpToDate Inc [cited 2018 May 15]. Available from: <ext-link ext-link-type="uri" xlink:href="http://www.uptodate.com">http://www.uptodate.com</ext-link>
+            </mixed-citation>
+         </ref>
+         <ref id="b12">
+            <label>12.	</label>
+            <mixed-citation publication-type="web-page" specific-use="unparsed">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Burkart</surname> 
+                     <given-names>MD</given-names>
+                  </name>
+               </person-group>. <article-title>Clinical manifestations and diagnosis of peritonitis in peritoneal dialysis.</article-title> Post TW, ed. UpToDate. Waltham, MA: UpToDate Inc. <ext-link ext-link-type="uri" xlink:href="http://www.uptodate.com">http://www.uptodate.com</ext-link> (dostopno 15. maja <year>2018</year>).<annotation>
+                  <p content-type="warning">Reference 12 "Burkart, 2018" is similar to reference 11 and may be a duplicate. Please compare these references carefully.</p>
+               </annotation>
+            </mixed-citation>
+         </ref>
+         <ref id="b13">
+            <label>13.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Montravers</surname> 
+                     <given-names>P</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Blot</surname> 
+                     <given-names>S</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Dimopoulos</surname> 
+                     <given-names>G</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Eckmann</surname> 
+                     <given-names>C</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Eggimann</surname> 
+                     <given-names>P</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Guirao</surname> 
+                     <given-names>X</given-names>
+                  </name>, <etal>et al</etal>
+               </person-group>. 
+               <article-title>Therapeutic management of peritonitis: a comprehensive guide for intensivists</article-title>. <source>Intensive Care Med</source>. <year>2016</year> 
+               <month>Aug</month>;<volume>42</volume>(<issue>8</issue>):<fpage>1234</fpage>–<lpage>47</lpage>. <pub-id pub-id-type="doi">10.1007/s00134-016-4307-6</pub-id>
+               <pub-id pub-id-type="pmid">26984317</pub-id>
+               <issn>0342-4642</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b14">
+            <label>14.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Cho</surname> 
+                     <given-names>Y</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Johnson</surname> 
+                     <given-names>DW</given-names>
+                  </name>
+               </person-group>. <article-title>Peritoneal dialysis-related peritonitis: towards improving evidence, practices, and outcomes</article-title>. <source>Am J Kidney Dis</source>. <year>2014</year> 
+               <month>Aug</month>;<volume>64</volume>(<issue>2</issue>):<fpage>278</fpage>–<lpage>89</lpage>. <pub-id pub-id-type="doi">10.1053/j.ajkd.2014.02.025</pub-id>
+               <pub-id pub-id-type="pmid">24751170</pub-id>
+               <issn>0272-6386</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b15">
+            <label>15.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Kendrick</surname> 
+                     <given-names>J</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Teitelbaum</surname> 
+                     <given-names>I</given-names>
+                  </name>
+               </person-group>. <article-title>Strategies for improving long-term survival in peritoneal dialysis patients</article-title>. <source>Clin J Am Soc Nephrol</source>. <year>2010</year> 
+               <month>Jun</month>;<volume>5</volume>(<issue>6</issue>):<fpage>1123</fpage>–<lpage>31</lpage>. <pub-id pub-id-type="doi">10.2215/CJN.04300709</pub-id>
+               <pub-id pub-id-type="pmid">20430945</pub-id>
+               <issn>1555-9041</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b16">
+            <label>16.	</label>
+            <mixed-citation publication-type="book-chapter" specific-use="unparsed">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Kovač</surname> 
+                     <given-names>D</given-names>
+                  </name>
+               </person-group>. <chapter-title>Kako povečati program peritonealne dialize v Sloveniji.</chapter-title> In: 30-letnica kontinuirane peritonealne dialize v Sloveniji; 20. in 21. november 2014; Hotel Mons, Slovensko nefrološko društvo, Ljubljana, Slovenija. Ljubljana: UKC, KO za nefrologijo; <year>2014</year>.<annotation>
+                  <p content-type="warning">Edifix Bibliographic Reference Processing failed to fully style this reference. Please check the copyediting. (Ref. 16 "Kovač, 2014")</p>
+               </annotation>
+            </mixed-citation>
+         </ref>
+         <ref id="b17">
+            <label>17.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Buturović-Ponikvar</surname> 
+                     <given-names>J</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Gubenšek</surname> 
+                     <given-names>J</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Arnol</surname> 
+                     <given-names>M</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Adamlje</surname> 
+                     <given-names>T</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Ceglar</surname> 
+                     <given-names>Z</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Damevska</surname> 
+                     <given-names>G</given-names>
+                  </name>, <etal>et al</etal>
+               </person-group>. 
+               <article-title>Renal Replacement Therapy in Slovenia: Excerpts From 2013 Data</article-title>. <source>Ther Apher Dial</source>. <year>2016</year> 
+               <month>Jun</month>;<volume>20</volume>(<issue>3</issue>):<fpage>223</fpage>–<lpage>8</lpage>. <pub-id pub-id-type="doi">10.1111/1744-9987.12427</pub-id>
+               <pub-id pub-id-type="pmid">27312905</pub-id>
+               <issn>1744-9979</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b18">
+            <label>18.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Mehrotra</surname> 
+                     <given-names>R</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Devuyst</surname> 
+                     <given-names>O</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Davies</surname> 
+                     <given-names>SJ</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Johnson</surname> 
+                     <given-names>DW</given-names>
+                  </name>
+               </person-group>. <article-title>The Current State of Peritoneal Dialysis</article-title>. <source>J Am Soc Nephrol</source>. <year>2016</year> 
+               <month>Nov</month>;<volume>27</volume>(<issue>11</issue>):<fpage>3238</fpage>–<lpage>52</lpage>. <pub-id pub-id-type="doi">10.1681/ASN.2016010112</pub-id>
+               <pub-id pub-id-type="pmid">27339663</pub-id>
+               <issn>1046-6673</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b19">
+            <label>19.	</label>
+            <mixed-citation publication-type="book" specific-use="unparsed">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Tomažič</surname> 
+                     <given-names>J</given-names>
+                  </name>
+               </person-group>. in Strle F. s sodelavci. Infekcijske bolezni. Ljubljana: Slovensko zdravniško društvo, Združenje za infektologijo; <year>2014/2015</year>. p. 375<annotation>
+                  <p content-type="warning">Edifix Bibliographic Reference Processing failed to fully style this reference. Please check the copyediting. (Ref. 19 "Tomažič, 2014/2015")</p>
+               </annotation>
+            </mixed-citation>
+         </ref>
+         <ref id="b20">
+            <label>20.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Mlinšek</surname> 
+                     <given-names>D</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Savicki</surname> 
+                     <given-names>B</given-names>
+                  </name>
+               </person-group>. <article-title>Postopki pri zdravljenju peritonitisa kot zaplet kontinuirane peritonealne dialize. Ljubljana</article-title>. <source>Obzor Zdr N.</source> 
+               <year>1994</year>;<volume>28</volume>:<fpage>109</fpage>–<lpage>11</lpage>.<annotation>
+                  <p content-type="warning">Edifix does not recognize the journal "Obzor Zdr N.". If this is a valid journal title, please send this reference to journals@inera.com for addition to our journal database. (Ref. 20 "Mlinšek, Savicki, 1994")</p>
+                  <p content-type="warning">Edifix has not found an issue number in the journal reference. Please check the volume/issue information. (Ref. 20 "Mlinšek, Savicki, 1994")</p>
+               </annotation>
+            </mixed-citation>
+         </ref>
+         <ref id="b21">
+            <label>21.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Akoh</surname> 
+                     <given-names>JA</given-names>
+                  </name>
+               </person-group>. <article-title>Peritoneal dialysis associated infections: an update on diagnosis and management</article-title>. <source>World J Nephrol</source>. <year>2012</year> 
+               <month>Aug</month>;<volume>1</volume>(<issue>4</issue>):<fpage>106</fpage>–<lpage>22</lpage>. <pub-id pub-id-type="doi">10.5527/wjn.v1.i4.106</pub-id>
+               <pub-id pub-id-type="pmid">24175248</pub-id>
+               <issn>2220-6124</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b22">
+            <label>22.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Okamoto</surname> 
+                     <given-names>T</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Ikenoue</surname> 
+                     <given-names>T</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Matsui</surname> 
+                     <given-names>K</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Miyazaki</surname> 
+                     <given-names>M</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Tsuzuku</surname> 
+                     <given-names>Y</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Nishizawa</surname> 
+                     <given-names>Y</given-names>
+                  </name>, <etal>et al</etal>
+               </person-group>. 
+               <article-title>Free air on CT and the risk of peritonitis in peritoneal dialysis patients: a retrospective study</article-title>. <source>Ren Fail</source>. <year>2014</year> 
+               <month>Nov</month>;<volume>36</volume>(<issue>10</issue>):<fpage>1492</fpage>–<lpage>6</lpage>. <pub-id pub-id-type="doi">10.3109/0886022X.2014.958953</pub-id>
+               <pub-id pub-id-type="pmid">25211321</pub-id>
+               <issn>0886-022X</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b23">
+            <label>23.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Temiz</surname> 
+                     <given-names>G</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Sahin</surname> 
+                     <given-names>G</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Mukerrem</surname> 
+                     <given-names>G</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Ozkurt</surname> 
+                     <given-names>S</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Degirmenci</surname> 
+                     <given-names>NA</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Yalcin</surname> 
+                     <given-names>AU</given-names>
+                  </name>
+               </person-group>. <article-title>Ultrasonographic evaluation of peritoneal membrane thickness and comparison with the effectiveness and duration of CAPD</article-title>. <source>Int Urol Nephrol</source>. <year>2013</year> 
+               <month>Dec</month>;<volume>45</volume>(<issue>6</issue>):<fpage>1761</fpage>–<lpage>6</lpage>. <pub-id pub-id-type="doi">10.1007/s11255-013-0504-1</pub-id>
+               <pub-id pub-id-type="pmid">23884729</pub-id>
+               <issn>0301-1623</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b24">
+            <label>24.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Barretti</surname> 
+                     <given-names>P</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Doles</surname> 
+                     <given-names>JV</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Pinotti</surname> 
+                     <given-names>DG</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>El Dib</surname> 
+                     <given-names>R</given-names>
+                  </name>
+               </person-group>. <article-title>Efficacy of antibiotic therapy for peritoneal dialysis-associated peritonitis: a proportional meta-analysis</article-title>. <source>BMC Infect Dis</source>. <year>2014</year> 
+               <month>Aug</month>;<volume>14</volume>(<issue>1</issue>):<fpage>445</fpage>. <pub-id pub-id-type="doi">10.1186/1471-2334-14-445</pub-id>
+               <pub-id pub-id-type="pmid">25135487</pub-id>
+               <issn>1471-2334</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b25">
+            <label>25.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Chow</surname> 
+                     <given-names>KM</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Szeto</surname> 
+                     <given-names>CC</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Cheung</surname> 
+                     <given-names>KK</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Leung</surname> 
+                     <given-names>CB</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Wong</surname> 
+                     <given-names>SS</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Law</surname> 
+                     <given-names>MC</given-names>
+                  </name>, <etal>et al</etal>
+               </person-group>. 
+               <article-title>Predictive value of dialysate cell counts in peritonitis complicating peritoneal dialysis</article-title>. <source>Clin J Am Soc Nephrol</source>. <year>2006</year> 
+               <month>Jul</month>;<volume>1</volume>(<issue>4</issue>):<fpage>768</fpage>–<lpage>73</lpage>. <pub-id pub-id-type="doi">10.2215/CJN.01010306</pub-id>
+               <pub-id pub-id-type="pmid">17699285</pub-id>
+               <issn>1555-9041</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b26">
+            <label>26.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Bender</surname> 
+                     <given-names>FH</given-names>
+                  </name>
+               </person-group>. <article-title>Avoiding harm in peritoneal dialysis patients</article-title>. <source>Adv Chronic Kidney Dis</source>. <year>2012</year> 
+               <month>May</month>;<volume>19</volume>(<issue>3</issue>):<fpage>171</fpage>–<lpage>8</lpage>. <pub-id pub-id-type="doi">10.1053/j.ackd.2012.04.002</pub-id>
+               <pub-id pub-id-type="pmid">22578677</pub-id>
+               <issn>1548-5595</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b27">
+            <label>27.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Janež</surname> 
+                     <given-names>J</given-names>
+                  </name>
+               </person-group>. <article-title>Laparoskopska vstavitev katetra za peritonealno dializo</article-title>. <source>Med Razgl</source>. <year>2017</year>;<volume>56</volume>(<issue>4</issue>):<fpage>517</fpage>–<lpage>24</lpage>.<issn>0025-8121</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b28">
+            <label>28.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Pintar</surname> 
+                     <given-names>T</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Trotovšek</surname> 
+                     <given-names>B</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Beović</surname> 
+                     <given-names>B</given-names>
+                  </name>
+               </person-group>. <article-title>Smernice za profilaktično uporabo antibiotikov v abdominalni kirurgiji za odrasle</article-title>. <source>Zdrav Vestn</source>. <year>2014</year>;<volume>83</volume>:<fpage>651</fpage>–<lpage>60</lpage>.<issn>0350-0063</issn>
+               <annotation>
+                  <p content-type="warning">Edifix has not found an issue number in the journal reference. Please check the volume/issue information. (Ref. 28 "Pintar, Trotovšek, Beović, 2014")</p>
+               </annotation>
+            </mixed-citation>
+         </ref>
+         <ref id="b29">
+            <label>29.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Gadallah</surname> 
+                     <given-names>MF</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Ramdeen</surname> 
+                     <given-names>G</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Mignone</surname> 
+                     <given-names>J</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Patel</surname> 
+                     <given-names>D</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Mitchell</surname> 
+                     <given-names>L</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Tatro</surname> 
+                     <given-names>S</given-names>
+                  </name>
+               </person-group>. <article-title>Role of preoperative antibiotic prophylaxis in preventing postoperative peritonitis in newly placed peritoneal dialysis catheters</article-title>. <source>Am J Kidney Dis</source>. <year>2000</year> 
+               <month>Nov</month>;<volume>36</volume>(<issue>5</issue>):<fpage>1014</fpage>–<lpage>9</lpage>. <pub-id pub-id-type="doi">10.1053/ajkd.2000.19104</pub-id>
+               <pub-id pub-id-type="pmid">11054359</pub-id>
+               <issn>0272-6386</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b30">
+            <label>30.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Velloso</surname> 
+                     <given-names>MS</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Otoni</surname> 
+                     <given-names>A</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>de Paula Sabino</surname> 
+                     <given-names>A</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>de Castro</surname> 
+                     <given-names>WV</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Pinto</surname> 
+                     <given-names>SW</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Marinho</surname> 
+                     <given-names>MA</given-names>
+                  </name>, <etal>et al</etal>
+               </person-group>. 
+               <article-title>Peritoneal dialysis and inflammation</article-title>. <source>Clin Chim Acta</source>. <year>2014</year> 
+               <month>Mar</month>;<volume>430</volume>:<fpage>109</fpage>–<lpage>14</lpage>. <pub-id pub-id-type="doi">10.1016/j.cca.2013.12.003</pub-id>
+               <pub-id pub-id-type="pmid">24333488</pub-id>
+               <issn>0009-8981</issn>
+               <annotation>
+                  <p content-type="warning">Edifix has not found an issue number in the journal reference. Please check the volume/issue information. (Ref. 30 "Velloso, Otoni, 2014")</p>
+               </annotation>
+            </mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

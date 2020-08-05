@@ -1,0 +1,1566 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD with MathML3 v1.1 20151215//EN" "JATS-journalpublishing1-mathml3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink"
+         dtd-version="1.1"
+         xml:lang="en"
+         article-type="other">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher-id">Zdrav Vestn</journal-id>
+         <journal-id journal-id-type="nlm-ta">Zdrav Vestn</journal-id>
+         <journal-id journal-id-type="doi">Zdrav Vestn</journal-id>
+         <journal-title-group>
+            <journal-title>Slovenian Medical Journal</journal-title>
+            <trans-title-group xml:lang="sl">
+               <trans-title>Zdravniški vestnik</trans-title>
+            </trans-title-group>
+            <abbrev-journal-title>Zdrav Vestn</abbrev-journal-title>
+         </journal-title-group>
+         <issn publication-format="ppub" pub-type="ppub">1318-0347</issn>
+         <issn publication-format="epub" pub-type="epub">1581-0224</issn>
+         <issn-l>0350-0063</issn-l>
+         <publisher>
+            <publisher-name xml:lang="sl">Slovensko zdravniško društvo</publisher-name>
+            <publisher-name xml:lang="en">Slovenian Medical Association</publisher-name>
+            <publisher-loc xml:lang="sl">Ljubljana, Slovenia</publisher-loc>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.6016/ZdravVestn.2939</article-id>
+         <article-id pub-id-type="publisher-id">2939</article-id>
+         <article-categories>
+            <subj-group subj-group-type="discipline" xml:lang="en">
+               <subject>Medicine and health sciences</subject>
+               <subj-group>
+                  <subject>Public health (occupational medicine)</subject>
+               </subj-group>
+            </subj-group>
+            <subj-group subj-group-type="discipline" xml:lang="sl">
+               <subject>Medicina/Zdravstvo</subject>
+               <subj-group>
+                  <subject>Javno zdravstvo (varstvo pri delu)</subject>
+               </subj-group>
+            </subj-group>
+            <subj-group subj-group-type="article-type" xml:lang="en">
+               <subject>Original scientific article</subject>
+            </subj-group>
+            <subj-group subj-group-type="article-type" xml:lang="sl">
+               <subject>Izvirni znanstveni članek</subject>
+            </subj-group>
+            <subj-group subj-group-type="heading" xml:lang="en">
+               <subject>Public health (occupational medicine)</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title xml:lang="en">The management of patients with pneumonia in family medicine in Slovenia</article-title>
+            <trans-title-group>
+               <trans-title xml:lang="sl">Obravnava bolnikov s pljučnico v družinski medicini v Sloveniji</trans-title>
+            </trans-title-group>
+            <alt-title alt-title-type="running-head" xml:lang="en">The management of patients with pneumonia in family medicine in Slovenia</alt-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Brlek</surname>
+                  <given-names>Aljaž</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1">1</xref>
+               <xref ref-type="corresp" rid="corr"/>
+            </contrib>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Bedek</surname>
+                  <given-names>Ernestina</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1">1</xref>
+            </contrib>
+         </contrib-group>
+         <aff id="aff1" xml:lang="en">
+            <label>1</label>
+            <institution>Department of Family Medicine, Faculty of Medicine, University of Maribor, Maribor, Slovenia</institution>
+         </aff>
+         <author-notes>
+            <fn fn-type="conflict" xml:lang="en">
+               <p>The authors have declared that no competing interests exist.</p>
+            </fn>
+            <fn fn-type="conflict" xml:lang="sl">
+               <p>Avtorji so izjavili, da ne obstajajo nobeni konkurenčni interesi.</p>
+            </fn>
+            <corresp id="corr">Aljaž Brlek, e-mail: <email xlink:type="simple"/>
+            </corresp>
+         </author-notes>
+         <pub-date pub-type="ppub">
+            <month>4</month>
+            <year>2020</year>
+         </pub-date>
+         <pub-date pub-type="epub">
+            <month>4</month>
+            <year>2020</year>
+         </pub-date>
+         <volume>89</volume>
+         <issue>3–4</issue>
+         <fpage>139</fpage>
+         <lpage>48</lpage>
+         <history>
+            <date date-type="received">
+               <day>23</day>
+               <month>3</month>
+               <year>2019</year>
+            </date>
+            <date date-type="accepted">
+               <day>23</day>
+               <month>9</month>
+               <year>2019</year>
+            </date>
+         </history>
+         <permissions>
+            <copyright-statement xml:lang="en">Copyright © 2020, Slovenian Medical Association (SZD)</copyright-statement>
+            <copyright-statement xml:lang="sl">© 2020, Slovensko zdravniško društvo (SZD)</copyright-statement>
+            <copyright-year>2020</copyright-year>
+            <copyright-holder xml:lang="en">Slovenian Medical Association (SZD)</copyright-holder>
+            <copyright-holder xml:lang="sl">Slovensko zdravniško društvo (SZD)</copyright-holder>
+            <license xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                     xlink:type="simple"
+                     xml:lang="en">
+               <license-p>This is an open access article distributed under the terms of the
+          <ext-link ext-link-type="uri"
+                            xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                            xlink:type="simple">Creative Commons Attribution-NonCommercial
+            License</ext-link>, which permits unrestricted use, distribution, and
+          reproduction in any medium, provided the original author and source are
+          credited and only for non-commercial purposes. </license-p>
+            </license>
+            <license xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                     xlink:type="simple"
+                     xml:lang="sl">
+               <license-p>To je članek z odprtim dostopom, ki ga lahko uporabite pod pogoji iz
+          <ext-link ext-link-type="uri"
+                            xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                            xlink:type="simple">Creative Commons Priznanje avtorstva-Nekomercialno
+            licence</ext-link>. ki dovoljuje distribucijo, predelavo ali
+          prilagoditev, ter gradijo na njem, v nekomercialne namene, z navedbo avtorja
+          in izvirnega dela.</license-p>
+            </license>
+         </permissions>
+         <abstract xml:lang="sl">
+            <title>Izvleček</title>
+            <p>Izhodišče: Pljučnica je ena najpogostejših okužb obravnavanih v ambulantah družinske medicine. V Sloveniji celotna obravnava pljučnice na primarnem nivoju še ni bila raziskana in zato podatkov glede upoštevanja smernic še ni. Naš namen je bil opisati obravnavo bolnikov s pljučnico v ambulantah družinske medicine in analizirati značilnosti zdravnikov in njihovih ambulant, ki vplivajo na upoštevanje smernic.</p>
+            <p>Metode: Raziskavo smo izvedli kot presečno raziskavo, in sicer s pomočjo klinične vinjete in vprašanj o lastnostih zdravnikov ter njihovih ambulant v obliki spletne ankete. Kontaktirali smo 892 specialistov in zdravnikov brez specializacije ter 320 specializantov. S pomočjo smernic smo oblikovali protokol ustrezne obravnave bolnikov s pljučnico, na podlagi katerega smo vrednotili ustreznost odgovorov. Zbrane podatke smo analizirali z logistično regresijo.</p>
+            <p>Rezultati: Stopnja odziva je bila 475/1212 (39,2 %). V obravnavi bolnika s pljučnico je 66,7 % zdravnikov naredilo diferencialno krvno sliko, 92,6 % CRP, 54,5 % RTG PC; 62,6 % predpisalo amoksicilin in 29,7 % amoksicilin s klavulansko kislino. Ustrezno delovno diagnozo pljučnice je postavilo 93,7 % zdravnikov, ustrezno diagnostiko 13,5 %, brez napotitve h kliničnim specialistom 90,3 %, ustrezno zdravljenje 53,1 % in ustrezen predpis kontrole 48,8 % zdravnikov. V celoti je bolnika s pljučnico ustrezno obravnavalo 3,2 % zdravnikov. Zaznali smo negativno povezavo med ženskim spolom in ustrezno diagnostiko ter med zdravniki, starejšimi od 45 let, in ustreznim zdravljenjem oziroma naročanjem na kontrolo.</p>
+            <p>Zaključek: Z raziskavo smo prikazali številne razlike v obravnavi pljučnice. Ugotovili smo, da je le majhen delež zdravnikov predstavljenega bolnika v celoti obravnaval v skladu s smernicami.</p>
+         </abstract>
+         <trans-abstract xml:lang="en">
+            <title>Abstract</title>
+            <p>Background: Pneumonia is among the most common infections treated in family practice. In Slovenia, a comprehensive management of pneumonia at the primary level has not yet been researched, which results in the lack of data regarding guideline adherence. Our aim was to describe the management of patients with pneumonia in family practices and to analyse characteristics of family physicians (FPs) and their practices which influence guideline adherence.</p>
+            <p>Methods: The study was conducted as a cross-sectional research with clinical vignette and questions about characteristics of FPs and their practices, in the form of an online questionnaire; 892 specialists and FPs without specialty, and 320 residents were contacted. Using the guidelines, a proper management protocol for patients with pneumonia was designed and used for the evaluation of respondents’ answers. The collected data were analyzed using logistic regression.</p>
+            <p>Results: The response rate was 475/1212 (39.2 %). When managing patients with pneumonia, 66.7 % of FPs performed a complete blood count with differential, 92.6 % CRP, 54.5 % chest X-ray, 62.6 % prescribed amoxicillin and 29.7 % amoxicillin with clavulanic acid. The correct preliminary diagnosis was provided by 93.7 % of FPs, correct diagnostics by 13.5 %, no referral by 90.3 %, proper treatment by 53.1 % and checkup by 48.8 % of FPs. 3.2 % of FPs exhibited an altogether adequate patient management. Negative association between female FPs and adequate diagnostics, and between FPs older than 45 years and adequate treatment and checkup was noticed.</p>
+            <p>Conclusion: The research indicated many differences in managing pneumonia. Only a small share of FPs completely adhered to the set guidelines.</p>
+         </trans-abstract>
+         <kwd-group xml:lang="sl">
+            <kwd>družinska medicina</kwd>
+            <kwd>pljučnica</kwd>
+            <kwd>upoštevanje kliničnih smernic</kwd>
+            <kwd>na dokazih temelječa praksa</kwd>
+            <kwd>obravnava primera</kwd>
+         </kwd-group>
+         <kwd-group xml:lang="en">
+            <kwd>family practice</kwd>
+            <kwd>pneumonia</kwd>
+            <kwd>guideline adherence</kwd>
+            <kwd>evidence-based practice</kwd>
+            <kwd>case management</kwd>
+         </kwd-group>
+      </article-meta>
+   </front>
+   <body>
+      <sec id="s1" sec-type="Background">
+         <label>1</label>
+         <title>Background</title>
+         <p>Clinical guidelines can be defined as systematically developed views which help family physicians (FPs) and patients select proper medical care in specific clinical circumstances (<xref ref-type="bibr" rid="b1">1</xref>,<xref ref-type="bibr" rid="b2">2</xref>). The guidelines’ additional purpose is to abolish unnecessary and unfounded differences in medical practice and to improve the quality of medical care (<xref ref-type="bibr" rid="b2">2</xref>,<xref ref-type="bibr" rid="b3">3</xref>). Despite the growing number of guidelines, their use in clinical practice is often unpredictable, slow and complex (<xref ref-type="bibr" rid="b2">2</xref>). Adhering to clinical guidelines in family practice is specific because guidelines are mostly designed for treating individual diseases and are based on evidence obtained at a secondary or tertiary level. However, an increasing amount of research is showing that regulations aimed at the disease are less useful for multimorbid patients, who require a comprehensive approach (<xref ref-type="bibr" rid="b4">4</xref>-<xref ref-type="bibr" rid="b6">6</xref>).</p>
+         <p>Several studies show that in family practices clinical guidelines are relatively poorly adhered to (<xref ref-type="bibr" rid="b7">7</xref>-<xref ref-type="bibr" rid="b14">14</xref>). The studies also show the differences and discrepancies when dealing with pneumonia (<xref ref-type="bibr" rid="b15">15</xref>-<xref ref-type="bibr" rid="b22">22</xref>), and differences among countries. Since studies mostly focus on certain aspects of the management (e. g. antibiotic treatment), the comprehensive management is rarely presented. In Slovenia, a comprehensive management of pneumonia on the primary level has not yet been researched on an adequate sample of FPs in family practices, which results in a lack of data regarding guideline adherence.</p>
+         <p>The aim of this study was to assess a comprehensive management of a patient with pneumonia in family practice. We also wanted to detect possible differences in the management, to what extent does it adhere to the guidelines, and seek possible associations between the characteristics of FPs and their practices and their decisions during patient management.</p>
+      </sec>
+      <sec id="s2" sec-type="Methods and material">
+         <label>2</label>
+         <title>Methods and material</title>
+         <sec id="s2.1" sec-type="Study design and settings">
+            <label>2.1</label>
+            <title>Study design and settings</title>
+            <p>The study was designed as a cross-sectional research with clinical vignette in the form of an online questionnaire, including family practices across Slovenia (<xref ref-type="bibr" rid="b1">1</xref>). For the online questionnaire, 1KA service by Centre for Social Informatics at the Faculty of Social Sciences, University of Ljubljana, was used. Consent was obtained from the Medical Ethics Committee of the University Medical Centre Maribor (UKC-MB-KME-33/17).</p>
+         </sec>
+         <sec id="s2.2" sec-type="Data collection">
+            <label>2.2</label>
+            <title>Data collection</title>
+            <p>The first part of the online questionnaire provided data regarding the characteristics of FPs and their practices. The second part included clinical vignette with the description of a patient case, followed by questions on how the respondent would manage the patient during the first visit</p>
+            <p>The questionnaire and clinical vignette were designed based on literature and both foreign and Slovenian guidelines.</p>
+            <p>Some questions were open-ended while others provided options respondents could choose from, as well as add an additional answer. We were interested in their preliminary diagnosis, medical tests performed, referral to specialists, non-pharmacological treatment, pharmacological treatment, the duration of sick leave and the intended checkup. The questionnaire was tested beforehand on five FPs (<xref ref-type="bibr" rid="b1">1</xref>).</p>
+         </sec>
+         <sec id="s2.3" sec-type="Participants">
+            <label>2.3</label>
+            <title>Participants</title>
+            <p>The aim was to include all FPs working in family practices (family medicine specialists, general medicine specialists, family practice residents, and physicians without specialty). To that end, FPs (except residents) included in the <italic>List of </italic>
+               <italic>active physicians in general medical practices, child and school dispensaries</italic> from February 28, 2017 and published on April 12, 2017 on the Health Insurance Institute of Slovenia’s web page were contacted. From it, only FPs who work in the above-mentioned specialised practices were considered. Then individual FPs’ freely accessible online contact information was found. Firstly, they were contacted via telephone and after they agreed to participate, they were sent an e-mail with the link to the questionnaire. One week later, they received a reminder. On the other hand, some residents were contacted at random by calling the specialists’ practices, and others via Young doctors’ and The Medical Chamber of Slovenia’s e-mail databases. Residents received two e-mails inviting them to cooperation via each of the lists.</p>
+            <p>There were 892 specialists and FPs without specialty contacted; 642 directly agreed to participate, 104 did not respond or replied that they have yet to decide, 15 were absent due to maternity leave, longer sick leave or retired, and 131 declined to cooperate. All residents who were contacted directly (12 residents) accepted the invitation for cooperation. All others agreed to cooperate after they had received an e-mail through Young doctors or The Medical Chamber of Slovenia’s databases.</p>
+         </sec>
+         <sec id="s2.4" sec-type="Proper patient management protocol">
+            <label>2.4</label>
+            <title>Proper patient management protocol</title>
+            <p>The characteristics of FPs as independent variables were: gender, age, specialty, days of professional training in the past year, population of the place where the FP’s practice is located, period of employment in family practice, work status, number of registered patients, number of patients treated per day, number of home visits per week, number of phone consultations per day, weekly working hours, the necessity for a checkup, teaching at the faculty and research work. For statistical analysis, the characteristics were put into logical groups. Specialty, period of employment in family medicine and work status were in collinearity with age and were excluded from the model.</p>
+            <p>Information from clinical vignette represented dependable variables, which served as a basis for proper management protocol development.</p>
+            <p>A proper management of an outpatient case of pneumonia without risk factors should include the following:</p>
+            <list>
+               <list-item>
+                  <label>1.</label>
+                  <p>Correct preliminary diagnosis: pneumonia.</p>
+               </list-item>
+               <list-item>
+                  <label>2.</label>
+                  <p>Adequate diagnostics: CRP and/or chest X-ray or no medical tests whatsoever. Other tests excluded proper diagnostics (<xref ref-type="bibr" rid="b23">23</xref>).</p>
+               </list-item>
+               <list-item>
+                  <label>3.</label>
+                  <p>No referral to clinical specialists (<xref ref-type="bibr" rid="b23">23</xref>).</p>
+               </list-item>
+               <list-item>
+                  <label>4.</label>
+                  <p>Adequate treatment: an antibiotic therapy with penicillin V or amoxicillin in the duration of 7–10 days was considered a proper pharmacological treatment. Prescribing different antibiotics was not consistent with adequate treatment, while other medications prescribed and non-pharmacological advices had no effect on the adequacy of patient management (<xref ref-type="bibr" rid="b23">23</xref>).</p>
+               </list-item>
+               <list-item>
+                  <label>5.</label>
+                  <p>Timely checkup (2–3 days) (<xref ref-type="bibr" rid="b23">23</xref>).</p>
+               </list-item>
+               <list-item>
+                  <label>6.</label>
+                  <p>Respondents who have selected CRP and chest X-ray were directed to the next page containing the findings implicating pneumonia.</p>
+               </list-item>
+            </list>
+            <p>Adequacy of a preliminary diagnosis, referral to a clinical specialist and comprehensive management were not compared to the characteristics of FPs, because inadequate preliminary diagnosis, referral to a clinical specialist and adequate comprehensive management were rare and amounted to less than 10 %.</p>
+         </sec>
+         <sec id="s2.5" sec-type="Statistical analysis">
+            <label>2.5</label>
+            <title>Statistical analysis</title>
+            <p>Results were analysed using multivariable logistic regression and presented with odds ratio (OR) with a confidence interval (CI) of 95 %. For the purpose of a regression analysis, characteristics of FPs were arranged into groups. Cramer’s V coefficient was used to evaluate the strength of collinearity between the nominal independent characteristics. Coefficient strength above 0.5 was considered as the threshold for collinearity.</p>
+            <p>Statistical analysis was performed using IBM SPSS Statistics software for Windows, version 22.0 (IBM Corp., Armonk, N.Y., USA). To account multiple testing bias, p &lt; 0.001 was considered statistically significant.</p>
+         </sec>
+      </sec>
+      <sec id="s3" sec-type="Results">
+         <label>3</label>
+         <title>Results</title>
+         <sec id="s3.1" sec-type="Characteristics of FPs">
+            <label>3.1</label>
+            <title>Characteristics of FPs</title>
+            <p>A total of 475 FPs filled out the questionnaire. The response rate for specialists and FPs without specialty was 423/892 (47.4 %) and for residents 52/320 (16.3 %), in total 475/1212 (39.2 %). The analysis did not show statistically relevant differences regarding age (p = 0.152), gender (p = 0.994), regional distribution (p = 0,286) and status (p = 0.091) between the population of all active FPs in family practices and the subgroup of FPs in this study.</p>
+            <p>The average age of participants was 45.5 years (SD 11.1; with a range between 26 and 74 years), and 120 (25.3 %) of them were male.</p>
+            <p>Regarding specialty, there were 267 (56.2 %) family medicine specialists, 134 (28.2 %) general medicine specialists, 52 (10.9 %) family medicine residents and 22 (4.6 %) physicians without specialty. A total of 336 (70.7 %) worked in a public institution, 113 (23.8 %) were concessionaires and 26 (5.5 %) were employed by a concessionaire.</p>
+            <p>Regarding population, results show that 89 (18.7 %) FPs worked in a place with population under 5,000; 98 (20.6 %) with 5,000–9,999; 189 (39.8 %) with 10,000–49,999 and 99 (20.8 %) in a place with ≥ 50,000 inhabitants. An average number of patients in the practice was 1,862.9 (SD 545.9; range 0–3400). In regard to total amount of work (in practice plus overtime), 47.6 % of FPs worked over 42 hours weekly. On average, they treated 49.7 patients daily (SD 12.8; range 2–100), while 122 (25.7 %) FPs treated ≥ 60 patients daily.</p>
+            <p>In the last year, 177 (37.3 %) FPs had 1–5 days of professional training, 239 (50.3 %) 6–10 and 59 (12.4) more than 10 days.</p>
+         </sec>
+         <sec id="s3.2" sec-type="Patient management">
+            <label>3.2</label>
+            <title>Patient management</title>
+            <p>Correct preliminary diagnosis (pneumonia) was provided by 445 (93.7 %) FPs. The stipulated diagnostics, referrals and non-pharmacological treatment are shown in <xref ref-type="table" rid="table1">Table 1</xref>. Results showed that the more populated the place where an FP works, the higher the number of prescribed X-rays. In the group with a population under 5,000, 43.8 % of FPs ordered it, in the group with a population between 5,000–10,000 49.0 %, in the group between 10,000–50,000 59,8 % and in the group with a population ≥ 50,000 59.6 %. Sixty-four (13.5 %) of FPs performed correct diagnostic tests. Female gender (OR = 0.36; 95 % CI = 0.20–0.66; p &lt; 0.001) was negatively associated with adequate diagnostic procedure (<xref ref-type="bibr" rid="b2">2</xref>). Characteristics of FPs as independent variables thus explained 20.1 % of variance regarding adequate diagnostic procedure.</p>
+            <table-wrap position="anchor" id="table1">
+               <label>Table 1:</label>
+               <caption>
+                  <p> Stipulated diagnostics, referrals and non-pharmacological treatment of a patient with pneumonia by 475 FPs who work in family practices in Slovenia (2017–2018).</p>
+               </caption>
+               <table>
+                  <colgroup>
+                     <col/>
+                     <col/>
+                     <col/>
+                  </colgroup>
+                  <thead>
+                     <tr>
+                        <th>Diagnostic tests</th>
+                        <th>Referral to a clinical specialist</th>
+                        <th>Non-pharmacological treatment</th>
+                     </tr>
+                  </thead>
+                  <tbody>
+                     <tr>
+                        <td>No tests (28; 5.9%)</td>
+                        <td>No referral (429; 90.3%)</td>
+                        <td>No advice (23; 4.8%)</td>
+                     </tr>
+                     <tr>
+                        <td>CRP (440; 92.6%)</td>
+                        <td>Internist/pulmonologist (44; 9.3%)</td>
+                        <td>Hydration (404; 85.1%)</td>
+                     </tr>
+                     <tr>
+                        <td>Complete blood count with differential (317; 66.7%)</td>
+                        <td>Infectious disease specialist (3; 0.6%)</td>
+                        <td>Rest (397; 83.6%)</td>
+                     </tr>
+                     <tr>
+                        <td>Chest X-ray (259; 54.5%)</td>
+                        <td/>
+                        <td>Quit smoking (57; 12%)</td>
+                     </tr>
+                     <tr>
+                        <td>Complete blood count (94; 19.8%)</td>
+                        <td/>
+                        <td>Respirational physiotherapy (34; 7.2%)</td>
+                     </tr>
+                     <tr>
+                        <td>Erythrocyte sedimentation (ESR) (36; 7.6%)</td>
+                        <td/>
+                        <td>Adjusted nutrition (28; 5.9%)</td>
+                     </tr>
+                     <tr>
+                        <td>Other (6; 1.3%)</td>
+                        <td/>
+                        <td>Inhalations of water vapour or physiological solution (16; 3.4%)</td>
+                     </tr>
+                     <tr>
+                        <td/>
+                        <td/>
+                        <td>Epidemiological instructions (12; 2.5%)</td>
+                     </tr>
+                     <tr>
+                        <td/>
+                        <td/>
+                        <td>Monitoring of vital signs (8; 1.7%)</td>
+                     </tr>
+                     <tr>
+                        <td/>
+                        <td/>
+                        <td>Non-pharmacological lowering of body temperature (5; 1.1%)</td>
+                     </tr>
+                     <tr>
+                        <td/>
+                        <td/>
+                        <td>Other (4; 0.8%)</td>
+                     </tr>
+                  </tbody>
+               </table>
+            </table-wrap>
+            <p>One medication was prescribed by 90 (18.9 %) FPs, 306 (64.4 %) prescribed two, 70 (14.7 %) three, 5 (1.1 %) four, and 4 (0.8 %) no medications. Most often prescribed were amoxicillin and paracetamol (<xref ref-type="table" rid="table2">Table 2</xref>). 466 (98.1 %) FPs prescribed one of the antibiotics.</p>
+            <table-wrap position="anchor" id="table2">
+               <label>Table 2:</label>
+               <caption>
+                  <p> Medications that were prescribed by 475 FPs working in family practices in Slovenia for the treatment of patients with pneumonia (2017–2018).</p>
+               </caption>
+               <table>
+                  <colgroup>
+                     <col/>
+                     <col/>
+                  </colgroup>
+                  <thead>
+                     <tr>
+                        <th>A group of prescribed medications (number and % of FPs)</th>
+                        <th>Generic name (number and % of FPs)</th>
+                     </tr>
+                  </thead>
+                  <tbody>
+                     <tr>
+                        <td rowspan="7">Antibiotic (466; 98.1 %)</td>
+                        <td>Amoxicillin (297; 62.6 %)</td>
+                     </tr>
+                     <tr>
+                        <td>Amoxicillin with clavulanic acid (141; 29.7 %)</td>
+                     </tr>
+                     <tr>
+                        <td>Penicillin (10; 2.1 %)</td>
+                     </tr>
+                     <tr>
+                        <td>Ampicillin (10; 2.1 %)</td>
+                     </tr>
+                     <tr>
+                        <td>Clarithromycin (3; 0.6 %)</td>
+                     </tr>
+                     <tr>
+                        <td>Moxifloxacin (3; 0.6 %)</td>
+                     </tr>
+                     <tr>
+                        <td>Azithromycin (2; 0.4 %)</td>
+                     </tr>
+                     <tr>
+                        <td rowspan="5">Anti-pyretic /analgesic (368; 77.5 %)</td>
+                        <td>Paracetamol (349; 73.5 %)</td>
+                     </tr>
+                     <tr>
+                        <td>Unidentified anti-pyretic (13; 2.7 %)</td>
+                     </tr>
+                     <tr>
+                        <td>Naproxen (3; 0.6 %)</td>
+                     </tr>
+                     <tr>
+                        <td>Ibuprofen (2; 0.4 %)</td>
+                     </tr>
+                     <tr>
+                        <td>Metamizole (1; 0.2 %)</td>
+                     </tr>
+                     <tr>
+                        <td>Expectorant /cough syrup/mucolytic (72; 15.2 %)</td>
+                        <td>Acetylcysteine, bromhexine, ambroxol</td>
+                     </tr>
+                     <tr>
+                        <td>Bronchodilator (16; 3.4 %)</td>
+                        <td>Salbutamol, fenoterol and ipatropium bromide</td>
+                     </tr>
+                     <tr>
+                        <td>Antitussive (6; 1.3 %)</td>
+                        <td>Butamirate or undefined</td>
+                     </tr>
+                     <tr>
+                        <td>Other (2; 0.4 %)</td>
+                        <td/>
+                     </tr>
+                  </tbody>
+               </table>
+            </table-wrap>
+            <p>Out of all FPs who prescribed antibiotic treatment (466), 22 (4.7 %) instructed the patient to take it for less than 7 days (including both FPs who prescribed azithromycin for the duration of 3–5 days), 420 (90.1 %) prescribed it for 7–10 days, 21 (4.5 %) for more than 10 days, and 3 (0.6 %) gave other instructions.</p>
+            <p>Adequate (pharmacological and non-pharmacological) treatment of pneumonia was prescribed by 252 (53.1 %) FPs. FPs older than 45 years (OR = 0.31; 95 % CI = 0.20–0.48; p &lt; 0.001) were less likely to perform an adequate treatment (<xref ref-type="bibr" rid="b3">3</xref>) 15.7 % of FPs younger than 45 years and 43.5 % of FPs older than 45 years prescribed amoxicillin with clavulanic acid. Characteristics of FPs as independent variables thus explained 19.8 % of variance in adequate treatment.</p>
+            <p>The majority of FPs would have prescribed 7–10 days of sick leave and a checkup after 2–3 days (<xref ref-type="table" rid="table3">Table 3</xref>). 232 (48.8 %) FPs ordered an adequate checkup. FPs older than 45 years (OR = 0.48; 95 % CI = 0.31–0.75; p &lt; 0.001) were less likely to perform an adequate checkup (<xref ref-type="bibr" rid="b4">4</xref>) Characteristics of FPs as independent variables thus explain 14.8 % of variance in adequate checkup order.</p>
+            <table-wrap position="anchor" id="table3">
+               <label>Table 3:</label>
+               <caption>
+                  <p> Stipulated duration of sick leave and checkup prescribed by 475 FPs who work in family practices in Slovenia (2017–2018).</p>
+               </caption>
+               <table>
+                  <colgroup>
+                     <col/>
+                     <col/>
+                     <col/>
+                     <col/>
+                  </colgroup>
+                  <thead>
+                     <tr>
+                        <th colspan="2">Duration of sick leave</th>
+                        <th colspan="2">Checkup after</th>
+                     </tr>
+                  </thead>
+                  <tbody>
+                     <tr>
+                        <td>&lt;7 days</td>
+                        <td>25 (5.3 %)</td>
+                        <td>2–3 days</td>
+                        <td>232 (48.8 %)</td>
+                     </tr>
+                     <tr>
+                        <td>7–10 days</td>
+                        <td>214 (45.1 %)</td>
+                        <td>4–5 days</td>
+                        <td>145 (30.5 %)</td>
+                     </tr>
+                     <tr>
+                        <td>11–14 days</td>
+                        <td>141 (29.7 %)</td>
+                        <td>&gt;5 days</td>
+                        <td>96 (20.2 %)</td>
+                     </tr>
+                     <tr>
+                        <td>&gt;14 days</td>
+                        <td>75 (15.8 %)</td>
+                        <td>Other</td>
+                        <td>2 (0.4 %)</td>
+                     </tr>
+                     <tr>
+                        <td>Other</td>
+                        <td>20 (4.2 %)</td>
+                        <td/>
+                        <td/>
+                     </tr>
+                  </tbody>
+               </table>
+            </table-wrap>
+            <p>An altogether adequate management of a patient with pneumonia was carried out by 15 (3.2 %) FPs.</p>
+         </sec>
+      </sec>
+      <sec id="s4" sec-type="Discussion">
+         <label>4</label>
+         <title>Discussion</title>
+         <p>Our study showed that only a minority of FPs completely adhered to the guidelines. Numerous differences were noticed. It was estimated that in the majority of cases this would have no negative consequences for the patient, but it would result in a non-optimal management in terms of excessive tests and referrals, improper prescription of antibiotics and non-pharmacological treatment, duration of sick leave and checkups. Ordering a complete blood count with or without differential was the main deviation from the guidelines. We have noticed a negative association between female FPs and adequate diagnostics, and more importantly, between FPs older than 45 years and adequate treatment and adequate checkup.</p>
+         <p>The Slovenian guidelines for the management of outpatient pneumonia without risk factors in patients younger than 65 years state CRP and/or chest X-ray as diagnostic tools. The same is advised by the European and British guidelines (<xref ref-type="bibr" rid="b23">23</xref>-<xref ref-type="bibr" rid="b25">25</xref>). These tests are not strictly necessary if the FP is certain – based on clinical status – that the patient suffers from pneumonia (<xref ref-type="bibr" rid="b23">23</xref>-<xref ref-type="bibr" rid="b26">26</xref>). The European guidelines advise performing CRP and only in ambiguous cases an additional chest X-ray (<xref ref-type="bibr" rid="b24">24</xref>). This corresponds to our data. CRP was the test used most often (92.6 %), which</p>
+         <p>could indicate its good availability in family practices and the ambition of FPs to distinguish between acute bronchitis and pneumonia. This matches data from Denmark and differs from Spanish data where X-ray is used most often (<xref ref-type="bibr" rid="b15">15</xref>). Frequently, FPs ordered a complete blood count or complete blood count with differential, which is not recommended by guidelines unless the patient is older than 65 or has additional risk factors (<xref ref-type="bibr" rid="b23">23</xref>,<xref ref-type="bibr" rid="b25">25</xref>). That was the main reason why diagnostic tests were rarely in accordance with the guidelines.</p>
+         <p>Other studies showed that FPs in European countries ordered chest X-ray more frequently than in our study (<xref ref-type="bibr" rid="b16">16</xref>,<xref ref-type="bibr" rid="b17">17</xref>). The association between the population size in the place where FPs work and between the number of ordered chest X-rays could be explained by easier access to the procedure in bigger cities, but this has not yet been studied (<xref ref-type="bibr" rid="b15">15</xref>-<xref ref-type="bibr" rid="b17">17</xref>).</p>
+         <p>The literature provides a few general guidelines regarding proper non-pharmacological treatment of pneumonia (rest, increased liquid intake, omission of smoking, monitoring one’s wellbeing, measuring vital signs), but not enough to establish proper and improper combinations (<xref ref-type="bibr" rid="b23">23</xref>,<xref ref-type="bibr" rid="b25">25</xref>). FPs rarely prescribed monitoring of vital signs (1.7 %), which is specifically mentioned in the guidelines (<xref ref-type="bibr" rid="b23">23</xref>,<xref ref-type="bibr" rid="b25">25</xref>). Studies investigating non-pharmacological treatment were not found, indicating the lack of literature regarding the effectiveness of such advices.</p>
+         <p>Proper antibiotic therapy depends on the regional resistance of pneumococcus to penicillin. With that in mind, mostly the Slovenian guidelines were considered; they match Great Britain’s, but differ significantly from America’s (<xref ref-type="bibr" rid="b23">23</xref>,<xref ref-type="bibr" rid="b25">25</xref>,<xref ref-type="bibr" rid="b27">27</xref>). FPs in our study mostly prescribed amoxicillin as a correct and amoxicillin with clavulanic acid as an incorrect antibiotic, which matches data from two French studies (<xref ref-type="bibr" rid="b16">16</xref>,<xref ref-type="bibr" rid="b18">18</xref>). Rarely prescribed macrolides are in contrast with data from Italy, where FPs more often prescribe cephalosporins and macrolides. It is worth mentioning that except in one study (<xref ref-type="bibr" rid="b18">18</xref>) data from those studies are presented jointly for both high- and low-risk patients (<xref ref-type="bibr" rid="b16">16</xref>,<xref ref-type="bibr" rid="b17">17</xref>).</p>
+         <p>Most FPs prescribed antibiotic treatment in correct duration, matching the data from the literature (<xref ref-type="bibr" rid="b16">16</xref>).</p>
+         <p>Several studies investigated only the use of antibiotics and not accompanying medications (<xref ref-type="bibr" rid="b16">16</xref>-<xref ref-type="bibr" rid="b20">20</xref>,<xref ref-type="bibr" rid="b28">28</xref>) which should not be ignored since 80.2 % of FPs in our study prescribed more than one medication. Regarding additional medications, the guidelines only mention anti-pyretics/analgesics (<xref ref-type="bibr" rid="b23">23</xref>). There is no sufficient scientific basis yet for prescribing expectorants, cough syrups, bronchodilators and mucolytics (<xref ref-type="bibr" rid="b29">29</xref>).</p>
+         <p>Proper pharmacological treatment of pneumonia was prescribed by 252 (53.1 %) of FPs. Due to different inclusion criteria for patients and differences in the strictness of criteria for proper treatment, it is hard to compare our results to other studies. The main reason for inadequate treatment was the prescription of a wrong antibiotic (mostly amoxicillin with clavulanic acid).</p>
+         <p>All FPs prescribed sick leave, the majority (45.1 %) in the duration of 7–10 days, which corresponds to a proper duration of antibiotic therapy (<xref ref-type="bibr" rid="b23">23</xref>). The guidelines do not include information regarding sick leave and its duration, which prevents us from evaluating the relevancy of our findings (<xref ref-type="bibr" rid="b23">23</xref>-<xref ref-type="bibr" rid="b25">25</xref>,<xref ref-type="bibr" rid="b30">30</xref>). Foreign studies show differences in the duration of sick leave among countries, but they roughly match our results (<xref ref-type="bibr" rid="b16">16</xref>,<xref ref-type="bibr" rid="b22">22</xref>).</p>
+         <p>The Slovenian guidelines advise patient checkup after 2–3 days (<xref ref-type="bibr" rid="b23">23</xref>), which corresponds to the British guidelines (after 2 days, sooner in case of exacerbation of the condition) (<xref ref-type="bibr" rid="b25">25</xref>). All FPs prescribed a checkup but approximately half of them too late. In the French study, only 71 % of FPs prescribed a checkup (<xref ref-type="bibr" rid="b16">16</xref>).</p>
+         <p>A low percentage of FPs who have managed the patient properly from start to finish (3.2 %) is due to numerous criteria demanded simultaneously in order for the management to be considered as adequate. Especially noteworthy are the order of a complete blood count with differential, prescription of amoxicillin with clavulanic acid and belated checkup order. It is estimated that ordering a complete blood count with differential does not have a considerable negative impact on the quality of patient management but it still increases the expenses. On the other hand, an incorrect prescription of antibiotic is a critical deviation since it increases bacteria resistance, along with belated checkup order, which potentially endangers the patient’s health in case of exacerbation of the condition. Ordering more diagnostic tests was also the reason for negative association between female gender and adequate diagnostics. Similarly, FPs older than 45 years prescribed amoxicillin with clavulanic acid and belated checkup order more often and were therefore less likely to perform adequate treatment and checkup. We can hypothesize that this is because older FPs are less often vocationally trained, rely more on experience or are less familiar with the guidelines (<xref ref-type="bibr" rid="b10">10</xref>,<xref ref-type="bibr" rid="b12">12</xref>,<xref ref-type="bibr" rid="b13">13</xref>).</p>
+         <p>The response rate was relatively high, 475/1212 (39.2 %), and was lowered by poorer response from residents (16.3 %) invited to participate mainly via the list of e-mail addresses. According to the data from the Medical Chamber of Slovenia, our study included 35.3 % of all FPs working in family practices in Slovenia in 2017/2018, and as many as 44 % of all FPs, excluding residents. The sample of FPs in this study is bigger than in similar studies done in Slovenia before (<xref ref-type="bibr" rid="b12">12</xref>,<xref ref-type="bibr" rid="b13">13</xref>), and the inclusion of residents presents an additional advantage.</p>
+         <p>The main advantages of this study are the many parameters considered in the management of pneumonia in family practices. Factors that are otherwise rarely a subject of studies (referrals, non-pharmacological treatment, duration of pharmacological treatment, checkup and sick leave) were included. By using a clinical vignette, all FPs were treating the same patient, allowing us to present differences among individual FPs.</p>
+         <p>A weak point of the research is a low response rate from the residents (16.3 %) which decreases the relevance of the data for this group and the relevance of the comparison between specialists and residents. Secondly, the characteristics of FPs under consideration in our model explain a variance of up to 20 % in the adequacy of management. This means that there are other influencing factors present, which can be subjects of future studies.</p>
+      </sec>
+      <sec id="s5" sec-type="Conclusion">
+         <label>5</label>
+         <title>Conclusion</title>
+         <p>The established great variability in the patient management indicates a need for an improvement in the adherence to the guidelines; possible solutions may be in practice-oriented education, expert meetings and specially customized guidelines for family practice.</p>
+         <p>Data from this study can be the basis for further research regarding other factors that influence FP’s decisions, reasons for FPs’ failure to follow guidelines, and for developing customised guidelines for family practices.</p>
+      </sec>
+      <sec id="s7" sec-type="Declaration">
+         <label>7</label>
+         <title>Declaration</title>
+         <p>Ethical approval: This study protocol received approval from the Medical Ethics Committee, University Medical Centre Maribor (UKC-MB-KME-33/17)</p>
+         <p>Funding: This research received no specific grant from any funding agency in the public, commercial, or not-for-profit sectors.</p>
+         <p>Conflict of interest: The authors declare that no conflicts of interest exist.</p>
+      </sec>
+   </body>
+   <back>
+      <ack>
+         <label>6</label>
+         <title>Acknowledgments</title>
+         <p>We are sincerely grateful to our mentor, Assoc. Prof Zalika Klemenc-Ketiš, for all her professional help, guidance, beneficial advice and support in conducting the research. We are also grateful to Andreja Basle from the Medical Chamber of Slovenia, who helped us by integrating residents in the research. Special thanks also go to Alojz Tapajner for helping with the statistical analysis of the data, Sabina Bedek and Sabina Muminović for proofreading and translation, and Polona Kolarič for helping collect the data.</p>
+      </ack>
+      <ref-list>
+         <ref id="b1">
+            <label>1. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Drinovec</surname>
+                     <given-names>J</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Are evidence-based medicine with clinical practice guidelines restrictive for physicians?</article-title>
+                    <source>Zdrav Vestn</source>. 
+                    <year>2006</year>;
+                    <volume>75</volume>(
+                    <issue>75</issue>):
+                    <fpage>653</fpage>–
+                    <lpage>7</lpage>.
+                    <issn>0350-0063</issn> 
+                </mixed-citation>
+         </ref>
+         <ref id="b2">
+            <label>2. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Fischer</surname>
+                     <given-names>F</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Lange</surname>
+                     <given-names>K</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Klose</surname>
+                     <given-names>K</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Greiner Wolfgang, Kraemer A. Barriers and strategies in guideline implementation—a scoping review</article-title>. 
+                    <source>Healthcare (Basel)</source>. 
+                    <year>2016</year>;
+                    <volume>4</volume>(
+                    <issue>3</issue>):
+                    <fpage>36</fpage>. 
+                    <pub-id pub-id-type="doi">10.3390/healthcare4030036</pub-id>
+                    <pub-id pub-id-type="pmid">27417624</pub-id>
+                    <issn>2227-9032</issn> 
+                </mixed-citation>
+         </ref>
+         <ref id="b3">
+            <label>3. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Gundersen</surname>
+                     <given-names>L</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>The effect of clinical practice guidelines on variations in care</article-title>. 
+                    <source>Ann Intern Med</source>. 
+                    <year>2000</year>
+                    <month>Aug</month>;
+                    <volume>133</volume>(
+                    <issue>4</issue>):
+                    <fpage>317</fpage>–
+                    <lpage>8</lpage>. 
+                    <pub-id pub-id-type="doi">10.7326/0003-4819-133-4-200008150-00102</pub-id>
+                    <pub-id pub-id-type="pmid">10929192</pub-id>
+                    <issn>0003-4819</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b4">
+            <label>4. </label>
+            <mixed-citation publication-type="book">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Greenhalgh</surname>
+                     <given-names>T</given-names>
+                  </name>
+                    </person-group>. 
+                    <source>How to Read a Paper. The basics of evidence-based medicine</source>. 
+                    <publisher-loc>London</publisher-loc>: 
+                    <publisher-name>Wily-Blackwell</publisher-name>; 
+                    <year>2010</year>.
+                    [<date-in-citation content-type="access-date" iso-8601-date="2019-12-2">cited 2019 Dec 2</date-in-citation>]
+                    <comment>Available from: <uri>https://pdfs.semanticscholar.org/3ee8/2aef0c4c260e6f23cbd4464dced8ed33356b.pdf</uri>
+               </comment> 
+                </mixed-citation>
+         </ref>
+         <ref id="b5">
+            <label>5. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Austad</surname>
+                     <given-names>B</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Hetlevik</surname>
+                     <given-names>I</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Mjølstad</surname>
+                     <given-names>BP</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Helvik</surname>
+                     <given-names>AS</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Applying clinical guidelines in general practice: a qualitative study of potential complications</article-title>. 
+                    <source>BMC Fam Pract</source>. 
+                    <year>2016</year>
+                    <month>Jul</month>;
+                    <volume>17</volume>(
+                    <issue>1</issue>):
+                    <fpage>92</fpage>. 
+                    <pub-id pub-id-type="doi">10.1186/s12875-016-0490-3</pub-id>
+                    <pub-id pub-id-type="pmid">27449959</pub-id>
+                    <issn>1471-2296</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b6">
+            <label>6. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Boyd</surname>
+                     <given-names>CM</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Darer</surname>
+                     <given-names>J</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Boult</surname>
+                     <given-names>C</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Fried</surname>
+                     <given-names>LP</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Boult</surname>
+                     <given-names>L</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Wu</surname>
+                     <given-names>AW</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Clinical practice guidelines and quality of care for older patients with multiple comorbid diseases: implications for pay for performance</article-title>. 
+                    <source>JAMA</source>. 
+                    <year>2005</year>
+                    <month>Aug</month>;
+                    <volume>294</volume>(
+                    <issue>6</issue>):
+                    <fpage>716</fpage>–
+                    <lpage>24</lpage>. 
+                    <pub-id pub-id-type="doi">10.1001/jama.294.6.716</pub-id>
+                    <pub-id pub-id-type="pmid">16091574</pub-id>
+                    <issn>0098-7484</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b7">
+            <label>7. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Heneghan</surname>
+                     <given-names>C</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Perera</surname>
+                     <given-names>R</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Mant</surname>
+                     <given-names>D</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Glasziou</surname>
+                     <given-names>P</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Hypertension guideline recommendations in general practice: awareness, agreement, adoption, and adherence</article-title>. 
+                    <source>Br J Gen Pract</source>. 
+                    <year>2007</year>
+                    <month>Dec</month>;
+                    <volume>57</volume>(
+                    <issue>545</issue>):
+                    <fpage>948</fpage>–
+                    <lpage>52</lpage>. 
+                    <pub-id pub-id-type="doi">10.3399/096016407782604965</pub-id>
+                    <pub-id pub-id-type="pmid">18252069</pub-id>
+                    <issn>0960-1643</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b8">
+            <label>8. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Pepió Vilaubí</surname>
+                     <given-names>JM</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Orozco-Beltrán</surname>
+                     <given-names>D</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Gonçalves</surname>
+                     <given-names>AQ</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Rodriguez Cumplido</surname>
+                     <given-names>D</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Aguilar Martin</surname>
+                     <given-names>C</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Lopez-Pineda</surname>
+                     <given-names>A</given-names>
+                  </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>Adherence to European clinical practice guidelines for secondary prevention of cardiovascular disease: A cohort study</article-title>. 
+                    <source>Int J Environ Res Public Health</source>. 
+                    <year>2018</year>
+                    <month>Jun</month>;
+                    <volume>15</volume>(
+                    <issue>6</issue>):
+                    <fpage>1233</fpage>. 
+                    <pub-id pub-id-type="doi">10.3390/ijerph15061233</pub-id>
+                    <pub-id pub-id-type="pmid">29891821</pub-id>
+                    <issn>1661-7827</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b9">
+            <label>9. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Fürthauer</surname>
+                     <given-names>J</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Flamm</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Sönnichsen</surname>
+                     <given-names>A</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Patient and physician related factors of adherence to evidence based guidelines in diabetes mellitus type 2, cardiovascular disease and prevention: a cross sectional study</article-title>. 
+                    <source>BMC Fam Pract</source>. 
+                    <year>2013</year>
+                    <month>Apr</month>;
+                    <volume>14</volume>(
+                    <issue>1</issue>):
+                    <fpage>47</fpage>. 
+                    <pub-id pub-id-type="doi">10.1186/1471-2296-14-47</pub-id>
+                    <pub-id pub-id-type="pmid">23557543</pub-id>
+                    <issn>1471-2296</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b10">
+            <label>10. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Harris</surname>
+                     <given-names>MF</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Lloyd</surname>
+                     <given-names>J</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Krastev</surname>
+                     <given-names>Y</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Fanaian</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Davies</surname>
+                     <given-names>GP</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Zwar</surname>
+                     <given-names>N</given-names>
+                  </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>Routine use of clinical management guidelines in Australian general practice</article-title>. 
+                    <source>Aust J Prim Health</source>. 
+                    <year>2014</year>;
+                    <volume>20</volume>(
+                    <issue>1</issue>):
+                    <fpage>41</fpage>–
+                    <lpage>6</lpage>. 
+                    <pub-id pub-id-type="doi">10.1071/PY12078</pub-id>
+                    <pub-id pub-id-type="pmid">23075762</pub-id>
+                    <issn>1448-7527</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b11">
+            <label>11. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Wang</surname>
+                     <given-names>S</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Wilkinson</surname>
+                     <given-names>KA</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Agius</surname>
+                     <given-names>M</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Do general practitioners follow guidelines on the use of antidepressants to trat depression? Can the situation be improved?</article-title>
+                    <source>Psychiatr Danub</source>. 
+                    <year>2017</year>;
+                    <volume>29</volume>(
+                    <issue>3</issue>):
+                    <fpage>236</fpage>–
+                    <lpage>40</lpage>.
+                    <pub-id pub-id-type="pmid">28949303</pub-id>
+                    <issn>0353-5053</issn> 
+                </mixed-citation>
+         </ref>
+         <ref id="b12">
+            <label>12. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Car</surname>
+                     <given-names>J</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Švab</surname>
+                     <given-names>I</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Kersnik</surname>
+                     <given-names>J</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Vegnuti</surname>
+                     <given-names>M</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Management of lower urinary tract infection in women by Slovene GPs</article-title>. 
+                    <source>Fam Pract</source>. 
+                    <year>2003</year>
+                    <month>Aug</month>;
+                    <volume>20</volume>(
+                    <issue>4</issue>):
+                    <fpage>452</fpage>–
+                    <lpage>6</lpage>. 
+                    <pub-id pub-id-type="doi">10.1093/fampra/cmg421</pub-id>
+                    <pub-id pub-id-type="pmid">12876120</pub-id>
+                    <issn>0263-2136</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b13">
+            <label>13. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Car</surname>
+                     <given-names>J</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Kersnik</surname>
+                     <given-names>J</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Švab</surname>
+                     <given-names>I</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Rotar-Pavlič</surname>
+                     <given-names>D</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Detection and management of depression in Slovene family practice. A case vignette study</article-title>. 
+                    <source>Zdr Varst</source>.
+                    <year>2006</year>;
+                    <volume>45</volume>(
+                    <issue>45</issue>):
+                    <fpage>90</fpage>–
+                    <lpage>6</lpage>. 
+                </mixed-citation>
+         </ref>
+         <ref id="b14">
+            <label>14. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Klemenc-Ketiš</surname>
+                     <given-names>Z</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Švab</surname>
+                     <given-names>I</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Poplas Susič</surname>
+                     <given-names>A</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Implementing quality indicators for diabetes and hypertension in family medicine in Slovenia</article-title>. 
+                    <source>Zdr Varst</source>. 
+                    <year>2017</year>
+                    <month>Oct</month>;
+                    <volume>56</volume>(
+                    <issue>4</issue>):
+                    <fpage>211</fpage>–
+                    <lpage>9</lpage>. 
+                    <pub-id pub-id-type="doi">10.1515/sjph-2017-0029</pub-id>
+                    <pub-id pub-id-type="pmid">29062395</pub-id>
+                    <issn>0351-0026</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b15">
+            <label>15. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Christensen</surname>
+                     <given-names>SF</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Jørgensen</surname>
+                     <given-names>LC</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Cordoba</surname>
+                     <given-names>G</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Llor</surname>
+                     <given-names>C</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Siersma</surname>
+                     <given-names>V</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Bjerrum</surname>
+                     <given-names>L</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Marked differences in GPs’ diagnosis of pneumonia between Denmark and Spain: a cross-sectional study</article-title>. 
+                    <source>Prim Care Respir J</source>. 
+                    <year>2013</year>
+                    <month>Dec</month>;
+                    <volume>22</volume>(
+                    <issue>4</issue>):
+                    <fpage>454</fpage>–
+                    <lpage>8</lpage>. 
+                    <pub-id pub-id-type="doi">10.4104/pcrj.2013.00093</pub-id>
+                    <pub-id pub-id-type="pmid">24248329</pub-id>
+                    <issn>1471-4418</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b16">
+            <label>16. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Partouche</surname>
+                     <given-names>H</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Buffel du Vaure</surname>
+                     <given-names>C</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Personne</surname>
+                     <given-names>V</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Le Cossec</surname>
+                     <given-names>C</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Garcin</surname>
+                     <given-names>C</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Lorenzo</surname>
+                     <given-names>A</given-names>
+                  </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>Suspected community-acquired pneumonia in an ambulatory setting (CAPA): a French prospective observational cohort study in general practice</article-title>. 
+                    <source>NPJ Prim Care Respir Med</source>. 
+                    <year>2015</year>
+                    <month>Mar</month>;
+                    <volume>25</volume>(
+                    <issue>1</issue>):
+                    <fpage>15010</fpage>. 
+                    <pub-id pub-id-type="doi">10.1038/npjpcrm.2015.10</pub-id>
+                    <pub-id pub-id-type="pmid">25763466</pub-id>
+                    <issn>2055-1010</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b17">
+            <label>17. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Viegi</surname>
+                     <given-names>G</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Pistelli</surname>
+                     <given-names>R</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Cazzola</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Falcone</surname>
+                     <given-names>F</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Cerveri</surname>
+                     <given-names>I</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Rossi</surname>
+                     <given-names>A</given-names>
+                  </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>Epidemiological survey on incidence and treatment of community acquired pneumonia in Italy</article-title>. 
+                    <source>Respir Med</source>. 
+                    <year>2006</year>
+                    <month>Jan</month>;
+                    <volume>100</volume>(
+                    <issue>1</issue>):
+                    <fpage>46</fpage>–
+                    <lpage>55</lpage>. 
+                    <pub-id pub-id-type="doi">10.1016/j.rmed.2005.04.013</pub-id>
+                    <pub-id pub-id-type="pmid">16046113</pub-id>
+                    <issn>0954-6111</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b18">
+            <label>18. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Fantin</surname>
+                     <given-names>B</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Aubert</surname>
+                     <given-names>JP</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Unger</surname>
+                     <given-names>P</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Lecoeur</surname>
+                     <given-names>H</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Carbon</surname>
+                     <given-names>C</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Clinical evaluation of the management of community-acquired pneumonia by general practitioners in France</article-title>. 
+                    <source>Chest</source>. 
+                    <year>2001</year>
+                    <month>Jul</month>;
+                    <volume>120</volume>(
+                    <issue>1</issue>):
+                    <fpage>185</fpage>–
+                    <lpage>92</lpage>. 
+                    <pub-id pub-id-type="doi">10.1378/chest.120.1.185</pub-id>
+                    <pub-id pub-id-type="pmid">11451836</pub-id>
+                    <issn>0012-3692</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b19">
+            <label>19. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Kraus</surname>
+                     <given-names>EM</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Pelzl</surname>
+                     <given-names>S</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Szecsenyi</surname>
+                     <given-names>J</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Laux</surname>
+                     <given-names>G</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Antibiotic prescribing for acute lower respiratory tract infections (LRTI) - guideline adherence in the German primary care setting: an analysis of routine data</article-title>. 
+                    <source>PLoS One</source>. 
+                    <year>2017</year>
+                    <month>Mar</month>;
+                    <volume>12</volume>(
+                    <issue>3</issue>):
+                    <fpage>e0174584</fpage>. 
+                    <pub-id pub-id-type="doi">10.1371/journal.pone.0174584</pub-id>
+                    <pub-id pub-id-type="pmid">28350820</pub-id>
+                    <issn>1932-6203</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b20">
+            <label>20. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Murphy</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Bradley</surname>
+                     <given-names>CP</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Byrne</surname>
+                     <given-names>S</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Antibiotic prescribing in primary care, adherence to guidelines and unnecessary prescribing—an Irish perspective</article-title>. 
+                    <source>BMC Fam Pract</source>. 
+                    <year>2012</year>
+                    <month>May</month>;
+                    <volume>13</volume>(
+                    <issue>1</issue>):
+                    <fpage>43</fpage>. 
+                    <pub-id pub-id-type="doi">10.1186/1471-2296-13-43</pub-id>
+                    <pub-id pub-id-type="pmid">22640399</pub-id>
+                    <issn>1471-2296</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b21">
+            <label>21. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Raherison</surname>
+                     <given-names>C</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Peray</surname>
+                     <given-names>P</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Poirier</surname>
+                     <given-names>R</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Romand</surname>
+                     <given-names>P</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Grignet</surname>
+                     <given-names>JP</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Arsac</surname>
+                     <given-names>P</given-names>
+                  </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>Management of lower respiratory tract infections by French general practitioners: the AIR II study. Analyse Infections Respiratoires</article-title>. 
+                    <source>Eur Respir J</source>. 
+                    <year>2002</year>
+                    <month>Feb</month>;
+                    <volume>19</volume>(
+                    <issue>2</issue>):
+                    <fpage>314</fpage>–
+                    <lpage>9</lpage>. 
+                    <pub-id pub-id-type="doi">10.1183/09031936.02.00219102</pub-id>
+                    <pub-id pub-id-type="pmid">11866012</pub-id>
+                    <issn>0903-1936</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b22">
+            <label>22. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Halvorsen</surname>
+                     <given-names>PA</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Wennevold</surname>
+                     <given-names>K</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Fleten</surname>
+                     <given-names>N</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Muras</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Kowalczyk</surname>
+                     <given-names>A</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Godycki-Cwirko</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>Decisions on sick leave certifications for acute airways infections based on vignettes: a cross-sectional survey of GPs in Norway and Poland</article-title>. 
+                    <source>Scand J Prim Health Care</source>. 
+                    <year>2011</year>
+                    <month>Jun</month>;
+                    <volume>29</volume>(
+                    <issue>2</issue>):
+                    <fpage>110</fpage>–
+                    <lpage>6</lpage>. 
+                    <pub-id pub-id-type="doi">10.3109/02813432.2011.555382</pub-id>
+                    <pub-id pub-id-type="pmid">21323635</pub-id>
+                    <issn>0281-3432</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b23">
+            <label>23. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Mušič</surname>
+                     <given-names>E</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Osolnik</surname>
+                     <given-names>K</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Tomič</surname>
+                     <given-names>V</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Eržen</surname>
+                     <given-names>R</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Košnik</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Beović</surname>
+                     <given-names>B</given-names>
+                  </name>, 
+                        <etal>et al</etal>
+                    </person-group>. 
+                    <article-title>Recommendation for the Management of Community-acquired Pneumonia in Adults (Updated and revised Edition, 2010)</article-title>. 
+                    <source>Zdrav Vestn</source>. 
+                    <year>2010</year>
+                    <month>Mar</month>;
+                    <volume>79</volume>(
+                    <issue>3</issue>
+                    <fpage>245</fpage>–
+                    <lpage>64</lpage>. 
+                    <issn>1318-0347</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b24">
+            <label>24. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Woodhead</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Blasi</surname>
+                     <given-names>F</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Ewig</surname>
+                     <given-names>S</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Garau</surname>
+                     <given-names>J</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Huchon</surname>
+                     <given-names>G</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Ieven</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <etal>et al</etal>; 
+                        <collab>Joint Taskforce of the European Respiratory Society and European Society for Clinical Microbiology and Infectious Diseases</collab>
+                    </person-group>. 
+                    <article-title>Guidelines for the management of adult lower respiratory tract infections—full version</article-title>. 
+                    <source>Clin Microbiol Infect</source>. 
+                    <year>2011</year>
+                    <month>Nov</month>;
+                    <volume>17</volume>(
+                    <issue>6</issue>
+                    <supplement>Suppl 6</supplement>):
+                    <fpage>E1</fpage>–
+                    <lpage>59</lpage>. 
+                    <pub-id pub-id-type="doi">10.1111/j.1469-0691.2011.03672.x</pub-id>
+                    <pub-id pub-id-type="pmid">21951385</pub-id>
+                    <issn>1198-743X</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b25">
+            <label>25. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Levy</surname>
+                     <given-names>ML</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Le Jeune</surname>
+                     <given-names>I</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Woodhead</surname>
+                     <given-names>MA</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Macfarlaned</surname>
+                     <given-names>JT</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Lim</surname>
+                     <given-names>WS</given-names>
+                  </name>
+                        <collab>British Thoracic Society Community Acquired Pneumonia in Adults Guideline Group</collab>; 
+                        <collab>Endorsed by the Royal College of General Practitioners and the Primary Care Respiratory Society UK</collab>
+                    </person-group>. 
+                    <article-title>Primary care summary of the British Thoracic Society Guidelines for the management of community acquired pneumonia in adults: 2009 update</article-title>. 
+                    <source>Prim Care Respir J</source>. 
+                    <year>2010</year>
+                    <month>Mar</month>;
+                    <volume>19</volume>(
+                    <issue>1</issue>):
+                    <fpage>21</fpage>–
+                    <lpage>7</lpage>. 
+                    <pub-id pub-id-type="doi">10.4104/pcrj.2010.00014</pub-id>
+                    <pub-id pub-id-type="pmid">20157684</pub-id>
+                    <issn>1471-4418</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b26">
+            <label>26. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Moberg</surname>
+                     <given-names>AB</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Taléus</surname>
+                     <given-names>U</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Garvin</surname>
+                     <given-names>P</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Fransson</surname>
+                     <given-names>SG</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Falk</surname>
+                     <given-names>M</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Community-acquired pneumonia in primary care: clinical assessment and the usability of chest radiography</article-title>. 
+                    <source>Scand J Prim Health Care</source>. 
+                    <year>2016</year>;
+                    <volume>34</volume>(
+                    <issue>1</issue>):
+                    <fpage>21</fpage>–
+                    <lpage>7</lpage>. 
+                    <pub-id pub-id-type="doi">10.3109/02813432.2015.1132889</pub-id>
+                    <pub-id pub-id-type="pmid">26849394</pub-id>
+                    <issn>0281-3432</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b27">
+            <label>27. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Mandell</surname>
+                     <given-names>LA</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Wunderink</surname>
+                     <given-names>RG</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Anzueto</surname>
+                     <given-names>A</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Bartlett</surname>
+                     <given-names>JG</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Campbell</surname>
+                     <given-names>GD</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Dean</surname>
+                     <given-names>NC</given-names>
+                  </name>, 
+                        <etal>et al</etal>; 
+                        <collab>Infectious Diseases Society of America</collab>; 
+                        <collab>American Thoracic Society</collab>
+                    </person-group>. 
+                    <article-title>Infectious Diseases Society of America/American Thoracic Society consensus guidelines on the management of community-acquired pneumonia in adults</article-title>. 
+                    <source>Clin Infect Dis</source>. 
+                    <year>2007</year>
+                    <month>Mar</month>;
+                    <volume>44</volume>(
+                    <issue>2</issue>
+                    <supplement>Suppl 2</supplement>):
+                    <fpage>S27</fpage>–
+                    <lpage>72</lpage>. 
+                    <pub-id pub-id-type="doi">10.1086/511159</pub-id>
+                    <pub-id pub-id-type="pmid">17278083</pub-id>
+                    <issn>1058-4838</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b28">
+            <label>28. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Wood</surname>
+                     <given-names>J</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Butler</surname>
+                     <given-names>CC</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Hood</surname>
+                     <given-names>K</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Kelly</surname>
+                     <given-names>MJ</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Verheij</surname>
+                     <given-names>T</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Little</surname>
+                     <given-names>P</given-names>
+                  </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>Antibiotic prescribing for adults with acute cough/lower respiratory tract infection: congruence with guidelines</article-title>. 
+                    <source>Eur Respir J</source>. 
+                    <year>2011</year>
+                    <month>Jul</month>;
+                    <volume>38</volume>(
+                    <issue>1</issue>):
+                    <fpage>112</fpage>–
+                    <lpage>8</lpage>. 
+                    <pub-id pub-id-type="doi">10.1183/09031936.00145810</pub-id>
+                    <pub-id pub-id-type="pmid">21233267</pub-id>
+                    <issn>0903-1936</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b29">
+            <label>29. </label>
+            <mixed-citation publication-type="book-chapter">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Faverio</surname>
+                     <given-names>P</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Restrepo</surname>
+                     <given-names>MI</given-names>
+                  </name>
+                    </person-group>. 
+                    <chapter-title>Non-antibiotic therapies for CAP</chapter-title>. In: 
+                    <person-group person-group-type="editor">
+                        <name name-style="western">
+                     <surname>Chalmers</surname>
+                     <given-names>JD</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Pletz</surname>
+                     <given-names>MW</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Aliberti</surname>
+                     <given-names>S</given-names>
+                  </name>, 
+                        <role>eds</role>
+                    </person-group>. 
+                    <source>Community-Acquired Pneumonia</source>.
+                    <publisher-loc>Sheffield, UK</publisher-loc>: 
+                    <publisher-name>European Respiratory Society</publisher-name>; 
+                    <year>2014</year>. pp. 
+                    (<series>European Respiratory Society Monograph</series>.
+                    <volume>Volume 63</volume>).
+                    <fpage>219</fpage>–
+                    <lpage>33</lpage>. 
+                    <pub-id pub-id-type="doi">10.1183/1025448x.10004513</pub-id>
+                </mixed-citation>
+         </ref>
+         <ref id="b30">
+            <label>30. </label>
+            <mixed-citation publication-type="webpage">
+                    <person-group person-group-type="author">
+                        <collab>National Institute for Health and Care Excellence (NICE)</collab>
+                    </person-group>. 
+                    <source>Pneumonia in adults: diagnosis and managment </source>. 
+                    <publisher-loc>London</publisher-loc>:
+                    <publisher-name>NICE</publisher-name>; 
+                    <year>2014</year> 
+                    [<date-in-citation content-type="access-date" iso-8601-date="2018-08-20">cited 2018 Aug 20</date-in-citation>]. 
+                    <comment> Available from: <uri>https://www.nice.org.uk/guidance/cg191</uri>
+               </comment>
+                </mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

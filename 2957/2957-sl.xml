@@ -1,0 +1,1598 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD with MathML3 v1.1 20151215//EN" "JATS-journalpublishing1-mathml3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink"
+         dtd-version="1.1"
+         xml:lang="sl"
+         article-type="other">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher-id">Zdrav Vestn</journal-id>
+         <journal-id journal-id-type="nlm-ta">Zdrav Vestn</journal-id>
+         <journal-id journal-id-type="doi">Zdrav Vestn</journal-id>
+         <journal-title-group>
+            <journal-title>Zdravniški vestnik</journal-title>
+            <trans-title-group xml:lang="en">
+               <trans-title>Slovenian Medical Journal</trans-title>
+            </trans-title-group>
+            <abbrev-journal-title>Zdrav Vestn</abbrev-journal-title>
+         </journal-title-group>
+         <issn publication-format="ppub" pub-type="ppub">1318-0347</issn>
+         <issn publication-format="epub" pub-type="epub">1581-0224</issn>
+         <issn-l>0350-0063</issn-l>
+         <publisher>
+            <publisher-name xml:lang="sl">Slovensko zdravniško društvo</publisher-name>
+            <publisher-name xml:lang="en">Slovenian Medical Association</publisher-name>
+            <publisher-loc xml:lang="sl">Ljubljana, Slovenia</publisher-loc>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.6016/ZdravVestn.2957</article-id>
+         <article-id pub-id-type="publisher-id">2957</article-id>
+         <article-categories>
+            <subj-group subj-group-type="discipline" xml:lang="en">
+               <subject>Medicine and health sciences</subject>
+               <subj-group>
+                  <subject>Microbiology and immunology</subject>
+               </subj-group>
+            </subj-group>
+            <subj-group subj-group-type="discipline" xml:lang="sl">
+               <subject>Medicina/Zdravstvo</subject>
+               <subj-group>
+                  <subject>Mikrobiologija in imunologija</subject>
+               </subj-group>
+            </subj-group>
+            <subj-group subj-group-type="article-type" xml:lang="en">
+               <subject>Review article</subject>
+            </subj-group>
+            <subj-group subj-group-type="article-type" xml:lang="sl">
+               <subject>Pregledni znanstveni članek</subject>
+            </subj-group>
+            <subj-group subj-group-type="heading" xml:lang="sl">
+               <subject>Mikrobiologija in imunologija</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title xml:lang="sl">Variabilnost srčne frekvence – iz kardioloških laboratorijev v svet rekreativnega in profesionalnega športa</article-title>
+            <trans-title-group>
+               <trans-title xml:lang="en">Heart rate variability – from cardiology labs into the world of recreational and professional sport</trans-title>
+            </trans-title-group>
+            <alt-title alt-title-type="running-head" xml:lang="sl">Variabilnost srčne frekvence</alt-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Kšela</surname>
+                  <given-names>Juš</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1">1</xref>
+               <xref ref-type="corresp" rid="corr"/>
+            </contrib>
+         </contrib-group>
+         <aff-alternatives id="aff1">
+            <aff xml:lang="sl">
+               <label>1</label>
+               <institution>Klinični oddelek za kirurgijo srca in ožilja, Kirurška klinika, Univerzitetni klinični center Ljubljana, Ljubljana, Slovenija</institution>
+            </aff>
+            <aff xml:lang="en">
+               <label>1</label>
+               <institution>Department of cardiovascular surgery, Division of Surgery, University Medical Centre Ljubljana, Ljubljana, Slovenia</institution>
+            </aff>
+         </aff-alternatives>
+         <author-notes>
+            <fn fn-type="conflict" xml:lang="en">
+               <p>The authors have declared that no competing interests exist.</p>
+            </fn>
+            <fn fn-type="conflict" xml:lang="sl">
+               <p>Avtorji so izjavili, da ne obstajajo nobeni konkurenčni interesi.</p>
+            </fn>
+            <corresp id="corr">Juš Kšela, e-mail: <email xlink:type="simple"/>
+            </corresp>
+         </author-notes>
+         <pub-date pub-type="ppub">
+            <month>6</month>
+            <year>2020</year>
+         </pub-date>
+         <pub-date pub-type="epub">
+            <month>6</month>
+            <year>2020</year>
+         </pub-date>
+         <volume>89</volume>
+         <issue>5–6</issue>
+         <fpage>287</fpage>
+         <lpage>300</lpage>
+         <history>
+            <date date-type="received">
+               <day>17</day>
+               <month>5</month>
+               <year>2019</year>
+            </date>
+            <date date-type="accepted">
+               <day>5</day>
+               <month>8</month>
+               <year>2019</year>
+            </date>
+         </history>
+         <permissions>
+            <copyright-statement xml:lang="en">Copyright © 2020, Slovenian Medical Association (SZD)</copyright-statement>
+            <copyright-statement xml:lang="sl">© 2020, Slovensko zdravniško društvo (SZD)</copyright-statement>
+            <copyright-year>2020</copyright-year>
+            <copyright-holder xml:lang="en">Slovenian Medical Association (SZD)</copyright-holder>
+            <copyright-holder xml:lang="sl">Slovensko zdravniško društvo (SZD)</copyright-holder>
+            <license xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                     xlink:type="simple"
+                     xml:lang="en">
+               <license-p>This is an open access article distributed under the terms of the
+          <ext-link ext-link-type="uri"
+                            xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                            xlink:type="simple">Creative Commons Attribution-NonCommercial
+            License</ext-link>, which permits unrestricted use, distribution, and
+          reproduction in any medium, provided the original author and source are
+          credited and only for non-commercial purposes. </license-p>
+            </license>
+            <license xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                     xlink:type="simple"
+                     xml:lang="sl">
+               <license-p>To je članek z odprtim dostopom, ki ga lahko uporabite pod pogoji iz
+          <ext-link ext-link-type="uri"
+                            xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                            xlink:type="simple">Creative Commons Priznanje avtorstva-Nekomercialno
+            licence</ext-link>. ki dovoljuje distribucijo, predelavo ali
+          prilagoditev, ter gradijo na njem, v nekomercialne namene, z navedbo avtorja
+          in izvirnega dela.</license-p>
+            </license>
+         </permissions>
+         <abstract xml:lang="sl">
+            <title>Izvleček</title>
+            <p>Variabilnost srčne ferkvence (<italic>angl.</italic> heart rate variability, HRV) je najpogosteje uporabljena metoda za oceno avtonomne regulacije srca. S tehnološkim razvojem komercialnih merilcev srčnega utripa in pripadajočih računalniških programskih sistemov, ki omogočajo verodostojno izračunavanje, se je uporaba metodologije preselila iz kardioloških laboratorijev in specialističnih ambulant v vsakodnevno prakso rekreativnih športnih navdušencev, profesionalnih športnikov in trenerjev. Prav zato se vse več slovenskih zdravnikov pri svojem vsakdanjem kliničnem delu srečuje z vprašanji o fizioloških osnovah HRV, o načinih njenega določanja in o pravilni interpretaciji analiz. Namen članka je zato razložiti osnovne fiziološke mehanizme variabilnosti srčne frekvence, opisati konvencionalne in novejše analize in kazalnike ter opredeliti in pojasniti spremembe srčne frekvence v različnih fizioloških in patoloških stanjih organizma.</p>
+         </abstract>
+         <trans-abstract xml:lang="en">
+            <title>Abstract</title>
+            <p>Heart rate variability (HRV) is one of the most recognized noninvasive tools in the assessment of cardiac autonomic modulation. The development of commercially available wireless heart rate monitors, detecting R-R intervals with a high resolution and accurately calculating HRV parameters, has pushed the methodology beyond the borders of exercise physiology laboratories into the world of recreational and professional sportsmen and coaches. Therefore, a growing number of Slovenian physicians are nowadays faced with questions about the physiological mechanisms of HRV and interpretational dilemmas in individuals with changed HRV parameters. Hence, the aim of the article is to clarify the physiological background of HRV, to describe conventional linear and non-linear HRV parameters and to elucidate how HRV parameters change under various physiological and pathological conditions.</p>
+         </trans-abstract>
+         <kwd-group xml:lang="sl">
+            <kwd>avtonomna regulacija srca</kwd>
+            <kwd>linearni in nelinearni kazalniki parametrov HRV</kwd>
+            <kwd>telesna vadba</kwd>
+            <kwd>regeneracija</kwd>
+            <kwd>pretreniranost</kwd>
+         </kwd-group>
+         <kwd-group xml:lang="en">
+            <kwd>cardiac autonomic modulation</kwd>
+            <kwd>linear and non-linear HRV parameters</kwd>
+            <kwd>physical activity</kwd>
+            <kwd>recovery</kwd>
+            <kwd>overtraining</kwd>
+         </kwd-group>
+      </article-meta>
+   </front>
+   <body>
+      <sec id="s1" sec-type="Uvod">
+         <label>1</label>
+         <title>Uvod</title>
+         <p>Zdravo srce ima sposobnost generiranja spontanih utripov, saj se v njem nahajajo specializirane celice za ritem, katerih glavna lastnost je samodejno proženje živčnega impulza (<xref ref-type="bibr" rid="b1">1</xref>,<xref ref-type="bibr" rid="b2">2</xref>). Kljub tej avtomatičnosti oziroma inherentni ritmičnosti srca pa srčno mišico oživčujeta simpatična in parasimpatična veja vegetativnega živčnega sistema, ki modificirata njeno krčljivost in frekvenco utripov. Srce je običajno pod toničnim vplivom obeh vej avtonomnega živčevja, ki pa zaradi različnih anatomskih področij oživčenja, različnih nevrotransmiterjev in različnih receptorjev izzoveta nasprotni fiziološki odgovor. Medtem ko simpatična stimulacija povečuje srčno frekvenco in krčljivost srčne mišice, parasimpatična stimulacija upočasnjuje frekvenco in zmanjšuje krčljivost. Pri zdravem odraslem človeku v mirovanju prevladuje aktivnost parasimpatične veje (<xref ref-type="bibr" rid="b2">2</xref>,<xref ref-type="bibr" rid="b3">3</xref>). Vpliv simpatično-parasimpatičnega ravnovesja na srce oziroma t. i. avtonomno regulacijo srca je možno opisati z vrsto kazalnikov, v veliki večini dosedanjih študij pa se je za enega najboljših kazalnikov tega ravnovesja izkazala variabilnost srčne frekvence (<italic>angl.</italic> heart rate variability, HRV) (<xref ref-type="bibr" rid="b2">2</xref>).</p>
+         <p>Simpatično-vagusni vpliv na srce se spreminja s starostjo in s pojavom različnih srčno-žilnih bolezni (<xref ref-type="bibr" rid="b2">2</xref>,<xref ref-type="bibr" rid="b4">4</xref>,<xref ref-type="bibr" rid="b5">5</xref>). Spoznanja, da lahko z ugotavljanjem sprememb avtonomne regulacije ocenjujemo stopnjo napredovalosti srčno-žilnih bolezni ali da jih lahko uporabljamo tudi kot napovedne dejavnike za zaplete teh bolezni in celo umrljivost, so popularizirala analize simpatično-vagusnega ravnovesja v znanstvenem in kardiološkem kliničnem okolju (<xref ref-type="bibr" rid="b2">2</xref>).</p>
+         <p>Študije zadnjih let nedvomno kažejo, da se HRV ne spreminja zgolj s staranjem organizma in z bolezenskimi stanji, pač pa tudi s stopnjo telesne pripravljenosti oziroma s stopnjo treniranosti posameznika (<xref ref-type="bibr" rid="b6">6</xref>-<xref ref-type="bibr" rid="b9">9</xref>). Ta spoznanja so ob hkratnem razvoju komercialno dostopnih merilcev srčnega utripa (kot so npr. Polar, Ithlet, HRV Fit, Mega Electronics), ki omogočajo izračunavanje variabilnost intervalov RR, v zadnjih letih popularizirali uporabo analize HRV tudi v vsakdanjem življenju med rekreativnimi posamezniki ter profesionalnimi športniki in trenerji (<xref ref-type="bibr" rid="b10">10</xref>,<xref ref-type="bibr" rid="b11">11</xref>). S seljenjem uporabe analiz HRV iz kardioloških laboratorijev in specialističnih ambulant v domače okolje se tudi vse več slovenskih zdravnikov pri svojem vsakdanjem kliničnem delu srečuje z vprašanji o fizioloških osnovah HRV, o načinih njenega določanja in o pravilni interpretaciji analiz. Namen članka je zato razložiti osnovne fiziološke mehanizme variabilnosti srčne frekvence, opisati konvencionalne in novejše analize in kazalnike HRV ter opredeliti in pojasniti spremembe HRV v različnih fizioloških in patofizioloških stanjih organizma.</p>
+      </sec>
+      <sec id="s2" sec-type="Variabilnost srčne frekvence">
+         <label>2</label>
+         <title>Variabilnost srčne frekvence</title>
+         <p>Danes je znano, da zdravo srce, ki je v sinusnem ritmu, ne utripa enakomerno, pač pa se časovne dolžine srčnih ciklov (RR intervali) med seboj močno razlikujejo na ravni milisekund (<xref ref-type="bibr" rid="b1">1</xref>,<xref ref-type="bibr" rid="b2">2</xref>). Neprestano spremenljivost dolžine intervalov RR imenujemo variabilnost srčne frekvence (HRV) in je odsev delovanja avtonomnega živčevja na sinoatrijski (SA) vozel (<xref ref-type="bibr" rid="b2">2</xref>). Stalne spremembe v tonusu simpatične in parasimpatične veje avtonomnega živčevja, ki so ključne za ohranjanja homeostaze v telesu, povzročajo namreč neprestane fluktuacije intervalov RR okoli srednje vrednosti. Najbolj znana primera fiziološkega periodičnega spreminjanja dolžine srčnega cikla sta sinusna respiracijska aritmija in nočna sinusna bradikardija (<xref ref-type="bibr" rid="b1">1</xref>). Številne študije zadnjih dveh desetletij so pokazale, da spremembe HRV zelo dobro odslikavajo spremembe fizioloških in patoloških procesov, hkrati pa se je HRV izkazala tudi kot eden najmočnejših napovednih dejavnikov za umrljivost po miokardnem infarktu, za pojav benignih in malignih motenj ritma, za stopnjo napredovalosti srčnega popuščanja in za nenadno srčno smrt (<xref ref-type="bibr" rid="b2">2</xref>,<xref ref-type="bibr" rid="b5">5</xref>,<xref ref-type="bibr" rid="b12">12</xref>-<xref ref-type="bibr" rid="b15">15</xref>).</p>
+         <p>Prednosti analize HRV so: neinvazivnost pridobivanja podatkov, dokaj enostavna računalniška uporabnost sicer kompleksnih matematičnih modelov za njeno izračunavanje in ponovljivost metode. Prav zaradi tega analiza HRV danes še vedno velja za zlati standard pri oceni avtonomne regulacije srca v različnih fizioloških in patoloških stanjih (<xref ref-type="bibr" rid="b2">2</xref>).</p>
+         <p>Fiziološko razumevanje HRV se je v zadnjih desetletjih pomaknilo od reduktivističnih perspektiv v teorije kompleksnih bioloških sistemov. Reduktivistične perspektive dojemajo HRV preprosto kot kazalnik razmerja med simpatično in parasimpatično aktivacijo. Dojemajo jo zgolj kot kazalnik vegetativnih vplivov na srce ter jo prednostno pojasnjujejo kot odraz respiracijske spremenljivosti — bodisi zaradi specifične hemodinamike (spremenjen venski priliv v povezavi s spremenljivostjo tlaka v prsni votlini med dihanjem, na katerega se baroreceptorski refleks odziva z ostankom) bodisi zaradi prepletanja nevrofizioloških eferentnih poti vegetativnega živčevja in stimulusov za dihanje — ali bodisi kot odraz vplivov vegetativnega živčevja na tonus žilja ali na cirkadiane ritme. Reduktivistične teorije so linearne. Kot take so omejene in ne uspejo pojasniti določenih odklonov (npr. paradoksno obnašanje HRV pri nekaterih boleznih, kot so endokrinološke, ali pri pretreniranosti). Prav zato se sodobne intepretacije HRV (in modeli za njeno analizo) vse bolj poslužujejo teorije kompleksnih bioloških sistemov: majhno variabilnost razumejo kot neustrezno prilagodljivost sistema na zunanje dražljaje, HRV pa interpretirajo kot časovno serijo, v kateri (s spremljanjem časovne spremenjivosti) „iščejo“ ponavljajoče se vzorce v kompleksnem sistemu (<xref ref-type="bibr" rid="b2">2</xref>,<xref ref-type="bibr" rid="b4">4</xref>,<xref ref-type="bibr" rid="b5">5</xref>,<xref ref-type="bibr" rid="b12">12</xref>-<xref ref-type="bibr" rid="b16">16</xref>).</p>
+         <p>HRV lahko torej analiziramo z linearnimi in novejšimi nelinearnimi metodami, v obeh primerih pa merimo variacije intervalov RR v EKG zapisu.</p>
+         <sec id="s2.1" sec-type="Linearne analize HRV">
+            <label>2.1</label>
+            <title>Linearne analize HRV</title>
+            <p>Linearne metode HRV vključujejo časovno in frekvenčno domeno analiz, pri čemer so kazalniki časovne domene odraz velikosti spreminjanja srčne frekvence, kazalniki frekvenčne domene pa odraz hitrosti spreminjanja srčne frekvence (<xref ref-type="bibr" rid="b2">2</xref>).</p>
+            <p>Kazalce časovne domene HRV določamo običajno iz dolgih, 24-urnih EKG posnetkov, in jih delimo v dve skupini: a) kazalniki, ki jih dobimo z opazovanjem posameznih intervalov NN (intervali NN so tisti intervali RR, ki so nastali zaradi depolarizacije sinusnega vozla, in b) kazalniki, ki jih dobimo z opazovanjem razlik med intervali NN. V praksi se najpogosteje uporabljajo: intervali NN (srednja vrednost intervalov NN), SDNN (standardna deviacija vseh intervalov NN), SDANN (standardna deviacija povprečnih NN intervalov, izračunanih iz 5-minutnih intervalov), RMSSD (kvadratni koren povprečne kvadrirane razlike med sosednjima intervaloma NN), indeks SDNN (sredina standardnih deviacij vseh intervalov NN, dobljenih iz 5-minutnih intervalov), SDSD (standardna deviacija razlike med sosednjima intervaloma NN) in pNN50 (pogostost sosednjih intervalov NN, ki se razlikujejo za več kot 50 ms). V sklopu časovne domene analize HRV poznamo tudi t. i. geometrijsko metodo, ki daje HRV triangularni indeks (skupno število intervalov NN deljeno s številom intervalov NN v modalnem binu), in TINN (triangularna interpolacija intervalov NN na histogramu). Kazalniki časovne domene v glavnem odslikavajo parasimpatično aktivnost (<xref ref-type="bibr" rid="b2">2</xref>).</p>
+            <p>Kazalce frekvenčne domene določamo iz kratkotrajnih, običajno 2- do 5-minutnih EKG posnetkov. Analiza temelji na razstavljanju zaporedja intervalov NN v skupine sinusnih krivulj različnih amplitud in frekvenc s pomočjo hitre Fourierjeve transformacije. Rezultat analize prikažemo kot višino spremenljivosti funkcije frekvenc, kar označujemo kot moč spektra. Pri frekvenčni analizi opazujemo celotno moč spektra (TP) v frekvenčnem intervalu med 0.01 in 0.4 Hz in moči posameznih območij: visokofrekvenčno komponento (HF, 0.15–0.4 Hz), ki je kazalnik vagalne aktivnosti, nizkofrekvenčno komponento (LF, 0.04–0.15 Hz), ki je kazalnik modulirane simpatične aktivnosti, in zelo nizkofrekvenčno komponento (VLF, 0.01–0.04 Hz), ki je zaenkrat še slabo pojasnjena, čeprav jo nekateri avtorji povezujejo z aktiviranjem renin-angiotenzin-aldosteronskega sistema. Kot taka naj bi odslikavala simpatične aktivnosti (<xref ref-type="bibr" rid="b17">17</xref>). Razmerje moči nizkofrekvenčne in visokofrekvenčne komponente (LF : HF) zrcali simpatično-vagusno ravnovesje (<xref ref-type="bibr" rid="b2">2</xref>).</p>
+         </sec>
+         <sec id="s2.2" sec-type="Nelinearne analize HRV">
+            <label>2.2</label>
+            <title>Nelinearne analize HRV</title>
+            <p>Nelinearne analize HRV temeljijo na matematiki kompleksne dinamike, teorije kaosa in fraktalne geometrije (<xref ref-type="bibr" rid="b12">12</xref>,<xref ref-type="bibr" rid="b16">16</xref>,<xref ref-type="bibr" rid="b18">18</xref>).</p>
+            <p>Dinamičnim sistemom ali procesom, ki so navidezno naključni, a v bistvu natančno uravnavani v skladu z lastnimi intrinzičnimi pravili, pravimo, da so kaotični oziroma so v stanju kaosa (<xref ref-type="bibr" rid="b19">19</xref>). V naravi kažejo lastnosti kaotičnega obnašanja številni procesi, kot so električni tokokrogi, oscilirajoče kemične reakcije ali dinamika različnih tekočin (<xref ref-type="bibr" rid="b19">19</xref>,<xref ref-type="bibr" rid="b20">20</xref>). Kaotični procesi tvorijo fraktale. To so geometrijski objekti, ki se lahko razdelijo na manjše dele, od katerih vsi odslikavajo strukturo prvotne celote: so samopodobni objekti, neodvisni od velikostnega razreda opazovanja. V naravi kažejo določeno stopnjo samopodobnosti oblaki, snežinke, nekatere rastline ali strele ob nevihtah. Študije zadnjih dveh desetletij so nedvomno dokazale, da kompleksno dinamično obnašanje v času in prostoru kažejo tudi biološki sistemi in procesi. V človeškem telesu kaže fraktalne lastnosti vrsta struktur, kot so razvejanost arterijskega in venskega sistema, bronhialnega vejevja in His-Purkinijevih živčnih snopov ter živčni prepleti v centralnem živčevju. Danes se ve, da kaotično vedenje izkazuje tudi srčni utrip. EKG zapis sicer nakazuje navidezno periodičnost, a je srčni utrip zdravega človeka v mirovanju zelo dinamičen proces. Ima lastnosti statistične samopodobnosti, ki se kaže v številnih časovnih velikostnih razredih, od nekaj milisekund do nekaj ur (<xref ref-type="bibr" rid="b12">12</xref>,<xref ref-type="bibr" rid="b16">16</xref>,<xref ref-type="bibr" rid="b18">18</xref>). Medtem ko so linearne analize HRV kompleksno dinamiko srčnega utripa zanemarile, kot da gre za »neuporabne šume«, pa nelinearne metode kažejo, da omenjena fraktalnost vsebuje vrsto pomembnih, doslej skritih informacij. V doslej opravljenih študijah se je izkazalo, da je razpad fraktalne organizacije srčnega utripa v čezmerni red ali v nepovezano naključje znak zmanjšane sposobnosti prilagajanja sistema na spremembe. Značilno je za staranje in različna bolezenska stanja (<xref ref-type="bibr" rid="b4">4</xref>,<xref ref-type="bibr" rid="b12">12</xref>).</p>
+            <p>Kompleksnosti fraktalov zaradi njihove nepravilnosti ni mogoče opisati s konvencionalnimi matematičnimi metodami in evklidsko geometrijo, pač pa jo opisuje Mandelbrotova fraktalna geometrija oziroma matematika kompleksne dinamike in teorije kaosa (<xref ref-type="bibr" rid="b12">12</xref>,<xref ref-type="bibr" rid="b16">16</xref>,<xref ref-type="bibr" rid="b19">19</xref>). Z uporabo omenjenih matematičnih metod v biomedicini so se odprle nove možnosti za analizo vrste navidezno nepravilnih bioloških struktur in pojavov (<xref ref-type="bibr" rid="b4">4</xref>,<xref ref-type="bibr" rid="b12">12</xref>,<xref ref-type="bibr" rid="b16">16</xref>,<xref ref-type="bibr" rid="b18">18</xref>). Za oceno dinamike srčnega utripa uporabljamo vrsto nelinearnih metod, med katerimi se najpogosteje uporabljajo detrendna fluktuacijska analiza (DFA), fraktalna dimenzija (FD), aproksimacijska entropija (ApEn), Hurstov eksponent (H), 1/f naklon, simbolna dinamika in eksponent Ljapunova (<xref ref-type="bibr" rid="b19">19</xref>). Nekateri avtorji celo menijo, da je časovna serija EKG zapisa tako nestacionarna in nehomogena, da je za verodostojen opis njene dinamike potrebno uporabiti večje število lokalnih fraktalnih eksponentov, kar je znano kot multifraktalna analiza (<xref ref-type="bibr" rid="b21">21</xref>).</p>
+            <p>Med omenjenimi nelinearnimi metodami se je v dosedanjih raziskavah analiza DFA izkazala kot najbolj verodostojen kazalnik kompleksne dinamike EKG zapisa (<xref ref-type="bibr" rid="b4">4</xref>,<xref ref-type="bibr" rid="b12">12</xref>,<xref ref-type="bibr" rid="b16">16</xref>,<xref ref-type="bibr" rid="b18">18</xref>). DFA je metoda kvantitativne ocene samopodobnosti nestacionarnih časovnih serij in temelji na detrendiranju časovnih nizov in določitvi trendne črte po načelu najmanših kvadratov napake. Pri tem dobimo premico, katere naklon predstavlja samopodobnostni koeficient α. Vrednosti α okoli 1 kažejo na samodopodnost časovne serije. DFA v logaritemskem grafu ne daje popolnoma linearne premice, pač pa »dvosegmentno premico«, ki jo sestavlja premica s točko lomljenja pri velikosti časovnega niza približno 11 intervalov RR. Zato številni avtorji raje izračunavajo eksponent vsakega dela dvosegmentne premice posebej, in sicer: kratkočasovni eksponent α 1 in dolgočasovni eksponent α 2. Vrednosti kazalca α 1 okoli 1,5 in α 2 okoli 1 kažejo na samopodobnost zapisa EKG (<xref ref-type="bibr" rid="b20">20</xref>).</p>
+            <p>Normalne vrednosti najpogosteje uporabljenih linearnih kazalnikov in najbolj uveljavljenega nelinearnega kazalnika DFA podaja <xref ref-type="table" rid="table1">Tabela 1</xref>.</p>
+            <table-wrap position="anchor" id="table1">
+               <label>Tabela 1:</label>
+               <caption>
+                  <p> Referenčne vrednosti najbolj uveljavljenih linearnih in nelinearnih kazalnikov variabilnosti srčne frekvence (povzeto po Report) (<xref ref-type="bibr" rid="b2">2</xref>).</p>
+               </caption>
+               <table>
+                  <colgroup>
+                     <col/>
+                     <col/>
+                     <col/>
+                     <col/>
+                     <col/>
+                  </colgroup>
+                  <thead>
+                     <tr>
+                        <th>Kazalnik</th>
+                        <th>Enote</th>
+                        <th>Opis</th>
+                        <th>Kazalnik aktivnosti</th>
+                        <th>Referenčne vrednosti (srednja vrednost ± SD)</th>
+                     </tr>
+                  </thead>
+                  <tbody>
+                     <tr>
+                        <th content-type="table-subhead" colspan="5">Linearni kazalniki časovne domene (24-urni posnetki)</th>
+                     </tr>
+                     <tr>
+                        <td>SDNN</td>
+                        <td>ms</td>
+                        <td>standardna deviacija vseh intervalov NN </td>
+                        <td>psy</td>
+                        <td>141 ± 39</td>
+                     </tr>
+                     <tr>
+                        <td>SDANN</td>
+                        <td>ms</td>
+                        <td>standardna deviacija povprečnih intervalov NN, izračunanih iz 5-minutnih intervalov</td>
+                        <td>psy</td>
+                        <td>127 ± 35</td>
+                     </tr>
+                     <tr>
+                        <td>RMSSD</td>
+                        <td>ms</td>
+                        <td>kvadratni koren povprečne kvadrirane razlike med sosednjima intervaloma NN </td>
+                        <td>psy</td>
+                        <td>27 ± 12</td>
+                     </tr>
+                     <tr>
+                        <td>HRV triangularni indeks</td>
+                        <td>N/A</td>
+                        <td>skupno število intervalov NN, deljeno s številom intervalov NN v modalnem binu</td>
+                        <td>psy</td>
+                        <td>37 ± 15</td>
+                     </tr>
+                     <tr>
+                        <th content-type="table-subhead" colspan="5">Linearni kazalniki frekvenčne domene (5–15 minutni posnetki)</th>
+                     </tr>
+                     <tr>
+                        <td>TP</td>
+                        <td>ms<sup>2</sup>
+                        </td>
+                        <td>celotna moč spektra v frekvenčnem intervalu med 0,01 in 0,4 Hz</td>
+                        <td/>
+                        <td>3466 ± 1018</td>
+                     </tr>
+                     <tr>
+                        <td>LF</td>
+                        <td>ms<sup>2</sup>
+                        </td>
+                        <td>nizkofrekvenčna komponenta spektra v frekvenčnem intervalu med 0,04 in 0,15 Hz </td>
+                        <td>sy</td>
+                        <td>1170 ± 416</td>
+                     </tr>
+                     <tr>
+                        <td>HF</td>
+                        <td>ms<sup>2</sup>
+                        </td>
+                        <td>visokofrekvenčna komponenta spektra v frekvenčnem intervalu med 0,15 in 0,4 Hz</td>
+                        <td>psy</td>
+                        <td>975 ± 203</td>
+                     </tr>
+                     <tr>
+                        <td>nLF</td>
+                        <td>nu</td>
+                        <td>nizkofrekvenčna komponenta spektra, izražena v normaliziranih enotah: LF/(TP–VLF)x100</td>
+                        <td>sy</td>
+                        <td>54 ± 4</td>
+                     </tr>
+                     <tr>
+                        <td>nHF</td>
+                        <td>nu</td>
+                        <td>visokofrekvenčna komponenta spektra, izražena v normaliziranih enotah: HF/(TP–VLF)x100</td>
+                        <td>psy</td>
+                        <td>29 ± 3</td>
+                     </tr>
+                     <tr>
+                        <td>LF/HF razmerje</td>
+                        <td>N/A</td>
+                        <td>razmerje med nizko- in visokofrekvenčno komponento spektra </td>
+                        <td/>
+                        <td>1,5-2,0</td>
+                     </tr>
+                     <tr>
+                        <th content-type="table-subhead" colspan="5">Nelinearni kazalniki (5–15 minutni posnetki)</th>
+                     </tr>
+                     <tr>
+                        <td>DFA α 1</td>
+                        <td>N/A</td>
+                        <td>kratkočasovni eksponent kvantitativne ocene samopodobnosti nestacionarnih časovnih serij</td>
+                        <td>psy</td>
+                        <td>1,5</td>
+                     </tr>
+                     <tr>
+                        <td>DFA α 2</td>
+                        <td>N/A</td>
+                        <td>dolgočasovni eksponent kvantitativne ocene samopodobnosti nestacionarnih časovnih serij</td>
+                        <td>sy</td>
+                        <td>1</td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table-wrap-foot>
+                  <p>OPOMBE: psy –  parasimpatična aktivnost, sy – simpatična aktivnost, VLF – zelo nizkofrekvenčna komponenta spektra v frekvenčnem intervalu med 0,01 in 0,04 Hz, DFA – detrendna fluktuacijska analiza, nu - normalizirane enote (angl. normalized units).</p>
+               </table-wrap-foot>
+            </table-wrap>
+         </sec>
+      </sec>
+      <sec id="s3"
+           sec-type="Spremembe HRV v različnih fizioloških in patofizioloških stanjih">
+         <label>3</label>
+         <title>Spremembe HRV v različnih fizioloških in patofizioloških stanjih</title>
+         <p>HRV je pri mladem, zdravem človeku velika in kaže na zdrav odgovor simpatično-vagusnega ravnovesja na minimalne spremembe v homeostazi. Delno zmanjšana je znak normalnega staranja organizma in kaže na postopno izgubo vagusne prevlade. Močno zmanjšana ali celo odsotna HRV je posledica povsem nenormalnega odgovora avtonomnega živčevja na motnje v homeostazi in je znak številnih srčno-žilnih bolezni, kot so koronarna bolezen, akutni koronarni sindrom, srčno popuščanje, nadprekatne in prekatne aritmije, diabetična nevropatija in stanja po miokardnem infarktu, operacijah na srcu in po presaditvi srca (<xref ref-type="bibr" rid="b2">2</xref>,<xref ref-type="bibr" rid="b4">4</xref>,<xref ref-type="bibr" rid="b5">5</xref>,<xref ref-type="bibr" rid="b12">12</xref>-<xref ref-type="bibr" rid="b18">18</xref>). Čeprav natančni patofiziološki mehanizmi, ki privedejo do zmanjšanja HRV pri teh patoloških stanjih, niso povsem pojasneni, pa obstaja kar nekaj teorij, ki pri posameznih boleznih opredeljujejo najverjetnejše vzroke za porušenje simpatično-vagusnega ravnovesja (<xref ref-type="bibr" rid="b2">2</xref>). Po eni od terorij je padec HRV pri bolnikih z miokardnim infarktom posledica aktiviranja kardialnih simpatično-simpatičnih in simpatično-vagusnih refleksov, pri čemer naj bi spremembe v geometriji krčenja prekatov (kot posledica nekrotičnega in/ali hibernirajočega miokarda) izzvale mehanično motnjo senzoričnih končičev in s tem povzročile povečano proženje simpatičnih aferentnih vlaken. To v končni fazi pripelje do prevlade simpatičnega vpliva nad vagalnim vplivom na SA vozel (<xref ref-type="bibr" rid="b2">2</xref>). Pri bolnikih, pri katerih je po miokardnem infarktu opazen izjemen padec HRV, je verjetnejši vzrok zmanjšana odzivnost vozla SA na nevromodulacijo (<xref ref-type="bibr" rid="b2">2</xref>). Pri sladkorni bolezni je padec HRV lahko posledica nevropatije kardialnega vegetativnega živčevja, ki je povezana z moteno presnovo glukoze in vnetjem; ali pa gre za posledico okrnjene hipotalamične eferentne spodbude za sproščanje inzulina in hkrati za aktivacijo vagusa (<xref ref-type="bibr" rid="b2">2</xref>). Pri srčnem popuščanju je mogoče zmanjšano HRV razložiti s porušeno hemodinamiko srca, hkrati pa za prevlado simpatičnega živčevja zaradi aktiviranja kompleksnih kompenzacijskih mehanizmov, do katerih prihaja v sklopu sindroma popuščanja srca. V takšnih pogojih postane vozel SA povsem neodziven na nevronske stimulacije (<xref ref-type="bibr" rid="b2">2</xref>). Pri bolnikih po presaditvi srca je porušeno simpatično-vagusno ravnovesje posledica popolne denervacije donorskega srca in izoliranega odziva srčne mišice na krožeče kateholamine (<xref ref-type="bibr" rid="b2">2</xref>). HRV je močno spremenjena tudi po kakršnih koli posegih na srcu. Naša raziskovalna skupina je v dosedanjih študijah ugotovila, da je HRV močno zmanjšana tako po operacijah na mirujočem kot po operacijah na delujočem srcu in da ostaja prizadeta še vsaj 4 tedne po posegu, kar pomeni, da stres ob operaciji in okvara kardialnega živčevja zaradi manipuliranja s srcem in velikimi žilami med operacijo vodijo v simpatično prevlado, ki ne izzveni vsaj nekaj tednov po kirurškem posegu (<xref ref-type="bibr" rid="b22">22</xref>,<xref ref-type="bibr" rid="b23">23</xref>).</p>
+         <p>Linearni kazalniki frekvenčne domene TP, HF, LF in VLF so statistično značilno nižji pri bolnikih s koronarno boleznijo, srčnim popuščanjem in po miokardnem infarktu, kar kaže na zmanjšano vagusno in/ali povečano simpatično uravnavanje ritma pri teh posameznikih (<xref ref-type="bibr" rid="b2">2</xref>). V primerih povišanega simpatičnega tonusa pride tudi do znižanja vseh parametrov časovne domene linearne analize HRV (<xref ref-type="bibr" rid="b2">2</xref>).</p>
+         <p>Linearni kazalniki frekvenčne domene so se izkazali kot dobri napovedni dejavniki za nenadno srčno smrt, za umrljivost po miokardnem infarktu (MI) in za pojav poinfarktnih aritmičnih dogodkov (<xref ref-type="bibr" rid="b2">2</xref>,<xref ref-type="bibr" rid="b24">24</xref>-<xref ref-type="bibr" rid="b26">26</xref>). Kot ena najboljših napovednikov umrljivosti po MI sta se v študijah izkazala kazalnika SDNN in SDANN (<xref ref-type="bibr" rid="b2">2</xref>). Študija ATRAMI je pokazala, da bolniki po MI, pri katerih je SDNN (določena iz 24-urnih EKG posnetkov) &lt; 70 ms, v prvih 21 mesecih po MI 3,2-krat hitreje umirajo kot bolniki s SDNN &gt; 100 ms (<xref ref-type="bibr" rid="b24">24</xref>). Podobno je študija MPIP pokazala, da imajo bolniki po AMI s SDNN &lt; 50 ms ( v primerjavi z bolniki s SDNN &gt; 100 ms) 5,3-krat večjo verjetnost za umrljivost v prvih 31 mesecih po infarktu (<xref ref-type="bibr" rid="b24">24</xref>,<xref ref-type="bibr" rid="b25">25</xref>). Bolniki s poinfarktno VT imajo v primerjavi z bolniki s poinfarktnim sinusnim ritmom značilno nižje vrednosti LF. Pred pojavom simpatično ali vagusno modulirane AF se značilno znižajo vrednosti RMSSD, HF in razmerja LF : HF (<xref ref-type="bibr" rid="b26">26</xref>). Bolniki z višjimi vrednostmi linearnih kazalnikov HRV imajo manj prekatnih motenj srčnega ritma, kar nakazuje na zaščitno vlogo vagusnega tonusa pri pojavu prekatnih aritmij. Pri bolnikih s koronarno boleznijo je za vsak porast kazalnikov HF, SDNN, RMSSD oziroma pNN20 za stopnjo 1 SD verjetnost za hemodinamsko pomembnost stenoze 0,77-krat, 0,75-krat, 0,72-krat ozirom 0,76-krat nižja (<xref ref-type="bibr" rid="b24">24</xref>). Znižana HRV je neodvisni napovednik umrljivosti tudi pri bolnikih s srčnim popuščanjem. Študija UK-Heart je pokazala, da je letna umrljivost bolnikov v razredih NYHA I-III 5,5 % za SDNN &gt; 100 ms, 12,7 % za SDNN med 50 in 100 ms ter 51,4 % za SDNN &lt; 50 ms (<xref ref-type="bibr" rid="b24">24</xref>). Poleg tega je pri bolnikih s srčnim popuščanjem vrednost SDANN ≤ 65 ms pred pričetkom resinhronizacijskega zdravljenja (CRT) ali SDANN ≤ 76 ms 4 tedne po vsaditvi spodujevalca CRT neodvisni napovedni dejavnik napredovanja popuščanja srca do te mere, da je potrebna presaditev srca (<xref ref-type="bibr" rid="b24">24</xref>,<xref ref-type="bibr" rid="b25">25</xref>).</p>
+         <p>V primerih različnih srčno-žilnih bolezni so značilno spremenjeni tudi nelinearni kazalniki HRV, ki so boljši kazalniki napredovalosti teh bolezni in boljši napovedni dejavniki za pojav neželenih dogodkov kot linearni kazalniki (<xref ref-type="bibr" rid="b12">12</xref>-<xref ref-type="bibr" rid="b18">18</xref>,<xref ref-type="bibr" rid="b24">24</xref>-<xref ref-type="bibr" rid="b26">26</xref>). Nelinearni kazalniki so v glavnem pod vplivom parasimpatične veje avtonomnega živčevja in manj pod vplivom simpatikusa, zato tudi večina parametrov, kot so α 1, average FD in ApEn, jasno zrcali vagusno aktivnost, in le redki, kot so naklon α 2 in 1/f, simpatično aktivnost. Bolniki s poinfarktno značilno višjimi vrednostmi nelinearnih in enakimi vrednostmi linearnih kazalnikov imajo po miokardnem infarktu daljše preživetje (<xref ref-type="bibr" rid="b25">25</xref>-<xref ref-type="bibr" rid="b27">27</xref>). Kazalnik α 1 se je izkazal kot neodvisni napovedni dejavnik za pojav benignih in malignih motenj srčnega ritma, nenadno srčno smrt in umrljivost pri bolnikih z znižanim iztisnim deležem levega prekata. Statistično značilen padec kazalnika se opaža tudi po posegih na delujočem in mirujočem srcu. Poleg tega spremembe parametra α 1 zelo dobro odslikavajo tudi normalni proces staranja organizma (<xref ref-type="bibr" rid="b12">12</xref>-<xref ref-type="bibr" rid="b18">18</xref>,<xref ref-type="bibr" rid="b24">24</xref>-<xref ref-type="bibr" rid="b27">27</xref>).</p>
+         <p>Zanimive in zato omembe vredne so tudi povezave HRV ter vnetja, stresa in hormonskih motenj. Vnetje, ki je osnovni varovalni odziv organizma na mikrobno okužbo ali poškodbo, je skrbno nadzorovan proces, ki ga pomembno vodi in uravnava prav avtonomno živčevje (<xref ref-type="bibr" rid="b28">28</xref>), prvenstveno preko vagusno modulirane holinergične protivnetne poti (<xref ref-type="bibr" rid="b29">29</xref>). Metaanalize študij zadnjih dveh desetletij kažejo, da obstaja obratnosorazmerna povezava med z vagusom moduliranimi kazalniki HRV in laboratorijskimi kazalniki vnetja, kar dokazuje, da igra parasimpatična veja avtonomnega živčevja v vnetnem refleksu dominantno vlogo in da deluje protivnetno, medtem ko (v tem primeru) manj pomembna simpatična veja avtonomnega živčevja deluje bodisi pro- bodisi protivnetno. Stopnjo vnetja lahko verodostojno določamo z vagusno moduliranimi kazalniki HRV (<xref ref-type="bibr" rid="b29">29</xref>). Po Selyevi teoriji je stres stanje ogrožene homeostaze, ki ga povzročajo notrajni ali zunaji stresorji in na katerega se zdrav organizem odzove s t. i. stresnim odgovorom (<xref ref-type="bibr" rid="b30">30</xref>). Aktivnost avtonomnega živčnega sistema je temelj stresnega odgovora in vključuje tako aktivnost simpatične kot tudi parasimpatične veje. Medtem ko organizem v fazi akutnega stresa homeostazo dosega s finim uravnavanjem simpatično-vagusnega ravnovesja, pa v fazah kroničnega stresa ob stalnem povečanju krožečih kateholaminov in kortizola privede do porušenja simpatično-vagusnega ravnovesja. Tako parasimpatična veja ni zmožna odgovoriti na stresorje in hkratno simpatično prevlado, kar je razlog za zmanjšanje HRV v fazah kroničnega stresa (<xref ref-type="bibr" rid="b30">30</xref>). Hormonske motnje, tako kot ostali stresorji, dolgotrajno in kronično rušijo homeostazo v organizmu in kvarijo simpatično-vagusno ravnovesje ter spreminjanjo HRV (<xref ref-type="bibr" rid="b2">2</xref>,<xref ref-type="bibr" rid="b30">30</xref>).</p>
+         <p>Prav tako so v klinični praksi pomembni podatki o vplivu različnih zdravil na kazalnike HRV. Zdravljenje z beta adrenergičnimi blokatorji povečuje variabilnost intervalov RR in s tem HRV. Nekateri antiaritmiki, tako kot sta fekainid in propafenon, zmanjšujejo HRV, medtem ko zdravljenje z amiodaronom ne vpliva na kazalnike HRV. Antagonista muskarinskih receptorjev, kot sta atropin in skopalamin, povečujeta vagusno aktivnost in s tem HRV (<xref ref-type="bibr" rid="b2">2</xref>).</p>
+         <p>Ko govorimo o kliničnem pomenu in napovednih vrednostih HRV v različnih fizioloških ali bolezenskih stanjih, pa se je seveda potrebno zavedati tudi nekaterih omejitev, ki jih analiza variabilnosti intervalov RR ima: a) HRV so v dosedanjih študijah praviloma preučevali kot opazovani dogodek (kazalnik zdravja), ne pa kot osrednji predmet raziskovanja (npr. zakaj sploh obstaja, kakšni so celični mehanizmi njenega nastanka in vzdrževanja in podobno), zato ostaja zaenkrat veliko nerazjasnjenih vprašanj o njenem pomenu; b) medtem ko so linearni parametri HRV že dobro poznani in uveljavljeni, pa so nelinearni kazalniki HRV zaenkrat razmeroma slabo opredeljeni, redko validirani (vsaka raziskava namreč ponuja svoj parameter) ter omejeno verificirani tako glede normalnih vrednosti kot glede njihove napovedne vloge v različnih patoloških stanjih; c) zaradi izrazite individualne variabilnosti HRV jo še vedno preučujejo na ravni populacije oziroma izjemno velikih skupin preiskovancev (<xref ref-type="bibr" rid="b2">2</xref>,<xref ref-type="bibr" rid="b18">18</xref>).</p>
+      </sec>
+      <sec id="s4" sec-type="Spremembe HRV ob telesni dejavnosti">
+         <label>4</label>
+         <title>Spremembe HRV ob telesni dejavnosti</title>
+         <p>Redna intenzivna aerobna vadba pripelje do vrste prilagoditvenih mehanizmov organizma, ki omogočajo povečano dostavo kisika v aktivno mišičnino in zadostno perfuzijo tarčnih organov v fazi napora oziroma telesne vadbe in so vidni tudi v mirovanju (<xref ref-type="bibr" rid="b1">1</xref>,<xref ref-type="bibr" rid="b6">6</xref>,<xref ref-type="bibr" rid="b7">7</xref>-<xref ref-type="bibr" rid="b9">9</xref>). Do teh prilagoditev pride zaradi kompleksnih sprememb na molekularni celični ravni, in sicer od spremenjene ekspresije genov in delovanja encimov do sprememb v hormonskih stanjih, receptorskih odzivih in delovanju tarčnih organov. Ob zadostnem treningu se ti mehanizmi sprožijo ne glede na raso, spol in starost posameznika v prvih 2 do 3 mesecih redne vadbe. Za približno 25 % izboljšajo izhodiščne vrednosti v mirovanju pri dobro treniranih posameznikih. Prilagoditve, kot so znižanje srčne frekvence v mirovanju in ob submaksimalnem naporu (medtem ko se maksimalna frekvenca srca običajno ne spremeni ali pa pride le do manjšega znižanja), povečan utripni in minutni volumen srca in zmanjšana predihanost ob submaksimalnih naporih so v največji meri posledica sprememb v delovanju avtonomnega uravnavanja srca, ki je posledica telesne dejavnosti (<xref ref-type="bibr" rid="b6">6</xref>-<xref ref-type="bibr" rid="b9">9</xref>).</p>
+         <p>Posamezniki, izpostavljeni rednim aerobnim obremenitvam, imajo v mirovanju značilno višji vagusni tonus kot posamezniki, ki takšnim telesnim obremenitvam niso izpostavljeni. Višji vagusni tonus telesno aktivne posameznike ščiti pred nenadno smrtjo, pred razvojem srčno-žilnih bolezni ter pred benignimi in malignimi motnjami ritma. Natančni mehanizmi, ki pripeljejo do povišanja vagusne modulacije pri teh ljudeh, niso povsem znani. Vsaj del spremembe avtonomnega živčevja pa se zgodi zaradi spremenjene ravni angiotenzina II in nitričnega oksida (<xref ref-type="bibr" rid="b7">7</xref>). Primerjave dobro treniranih atletov z vrstniki, ki niso telesno dejavni, so pokazale, da imajo atleti nižjo raven plazemskega renina in zato nižjo raven angiotenzina II, ki znižuje aktivnost vagusa. Ob nižjih ravneh angiotenzina II se torej poveča vagusna modulacija. Poleg tega redna aerobna vadba povečuje endotelno funkcijo, s čimer se viša raven razpoložljivega nitričnega oksida, ki neposredno zvišuje vagusni in znižuje simpatični tonus (<xref ref-type="bibr" rid="b7">7</xref>).</p>
+         <p>Neposredno med aerobno vadbo narasteta srčna frekvenca in minutni volumen srca zato, da telo zagotovi zadostno količino kisika v aktivni mišičnini in zadostno perfuzijo vitalnih organov (<xref ref-type="bibr" rid="b1">1</xref>). V začetni fazi vadbe oziroma ob manjših obremenitvah je naraščanje srčne frekvence in minutnega volumna posledica zmanjšanega tonusa vagusa, ko posameznik doseže približno 40 % svoje maksimalne aerobne zmogljivosti (tedaj je srčna frekvenca običajno okoli 100 utripov na minuto), Ob manjšanju vagusnega tonusa se začne hkrati povečevati tudi simpatična aktivnost (<xref ref-type="bibr" rid="b7">7</xref>). Ob maksimalnih naporih, ko posameznik doseže (sub)maksimalno aerobno zmogljivost in (sub)maksimalno srčno frekvenco, je prisotna zelo povišana simpatična aktivnost ob hkratni praktično izničeni vagusni modulaciji. Maksimalna aerobna zmogljivost se pri dobro treniranih posameznikih lahko močno dvigne in velja za najboljši kazalnik pripravljenosti oziroma treniranosti športnika. Po kratkotrajni (10- do 20-minutni) (sub)maksimalni vadbi se vagusna aktivnost dvigne na izhodiščne ravni v nekaj minutah, po dolgotrajni vadbi pa šele po nekaj urah ali dneh. Pri bolje treniranih športnikih se avtonomna regulacija srca popravlja hitreje kot pri slabše treniranih, trajanje popravljanja HRV pa lahko služi tudi kot kazalnik natreniranosti športnika oziroma njegove telesne pripravljenosti.</p>
+         <p>V skladu s spremembami simpatično-vagusnega ravnovesja se ob redni in intenzivni aerobni vadbi poveča tudi variabilnost srčne frekvence, kar je odraz zdravega odgovora srca na spremembe v homeostazi (<xref ref-type="bibr" rid="b1">1</xref>,<xref ref-type="bibr" rid="b7">7</xref>). Posamezniki, izpostavljeni redni aerobni vadbi, imajo povišane vse linearne kazalnike, ki zrcalijo vagusno aktivnost, kazalnik α 1 pa je pri teh posameznikih okoli 1,5, kar kaže na večjo stopnjo samopodobnosti zapisa EKG. Neposredno med aerobno vadbo padejo vsi linearni kazalniki, ki odslikavajo vagusno aktivnost, in naraščajo linearni kazalniki, ki odslikavajo simpatično aktivnost. Zanimivo pa je, da se po začetnem padcu linearni kazalniki kljub stopnjevanju aerobne obremenitve ne znižujejo več. Nasprotno pa se dogaja pri nelinearnih kazalnikih. Pri nižji stopnji obremenitve kaže kazalnik α 1 izgubo samopodobnosti zapisa EKG s spreminjanjem proti Brownovemu šumu oziroma t. i. naključnemu hodu, ko posameznik preseže obremenitev, ki znaša približno 40 % maksimalne aerobne zmogljivosti (torej je na meji). Ko pa se padcu vagusne modulacije pridruži še postopno naraščanje simpatične aktivnosti, prične α 1 linearno padati proti belemu šumu ali popolni ne- oziroma antikorelaciji zapisa EKG (<xref ref-type="bibr" rid="b6">6</xref>-<xref ref-type="bibr" rid="b9">9</xref>).</p>
+         <p>Vzdržljivost rekreativnega ali profesionalnega športnika in njegovo treniranost lahko danes objektiviziramo z vrsto »kazalnikov vzdržljivosti«, kot sta denimo ventilacijski prag in točka respiracijske kompenzacije, ki veljata za najpogosteje uporabljena kazalnika telesne pripravljenosti posameznika. Kazalce vzdržljivosti ocenjujemo v posebej prilagojenih športno- kardioloških laboratorijih s plinsko analizo vdihanega in izdihanega zraka in s krvnimi preiskavami za določitev ravni laktata med različnimi stopnjami (sub)maksimalne aerobne in anaerobne obremenitve, kar pomeni, da gre za tehnično zahtevnejše, dražje in zamudnejše preiskovalne metode (<xref ref-type="bibr" rid="b7">7</xref>-<xref ref-type="bibr" rid="b9">9</xref>). V zadnjih letih je vrsta raziskav dokazala, da med telesno obremenitvijo spremembe kazalnikov HRV dobro sovpadajo s spremembami ventilacijskih krivulj, pridobljenih med klasično plinsko analizo vdihanega in izdihanega zraka med obremenitvenim testiranjem (<xref ref-type="bibr" rid="b31">31</xref>,<xref ref-type="bibr" rid="b32">32</xref>). Natančni mehanizmi povezave med ventilacijo in HRV zaenkrat niso še povsem pojasnjeni. Najverjetneje pa zdrav organizem ob spremembah krvnega tlaka, tkivnega metabolizma in cirkulirajočih hormonov preko sprememb v simpatično-vagusnem ravnovesju dosega novo homeostazo. Ugotovitve, da bi bilo iz sprememb kazalnikov HRV možno neinvazivno in dokaj enostavno določiti tudi kazalnike vzdržljivosti, kot so aerobni in anaerobni ventilacijski prag, maksimalna poraba kisika in točka respiracijske kompenzacije, so med profesionalnimi športniki in trenerji še bolj popularizirale metodo analize HRV. Študije kažejo, da aerobni ventilacijski prag najlažje določamo z opazovanjem sprememb nelinearnih kazalnikov HRV (npr. Poincarejevih skupin). Anaerobni prag pa določamo z opazovanjem sprememb linearnih kazalnikov (npr. kazalnika vagusne modulacije HF) (<xref ref-type="bibr" rid="b31">31</xref>-<xref ref-type="bibr" rid="b33">33</xref>). Klinično najbolj zanimivi so dokazi, da pomembne spremembe linearnih kazalnikov HRV (pomemben padec vagusnih kazalnikov in/ali pomemben porast sinaptičnih kazalnikov) – merjene med naraščajočo intenziteto vadbe – izjemno dobro sovpadajo z nastopom anaerobnega praga, pri katerem se začne eksponentno kopičenje laktata v krvi. Omenjene statistično značilno pomembne spremembe kazalnikov HRV kažejo na pomeben padec vagusne aktivnosti v trenutku nastopa anaerobnega praga in popolno simpatično prevlado (<xref ref-type="bibr" rid="b31">31</xref>-<xref ref-type="bibr" rid="b33">33</xref>). Prav tako so klinično izjemno zanimive raziskave zadnjih let, ki dokazujejo, da je možno z uporabo uravnoteženih modelov – ob uravnoteženem upoštevanju antropometričnih podatkov (starost, spol, višina, delež mašobe in mišičja v telesu), srčne frekvence v mirovanju ter linaernih in nelinearnih kazalnikov HRV – na neinvaziven način določiti tudi maksimalno porabo kisika, ki velja za enega najboljših kazalnikov funkcionalne sposobnosti športnikov (<xref ref-type="bibr" rid="b34">34</xref>,<xref ref-type="bibr" rid="b35">35</xref>). Ker pa je zaenkrat podatkov malo, na žalost še ne moremo z gotovostjo trditi, kakšni sta specifičnost in občutljivost teh neinvazivnih in za športnike izjemno dobrodošlih novih neinvazivnih metod (<xref ref-type="bibr" rid="b31">31</xref>-<xref ref-type="bibr" rid="b35">35</xref>).</p>
+         <p>Intenzivna aerobna vadba načeloma pri vseh posameznikih podobno spreminja simpatično-vagusno ravnovesje in kazalnike HRV. Kljub temu pa je dejansko stanje avtonomnega ravnovesja (in zato tudi vrednosti kazalnikov HRV) pri vsakem posameznem športniku odvisno od vrste dejavnikov, kot so vrsta športne panoge (ni torej vseeno, ali gre npr. za tekače, kolesarje, smučarje ali biatlonce), načini treninga (prevladujoča aerobna ali anaerobna vadba), intenzivnosti obremenitev, trajanje intervalov vadbe in počitka in ne nazadnje tudi začetna aerobna treniranost posameznika (<xref ref-type="bibr" rid="b6">6</xref>-<xref ref-type="bibr" rid="b9">9</xref>). Ob tako izraziti individualni razliki v statusu avtonomnega sistema pri dobro treniranih športnikih je zaenkrat nemogoče natančneje določiti, katere vrednosti kazalnikov HRV veljajo pri posamezniku za »normalne« in pri katerih vrednostih postanejo klinično pomembno spremenjene. Zato danes večina športnikov HRV uporablja za samonadziranje; vrednosti pri posamezniku so torej v različnih fazah treninga in v različnih stopnjah treniranosti kontrola samemu sebi. Za pravilno samonadziranje se najpogosteje svetuje, da si posamezniki izmerijo t. i. bazalno HRV po 7 do 10 dneh počitka (interval brez treninga), najbolje zgodaj zjutraj, po približno petih minutah stanja, po mikciji in pred vnosom hrane. S tem zagotovimo najbolj stvarno oceno bazalne vagusne modulacije, ki je ne motijo dnevna telesna dejavnost, metabolizem po vnosu hrane in stres. Nato naj v fazi ponovne aerobne vadbe redno spremljajo kazalnike HRV in trenirajo v skladu z dobljenimi rezultati: če se vagusna aktivnost poveča glede na osnovno raven, lahko povečujejo inteziteto treninga, če pa je znižana, naj zmanjšujejo intenziteto aerobne vadbe (<xref ref-type="bibr" rid="b31">31</xref>,<xref ref-type="bibr" rid="b32">32</xref>) Kadar je HRV znižana skozi daljši čas in se ne popravlja kljub zmanjšanju telesne dejavnosti, govorimo o sindromu pretreniranosti (<xref ref-type="bibr" rid="b36">36</xref>). Pretreniranost nastopi takrat, kadar sta intenziteta in pogostost vadbe takšni, da telo v fazah počitka med vadbo ni sposobno za normalno regeneriranje. Sindrom pretreniranosti označuje stalna prevlada simpatikusa tako v mirovanju kot v fazi vadbe (<xref ref-type="bibr" rid="b36">36</xref>).</p>
+      </sec>
+      <sec id="s5" sec-type="Ocene HRV s komercialnimi merilci srčnega utripa">
+         <label>5</label>
+         <title>Ocene HRV s komercialnimi merilci srčnega utripa</title>
+         <p>Do nedavnega smo za določanje kazalnikov HRV uporabljali izključno klasične merilnike EKG, ki zaradi svojih tehnoloških dispozicij omogočajo snemanje kratkočasovnih ali holterskih EKG zapisov v kontroliranih laborarotijskih pogojih ali ob vsakdanjem življenju v domačem okolju z le zmerno telesno dejavnostjo. S tehnološkim razvojem komercialnih merilcev srčnega utripa in računalniško podprtimi sistemi za izračunavanje variabilnosti pa so se odprle možnosti opazovanja HRV v vsakodnevnem, resničnem življenju pozameznika: v fazah zmernih ali (sub)maksimalnih obremenitev, v fazah rednih in intervalnih obremenitev, v fazah počitka in regeneracije, v dnevnih in nočnih intervalih ali med ukvarjanjem z različnimi športnimi panogami (<xref ref-type="bibr" rid="b10">10</xref>,<xref ref-type="bibr" rid="b11">11</xref>,<xref ref-type="bibr" rid="b37">37</xref>). Ob tem se seveda porajata dve vprašanji: (<xref ref-type="bibr" rid="b1">1</xref>) ali komercialno dostopni merilci dovolj dobro zajemajo informacije o dejanskih RR intervalih (ali torej resnično zazanavajo utrip srca ali morda le šum zaradi tresljajev pri športni dejavnosti); (<xref ref-type="bibr" rid="b2">2</xref>) ali računalniški sistemi, ki izračunavajo kazalnike HRV iz tako dobljenih podatkov verodostojno izračunavajo variabilnost. Študije zadnjih let nakazujejo, da sta oba odgovora pritrdilna (<xref ref-type="bibr" rid="b10">10</xref>,<xref ref-type="bibr" rid="b11">11</xref>,<xref ref-type="bibr" rid="b37">37</xref>,<xref ref-type="bibr" rid="b38">38</xref>). Ob primerjavi bolnišničnih holterskih sistemov in komercialno dostopnih merilcev se je izkazalo, da komercialno dostopni merilci srčnega utripa verodostojno in zanesljivo zajemajo resnične intervale RR, pripadajoči računalniški sistemi pa verodostojno in zanesljivo prečistijo posnetke in podajo primerljive izračune variabilnost srčne frekvence. Večina danes dostopnih komercialnih merilcev srčnega utripa izračunava linearne kazalnike HRV.</p>
+         <p>Ugotovitev, da dajejo komercialni merilci verodostojne vrednosti HRV, ki so primerljive z vrednostmi, pridobljenimi v kardioloških laboratorijih, odpira nove možnosti tudi pri izvajanju preiskav pri običajnem kliničnem delu (<xref ref-type="bibr" rid="b37">37</xref>,<xref ref-type="bibr" rid="b38">38</xref>). Medtem ko je uporaba bolnišničnih sistemov pogosto draga, bolniku neprijazna, manj funkcionalna in težje dostopna, pa je uporaba komercilanih merilcev v teh pogledih – ravno nasprotno – lažje dostopna, bistveno cenejša, bolniku bolj prijazna in omogoča normalne vsakdanje aktivnosti in tudi večje telesne obremenitve v najrazličnejših okoljih. Seveda pa ostaja dejstvo, da večina komercilanih merilcev utripa podaja samo intervale RR, medtem ko bolnišnični sistemi vsebujejo tudi večkanalne posnetke EKG, ki so za klinične in terapevtske odločitve pogosto nujno potrebni.</p>
+         <p>Za klinika, ki se v svojem vsakdanjem delu srečuje s posamezniki, ki uporabljajo merilce srčnega utripa in se nanj obračajo z vprašanji o interpretaciji rezultatov in o nasvetih glede telesne vadbe, je ključno, katere podatke od bolnika/športnika sploh lahko pričakuje, in kaj lahko takšnemu posamezniku na podlagi teh podatkov svetuje. Velika večina danes široko dostopnih in uporabljanih merilcev srčnega utripa iz izmerjenih intervalov RR izračunava močan vagusni linearni kazalnik, kot so na primer RMSSD, SDNN, pNN50 ali HF, pred interpretiranjem rezultatov pa je potrebno vedeti, kateri kazalnik je izračunan, saj imajo različni kazalniki različne ciljne vrednosti. Potrebno je vedeti, da so ravni kazalnikov HRV individualno različni in da imajo iz različnih študij dobljene ciljne vrednosti velik standardni odklon, kar pomeni, da je težko in nesmiselno primerjati posameznike med seboj. Bistveno bolj zanesljiva je primerjava bolnika/športnika samega s seboj v različnih obdobjih ali v obdobjih različnih faz treningov oziroma različnih telesnih obremenitvah. Poleg tega je pomembno zavedanje, da ena sama meritev kazalnikov HRV nima velike napovedne vrednosti, pač pa je potrebno posamezno meritev vedno primerjati s trendom gibanja kazalnika HRV v daljšem obdobju pri vsakem uporabniku posebej. Prav zato je uporabnike treba opomniti, da bodo prve smiselne ocene in interpretacije rezultatov možne šele po nekaj tednih redne uporabe merilne naprave, ko se bodo izdelale že prve trendne krivulje posameznikovega HRV. Podatki bodo z večanjem števila opravljenih meritev postajali vse zanesljivejši, saj bodo trendne krivulje vse bolj verodostojno odslikavale variabilnost srčne frekvence pri vsakem posamezniku. Uporabnikom je potrebno povedati, da so manjši padci HRV od njihovih lastnih trednih krivulj med fazami treninga normalni. V takšnih primerih je potrebno zmanjšati stopnjo aktivnosti ter telesu dopustiti, da se normalno regenerira. To se pokaže s ponovnim dvigom HRV. Veliki padci HRV, ki se ne popravljajo kljub zmanjšanju telesne obremenitve, pa že kažejo na sindrom pretreniranosti. V tem primeru je nujno daljše obdobje regeneriranja s prenehanjem izjemnega telesnega napora (<xref ref-type="bibr" rid="b36">36</xref>).</p>
+      </sec>
+      <sec id="s6" sec-type="Zaključek">
+         <label>6</label>
+         <title>Zaključek</title>
+         <p>HRV, ki med kardiologi in elektrofiziologi že desetletja velja za zlati standard pri oceni avtonomne regulacije srca, je v zadnjih letih zapustila kardiološke laboratorije in si z razvojem novih tehnologij utira pot v svet športa ter rekraeativcem in profesionalcem odpira nove možnosti kontroliranega treninga v vsakdanjem življenju. Hkrati pa je potrebno biti ob interpretaciji rezultatov HRV previden, saj lahko nepravilno razumevanje fizioloških osnov in napačna interpretacija sprememb kazalnikov HRV ob naporih sili posameznika v nezdrav in škodljiv način vadbe. Zdravi, mladi ljudje imajo veliko variabilnost srčne frekvence, ki se izgublja s staranjem in srčno-žilnimi boleznimi. Dobro trenirani, vzdržljivi športniki imajo veliko HRV, kar pomeni, da imajo močno povišan vagusni tonus. Med telesno aktivnostjo se začne HRV manjšati, in se popolnoma izgubi v območju maksimalne obremenitve, ko prevlada simpatikusa popolnoma prevladuje ob praktično izničeni vagusni aktivnosti. Čim večja je vzdržljivost posameznika oziroma njegova telesna pripravljenost, tem dlje bo ob stopnjevanju napora tak športnik imel višji vagusni tonus in s tem ohranjeno večjo HRV. Manjši padci HRV med fazami treninga so normalni. V teh primerih je nujno potrebno zmanjšati stopnjo aktivnosti ter telesu dopustiti normalno regeneriranje, ki se kaže s ponovnim dvigom vagusne aktivnosti oziroma z dvigom HRV. Veliki padci HRV, ki se ne popravijo kljub zmanjšanju telesne obremenitve, kažejo na sindrom pretreniranosti. Gre za treniranost, ki telesu ne omogoča normalnega regeneriranja v fazah počitka med treningi in se kaže s stalno prevlado simpatikusa tako v mirovanju kot v fazi vadbe.</p>
+      </sec>
+   </body>
+   <back>
+      <ref-list>
+         <ref id="b1">
+            <label>1. </label>
+            <mixed-citation publication-type="book">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Berne</surname>
+                     <given-names>RM</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Levy</surname>
+                     <given-names>MN</given-names>
+                  </name>
+                    </person-group>. 
+                    <source>Cardiovascular physiology</source>. 
+                    <publisher-loc>St. Luis</publisher-loc>:
+                    <publisher-name>Mosby Year Book</publisher-name>;
+                    <year>1992</year>. pp. 
+                    <fpage>81</fpage>–
+                    <lpage>112</lpage>.
+                </mixed-citation>
+         </ref>
+         <ref id="b2">
+            <label>2. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <collab>Task force of the European Society of Cardiology and the North American Society of Pacing Electrophysiology</collab>
+                    </person-group>. 
+                    <article-title>Special Report. Heart rate variability. Standard of measurement, physiological interpretation, and clinical use</article-title>. 
+                    <source>Circulation</source>. 
+                    <year>1996</year>;
+                    <volume>93</volume>(
+                    <issue>5</issue>):
+                    <fpage>1043</fpage>–
+                    <lpage>65</lpage>. 
+                    <pub-id pub-id-type="doi">10.1161/01.CIR.93.5.1043</pub-id>
+                    <pub-id pub-id-type="pmid">8598068</pub-id>
+                    <issn>0009-7322</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b3">
+            <label>3. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Chen</surname>
+                     <given-names>PS</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Chen</surname>
+                     <given-names>LS</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Cao</surname>
+                     <given-names>JM</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Sharifi</surname>
+                     <given-names>B</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Karagueuzian</surname>
+                     <given-names>HS</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Fishbein</surname>
+                     <given-names>MC</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Sympathetic nerve sprouting, electrical remodeling and the mechanisms of sudden cardiac death</article-title>. 
+                    <source>Cardiovasc Res</source>. 
+                    <year>2001</year>
+                    <month>May</month>;
+                    <volume>50</volume>(
+                    <issue>2</issue>):
+                    <fpage>409</fpage>–
+                    <lpage>16</lpage>. 
+                    <pub-id pub-id-type="doi">10.1016/S0008-6363(00)00308-4</pub-id>
+                    <pub-id pub-id-type="pmid">11334845</pub-id>
+                    <issn>0008-6363</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b4">
+            <label>4. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Beckers</surname>
+                     <given-names>F</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Verheyden</surname>
+                     <given-names>B</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Aubert</surname>
+                     <given-names>AE</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Aging and nonlinear heart rate control in a healthy population</article-title>. 
+                    <source>Am J Physiol Heart Circ Physiol</source>. 
+                    <year>2006</year>
+                    <month>Jun</month>;
+                    <volume>290</volume>(
+                    <issue>6</issue>):
+                    <fpage>H2560</fpage>–
+                    <lpage>70</lpage>. 
+                    <pub-id pub-id-type="doi">10.1152/ajpheart.00903.2005</pub-id>
+                    <pub-id pub-id-type="pmid">16373585</pub-id>
+                    <issn>0363-6135</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b5">
+            <label>5. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Buccalletti</surname>
+                     <given-names>F</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Bocci</surname>
+                     <given-names>MG</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Gilardi</surname>
+                     <given-names>E</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Fiore</surname>
+                     <given-names>V</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Calcinaro</surname>
+                     <given-names>S</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Fragnoli</surname>
+                     <given-names>C</given-names>
+                  </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>Linear and nonlinear heart rate variability indexes in clinical practice</article-title>. 
+                    <source>Comput Math Methods Med</source>. 
+                    <year>2012</year>;
+                    <volume>2012</volume>:
+                    <fpage>219080</fpage>. 
+                    <pub-id pub-id-type="doi">10.1155/2012/219080</pub-id>
+                    <pub-id pub-id-type="pmid">22400047</pub-id>
+                    <issn>1748-670X</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b6">
+            <label>6. </label>
+            <mixed-citation publication-type="book">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Hautala</surname>
+                     <given-names>A</given-names>
+                  </name>
+                    </person-group>. 
+                    <source>Effect of physical exercise on autonomic regultion of heart rate</source> [PhD Thesis]
+                    <publisher-loc>Oulu</publisher-loc>: 
+                    <publisher-name>University of Oulu</publisher-name>; 
+                    <year>2004</year>.
+                </mixed-citation>
+         </ref>
+         <ref id="b7">
+            <label>7. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Javorka</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Zila</surname>
+                     <given-names>I</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Balhárek</surname>
+                     <given-names>T</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Javorka</surname>
+                     <given-names>K</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Heart rate recovery after exercise: relations to heart rate variability and complexity</article-title>. 
+                    <source>Braz J Med Biol Res</source>. 
+                    <year>2002</year>
+                    <month>Aug</month>;
+                    <volume>35</volume>(
+                    <issue>8</issue>):
+                    <fpage>991</fpage>–
+                    <lpage>1000</lpage>. 
+                    <pub-id pub-id-type="doi">10.1590/S0100-879X2002000800018</pub-id>
+                    <pub-id pub-id-type="pmid">12185393</pub-id>
+                    <issn>0100-879X</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b8">
+            <label>8. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Makivic</surname>
+                     <given-names>B</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Djordjevic Nikic</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Willis</surname>
+                     <given-names>MS</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Heart rate variability as a tool for diagnostic and monitoring performance in sport and physical activities</article-title>. 
+                    <source>J Exerc Physiol Online</source>. 
+                    <year>2013</year>;
+                    <volume>16</volume>(
+                    <issue>3</issue>):
+                    <fpage>103</fpage>–
+                    <lpage>31</lpage>.
+                    <issn>1097-9751</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b9">
+            <label>9. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Sartor</surname>
+                     <given-names>F</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Vailati</surname>
+                     <given-names>E</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Valsecchi</surname>
+                     <given-names>V</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Vailati</surname>
+                     <given-names>F</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>La Torre</surname>
+                     <given-names>A</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Heart rate variability reflects training load and psychophysiological status in young elite gymnasts</article-title>. 
+                    <source>J Strength Cond Res</source>. 
+                    <year>2013</year>
+                    <month>Oct</month>;
+                    <volume>27</volume>(
+                    <issue>10</issue>):
+                    <fpage>2782</fpage>–
+                    <lpage>90</lpage>. 
+                    <pub-id pub-id-type="doi">10.1519/JSC.0b013e31828783cc</pub-id>
+                    <pub-id pub-id-type="pmid">23364293</pub-id>
+                    <issn>1064-8011</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b10">
+            <label>10. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Nunan</surname>
+                     <given-names>D</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Donovan</surname>
+                     <given-names>G</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Jakovljevic</surname>
+                     <given-names>DG</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Hodges</surname>
+                     <given-names>LD</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Sandercock</surname>
+                     <given-names>GR</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Brodie</surname>
+                     <given-names>DA</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Validity and reliability of short-term heart-rate variability from the Polar S810</article-title>. 
+                    <source>Med Sci Sports Exerc</source>. 
+                    <year>2009</year>
+                    <month>Jan</month>;
+                    <volume>41</volume>(
+                    <issue>1</issue>):
+                    <fpage>243</fpage>–
+                    <lpage>50</lpage>. 
+                    <pub-id pub-id-type="doi">10.1249/MSS.0b013e318184a4b1</pub-id>
+                    <pub-id pub-id-type="pmid">19092682</pub-id>
+                    <issn>0195-9131</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b11">
+            <label>11. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Gamelin</surname>
+                     <given-names>FX</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Berthoin</surname>
+                     <given-names>S</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Bosquet</surname>
+                     <given-names>L</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Validity of the polar S810 heart rate monitor to measure R-R intervals at rest</article-title>. 
+                    <source>Med Sci Sports Exerc</source>. 
+                    <year>2006</year>
+                    <month>May</month>;
+                    <volume>38</volume>(
+                    <issue>5</issue>):
+                    <fpage>887</fpage>–
+                    <lpage>93</lpage>. 
+                    <pub-id pub-id-type="doi">10.1249/01.mss.0000218135.79476.9c</pub-id>
+                    <pub-id pub-id-type="pmid">16672842</pub-id>
+                    <issn>0195-9131</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b12">
+            <label>12. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Goldberger</surname>
+                     <given-names>AL</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Amaral</surname>
+                     <given-names>LA</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Hausdorff</surname>
+                     <given-names>JM</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Ivanov</surname>
+                     <given-names>PC</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Peng</surname>
+                     <given-names>CK</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Stanley</surname>
+                     <given-names>HE</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Fractal dynamics in physiology: alterations with disease and aging</article-title>. 
+                    <source>Proc Natl Acad Sci USA</source>. 
+                    <year>2002</year>
+                    <month>Feb</month>;
+                    <volume>99</volume>(
+                    <issue>1</issue>
+                    <supplement>Suppl 1</supplement>):
+                    <fpage>2466</fpage>–
+                    <lpage>72</lpage>. 
+                    <pub-id pub-id-type="doi">10.1073/pnas.012579499</pub-id>
+                    <pub-id pub-id-type="pmid">11875196</pub-id>
+                    <issn>0027-8424</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b13">
+            <label>13. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Mäkikallio</surname>
+                     <given-names>TH</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Huikuri</surname>
+                     <given-names>HV</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Mäkikallio</surname>
+                     <given-names>A</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Sourander</surname>
+                     <given-names>LB</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Mitrani</surname>
+                     <given-names>RD</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Castellanos</surname>
+                     <given-names>A</given-names>
+                  </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>Prediction of sudden cardiac death by fractal analysis of heart rate variability in elderly subjects</article-title>. 
+                    <source>J Am Coll Cardiol</source>. 
+                    <year>2001</year>
+                    <month>Apr</month>;
+                    <volume>37</volume>(
+                    <issue>5</issue>):
+                    <fpage>1395</fpage>–
+                    <lpage>402</lpage>. 
+                    <pub-id pub-id-type="doi">10.1016/S0735-1097(01)01171-8</pub-id>
+                    <pub-id pub-id-type="pmid">11300452</pub-id>
+                    <issn>0735-1097</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b14">
+            <label>14. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Tapanainen</surname>
+                     <given-names>JM</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Thomsen</surname>
+                     <given-names>PE</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Køber</surname>
+                     <given-names>L</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Torp-Pedersen</surname>
+                     <given-names>C</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Mäkikallio</surname>
+                     <given-names>TH</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Still</surname>
+                     <given-names>AM</given-names>
+                  </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>Fractal analysis of heart rate variability and mortality after an acute myocardial infarction</article-title>. 
+                    <source>Am J Cardiol</source>. 
+                    <year>2002</year>
+                    <month>Aug</month>;
+                    <volume>90</volume>(
+                    <issue>4</issue>):
+                    <fpage>347</fpage>–
+                    <lpage>52</lpage>. 
+                    <pub-id pub-id-type="doi">10.1016/S0002-9149(02)02488-8</pub-id>
+                    <pub-id pub-id-type="pmid">12161220</pub-id>
+                    <issn>0002-9149</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b15">
+            <label>15. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Chattipakorn</surname>
+                     <given-names>N</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Incharoen</surname>
+                     <given-names>T</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Kanlop</surname>
+                     <given-names>N</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Chattipakorn</surname>
+                     <given-names>S</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Heart rate variability in myocardial infarction and heart failure</article-title>. 
+                    <source>Int J Cardiol</source>. 
+                    <year>2007</year>
+                    <month>Sep</month>;
+                    <volume>120</volume>(
+                    <issue>3</issue>):
+                    <fpage>289</fpage>–
+                    <lpage>96</lpage>. 
+                    <pub-id pub-id-type="doi">10.1016/j.ijcard.2006.11.221</pub-id>
+                    <pub-id pub-id-type="pmid">17349699</pub-id>
+                    <issn>0167-5273</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b16">
+            <label>16. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Huikuri</surname>
+                     <given-names>HV</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Mäkikallio</surname>
+                     <given-names>TH</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Perkiömäki</surname>
+                     <given-names>J</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Measurement of heart rate variability by methods based on nonlinear dynamics</article-title>. 
+                    <source>J Electrocardiol</source>. 
+                    <year>2003</year>;
+                    <volume>36</volume>
+                    <supplement>Suppl</supplement>:
+                    <fpage>95</fpage>–
+                    <lpage>9</lpage>. 
+                    <pub-id pub-id-type="doi">10.1016/j.jelectrocard.2003.09.021</pub-id>
+                    <pub-id pub-id-type="pmid">14716599</pub-id>
+                    <issn>0022-0736</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b17">
+            <label>17. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Frenneaux</surname>
+                     <given-names>MP</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Autonomic changes in patients with heart failure and in post-myocardial infarction patients</article-title>. 
+                    <source>Heart</source>. 
+                    <year>2004</year>
+                    <month>Nov</month>;
+                    <volume>90</volume>(
+                    <issue>11</issue>):
+                    <fpage>1248</fpage>–
+                    <lpage>55</lpage>. 
+                    <pub-id pub-id-type="doi">10.1136/hrt.2003.026146</pub-id>
+                    <pub-id pub-id-type="pmid">15486114</pub-id>
+                    <issn>1355-6037</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b18">
+            <label>18. </label>
+            <mixed-citation publication-type="book">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Kšela</surname>
+                     <given-names>J</given-names>
+                  </name>
+                    </person-group>. 
+                    <source>Novejši kazalci avtonomne regulacije srca kot napovedni dejavniki za pojav aritmij po aortokoronarnih obvodih na delujočem srcu</source>. [PhD Thesis].
+                    <publisher-loc>Ljubljana</publisher-loc>: 
+                    <publisher-name>Univerza v Ljubljani</publisher-name>; 
+                    <year>2009</year>.
+                </mixed-citation>
+         </ref>
+         <ref id="b19">
+            <label>19. </label>
+            <mixed-citation publication-type="book">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Gleick</surname>
+                     <given-names>J</given-names>
+                  </name>
+                    </person-group>. 
+                    <source>Chaos: The amazing science of the unpredictable</source>. 
+                    <publisher-loc>London</publisher-loc>: 
+                    <publisher-name>Vintage</publisher-name>; 
+                    <year>1998</year>.
+                </mixed-citation>
+         </ref>
+         <ref id="b20">
+            <label>20. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Saeed</surname>
+                     <given-names>M</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Fractals analysis of cardiac arrhythmias</article-title>. 
+                    <source>ScientificWorldJournal</source>. 
+                    <year>2005</year>
+                    <month>Sep</month>;
+                    <volume>5</volume>:
+                    <fpage>691</fpage>–
+                    <lpage>701</lpage>. 
+                    <pub-id pub-id-type="doi">10.1100/tsw.2005.81</pub-id>
+                    <pub-id pub-id-type="pmid">16155684</pub-id>
+                    <issn>2356-6140</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b21">
+            <label>21. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Ivanov</surname>
+                     <given-names>PC</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Amaral</surname>
+                     <given-names>LA</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Goldberger</surname>
+                     <given-names>AL</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Havlin</surname>
+                     <given-names>S</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Rosenblum</surname>
+                     <given-names>MG</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Struzik</surname>
+                     <given-names>ZR</given-names>
+                  </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>Multifractality in human heartbeat dynamics</article-title>. 
+                    <source>Nature</source>. 
+                    <year>1999</year>
+                    <month>Jun</month>;
+                    <volume>399</volume>(
+                    <issue>6735</issue>):
+                    <fpage>461</fpage>–
+                    <lpage>5</lpage>. 
+                    <pub-id pub-id-type="doi">10.1038/20924</pub-id>
+                    <pub-id pub-id-type="pmid">10365957</pub-id>
+                    <issn>0028-0836</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b22">
+            <label>22. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Kalisnik</surname>
+                     <given-names>JM</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Avbelj</surname>
+                     <given-names>V</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Trobec</surname>
+                     <given-names>R</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Ivaskovic</surname>
+                     <given-names>D</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Vidmar</surname>
+                     <given-names>G</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Troise</surname>
+                     <given-names>G</given-names>
+                  </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>Assessment of cardiac autonomic regulation and ventricular repolarization after off-pump coronary artery bypass grafting</article-title>. 
+                    <source>Heart Surg Forum</source>. 
+                    <year>2006</year>;
+                    <volume>9</volume>(
+                    <issue>3</issue>):
+                    <fpage>E661</fpage>–
+                    <lpage>7</lpage>. 
+                    <pub-id pub-id-type="doi">10.1532/HSF98.2006-1020</pub-id>
+                    <pub-id pub-id-type="pmid">16753938</pub-id>
+                    <issn>1098-3511</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b23">
+            <label>23. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Ksela</surname>
+                     <given-names>J</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Suwalski</surname>
+                     <given-names>P</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Kalisnik</surname>
+                     <given-names>JM</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Avbelj</surname>
+                     <given-names>V</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Suwalski</surname>
+                     <given-names>G</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Gersak</surname>
+                     <given-names>B</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Assessment of nonlinear heart rate dynamics after beating-heart revascularization</article-title>. 
+                    <source>Heart Surg Forum</source>. 
+                    <year>2009</year>
+                    <month>Jan</month>;
+                    <volume>12</volume>(
+                    <issue>1</issue>):
+                    <fpage>E10</fpage>–
+                    <lpage>6</lpage>. 
+                    <pub-id pub-id-type="doi">10.1532/HSF98.20081116</pub-id>
+                    <pub-id pub-id-type="pmid">19233759</pub-id>
+                    <issn>1098-3511</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b24">
+            <label>24. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Huikuri</surname>
+                     <given-names>HV</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Stein</surname>
+                     <given-names>PK</given-names>
+                  </name>
+               </person-group>. 
+                    <article-title>Heart rate variability in risk stratification of cardiac patients</article-title>. 
+                    <source>Prog Cardiovasc Dis</source>. 
+                    <year>2013</year> 
+                    <month>Sep-Oct</month>;
+                    <volume>56</volume>(
+                    <issue>2</issue>):
+                    <fpage>153</fpage>–
+                    <lpage>9</lpage>. 
+                    <pub-id pub-id-type="doi">10.1016/j.pcad.2013.07.003
+                    </pub-id>
+               <pub-id pub-id-type="pmid">24215747
+                    </pub-id>
+               <issn>0033-0620</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b25">
+            <label>25. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Perkiömäki</surname>
+                     <given-names>JS</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Heart rate variability and non-linear dynamics in risk stratification</article-title>. 
+                    <source>Front Physiol</source>. 
+                    <year>2011</year>
+                    <month>Nov</month>;
+                    <volume>2</volume>:
+                    <fpage>81</fpage>.
+                    <pub-id pub-id-type="pmid">22084633</pub-id>
+                    <issn>1664-042X</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b26">
+            <label>26. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Mäkikallio</surname>
+                     <given-names>TH</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Høiber</surname>
+                     <given-names>S</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Køber</surname>
+                     <given-names>L</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Torp-Pedersen</surname>
+                     <given-names>C</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Peng</surname>
+                     <given-names>CK</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Goldberger</surname>
+                     <given-names>AL</given-names>
+                  </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>Fractal analysis of heart rate dynamics as a predictor of mortality in patients with depressed left ventricular function after acute myocardial infarction. TRACE Investigators. TRAndolapril Cardiac Evaluation</article-title>. 
+                    <source>Am J Cardiol</source>. 
+                    <year>1999</year>
+                    <month>Mar</month>;
+                    <volume>83</volume>(
+                    <issue>6</issue>):
+                    <fpage>836</fpage>–
+                    <lpage>9</lpage>. 
+                    <pub-id pub-id-type="doi">10.1016/S0002-9149(98)01076-5</pub-id>
+                    <pub-id pub-id-type="pmid">10190395</pub-id>
+                    <issn>0002-9149</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b27">
+            <label>27. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Wagner</surname>
+                     <given-names>CD</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Persson</surname>
+                     <given-names>PB</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Chaos in the cardiovascular system: an update</article-title>. 
+                    <source>Cardiovasc Res</source>. 
+                    <year>1998</year>
+                    <month>Nov</month>;
+                    <volume>40</volume>(
+                    <issue>2</issue>):
+                    <fpage>257</fpage>–
+                    <lpage>64</lpage>. 
+                    <pub-id pub-id-type="doi">10.1016/S0008-6363(98)00251-X</pub-id>
+                    <pub-id pub-id-type="pmid">9893718</pub-id>
+                    <issn>0008-6363</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b28">
+            <label>28. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Tracey</surname>
+                     <given-names>KJ</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>The inflammatory reflex</article-title>. 
+                    <source>Nature</source>. 
+                    <year>2002</year>
+                    <month>Dec</month>;
+                    <volume>420</volume>(
+                    <issue>6917</issue>):
+                    <fpage>853</fpage>–
+                    <lpage>9</lpage>. 
+                    <pub-id pub-id-type="doi">10.1038/nature01321</pub-id>
+                    <pub-id pub-id-type="pmid">12490958</pub-id>
+                    <issn>0028-0836</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b29">
+            <label>29. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Williams</surname>
+                     <given-names>DP</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Koenig</surname>
+                     <given-names>J</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Carnevali</surname>
+                     <given-names>L</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Sgoifo</surname>
+                     <given-names>A</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Jarczok</surname>
+                     <given-names>MN</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Sternberg</surname>
+                     <given-names>EM</given-names>
+                  </name>, 
+                        <etal>et al.</etal>
+                    </person-group>
+                    <article-title>Heart rate variability and inflammation: A meta-analysis of human studies</article-title>. 
+                    <source>Brain Behav Immun</source>. 
+                    <year>2019</year>
+                    <month>Aug</month>;
+                    <volume>80</volume>:
+                    <fpage>219</fpage>–
+                    <lpage>26</lpage>. 
+                    <pub-id pub-id-type="doi">10.1016/j.bbi.2019.03.009</pub-id>
+                    <pub-id pub-id-type="pmid">30872091</pub-id>
+                    <issn>0889-1591</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b30">
+            <label>30. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Guan</surname>
+                     <given-names>L</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Collet</surname>
+                     <given-names>JP</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Mazowita</surname>
+                     <given-names>G</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Claydon</surname>
+                     <given-names>VE</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Autonomic Nervous System and Stress to Predict Secondary Ischemic Events after Transient Ischemic Attack or Minor Stroke: Possible Implications of Heart Rate Variability</article-title>. 
+                    <source>Front Neurol</source>. 
+                    <year>2018</year>
+                    <month>Mar</month>;
+                    <volume>9</volume>:
+                    <fpage>90</fpage>. 
+                    <pub-id pub-id-type="doi">10.3389/fneur.2018.00090</pub-id>
+                    <pub-id pub-id-type="pmid">29556209</pub-id>
+                    <issn>1664-2295</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b31">
+            <label>31. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Blain</surname>
+                     <given-names>G</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Meste</surname>
+                     <given-names>O</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Bouchard</surname>
+                     <given-names>T</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Bermon</surname>
+                     <given-names>S</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Assessment of ventilatory thresholds during graded and maximal exercise test using time varying analysis of respiratory sinus arrhythmia</article-title>. 
+                    <source>Br J Sports Med</source>. 
+                    <year>2005</year>
+                    <month>Jul</month>;
+                    <volume>39</volume>(
+                    <issue>7</issue>):
+                    <fpage>448</fpage>–
+                    <lpage>52</lpage>. 
+                    <pub-id pub-id-type="doi">10.1136/bjsm.2004.014134</pub-id>
+                    <pub-id pub-id-type="pmid">15976169</pub-id>
+                    <issn>0306-3674</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b32">
+            <label>32. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Cottin</surname>
+                     <given-names>F</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Médigue</surname>
+                     <given-names>C</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Lopes</surname>
+                     <given-names>P</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Leprêtre</surname>
+                     <given-names>PM</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Heubert</surname>
+                     <given-names>R</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Billat</surname>
+                     <given-names>V</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Ventilatory thresholds assessment from heart rate variability during an incremental exhaustive running test</article-title>. 
+                    <source>Int J Sports Med</source>. 
+                    <year>2007</year>
+                    <month>Apr</month>;
+                    <volume>28</volume>(
+                    <issue>4</issue>):
+                    <fpage>287</fpage>–
+                    <lpage>94</lpage>. 
+                    <pub-id pub-id-type="doi">10.1055/s-2006-924355</pub-id>
+                    <pub-id pub-id-type="pmid">17024637</pub-id>
+                    <issn>0172-4622</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b33">
+            <label>33. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Ramos-Campo</surname>
+                     <given-names>DJ</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Rubio-Arias</surname>
+                     <given-names>JA</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Ávila-Gandía</surname>
+                     <given-names>V</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Marín-Pagán</surname>
+                     <given-names>C</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Luque</surname>
+                     <given-names>A</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Alcaraz</surname>
+                     <given-names>PE</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Heart rate variability to assess ventilatory thresholds in professional basketball players</article-title>. 
+                    <source>J Sport Health Sci</source>. 
+                    <year>2017</year>
+                    <month>Dec</month>;
+                    <volume>6</volume>(
+                    <issue>4</issue>):
+                    <fpage>468</fpage>–
+                    <lpage>73</lpage>. 
+                    <pub-id pub-id-type="doi">10.1016/j.jshs.2016.01.002</pub-id>
+                    <pub-id pub-id-type="pmid">30356606</pub-id>
+                    <issn>2095-2546</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b34">
+            <label>34. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Wollmner</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Rhenan</surname>
+                     <given-names>B</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Tiago</surname>
+                     <given-names>P</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Jorge</surname>
+                     <given-names>RP d:</given-names>
+                  </name>,
+                        <name name-style="western">
+                     <surname>Alysson</surname>
+                     <given-names>RSC</given-names>
+                  </name>,
+                        <etal>et al</etal>.
+                    </person-group>
+                    <article-title>Maximum oxygen uptake prediction model based on heart rate variability parameters for young healthy adult males at rest.</article-title>
+                    <source>Open Acc Biostat Bioinform</source> 
+                    <year>2018</year>;
+                    <volume>2</volume>(
+                    <issue>3</issue>: 
+                    <fpage>OABB 000536</fpage>.
+                    <pub-id pub-id-type="doi">10.31031/OABB.2018.02.000536</pub-id>
+                </mixed-citation>
+         </ref>
+         <ref id="b35">
+            <label>35. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>León-Ariza</surname>
+                     <given-names>HH</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Botero-Rosas</surname>
+                     <given-names>DA</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Zea-Robles</surname>
+                     <given-names>AC</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Heart rate variability and body composition as VO<sub>2</sub>max determinants</article-title>. 
+                    <source>Rev Bras Med Esporte</source>. 
+                    <year>2017</year>;
+                    <volume>23</volume>(
+                    <issue>4</issue>):
+                    <fpage>317</fpage>–
+                    <lpage>21</lpage>. 
+                    <pub-id pub-id-type="doi">10.1590/1517-869220172304152157</pub-id>
+                </mixed-citation>
+         </ref>
+         <ref id="b36">
+            <label>36. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Baumert</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Brechtel</surname>
+                     <given-names>L</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Lock</surname>
+                     <given-names>J</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Hermsdorf</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Wolff</surname>
+                     <given-names>R</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Baier</surname>
+                     <given-names>V</given-names>
+                  </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>Heart rate variability, blood pressure variability, and baroreflex sensitivity in overtrained athletes</article-title>. 
+                    <source>Clin J Sport Med</source>. 
+                    <year>2006</year>
+                    <month>Sep</month>;
+                    <volume>16</volume>(
+                    <issue>5</issue>):
+                    <fpage>412</fpage>–
+                    <lpage>7</lpage>. 
+                    <pub-id pub-id-type="doi">10.1097/01.jsm.0000244610.34594.07</pub-id>
+                    <pub-id pub-id-type="pmid">17016118</pub-id>
+                    <issn>1050-642X</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b37">
+            <label>37. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Porto</surname>
+                     <given-names>LG</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Junqueira</surname>
+                     <given-names>LF</given-names>
+                     <suffix>Jr</suffix>
+                  </name>
+                    </person-group>. 
+                    <article-title>Comparison of time-domain short-term heart interval variability analysis using a wrist-worn heart rate monitor and the conventional electrocardiogram</article-title>. 
+                    <source>Pacing Clin Electrophysiol</source>. 
+                    <year>2009</year>
+                    <month>Jan</month>;
+                    <volume>32</volume>(
+                    <issue>1</issue>):
+                    <fpage>43</fpage>–
+                    <lpage>51</lpage>. 
+                    <pub-id pub-id-type="doi">10.1111/j.1540-8159.2009.02175.x</pub-id>
+                    <pub-id pub-id-type="pmid">19140912</pub-id>
+                    <issn>0147-8389</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b38">
+            <label>38. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Nunan</surname>
+                     <given-names>D</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Jakovljevic</surname>
+                     <given-names>DG</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Donovan</surname>
+                     <given-names>G</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Hodges</surname>
+                     <given-names>LD</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Sandercock</surname>
+                     <given-names>GR</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Brodie</surname>
+                     <given-names>DA</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Levels of agreement for RR intervals and short-term heart rate variability obtained from the Polar S810 and an alternative system</article-title>. 
+                    <source>Eur J Appl Physiol</source>. 
+                    <year>2008</year>
+                    <month>Jul</month>;
+                    <volume>103</volume>(
+                    <issue>5</issue>):
+                    <fpage>529</fpage>–
+                    <lpage>37</lpage>. 
+                    <pub-id pub-id-type="doi">10.1007/s00421-008-0742-6</pub-id>
+                    <pub-id pub-id-type="pmid">18427831</pub-id>
+                    <issn>1439-6319</issn>
+                </mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

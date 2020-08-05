@@ -1,0 +1,822 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD with MathML3 v1.1 20151215//EN" "JATS-journalpublishing1-mathml3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink"
+         dtd-version="1.1"
+         xml:lang="sl"
+         article-type="other">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher-id">Zdrav Vestn</journal-id>
+         <journal-id journal-id-type="nlm-ta">Zdrav Vestn</journal-id>
+         <journal-id journal-id-type="doi">Zdrav Vestn</journal-id>
+         <journal-title-group>
+            <journal-title>Zdravniški vestnik</journal-title>
+            <trans-title-group xml:lang="en">
+               <trans-title>Slovenian Medical Journal</trans-title>
+            </trans-title-group>
+            <abbrev-journal-title>Zdrav Vestn</abbrev-journal-title>
+         </journal-title-group>
+         <issn publication-format="ppub" pub-type="ppub">1318-0347</issn>
+         <issn publication-format="epub" pub-type="epub">1581-0224</issn>
+         <issn-l>0350-0063</issn-l>
+         <publisher>
+            <publisher-name xml:lang="sl">Slovensko zdravniško društvo</publisher-name>
+            <publisher-name xml:lang="en">Slovenian Medical Association</publisher-name>
+            <publisher-loc xml:lang="sl">Ljubljana, Slovenia</publisher-loc>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.6016/ZdravVestn.2855</article-id>
+         <article-id pub-id-type="publisher-id">2855</article-id>
+         <article-categories>
+            <subj-group subj-group-type="discipline" xml:lang="en">
+               <subject>Medicine and health sciences</subject>
+               <subj-group>
+                  <subject>Microbiology and immunology</subject>
+               </subj-group>
+            </subj-group>
+            <subj-group subj-group-type="discipline" xml:lang="sl">
+               <subject>Medicina/Zdravstvo</subject>
+               <subj-group>
+                  <subject>Mikrobiologija in imunologija</subject>
+               </subj-group>
+            </subj-group>
+            <subj-group subj-group-type="article-type" xml:lang="en">
+               <subject>Short scientific article</subject>
+            </subj-group>
+            <subj-group subj-group-type="article-type" xml:lang="sl">
+               <subject>Klinični primer</subject>
+            </subj-group>
+            <subj-group subj-group-type="heading" xml:lang="sl">
+               <subject>Mikrobiologija in imunologija</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title xml:lang="sl">Ocena občutljivosti povzročiteljev nezapletenih okužb sečil za peroralne betalaktamske antibiotike z matematičnim modelom</article-title>
+            <trans-title-group>
+               <trans-title xml:lang="en">Antimicrobial susceptibility estimation of uncomplicated urinary tract infection pathogens to oral beta-lactam antibiotics with a mathematical model</trans-title>
+            </trans-title-group>
+            <alt-title alt-title-type="running-head" xml:lang="sl">Ocena občutljivosti povzročiteljev nezapletenih okužb sečil</alt-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Nadrah</surname>
+                  <given-names>Kristina</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1">1</xref>
+               <xref ref-type="aff" rid="aff3">3</xref>
+            </contrib>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Štrumbelj</surname>
+                  <given-names>Iztok</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff2">2</xref>
+            </contrib>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Beović</surname>
+                  <given-names>Bojana</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1">1</xref>
+               <xref ref-type="corresp" rid="corr"/>
+            </contrib>
+         </contrib-group>
+         <aff-alternatives id="aff1">
+            <aff xml:lang="sl">
+               <label>1</label>
+               <institution>Klinika za infekcijske bolezni in vročinska stanja, Univerzitetni klinični center Ljubljana, Ljubljana, Slovenija</institution>
+            </aff>
+            <aff xml:lang="en">
+               <label>1</label>
+               <institution>Department of Infectious Diseases and Febrile Illnesses, University Medical Centre Ljubljana, Ljubljana, Slovenia</institution>
+            </aff>
+         </aff-alternatives>
+         <aff-alternatives id="aff2">
+            <aff xml:lang="sl">
+               <label>2</label>
+               <institution>Oddelek za medicinsko mikrobiologijo Murska Sobota, Nacionalni laboratorij za zdravje, okolje in hrano, Maribor Slovenija</institution>
+            </aff>
+            <aff xml:lang="en">
+               <label>2</label>
+               <institution>Department for Medical Microbiology Murska Sobota, National Laboratory of Health, Environment and Food, Maribor, Slovenia</institution>
+            </aff>
+         </aff-alternatives>
+         <aff-alternatives id="aff3">
+            <aff xml:lang="sl">
+               <label>3</label>
+               <institution>Medicinska fakulteta, Univerza v Ljubljani, Ljubljana, Slovenija</institution>
+            </aff>
+            <aff xml:lang="en">
+               <label>3</label>
+               <institution>Faculty of medicine, University of Ljubljana, Ljubljana, Slovenia</institution>
+            </aff>
+         </aff-alternatives>
+         <author-notes>
+            <fn fn-type="conflict" xml:lang="en">
+               <p>The authors have declared that no competing interests exist.</p>
+            </fn>
+            <fn fn-type="conflict" xml:lang="sl">
+               <p>Avtorji so izjavili, da ne obstajajo nobeni konkurenčni interesi.</p>
+            </fn>
+            <corresp id="corr">Bojana Beović, e-mail: <email xlink:type="simple"/>
+            </corresp>
+         </author-notes>
+         <pub-date pub-type="ppub">
+            <month>10</month>
+            <year>2019</year>
+         </pub-date>
+         <pub-date pub-type="epub">
+            <month>10</month>
+            <year>2019</year>
+         </pub-date>
+         <volume>88</volume>
+         <issue>9–10</issue>
+         <fpage>458</fpage>
+         <lpage>63</lpage>
+         <history>
+            <date date-type="received">
+               <day>19</day>
+               <month>7</month>
+               <year>2018</year>
+            </date>
+            <date date-type="accepted">
+               <day>28</day>
+               <month>8</month>
+               <year>2018</year>
+            </date>
+         </history>
+         <permissions>
+            <copyright-statement xml:lang="en">Copyright © 2019, Slovenian Medical Association (SZD)</copyright-statement>
+            <copyright-statement xml:lang="sl">© 2019, Slovensko zdravniško društvo (SZD)</copyright-statement>
+            <copyright-year>2019</copyright-year>
+            <copyright-holder xml:lang="en">Slovenian Medical Association (SZD)</copyright-holder>
+            <copyright-holder xml:lang="sl">Slovensko zdravniško društvo (SZD)</copyright-holder>
+            <license xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                     xlink:type="simple"
+                     xml:lang="en">
+               <license-p>This is an open access article distributed under the terms of the
+          <ext-link ext-link-type="uri"
+                            xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                            xlink:type="simple">Creative Commons Attribution-NonCommercial
+            License</ext-link>, which permits unrestricted use, distribution, and
+          reproduction in any medium, provided the original author and source are
+          credited and only for non-commercial purposes. </license-p>
+            </license>
+            <license xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                     xlink:type="simple"
+                     xml:lang="sl">
+               <license-p>To je članek z odprtim dostopom, ki ga lahko uporabite pod pogoji iz
+          <ext-link ext-link-type="uri"
+                            xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                            xlink:type="simple">Creative Commons Priznanje avtorstva-Nekomercialno
+            licence</ext-link>. ki dovoljuje distribucijo, predelavo ali
+          prilagoditev, ter gradijo na njem, v nekomercialne namene, z navedbo avtorja
+          in izvirnega dela.</license-p>
+            </license>
+         </permissions>
+         <abstract xml:lang="sl">
+            <title>Izvleček</title>
+            <p>Izhodišče: Nezapletene okužbe sečil so ena najpogostejših okužb pri zdravih mladih ženskah. Za zdravljenje tovrstnih okužb izberemo antibiotike ozkega spektra z delovanjem na najpogostejše povzročitelje. Ker je zdravljenje nezapletenih okužb spodnjih sečil večinoma izkustveno, smo v raziskavi ocenili, kakšna je občutljivost najpogostejših povzročiteljev za peroralne betalaktamske antibiotike in ali so primerni za izkustveno zdravljenje nezapletenih okužb sečil v primerih, kadar ne moremo uporabiti antibiotikov izbire.</p>
+            <p>Metode: Iz teoretične porazdelitve pogostosti različnih vrst povzročiteljev okužb sečil in deležev občutljivosti resničnih izolatov urinokultur pri ženskah smo z uporabo matematičnega modela izračunali oceno skupne občutljivosti za peroralne betalaktamske antibiotike.</p>
+            <p>Rezultati: Ocenjena skupna občutljivost za ampicilin je bila slaba (50 %), za cefalosporine prve, druge in tretje generacije pa med 88 % in 90 %.</p>
+            <p>Zaključek: Matematični model za oceno občutljivosti je zanimivo orodje, s katerim lahko napovemo klinično učinkovitost antibiotikov na podlagi lokalne občutljivosti in pogostosti povzročiteljev. Na podlagi naših rezultatov ugotavljamo, da so med betalaktamskimi antibiotiki za zdravljenje cistitisa najprimernejši cefalosporini prve generacije.</p>
+         </abstract>
+         <trans-abstract xml:lang="en">
+            <title>Abstract</title>
+            <p>Background: Uncomplicated urinary tract infections are among the most common infections in young healthy women. When treating such infections we use narrow-spectrum antibiotics with activity against the most common pathogens. The treatment of such infections is usually empirical, therefore in our study we estimated the susceptibility of the most common isolates to oral betalactam antibiotics to determine whether they are an acceptable alternative in case of contraindications to first-line agents.</p>
+            <p>Methods: We used a theoretical distribution of the frequency of urinary tract pathogens and antimicrobial susceptibilities from clinical urinary cultures in women to calculate an estimate of overall susceptibility of the pathogens using a mathematical model.</p>
+            <p>Results: The estimated susceptibility to ampicillin was low (50 %), but much higher for cephalosporins of 1st to 3rd generation (88 % – 90 %).</p>
+            <p>Conclusion: The mathematical model for susceptibility estimation represents an interesting tool for predicting clinical efficacy of antibiotics, based on local antibiotic susceptibility and frequency of pathogens. Our results show that among betalactam antibiotics, 1st generation cephalosporins are suitable for the treatment of uncomplicated cystitis.</p>
+         </trans-abstract>
+         <kwd-group xml:lang="sl">
+            <kwd>okužbe sečil</kwd>
+            <kwd>cefalosporini</kwd>
+            <kwd>cefadroksil</kwd>
+            <kwd>protimikrobna občutljivost</kwd>
+         </kwd-group>
+         <kwd-group xml:lang="en">
+            <kwd>urinary tract infections</kwd>
+            <kwd>cephalosporins</kwd>
+            <kwd>cefadroxil</kwd>
+            <kwd>antimicrobial susceptibility</kwd>
+         </kwd-group>
+      </article-meta>
+   </front>
+   <body>
+      <sec id="s1" sec-type="Uvod">
+         <label>1</label>
+         <title>Uvod</title>
+         <p>Nezapletene okužbe sečil se pojavljajo pri nenosečih, predmenopavznih ženskah brez anatomskih ali funkcionalnih nepravilnosti sečil ter brez pridruženih bolezni (<xref ref-type="bibr" rid="b1">1</xref>). Gre za zelo pogoste okužbe, ki predstavljajo enega najpogostejših vzrokov za obisk zaradi okužbe pri izbranem zdravniku, še posebej so pogoste pri mladi delovno aktivni ženski populaciji (<xref ref-type="bibr" rid="b2">2</xref>). Najpogostejši je cistitis, ki se pri ženskah pogosto ponavlja. Ocenjuje se, da se pri mladih zdravih ženskah cistitis ponovi v prvih 6 mesecih kar v četrtini primerov, vsaka ponovitev pa poveča verjetnost za ponovno ponovitev (<xref ref-type="bibr" rid="b3">3</xref>). Ker se tovrstne okužbe pogosto ponavljajo, je potrebno skrbno izbrati pravilno zdravljenje, da se ob pogostem jemanju ne pojavi odpornost na peroralne antibiotike in s tem povezana nepotrebna hospitalizacija. Najpogostejši povzročitelj nezapletenih okužb sečil je <italic>Escherichia coli</italic>, ki ji sledijo druge enterobakterije in <italic>Staphylococcus </italic>
+            <italic>saprophyticus</italic> (<xref ref-type="bibr" rid="b1">1</xref>,<xref ref-type="bibr" rid="b3">3</xref>,<xref ref-type="bibr" rid="b4">4</xref>).</p>
+         <p>Za zdravljenje nezapletenih okužb spodnjih sečil izberemo antibiotik ozkega spektra z delovanjem na najpogostejše povzročitelje, ki ga bolnice dobro prenašajo, ob tem pa skušamo omejiti ekološko škodo, ki jo bo jemanje antibiotika povzročilo. Zaradi velike ekološke škode se fluorokinolonom v dobi skokovitega porasta odpornosti pri po Gramu negativnih bakterijah izogibamo (<xref ref-type="bibr" rid="b1">1</xref>,<xref ref-type="bibr" rid="b3">3</xref>,<xref ref-type="bibr" rid="b5">5</xref>), prav tako pa v Sloveniji v zadnjem času beležimo vse slabšo občutljivost enterobakterij na fluorokinolone (<xref ref-type="bibr" rid="b6">6</xref>).</p>
+         <p>Zdravili izbire za nezapletene okužbe spodnjih sečil sta nitrofurantoin ali fosfomicin (<xref ref-type="bibr" rid="b1">1</xref>,<xref ref-type="bibr" rid="b6">6</xref>). Če zdravili iz katerega koli razloga pri bolnicah nista dopustni ali ju bolnice slabo prenašajo, pridejo v poštev betalaktamski antibiotiki, čeprav so ob kratkotrajnem zdravljenju manj učinkoviti (<xref ref-type="bibr" rid="b1">1</xref>,<xref ref-type="bibr" rid="b7">7</xref>), najverjetneje zaradi manj ugodne farmakokinetike (<xref ref-type="bibr" rid="b7">7</xref>). Zaradi pogoste visoke odpornosti <italic>E. coli </italic>proti aminopenicilinom se ti ne priporočajo za izkustveno zdravljenje okužb sečil (<xref ref-type="bibr" rid="b1">1</xref>,<xref ref-type="bibr" rid="b3">3</xref>,<xref ref-type="bibr" rid="b5">5</xref>,<xref ref-type="bibr" rid="b8">8</xref>). Evropsko združenje za urologijo v svojih smernicah kot alternativo ponuja za zdravljenje nezapletenih okužb sečil peroralne cefalosporine ali kombinacije aminopenicilinov z inhibitorji betalaktamaz (<xref ref-type="bibr" rid="b1">1</xref>), vendar se je ob tem potrebno zavedati velike ekološke škode (<xref ref-type="bibr" rid="b9">9</xref>), zato naj se ti antibiotiki uporabljajo le, kadar sta zdravili izbire prepovedani.</p>
+         <p>EUCAST (<italic>angl.</italic> European Committee on Antimicrobial Susceptibility Testing) navaja, da peroralni cefalosporini za zdravljenje sistemskih okužb niso primerni, ker ne dosegajo zadostnih koncentracij v tkivih dovolj časa; primerni so le za nezapletene okužbe spodnjih sečil (<xref ref-type="bibr" rid="b8">8</xref>,<xref ref-type="bibr" rid="b10">10</xref>). Da bi v primerjavo antibiotikov vključili peroralne cefalosporine, smo se v raziskavi omejili na nezapletene okužbe spodnjih sečil. Priporočila za antibiotično zdravljenje temeljijo na pogostnosti povzročiteljev in njihovi občutljivosti za antibiotike.</p>
+         <p>Namen prispevka je z matematičnim modelom na osnovi regionalnih podatkov o občutljivosti in pogostosti povzročiteljev iz literature izračunati skupno občutljivost in s tem posredno predvideti klinično učinkovitost povzročiteljev nezapletenih okužb sečil v Pomurju za peroralne betalaktamske antibiotike in razpravljati o modelu ter omejitvah rezultatov.</p>
+      </sec>
+      <sec id="s2" sec-type="Material in metode">
+         <label>2</label>
+         <title>Material in metode</title>
+         <p>Za oceno občutljivosti celotne populacije izolatov smo uporabili dva dejavnika: teoretično porazdelitev pogostosti različnih vrst pri akutnem cistitisu in deleže občutljivosti resničnih izolatov za posamezen antibiotik iz Pomurja. Za teoretični delež pogostosti vrst smo vzeli podatke iz literature, upoštevali smo prevalenco vrst, ki jih kot povzročitelje nezapletenega cistitsa navaja združenje evropskih urologov. Najpogostejša je bakterija <italic>E. coli</italic> (79 %), po 7 % povzročiteljev pa predstavljajo: <italic>Klebsiella pneumoniae</italic>
+            <italic>, Proteus mirabilis, S. saprophyticus</italic> (<xref ref-type="bibr" rid="b1">1</xref>).</p>
+         <p>Izolati, pri katerih smo po metodah EUCAST določili občutljivost za antibiotike, so izolati iz Oddelka za medicinsko mikrobiologijo Murska Sobota, Nacionalni laboratorij za zdravje, okolje in hrano: <italic>E. coli, K. pneumoniae, P. mirabilis </italic>iz leta 2016 in izolati vrste <italic>S. saprophyticus </italic>iz let 2014–2017 (od 2014 do oktobra 2017)<italic>.</italic>Vsi izolati v tabelah so prvi izolati vsake bakterijske vrste iz sečil pri bolnicah z okužbo sečil – izolate moških smo izključili iz analize, saj okužbe sečil pri moških niso nezapletene (<xref ref-type="bibr" rid="b1">1</xref>).</p>
+         <p>Iz navedenih podatkov o prevalenci in iz rezultatov testiranja navedenih vrst smo izračunali delež teoretične populacije izolatov, občutljive za antibiotik (DTPIOA) pri posamezni bakterijski vrsti in pri vseh izolatih skupaj. DTPIOA je zmnožek deleža občutljivosti za antibiotik (izražen v odstotkih) in prevalence vrste (delež števila 1; 1 je celotna populacija izolatov). Primer: občutljivost izolatov <italic>E. coli </italic>za ampicilin je 49,4 %, prevalenca <italic>E. coli</italic>
+            <italic> </italic>v celotni populaciji je 0,79, zmnožek za <italic>E. coli </italic>je 49,4 % x 0,79 = 39,9 %, kar je delež teoretične populacije izolatov <italic>E. coli,</italic> občutljive za ampicilin. Seštevki deležev teoretičnih populacij vseh izolatov, občutljivih za antibiotik, so skupni deleži teoretične populacije izolatov, občutljive za posamezen antibiotik, ki pove verjetnost, kolikšen del skupine teh izolatov je občutljiv za posamezen antibiotik.</p>
+      </sec>
+      <sec id="s3" sec-type="Rezultati">
+         <label>3</label>
+         <title>Rezultati</title>
+         <p>Delež skupne teoretične populacije izolatov občutljivih za ampicilin je le 50 %, za amoksicilin s klavulansko kislino pa 83 %, medtem ko je občutljivost za cefalosporine višja in doseže okoli 90 % za prvo (cefadroksil) in tretjo generacijo cefalosporinov (cefiksim).</p>
+         <p>Rezultati so prikazani v <xref ref-type="table" rid="table1">Tabeli 1</xref>.</p>
+      </sec>
+      <sec id="s4" sec-type="Razpravljanje">
+         <label>4</label>
+         <title>Razpravljanje</title>
+         <p>V raziskavi o zdravljenju okužb sečil v urgentnih centrih v ZDA je bila odpornost izolata na predpisano izkustveno peroralno antibiotično zdravljenje pomemben dejavnik za poslabšanje stanja in ponoven obisk urgentnega centra (<xref ref-type="bibr" rid="b11">11</xref>). Za zdravljenje nezapletenega cistitisa, povzročenega z <italic>E. coli,</italic> izsledki kliničnih raziskav, ekspertna mnenja in matematični modeli napovedujejo, da je izkustveno zdravljenje s trimetoprim/sulfametoksazolom (TMP/SMX) primerno, če je odpornost proti TMP/SMX pod 20 % (<xref ref-type="bibr" rid="b5">5</xref>). Če bi rezultate občutljivosti na antibiotike v <xref ref-type="table" rid="table1">Tabeli 1</xref> ocenjevali po tem merilu, bi ugotovili, da ampicilin (rezultati veljajo tudi za amoksicilin) za izkustveno zdravljenje ni primeren, delež teoretične populacije izolatov, občutljivih za ampicilin, je namreč le 50 %.</p>
+         <table-wrap position="anchor" id="table1">
+            <label>Tabela 1:</label>
+            <caption>
+               <p> Deleži občutljivosti za antibiotike in delež teoretične populacije izolatov, ki je občutljiv za antibiotik (teoretična sestava izolatov: <italic>Escherichia coli</italic> 79 %, <italic>Klebsiella pneumoniae</italic> 7 %, <italic>Proteus mirabilis</italic> 7 %, <italic>Staphylococcus saprophyticus</italic> 7 %).</p>
+            </caption>
+            <table>
+               <colgroup>
+                  <col/>
+                  <col/>
+                  <col/>
+                  <col/>
+                  <col/>
+                  <col/>
+                  <col/>
+                  <col/>
+                  <col/>
+                  <col/>
+                  <col/>
+                  <col/>
+               </colgroup>
+               <tbody>
+                  <tr>
+                     <th rowspan="2">Bakterijska vrsta</th>
+                     <th rowspan="2">Število testiranih izolatov</th>
+                     <th align="center" colspan="2">Ampicilin</th>
+                     <th align="center" colspan="2">Amoksicilin s klavulansko kislino</th>
+                     <th align="center" colspan="2">Cefadroksil</th>
+                     <th align="center" colspan="2">Cefuroksim aksetil</th>
+                     <th align="center" colspan="2">Cefiksim</th>
+                  </tr>
+                  <tr>
+                     <td>Delež <break/>S (%)*</td>
+                     <td>DTPIOA (%)**</td>
+                     <td>Delež <break/>S (%)*</td>
+                     <td>DTPIOA (%)**</td>
+                     <td>Delež <break/>S (%)*</td>
+                     <td>DTPIOA (%)**</td>
+                     <td>Delež <break/>S (%)*</td>
+                     <td>DTPIOA (%)**</td>
+                     <td>Delež <break/>S (%)*</td>
+                     <td>DTPIOA (%)**</td>
+                  </tr>
+                  <tr>
+                     <td>
+                        <italic>Escherichia coli</italic>
+                     </td>
+                     <td align="right">1.033</td>
+                     <td align="right">49,4</td>
+                     <td align="right">39,0</td>
+                     <td align="right">82,3</td>
+                     <td align="right">65,0</td>
+                     <td align="right">90,1</td>
+                     <td align="right">71,2</td>
+                     <td align="right">88,2</td>
+                     <td align="right">69,7</td>
+                     <td align="right">89,6</td>
+                     <td align="right">70,8</td>
+                  </tr>
+                  <tr>
+                     <td>
+                        <italic>Klebsiella pneumoniae</italic>
+                     </td>
+                     <td align="right">137</td>
+                     <td align="right">0,0</td>
+                     <td align="right">0,0</td>
+                     <td align="right">72,3</td>
+                     <td align="right">5,1</td>
+                     <td align="right">73,7</td>
+                     <td align="right">5,2</td>
+                     <td align="right">72,3</td>
+                     <td align="right">5,1</td>
+                     <td align="right">74,5</td>
+                     <td align="right">5,2</td>
+                  </tr>
+                  <tr>
+                     <td>
+                        <italic>Proteus mirabilis</italic>
+                     </td>
+                     <td align="right">127</td>
+                     <td align="right">56,7</td>
+                     <td align="right">4,0</td>
+                     <td align="right">85,0</td>
+                     <td align="right">6,0</td>
+                     <td align="right">96,9</td>
+                     <td align="right">6,8</td>
+                     <td align="right">100,0</td>
+                     <td align="right">7,0</td>
+                     <td align="right">100,0</td>
+                     <td align="right">7,0</td>
+                  </tr>
+                  <tr>
+                     <td>
+                        <italic>Staphylococcus saprophyticus</italic>
+                     </td>
+                     <td align="right">57</td>
+                     <td align="right">100</td>
+                     <td align="right">7,0</td>
+                     <td align="right">100</td>
+                     <td align="right">7,0</td>
+                     <td align="right">100</td>
+                     <td align="right">7,0</td>
+                     <td align="right">100</td>
+                     <td align="right">7,0</td>
+                     <td align="right">100</td>
+                     <td align="right">7,0</td>
+                  </tr>
+                  <tr>
+                     <td>Skupaj</td>
+                     <td align="right">1.354</td>
+                     <td align="right">/</td>
+                     <td align="right">50,0</td>
+                     <td align="right">/</td>
+                     <td align="right">83,0</td>
+                     <td align="right">/</td>
+                     <td align="right">90,1</td>
+                     <td align="right">/</td>
+                     <td align="right">88,7</td>
+                     <td align="right">/</td>
+                     <td align="right">90,0</td>
+                  </tr>
+               </tbody>
+            </table>
+            <table-wrap-foot>
+               <p>* Delež občutljivih izolatov, ki za antibiotik veljajo za nezapletene okužbe sečil po smernicah EUCAST. Percentage of susceptible isolates for uncomplicated urinary tract infections (EUCAST guidelines).</p>
+               <p>** Delež teoretične populacije izolatov, občutljiv za antibiotik (DTPIOA, v odstotkih) – pri posamezni bakterijski vrsti in pri vseh vrstah skupaj. Percentage of theoretical isolates susceptible to the antibiotic (DTPIOA).</p>
+            </table-wrap-foot>
+         </table-wrap>
+         <p>Delež teoretične populacije izolatov, občutljivih za amoksicilin s klavulansko kislino, je 83 %, ocena občutljivosti za peroralne cefalosporine od prve do tretje generacije (cefadroksil, cefuroksim aksetil, cefiksim) pa je okrog 90 %. Ti antibiotiki so primerni za izkustveno zdravljenje, vendar je ekološka škoda pri uporabi antibiotikov širokega spektra velika. Ocenjujemo, da je cefadroksil primerna alternativa za zdravljenje nezapletenih okužb sečil, če so zdravila prve izbire pri bolnici prepovedana.</p>
+         <p>Evropsko združenje za urologijo za zdravljenje cistitisa s cefadroksilom priporoča tridnevno zdravljenje (<xref ref-type="bibr" rid="b1">1</xref>), slovenska priporočila za betalaktamske antibiotike pa svetujejo od 3- do 7-dnevno zdravljenje (<xref ref-type="bibr" rid="b6">6</xref>). Kratkotrajno zdravljenje okužb sečil z betalaktamskimi antibiotiki je sicer manj učinkovito kot zdravljenje s TMP/SMX ali fluorokinoloni, zato je smiselno podaljšati zdravljenje na najmanj 5 dni (<xref ref-type="bibr" rid="b5">5</xref>,<xref ref-type="bibr" rid="b7">7</xref>). Cefadroksil je primeren tudi za zdravljenje cistitisa pri nosečnicah (<xref ref-type="bibr" rid="b1">1</xref>,<xref ref-type="bibr" rid="b12">12</xref>).</p>
+         <p>Prednost uporabljenega matematičnega modela je v tem, da z eno številko izrazi skupno občutljivost za antibiotik vseh povzročiteljev, ki so vključeni v model. Na podlagi tega lahko izračunamo rezultate za različne deleže posameznih povzročiteljev iz različnih virov. Podoben koncept izračunane (pretehtane) izbire izkustvenega antibiotika opisujejo nemške smernice za izbiro izkustvenega antibiotičnega zdravljenja bakterijskih okužb (<xref ref-type="bibr" rid="b13">13</xref>). Pretehtana izbira upošteva lokalno občutljivost povzročiteljev, vrsto bakterijske okužbe ter lastnosti bolnika pri izbiri najustreznejšega izkustvenega zdravljenja (<xref ref-type="bibr" rid="b13">13</xref>).</p>
+         <p>Naša študija ima več omejitev.</p>
+         <list>
+            <list-item>
+               <label>•</label>
+               <p>Izolati niso reprezentativni za nezapletene okužbe sečil. Laboratorij sicer nima sistematičnih podatkov o vrsti okužbe sečil, zato smo lahko izvor izolatov omejili le na ženski spol (pri moških okužbe niso nezapletene) in s tem zmanjšali delež izolatov pri bolnikih z morebitno zapleteno okužbo sečil.</p>
+            </list-item>
+            <list-item>
+               <label>•</label>
+               <p>Rezultati antibiogramov izvirajo iz redne mikrobiološke diagnostike, ki se pogosteje uporablja pri bolnikih s težje potekajočimi okužbami in pridruženimi boleznimi in/ali pri bolnikih, pri katerih izkustveno zdravljenje ni bilo uspešno. Pri teh bolnikih je bolj verjetno, da so njihovi izolati na antibiotike bolj odporni kot pri bolnicah, ki zbolijo doma z nezapleteno okužbo sečil in so izkustveno uspešno zdravljene, vzorci za urinokulturo pa niso bili odvzeti.</p>
+            </list-item>
+            <list-item>
+               <label>•</label>
+               <p>Tudi deleži vrst med rednimi izolati niso reprezentativni za nezapletene okužbe sečil – zato smo za deleže v izračunu uporabili deleže iz literature, ki se nanašajo na nezapletene okužbe sečil.</p>
+            </list-item>
+            <list-item>
+               <label>•</label>
+               <p>Prevalenca posameznih vrst bakterij se ocenjuje na evropski ravni in ne zrcali nujno prevalence v Sloveniji, a domnevamo, da deleži povzročiteljev pri nas naj ne bi bili bistveno drugačni.</p>
+            </list-item>
+         </list>
+         <p>Rezultati v tem prispevku torej ne napovedujejo absolutne vrednosti občutljivosti skupine povzročiteljev nezapletenih okužb sečil za posamezen antibiotik, vendar pa rezultati podajajo okvirno oceno razlik med njimi. Ker je občutljivost za amoksicilin s klavulansko kislino in cefalosporine že v tej populaciji rednih izolatov dobra, je med povzročitelji nezapletenih okužb verjetno odlična.</p>
+         <p>Urinski vzorci so bili odvzeti v Pomurju. Ni znano, ali je občutljivost v Sloveniji porazdeljena enakomerno, ali pa obstajajo večje regijske razlike, zato tudi uporabnost rezultatov za druge regije ni znana. Kljub navedenim omejitvam menimo, da je prikazani način ocene predvidene učinkovitosti antibiotikov pomemben iz dveh razlogov. Z njim lahko v različnih regijah v Sloveniji in drugod enostavno napovemo klinično učinkovitost antibiotikov in oblikujemo priporočila za zdravljenje. Obenem rezultati nakazujejo, da so v Sloveniji za zdravljenje nezapletenih okužb sečil primerni tudi cefalosporini ožjega spektra.</p>
+      </sec>
+      <sec id="s5" sec-type="Zaključek">
+         <label>5</label>
+         <title>Zaključek</title>
+         <p>Uporabljeni matematični model prikazuje razlike v občutljivosti za različne antibiotike, čeprav ugotovljeni deleži občutljivosti verjetno niso reprezentativni za nezapletene okužbe spodnjih sečil. Potrebne so raziskave, s katerimi bi pri zadostnem številu izolatov opredelili dejansko občutljivost urinskih izolatov pri nezapletenih okužbah spodnjih sečil iz različnih regij.</p>
+         <p>Ampicilin (amoksicilin) ni smiseln izbor za izkustveno zdravljenje, saj ima najmanjši delež občutljivosti. Amoksicilin s klavulansko kislino, cefuroksim aksetil (2. generacija cefalosporinov) in cefiksim (3. generacija cefalosporinov) imajo sprejemljive deleže občutljivosti, a gre za antibiotike širokega spektra, ki povzročajo ekološko škodo in zato niso sprejemljiva izbira za izkustveno zdravljenje neogrožujoče okužbe. Rezultati kažejo, da je za zdravljenje nezapletenih okužb spodnjih sečil najprimernejša izbira za bolnice, ki ne morejo biti zdravljene z nitrofurantoinom ali fosfomicinom, cefalosporin najnižje generacije, cefadroksil.</p>
+      </sec>
+   </body>
+   <back>
+      <ref-list>
+         <ref id="b1">
+            <label>1. </label>
+            <mixed-citation publication-type="webpage">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Bonkat</surname>
+                     <given-names>GC</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Pickard</surname>
+                     <given-names>RC</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Bartoletti</surname>
+                     <given-names>R</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Bruyère</surname>
+                     <given-names>F</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Geerlings</surname>
+                     <given-names>S</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Wagenlehner</surname>
+                     <given-names>F</given-names>
+                  </name>, 
+                        <etal>et al</etal>
+                    </person-group>. 
+                    <source>Guidelines on Urological Infections 2017. European Association of Urology</source>. 
+                    [<date-in-citation content-type="access-date">cited 2017 Sep 7</date-in-citation>]. 
+                    <comment>Available from: <uri>http://uroweb.org/guideline/urological-infections/</uri>
+               </comment>.
+                </mixed-citation>
+         </ref>
+         <ref id="b2">
+            <label>2. </label>
+            <mixed-citation publication-type="webpage">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Hooton</surname>
+                     <given-names>TM</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Gupta</surname>
+                     <given-names>K</given-names>
+                  </name>
+                    </person-group>. 
+                    <chapter-title>Acute Complicated cystitis and pyelonephritis</chapter-title>. In: 
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Bloom </surname>
+                     <given-names>A</given-names>
+                  </name> 
+                    </person-group>. 
+                    <source>UpToDate</source>.
+                    [<date-in-citation content-type="access-date">cited 2017 Sep 15</date-in-citation>]. 
+                    <comment>Available from: <uri>https://www.uptodate.com/contents/acute-complicated-cystitis-and</uri>
+               </comment>.
+                </mixed-citation>
+         </ref>
+         <ref id="b3">
+            <label>3. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Hooton</surname>
+                     <given-names>TM</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Clinical practice. Uncomplicated urinary tract infection</article-title>.
+                    <source>N Engl J Med</source>. 
+                    <year>2012</year>
+                    <month>Mar</month>;
+                    <volume>366</volume>(
+                    <issue>11</issue>):
+                    <fpage>1028</fpage>–
+                    <lpage>37</lpage>. 
+                    <pub-id pub-id-type="doi">10.1056/NEJMcp1104429</pub-id>
+                    <pub-id pub-id-type="pmid">22417256</pub-id>
+                    <issn>0028-4793</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b4">
+            <label>4. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Tandogdu</surname>
+                     <given-names>Z</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Wagenlehner</surname>
+                     <given-names>FM</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Global epidemiology of urinary tract infections</article-title>.
+                    <source>Curr Opin Infect Dis</source>. 
+                    <year>2016</year>
+                    <month>Feb</month>;
+                    <volume>29</volume>(
+                    <issue>1</issue>):
+                    <fpage>73</fpage>–
+                    <lpage>9</lpage>. 
+                    <pub-id pub-id-type="doi">10.1097/QCO.0000000000000228</pub-id>
+                    <pub-id pub-id-type="pmid">26694621</pub-id>
+                    <issn>0951-7375</issn> 
+                </mixed-citation>
+         </ref>
+         <ref id="b5">
+            <label>5. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Gupta</surname>
+                     <given-names>K</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Hooton</surname>
+                     <given-names>TM</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Naber</surname>
+                     <given-names>KG</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Wullt</surname>
+                     <given-names>B</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Colgan</surname>
+                     <given-names>R</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Miller</surname>
+                     <given-names>LG</given-names>
+                  </name>, 
+                        <etal>et al</etal>; 
+                        <collab>Infectious Diseases Society of America</collab>; 
+                        <collab>European Society for Microbiology and Infectious Diseases</collab>
+                    </person-group>. 
+                    <article-title>International clinical practice guidelines for the treatment of acute uncomplicated cystitis and pyelonephritis in women: A 2010 update by the Infectious Diseases Society of America and the European Society for Microbiology and Infectious Diseases</article-title>.
+                    <source>Clin Infect Dis</source>. 
+                    <year>2011</year>
+                    <month>Mar</month>;
+                    <volume>52</volume>(
+                    <issue>5</issue>):
+                    <fpage>e103</fpage>–
+                    <lpage>20</lpage>. 
+                    <pub-id pub-id-type="doi">10.1093/cid/ciq257</pub-id>
+                    <pub-id pub-id-type="pmid">21292654</pub-id>
+                    <issn>1058-4838</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b6">
+            <label>6. </label>
+            <mixed-citation publication-type="book-chapter">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Štrumbelj</surname>
+                     <given-names>I</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Pirš</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Berce</surname>
+                     <given-names>I</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Fišer</surname>
+                     <given-names>J</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Golle</surname>
+                     <given-names>A</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Harlander</surname>
+                     <given-names>T</given-names>
+                  </name>, 
+                        <etal>et al</etal>
+                    </person-group>. 
+                    <chapter-title>Občutljivost pogostih bakterij za antbiotike v Sloveniji po podatkih SKIJOP, 2017-2016</chapter-title>. In: 
+                        <person-group person-group-type="editor">
+                            <name name-style="western">
+                     <surname>Beović</surname>
+                     <given-names>B</given-names>
+                  </name>,
+                            <name name-style="western">
+                     <surname>Lejko Zupanc</surname>
+                     <given-names>T</given-names>
+                  </name>,
+                            <name name-style="western">
+                     <surname>Tomažič</surname>
+                     <given-names>J</given-names>
+                  </name>
+                            <role>eds</role>
+                        </person-group>. 
+                        <source>Stopenjska diagnostika in zdravljenje pogostih okužb</source>.
+                        <publisher-loc>Ljubljana</publisher-loc>:
+                        <publisher-name>Sekcija za protimikrobno zdravljenje SZD</publisher-name>;
+                        <year>2017</year>. pp. 
+                        <fpage>43</fpage>-
+                        <lpage>52</lpage>. 
+                </mixed-citation>
+         </ref>
+         <ref id="b7">
+            <label>7. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Warren</surname>
+                     <given-names>JW</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Abrutyn</surname>
+                     <given-names>E</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Hebel</surname>
+                     <given-names>JR</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Johnson</surname>
+                     <given-names>JR</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Schaeffer</surname>
+                     <given-names>AJ</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Stamm</surname>
+                     <given-names>WE</given-names>
+                  </name>; 
+                        <collab>Infectious Diseases Society of America (IDSA)</collab>
+                    </person-group>. 
+                    <article-title>Guidelines for antimicrobial treatment of uncomplicated acute bacterial cystitis and acute pyelonephritis in women</article-title>.
+                    <source>Clin Infect Dis</source>. 
+                    <year>1999</year>
+                    <month>Oct</month>;
+                    <volume>29</volume>(
+                    <issue>4</issue>):
+                    <fpage>745</fpage>–
+                    <lpage>58</lpage>. 
+                    <pub-id pub-id-type="doi">10.1086/520427</pub-id>
+                    <pub-id pub-id-type="pmid">10589881</pub-id>
+                    <issn>1058-4838</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b8">
+            <label>8. </label>
+            <mixed-citation publication-type="webpage">
+                    <person-group person-group-type="author">
+                        <collab>The European Committee on Antimicrobial Susceptibility Testing</collab>
+                    </person-group>. 
+                    <source>Breakpoint tables for interpretation of MICs and zone diameters. Version 8.0, 2018. EUCAST</source>.
+                    <year>2018</year>. 
+                    [<date-in-citation content-type="access-date">cited 2018 Mar 11</date-in-citation>]. 
+                    <comment>Available from: <uri>http://www.eucast.org/clinical_breakpoints/</uri>
+               </comment>.
+                </mixed-citation>
+         </ref>
+         <ref id="b9">
+            <label>9. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Paterson</surname>
+                     <given-names>DL</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>"Collateral damage" from cephalosporin or quinolone antibiotic therapy</article-title>. 
+                        <source>Clin Infect Dis</source>. 
+                        <year>2004</year>
+                        <month>Oct</month>;
+                        <volume>29</volume>(
+                        <issue>Supplement_4</issue>):
+                        <fpage>S341</fpage>–
+                        <lpage>5</lpage>. 
+                        <pub-id pub-id-type="doi">10.1086/382690</pub-id>
+                        <pub-id pub-id-type="pmid">15127367</pub-id>
+                        <issn>1058-4838</issn> 
+                </mixed-citation>
+         </ref>
+         <ref id="b10">
+            <label>10. </label>
+            <mixed-citation publication-type="webpage">
+                    <person-group person-group-type="author">
+                        <collab>The European Committee on Antimicrobial Susceptibility Testing</collab>.
+                    </person-group>. 
+                    <article-title>EUCAST breakpoints for oral cephalosporins. Guidance Document.</article-title>. 
+                    <year>2012</year>. 
+                    [<date-in-citation content-type="access-date">cited 2018 Mar 11</date-in-citation>]. 
+                    <comment>Available from: <uri>http://www.eucast.org/guidance_documents/</uri>
+               </comment>.
+                </mixed-citation>
+         </ref>
+         <ref id="b11">
+            <label>11. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Jorgensen</surname>
+                     <given-names>S</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Zurayk</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Yeung</surname>
+                     <given-names>S</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Terry</surname>
+                     <given-names>J</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Dunn</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Nieberg</surname>
+                     <given-names>P</given-names>
+                  </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>Risk factors for early return visits to the emergency department in patients with urinary tract infection</article-title>. 
+                    <source>Am J Emerg Med</source>. 
+                    <year>2018</year>
+                    <month>Jan</month>;
+                    <volume>36</volume>(
+                    <issue>1</issue>):
+                    <fpage>12</fpage>–
+                    <lpage>7</lpage>. 
+                    <pub-id pub-id-type="doi">10.1016/j.ajem.2017.06.041</pub-id>
+                    <pub-id pub-id-type="pmid">28655424</pub-id>
+                    <issn>0735-6757</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b12">
+            <label>12. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Vahlensieck</surname>
+                     <given-names>W</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Perepanova</surname>
+                     <given-names>T</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Bjerklund Johansen</surname>
+                     <given-names>TE</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Tenke</surname>
+                     <given-names>P</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Naber</surname>
+                     <given-names>KG</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Wagenlehner</surname>
+                     <given-names>FM</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Management of uncomplicated recurrent urinary tract infections</article-title>.
+                    <source>Eur Urol Suppl</source>. 
+                    <year>2016</year>;
+                    <volume>15</volume>(
+                    <issue>4</issue>):
+                    <fpage>95</fpage>–
+                    <lpage>101</lpage>. 
+                    <pub-id pub-id-type="doi">10.1016/j.eursup.2016.04.007</pub-id>
+                    <issn>1569-9056</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b13">
+            <label>13. </label>
+            <mixed-citation publication-type="webpage"> 
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Bodmann</surname>
+                     <given-names>K</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Grabein</surname>
+                     <given-names>B</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Kresken</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Derendorf</surname>
+                     <given-names>H</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Stahlmann</surname>
+                     <given-names>R</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Ott</surname>
+                     <given-names>S</given-names>
+                  </name>;
+                        <collab>Paul-Ehrlich-Gesellschaft für Chemotherapie e.V</collab>
+                        <etal>et al</etal>
+                    </person-group>. 
+                    <article-title>Kalkulierte parenterale Initialtherapie bakterieller Erkrankungen bei Erwachsenen – Update</article-title>.
+                    <year>2018</year>.
+                    [<date-in-citation content-type="access-date">cited 2019 Apr 1</date-in-citation>]. 
+                    <comment>Available from: <uri>https://www.awmf.org/uploads/tx_szleitlinien/S82-006l_S2k_Parenterale_Antibiotika_2018-1.pdf</uri>
+               </comment>.
+                </mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

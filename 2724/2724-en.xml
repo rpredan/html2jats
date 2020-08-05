@@ -1,0 +1,968 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD with MathML3 v1.1 20151215//EN" "JATS-journalpublishing1-mathml3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink"
+         dtd-version="1.1"
+         xml:lang="en"
+         article-type="other">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher-id">Zdrav Vestn</journal-id>
+         <journal-id journal-id-type="nlm-ta">Zdrav Vestn</journal-id>
+         <journal-id journal-id-type="doi">Zdrav Vestn</journal-id>
+         <journal-title-group>
+            <journal-title>Slovenian Medical Journal</journal-title>
+            <trans-title-group xml:lang="sl">
+               <trans-title>Zdravniški vestnik</trans-title>
+            </trans-title-group>
+            <abbrev-journal-title>Zdrav Vestn</abbrev-journal-title>
+         </journal-title-group>
+         <issn publication-format="ppub" pub-type="ppub">1318-0347</issn>
+         <issn publication-format="epub" pub-type="epub">1581-0224</issn>
+         <issn-l>0350-0063</issn-l>
+         <publisher>
+            <publisher-name xml:lang="sl">Slovensko zdravniško društvo</publisher-name>
+            <publisher-name xml:lang="en">Slovenian Medical Association</publisher-name>
+            <publisher-loc xml:lang="sl">Ljubljana, Slovenia</publisher-loc>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.6016/ZdravVestn.2724</article-id>
+         <article-id pub-id-type="publisher-id">2724</article-id>
+         <article-categories>
+            <subj-group subj-group-type="discipline" xml:lang="en">
+               <subject>Medicine and health sciences</subject>
+               <subj-group>
+                  <subject>Metabolic and hormonal disorders</subject>
+               </subj-group>
+            </subj-group>
+            <subj-group subj-group-type="article-type" xml:lang="en">
+               <subject>Short scientific article</subject>
+            </subj-group>
+            <subj-group subj-group-type="heading" xml:lang="en">
+               <subject>Metabolic and hormonal disorders</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title xml:lang="en">Acute guarana poisoning: report of two cases</article-title>
+            <alt-title alt-title-type="running-head" xml:lang="en">Acute guarana poisoning</alt-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Leben</surname>
+                  <given-names>Lara</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1">1</xref>
+            </contrib>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Brvar</surname>
+                  <given-names>Miran</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1">1</xref>
+               <xref ref-type="corresp" rid="corr"/>
+            </contrib>
+         </contrib-group>
+         <aff id="aff1" xml:lang="en">
+            <label>1</label>
+            <institution>Poison Control Unit, Division of Internal Medicine, University Medical Centre Ljubljana, Ljubljana, Slovenia</institution>
+         </aff>
+         <author-notes>
+            <fn fn-type="conflict" xml:lang="en">
+               <p>The authors have declared that no competing interests exist.</p>
+            </fn>
+            <fn fn-type="conflict" xml:lang="sl">
+               <p>Avtorji so izjavili, da ne obstajajo nobeni konkurenčni interesi.</p>
+            </fn>
+            <corresp id="corr">Miran Brvar, e-mail: <email xlink:type="simple">miran.brvar@kclj.si</email>
+            </corresp>
+         </author-notes>
+         <pub-date pub-type="ppub">
+            <month>6</month>
+            <year>2018</year>
+         </pub-date>
+         <pub-date pub-type="epub">
+            <month>6</month>
+            <year>2018</year>
+         </pub-date>
+         <volume>87</volume>
+         <issue>5–6</issue>
+         <fpage>297</fpage>
+         <lpage>303</lpage>
+         <history>
+            <date date-type="received">
+               <day>5</day>
+               <month>2</month>
+               <year>2018</year>
+            </date>
+            <date date-type="accepted">
+               <day>30</day>
+               <month>3</month>
+               <year>2018</year>
+            </date>
+         </history>
+         <permissions>
+            <copyright-statement xml:lang="en">Copyright © 2018, Slovenian Medical Association (SZD)</copyright-statement>
+            <copyright-statement xml:lang="sl">© 2018, Slovensko zdravniško društvo (SZD)</copyright-statement>
+            <copyright-year>2018</copyright-year>
+            <copyright-holder xml:lang="en">Slovenian Medical Association (SZD)</copyright-holder>
+            <copyright-holder xml:lang="sl">Slovensko zdravniško društvo (SZD)</copyright-holder>
+            <license xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                     xlink:type="simple"
+                     xml:lang="en">
+               <license-p>This is an open access article distributed under the terms of the
+          <ext-link ext-link-type="uri"
+                            xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                            xlink:type="simple">Creative Commons Attribution-NonCommercial
+            License</ext-link>, which permits unrestricted use, distribution, and
+          reproduction in any medium, provided the original author and source are
+          credited and only for non-commercial purposes. </license-p>
+            </license>
+            <license xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                     xlink:type="simple"
+                     xml:lang="sl">
+               <license-p>To je članek z odprtim dostopom, ki ga lahko uporabite pod pogoji iz
+          <ext-link ext-link-type="uri"
+                            xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                            xlink:type="simple">Creative Commons Priznanje avtorstva-Nekomercialno
+            licence</ext-link>. ki dovoljuje distribucijo, predelavo ali
+          prilagoditev, ter gradijo na njem, v nekomercialne namene, z navedbo avtorja
+          in izvirnega dela.</license-p>
+            </license>
+         </permissions>
+         <abstract xml:lang="en">
+            <title>Abstract</title>
+            <p>Guarana (<italic>Paullinia cupana</italic>) is a South American plant that contains twice more caffeine compared to coffee beans, and has a stimulatory effect. Thus guarana preparations in the form of capsules, tablets, powders, teas, syrups and energy drinks contain a lot of caffeine, which can rapidly cause poisoning even when only slightly overdosed.</p>
+            <p>Caffeine poisoning may result in irritability, insomnia, anxiety, restlessness, muscle twitching, nausea or vomiting, rapid heart beat or cardiac arrhythmias, high blood pressure, sweating, diuresis and gastroinestinal disturbance.</p>
+            <p>This report presents two cases of guarana overdose with the common caffeine poisoning symptoms and signs. Guarana in therapeutic doses can exacerbate underlying cardiac disease (especially cardiac arrhythmias, coronary heart disease, heart failure) and diabetes. Furthermore, children, pregnant and nursing women should avoid guarana as well.</p>
+            <p>Treatment of guarana poisoning is symptomatic, mainly with benzodiazepines and by fluid and electrolyte substitution.</p>
+         </abstract>
+         <kwd-group xml:lang="en">
+            <kwd>stimulants</kwd>
+            <kwd>caffeine</kwd>
+            <kwd>overdose</kwd>
+            <kwd>adverse effects</kwd>
+            <kwd>interactions</kwd>
+         </kwd-group>
+      </article-meta>
+   </front>
+   <body>
+      <sec id="s1" sec-type="Introduction">
+         <label>1</label>
+         <title>Introduction</title>
+         <p>Over the last few years a marked increase in the number of patients with health problems due to overconsumption of products containing caffeine has been noticed. This has resulted from the increased offer of energy drinks, stimulants and other preparations containing caffeine (<xref ref-type="bibr" rid="b1">1</xref>,<xref ref-type="bibr" rid="b2">2</xref>). In the general population the guarana plant has become increasingly popular in various forms: capsules, tablets, powder, teas, syrups, energy drinks and vitamin drinks (<xref ref-type="bibr" rid="b1">1</xref>,<xref ref-type="bibr" rid="b3">3</xref>).</p>
+         <p>Guarana is being promoted as a natural ingredient having various effects on memory and concentration improvement, lower degree of fatigue, increased energy and alertness, migraine pain relief, burning of body fat and on decreasing appetite. Additionally, guarana is ascribed antibacterial and antioxidative properties, therefore it is believed to have beneficial effects on numerous inflammatory diseases. For its stimulating effect it has long been used as a substitute for coffee. For all the enumerated effects it has become attractive, increasingly used, and widely known all over the world since 1958 (<xref ref-type="bibr" rid="b1">1</xref>,<xref ref-type="bibr" rid="b4">4</xref>).</p>
+         <p>Guarana, technical term being <italic>Paullinia cupana, </italic>is a South American climbing plant, named after the Indian tribe Guarani from the Amazon basin. It has large leaves and clusters of flowers, but it is mostly known for its brown reddish fruit containing black seeds enveloped in white coats (<xref ref-type="fig" rid="fig1">Figure 1</xref>) (<xref ref-type="bibr" rid="b1">1</xref>,<xref ref-type="bibr" rid="b5">5</xref>).</p>
+         <p>Active ingredient is prepared from unripe seeds extracted from fruits, shelled, and then roasted and ground; the obtained powder is modelled with water into sticks that are dried and roasted again – the product is then called <italic>pasta guaranae</italic> (<xref ref-type="bibr" rid="b6">6</xref>).</p>
+         <p>The constituent components of guarana seeds are shown in <xref ref-type="table" rid="table1">Table 1</xref> (<xref ref-type="bibr" rid="b7">7</xref>). The high content of caffeine giving guarana its stimulating effects should be stressed. High doses, however, may cause health problems triggered by caffeine overdose (<xref ref-type="bibr" rid="b1">1</xref>).</p>
+         <p>Quite a few cases of guarana overdose have been registered worldwide (<xref ref-type="bibr" rid="b2">2</xref>). The purpose of this paper is to present the patients treated at the Centre of Clinical Toxicology and Pharmacology of the University Medical Centre Ljubljana for caffeine poisoning after guarana consumption.</p>
+      </sec>
+      <sec id="s2" sec-type="Presentation of clinical cases">
+         <label>2</label>
+         <title>Presentation of clinical cases</title>
+         <sec id="s2.1" sec-type="Clinical case 1">
+            <label>2.1</label>
+            <title>Clinical case 1</title>
+            <p>In order to increase his concentration and alertness for his studies, an 18-year-old student prepared himself a drink. Instead of 1/3 of a tea spoonful he took 3–4 spoonfuls of guarana powder which corresponds to approximately 600–900 mg of caffeine or to 8–11 cups of espresso (one 60-ml cup of espresso contains about 80 mg of caffeine) or to 2–3 litres of energy drink (100 ml of energy drink contains about 30 mg of caffeine). Less than two hours after drink intake, restlessness, strong heart beat, excessive sweating, headache, abdominal distension, and diuresis occurred. Examination at the internal medicine clinic of the Emergency Service, University Medical Centre Ljubljana, revealed increased heart rate (120 beats per minute), increased blood pressure (150/90 mm Hg) and slightly widened pupils, other parameters were normal. ECG showed a borderline prolonged QTc interval (464 ms), whereas laboratory tests showed a slightly decreased potassium concentration (3.7 mmol/L). The patient was otherwise healthy not taking any medications.</p>
+            <p>He was admitted to the ward where he received diazepam 5 mg perorally, other therapeutic measures were not required. The next day he was free of any subjective health problems, the sings of poisoning resolved and he was discharged from hospital.</p>
+            <table-wrap position="anchor" id="table1">
+               <label>Table 1:</label>
+               <caption>
+                  <p> Guarana seed components<italic> </italic>(<xref ref-type="bibr" rid="b7">7</xref>).</p>
+               </caption>
+               <table>
+                  <colgroup>
+                     <col/>
+                     <col/>
+                  </colgroup>
+                  <thead>
+                     <tr>
+                        <th>Guarana seed components</th>
+                        <th>Number of particles of each component (parts per million; ppm)</th>
+                     </tr>
+                  </thead>
+                  <tbody>
+                     <tr>
+                        <td>Caffeine</td>
+                        <td align="right">25.000–76.000</td>
+                     </tr>
+                     <tr>
+                        <td>Theophylline</td>
+                        <td align="right">570</td>
+                     </tr>
+                     <tr>
+                        <td>Tannin</td>
+                        <td align="right">85.000–120.000</td>
+                     </tr>
+                     <tr>
+                        <td>Theobromine</td>
+                        <td align="right">200–400</td>
+                     </tr>
+                     <tr>
+                        <td>Fats</td>
+                        <td align="right">&lt; 30.000</td>
+                     </tr>
+                     <tr>
+                        <td>Proteins</td>
+                        <td align="right">&lt; 98.600</td>
+                     </tr>
+                     <tr>
+                        <td>Resin</td>
+                        <td align="right">&lt; 70.000</td>
+                     </tr>
+                     <tr>
+                        <td>Starch</td>
+                        <td align="right">50.000–60.000</td>
+                     </tr>
+                     <tr>
+                        <td>Adenine, guanine, hypoxanthine, choline, D-catehcin</td>
+                        <td align="right">&gt; 100.000</td>
+                     </tr>
+                  </tbody>
+               </table>
+            </table-wrap>
+         </sec>
+         <sec id="s2.2" sec-type="Clinical case 2">
+            <label>2.2</label>
+            <title>Clinical case 2</title>
+            <p>A 23-year-old man was consuming preparations for fitness containing guarana over one week. Additionally, he was extremely physically active that week. After one week he felt nauseous, had irregular and strong heart beat, felt squeezing chest pain with tingling on both sides of the body lasting for some seconds. He did not report any other problems. ECG showed a slowed down heart rhythm and non-specific elevation of the ST segment in leads V2-V4. Additionally, an ultrasound scan of the heart and chest roentgenogram were made revealing no abnormality. Toxicological analysis of biological samples was not made. The problems resolved in approximately two hours after the occurrence of symptoms; ECG normalized. The patient was advised to discontinue using the preparations that may trigger heart rhythm problems (caffeine, theine, guarana and other stimulants).</p>
+            <p>There have been two cases of attempted suicide with guarana overdose in combination with other psychoactive substances treated. In these two cases, poisoning with other substances was predominant; guarana was just a supplement to overdosing.</p>
+            <fig position="anchor" id="fig1">
+               <label>Figure 1:</label>
+               <caption>
+                  <p> Guarana fruit (<xref ref-type="bibr" rid="b27">27</xref>).</p>
+               </caption>
+               <p>
+                  <graphic xlink:href="2724-en-web-resources/image/zdravvestn-2724-sl-01.png"/>
+               </p>
+            </fig>
+         </sec>
+      </sec>
+      <sec id="s3" sec-type="Discussion">
+         <label>3</label>
+         <title>Discussion</title>
+         <p>The effect of guarana is mostly related to caffeine activity. Guarana contains twice as much caffeine as coffee beans (guarana seeds contain 2–4.5 % caffeine, coffee beans 1–2 % only). Guarana seeds contain numerous other substances, mostly theophylline and theobromine that increase caffeine activity. Due to conjugation of caffeine with tannins that form hardly soluble complexes, caffeine from guarana is released into the blood circulation much more slowly than caffeine from coffee. Therefore, its effect is more steady and long lasting; it perseveres for about 6 hours (<xref ref-type="bibr" rid="b1">1</xref>,<xref ref-type="bibr" rid="b8">8</xref>,<xref ref-type="bibr" rid="b9">9</xref>).</p>
+         <p>In therapeutic concentrations, caffeine inhibits adenosine receptors, thus increasing adenylate cyclase activity and plasma cAMP concentration, which leads to increased activity of the sympathetic nervous system, and this increases the release of neurotransmitter transporters, catecholamines in particular. The systemic vascular resistance and blood pressure increase, and alertness, vigilance and concentration are more intense (<xref ref-type="bibr" rid="b1">1</xref>). Also, caffeine increases the synthesis of thromboxane and inhibits thrombocyte aggregation (<xref ref-type="bibr" rid="b10">10</xref>). Blocking adenosine receptors on juxtaglomerular cells in the kidney, it affects increased renin release, which further increases angiotensin and aldosterone concentrations. This usually results in diuresis (<xref ref-type="bibr" rid="b1">1</xref>).</p>
+         <p>Adrenaline and caffeine act synergistically in increasing metabolism which affects weight loss. In the liver, an additional amount of sugar is released into the blood circulation and the body gets more energy. Besides, caffeine activates hormone-sensitive lipase in the adipose tissue thus stimulating lipolysis. Additionally, it stimulates peristalsis and the activity of gall bladder, which results in quicker dissolution of fats, in increased concentrations of free short-chain fatty acids in the large intestines which may lead to diarrhoea, nausea, abdominal cramps and dehydration (<xref ref-type="bibr" rid="b11">11</xref>).</p>
+         <table-wrap position="anchor" id="table2">
+            <label>Table 2:</label>
+            <caption>
+               <p> Effects of low and high doses of caffeine<italic> </italic>(<xref ref-type="bibr" rid="b14">14</xref>,<xref ref-type="bibr" rid="b15">15</xref>,<xref ref-type="bibr" rid="b16">16</xref>).</p>
+            </caption>
+            <table>
+               <colgroup>
+                  <col/>
+                  <col/>
+               </colgroup>
+               <thead>
+                  <tr>
+                     <th>Caffeine dose</th>
+                     <th>Caffeine effect</th>
+                  </tr>
+               </thead>
+               <tbody>
+                  <tr>
+                     <td>Low dose</td>
+                     <td>insomnia, restlessness, increased alertness, lower degree of fatigue, muscle twitches, accelerated heartbeat tachycardia, increased blood pressure, diuresis, fast digestion</td>
+                  </tr>
+                  <tr>
+                     <td>High dose</td>
+                     <td>nausea, vomiting, irregular heartbeat, headache, anxiety, low blood pressure, accelerated breathing, paraesthesia in the hands and around the mouth, inhibited thrombocyte aggregation, epileptic seizures</td>
+                  </tr>
+               </tbody>
+            </table>
+         </table-wrap>
+         <p>In toxic concentrations caffeine competitively inhibits phosphodiesterase, therefore its effects are more markedly expressed. Due to inhibition of this enzyme in vascular smooth muscle cells, the amount of cAMP increases, which increases the renin production and inhibits thrombocyte aggregation, but simultaneously the calcium sensitivity of the contractile apparatus is decreased. This is the cause of vasodilatation (<xref ref-type="bibr" rid="b1">1</xref>,<xref ref-type="bibr" rid="b10">10</xref>).</p>
+         <p>In addition, due to the activation of the sympathetic nervous system caffeine impairs the endothelial function, which is the reason for decreased flow-mediated dilatation (<xref ref-type="bibr" rid="b12">12</xref>).</p>
+         <p>Caffeine also affects calcium release from endothelial cells, which causes increased nitric oxide synthesis, which further affects vasodilatation at simultaneous increased cardiac muscle contraction (<xref ref-type="bibr" rid="b13">13</xref>).</p>
+         <p>Ingestion of caffeine overdose is manifested by the following signs and symptoms: restlessness, insomnia, anxiety, fatigue, muscle twitches, nausea or vomiting, accelerated heart beat or arrhythmia, elevated blood pressure, facial flushing, excessive sweating, diuresis, irritability of the intestines with frequent defecation (<xref ref-type="table" rid="table2">Table 2</xref>). Should the patient have at least 5 of the enumerated signs and symptoms, the diagnosis of poisoning with caffeine is in place (<xref ref-type="bibr" rid="b14">14</xref>,<xref ref-type="bibr" rid="b15">15</xref>,<xref ref-type="bibr" rid="b16">16</xref>). As the cases we managed presented with most of the enumerated symptoms and signs, we presume that caffeine poisoning occurred, although toxicology analysis of caffeine in the blood was not made.</p>
+         <p>In excessive doses, caffeine affects cardiac conduction and refractoriness unfavourably; repolarisation of the heart is prolonged as well. This may lead to acute cardiomyopathy, heart arrest, coronary vasospasm, myocardial infarction, increased heart rate, but mainly to cardiac rhythm irregularities, atrial fibrillation in particular (<xref ref-type="bibr" rid="b1">1</xref>,<xref ref-type="bibr" rid="b5">5</xref>,<xref ref-type="bibr" rid="b15">15</xref>). A case of atrial and ventricular fibrillation due to guarana overdose, i.e. caffeine overdose has been described (<xref ref-type="bibr" rid="b17">17</xref>,<xref ref-type="bibr" rid="b18">18</xref>). Electrocardiogram revealed a prolonged QTc interval, which was found also in one of our patients. Unfavourable effects on the heart action, on the heart rhythm in particular, are exerted by hypocalcaemia, revealed by laboratory tests in one of our cases. Caffeine increases both water elimination from the body and renin release, which leads to increased aldosterone release in the body, therefore potassium loss with urine occurs (<xref ref-type="bibr" rid="b19">19</xref>).</p>
+         <p>Numerous cases of cardiac problems accompanied by epileptic seizures, delirium, irritability, restlessness, frightfulness have been registered (<xref ref-type="bibr" rid="b20">20</xref>). Caffeine is a psychoactive substance that can be manifested as agitation, aggressive behaviour, and inclination to suicidal behaviour.</p>
+         <p>It is estimated that adverse effects will occur at a daily dose exceeding 250–300 mg. A potentially lethal caffeine dose ranges between 10 and 14 g (150–200 mg/kg body mass); it depends on the individual’s sensitivity to caffeine, smoking, age and health condition. Although 10 g of caffeine corresponds to 100 cups of coffee, quite some death cases have been reported (<xref ref-type="bibr" rid="b21">21</xref>).</p>
+         <p>The consequences of acute guarana/caffeine overdose have been described so far. However, unwanted side effects have been observed also with frequent ingestion of high doses of caffeine which leads to resistance of the organism to high doses. Should a sudden cessation of daily caffeine ingestion occur, withdrawal syndrome would occur within 12–24 hours with a headache, nausea, nasal discharge, fatigue, sleepiness, depression, aversion to work; which may persist up to one week (<xref ref-type="bibr" rid="b22">22</xref>).</p>
+         <p>Guarana ingestion may lead to deterioration of some chronic diseases; special attention should be paid to heart diseases, existing high blood pressure, glaucoma. In diabetic patients additional disorders with glucose regulation may occur since guarana increases glucose concentration in the blood. Regular control of blood sugar level and adaptation of treatment for insufficient effect of antidiabteic drugs are required. Also, special attention is required with blood clotting disorders as caffeine in guarana slows down thrombocyte aggregation and blood clotting process. Caffeine accelerates calcium and potassium excretion from the body through the kidneys, which is unfavourable in patients with osteoporosis as this further worsens their bone condition. Pregnant and nursing women are advised not to consume guarana/caffeine to prevent negative effects on the newborn (<xref ref-type="bibr" rid="b14">14</xref>). Also, guarana consumption is not recommended before and/or during physical activity for additional load on the heart. Caution is needed with adolescents; due to their lower body mass, the effects of caffeine are more rapid and pronounced than in adults; the consequences may be lethal (<xref ref-type="bibr" rid="b23">23</xref>). Due to stimulant consumption in children and adolescents poor sleeping habits have been observed that bring along other long term consequences such as growth and developmental disorders, concentration problems, tiredness in school and poorer school achievements (<xref ref-type="bibr" rid="b24">24</xref>). Studies have shown that in children caffeine preparations do not increase momentary cognitive abilities and concentration as in adults but have rather negative effects. Caffeine exerts negative effects on brain development, particularly on orbitofrontal cortex and temporal lobe where many adenosine receptors are located. Children also tend to gain body mass at a slower pace, have poor eating habits and are prone to risky and impulsive behaviour (<xref ref-type="bibr" rid="b25">25</xref>)</p>
+         <p>For interaction of guarana with some medications the effect of the latter may be diminished. Simultaneous intake of guarana and different stimulants (amphetamines, cocaine, adrenaline) results in the increased activity of the nervous system, which may lead to serious health problems. Interestingly, the reported cases of guarana intake are often connected with simultaneous intake of other risk substances. Simultaneous intake of guarana and alcohol is quite frequent, a particularly dangerous combination as caffeine masks the subjective perception of alcohol activity. An individual thus has a feeling that he may consume more alcohol than usually, which is tricky as this increases the harmful effect of alcohol on the body and on risky behaviour. The same is true of combination of energy drinks and alcohol. Alcohol is also known to inhibit the metabolism of caffeine, therefore its half life is prolonged (<xref ref-type="bibr" rid="b1">1</xref>,<xref ref-type="bibr" rid="b23">23</xref>,<xref ref-type="bibr" rid="b25">25</xref>).</p>
+         <p>The diagnosis of guarana/caffeine poisoning is based on medical history and clinical picture, and is to be confirmed by toxicological blood analysis with gas chromatography and mass spectrometry (<xref ref-type="bibr" rid="b22">22</xref>).</p>
+         <p>The therapy within the first hour after guarana consumption includes gastrointestinal decontamination with activated charcoal. In life-threatening poisoning, caffeine can be removed from the body with haemodialysis. Further treatment is symptomatic, mainly with benzodiazepines (restlessness), parenteral hydration and electrolyte substitution (<xref ref-type="bibr" rid="b22">22</xref>,<xref ref-type="bibr" rid="b26">26</xref>).</p>
+      </sec>
+      <sec id="s4" sec-type="Conclusion">
+         <label>4</label>
+         <title>Conclusion</title>
+         <p>In Slovenia, not many cases of guarana overdose have been registered, but due to widespread use of stimulants, an increase is expected. Generally, guarana is presented as a most healing substance without harmful effects. However, it is necessary to stress that it contains a high dose of caffeine, which may quickly cause poisoning. Among the most life-threatening symptoms of caffeine poisoning are arrhythmias and epileptic seizures. To avoid health problems it is necessary the public be informed of the danger of guarana overdose, also via clear indications on the product.</p>
+         <p>The patients approved the publication of the present article.</p>
+      </sec>
+   </body>
+   <back>
+      <ref-list>
+         <ref id="b1">
+            <label>1. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Wassef</surname>
+                     <given-names>B</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Kohansieh</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Makaryus</surname>
+                     <given-names>AN</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Effects of energy drinks on the cardiovascular system</article-title>. 
+                    <source>World J Cardiol</source>. 
+                    <year>2017</year>
+                    <month>Nov</month>;
+                    <volume>9</volume>(
+                    <issue>11</issue>):
+                    <fpage>796</fpage>–
+                    <lpage>806</lpage>. 
+                    <pub-id pub-id-type="doi">10.4330/wjc.v9.i11.796</pub-id>
+                    <pub-id pub-id-type="pmid">29225735</pub-id>
+                    <issn>1949-8462</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b2">
+            <label>2. </label>
+            <mixed-citation publication-type="book">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Fragakis</surname>
+                     <given-names>AS</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Thomson</surname>
+                     <given-names>C</given-names>
+                  </name>
+                    </person-group>. 
+                    <source>The health professional’s guide to popular dietary supplements</source>. 
+                    <publisher-loc>Chicago</publisher-loc>: 
+                    <publisher-name>American Dietetic Association</publisher-name>; 
+                    <year>2007</year>.
+                </mixed-citation>
+         </ref>
+         <ref id="b3">
+            <label>3. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Babu</surname>
+                     <given-names>KM</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Church</surname>
+                     <given-names>RJ</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Lewander</surname>
+                     <given-names>W</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Energy Drinks: The New Eye-Opener For Adolescents</article-title>. 
+                    <source>Clin Pediatr Emerg Med</source>. 
+                    <year>2008</year>;
+                    <volume>9</volume>(
+                    <issue>1</issue>):
+                    <fpage>35</fpage>–
+                    <lpage>42</lpage>. 
+                    <pub-id pub-id-type="doi">10.1016/j.cpem.2007.12.002</pub-id>
+                    <issn>1522-8401</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b4">
+            <label>4. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Clauson</surname>
+                     <given-names>KA</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Shields</surname>
+                     <given-names>KM</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>McQueen</surname>
+                     <given-names>CE</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Persad</surname>
+                     <given-names>N</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Safety issues associated with commercially available energy drinks</article-title>. 
+                    <source>J Am Pharm Assoc (2003)</source>. 
+                    <year>2008</year>
+                    <month>May-Jun</month>;
+                    <volume>48</volume>(
+                    <issue>3</issue>):
+                    <fpage>e55</fpage>–
+                    <lpage>63</lpage>. 
+                    <pub-id pub-id-type="doi">10.1331/JAPhA.2008.07055</pub-id>
+                    <pub-id pub-id-type="pmid">18595815</pub-id>
+                    <issn>1544-3450</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b5">
+            <label>5. </label>
+            <mixed-citation publication-type="webpage">
+                    <person-group person-group-type="author">
+                        <collab>Medications and Drugs</collab>
+                    </person-group>. 
+                    <source>Emedicinehealth</source>.
+                    <year>2017</year>.
+                    [<date-in-citation content-type="access-date" iso-8601-date="2017-12-27">cited 2017 Dec 27</date-in-citation>]. 
+                    <comment>Available from:<uri>https://www.emedicinehealth.com/drug-guarana/article_em.htm</uri>
+               </comment>.
+                </mixed-citation>
+         </ref>
+         <ref id="b6">
+            <label>6. </label>
+            <mixed-citation publication-type="book">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Bruneton</surname>
+                     <given-names>J</given-names>
+                  </name>
+                    </person-group>. 
+                    <source>Pharmacognosy, Phytochemistry, Medicinal Plants</source>. 
+                    <publisher-loc>Paris</publisher-loc>: 
+                    <publisher-name>Lavoisier</publisher-name>; 
+                    <year>1999</year>.
+                </mixed-citation>
+         </ref>
+         <ref id="b7">
+            <label>7. </label>
+            <mixed-citation publication-type="webpage">
+                    <source>Guarana composition. Botanical online</source>.
+                    <year>2017</year>.
+                    [<date-in-citation content-type="access-date" iso-8601-date="2017-12-27">cited 2017 Dec 27</date-in-citation>].
+                    <comment>Available from:<uri>https://www.botanical-online.com/english/guarana_composition.htm</uri>
+               </comment>.
+                </mixed-citation>
+         </ref>
+         <ref id="b8">
+            <label>8. </label>
+            <mixed-citation publication-type="webpage">
+                    <source>Side effects of guarana. Botanical online</source>. 
+                    <year>2017</year>.
+                    [<date-in-citation content-type="access-date" iso-8601-date="2017-12-27">cited 2017 Dec 27</date-in-citation>].
+                    <comment>Available from:<uri>https://www.botanical-online.com/english/guarana_side_effects.htm</uri>
+               </comment>.                    
+                </mixed-citation>
+         </ref>
+         <ref id="b9">
+            <label>9. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Moustakas</surname>
+                     <given-names>D</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Mezzio</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Rodriguez</surname>
+                     <given-names>BR</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Constable</surname>
+                     <given-names>MA</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Mulligan</surname>
+                     <given-names>ME</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Voura</surname>
+                     <given-names>EB</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Guarana provides additional stimulation over caffeine alone in the planarian model</article-title>. 
+                    <source>PLoS One</source>. 
+                    <year>2015</year>
+                    <month>Apr</month>;
+                    <volume>10</volume>(
+                    <issue>4</issue>):
+                    <fpage>e0123310</fpage>. 
+                    <pub-id pub-id-type="doi">10.1371/journal.pone.0123310</pub-id>
+                    <pub-id pub-id-type="pmid">25880065</pub-id>
+                    <issn>1932-6203</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b10">
+            <label>10. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Subbiah</surname>
+                     <given-names>MT</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Yunker</surname>
+                     <given-names>R</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Studies on the nature of anti-platelet aggregatory factors in the seeds of the Amazonian Herb Guarana (Paullinia cupana)</article-title>. 
+                    <source>Int J Vitam Nutr Res</source>. 
+                    <year>2008</year>
+                    <month>Mar</month>;
+                    <volume>78</volume>(
+                    <issue>2</issue>):
+                    <fpage>96</fpage>–
+                    <lpage>101</lpage>. 
+                    <pub-id pub-id-type="doi">10.1024/0300-9831.78.2.96</pub-id>
+                    <pub-id pub-id-type="pmid">18791978</pub-id>
+                    <issn>0300-9831</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b11">
+            <label>11. </label>
+            <mixed-citation publication-type="book">
+                    <person-group>
+                  <name name-style="western">
+                     <surname/>
+                  </name>
+               </person-group>.
+                    <source>Institute of Medicine (US) Committe on military Nutrition Research. Caffeine for the Sustainment of Mental Task Performance: Formulations for Military Operations. Washington (DC)</source>. 
+                    <publisher-loc>US</publisher-loc>: 
+                    <publisher-name>National Academies Press</publisher-name>; 
+                    <year>2001</year>.
+                </mixed-citation>
+         </ref>
+         <ref id="b12">
+            <label>12. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Worthley</surname>
+                     <given-names>MI</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Prabhu</surname>
+                     <given-names>A</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>De Sciscio</surname>
+                     <given-names>P</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Schultz</surname>
+                     <given-names>C</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Sanders</surname>
+                     <given-names>P</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Willoughby</surname>
+                     <given-names>SR</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Detrimental effects of energy drink consumption on platelet and endothelial function</article-title>. 
+                    <source>Am J Med</source>. 
+                    <year>2010</year>
+                    <month>Feb</month>;
+                    <volume>123</volume>(
+                    <issue>2</issue>):
+                    <fpage>184</fpage>–
+                    <lpage>7</lpage>. 
+                    <pub-id pub-id-type="doi">10.1016/j.amjmed.2009.09.013</pub-id>
+                    <pub-id pub-id-type="pmid">20103032</pub-id>
+                    <issn>0002-9343</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b13">
+            <label>13. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Lin</surname>
+                     <given-names>CI</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Vassalle</surname>
+                     <given-names>M</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Role of calcium in the inotropic effects of caffeine in cardiac Purkinje fibers</article-title>. 
+                    <source>Int J Cardiol</source>. 
+                    <year>1983</year>
+                    <month>Jul</month>;
+                    <volume>3</volume>(
+                    <issue>4</issue>):
+                    <fpage>421</fpage>–
+                    <lpage>34</lpage>. 
+                    <pub-id pub-id-type="doi">10.1016/0167-5273(83)90113-4</pub-id>
+                    <pub-id pub-id-type="pmid">6885189</pub-id>
+                    <issn>0167-5273</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b14">
+            <label>14. </label>
+            <mixed-citation publication-type="webpage">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Symptoms</surname>
+                     <given-names>CO</given-names>
+                  </name>
+                    </person-group>. 
+                    <source>Signs, Cases, Prevention. Caffeine informer</source>. 
+                    <year>2017</year>.
+                    [<date-in-citation content-type="access-date" iso-8601-date="2017-12-27">cited 2017 Dec 27</date-in-citation>].
+                    <comment>Available from:<uri>https://www.caffeineinformer.com/caffeine-overdose-facts-and-fiction</uri>
+               </comment>. 
+                </mixed-citation>
+         </ref>
+         <ref id="b15">
+            <label>15. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Shirlow</surname>
+                     <given-names>MJ</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Mathers</surname>
+                     <given-names>CD</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>A study of caffeine consumption and symptoms; indigestion, palpitations, tremor, headache and insomnia</article-title>. 
+                    <source>Int J Epidemiol</source>. 
+                    <year>1985</year>
+                    <month>Jun</month>;
+                    <volume>14</volume>(
+                    <issue>2</issue>):
+                    <fpage>239</fpage>–
+                    <lpage>48</lpage>. 
+                    <pub-id pub-id-type="doi">10.1093/ije/14.2.239</pub-id>
+                    <pub-id pub-id-type="pmid">3874838</pub-id>
+                    <issn>0300-5771</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b16">
+            <label>16. </label>
+            <mixed-citation publication-type="book">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Stolerman</surname>
+                     <given-names>I</given-names>
+                  </name>
+                        <role>ed</role>
+                    </person-group>. 
+                    <source>Encyclopedia of psychopharmacology</source>. 
+                    <publisher-loc>Berlin</publisher-loc>: 
+                    <publisher-name>Springer</publisher-name>; 
+                    <year>2010</year>. 
+                    <pub-id pub-id-type="doi">10.1007/978-3-540-68706-1</pub-id>
+                </mixed-citation>
+         </ref>
+         <ref id="b17">
+            <label>17. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Ciszowski</surname>
+                     <given-names>K</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Biedroń</surname>
+                     <given-names>W</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Gomólka</surname>
+                     <given-names>E</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Acute caffeine poisoning resulting in atrial fibrillation after guarana extract overdose</article-title>. 
+                    <source>Przegl Lek</source>. 
+                    <year>2014</year>;
+                    <volume>71</volume>(
+                    <issue>9</issue>):
+                    <fpage>495</fpage>–
+                    <lpage>8</lpage>.
+                    <pub-id pub-id-type="pmid">25632790</pub-id>
+                    <issn>0033-2240</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b18">
+            <label>18. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Cannon</surname>
+                     <given-names>ME</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Cooke</surname>
+                     <given-names>CT</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>McCarthy</surname>
+                     <given-names>JS</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Caffeine-induced cardiac arrhythmia: an unrecognised danger of healthfood products</article-title>. 
+                    <source>Med J Aust</source>. 
+                    <year>2001</year>
+                    <month>May</month>;
+                    <volume>174</volume>(
+                    <issue>10</issue>):
+                    <fpage>520</fpage>–
+                    <lpage>1</lpage>.
+                    <pub-id pub-id-type="pmid">11419773</pub-id>
+                    <issn>0025-729X</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b19">
+            <label>19. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Tajima</surname>
+                     <given-names>Y</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Coffee-induced Hypokalaemia</article-title>. 
+                    <source>Clin Med Insights Case Rep</source>. 
+                    <year>2010</year>;
+                    <volume>3</volume>:
+                    <fpage>9</fpage>–
+                    <lpage>13</lpage>. 
+                    <pub-id pub-id-type="doi">10.4137/CCRep.S4329</pub-id>
+                    <pub-id pub-id-type="pmid">21769248</pub-id>
+                    <issn>1179-5476</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b20">
+            <label>20. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Seifert</surname>
+                     <given-names>SM</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Seifert</surname>
+                     <given-names>SA</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Schaechter</surname>
+                     <given-names>JL</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Bronstein</surname>
+                     <given-names>AC</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Benson</surname>
+                     <given-names>BE</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Hershorin</surname>
+                     <given-names>ER</given-names>
+                  </name>
+                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>An analysis of energy-drink toxicity in the National Poison Data System</article-title>. 
+                    <source>Clin Toxicol (Phila)</source>. 
+                    <year>2013</year>
+                    <month>Aug</month>;
+                    <volume>51</volume>(
+                    <issue>7</issue>):
+                    <fpage>566</fpage>–
+                    <lpage>74</lpage>. 
+                    <pub-id pub-id-type="doi">10.3109/15563650.2013.820310</pub-id>
+                    <pub-id pub-id-type="pmid">23879181</pub-id>
+                    <issn>1556-3650</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b21">
+            <label>21. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Yamamoto</surname>
+                     <given-names>T</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Yoshizawa</surname>
+                     <given-names>K</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Kubo</surname>
+                     <given-names>S</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Emoto</surname>
+                     <given-names>Y</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Hara</surname>
+                     <given-names>K</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Waters</surname>
+                     <given-names>B</given-names>
+                  </name>
+                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>Autopsy report for a caffeine intoxication case and review of the current literature</article-title>. 
+                    <source>J Toxicol Pathol</source>. 
+                    <year>2015</year>
+                    <month>Jan</month>;
+                    <volume>28</volume>(
+                    <issue>1</issue>):
+                    <fpage>33</fpage>–
+                    <lpage>6</lpage>. 
+                    <pub-id pub-id-type="doi">10.1293/tox.2014-0044</pub-id>
+                    <pub-id pub-id-type="pmid">26023259</pub-id>
+                    <issn>0914-9198</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b22">
+            <label>22. </label>
+            <mixed-citation publication-type="book">
+                    <person-group person-group-type="editor">
+                        <name name-style="western">
+                     <surname>Košnik</surname>
+                     <given-names>M</given-names>
+                  </name>,
+                        <name name-style="western">
+                     <surname>Mrevlje</surname>
+                     <given-names>F</given-names>
+                  </name>,
+                        <name name-style="western">
+                     <surname>štajer</surname>
+                     <given-names>D</given-names>
+                  </name>,
+                        <name name-style="western">
+                     <surname>Černelč</surname>
+                     <given-names>P</given-names>
+                  </name>,
+                        <name name-style="western">
+                     <surname>Koželj</surname>
+                     <given-names>M</given-names>
+                  </name>,
+                        <name name-style="western">
+                     <surname>Andoljšek</surname>
+                     <given-names>D</given-names>
+                  </name>,
+                        <etal>et al</etal>,
+                        <role>eds</role>
+                    </person-group>.
+                    <source>Interna medicina</source>.
+                    <publisher-loc>Ljubljana</publisher-loc>:
+                    <publisher-name>Littera picta : Slovensko medicinsko društvo</publisher-name>;
+                    <year>2011</year>.
+                    <isbn>978-961-6030-80-9</isbn>
+                </mixed-citation>
+         </ref>
+         <ref id="b23">
+            <label>23. </label>
+            <mixed-citation publication-type="webpage">
+                    <source>Guarana. WebMD</source>.
+                    <year>2017</year>.
+                    [<date-in-citation content-type="access-date" iso-8601-date="2017-12-27">cited 2017 Dec 27</date-in-citation>].
+                    <comment>Available from:<uri>https://www.webmd.com/vitamins-supplements/ingredientmono-935-guarana.aspx</uri>
+               </comment>. 
+                </mixed-citation>
+         </ref>
+         <ref id="b24">
+            <label>24. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Temple</surname>
+                     <given-names>JL</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Caffeine use in children: what we know, what we have left to learn, and why we should worry</article-title>. 
+                    <source>Neurosci Biobehav Rev</source>. 
+                    <year>2009</year>
+                    <month>Jun</month>;
+                    <volume>33</volume>(
+                    <issue>6</issue>):
+                    <fpage>793</fpage>–
+                    <lpage>806</lpage>. 
+                    <pub-id pub-id-type="doi">10.1016/j.neubiorev.2009.01.001</pub-id>
+                    <pub-id pub-id-type="pmid">19428492</pub-id>
+                    <issn>0149-7634</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b25">
+            <label>25. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>George</surname>
+                     <given-names>J</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Murphy</surname>
+                     <given-names>T</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Roberts</surname>
+                     <given-names>R</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Cooksley</surname>
+                     <given-names>WG</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Halliday</surname>
+                     <given-names>JW</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Powell</surname>
+                     <given-names>LW</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Influence of alcohol and caffeine consumption on caffeine elimination</article-title>. 
+                    <source>Clin Exp Pharmacol Physiol</source>. 
+                    <year>1986</year>
+                    <month>Oct</month>;
+                    <volume>13</volume>(
+                    <issue>10</issue>):
+                    <fpage>731</fpage>–
+                    <lpage>6</lpage>. 
+                    <pub-id pub-id-type="doi">10.1111/j.1440-1681.1986.tb02414.x</pub-id>
+                    <pub-id pub-id-type="pmid">3802578</pub-id>
+                    <issn>0305-1870</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b26">
+            <label>26. </label>
+            <mixed-citation publication-type="webpage">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Jew</surname>
+                     <given-names>D</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Caffeine toxicity</article-title>.
+                    <year>2017</year>.
+                    [<date-in-citation content-type="access-date" iso-8601-date="2017-12-27">cited 2017 Dec 27</date-in-citation>].
+                    <comment>Available from:<uri>https://emedicine.medscape.com/article/821863-overview</uri>
+               </comment>.
+                </mixed-citation>
+         </ref>
+         <ref id="b27">
+            <label>27. </label>
+            <mixed-citation publication-type="webpage">
+                    <source>Guarana – health benefits and side effects. Herbal Resource</source>.
+                    <year>2018</year>.
+                    [<date-in-citation content-type="access-date" iso-8601-date="2018-01-28">cited 2018 Jan 28</date-in-citation>].
+                    <comment>Available from:<uri>https://www.herbal-supplement-resource.com/guarana.html</uri>
+               </comment>.
+                </mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

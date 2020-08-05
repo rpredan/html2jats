@@ -1,0 +1,2100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD with MathML3 v1.1 20151215//EN" "JATS-journalpublishing1-mathml3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink"
+         dtd-version="1.1"
+         xml:lang="sl"
+         article-type="other">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher-id">Zdrav Vestn</journal-id>
+         <journal-id journal-id-type="nlm-ta">Zdrav Vestn</journal-id>
+         <journal-id journal-id-type="doi">Zdrav Vestn</journal-id>
+         <journal-title-group>
+            <journal-title>Zdravniški vestnik</journal-title>
+            <trans-title-group xml:lang="en">
+               <trans-title>Slovenian Medical Journal</trans-title>
+            </trans-title-group>
+            <abbrev-journal-title>Zdrav Vestn</abbrev-journal-title>
+         </journal-title-group>
+         <issn publication-format="ppub" pub-type="ppub">1318-0347</issn>
+         <issn publication-format="epub" pub-type="epub">1581-0224</issn>
+         <issn-l>0350-0063</issn-l>
+         <publisher>
+            <publisher-name xml:lang="sl">Slovensko zdravniško društvo</publisher-name>
+            <publisher-name xml:lang="en">Slovenian Medical Association</publisher-name>
+            <publisher-loc xml:lang="sl">Ljubljana, Slovenia</publisher-loc>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.6016/ZdravVestn.2898</article-id>
+         <article-id pub-id-type="publisher-id">2898</article-id>
+         <article-categories>
+            <subj-group subj-group-type="discipline" xml:lang="en">
+               <subject>Medicine and health sciences</subject>
+               <subj-group>
+                  <subject>Human reproduction</subject>
+               </subj-group>
+            </subj-group>
+            <subj-group subj-group-type="discipline" xml:lang="sl">
+               <subject>Medicina/Zdravstvo</subject>
+               <subj-group>
+                  <subject>Reprodukcija človeka</subject>
+               </subj-group>
+            </subj-group>
+            <subj-group subj-group-type="article-type" xml:lang="en">
+               <subject>Short scientific article</subject>
+            </subj-group>
+            <subj-group subj-group-type="article-type" xml:lang="sl">
+               <subject>Klinični primer</subject>
+            </subj-group>
+            <subj-group subj-group-type="heading" xml:lang="sl">
+               <subject>Reprodukcija človeka</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title xml:lang="sl">Zdravljenje spastičnosti s selektivno dorzalno rizotomijo: Prikaz nove kirurške metode v Sloveniji</article-title>
+            <trans-title-group>
+               <trans-title xml:lang="en">Selective dorsal rhizotomy for spasticity treatment: a new surgical method in Slovenia</trans-title>
+            </trans-title-group>
+            <alt-title alt-title-type="running-head" xml:lang="sl">Zdravljenje spastičnosti s selektivno dorzalno rizotomijo</alt-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Spazzapan</surname>
+                  <given-names>Peter</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1">1</xref>
+            </contrib>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Velnar</surname>
+                  <given-names>Tomaž</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1">1</xref>
+               <xref ref-type="corresp" rid="corr"/>
+            </contrib>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Rodi</surname>
+                  <given-names>Zoran</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff2">2</xref>
+            </contrib>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Kos</surname>
+                  <given-names>Nataša</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff3">3</xref>
+            </contrib>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Kupsch</surname>
+                  <given-names>Andreas</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff4">4</xref>
+            </contrib>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Bošnjak</surname>
+                  <given-names>Roman</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1">1</xref>
+            </contrib>
+         </contrib-group>
+         <aff-alternatives id="aff1">
+            <aff xml:lang="sl">
+               <label>1</label>
+               <institution>Klinični oddelek za nevrokirurgijo, Kirurška klinika, Univerzitetni klinični center Ljubljana, Ljubljana, Slovenija</institution>
+            </aff>
+            <aff xml:lang="en">
+               <label>1</label>
+               <institution>Department of Neurosurgery, Division of Surgery, University Medical Centre Ljubljana, Ljubljana, Slovenia</institution>
+            </aff>
+         </aff-alternatives>
+         <aff-alternatives id="aff2">
+            <aff xml:lang="sl">
+               <label>2</label>
+               <institution>Klinični inštitut za klinično nevrofiziologijo, Nevrološka klinika, Univerzitetni klinični center Ljubljana, Ljubljana, Slovenija</institution>
+            </aff>
+            <aff xml:lang="en">
+               <label>2</label>
+               <institution>Institute of Clinical Neurophysiology, Division of Neurology, University Medical Centre Ljubljana, Ljubljana, Slovenia</institution>
+            </aff>
+         </aff-alternatives>
+         <aff-alternatives id="aff3">
+            <aff xml:lang="sl">
+               <label>3</label>
+               <institution>Inštitut za medicinsko rehabilitacijo, Univerzitetni klinični center Ljubljana, Ljubljana, Slovenija</institution>
+            </aff>
+            <aff xml:lang="en">
+               <label>3</label>
+               <institution>Medical Rehabilitation Unit, University Medical Centre Ljubljana, Ljubljana, Slovenia</institution>
+            </aff>
+         </aff-alternatives>
+         <aff-alternatives id="aff4">
+            <aff xml:lang="sl">
+               <label>4</label>
+               <institution>Klinični oddelek za anesteziologijo in intenzivno terapijo operativnih strok, Kirurška klinika, Univerzitetni klinični center Ljubljana, Ljubljana, Slovenija</institution>
+            </aff>
+            <aff xml:lang="en">
+               <label>4</label>
+               <institution>Department of Anaesthetics and Surgical Intensive Care, Division of Surgery, University Medical Centre Ljubljana, Ljubljana, Slovenia</institution>
+            </aff>
+         </aff-alternatives>
+         <author-notes>
+            <fn fn-type="conflict" xml:lang="en">
+               <p>The authors have declared that no competing interests exist.</p>
+            </fn>
+            <fn fn-type="conflict" xml:lang="sl">
+               <p>Avtorji so izjavili, da ne obstajajo nobeni konkurenčni interesi.</p>
+            </fn>
+            <corresp id="corr">Tomaž Velnar, e-mail: <email xlink:type="simple"/>
+            </corresp>
+         </author-notes>
+         <pub-date pub-type="ppub">
+            <month>2</month>
+            <year>2020</year>
+         </pub-date>
+         <pub-date pub-type="epub">
+            <month>2</month>
+            <year>2020</year>
+         </pub-date>
+         <volume>89</volume>
+         <issue>1–2</issue>
+         <fpage>73</fpage>
+         <lpage>84</lpage>
+         <history>
+            <date date-type="received">
+               <day>12</day>
+               <month>11</month>
+               <year>2018</year>
+            </date>
+            <date date-type="accepted">
+               <day>2</day>
+               <month>4</month>
+               <year>2019</year>
+            </date>
+         </history>
+         <permissions>
+            <copyright-statement xml:lang="en">Copyright © 2020, Slovenian Medical Association (SZD)</copyright-statement>
+            <copyright-statement xml:lang="sl">© 2020, Slovensko zdravniško društvo (SZD)</copyright-statement>
+            <copyright-year>2020</copyright-year>
+            <copyright-holder xml:lang="en">Slovenian Medical Association (SZD)</copyright-holder>
+            <copyright-holder xml:lang="sl">Slovensko zdravniško društvo (SZD)</copyright-holder>
+            <license xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                     xlink:type="simple"
+                     xml:lang="en">
+               <license-p>This is an open access article distributed under the terms of the
+          <ext-link ext-link-type="uri"
+                            xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                            xlink:type="simple">Creative Commons Attribution-NonCommercial
+            License</ext-link>, which permits unrestricted use, distribution, and
+          reproduction in any medium, provided the original author and source are
+          credited and only for non-commercial purposes. </license-p>
+            </license>
+            <license xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                     xlink:type="simple"
+                     xml:lang="sl">
+               <license-p>To je članek z odprtim dostopom, ki ga lahko uporabite pod pogoji iz
+          <ext-link ext-link-type="uri"
+                            xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                            xlink:type="simple">Creative Commons Priznanje avtorstva-Nekomercialno
+            licence</ext-link>. ki dovoljuje distribucijo, predelavo ali
+          prilagoditev, ter gradijo na njem, v nekomercialne namene, z navedbo avtorja
+          in izvirnega dela.</license-p>
+            </license>
+         </permissions>
+         <abstract xml:lang="sl">
+            <title>Izvleček</title>
+            <p>Spastičnost je motorična motnja, ki jo zaznamuje porast mišičnega tonusa do take mere, da otežuje gibanje in vzdrževanje položaja telesa, kar vpliva tudi na kakovost življenja. S to patologijo se kljub pogostosti in pomembnosti ukvarja malo pediatričnih nevrokirurgov, najverjetneje zato, ker so bile možnosti za nevrokirurško zdravljenje dolgo omejene in nezanesljive. O prvi seriji dorzalnih rizotomij je leta 1979 poročal Fasano, do takrat pa so nevrokirurgi takim otrokom lahko nudili le skromno pomoč. Farmakološko zdravljenje spastičnosti se je do danes močno razvilo in obsega zdravila za peroralno, intramuskularno in intratekalno dajanje. Kirurške tehnike zdravljenja, kamor uvrščamo nevrokirurške in ortopedske posege, pa poleg delne sekcije perifernih živcev in globoke možganske stimulacije vključujejo tudi selektivno dorzalno rizotomijo (SDR). Izbira najbolj ustreznega zdravljenja je individualna in odločanje poteka interdisciplinarno. Predstavljamo primer otroka s spastičnostjo in zdravljenje z nevrokirurško tehniko SDR, ki smo jo v Sloveniji izvedli prvič.</p>
+         </abstract>
+         <trans-abstract xml:lang="en">
+            <title>Abstract</title>
+            <p>Spasticity is characterised by an abnormal increase in muscle tone, which may affect normal movements and the patients’ quality of life. Only a few paediatric neurosurgeons are being concerned with this pathology, mainly because decades ago the neurosurgeons were able to offer these children only a modest relief. Since then, the pharmacological therapy of spasticity has improved along with the neurosurgical and orthopaedic interventions. The medicines may limit the effects of the disease and the surgical treatment is gaining in importance, thus improving the quality of patients’ life. We report a case of a child affected by spastic paraparesis treated neurosurgically by SDR, which was performed in Slovenia for the first time.</p>
+         </trans-abstract>
+         <kwd-group xml:lang="sl">
+            <kwd>cerebralna paraliza</kwd>
+            <kwd>mišični tonus</kwd>
+            <kwd>prikaz primera</kwd>
+            <kwd>kirurško zdravljenje</kwd>
+            <kwd>rehabilitacija</kwd>
+         </kwd-group>
+         <kwd-group xml:lang="en">
+            <kwd>cerebral palsy</kwd>
+            <kwd>muscle tone</kwd>
+            <kwd>case report</kwd>
+            <kwd>surgical treatment</kwd>
+            <kwd>rehabilitation</kwd>
+         </kwd-group>
+      </article-meta>
+   </front>
+   <body>
+      <sec id="s1" sec-type="Uvod">
+         <label>1</label>
+         <title>Uvod</title>
+         <p>Spastičnost je motorična motnja, ki prizadene veliko otrok in je največkrat povezana s cerebralno paralizo, pri kateri zaradi okvare možganov nastopijo motnje v delovanju kortikospinalne proge, kar vodi do šibkosti, zvišanega tonusa in hkratnega aktiviranja mišic agonistov in antagonistov (<xref ref-type="bibr" rid="b1">1</xref>). Ob tem gre lahko tudi za druge motnje gibanja, kot sta distonija in atetoza. Zdravljenje spastičnosti ima dva cilja: zmanjšati priliv aferentnih dražljajev (preko SDR ali drugih ablativnih tehnik), ki prispevajo k višanju tonusa, ali pa višati inhibicijsko aktivnost (z zdravili, kakršno je npr. baklofen) (<xref ref-type="bibr" rid="b2">2</xref>,<xref ref-type="bibr" rid="b3">3</xref>). Lokalno lahko spastičnost in mišične krče zdravimo z vbrizganjem botulinskega toksina neposredno v mišice s simptomi. S tem se izognemo sistemskim učinkom zdravila, kot ga ima npr. baklofen (<xref ref-type="bibr" rid="b3">3</xref>).</p>
+         <p>Mišični tonus se normalno uravnava z aktivnostjo alfa-motoričnega nevrona, nanjo pa vplivajo aferentni in descendentni dražljaji (<xref ref-type="bibr" rid="b4">4</xref>,<xref ref-type="bibr" rid="b5">5</xref>). Spastičnost se razvije zaradi porušenega ravnovesja med dražljaji, ki višajo tonus, in tistimi, ki ga znižujejo. Ob prevladi dražljajev, ki višajo tonus in s tem povečani aktivnosti alfa-motoričnega nevrona, pride do krepitve miotatičnih refleksov in do povišanega tonusa mišic, kar se v najhujši obliki kaže kot spastičnost. Ta je vezana na hitrost giba in povzroča zvišan upor na pasivni gib mišice. Mišični tonus ob spastičnosti pa ni stalno povišan, ampak gre za porast, povezan s hitrostjo gibanja in tudi z drugimi zunanjimi dražljaji (strah, mraz …) (<xref ref-type="bibr" rid="b1">1</xref>,<xref ref-type="bibr" rid="b5">5</xref>). Spastičnost lahko opisujemo glede na število prizadetih udov. Ta klasifikacija je zelo primerna za kirurge pri odločanju o kirurškem zdravljenju in vključuje spastično tetraparezo, paraprezo, spastično hemiparezo ali monoparezo. Spastičnost lahko prizadene tudi mišice trupa, npr. paravertebralne mišice, vendar se ta vrsta prizadetosti ne vključuje v to klasifikacijo (<xref ref-type="bibr" rid="b5">5</xref>-<xref ref-type="bibr" rid="b7">7</xref>). Trenutno veljavna klasifikacija cerebralne paralize iz leta 2000 je drugačna in zajema več podtipov glede na povečani mišični tonus v enem ali več udih in glede na to, ali se mišični tonus spreminja (<xref ref-type="bibr" rid="b8">8</xref>). Tako je v to razdelitev vključena spastična obojestranska in spastična enostranska cerebralna paraliza, diskinetična cerebralna paraliza (zajema distonično in horeoatetotično cerebralno paralizo) ter ataktična cerebralna paraliza.</p>
+      </sec>
+      <sec id="s2" sec-type="Klinična slika in ocena stopnje spastičnosti">
+         <label>2</label>
+         <title>Klinična slika in ocena stopnje spastičnosti</title>
+         <p>Na cerebralno paralizo pomislimo, kadar otrok v določeni starosti ne dosega normalnega motoričnega razvoja (dvig glave, sedenje, stoja, hoja) (<xref ref-type="bibr" rid="b4">4</xref>). Ti otroci imajo pogosto nepravilno držo s povečanim mišičnim tonusom ali pa so njihove mišice v začetni fazi ohlapne, spastičnost pa se pojavi kasneje. Značilni simptomi, ne glede na tip cerebralne paralize, vključujejo nenormalen mišični tonus, motnje ravnotežja in okrepljene reflekse (<xref ref-type="bibr" rid="b5">5</xref>,<xref ref-type="bibr" rid="b6">6</xref>). Cerebralno paralizo lahko spremljajo epileptični napadi, motnje požiranja, govora, občutkov in inkontinenca za blato in vodo. Pri spastični obliki, ki je najpogostejša, je prisoten močno povišan mišični tonus. Krče lahko včasih izzove tudi nepričakovan slušni ali vidni dražljaj. Ostale oblike cerebralne paralize so še diskinetična oblika, pri kateri se pojavljajo zgibki udov in glave ter težava pri kontroli gibov, hipotonična oblika, ki se kaže z močno znižanim mišičnim tonusom in flakcidnostjo, ataktična oblika, ki je najredkejša, zanjo pa so značilne težave s koordinacijo in ravnotežjem, ter mešana oblika, pri kateri se prepletajo značilnosti vseh opisanih tipov bolezni (<xref ref-type="bibr" rid="b9">9</xref>-<xref ref-type="bibr" rid="b11">11</xref>).</p>
+         <p>V klinični sliki otroka s cerebralno paralizo izstopa spastičnost mišic, utrujenost in bolečina zaradi mišičnih krčev. Ta se najpogosteje pojavlja ponoči (<xref ref-type="bibr" rid="b9">9</xref>). Spastičnost značilno prizadene nekatere mišične skupine bolj kot druge. Najbolj prizadeti so adduktorji in fleksorji, kar se pri spastični paraparezi kaže s pokrčenimi koleni in kolki, s stojo na prstih ter z notranjo rotacijo spodnjih udov. Hoja je nestabilna, navadno škarjasta, ali pa gre za hojo po prstih. Lahko so prisotne deformacije kosti in sklepov (<xref ref-type="bibr" rid="b10">10</xref>). Pri pregledu otroka s spastično paraparezo gre za povišan upor pri pasivnih gibih, predvsem spodnjih udov, ki je vezan na hitrost giba. Patološki klonus stopala je vedno prisoten, plantarni odziv pa pri iztegnitvi. Spastičnost sčasoma vodi do sprememb v mišicah in tetivah, ki postanejo skrčene in krajše (<xref ref-type="bibr" rid="b12">12</xref>,<xref ref-type="bibr" rid="b13">13</xref>).</p>
+         <p>Ocena mišične moči pri aktivni gibljivosti je pomembna pri ocenjevanju spastičnosti in postavljanju indikacij za morebitno zdravljenje (<xref ref-type="bibr" rid="b14">14</xref>). Najbolj uporabna lestvica za ocenjevanje plastičnosti je Ashworthova lestvica in njej zelo podobna Modificirana Ashworthova lestvica, s katero določamo stopnjo spastičnosti. Gibalne funkcije, ki so zaradi spastičnosti lahko prav tako zelo okrnjene, pa ocenjujemo z lestvico GMFCS (<italic>angl.</italic> Gross Motor Function Classification System) (<xref ref-type="table" rid="table1">Tabela 1</xref> in <xref ref-type="table" rid="table2">Tabela 2</xref>) (<xref ref-type="bibr" rid="b4">4</xref>,<xref ref-type="bibr" rid="b10">10</xref>,<xref ref-type="bibr" rid="b15">15</xref>,<xref ref-type="bibr" rid="b16">16</xref>).</p>
+         <table-wrap position="anchor" id="table1">
+            <label>Tabela 1:</label>
+            <caption>
+               <p> Modificirana lestvica po Ashworthu za klasifikacijo stopnje spastičnosti.</p>
+            </caption>
+            <table>
+               <colgroup>
+                  <col/>
+                  <col/>
+               </colgroup>
+               <thead>
+                  <tr>
+                     <th>Stopnja</th>
+                     <th>Opis</th>
+                  </tr>
+               </thead>
+               <tbody>
+                  <tr>
+                     <td>0.</td>
+                     <td>Ni povečanega mišičnega tonusa.</td>
+                  </tr>
+                  <tr>
+                     <td>1.</td>
+                     <td>Blago povečanje tonusa, ki nudi rahel upor med fleksijo in ekstenzijo uda ob koncu obsega gibanja.</td>
+                  </tr>
+                  <tr>
+                     <td>1+.</td>
+                     <td>Blago povečanje tonusa, ki nudi rahel upor med fleksijo in ekstenzijo uda od polovice obsega gibanja.</td>
+                  </tr>
+                  <tr>
+                     <td>2.</td>
+                     <td>Srednje močno povečanje mišičnega tonusa med celotnim obsegom gibanja, vendar lahko ud normalno pokrčimo.</td>
+                  </tr>
+                  <tr>
+                     <td>3.</td>
+                     <td>Znatno povečanje tonusa – pasivni gibi so otežkočeni.</td>
+                  </tr>
+                  <tr>
+                     <td>4.</td>
+                     <td>Okorelost udov pri fleksiji in ekstenziji.</td>
+                  </tr>
+               </tbody>
+            </table>
+         </table-wrap>
+         <table-wrap position="anchor" id="table2">
+            <label>Tabela 2:</label>
+            <caption>
+               <p> Lestvica GFMCS.</p>
+            </caption>
+            <table>
+               <colgroup>
+                  <col/>
+                  <col/>
+               </colgroup>
+               <thead>
+                  <tr>
+                     <th>Stopnja</th>
+                     <th>Opis</th>
+                  </tr>
+               </thead>
+               <tbody>
+                  <tr>
+                     <td>Stopnja I:</td>
+                     <td>hodijo po ravnem in stopnicah v zaprtem prostoru in na prostem brez pomoči, začenjajo skakati in teči;</td>
+                  </tr>
+                  <tr>
+                     <td>Stopnja II:</td>
+                     <td>hodijo v zaprtih prostorih in na prostem po ravni površini, pomoč potrebujejo v zahtevnejših okoliščinah (hoja po stopnicah, po neravnem terenu);</td>
+                  </tr>
+                  <tr>
+                     <td>Stopnja III:</td>
+                     <td>sedijo na navadnem stolu, hodijo v zaprtih prostorih s pomočjo pripomočkov, ki jih držijo z rokami, stopajo po stopnicah ob pomoči odrasle osebe;</td>
+                  </tr>
+                  <tr>
+                     <td>Stopnja IV:</td>
+                     <td>v najboljšem primeru zmorejo prehoditi kratko razdaljo v zaprtem prostoru ob pomoči hodulje in odrasle osebe, a ne morejo sami menjati smeri ali vzdrževati ravnotežja na neravni površini; potrebujejo prevoz z vozičkom ali pa upravljajo voziček na električni pogon;</td>
+                  </tr>
+                  <tr>
+                     <td>Stopnja V:</td>
+                     <td>potrebujejo polno pomoč pri gibanju, ne zmorejo dobro nadzorovati položaja glave in trupa pri sedenju, prevažajo jih v vozičku.</td>
+                  </tr>
+               </tbody>
+            </table>
+         </table-wrap>
+         <p>S slikovnimi preiskavami spastičnosti ne moremo potrditi, saj značilnih radioloških znakov, ki bi specifično kazali na to diagnozo, ni (<xref ref-type="bibr" rid="b17">17</xref>). Na slikah možganov otrok s cerebralno paralizo z računalniško tomografijo (CT) in magnetnoresonančmim slikanjem (MRI) so sicer opisane spremembe, značilne za periventrikularno levkomalacijo, ki odslikava stanje po ishemični okvari po rojstvu. Tudi z nevrofiziološkimi preiskavami, kot je elektromiografija (EMG), ni mogoče kvantitativno oceniti spastičnosti (<xref ref-type="bibr" rid="b17">17</xref>,<xref ref-type="bibr" rid="b18">18</xref>). Pri postavljanju diagnoze in klasifikaciji se je zato potrebno opreti predvsem na klinično sliko, vključno z vzorcem hoje in rezultati meritev obsega gibanja sklepov (<xref ref-type="bibr" rid="b10">10</xref>,<xref ref-type="bibr" rid="b15">15</xref>).</p>
+      </sec>
+      <sec id="s3" sec-type="Zdravljenje spastičnosti">
+         <label>3</label>
+         <title>Zdravljenje spastičnosti</title>
+         <p>Z zdravljenjem spastičnosti moramo začeti čim bolj zgodaj, saj le tako lahko preprečimo nastanek prikrajšav mišic (<xref ref-type="bibr" rid="b1">1</xref>,<xref ref-type="bibr" rid="b5">5</xref>). Cilji zdravljenja so izboljšanje otrokovega funkcionalnega stanja, olajšanje nege, preprečevanje kontraktur in lajšanje bolečin. Zdravljenja pa ne potrebujejo vsi otroci. Tistih z blago obliko spastičnosti, ki ne ovira vsakdanjih opravil in ne povzroča bolečih krčev, ni potrebno zdraviti. Obstajata medikamentna in kirurška metoda, zato ustrezno zdravljenje predlaga multidisciplinarna skupina zdravnikov, ki ima izkušnje z vsakim od omenjenih načinov zdravljenja (<xref ref-type="bibr" rid="b12">12</xref>,<xref ref-type="bibr" rid="b19">19</xref>,<xref ref-type="bibr" rid="b20">20</xref>).</p>
+         <p>Medikamentno zdravljenje vključuje peroralna, intramuskularna in intratekalna zdravila. V prvo skupino spadajo agonist gama-aminomaslene kisline (GABA) baklofen, benzodiazepini (diazepam), alfa-2 agonist tizanidin in zaviralec dopaminskega prenašalca modafinil (<xref ref-type="bibr" rid="b19">19</xref>,<xref ref-type="bibr" rid="b21">21</xref>). Injekcije v mišice temeljijo na vnosu botulinskega toksina, alkohola ali fenola z najbolj opaznim učinkom na zmanjšanje kontraktur sklepov (<xref ref-type="bibr" rid="b21">21</xref>,<xref ref-type="bibr" rid="b22">22</xref>). Ta metoda zdravljenja je primerna pri tistih oblikah spastičnosti, pri kateri so prizadete le določene mišične skupine, in ni primerna za generalizirane oblike. Ker učinek ni trajen, ampak zdravilo deluje le prehodno, je potrebno injekcije ponavljati. Uporabljamo ga predvsem v zgodnjem otroštvu, med drugim in šestim letom starosti, ko se bo izkazalo, ali je otrok kandidat za nadaljevanje zdravljenja s SDR ali z vstavitvijo intratekalne baklofenske črpalke (<xref ref-type="bibr" rid="b5">5</xref>). Kot intratekalno zdravilo uporabljamo predvsem baklofen, ki je učinkovito sredstvo za zdravljenje spastičnosti zgornjih in spodnjih udov. Intratekalni vnos baklofena poteka preko nastavljive črpalke, ki jo kirurško vstavimo v podkožni žep in povežemo s subduralnim prostorom, kamor se zdravilo sprošča. Koncentracija baklofena v likvorju je po takšnem vnosu namreč veliko večja kot pri zaužitju zdravila. Zato je učinek boljši (<xref ref-type="bibr" rid="b3">3</xref>,<xref ref-type="bibr" rid="b5">5</xref>,<xref ref-type="bibr" rid="b21">21</xref>).</p>
+         <p>Med kirurškimi posegi za zdravljenje spastičnosti so poleg novejših načinov, kot sta globoka možganska stimulacija in SDR, opisane periferne nevrektomije, pri katerih zarežemo 50–80 % živčnih vlaken perifernih živcev (<xref ref-type="bibr" rid="b23">23</xref>). Najbolj pogoste tarče so posteriorni tibialni živec, obturatorni živec in muskulokutani živec, kar zmanjša krče v plantarnih fleksorjih, adduktorjih kolka in v fleksorjih komolca. S tem posegom ne vplivamo na zmanjšanje mišičnega tonusa (spastičnosti) v tarčnih mišicah, ampak na zmanjšanje mišičnih krčev. Prav zato je ta metoda primerna za zdravljenje krčev v posameznih mišičnih skupinah in ne za zdravljenje generalizirane spastičnosti (<xref ref-type="bibr" rid="b21">21</xref>,<xref ref-type="bibr" rid="b24">24</xref>).</p>
+      </sec>
+      <sec id="s4" sec-type="Selektivna dorzalna rizotomija">
+         <label>4</label>
+         <title>Selektivna dorzalna rizotomija</title>
+         <p>SDR je kirurška tehnika, ki igra pri zdravljenju spastičnosti veliko vlogo in v zadnjih desetletjih doživlja velik uspeh (<xref ref-type="bibr" rid="b20">20</xref>). Prva kirurga, ki sta pri človeku opravila dorzalno rizotomijo, sta bila leta 1889 Abbe in Bennett, desetletje kasneje pa je na živalih učinke sekcije dorzalnih korenin na spastičnost opisal še Sherrington (<xref ref-type="bibr" rid="b25">25</xref>). V začetku 20. stoletja je nekaj posegov opravil tudi Cushing. Foerster je prvi opravil sekcijo dorzalnih korenin L2 do S1 in poročal o ugodnih rezultatih. Zaradi izgube občutkov in ataksije po popolni sekciji senzornih korenin posegov veliko let niso izvajali. Nato pa je leta 1967 Gros izpeljal parcialno neselektivno rizotomijo, kar je prispevalo k zmanjšanju mišičnega tonusa in k ohranitvi občutkov za površinsko in globoko senzibilnost. Prvi, ki je opisal postopek SDR, kot ga izvajamo danes, je bil Fasano leta 1979. Zarezal je le tiste fascikle, ki so pri nevrofiziološkem draženju povzročali patološko krčenje mišice. Uspešnost te metode je bila v njegovih poročilih 71-odstotna (<xref ref-type="bibr" rid="b7">7</xref>,<xref ref-type="bibr" rid="b25">25</xref>). Steinbok je v svoji seriji pokazal, da je tudi neselektivna rizotomija, se pravi brez nevrofiziološkega monitoriranja, pri kateri neselektivno zarežemo 70 % fasciklov, učinkovita (<xref ref-type="bibr" rid="b26">26</xref>). Tak poseg je sicer potekal preko daljše laminotomije (L1 do S1) tako, da so vsako korenino anatomsko natančno identificirali ob vstopu v ustrezen foramen. Poseg je sicer mogoč tudi preko manj invazivne laminotomije L1, saj je na ta način možno v tem segmentu spinalnega kanala prepoznati vse ledvenokrižne korenine tik ob njihovem izstopu iz konusa. Takšnega posega ni mogoče opraviti brez nevrofiziološkega monitoriranja. Danes se uspešnost SDR razlikuje po centrih. Nekateri poročajo celo o 100-odstotnem izboljšanju po operaciji (<xref ref-type="bibr" rid="b27">27</xref>).</p>
+         <p>Otroci, ki jih zdravimo s SDR, okrevajo preko prehodne faze z zmanjšanjem mišične moči. Spastičnost se zmanjša, mišična šibkost pa postane bolj očitna (<xref ref-type="bibr" rid="b6">6</xref>). To obdobje traja običajno tri tedne. V tem času se lahko pojavljajo parestezije in pekoče bolečine v spodnjih udih, ki pa v nadaljevanju izzvenijo. Mišični tonus jasno upade in vzorec hoje se izboljša. Zaradi inhibicijskega učinka (oziroma zaradi zmanjšanega ekscitacijskega učinka) na ascendentne internevrone se zmanjša tudi spastičnost zgornjih udov, boljše pa je tudi nadzorovanje sečnega mehurja (<xref ref-type="bibr" rid="b2">2</xref>,<xref ref-type="bibr" rid="b7">7</xref>). V obdobju po posegu je zato vloga rehabilitacije bistvena, pogoj pa je ustrezna in dobra motivacija otroka in staršev. Učinek SDR je trajen, možnosti zapletov pa so majhne. Po operaciji je deformacije in že nastale prikrajšave tetiv velikokrat potrebno popraviti z ortopedskimi posegi (<xref ref-type="bibr" rid="b9">9</xref>).</p>
+      </sec>
+      <sec id="s5" sec-type="Izbira zdravljenja">
+         <label>5</label>
+         <title>Izbira zdravljenja</title>
+         <p>Izbira najbolj ustreznega zdravljenja je individualna in poteka interdisciplinarno (<xref ref-type="bibr" rid="b28">28</xref>). Upoštevati je potrebno starost otroka, namen zdravljenja (zmanjšanje krčev, izboljšanje gibalne funkcije, olajšanje nege), spremljajoče okvare in stopnjo spastičnosti. Pri nekaterih blagih oblikah spastičnosti kirurško ukrepanje ni potrebno, saj aktivnosti niso bistveno ovirane. Hujše oblike spastičnosti pa je potrebno zdraviti (<xref ref-type="bibr" rid="b7">7</xref>). Idealni bolniki za zdravljenje s SDR so otroci od 3. do 8. leta starosti s spastično paraparezo, ki ovira vzorec hoje. Večinoma so to otroci s postishemično cerebralno paralizo. Moč v spodnjih udih naj bi se čim bolj ohranila, mišični krči pa naj bi bili redki. Le redki otroci s cerebralno paralizo dosegajo te zahteve. Teh je manj kot 5 %. Indikacije za SDR so nad 16. letom starosti redke, saj je takrat težko okrepiti mišice po posegu in spremeniti vzorec hoje (<xref ref-type="bibr" rid="b29">29</xref>,<xref ref-type="bibr" rid="b30">30</xref>).</p>
+      </sec>
+      <sec id="s6" sec-type="Prikaz primera">
+         <label>6</label>
+         <title>Prikaz primera</title>
+         <p>Opisujemo otroka s spastično paraparezo zaradi cerebralne paralize in tehniko SDR, ki smo jo v Sloveniji izvedli prvič in jo uvedli v nevrokirurško klinično obravnavo.</p>
+         <p>Na Klinični oddelek za nevrokirurgijo smo sprejeli 15-letnega dečka za SDR. Rodil se je v gestacijski starosti 35 tednov in je po rojstvu utrpel intraventrikularno možgansko krvavitev 2. stopnje. Po tem je dobro okreval. Redno so ga spremljali v nevrološki pediatrični ambulanti in pri fiziatrih. Bil je kognitivno brezhibno razvit, kliničnih znakov za hidrocefalus pa ni imel. Po enem letu je bil zaradi zvišanega mišičnega tonusa v spodnjih udih vključen v rehabilitacijski program, saj je spastična diplegija postopoma napredovala. Fiziatrična, ortopedska in medikamentna oskrba je vrsto let zadoščala za blaženje spastičnosti, zaradi prikrajšav mišic biceps femoris, semitendinosus in semimembranosus ter mišic meč pa je bil potreben ortopedski poseg. Zaradi napredujoče spastičnosti in težav pri hoji in sedenju ter številnih mišičnih krčev v spodnjih udih so ga v starosti 15 let napotili na nevrokirurški oddelek.</p>
+         <p>V delovanju možganskih živcev in zgornjih udov med pregledom nismo opažali motenj. Spodnji udi so bili spastični. Mišični tonus je bil po modificirani Ashworthovi lestvici ocenjen na 4, ocena oviranosti po lestvici GMFCS pa je bila 3. Jasen je bil vzorec spastične, škarjaste hoje. Motenj mokrenja in odvajanja blata ni bilo. Po začetni nevrokirurški in multidisciplinarni oceni je bilo za znižanje mišičnega tonusa priporočeno zdravljenje s SDR.</p>
+         <p>Po anesteziološki pripravi smo nastavili elektrode za elektrofiziološko spremljanje med posegom. Trn vretenca L1 smo zaradi orientacije in določitve lokacije konusa medularisa določili z rentgenskim slikanjem. Po laminotomiji L1 smo prikazali duralno vrečo in z ultrazvočno preiskavo določili mesto konusa in korenin kavde ekvine. S kirurškim mikroskopom smo zarezali duro in arahnoideo. Prikazali smo konus s koreninami kavde ekvine ter ločili leve in desne korenine. Začeli smo najprej na levi strani in anatomsko prepoznali koren L1. Ta je namreč sestavljen iz treh fasciklov, od katerih je najbolj ventralni motoričen, ostala dva pa sta senzorična. Oba fascikla smo nato ločili od motoričnega dela. Eno od teh dveh korenin smo elektrokoagulirali in prerezali (<xref ref-type="fig" rid="fig1">Slika 1</xref>). S tem smo izklopili 50 % senzoričnih vlaken.</p>
+         <fig position="anchor" id="fig1">
+            <label>Slika 1:</label>
+            <caption>
+               <p> Izoliranje korenine L1. Korenina je sestavljena iz treh fasciklov, ki smo jih ločili. Motorični fascikel držimo z instrumentom za elektrofiziološko spremljanje med posegom.</p>
+            </caption>
+            <p>
+               <graphic xlink:href="zdravvestn-2898-sl-01.tif"/>
+            </p>
+         </fig>
+         <p>Sledila je ločitev ventralnih, motoričnih korenin od dorzalnih, tj. senzoričnih korenin. Po anatomski prepoznavi lateralnega sulkusa, ki ločuje motorične od senzornih korenin, smo te ločili od motoričnih z elastično krpico (4 cm × 1,5 cm). Z igelnimi elektrodami smo spremljali elektromiografski (EMG) signal iz mišic miotomov L2 do S3, torej mišic stegna, goleni in meč in mišic zapiralk. V nasprotju s senzoričnimi koreninami namreč dotik motoričnih korenin z instrumentom sproži EMG potencial. Korenino L2, ki se nahaja najbolj lateralno, smo ločili od drugih z nežno bombažno krpico in korenino potrdili z elektrofiziološkimi meritvami, tako da smo korenino dražili z električnimi dražljaji in ob tem spremljali refleksne odzive EMG v mišicah spodnjega uda (<xref ref-type="fig" rid="fig2">Slika 2</xref>). Pri zdravem človeku z draženjem dorzalne (senzorične) korenine ne bi sprožili odzivov v mišicah, pri spastičnem pa se zaradi zavrtega (dezinhibiranega) spodnjega motoričnega nevrona ob spastičnosti to zgodi. Ob tem smo hkrati glede na vzorec aktivacije mišic lahko tudi potrdili segmentno raven. Z drobnim topim mikrodisektorjem smo potem dorzalno korenino razcepili na štiri fascikle (<xref ref-type="fig" rid="fig3">Slika 3</xref>). Vsakega smo potem spet dražili, podobno kot prej celo korenino, le da smo tokrat uporabili tetanični dražljaj in opazovali vzorec mišične aktivacije in določili tiste fascikle, katerih draženje je povzročilo najbolj nenormalno elektrofizološko aktivnost, na primer aktivacija mišic iz drugih miotomov, ki jih v normalnih pogojih dražena korenina ne oživčuje, ali kontralateralnih mišičnih skupin. Fascikle z več nenormalne aktivnosti smo koagulirali in prekinili. Korenina L2 je bila nato umaknjena od snopa dorzalnih korenin. Enak postopek smo izvedli tudi na koreninah L3 do S1. Število fasciklov, na katere smo razdelili korenine, je bilo od štiri do sedem, dve tretjini teh fasciklov, torej tiste z nenormalnim elektrofiziološkim odzivom, pa smo prekinili. Korenina S2 je zahtevala posebno pozornost, saj vsebuje tudi vlakna iz presredka, medeničnega dna, sečil, spolovil … Razdelili smo jo na dva fascikla in posneli akcijski potencial dorzalne korenine po draženju živca n. dorsalis penis (<xref ref-type="fig" rid="fig4">Slika 4</xref>A). Ker nismo zaznali akcijskega potenciala, smo prekinili enega od dveh fasciklov. Na desni strani smo postopek ponovili enako. Tudi na desni strani nismo zaznali pudendalnega akcijskega potenciala dorzalne korenine S2, zato smo prekinili polovico vlaken korenine S2. Hkrati smo spremljali tudi refleksne odzive zunanje zapiralke zadnjika po draženju živca n. doralis penis (pudendoanalni refleks), ki se ob prekinjanju spodnjih križnih fasciklov ni bistveno spremenil (<xref ref-type="fig" rid="fig4">Slika 4</xref>B).</p>
+         <fig position="anchor" id="fig2">
+            <label>Slika 2:</label>
+            <caption>
+               <p> Odzivi v mišicah levega spodnjega uda po draženu tretje ledvene dorzalne korenine na levi strani.</p>
+            </caption>
+            <p>
+               <graphic xlink:href="zdravvestn-2898-sl-02.tif"/>
+            </p>
+         </fig>
+         <fig position="anchor" id="fig3">
+            <label>Slika 3:</label>
+            <caption>
+               <p> Korenina L2, ki je ločena od drugih z nežno bombažno krpico ter razcepljena na pet fasciklov. Vsakega smo potrdili z elektrofiziološkimi meritvami in nato prekinili 70 % vlaken korenine.</p>
+            </caption>
+            <p>
+               <graphic xlink:href="zdravvestn-2898-sl-03.tif"/>
+            </p>
+         </fig>
+         <fig position="anchor" id="fig4">
+            <label>Slika 4:</label>
+            <caption>
+               <p> Akcijski potencial dorzalne korenine S2–S3 po draženju živca n. dorsalis penis (A). Pred in po prekinitvi fascikla korenine S2–S3 z manjšim izmerjenim akcijskim potencialom smo zaznali tudi pudendoanalni refleks, ki se po prekinitvi fasciklov ni bistveno spremenil (B).</p>
+            </caption>
+            <p>
+               <graphic xlink:href="zdravvestn-2898-sl-04.tif"/>
+            </p>
+         </fig>
+         <p>Sledila je natančna intraduralna hemostaza in šivanje dure. Lamino smo pričvrstili na mesto s šivom in rano zaprli po plasteh. Po operaciji je bil deček v nevrokirurški intenzivni oskrbi, naslednji dan pa premeščen na oddelek. Mišični tonus se je zmanjšal že dan po operaciji, upadla pa je tudi mišična moč v spodnjih udih, ki pa se ni tako zmanjšala, da bi preprečevala hojo. Motoričnih motenj nismo beležili, sfinktri so delovali brezhibno. Bolečina in mišični krči v spodnjih udih so se postopno umirili. S fizioterapevtsko obravnavo, ki je vključevala sprva pasivne, nato pa aktivne vaje ter nadzor drže in gibanja, smo začeli polagoma po vzpostavljenem protokolu že prvi dan po operaciji in nadaljevali do odpusta. Poseben poudarek je bil namenjen pravilnemu gibanju in vertikalizaciji s sedenjem. Tudi v tem delu zdravljenja deček ni imel težav.</p>
+         <p>Deset dni po operaciji so ga sprejeli v Univerzitetni rehabilitacijski inštutut Republike Slovenije – Soča za nadaljnje zdravljenje. Modificirana Ashworthova lestvica in GMFCS ob odpustu sta bili ocenjeni na 2. Nevrokirurški pregled je opravil po enem mesecu in splošno stanje se je občutno izboljšalo. Deček je samostojno hodil, mišični tonus je bil nižji (oceni po modificirani Ashworthovi lestvici in GMFCS sta bili 2). O senzoričnih in sfinktrskih motnjah deček ni poročal. Naslednjo nevrokirurško oceno smo načrtovali po treh in šestih mesecih, prav tako pa tudi neprekinjeno rehabilitacijsko obravnavo.</p>
+      </sec>
+      <sec id="s7" sec-type="Razpravljanje">
+         <label>7</label>
+         <title>Razpravljanje</title>
+         <p>Selektivna dorzalna rizotomija ni nova tehnika za zdravljenje spastičnosti, saj je poznana že od začetka 20. stoletja. Zgodnji kirurški posegi so sicer bili učinkoviti, povezani pa so bili s senzoričnimi motnjami in ataksijo, ki se je pojavila v celotnem delu ledvenih senzoričnih korenin (navadno so prekinili korenine od L2 do S1) (<xref ref-type="bibr" rid="b20">20</xref>,<xref ref-type="bibr" rid="b31">31</xref>). To je privedlo do začasne opustitve tehnike za več desetletij, leta 1979 pa je Fasano opisal selektivno prekinitev ledvenih senzoričnih korenin, znano kot SDR. Pri tem posegu so kirurško izključili le tiste fascikle, ki so povzročali patološko aktiviranje mišic med elektrofiziološko stimulacijo (<xref ref-type="bibr" rid="b25">25</xref>). Trenutno je SDR med pogostimi ablativnimi postopki za zdravljenje spastičnosti pri cerebralni paralizi pri otrocih. V izjemnih premerih lahko SDR izvajamo tudi pri odraslih s spastičnostjo in včasih celo z distonijo, čeprav je podatkov v literaturi, ki bi podpirale te posege pri starejših, nekako do starosti 45 let, malo (<xref ref-type="bibr" rid="b32">32</xref>,<xref ref-type="bibr" rid="b33">33</xref>). Indikacije vključujejo spastično paraparezo zaradi cerebralne paralize, hemoragične ali ishemične možganske kapi ter poškodbe možganov in hrbtenjače, ki so posledica poškodb, toksičnih, hipoksičnih in metabolnih vzrokov in okužb (<xref ref-type="table" rid="table3">Tabela 3</xref>) (<xref ref-type="bibr" rid="b32">32</xref>,<xref ref-type="bibr" rid="b34">34</xref>). Učinki SDR na spastičnost in izboljšanje hoje so bili ugodni. Salame in sod. tako poročajo o 100-odstotnem zmanjšanju spastičnosti po posegu, poleg tega pa se je trajno popravila tudi hoja, obseg gibanja sklepov, spastičnost zgornjih udov, delovanje mehurja in govor (<xref ref-type="bibr" rid="b27">27</xref>). Tehnični napredek v zadnjih dveh desetletjih je prispeval k zmanjšanju invazivnosti postopka (<xref ref-type="bibr" rid="b7">7</xref>,<xref ref-type="bibr" rid="b9">9</xref>).</p>
+         <table-wrap position="anchor" id="table3">
+            <label>Tabela 3:</label>
+            <caption>
+               <p> Klinične indikacije in kontraindikacije za SDR. </p>
+            </caption>
+            <table>
+               <colgroup>
+                  <col/>
+                  <col/>
+               </colgroup>
+               <thead>
+                  <tr>
+                     <th>Indikacije za SDR</th>
+                     <th>Kontraindikacije za SDR.</th>
+                  </tr>
+               </thead>
+               <tbody>
+                  <tr>
+                     <td>
+                        <list>
+                           <list-item>
+                              <label>•</label>
+                              <p>Starost 2–45 let.</p>
+                           </list-item>
+                        </list>
+                     </td>
+                     <td>
+                        <list>
+                           <list-item>
+                              <label>•</label>
+                              <p>Cerebralna paraliza (CP) zaradi intrauterinega encefalitisa.</p>
+                           </list-item>
+                        </list>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+         </table-wrap>
+         <p>Glede na prizadetost udov in spastičnost lahko cerebralno paralizo razdelimo na hemiplegični, paraplegični in tetraplegični tip (<xref ref-type="bibr" rid="b31">31</xref>,<xref ref-type="bibr" rid="b35">35</xref>). Paraplegična oblika je najpogosteje posledica zmanjšane oskrbe s krvjo v otrokovih možganih v tretjem trimesečju nosečnosti. Ob rojstvu jo redko diagnosticiramo, navadno jo zaznamo šele po šestih mesecih. Diagnozo postavimo, ko otrok v določeni starosti ne doseže običajnega motoričnega razvoja. V začetni fazi so mišice ohlapne in v zgodnjem otroštvu tipični znaki cerebralne paralize morda niso očitni, spastičnost pa se lahko pojavi kasneje. Simptomi so raznoliki, od skoraj nezaznavne nespretnosti do hude oviranosti (<xref ref-type="bibr" rid="b9">9</xref>,<xref ref-type="bibr" rid="b29">29</xref>). Pri spastični obliki cerebralne paralize, ki je najpogostejša, je mišični tonus izjemno povišan, refleksi pa so zelo živahni. Ta oblika cerebralne paralize, ki jo je imel tudi opisani bolnik, je najbolj primerna za zdravljenje s SDR (<xref ref-type="bibr" rid="b7">7</xref>,<xref ref-type="bibr" rid="b9">9</xref>,<xref ref-type="bibr" rid="b36">36</xref>).</p>
+         <p>Spastičnost pri cerebralni paralizi je najpogostejša indikacija za SDR, vendar pa vsi bolniki s cerebralno paralizo in spastičnostjo ne potrebujejo zdravljenja (<xref ref-type="bibr" rid="b7">7</xref>,<xref ref-type="bibr" rid="b9">9</xref>). Pri nizkih stopnjah spastičnosti dnevna dejavnost ni tako motena, da bi od operacije lahko pričakovali izboljšanje, enako velja pri visokih stopnjah spastičnosti. Cilj je izboljšanje otrokovega funkcionalnega stanja, predvsem vzorca hoje, preprečevanje kontraktur, deformacij, bolečin in olajšanje vsakodnevne nege. Uspehi so najboljši pri tistih s 1., 2. in 3. stopnjo po modificirani Ashworthovi lestvici, čeprav so zadnje raziskave pokazale ugodne dolgoročne učinke SDR tudi pri hujših oblikah spastičnosti (ocena po Ashworthu 4) (<xref ref-type="bibr" rid="b28">28</xref>,<xref ref-type="bibr" rid="b36">36</xref>,<xref ref-type="bibr" rid="b37">37</xref>).</p>
+         <p>V Sloveniji je bila SDR prvič opravljena oktobra 2017. Od takrat dalje jo redno izvajamo v nevrokirurški praksi. Dotlej so bili otroci s spastičnostjo zaradi cerebralne paralize zdravljeni v centrih v tujini, kot je otroška bolnišnica v St. Louisu v Missouriju, kjer deluje T. S. Park, ki je bil med pionirji SDR. Začetna ocena in zdravljenje, kasnejša pooperativna in nadaljnja rehabilitacija so bili opravljeni na Univerzitetnem rehabilitacijskem inštitutu Republike Slovenije – Soča. Nevrokirurška tehnika, ki smo jo uporabili pri našem bolniku, je bila enaka, kakor so jo opisali Park in sod. (<xref ref-type="bibr" rid="b38">38</xref>-<xref ref-type="bibr" rid="b42">42</xref>). Uvedli smo jo s pomočjo in ob sodelovanju z nevrokirurško in nevrofiziološko ekipo bolnišnice Charité v Berlinu, kjer smo se izpopolnjevali in učili, prvo operacijo pa smo izvedli skupaj. Elektrofiziološko spremljanje med posegom je ključnega pomena in pomaga kirurgom pri potrditvi prave izbire korenin ter pri določitvi nenormalno aktivnih fasciklov, ki jih je potrebno prekiniti. Običajno vsako senzorično korenino razdelimo na štiri do osem fasciklov. Vsakega od njih elektrofiziološko ocenimo, nato tiste, ki izzovejo najbolj nenormalen odziv v mišicah, prekinemo. Tako izključimo približno dve tretjini korenin. Posebej pomembno pa je, da med posegom pazimo na oživčenje medeničnega dna in da spodnjih sakralnih fasciklov (za mehur in sfinktrske mišice) ne prekinemo (<xref ref-type="bibr" rid="b20">20</xref>,<xref ref-type="bibr" rid="b36">36</xref>,<xref ref-type="bibr" rid="b43">43</xref>).</p>
+         <p>Zdravljenje cerebralne paralize je zahtevno in zato potrebuje multidisciplinaren pristop, ki ga je potrebno individualno prilagoditi. Motiviranost otroka in staršev je potrebno pred operacijo vedno upoštevati (<xref ref-type="bibr" rid="b44">44</xref>,<xref ref-type="bibr" rid="b45">45</xref>). Ker je SDR kot ena od ablativnih kirurških tehnik nepopravljiv poseg, sta ocena pred operacijo in natančno planiranje izjemno važna (<xref ref-type="bibr" rid="b9">9</xref>,<xref ref-type="bibr" rid="b28">28</xref>,<xref ref-type="bibr" rid="b38">38</xref>). Pri izbiri zdravljenja so pomembni starost otroka in dolgoročni načrt za izboljšanje funkcionalnega in nevrološkega stanja. SDR je idealno opraviti v starosti štirih do osmih let, saj sta rast in mielinizacija možganov v tem času skoraj zaključeni. Redko je indikacija za SDR upravičena po 15 letih, ker je po tem času težko okrepiti mišice in po operaciji spremeniti že ukoreninjeni vzorec hoje (<xref ref-type="bibr" rid="b44">44</xref>). Zaradi izrazite in napredujoče spastičnosti ter težav s hojo smo se pri našem bolniku kljub starosti odločili za zdravljenje spastične parapareze. Vendar pa po SDR zdravljenje ni zaključeno. Spastičnost se takoj po operaciji zmanjša. Ker pa je pri vzorcu hoje spastičnost deloma nadomeščala mišično moč, pa po posegu sama mišična moč ne zadošča, s čimer se prehodno poslabšata stoja in hoja. To obdobje običajno traja približno tri do osem tednov (<xref ref-type="bibr" rid="b29">29</xref>). V tem času se lahko pojavijo tudi prehodne parestezije in pekoči ali boleči občutki. Ti postopoma izginejo, mišični tonus se očitno zmanjša, izboljšata pa se moč in vzorec hoje (<xref ref-type="bibr" rid="b29">29</xref>,<xref ref-type="bibr" rid="b45">45</xref>). Tudi pri našem bolniku se je spastičnost takoj po posegu zmanjšala, senzoričnega poslabšana pa nismo beležili. Nasploh stranskih učinkov operacije nismo beležili. SDR je sicer varna operacija, v literaturi pa poročajo o različnih poslabšanjih in zapletih, ki se po pogostosti med centri razlikujejo (<xref ref-type="bibr" rid="b44">44</xref>). Najpogosteje se lahko pojavijo okužba in težave s celjenjem rane, krvavitev med operacijo in po njej, nastanek hematoma v spinalnem kanalu ali v podkožju in kasneje nastanek seroma, likvoreja v podkožje zaradi slabega tesnjenja duralnega šiva, glavobol po operaciji zaradi zmanjšanja likvorskega tlaka in meningitis. Pojavi se lahko tudi bolečina v nogah in spodnjem ledvenem delu (v 30 %). Pri operacijah, ki potekajo preko obsežne laminotomije ali celo laminektomije L2–S2 so možne različne deformacije hrbtenice, kot so kifoza, skolioza (v 28 %, od katerih je 40 % bolnikov potrebovalo zdravljenje), stenoza hrbteničnega kanala, nastanek hiperlordoze ali spondilolisteze na operiranem predelu, manjše disestezije in hiperstezije v spodnjih udih (v 8 %) in zato potreba po korektivnih ortopedskih operacijah (v 59 %) (<xref ref-type="bibr" rid="b30">30</xref>,<xref ref-type="bibr" rid="b46">46</xref>,<xref ref-type="bibr" rid="b47">47</xref>). Ostali možni zapleti posega vključujejo nepopolno zmanjšanje spastičnosti, prehodno zastajanje urina in mišično slabost, splošne zaplete, kot so pljučnica, bronhospazem, ileus in nevarnosti zaradi splošne anestezije. Redko se lahko pojavijo trajne motnje občutkov v spodnjih udih ali inkontinenca ter motnje v delovanju črevesja in mehurja (<xref ref-type="bibr" rid="b7">7</xref>,<xref ref-type="bibr" rid="b47">47</xref>-<xref ref-type="bibr" rid="b52">52</xref>). Operacija je bila pri našem bolniku uspešna in okrevanje je potekalo gladko. V prihodnje bomo v multidisciplinarni program za zdravljenje spastičnosti vključili še več bolnikov s spastično paparaprezo, ki bo vključeval tudi tehniko SDR in tako prispeval k izboljšanju kakovosti življenja otrok s cerebralno paralizo.</p>
+      </sec>
+      <sec id="s8" sec-type="Zaključek">
+         <label>8</label>
+         <title>Zaključek</title>
+         <p>SDR je učinkovita kirurška tehnika za zmanjšanje spastičnosti, še posebej pri malih otrocih s spastično paraparezo zaradi cerebralne paralize. Operacija zahteva natančno elekrofiziološko spremljanje med posegom, nato pa neprekinjeno rehabilitacijo z dolgotrajnim spremljanjem. Učinek zdravljenja spastičnosti s SDR je trajen, stranski učinki pa so ob skrbni tehniki operacije minimalni.</p>
+         <p>Starši bolnika se strinjajo z objavo poročila o primeru SDR.</p>
+      </sec>
+   </body>
+   <back>
+      <ref-list>
+         <ref id="b1">
+            <label>1. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Herzog</surname>
+                     <given-names>W</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Skeletal muscle mechanics: questions, problems and possible solutions</article-title>. 
+                    <source>J Neuroeng Rehabil</source>. 
+                    <year>2017</year>
+                    <month>Sep</month>;
+                    <volume>14</volume>(
+                    <issue>1</issue>):
+                    <fpage>98</fpage>. 
+                    <pub-id pub-id-type="doi">10.1186/s12984-017-0310-6</pub-id>
+                    <pub-id pub-id-type="pmid">28915834</pub-id>
+                    <issn>1743-0003</issn> 
+                </mixed-citation>
+         </ref>
+         <ref id="b2">
+            <label>2. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Nahm</surname>
+                     <given-names>NJ</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Graham</surname>
+                     <given-names>HK</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Gormley</surname>
+                     <given-names>ME</given-names>
+                     <suffix>Jr</suffix>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Georgiadis</surname>
+                     <given-names>AG</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Management of hypertonia in cerebral palsy</article-title>. 
+                    <source>Curr Opin Pediatr</source>. 
+                    <year>2018</year>
+                    <month>Feb</month>;
+                    <volume>30</volume>(
+                    <issue>1</issue>):
+                    <fpage>57</fpage>–
+                    <lpage>64</lpage>. 
+                    <pub-id pub-id-type="doi">10.1097/MOP.0000000000000567</pub-id>
+                    <pub-id pub-id-type="pmid">29135566</pub-id>
+                    <issn>1040-8703</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b3">
+            <label>3. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Ingale</surname>
+                     <given-names>H</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Ughratdar</surname>
+                     <given-names>I</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Muquit</surname>
+                     <given-names>S</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Moussa</surname>
+                     <given-names>AA</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Vloeberghs</surname>
+                     <given-names>MH</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Selective dorsal rhizotomy as an alternative to intrathecal baclofen pump replacement in GMFCS grades 4 and 5 children</article-title>. 
+                    <source>Childs Nerv Syst</source>. 
+                    <year>2016</year>
+                    <month>Feb</month>;
+                    <volume>32</volume>(
+                    <issue>2</issue>):
+                    <fpage>321</fpage>–
+                    <lpage>5</lpage>. 
+                    <pub-id pub-id-type="doi">10.1007/s00381-015-2950-9</pub-id>
+                    <pub-id pub-id-type="pmid">26552383</pub-id>
+                    <issn>0256-7040</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b4">
+            <label>4. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Roberts</surname>
+                     <given-names>A</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Surgical management of spasticity</article-title>. 
+                    <source>J Child Orthop</source>. 
+                    <year>2013</year>
+                    <month>Nov</month>;
+                    <volume>7</volume>(
+                    <issue>5</issue>):
+                    <fpage>389</fpage>–
+                    <lpage>94</lpage>. 
+                    <pub-id pub-id-type="doi">10.1007/s11832-013-0512-9</pub-id>
+                    <pub-id pub-id-type="pmid">24432100</pub-id>
+                    <issn>1863-2521</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b5">
+            <label>5. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Matthews</surname>
+                     <given-names>DJ</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Balaban</surname>
+                     <given-names>B</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>[Management of spasticity in children with cerebral palsy]</article-title>. 
+                    <source>Acta Orthop Traumatol Turc</source>. 
+                    <year>2009</year>
+                    <month>Mar-Apr</month>;
+                    <volume>43</volume>(
+                    <issue>2</issue>):
+                    <fpage>81</fpage>–
+                    <lpage>6</lpage>. 
+                    <pub-id pub-id-type="doi">10.3944/AOTT.2009.081</pub-id>
+                    <pub-id pub-id-type="pmid">19448346</pub-id>
+                    <issn>1017-995X</issn> 
+                </mixed-citation>
+         </ref>
+         <ref id="b6">
+            <label>6. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Garriz-Luis</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Sanchez-Carpintero</surname>
+                     <given-names>R</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Alegre</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Tejada</surname>
+                     <given-names>S</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>[Selective dorsal rhizotomy: a review of the literature on this technique for the treatment of spasticity in infantile cerebral palsy]</article-title>. 
+                    <source>Rev Neurol</source>. 
+                    <year>2018</year>
+                    <month>Jun</month>;
+                    <volume>66</volume>(
+                    <issue>11</issue>):
+                    <fpage>387</fpage>–
+                    <lpage>94</lpage>.
+                    <pub-id pub-id-type="pmid">29790572</pub-id>
+                    <issn>1576-6578</issn> 
+                </mixed-citation>
+         </ref>
+         <ref id="b7">
+            <label>7. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Steinbok</surname>
+                     <given-names>P</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Selective dorsal rhizotomy for spastic cerebral palsy: a review</article-title>. 
+                    <source>Childs Nerv Syst</source>. 
+                    <year>2007</year>
+                    <month>Sep</month>;
+                    <volume>23</volume>(
+                    <issue>9</issue>):
+                    <fpage>981</fpage>–
+                    <lpage>90</lpage>. 
+                    <pub-id pub-id-type="doi">10.1007/s00381-007-0379-5</pub-id>
+                    <pub-id pub-id-type="pmid">17551739</pub-id>
+                    <issn>0256-7040</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b8">
+            <label>8. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <collab>Surveillance of Cerebral Palsy in Europe</collab>
+                    </person-group>. 
+                    <article-title>Surveillance of cerebral palsy in Europe: a collaboration of cerebral palsy surveys and registers</article-title>. 
+                    <source>Dev Med Child Neurol</source>. 
+                    <year>2000</year>
+                    <month>Dec</month>;
+                    <volume>42</volume>(
+                    <issue>12</issue>):
+                    <fpage>816</fpage>–
+                    <lpage>24</lpage>.
+                    <pub-id pub-id-type="pmid">11132255</pub-id>
+                    <issn>0012-1622</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b9">
+            <label>9. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Farmer</surname>
+                     <given-names>JP</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Sabbagh</surname>
+                     <given-names>AJ</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Selective dorsal rhizotomies in the treatment of spasticity related to cerebral palsy</article-title>. 
+                    <source>Childs Nerv Syst</source>. 
+                    <year>2007</year>
+                    <month>Sep</month>;
+                    <volume>23</volume>(
+                    <issue>9</issue>):
+                    <fpage>991</fpage>–
+                    <lpage>1002</lpage>. 
+                    <pub-id pub-id-type="doi">10.1007/s00381-007-0398-2</pub-id>
+                    <pub-id pub-id-type="pmid">17643249</pub-id>
+                    <issn>0256-7040</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b10">
+            <label>10. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Roberts</surname>
+                     <given-names>A</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Stewart</surname>
+                     <given-names>C</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Freeman</surname>
+                     <given-names>R</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Gait analysis to guide a selective dorsal rhizotomy program</article-title>. 
+                    <source>Gait Posture</source>. 
+                    <year>2015</year>
+                    <month>Jun</month>;
+                    <volume>42</volume>(
+                    <issue>1</issue>):
+                    <fpage>16</fpage>–
+                    <lpage>22</lpage>. 
+                    <pub-id pub-id-type="doi">10.1016/j.gaitpost.2015.04.004</pub-id>
+                    <pub-id pub-id-type="pmid">25979183</pub-id>
+                    <issn>0966-6362</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b11">
+            <label>11. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Groleger</surname>
+                     <given-names>K</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Klinične smernice za diagnostiko in spremljanje otrok s cerebralno paralizo v rehabilitaciji</article-title>. 
+                    <source>Rehabilitacija (Ljubljana)</source>. 
+                    <year>2014</year>;
+                    <volume>13</volume>(
+                    <issue>1</issue>):
+                    <fpage>84</fpage>–
+                    <lpage>96</lpage>.
+                    <issn>1580-9315</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b12">
+            <label>12. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Silva</surname>
+                     <given-names>S</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Nowicki</surname>
+                     <given-names>P</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Caird</surname>
+                     <given-names>MS</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Hurvitz</surname>
+                     <given-names>EA</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Ayyangar</surname>
+                     <given-names>RN</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Farley</surname>
+                     <given-names>FA</given-names>
+                  </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>A comparison of hip dislocation rates and hip containment procedures after selective dorsal rhizotomy versus intrathecal baclofen pump insertion in nonambulatory cerebral palsy patients</article-title>. 
+                    <source>J Pediatr Orthop</source>. 
+                    <year>2012</year>
+                    <month>Dec</month>;
+                    <volume>32</volume>(
+                    <issue>8</issue>):
+                    <fpage>853</fpage>–
+                    <lpage>6</lpage>. 
+                    <pub-id pub-id-type="doi">10.1097/BPO.0b013e31826ba7b2</pub-id>
+                    <pub-id pub-id-type="pmid">23147631</pub-id>
+                    <issn>0271-6798</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b13">
+            <label>13. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Ohata</surname>
+                     <given-names>K</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Tsuboyama</surname>
+                     <given-names>T</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Haruta</surname>
+                     <given-names>T</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Ichihashi</surname>
+                     <given-names>N</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Kato</surname>
+                     <given-names>T</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Nakamura</surname>
+                     <given-names>T</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Relation between muscle thickness, spasticity, and activity limitations in children and adolescents with cerebral palsy</article-title>. 
+                    <source>Dev Med Child Neurol</source>. 
+                    <year>2008</year>
+                    <month>Feb</month>;
+                    <volume>50</volume>(
+                    <issue>2</issue>):
+                    <fpage>152</fpage>–
+                    <lpage>6</lpage>. 
+                    <pub-id pub-id-type="doi">10.1111/j.1469-8749.2007.02018.x</pub-id>
+                    <pub-id pub-id-type="pmid">18201305</pub-id>
+                    <issn>0012-1622</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b14">
+            <label>14. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Ryan</surname>
+                     <given-names>JM</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Cassidy</surname>
+                     <given-names>EE</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Noorduyn</surname>
+                     <given-names>SG</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>O’Connell</surname>
+                     <given-names>NE</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Exercise interventions for cerebral palsy</article-title>. 
+                    <source>Cochrane Database Syst Rev</source>. 
+                    <year>2017</year>
+                    <month>Jun</month>;
+                    <volume>6</volume>:
+                    <fpage>CD011660</fpage>.
+                    <pub-id pub-id-type="pmid">28602046</pub-id>
+                    <issn>1469-493X</issn> 
+                </mixed-citation>
+         </ref>
+         <ref id="b15">
+            <label>15. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Katusic</surname>
+                     <given-names>A</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Alimovic</surname>
+                     <given-names>S</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>The relationship between spasticity and gross motor capability in nonambulatory children with spastic cerebral palsy</article-title>. 
+                    <source>Int J Rehabil Res</source>. 
+                    <year>2013</year>
+                    <month>Sep</month>;
+                    <volume>36</volume>(
+                    <issue>3</issue>):
+                    <fpage>205</fpage>–
+                    <lpage>10</lpage>. 
+                    <pub-id pub-id-type="doi">10.1097/MRR.0b013e32835d0b11</pub-id>
+                    <pub-id pub-id-type="pmid">23282668</pub-id>
+                    <issn>0342-5282</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b16">
+            <label>16. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Bohannon</surname>
+                     <given-names>RW</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Smith</surname>
+                     <given-names>MB</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Interrater reliability of a modified Ashworth scale of muscle spasticity</article-title>. 
+                    <source>Phys Ther</source>. 
+                    <year>1987</year>
+                    <month>Feb</month>;
+                    <volume>67</volume>(
+                    <issue>2</issue>):
+                    <fpage>206</fpage>–
+                    <lpage>7</lpage>. 
+                    <pub-id pub-id-type="doi">10.1093/ptj/67.2.206</pub-id>
+                    <pub-id pub-id-type="pmid">3809245</pub-id>
+                    <issn>0031-9023</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b17">
+            <label>17. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Qin</surname>
+                     <given-names>Y</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Li</surname>
+                     <given-names>Y</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Sun</surname>
+                     <given-names>B</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>He</surname>
+                     <given-names>H</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Peng</surname>
+                     <given-names>R</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Zhang</surname>
+                     <given-names>T</given-names>
+                  </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>Functional Connectivity Alterations in Children with Spastic and Dyskinetic Cerebral Palsy</article-title>. 
+                    <source>Neural Plast</source>. 
+                    <year>2018</year>
+                    <month>Aug</month>;
+                    <volume>2018</volume>:
+                    <fpage>7058953</fpage>. 
+                    <pub-id pub-id-type="doi">10.1155/2018/7058953</pub-id>
+                    <pub-id pub-id-type="pmid">30186320</pub-id>
+                    <issn>1687-5443</issn> 
+                </mixed-citation>
+         </ref>
+         <ref id="b18">
+            <label>18. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Ara</surname>
+                     <given-names>R</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Islam</surname>
+                     <given-names>MS</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Rahman</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Begum</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Jahan</surname>
+                     <given-names>F</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Hosneara</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>Magnetic Resonance Imaging of Cerebral Palsy in the Assessment of Time of Brain Insult</article-title>. 
+                    <source>Mymensingh Med J</source>. 
+                    <year>2018</year>
+                    <month>Jul</month>;
+                    <volume>27</volume>(
+                    <issue>3</issue>):
+                    <fpage>453</fpage>–
+                    <lpage>60</lpage>.
+                    <pub-id pub-id-type="pmid">30141431</pub-id>
+                    <issn>2408-8757</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b19">
+            <label>19. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Graham</surname>
+                     <given-names>D</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Aquilina</surname>
+                     <given-names>K</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Mankad</surname>
+                     <given-names>K</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Wimalasundera</surname>
+                     <given-names>N</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Selective dorsal rhizotomy: current state of practice and the role of imaging</article-title>. 
+                    <source>Quant Imaging Med Surg</source>. 
+                    <year>2018</year>
+                    <month>Mar</month>;
+                    <volume>8</volume>(
+                    <issue>2</issue>):
+                    <fpage>209</fpage>–
+                    <lpage>18</lpage>. 
+                    <pub-id pub-id-type="doi">10.21037/qims.2018.01.08</pub-id>
+                    <pub-id pub-id-type="pmid">29675362</pub-id>
+                    <issn>2223-4292</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b20">
+            <label>20. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Aquilina</surname>
+                     <given-names>K</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Graham</surname>
+                     <given-names>D</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Wimalasundera</surname>
+                     <given-names>N</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Selective dorsal rhizotomy: an old treatment re-emerging</article-title>. 
+                    <source>Arch Dis Child</source>. 
+                    <year>2015</year>
+                    <month>Aug</month>;
+                    <volume>100</volume>(
+                    <issue>8</issue>):
+                    <fpage>798</fpage>–
+                    <lpage>802</lpage>. 
+                    <pub-id pub-id-type="doi">10.1136/archdischild-2014-306874</pub-id>
+                    <pub-id pub-id-type="pmid">25670404</pub-id>
+                    <issn>0003-9888</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b21">
+            <label>21. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Fehlings</surname>
+                     <given-names>D</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Brown</surname>
+                     <given-names>L</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Harvey</surname>
+                     <given-names>A</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Himmelmann</surname>
+                     <given-names>K</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Lin</surname>
+                     <given-names>JP</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Macintosh</surname>
+                     <given-names>A</given-names>
+                  </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>Pharmacological and neurosurgical interventions for managing dystonia in cerebral palsy: a systematic review</article-title>. 
+                    <source>Dev Med Child Neurol</source>. 
+                    <year>2018</year>
+                    <month>Apr</month>;
+                    <volume>60</volume>(
+                    <issue>4</issue>):
+                    <fpage>356</fpage>–
+                    <lpage>66</lpage>. 
+                    <pub-id pub-id-type="doi">10.1111/dmcn.13652</pub-id>
+                    <pub-id pub-id-type="pmid">29405267</pub-id>
+                    <issn>0012-1622</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b22">
+            <label>22. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Lukban</surname>
+                     <given-names>MB</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Rosales</surname>
+                     <given-names>RL</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Dressler</surname>
+                     <given-names>D</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Effectiveness of botulinum toxin A for upper and lower limb spasticity in children with cerebral palsy: a summary of evidence</article-title>. 
+                    <source>J Neural Transm (Vienna)</source>. 
+                    <year>2009</year>
+                    <month>Mar</month>;
+                    <volume>116</volume>(
+                    <issue>3</issue>):
+                    <fpage>319</fpage>–
+                    <lpage>31</lpage>. 
+                    <pub-id pub-id-type="doi">10.1007/s00702-008-0175-8</pub-id>
+                    <pub-id pub-id-type="pmid">19142573</pub-id>
+                    <issn>0300-9564</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b23">
+            <label>23. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Elia</surname>
+                     <given-names>AE</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Bagella</surname>
+                     <given-names>CF</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Ferré</surname>
+                     <given-names>F</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Zorzi</surname>
+                     <given-names>G</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Calandrella</surname>
+                     <given-names>D</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Romito</surname>
+                     <given-names>LM</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Deep brain stimulation for dystonia due to cerebral palsy: A review</article-title>. 
+                    <source>Eur J Paediatr Neurol</source>. 
+                    <year>2018</year>
+                    <month>Mar</month>;
+                    <volume>22</volume>(
+                    <issue>2</issue>):
+                    <fpage>308</fpage>–
+                    <lpage>15</lpage>. 
+                    <pub-id pub-id-type="doi">10.1016/j.ejpn.2017.12.002</pub-id>
+                    <pub-id pub-id-type="pmid">29396170</pub-id>
+                    <issn>1090-3798</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b24">
+            <label>24. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Vadivelu</surname>
+                     <given-names>S</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Stratton</surname>
+                     <given-names>A</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Pierce</surname>
+                     <given-names>W</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Pediatric tone management</article-title>. 
+                    <source>Phys Med Rehabil Clin N Am</source>. 
+                    <year>2015</year>
+                    <month>Feb</month>;
+                    <volume>26</volume>(
+                    <issue>1</issue>):
+                    <fpage>69</fpage>–
+                    <lpage>78</lpage>. 
+                    <pub-id pub-id-type="doi">10.1016/j.pmr.2014.09.008</pub-id>
+                    <pub-id pub-id-type="pmid">25479780</pub-id>
+                    <issn>1047-9651</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b25">
+            <label>25. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Sindou</surname>
+                     <given-names>M</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>[History of neurosurgical treatment of spasticity]</article-title>. 
+                    <source>Neurochirurgie</source>. 
+                    <year>2003</year>
+                    <month>May</month>;
+                    <volume>49</volume>(
+                    <issue>2-3 Pt 2</issue>):
+                    <fpage>137</fpage>–
+                    <lpage>43</lpage>.
+                    <pub-id pub-id-type="pmid">12746688</pub-id>
+                    <issn>0028-3770</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b26">
+            <label>26. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Steinbok</surname>
+                     <given-names>P</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Outcomes after selective dorsal rhizotomy for spastic cerebral palsy</article-title>. 
+                    <source>Childs Nerv Syst</source>. 
+                    <year>2001</year>
+                    <month>Jan</month>;
+                    <volume>17</volume>(
+                    <issue>1-2</issue>):
+                    <fpage>1</fpage>–
+                    <lpage>18</lpage>. 
+                    <pub-id pub-id-type="doi">10.1007/PL00013722</pub-id>
+                    <pub-id pub-id-type="pmid">11219613</pub-id>
+                    <issn>0256-7040</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b27">
+            <label>27. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Salame</surname>
+                     <given-names>K</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Ouaknine</surname>
+                     <given-names>GE</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Rochkind</surname>
+                     <given-names>S</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Constantini</surname>
+                     <given-names>S</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Razon</surname>
+                     <given-names>N</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Surgical treatment of spasticity by selective posterior rhizotomy: 30 years experience</article-title>. 
+                    <source>Isr Med Assoc J</source>. 
+                    <year>2003</year>
+                    <month>Aug</month>;
+                    <volume>5</volume>(
+                    <issue>8</issue>):
+                    <fpage>543</fpage>–
+                    <lpage>6</lpage>.
+                    <pub-id pub-id-type="pmid">12929289</pub-id>
+                    <issn>1565-1088</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b28">
+            <label>28. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Grunt</surname>
+                     <given-names>S</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Fieggen</surname>
+                     <given-names>AG</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Vermeulen</surname>
+                     <given-names>RJ</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Becher</surname>
+                     <given-names>JG</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Langerak</surname>
+                     <given-names>NG</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Selection criteria for selective dorsal rhizotomy in children with spastic cerebral palsy: a systematic review of the literature</article-title>. 
+                    <source>Dev Med Child Neurol</source>. 
+                    <year>2014</year>
+                    <month>Apr</month>;
+                    <volume>56</volume>(
+                    <issue>4</issue>):
+                    <fpage>302</fpage>–
+                    <lpage>12</lpage>. 
+                    <pub-id pub-id-type="doi">10.1111/dmcn.12277</pub-id>
+                    <pub-id pub-id-type="pmid">24106928</pub-id>
+                    <issn>0012-1622</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b29">
+            <label>29. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Langerak</surname>
+                     <given-names>NG</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Lamberts</surname>
+                     <given-names>RP</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Fieggen</surname>
+                     <given-names>AG</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Peter</surname>
+                     <given-names>JC</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Peacock</surname>
+                     <given-names>WJ</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Vaughan</surname>
+                     <given-names>CL</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Functional status of patients with cerebral palsy according to the International Classification of Functioning, Disability and Health model: a 20-year follow-up study after selective dorsal rhizotomy</article-title>. 
+                    <source>Arch Phys Med Rehabil</source>. 
+                    <year>2009</year>
+                    <month>Jun</month>;
+                    <volume>90</volume>(
+                    <issue>6</issue>):
+                    <fpage>994</fpage>–
+                    <lpage>1003</lpage>. 
+                    <pub-id pub-id-type="doi">10.1016/j.apmr.2008.11.019</pub-id>
+                    <pub-id pub-id-type="pmid">19480876</pub-id>
+                    <issn>0003-9993</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b30">
+            <label>30. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Park</surname>
+                     <given-names>TS</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Liu</surname>
+                     <given-names>JL</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Edwards</surname>
+                     <given-names>C</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Walter</surname>
+                     <given-names>DM</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Dobbs</surname>
+                     <given-names>MB</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Functional Outcomes of Childhood Selective Dorsal Rhizotomy 20 to 28 Years Later</article-title>. 
+                    <source>Cureus</source>. 
+                    <year>2017</year>
+                    <month>May</month>;
+                    <volume>9</volume>(
+                    <issue>5</issue>):
+                    <fpage>e1256</fpage>. 
+                    <pub-id pub-id-type="doi">10.7759/cureus.1256</pub-id>
+                    <pub-id pub-id-type="pmid">28649479</pub-id>
+                    <issn>2168-8184</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b31">
+            <label>31. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>D’Aquino</surname>
+                     <given-names>D</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Moussa</surname>
+                     <given-names>AA</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Ammar</surname>
+                     <given-names>A</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Ingale</surname>
+                     <given-names>H</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Vloeberghs</surname>
+                     <given-names>M</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Selective dorsal rhizotomy for the treatment of severe spastic cerebral palsy: efficacy and therapeutic durability in GMFCS grade IV and V children</article-title>. 
+                    <source>Acta Neurochir (Wien)</source>. 
+                    <year>2018</year>
+                    <month>Apr</month>;
+                    <volume>160</volume>(
+                    <issue>4</issue>):
+                    <fpage>811</fpage>–
+                    <lpage>21</lpage>. 
+                    <pub-id pub-id-type="doi">10.1007/s00701-017-3349-z</pub-id>
+                    <pub-id pub-id-type="pmid">29116382</pub-id>
+                    <issn>0001-6268</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b32">
+            <label>32. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Reynolds</surname>
+                     <given-names>MR</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Ray</surname>
+                     <given-names>WZ</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Strom</surname>
+                     <given-names>RG</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Blackburn</surname>
+                     <given-names>SL</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Lee</surname>
+                     <given-names>A</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Park</surname>
+                     <given-names>TS</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Clinical outcomes after selective dorsal rhizotomy in an adult population</article-title>. 
+                    <source>World Neurosurg</source>. 
+                    <year>2011</year>
+                    <month>Jan</month>;
+                    <volume>75</volume>(
+                    <issue>1</issue>):
+                    <fpage>138</fpage>–
+                    <lpage>44</lpage>. 
+                    <pub-id pub-id-type="doi">10.1016/j.wneu.2010.09.010</pub-id>
+                    <pub-id pub-id-type="pmid">21492678</pub-id>
+                    <issn>1878-8750</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b33">
+            <label>33. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Gump</surname>
+                     <given-names>WC</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Mutchnick</surname>
+                     <given-names>IS</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Moriarty</surname>
+                     <given-names>TM</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Selective dorsal rhizotomy for spasticity not associated with cerebral palsy: reconsideration of surgical inclusion criteria</article-title>. 
+                    <source>Neurosurg Focus</source>. 
+                    <year>2013</year>
+                    <month>Nov</month>;
+                    <volume>35</volume>(
+                    <issue>5</issue>):
+                    <fpage>E6</fpage>. 
+                    <pub-id pub-id-type="doi">10.3171/2013.8.FOCUS13294</pub-id>
+                    <pub-id pub-id-type="pmid">24175866</pub-id>
+                    <issn>1092-0684</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b34">
+            <label>34. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Eppinger</surname>
+                     <given-names>MA</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Berman</surname>
+                     <given-names>CM</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Mazzola</surname>
+                     <given-names>CA</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Selective dorsal rhizotomy for spastic diplegia secondary to stroke in an adult patient</article-title>. 
+                    <source>Surg Neurol Int</source>. 
+                    <year>2015</year>
+                    <month>Jun</month>;
+                    <volume>6</volume>(
+                    <issue>1</issue>):
+                    <fpage>111</fpage>. 
+                    <pub-id pub-id-type="doi">10.4103/2152-7806.159382</pub-id>
+                    <pub-id pub-id-type="pmid">26167363</pub-id>
+                    <issn>2229-5097</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b35">
+            <label>35. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>O’Shea</surname>
+                     <given-names>TM</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Diagnosis, treatment, and prevention of cerebral palsy</article-title>. 
+                    <source>Clin Obstet Gynecol</source>. 
+                    <year>2008</year>
+                    <month>Dec</month>;
+                    <volume>51</volume>(
+                    <issue>4</issue>):
+                    <fpage>816</fpage>–
+                    <lpage>28</lpage>. 
+                    <pub-id pub-id-type="doi">10.1097/GRF.0b013e3181870ba7</pub-id>
+                    <pub-id pub-id-type="pmid">18981805</pub-id>
+                    <issn>0009-9201</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b36">
+            <label>36. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Wang</surname>
+                     <given-names>KK</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Munger</surname>
+                     <given-names>ME</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Chen</surname>
+                     <given-names>BP</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Novacheck</surname>
+                     <given-names>TF</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Selective dorsal rhizotomy in ambulant children with cerebral palsy</article-title>. 
+                    <source>J Child Orthop</source>. 
+                    <year>2018</year>
+                    <month>Oct</month>;
+                    <volume>12</volume>(
+                    <issue>5</issue>):
+                    <fpage>413</fpage>–
+                    <lpage>27</lpage>. 
+                    <pub-id pub-id-type="doi">10.1302/1863-2548.12.180123</pub-id>
+                    <pub-id pub-id-type="pmid">30294365</pub-id>
+                    <issn>1863-2521</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b37">
+            <label>37. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Nemer McCoy</surname>
+                     <given-names>R</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Blasco</surname>
+                     <given-names>PA</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Russman</surname>
+                     <given-names>BS</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>O’Malley</surname>
+                     <given-names>JP</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Validation of a care and comfort hypertonicity questionnaire</article-title>. 
+                    <source>Dev Med Child Neurol</source>. 
+                    <year>2006</year>
+                    <month>Mar</month>;
+                    <volume>48</volume>(
+                    <issue>3</issue>):
+                    <fpage>181</fpage>–
+                    <lpage>7</lpage>. 
+                    <pub-id pub-id-type="doi">10.1017/S0012162206000405</pub-id>
+                    <pub-id pub-id-type="pmid">16483393</pub-id>
+                    <issn>0012-1622</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b38">
+            <label>38. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Park</surname>
+                     <given-names>TS</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Johnston</surname>
+                     <given-names>JM</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Surgical techniques of selective dorsal rhizotomy for spastic cerebral palsy. Technical note</article-title>. 
+                    <source>Neurosurg Focus</source>. 
+                    <year>2006</year>
+                    <month>Aug</month>;
+                    <volume>21</volume>(
+                    <issue>2</issue>):
+                    <fpage>e7</fpage>. 
+                    <pub-id pub-id-type="doi">10.3171/foc.2006.21.2.8</pub-id>
+                    <pub-id pub-id-type="pmid">16918228</pub-id>
+                    <issn>1092-0684</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b39">
+            <label>39. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Engsberg</surname>
+                     <given-names>JR</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Olree</surname>
+                     <given-names>KS</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Ross</surname>
+                     <given-names>SA</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Park</surname>
+                     <given-names>TS</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Spasticity and strength changes as a function of selective dorsal rhizotomy</article-title>. 
+                    <source>Neurosurg Focus</source>. 
+                    <year>1998</year>
+                    <month>Jan</month>;
+                    <volume>4</volume>(
+                    <issue>1</issue>):
+                    <fpage>e4</fpage>. 
+                    <pub-id pub-id-type="doi">10.3171/foc.1998.4.1.10</pub-id>
+                    <pub-id pub-id-type="pmid">17206774</pub-id>
+                    <issn>1092-0684</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b40">
+            <label>40. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Engsberg</surname>
+                     <given-names>JR</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Ross</surname>
+                     <given-names>SA</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Collins</surname>
+                     <given-names>DR</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Park</surname>
+                     <given-names>TS</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Predicting functional change from preintervention measures in selective dorsal rhizotomy</article-title>. 
+                    <source>J Neurosurg</source>. 
+                    <year>2007</year>
+                    <month>Apr</month>;
+                    <volume>106</volume>(
+                    <issue>4</issue>
+                    <supplement>Suppl</supplement>):
+                    <fpage>282</fpage>–
+                    <lpage>7</lpage>.
+                    <pub-id pub-id-type="pmid">17465361</pub-id>
+                    <issn>0022-3085</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b41">
+            <label>41. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Engsberg</surname>
+                     <given-names>JR</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Ross</surname>
+                     <given-names>SA</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Collins</surname>
+                     <given-names>DR</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Park</surname>
+                     <given-names>TS</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Effect of selective dorsal rhizotomy in the treatment of children with cerebral palsy</article-title>. 
+                    <source>J Neurosurg</source>. 
+                    <year>2006</year>
+                    <month>Jul</month>;
+                    <volume>105</volume>(
+                    <issue>1</issue>
+                    <supplement>Suppl</supplement>):
+                    <fpage>8</fpage>–
+                    <lpage>15</lpage>.
+                    <pub-id pub-id-type="pmid">16871864</pub-id>
+                    <issn>0022-3085</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b42">
+            <label>42. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Park</surname>
+                     <given-names>TS</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Selective dorsal rhizotomy: an excellent therapeutic option for spastic cerebral palsy</article-title>. 
+                    <source>Clin Neurosurg</source>. 
+                    <year>2000</year>;
+                    <volume>47</volume>:
+                    <fpage>422</fpage>–
+                    <lpage>39</lpage>.
+                    <pub-id pub-id-type="pmid">11197715</pub-id>
+                    <issn>0069-4827</issn> 
+                </mixed-citation>
+         </ref>
+         <ref id="b43">
+            <label>43. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Tilton</surname>
+                     <given-names>A</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Management of spasticity in children with cerebral palsy</article-title>. 
+                    <source>Semin Pediatr Neurol</source>. 
+                    <year>2009</year>
+                    <month>Jun</month>;
+                    <volume>16</volume>(
+                    <issue>2</issue>):
+                    <fpage>82</fpage>–
+                    <lpage>9</lpage>. 
+                    <pub-id pub-id-type="doi">10.1016/j.spen.2009.03.006</pub-id>
+                    <pub-id pub-id-type="pmid">19501336</pub-id>
+                    <issn>1071-9091</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b44">
+            <label>44. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Abou Al-Shaar</surname>
+                     <given-names>H</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Imtiaz</surname>
+                     <given-names>MT</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Alhalabi</surname>
+                     <given-names>H</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Alsubaie</surname>
+                     <given-names>SM</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Sabbagh</surname>
+                     <given-names>AJ</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Selective dorsal rhizotomy: A multidisciplinary approach to treating spastic diplegia</article-title>. 
+                    <source>Asian J Neurosurg</source>. 
+                    <year>2017</year>
+                    <month>Jul-Sep</month>;
+                    <volume>12</volume>(
+                    <issue>3</issue>):
+                    <fpage>454</fpage>–
+                    <lpage>65</lpage>. 
+                    <pub-id pub-id-type="doi">10.4103/1793-5482.175625</pub-id>
+                    <pub-id pub-id-type="pmid">28761524</pub-id>
+                    <issn>1793-5482</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b45">
+            <label>45. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Mittal</surname>
+                     <given-names>S</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Farmer</surname>
+                     <given-names>JP</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Al-Atassi</surname>
+                     <given-names>B</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Gibis</surname>
+                     <given-names>J</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Kennedy</surname>
+                     <given-names>E</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Galli</surname>
+                     <given-names>C</given-names>
+                  </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>Long-term functional outcome after selective posterior rhizotomy</article-title>. 
+                    <source>J Neurosurg</source>. 
+                    <year>2002</year>
+                    <month>Aug</month>;
+                    <volume>97</volume>(
+                    <issue>2</issue>):
+                    <fpage>315</fpage>–
+                    <lpage>25</lpage>. 
+                    <pub-id pub-id-type="doi">10.3171/jns.2002.97.2.0315</pub-id>
+                    <pub-id pub-id-type="pmid">12186459</pub-id>
+                    <issn>0022-3085</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b46">
+            <label>46. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Park</surname>
+                     <given-names>TS</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Edwards</surname>
+                     <given-names>C</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Liu</surname>
+                     <given-names>JL</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Walter</surname>
+                     <given-names>DM</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Dobbs</surname>
+                     <given-names>MB</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Beneficial Effects of Childhood Selective Dorsal Rhizotomy in Adulthood</article-title>. 
+                    <source>Cureus</source>. 
+                    <year>2017</year>
+                    <month>Mar</month>;
+                    <volume>9</volume>(
+                    <issue>3</issue>):
+                    <fpage>e1077</fpage>. 
+                    <pub-id pub-id-type="doi">10.7759/cureus.1077</pub-id>
+                    <pub-id pub-id-type="pmid">28401027</pub-id>
+                    <issn>2168-8184</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b47">
+            <label>47. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Engsberg</surname>
+                     <given-names>JR</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Park</surname>
+                     <given-names>TS</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Selective dorsal rhizotomy</article-title>. 
+                    <source>J Neurosurg Pediatr</source>. 
+                    <year>2008</year>
+                    <month>Mar</month>;
+                    <volume>1</volume>(
+                    <issue>3</issue>):
+                    <fpage>177</fpage>–
+                    <lpage>9</lpage>. 
+                    <pub-id pub-id-type="doi">10.3171/PED/2008/1/3/177</pub-id>
+                    <pub-id pub-id-type="pmid">18352759</pub-id>
+                    <issn>1933-0707</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b48">
+            <label>48. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Peacock</surname>
+                     <given-names>WJ</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Arens</surname>
+                     <given-names>LJ</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Selective posterior rhizotomy for the relief of spasticity in cerebral palsy</article-title>. 
+                    <source>S Afr Med J</source>. 
+                    <year>1982</year>
+                    <month>Jul</month>;
+                    <volume>62</volume>(
+                    <issue>4</issue>):
+                    <fpage>119</fpage>–
+                    <lpage>24</lpage>.
+                    <pub-id pub-id-type="pmid">7089801</pub-id>
+                    <issn>0256-9574</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b49">
+            <label>49. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Abbott</surname>
+                     <given-names>R</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Johann-Murphy</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Shiminski-Maher</surname>
+                     <given-names>T</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Quartermain</surname>
+                     <given-names>D</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Forem</surname>
+                     <given-names>SL</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Gold</surname>
+                     <given-names>JT</given-names>
+                  </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>Selective dorsal rhizotomy: outcome and complications in treating spastic cerebral palsy</article-title>. 
+                    <source>Neurosurgery</source>. 
+                    <year>1993</year>
+                    <month>Nov</month>;
+                    <volume>33</volume>(
+                    <issue>5</issue>):
+                    <fpage>851</fpage>–
+                    <lpage>7</lpage>. 
+                    <pub-id pub-id-type="doi">10.1227/00006123-199311000-00010</pub-id>
+                    <pub-id pub-id-type="pmid">8264882</pub-id>
+                    <issn>0148-396X</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b50">
+            <label>50. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Steinbok</surname>
+                     <given-names>P</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Schrag</surname>
+                     <given-names>C</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Complications after selective posterior rhizotomy for spasticity in children with cerebral palsy</article-title>. 
+                    <source>Pediatr Neurosurg</source>. 
+                    <year>1998</year>
+                    <month>Jun</month>;
+                    <volume>28</volume>(
+                    <issue>6</issue>):
+                    <fpage>300</fpage>–
+                    <lpage>13</lpage>. 
+                    <pub-id pub-id-type="doi">10.1159/000028668</pub-id>
+                    <pub-id pub-id-type="pmid">9782207</pub-id>
+                    <issn>1016-2291</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b51">
+            <label>51. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Golan</surname>
+                     <given-names>JD</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Hall</surname>
+                     <given-names>JA</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>O’Gorman</surname>
+                     <given-names>G</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Poulin</surname>
+                     <given-names>C</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Benaroch</surname>
+                     <given-names>TE</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Cantin</surname>
+                     <given-names>MA</given-names>
+                  </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>Spinal deformities following selective dorsal rhizotomy</article-title>. 
+                    <source>J Neurosurg</source>. 
+                    <year>2007</year>
+                    <month>Jun</month>;
+                    <volume>106</volume>(
+                    <issue>6</issue>
+                    <supplement>Suppl</supplement>): 
+                    <fpage>441</fpage>–
+                    <lpage>9</lpage>.
+                    <pub-id pub-id-type="pmid">17566400</pub-id>
+                    <issn>0022-3085</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b52">
+            <label>52. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Abbott</surname>
+                     <given-names>R</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Complications with selective posterior rhizotomy</article-title>. 
+                    <source>Pediatr Neurosurg</source>. 
+                    <year>1992</year>;
+                    <volume>18</volume>(
+                    <issue>1</issue>):
+                    <fpage>43</fpage>–
+                    <lpage>7</lpage>. 
+                    <pub-id pub-id-type="doi">10.1159/000120640</pub-id>
+                    <pub-id pub-id-type="pmid">1419841</pub-id>
+                    <issn>1016-2291</issn>
+                </mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

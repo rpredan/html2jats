@@ -1,0 +1,2180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD with MathML3 v1.1 20151215//EN" "JATS-journalpublishing1-mathml3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink"
+         dtd-version="1.1"
+         xml:lang="sl"
+         article-type="other">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher-id">Zdrav Vestn</journal-id>
+         <journal-id journal-id-type="nlm-ta">Zdrav Vestn</journal-id>
+         <journal-id journal-id-type="doi">Zdrav Vestn</journal-id>
+         <journal-title-group>
+            <journal-title>Zdravniški vestnik</journal-title>
+            <trans-title-group xml:lang="en">
+               <trans-title>Slovenian Medical Journal</trans-title>
+            </trans-title-group>
+            <abbrev-journal-title>Zdrav Vestn</abbrev-journal-title>
+         </journal-title-group>
+         <issn publication-format="ppub" pub-type="ppub">1318-0347</issn>
+         <issn publication-format="epub" pub-type="epub">1581-0224</issn>
+         <issn-l>0350-0063</issn-l>
+         <publisher>
+            <publisher-name xml:lang="sl">Slovensko zdravniško društvo</publisher-name>
+            <publisher-name xml:lang="en">Slovenian Medical Association</publisher-name>
+            <publisher-loc xml:lang="sl">Ljubljana, Slovenia</publisher-loc>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.6016/ZdravVestn.2921</article-id>
+         <article-id pub-id-type="publisher-id">2921</article-id>
+         <article-categories>
+            <subj-group subj-group-type="discipline" xml:lang="en">
+               <subject>Medicine and health sciences</subject>
+               <subj-group>
+                  <subject>Metabolic and hormonal disorders</subject>
+               </subj-group>
+            </subj-group>
+            <subj-group subj-group-type="discipline" xml:lang="sl">
+               <subject>Medicina/Zdravstvo</subject>
+               <subj-group>
+                  <subject>Metabolne in hormonske motnje</subject>
+               </subj-group>
+            </subj-group>
+            <subj-group subj-group-type="article-type" xml:lang="en">
+               <subject>Review article</subject>
+            </subj-group>
+            <subj-group subj-group-type="article-type" xml:lang="sl">
+               <subject>Pregledni znanstveni članek</subject>
+            </subj-group>
+            <subj-group subj-group-type="heading" xml:lang="sl">
+               <subject>Metabolne in hormonske motnje</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title xml:lang="sl">Funkcionalni hipogonadizem in prevalenca znižane ravni celokupnega testosterona pri sladkornih bolnikih tipa 2</article-title>
+            <trans-title-group>
+               <trans-title xml:lang="en">Functional hypogonadism and prevalence of decreased total testosterone level in type 2 diabetic male patients</trans-title>
+            </trans-title-group>
+            <alt-title alt-title-type="running-head" xml:lang="sl">Funkcionalni hipogonadizem in prevalenca znižane ravni celokupnega testosterona pri sladkornih bolnikih tipa 2</alt-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Groti Antonić</surname>
+                  <given-names>Kristina</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1">1</xref>
+               <xref ref-type="corresp" rid="corr"/>
+            </contrib>
+         </contrib-group>
+         <aff-alternatives id="aff1">
+            <aff xml:lang="sl">
+               <label>1</label>
+               <institution>Klinični oddelek za endokrinologijo, diabetes in presnovne bolezni, Interna klinika, Univerzitetni klinični center Ljubljana, Ljubljana, Slovenija</institution>
+            </aff>
+            <aff xml:lang="en">
+               <label>1</label>
+               <institution>Department of Endocrinology, Diabetes and Metabolic Diseases, Division of Paediatrics, University Medical Centre Ljubljana, Ljubljana, Slovenia</institution>
+            </aff>
+         </aff-alternatives>
+         <author-notes>
+            <fn fn-type="conflict" xml:lang="en">
+               <p>The authors have declared that no competing interests exist.</p>
+            </fn>
+            <fn fn-type="conflict" xml:lang="sl">
+               <p>Avtorji so izjavili, da ne obstajajo nobeni konkurenčni interesi.</p>
+            </fn>
+            <corresp id="corr">Kristina Groti Antonić, e-mail: <email xlink:type="simple"/>
+            </corresp>
+         </author-notes>
+         <pub-date pub-type="ppub">
+            <month>4</month>
+            <year>2020</year>
+         </pub-date>
+         <pub-date pub-type="epub">
+            <month>4</month>
+            <year>2020</year>
+         </pub-date>
+         <volume>89</volume>
+         <issue>3–4</issue>
+         <fpage>160</fpage>
+         <lpage>70</lpage>
+         <history>
+            <date date-type="received">
+               <day>28</day>
+               <month>1</month>
+               <year>2019</year>
+            </date>
+            <date date-type="accepted">
+               <day>24</day>
+               <month>6</month>
+               <year>2019</year>
+            </date>
+         </history>
+         <permissions>
+            <copyright-statement xml:lang="en">Copyright © 2020, Slovenian Medical Association (SZD)</copyright-statement>
+            <copyright-statement xml:lang="sl">© 2020, Slovensko zdravniško društvo (SZD)</copyright-statement>
+            <copyright-year>2020</copyright-year>
+            <copyright-holder xml:lang="en">Slovenian Medical Association (SZD)</copyright-holder>
+            <copyright-holder xml:lang="sl">Slovensko zdravniško društvo (SZD)</copyright-holder>
+            <license xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                     xlink:type="simple"
+                     xml:lang="en">
+               <license-p>This is an open access article distributed under the terms of the
+          <ext-link ext-link-type="uri"
+                            xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                            xlink:type="simple">Creative Commons Attribution-NonCommercial
+            License</ext-link>, which permits unrestricted use, distribution, and
+          reproduction in any medium, provided the original author and source are
+          credited and only for non-commercial purposes. </license-p>
+            </license>
+            <license xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                     xlink:type="simple"
+                     xml:lang="sl">
+               <license-p>To je članek z odprtim dostopom, ki ga lahko uporabite pod pogoji iz
+          <ext-link ext-link-type="uri"
+                            xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                            xlink:type="simple">Creative Commons Priznanje avtorstva-Nekomercialno
+            licence</ext-link>. ki dovoljuje distribucijo, predelavo ali
+          prilagoditev, ter gradijo na njem, v nekomercialne namene, z navedbo avtorja
+          in izvirnega dela.</license-p>
+            </license>
+         </permissions>
+         <abstract xml:lang="sl">
+            <title>Izvleček</title>
+            <p>Približno 50 % moških, starejših od 40 let, ki se zdravijo za sladkorno boleznijo tipa 2 (SB2) in debelostjo, ima znižano raven celokupnega testosterona; številni imajo tudi znake hipogonadizma. Funkcionalni hipogonadizem lahko vpliva na slabšo urejenost sladkorne bolezni, prezgodnji nastanek srčno-žilnih zapletov, povzroča erektilno disfunkcijo, znižano mineralno kostno gostoto in je vzrok za upad mišične mase in kopičenje visceralne maščobe.</p>
+            <p>Prvi del prispevka opisuje patofiziologijo, klinično sliko, diagnosticiranje in zdravljenje funkcionalnega hipogonadizma. V drugem delu prispevka so predstavljeni rezultati presečne študije, opravljene v obdobju 2014–2015 med sladkornimi bolniki tipa 2, ki se vodijo v Diabetični ambulanti Splošne bolnišnice Celje. S študijo smo ugotovili prevalenco znižane ravni celokupnega testosterona. V presečno študijo je bilo vključenih 165 bolnikov. 87 bolnikov je imelo znižano raven celokupnega testosterona (pod 11 nmol/l), 78 pa je imelo normalno raven celokupnega testosterona. Prevalenco znižane ravni celokupnega testosterona med debelimi bolniki s sladkorno boleznijo tipa 2 smo ocenili na 52,7 %.</p>
+         </abstract>
+         <trans-abstract xml:lang="en">
+            <title>Abstract</title>
+            <p>Approximately 50 % of older obese males treated for type 2 diabetes exhibit low total testosterone levels, and many of them also signs of hypogonadism. Functional hypogonadism negatively affects glycaemic control, exacerbates early cardio-vascular complications, causes lower bone mineral density, erectile dysfunction, reduces lean body mass, and accelerates the accumulation of visceral fat.</p>
+            <p>The first part of this paper provides an overview of the pathophysiology, clinical characteristics, diagnosis and treatment of functional hypogonadism. The second part of the article presents the results of a cross-sectional study of obese diabetic male patients, undertaken during the years 2014–2015 at the Diabetic Outpatient Clinic of the General Hospital Celje, with the goal to assess the prevalence of decreased total testosterone level. There were 165 patients included in this cross-sectional study; 87 patients exhibited a decreased total testosterone level (below 11 nmol/l) while 78 had a normal level of total testosterone. The prevalence of decreased levels of total testosterone among obese male patients with type 2 diabetes was found to be 52.7 %.</p>
+         </trans-abstract>
+         <kwd-group xml:lang="sl">
+            <kwd>testosteron</kwd>
+            <kwd>hipogonadizem</kwd>
+            <kwd>sladkorna bolezen</kwd>
+            <kwd>debelost</kwd>
+            <kwd>prevalenca</kwd>
+         </kwd-group>
+         <kwd-group xml:lang="en">
+            <kwd>testosterone</kwd>
+            <kwd>hypogonadism</kwd>
+            <kwd>type 2 diabetes</kwd>
+            <kwd>obesity</kwd>
+            <kwd>prevalence</kwd>
+         </kwd-group>
+      </article-meta>
+   </front>
+   <body>
+      <sec id="s1" sec-type="Uvod">
+         <label>1</label>
+         <title>Uvod</title>
+         <p>V svetu je več kot 422 milijonov sladkornih bolnikov, od tega 85 % s sladkorno boleznijo tipa 2 (SB2). V Sloveniji je več kot 106.000 registriranih sladkornih bolnikov (<xref ref-type="bibr" rid="b1">1</xref>). Približno polovica bolnikov s SB2 ima znižano raven celokupnega testosterona (<xref ref-type="bibr" rid="b2">2</xref>).</p>
+         <p>Testosteron je moški spolni hormon, ki ima pomembne metabolne učinke, zato je pomanjkanje testosterona pri moških povezano z debelostjo, razvojem metabolnega sindroma (MetS) in SB2 (<xref ref-type="bibr" rid="b3">3</xref>-<xref ref-type="bibr" rid="b5">5</xref>). Velja tudi obratno: visceralna debelost, ki je pomembna komponenta MetS, lahko vodi do nastanka hipogonadizma preko zaviranja tvorbe testosterona, pretvorbe testosterona v estradiol ter vnetnih procesov, ki jih povzroča povečana tvorba mediatorjev vnetja v adipocitih. Znižana raven testosterona je neodvisni dejavnik tveganja za nastanek SB2 in MetS, zato lahko povzroči endotelijsko disfunkcijo, erektilno disfunkcijo, osteoporozo, jetrno steatozo ter povečano smrtnost zaradi srčno-žilnih bolezni (<xref ref-type="bibr" rid="b6">6</xref>,<xref ref-type="bibr" rid="b7">7</xref>). Rezultati študije o povezavi celokupnega testosterona in tveganju nastanka SB2 in srčno-žilnih zapletov (<xref ref-type="bibr" rid="b8">8</xref>), opravljene na več kot 5.000 moških, ki so jih spremljali 29 let, je pokazala, da sta znižana raven celokupnega testosterona in vezalne beljakovine za spolni hormon (<italic>angl.</italic> sex hormone-binding globulin, SHBG) v primerih, pri katerih ne gre za primarni, temveč za funkcionalni hipogonadizem, povezana z znatno povišanim tveganjem za nastanek SB2; podoben vzorec pa so potrdili za povezavo povišane ravni celokupnega testosterona in zmanjšane pojavnosti srčno-žilnih zapletov pri nekadilcih. Pri kadilcih je povezava obratna – povišana raven testosterona je povezana s pogostejšo pojavnostjo srčno-žilnih zapletov.</p>
+         <p>V prvem delu prispevka so opisane opredelitev, patofiziologija, klinična slika, diagnoza in zdravljenje funkcionalnega hipogonadizma. V drugem delu so predstavljeni rezultati presečne študije, v obdobju 2014–2015 opravljene med sladkornimi bolniki tipa 2, ki se vodijo v Diabetični ambulanti Splošne bolnišnice Celje. Namen raziskave je bil ugotoviti prevalenco znižane ravni celokupnega testosterona pri bolnikih s SB2 pri nas.</p>
+      </sec>
+      <sec id="s2" sec-type="Funkcionalni hipogonadizem">
+         <label>2</label>
+         <title>Funkcionalni hipogonadizem</title>
+         <sec id="s2.1" sec-type="Opredelitev in patofiziologija">
+            <label>2.1</label>
+            <title>Opredelitev in patofiziologija</title>
+            <p>Funkcionalni hipogonadizem (FH) je klinično in biokemično stanje, za katero so značilni seksualni simptomi (zmanjšan libido, erektilna disfunkcija, odsotnost ali zmanjšana pogostost jutranjih erekcij) in znižana raven celokupnega in/ali prostega testosterona (<xref ref-type="bibr" rid="b9">9</xref>,<xref ref-type="bibr" rid="b10">10</xref>). FH je kombinirana motnja na primarni (moda) in sekundarni ravni (hipotalamus in hipofiza). Gre za funkcionalno motnjo delovanja hipotalamo-hipofizno-gonadne (testikularne) osi, ki je – za razliko od organskega (klasičnega) hipogonadizma – potencialno odpravljiva. Zaradi funkcionalne motnje hipotalamo-hipofizno-gonadne osi se zmanjša amplituda izločanja luteinizirajočega hormona (LH), zato se zmanjša učinek LH na Leydigove celice in sinteza testosterona, kar je prvi pomemben vidik funkcionalnega hipogonadizma (<xref ref-type="bibr" rid="b11">11</xref>). Normalen homeostatski odgovor hipotalamo-hipofizne osi na znižano raven testosterona je povečano izločanje gonadotropinov in stimulacija testisov (<xref ref-type="bibr" rid="b12">12</xref>). Mehanizmi, ki zavirajo ta normalen odgovor, so:</p>
+            <list>
+               <list-item>
+                  <label>1.</label>
+                  <p>zaradi povečane aktivnosti encima aromataza v adipocitih, zaradi česar se pri debelih moških poveča pretvorba testosterona v estradiol, naj bi estradiol pri tej populaciji lahko zaviral hipotalamično izločanje GnRH (<xref ref-type="bibr" rid="b13">13</xref>), vendar so pokazali, da so koncentracije celokupnega in prostega estradiola pri moških s FH bistveno nižje kot pri moških brez FH (<xref ref-type="bibr" rid="b14">14</xref>);</p>
+               </list-item>
+               <list-item>
+                  <label>2.</label>
+                  <p>vnetni adipocitokini (TNF-α in IL-6), ki nastajajo v adipocitih, neposredno zavirajo izločanje LH (<xref ref-type="bibr" rid="b15">15</xref>);</p>
+               </list-item>
+               <list-item>
+                  <label>3.</label>
+                  <p>zaradi leptinske rezistence v hipotalamusu, ki nastane pri debelosti, je zmanjšano izločanje LH, ki ga sicer leptin normalno spodbuja (<xref ref-type="bibr" rid="b16">16</xref>);</p>
+               </list-item>
+               <list-item>
+                  <label>4.</label>
+                  <p>vse našteto še bolj znižuje koncentracijo testosterona, zato se poveča aktivnost encima lipoproteinska lipaza, kar privede do povečanega privzema trigliceridov v adipocite, zaradi česar se poveča nastanek visceralne maščobe, kar še dodatno poslabša inzulinsko rezistenco (IR) (<xref ref-type="bibr" rid="b17">17</xref>,<xref ref-type="bibr" rid="b18">18</xref>);</p>
+               </list-item>
+               <list-item>
+                  <label>5.</label>
+                  <p>rezistin, mediator IR, ki se tvori v adipocitih, preko neposrednega vpliva na gonade znižuje raven testosterona (<xref ref-type="bibr" rid="b19">19</xref>);</p>
+               </list-item>
+               <list-item>
+                  <label>6.</label>
+                  <p>leptin, inzulin in prebavni peptid grelin preko vpliva na GnRH zavirajo izločanje LH na hipotalamični ravni (<xref ref-type="bibr" rid="b20">20</xref>).</p>
+               </list-item>
+            </list>
+            <p>Pri FH zaradi teh vzrokov hipotalamo-hipofizno-gonadna os ne more ustrezno (fiziološko) odgovoriti na znižano raven testosterona, zaradi česar se raven testosterona ne more normalizirati.</p>
+            <p>Ob spremembah delovanja hipotalamo-hipofizno-gonadne osi zaradi degenerativnih sprememb, povzročenih v procesu staranja, in oksidativnega stresa v mikrookolju mod, ki je posledica MetS, pride poleg vpliva na Leydigove tudi do vpliva na Sertollijeve celice, ki privede do zmanjšanja spermatogeneze, kar je lahko dodatni vzrok za neplodnost (<xref ref-type="bibr" rid="b21">21</xref>). To je drugi pomemben vidik funkcionalnega hipogonadizma.</p>
+         </sec>
+         <sec id="s2.2" sec-type="Klinična slika">
+            <label>2.2</label>
+            <title>Klinična slika</title>
+            <p>Pri moških po 40. letu starosti povprečna raven celokupnega testosterona v plazmi postopno upada za 1,6 % na leto, raven prostega in biološko razpoložljivega testosterona pa za 2–3 % na leto (<xref ref-type="bibr" rid="b22">22</xref>). FH se pogosto ne prepozna (ne diagnosticira), ker se s postopnim upadom koncentracije testosterona začnejo pojavljati znaki in simptomi, ki so nespecifični in težko ločljivi od drugih znakov staranja (<xref ref-type="bibr" rid="b23">23</xref>).</p>
+            <p>Ti nespecifični simptomi in znaki pomanjkanja testosterona so utrujenost, zmanjšanje motivacije, depresija ali razdražljivost, zmanjšana mišična moč v kombinaciji z mišično atrofijo. Objektivni pojavi FH lahko vključujejo kopičenje visceralnega maščevja, ginekomastijo, znižano kostno gostoto, anemijo in zmanjšano poraščenost (<xref ref-type="bibr" rid="b24">24</xref>). Pomanjkanje testosterona pri sladkornih bolnikih vpliva na slabšo urejenost glikemije in je povezano s povečano pojavnostjo srčno-žilnih dogodkov in umrljivostjo (<xref ref-type="bibr" rid="b6">6</xref>).</p>
+         </sec>
+         <sec id="s2.3" sec-type="Diagnosticiranje">
+            <label>2.3</label>
+            <title>Diagnosticiranje</title>
+            <p>Za postavitev diagnoze FH upoštevamo prisotnost treh seksualnih simptomov (zmanjšani libido, erektilna disfunkcija, odsotnost ali zmanjšana pogostost jutranjih erekcij) ter znižano serumsko koncentracijo celokupnega testosterona pod 11 nmol/l in/ali prostega testosterona pod 220 pmol/l (<xref ref-type="bibr" rid="b10">10</xref>,<xref ref-type="bibr" rid="b25">25</xref>).</p>
+            <p>Pred postavitvijo diagnoze FH moramo izključiti druge oblike hipogonadizma – primarni in sekundarni hipogonadizem, torej tudi odpoved delovanja hipofize (hipopituitarizem) (<xref ref-type="bibr" rid="b24">24</xref>).</p>
+         </sec>
+         <sec id="s2.4" sec-type="Zdravljenje">
+            <label>2.4</label>
+            <title>Zdravljenje</title>
+            <p>Po veljavnih smernicah evropskega endokrinološkega združenja zdravljenje FH poleg nadomestnega zdravljenja s testosteronom (NZT) vključuje spremembe življenjskega sloga, kot sta omejitev vnosa kalorij in povečana telesna dejavnost, in optimiziranje urejenosti kronične bolezni, ki je vzrok za nastanek znižanega testosterona (debelost, sladkorna bolezen) (<xref ref-type="bibr" rid="b26">26</xref>). Uspešno hujšanje z dieto ali stanje po bariatričnem kirurškem posegu privede do zvišanja ravni testosterona (<xref ref-type="bibr" rid="b27">27</xref>), vendar je vrednost podatkov opravljenih metaanaliz zaradi sorazmerno kratkega trajanja študij in nizkega števila bolnikov nekoliko omejena. Avtorji študije EMAS, v kateri so preučevali 2.599 moških, so dokazali, da je 5 % izgube telesne mase povezano z zvišanjem SHBG zaradi zmanjšanja odpornosti na inzulin in zvišanjem celokupnega testosterona za 2 nmol/l, čeprav do zvišanja ravni prostega testosterona ne pride (<xref ref-type="bibr" rid="b22">22</xref>). Večja izguba telesne mase (za 15 %) je povezana z večjim zvišanjem celokupnega (za 5,7 nmol/l) in prostega testosterona (za 52 pmol/l) (<xref ref-type="bibr" rid="b28">28</xref>). Še večja izguba telesne mase po kirurškem posegu (nad 30 %) lahko zviša raven celokupnega testosterona za več kot 10 nmol/l (<xref ref-type="bibr" rid="b5">5</xref>). Opazno znižanje telesne mase lahko torej normalizira delovanje hipotalamo-hipofizno-gonadne osi zaradi zmanjšanja zavornega vpliva debelosti.</p>
+            <p>Kronična hiperglikemija lahko zavre delovanje hipotalamo-hipofizno-gonadne osi. Izboljšanje urejenosti glikemije lahko zviša raven testosterona, kar je bilo dokazano v nekaterih študijah (<xref ref-type="bibr" rid="b29">29</xref>-<xref ref-type="bibr" rid="b30">30</xref>) in obratno – pri bolnikih, pri katerih se je urejenost glikemije poslabšala, se je znižal celokupni testosteron (<xref ref-type="bibr" rid="b2">2</xref>).</p>
+            <p>S testosteronom zdravimo tiste bolnike, pri katerih hujšanje ali optimizacija zdravljenja pridruženih bolezni nista prinesla pričakovanih rezultatov, imajo pa tudi specifične klinične simptome in znake hipogonadizma (s spolnega področja) in znižano serumsko koncentracijo testosterona (<xref ref-type="bibr" rid="b26">26</xref>,<xref ref-type="bibr" rid="b27">27</xref>).</p>
+            <p>Namen hormonske nadomestne terapije s testosteronom je ponovno vzpostaviti fiziološke koncentracije testosterona (<xref ref-type="bibr" rid="b10">10</xref>,<xref ref-type="bibr" rid="b32">32</xref>). Pozitivni učinki testosterona so povečanje libida, spolne funkcije, mišične moči, izboljšanje počutja, ureditev anemije ter povečanje mineralne kostne gostote.</p>
+            <p>Pri nas sta registrirana dva testosteronska pripravka – prvi v obliki injekcij in drugi v obliki gela. Pripravek za parenteralno (i. m.) dajanje, ki je na voljo pri nas, je dolgodelujoči testosteron undekanoat (TU) v obliki depojskih injekcij v odmerku 1.000 mg (<xref ref-type="bibr" rid="b33">33</xref>) Zdravilo se vbrizgava globoko v mišico na 10 do 14 tednov in ima bistveno boljše sodelovanje bolnika kot njegova alternativa. Transdermalno nadomeščanje testosterona v obliki enoodstotnega testosteronskega gela je bolj fiziološko, saj posnema dnevni ritem testosterona in omogoča doseganje stabilnih koncentracij testosterona v serumu (<xref ref-type="bibr" rid="b32">32</xref>).</p>
+            <p>Pred uvedbo NZT je potrebno izključiti morebitne kontraindikacije za zdravljenje s testosteronom. Absolutne kontraindikacije za NZT so: karcinom prostate, karcinom dojke, sindrom angine pektoris v zadnjih šestih mesecih, miokardni infarkt v zadnjih šestih mesecih, revaskularizacijski poseg v koronarnih arterijah v zadnjih šestih mesecih, možganska kap v zadnjih šestih mesecih in trombofilija. Relativne kontraindikacije za NZT so: benigna hipertrofija prostate s hudimi znaki težav s spodnjimi sečili (<italic>angl.</italic> 
+               <italic>lower urinary tract symptoms</italic>; LUTS) – z oceno vprašalnika IPSS (<italic>angl.</italic>
+               <italic> International Prostate Symptom Score</italic>) nad 19 točk, neopredeljeni nodus prostate, za prostato specifični antigen (prostate-specific antigen; PSA), ki je višji od 4,0 ng/ml, PSA, ki je višji od 3,0 ngl/ml skupaj z visokim tveganjem za karcinom prostate, huda nezdravljena apneja (prekinitev dihanja) med spanjem, hiperviskoznost krvi (eritrocitoza; hematokrit nad 0,50), hudo srčno popuščanje (NYHA IV), umska zaostalost in psihoze (<xref ref-type="bibr" rid="b10">10</xref>).</p>
+            <p>Številne študije so pokazale, da NZT pri sladkornih bolnikih z debelostjo lahko izboljša IR in druge komponente MetS, uravnanost glikemije, endotelijsko funkcijo žil in debelino intime medije, mineralno kostno gostoto, jetrno steatozo in simptome hipogonadizma (<xref ref-type="bibr" rid="b31">31</xref>,<xref ref-type="bibr" rid="b34">34</xref>-<xref ref-type="bibr" rid="b39">39</xref>). NZT lahko spremeni telesno sestavo in vpliva na izgubo telesne mase na račun izgube telesne maščobe brez izgube mišične mase; preko androgenih receptorjev zavira diferenciacijo matičnih celic v adipocite v korist miogeneze (<xref ref-type="bibr" rid="b40">40</xref>). Testosteron privede do zvišanja deleža puste telesne mase, česar ni mogoče doseči z zdravili za hujšanje ali z antiabetičnimi zdravili (<xref ref-type="bibr" rid="b41">41</xref>). Novejše raziskave kažejo, da dolgoročno zdravljenje z NZT pri moških s funkcionalnim hipogonadizmom v celoti preprečuje napredovanje preddiabetesa v SB2 (<xref ref-type="bibr" rid="b42">42</xref>).</p>
+         </sec>
+      </sec>
+      <sec id="s3"
+           sec-type="Prevalenca znižanega celokupnega testosterona pri moških s SB2 v slovenski populaciji">
+         <label>3</label>
+         <title>Prevalenca znižanega celokupnega testosterona pri moških s SB2 v slovenski populaciji</title>
+         <sec id="s3.1" sec-type="Namen">
+            <label>3.1</label>
+            <title>Namen</title>
+            <p>Namen naše presečne raziskave je bil ugotoviti prevalenco znižanega celokupnega testosterona pri moških s SB2 pri nas.</p>
+         </sec>
+         <sec id="s3.2" sec-type="Metode">
+            <label>3.2</label>
+            <title>Metode</title>
+            <p>Raziskava je potekala v letih 2014–2015 v diabetični ambulanti Splošne bolnišnice Celje. Vanjo so bili vključeni vsi moški bolniki s potrjeno SB2, ki so v tem obdobju opravili kontrolni pregled v ambulanti in bili pripravljeni prostovoljno sodelovati v tej presečni raziskavi. Preiskovanci so izpolnili vprašalnik AMS (<italic>angl.</italic> Aging Males‘ Symptoms) za subjektivno oceno simptomov pomanjkanja testosterona pri moških. Ta vprašalnik ni diagnostično uporaben za oceno hipogonadizma; lahko je le v pomoč. Med 7. in 11. uro zjutraj smo preiskovancem odvzeli kri za določitev ravni celokupnega testosterona v serumu ter ostale standardne biokemične preiskave.</p>
+            <p>Iz anamneze smo pridobili podatke o trajanju SB2 ter o prisotnosti pridruženih dejavnikov tveganja za aterosklerozo (arterijska hipertenzija, hiperlipidemija, kajenje, debelost, telesna dejavnost). Ugotavljali smo prisotnost morebitnih zapletov SB2, družinsko obremenjenost za srčno-žilne bolezni ter način zdravljenja SB2. S kliničnim pregledom smo določili telesno višino in maso, izmerili krvni tlak ter izračunali indeks telesne mase (ITM).</p>
+            <p>Za medsebojno primerjavo skupin smo uporabili preizkus χ<sup>2</sup> in preizkus t za primerjavo neodvisnih vzorcev. Domnevo o normalnosti porazdelitve podatkov smo preverjali s Shapiro-Wilkovim preizkusom, domnevo o enakosti varianc pa z Levenovim preizkusom. Kot mejo za zavrnitev ničelne domneve smo uporabili stopnjo α = 0,05.</p>
+         </sec>
+         <sec id="s3.3" sec-type="Rezultati">
+            <label>3.3</label>
+            <title>Rezultati</title>
+            <p>V presečno študijo je bilo vključenih 165 bolnikov. Povprečna starost bolnikov je bila 62 let. Porazdelitev kliničnih značilnosti bolnikov, zapletov SB2 dejavnikov tveganja za srčno-žilne bolezni ter ocene vprašalnika AMS ob vključitvi v raziskavo prikazuje <xref ref-type="table" rid="table1">Tabela 1</xref>.</p>
+            <table-wrap position="anchor" id="table1">
+               <label>Tabela 1:</label>
+               <caption>
+                  <p> Frekvenčna porazdelitev parametrov SB2 (trajanje SB2, prisotnost zapletov SB2 in pridruženih bolezni) ter ocena simptomov po vprašalniku AMS glede na raven celokupnega testosterona pri moških s SB2.</p>
+               </caption>
+               <table>
+                  <colgroup>
+                     <col/>
+                     <col/>
+                     <col/>
+                     <col/>
+                  </colgroup>
+                  <thead>
+                     <tr>
+                        <th rowspan="2"/>
+                        <th align="center" colspan="2">Raven celokupnega testosterona</th>
+                        <th rowspan="2"/>
+                     </tr>
+                     <tr>
+                        <th align="center">11 nmol/l in več (n = 78)</th>
+                        <th align="center">pod 11 nmol/l (n = 87)</th>
+                     </tr>
+                  </thead>
+                  <tbody>
+                     <tr>
+                        <th content-type="table-subhead" colspan="3">Trajanje sladkorne bolezni</th>
+                        <th align="right" content-type="table-subhead">p = 0,076</th>
+                     </tr>
+                     <tr>
+                        <td>0–4 let</td>
+                        <td align="right">17 (21,8 %)</td>
+                        <td align="right">22 (25,3 %)</td>
+                        <td/>
+                     </tr>
+                     <tr>
+                        <td>5–9 let</td>
+                        <td align="right">26 (33,3 %)</td>
+                        <td align="right">38 (43,7 %)</td>
+                        <td/>
+                     </tr>
+                     <tr>
+                        <td>10–14 let</td>
+                        <td align="right">25 (32,1 %)</td>
+                        <td align="right">13 (14,9 %)</td>
+                        <td/>
+                     </tr>
+                     <tr>
+                        <td>15 + let</td>
+                        <td align="right">10 (12,8 %)</td>
+                        <td align="right">14 (16,1 %)</td>
+                        <td/>
+                     </tr>
+                     <tr>
+                        <th content-type="table-subhead" colspan="3">Kajenje</th>
+                        <th align="right" content-type="table-subhead">p = 0,053</th>
+                     </tr>
+                     <tr>
+                        <td>da</td>
+                        <td align="right">17 (37,9 %)</td>
+                        <td align="right">33 (37,9 %)</td>
+                        <td/>
+                     </tr>
+                     <tr>
+                        <td>bivši</td>
+                        <td align="right">30 (38,5 %)</td>
+                        <td align="right">22 (25,3 %)</td>
+                        <td/>
+                     </tr>
+                     <tr>
+                        <td>ne</td>
+                        <td align="right">31 (39,7 %)</td>
+                        <td align="right">23 (36,8 %)</td>
+                        <td/>
+                     </tr>
+                     <tr>
+                        <th content-type="table-subhead" colspan="3">Arterijska hipertenzija</th>
+                        <th align="right" content-type="table-subhead">p = 0,831</th>
+                     </tr>
+                     <tr>
+                        <td>da</td>
+                        <td align="right">71 (91,0 %)</td>
+                        <td align="right">80 (92,0 %)</td>
+                        <td/>
+                     </tr>
+                     <tr>
+                        <td>ne</td>
+                        <td align="right">7 (9,0 %)</td>
+                        <td align="right">7 (8,0 %)</td>
+                        <td/>
+                     </tr>
+                     <tr>
+                        <th content-type="table-subhead" colspan="3">Hiperlipidemija</th>
+                        <th align="right" content-type="table-subhead">p = 0,019</th>
+                     </tr>
+                     <tr>
+                        <td>da</td>
+                        <td align="right">66 (84,6 %)</td>
+                        <td align="right">83 (95,4 %)</td>
+                        <td/>
+                     </tr>
+                     <tr>
+                        <td>ne</td>
+                        <td align="right">12 (15,4 %)</td>
+                        <td align="right">4 (4,6 %)</td>
+                        <td/>
+                     </tr>
+                     <tr>
+                        <th content-type="table-subhead" colspan="3">Diabetična retinopatija</th>
+                        <th align="right" content-type="table-subhead">p = 0,745</th>
+                     </tr>
+                     <tr>
+                        <td>da</td>
+                        <td align="right">33 (42,3 %)</td>
+                        <td align="right">39 (44,8 %)</td>
+                        <td/>
+                     </tr>
+                     <tr>
+                        <td>ne</td>
+                        <td align="right">45 (57,7 %)</td>
+                        <td align="right">48 (45,2 %)</td>
+                        <td/>
+                     </tr>
+                     <tr>
+                        <th content-type="table-subhead" colspan="3">Diabetična nevropatija</th>
+                        <th align="right" content-type="table-subhead">p = 0,043</th>
+                     </tr>
+                     <tr>
+                        <td>da</td>
+                        <td align="right">1 (1,3 %)</td>
+                        <td align="right">7 (8,0 %)</td>
+                        <td/>
+                     </tr>
+                     <tr>
+                        <td>ne</td>
+                        <td align="right">77 (98,7 %)</td>
+                        <td align="right">80 (92,0 %)</td>
+                        <td/>
+                     </tr>
+                     <tr>
+                        <th content-type="table-subhead" colspan="3">Diabetična nefropatija</th>
+                        <th align="right" content-type="table-subhead">p = 0,460</th>
+                     </tr>
+                     <tr>
+                        <td>da</td>
+                        <td align="right">11 (14,1 %)</td>
+                        <td align="right">9 (10,3 %)</td>
+                        <td/>
+                     </tr>
+                     <tr>
+                        <td>ne</td>
+                        <td align="right">67 (85,9 %)</td>
+                        <td align="right">78 (89,7 %)</td>
+                        <td/>
+                     </tr>
+                     <tr>
+                        <th content-type="table-subhead" colspan="3">Ocena simptomov po vprašalniku AMS (točke)</th>
+                        <th align="right" content-type="table-subhead">p &lt; 0,001</th>
+                     </tr>
+                     <tr>
+                        <td>brez (17-26)</td>
+                        <td align="right">0 (0,0 %)</td>
+                        <td align="right">0 (0,0 %)</td>
+                        <td/>
+                     </tr>
+                     <tr>
+                        <td>blagi (27-36)</td>
+                        <td align="right">54 (69,2 %)</td>
+                        <td align="right">30 (34,5 %)</td>
+                        <td/>
+                     </tr>
+                     <tr>
+                        <td>zmerni (37-49)</td>
+                        <td align="right">17 (21,8 %)</td>
+                        <td align="right">40 (46,0 %)</td>
+                        <td/>
+                     </tr>
+                     <tr>
+                        <td>hudi (50 + )</td>
+                        <td align="right">7 (9,0 %)</td>
+                        <td align="right">17 (19,5 %)</td>
+                        <td/>
+                     </tr>
+                  </tbody>
+               </table>
+               <table-wrap-foot>
+                  <p>Podatki so izraženi kot število (delež znotraj skupine v odstotkih).</p>
+               </table-wrap-foot>
+            </table-wrap>
+            <p>87 preiskovancev je imelo raven celokupnega testosterona znižano pod 11 nmol/l, kar je meja, ki jo kot enega od dveh kvantitativnih meril za določitev diagnoze FH postavljajo endokrinološke smernice. 78 preiskovancev je imelo normalno raven celokupnega testosterona (11 nmol/l ali več). Primerjava obeh skupin kaže, da je v skupini preiskovancev, ki so imeli znižano raven celokupnega testosterona (pod 11 nmol/l), statistično značilno večji delež bolnikov, ki imajo pridruženo hiperlipidemijo ter diabetično nevropatijo in višjo oceno subjektivnih težav (ocena po AMS vprašalniku; višje število točk pomeni večje težave) v primerjavi z drugo skupino preiskovancev, ki je imela normalno raven celokupnega testosterona.</p>
+            <p>Primerjali smo tudi ključne značilnosti in parametre urejenosti glikemije med obema skupinama preiskovancev ter iskali razlike med njima. V primerjavi s preiskovanci z znižano ravnijo celokupnega testosterona (pod 11 nmol/l) so preiskovanci z normalno ravnijo celokupnega testosterona (11 nmol/l in več) v povprečju imeli statistično značilno nižji ITM (30,3 ± 3,6 vs. 32,5 ± 4,5 kg/m<sup>2</sup>), nižjo raven glukoze na tešče (9,7 ± 3,1 vs. 10,9 ± 3,1 mmol/l) ter nižjo raven glikiliranega hemoglobina (HbA<sub>1</sub>c; 7,5 ± 1,3 vs. 8,0 ± 1,0 %). Antropometrične značilnosti in parametri urejenosti glikemije glede na raven celokupnega testosterona so predstavljeni v <xref ref-type="table" rid="table2">Tabeli 2</xref>.</p>
+            <table-wrap position="anchor" id="table2">
+               <label>Tabela 2:</label>
+               <caption>
+                  <p> Vrednosti ITM, glukoze na tešče in HbA<sub>1</sub>c glede na raven celokupnega testosterona pri moških s SB2.</p>
+               </caption>
+               <table>
+                  <colgroup>
+                     <col/>
+                     <col/>
+                     <col/>
+                     <col/>
+                  </colgroup>
+                  <thead>
+                     <tr>
+                        <th rowspan="2"/>
+                        <th align="center" colspan="2">Raven celokupnega testosterona</th>
+                        <th rowspan="2"/>
+                     </tr>
+                     <tr>
+                        <th align="center">11 nmol/l in več (n = 78)</th>
+                        <th align="center">pod 11 nmol/l (n = 87)</th>
+                     </tr>
+                  </thead>
+                  <tbody>
+                     <tr>
+                        <td>ITM (kg/m<sup>2</sup>)</td>
+                        <td align="right">30,3 ± 3,6</td>
+                        <td align="right">32,5 ± 4,5</td>
+                        <td align="right">p = 0,001</td>
+                     </tr>
+                     <tr>
+                        <td>Raven glukoze na tešče (mmol/l)</td>
+                        <td align="right">9,7 ± 3,1</td>
+                        <td align="right">10,9 ± 3,1</td>
+                        <td align="right">p = 0,018</td>
+                     </tr>
+                     <tr>
+                        <td>HbA<sub>1</sub>c (%)</td>
+                        <td align="right">7,5 ± 1,3</td>
+                        <td align="right">8,0 ± 1,0</td>
+                        <td align="right">p = 0,001</td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table-wrap-foot>
+                  <p>Podatki so izraženi kot aritmetična sredina ± standardni odklon; ITM – indeks telesne mase; HbA<sub>1</sub>c – glikiliran hemoglobin.</p>
+               </table-wrap-foot>
+            </table-wrap>
+            <p>Glede na raven celokupnega testosterona smo tiste preiskovance z ravnijo celokupnega testosterona pod 11 nmol/l, dodatno razdelili v dve skupini: na tiste, ki so imeli raven testosterona od 8 do &lt; 11 nmol/l, ter tiste, ki so imeli raven testosterona &lt; 8 nmol/l (<xref ref-type="fig" rid="fig1">Slika 1</xref>).</p>
+            <fig position="anchor" id="fig1">
+               <label>Slika 1:</label>
+               <caption>
+                  <p> Prevalenca znižane ravni celokupnega testosterona (TT) v odstotkih po starostnih dekadah pri moških s SB2.</p>
+               </caption>
+               <p>
+                  <graphic xlink:href="2921-web-resources/image/zdravvestn-2921-sl-01.png"/>
+               </p>
+            </fig>
+            <p>Ta delitev se ujema s priporočili za pozno nastali hipogonadizem, ki je meja celokupnega testosterona 8 nmol/l merilo za podrobnejšo opredelitev hipogonadizma (težki: &lt; 8 nmol/l; zmerni: od 8 do &lt; 11 nmol/l) (<xref ref-type="bibr" rid="b9">9</xref>). Prva meja (11 nmol/l celokupnega testosterona) je povezana s povečanim tveganjem za nastanek debelosti, še nižja raven (8–10 nmol/l) vodi do nespečnosti, depresivnega počutja, zmanjšane koncentracije in povečanega tveganja za nastanek SB2, raven celokupnega testosterona &lt; 8 nmol/l pa je povezana z erektilno disfunkcijo (<xref ref-type="bibr" rid="b43">43</xref>).</p>
+            <p>Kot je razvidno iz <xref ref-type="fig" rid="fig2">Slike 2</xref>, je raven celokupnega testosterona negativno povezana z vrednostjo ITM. To negativno povezavo kaže tudi korelacijski koeficient ITM in celokupnega testosterona r = –0,274 (p &lt; 0,001), kar pojasni dozdevno višji delež hipogonadizma v najmlajši starostni skupini (40–49 let), zajeti v našo raziskavo; le-ta je od ostalih skupin močno odstopala po visoki vrednosti ITM (primerjava v <xref ref-type="table" rid="table3">Tabeli 3</xref>).</p>
+            <fig position="anchor" id="fig2">
+               <label>Slika 2:</label>
+               <caption>
+                  <p> Prikaz vrednosti celokupnega testosterona glede na indeks telesne mase pri debelih moških s SB2.</p>
+               </caption>
+               <p>
+                  <graphic xlink:href="2921-web-resources/image/zdravvestn-2921-sl-02.png"/>
+               </p>
+            </fig>
+            <table-wrap position="anchor" id="table3">
+               <label>Tabela 3:</label>
+               <caption>
+                  <p> Povprečne vrednosti celokupnega testosterona, ITM, glukoze na tešče in HbA<sub>1</sub>c po desetletjih pri debelih moških s SB2.</p>
+               </caption>
+               <table>
+                  <colgroup>
+                     <col/>
+                     <col/>
+                     <col/>
+                     <col/>
+                     <col/>
+                  </colgroup>
+                  <thead>
+                     <tr>
+                        <th rowspan="2"/>
+                        <th align="center" colspan="4">Starostna skupina</th>
+                     </tr>
+                     <tr>
+                        <th>40–49 (n = 11)</th>
+                        <th>50–59 (n = 59)</th>
+                        <th>60–69 (n = 71)</th>
+                        <th>70–79 (n = 24)</th>
+                     </tr>
+                  </thead>
+                  <tbody>
+                     <tr>
+                        <td>Celokupni testosteron (nmol/l)</td>
+                        <td align="right">9,5 ± 4,0</td>
+                        <td align="right">12,4 ± 6,9</td>
+                        <td align="right">12,4 ± 6,9</td>
+                        <td align="right">12,3 ± 6,4</td>
+                     </tr>
+                     <tr>
+                        <td>ITM (kg/m<sup>2</sup>)</td>
+                        <td align="right">34,6 ± 6,3</td>
+                        <td align="right">32,0 ± 4,4</td>
+                        <td align="right">30,7 ± 3,7</td>
+                        <td align="right">31,1 ± 3,2</td>
+                     </tr>
+                     <tr>
+                        <td>Glukoza na tešče (mmol/l)</td>
+                        <td align="right">10,17 ± 2,8</td>
+                        <td align="right">9,9 ± 3,1</td>
+                        <td align="right">10,5 ± 3,1</td>
+                        <td align="right">10,8 ± 3,4</td>
+                     </tr>
+                     <tr>
+                        <td>HbA<sub>1</sub>c (%)</td>
+                        <td align="right">7,7 ± 1,2</td>
+                        <td align="right">7,7 ± 1,1</td>
+                        <td align="right">7,9 ± 1,2</td>
+                        <td align="right">7,6 ± 1,2</td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table-wrap-foot>
+                  <p>Podatki so izraženi kot aritmetična sredina ± standardni odklon; ITM – indeks telesne mase; HbA<sub>1</sub>c – glikilirani hemoglobin.</p>
+               </table-wrap-foot>
+            </table-wrap>
+         </sec>
+      </sec>
+      <sec id="s4" sec-type="Razpravljanje">
+         <label>4</label>
+         <title>Razpravljanje</title>
+         <p>V naši presečni raziskavi smo ocenili prevalenco znižane ravni celokupnega testosterona med moškimi bolniki s SB2 pri nas na 52,7 %, kar je primerljivo s podatki v tuji literaturi. Na podlagi dela z bolniki s SB2 v drugih bolnišnicah v Sloveniji ocenjujemo, da je prevalenca znižane ravni celokupnega testosterona v drugih regijah po Sloveniji podobna, a bi bilo to domnevo z razširitvijo študije dobro še empirično potrditi.</p>
+         <p>V svoji študiji na 355 bolnikih, ki se je tako kot naša študija osredinila izključno na bolnike s SB2, so Kapoor in sod. (<xref ref-type="bibr" rid="b34">34</xref>) ugotovili 50-odstotno prevalenco hipogonadizma pri moških s SB2, kar je v skladu z našimi ugotovitvami. Pokazali so tudi, da sta koncentracija celokupnega in biorazpoložljivega testosterona v negativni povezavi z ITM in obsegom trebuha.</p>
+         <p>Prevalenca hipogonadizma je poleg debelosti odvisna tudi od starosti, saj je znano, da koncentracija serumskega testosterona s starostjo upada, zato se pričakujejo najnižje ravni celokupnega testosterona ravno pri najstarejših. V naši študiji tega nismo potrdili; največji delež bolnikov z znižano ravnjo celokupnega tesosterona smo opažali v skupini diabetikov, starih 40–49 let, a ti so hkrati imeli tudi daleč najvišje povprečje ITM, kar dokazano vpliva na (nižjo) raven celokupnega testosterona.</p>
+         <p>V študiji HIM (<italic>angl.</italic> Hypogonadism in Males) (<xref ref-type="bibr" rid="b44">44</xref>) je prevalenca hipogonadizma med 2.162 starejšimi moškimi (nad 45 let) znašala 38,7 %, vendar v tem primeru ni šlo izključno za bolnike s SB2. V skupini obravnavanih moških, ki so imeli SB2, je bila prevalenca hipogonadizma 50 %. Povprečna starost preiskovancev v tej študiji je bila 60 let, kar je primerljivo z našo študijo.</p>
+         <p>Sladkorna bolezen je lahko <italic>per se </italic>povezana z hipogonadizmom, vendar so lahko tudi žilni zapleti, kajenje, uživanje alkohola, arterijska hipertenzija, bolezni srca in dislipidemija dejavniki tveganja za znižan celokupni testosteron. V naši študiji je 80 % bolnikov imelo pridruženo arterijsko hipertenzijo, 83 % hiperlipidemijo, 33 % pa je bilo aktivnih kadilcev.</p>
+         <p>Prevalenco znižane ravni celokupnega testosterona sicer ne gre enačiti s prevalenco funkcionalnega hipogonadizma. Kot je bilo že navedeno, je za postavitev diagnoze FH potrebno upoštevati tudi druga merila, saj gre za klinični sindrom, za katerega so značilni spolni simptomi in težave, in ga ne moremo opredeliti zgolj na podlagi laboratorijske preiskave. Kljub temu je prevelenca znižane ravni celokupnega testosterona v populaciji moških bolnikov s SB2 zaskrbljujoče visoka, prav tako pa je v delu populacije z znižano ravnijo celokupnega testosterona prisotnost spolnih simptomov in težav statistično značilno višja, zato bi bilo potrebno to problematiko bolj celovito obravnavati.</p>
+         <sec id="s4.1" sec-type="Zaključek">
+            <label>4.1</label>
+            <title>Zaključek</title>
+            <p>Naša raziskava je pokazala, da je prevalenca znižane ravni celokupnega testosterona v populaciji moških bolnikov s SB2 zelo visoka (52,7 %) in je povsem primerljiva s podatki v tuji literaturi. Pokazali smo tudi, da je raven celokupnega testosterona negativno povezana z vrednostjo ITM.</p>
+            <p>V skladu s smernicami Evropskega endokrinološkega združenja sta uspešno znižanje telesne mase in zdrav življenjski slog v kombinaciji z optimalno urejeno glikemijo prva izbira zdravljenja in uspešen ukrep, ki lahko normalizira raven celokupnega testosterona pri večini debelih moških s SB2. Sprememba življenjskega sloga in zdravljenje pridruženih bolezni pri nekaterih bolnikih nista uspešna, ali pa ne privedeta do željenega učinka zvišanja testosterona. Zato je v specifičnih primerih – pri osebah, ki imajo znižano raven celokupnega testosterona in klinične znake hipogonadizma – zdravljenje s testosteronom lahko koristno.</p>
+            <p>V skladu s temi smernicami bi morali pri moških bolnikih s SB2 – še posebno po 35. letu starosti – tudi preventivno uporabljati vprašalnike za ocenjevanje težav s spolnega področja in na podlagi rezultatov, ki nakazujejo morebitno prisotost FH, bolnikom določiti raven serumskega testosterona. Smernice ameriškega diabetološkega združenja (<italic>angl.</italic> 
+               <italic>American Diabetes Association</italic>; ADA), sprejete v letu 2018, priporočajo rutinsko preverjanje ravni celokupnega testosterona pri moških s SB2, ki kažejo znake FH, v primerih, ko je raven celokupnega testosterona na spodnji meji normalnih vrednosti pa še prostega ali biološko razpoložljivega testosterona (<xref ref-type="bibr" rid="b45">45</xref>).</p>
+            <p>Za vzpostavitev temeljev za ustreznejšo obravnavo moških bolnikov s SB2 pri nas bi bilo koristno opraviti obširnejšo multicentrično raziskavo, ki bi po vzoru pričujočega dela enakovredno zajela vse slovenske regije. S tako študijo bi brez dvoma pridobili tudi druge koristne informacije o stanju moških bolnikov s SB2 pri nas.</p>
+         </sec>
+      </sec>
+   </body>
+   <back>
+      <ref-list>
+         <ref id="b1">
+            <label>1. </label>
+            <mixed-citation publication-type="webpage">
+                    <person-group>
+                  <name name-style="western">
+                     <surname/>
+                  </name>
+               </person-group>
+                    <source>Obvladajmo sladkorno bolezen v Sloveniji</source>.
+                    [<date-in-citation content-type="access-date" iso-8601-date="2019-01-28">cited 2019 Jan 28</date-in-citation>].
+                    <comment>Available from: <uri>http://www.nijz.si/sl/obvladajmo-sladkorno-bolezen-v-sloveniji</uri>
+               </comment>.
+                </mixed-citation>
+         </ref>
+         <ref id="b2">
+            <label>2. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Grossmann</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Thomas</surname>
+                     <given-names>MC</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Panagiotopoulos</surname>
+                     <given-names>S</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Sharpe</surname>
+                     <given-names>K</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Macisaac</surname>
+                     <given-names>RJ</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Clarke</surname>
+                     <given-names>S</given-names>
+                  </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>Low testosterone levels are common and associated with insulin resistance in men with diabetes</article-title>. 
+                    <source>J Clin Endocrinol Metab</source>. 
+                    <year>2008</year>
+                    <month>May</month>;
+                    <volume>93</volume>(
+                    <issue>5</issue>):
+                    <fpage>1834</fpage>–
+                    <lpage>40</lpage>. 
+                    <pub-id pub-id-type="doi">10.1210/jc.2007-2177</pub-id>
+                    <pub-id pub-id-type="pmid">18319314</pub-id>
+                    <issn>0021-972X</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b3">
+            <label>3. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Laaksonen</surname>
+                     <given-names>DE</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Niskanen</surname>
+                     <given-names>L</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Punnonen</surname>
+                     <given-names>K</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Nyyssönen</surname>
+                     <given-names>K</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Tuomainen</surname>
+                     <given-names>TP</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Valkonen</surname>
+                     <given-names>VP</given-names>
+                  </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>Testosterone and sex hormone-binding globulin predict the metabolic syndrome and diabetes in middle-aged men</article-title>. 
+                    <source>Diabetes Care</source>. 
+                    <year>2004</year>
+                    <month>May</month>;
+                    <volume>27</volume>(
+                    <issue>5</issue>):
+                    <fpage>1036</fpage>–
+                    <lpage>41</lpage>. 
+                    <pub-id pub-id-type="doi">10.2337/diacare.27.5.1036</pub-id>
+                    <pub-id pub-id-type="pmid">15111517</pub-id>
+                    <issn>0149-5992</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b4">
+            <label>4. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Dandona</surname>
+                     <given-names>P</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Dhindsa</surname>
+                     <given-names>S</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Chandel</surname>
+                     <given-names>A</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Chaudhuri</surname>
+                     <given-names>A</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Hypogonadotropic hypogonadism in men with type 2 diabetes</article-title>. 
+                    <source>Postgrad Med</source>. 
+                    <year>2009</year>
+                    <month>May</month>;
+                    <volume>121</volume>(
+                    <issue>3</issue>):
+                    <fpage>45</fpage>–
+                    <lpage>51</lpage>. 
+                    <pub-id pub-id-type="doi">10.3810/pgm.2009.05.2001</pub-id>
+                    <pub-id pub-id-type="pmid">19491539</pub-id>
+                    <issn>0032-5481</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b5">
+            <label>5. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Grossmann</surname>
+                     <given-names>M</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Low testosterone in men with type 2 diabetes: significance and treatment</article-title>. 
+                    <source>J Clin Endocrinol Metab</source>. 
+                    <year>2011</year>
+                    <month>Aug</month>;
+                    <volume>96</volume>(
+                    <issue>8</issue>):
+                    <fpage>2341</fpage>–
+                    <lpage>53</lpage>. 
+                    <pub-id pub-id-type="doi">10.1210/jc.2011-0118</pub-id>
+                    <pub-id pub-id-type="pmid">21646372</pub-id>
+                    <issn>0021-972X</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b6">
+            <label>6. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Laughlin</surname>
+                     <given-names>GA</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Barrett-Connor</surname>
+                     <given-names>E</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Bergstrom</surname>
+                     <given-names>J</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Low serum testosterone and mortality in older men</article-title>. 
+                    <source>J Clin Endocrinol Metab</source>. 
+                    <year>2008</year>
+                    <month>Jan</month>;
+                    <volume>93</volume>(
+                    <issue>1</issue>):
+                    <fpage>68</fpage>–
+                    <lpage>75</lpage>. 
+                    <pub-id pub-id-type="doi">10.1210/jc.2007-1792</pub-id>
+                    <pub-id pub-id-type="pmid">17911176</pub-id>
+                    <issn>0021-972X</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b7">
+            <label>7. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Malkin</surname>
+                     <given-names>CJ</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Pugh</surname>
+                     <given-names>PJ</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Morris</surname>
+                     <given-names>PD</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Asif</surname>
+                     <given-names>S</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Jones</surname>
+                     <given-names>TH</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Channer</surname>
+                     <given-names>KS</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Low serum testosterone and increased mortality in men with coronary heart disease</article-title>. 
+                    <source>Heart</source>. 
+                    <year>2010</year>
+                    <month>Nov</month>;
+                    <volume>96</volume>(
+                    <issue>22</issue>):
+                    <fpage>1821</fpage>–
+                    <lpage>5</lpage>. 
+                    <pub-id pub-id-type="doi">10.1136/hrt.2010.195412</pub-id>
+                    <pub-id pub-id-type="pmid">20959649</pub-id>
+                    <issn>1355-6037</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b8">
+            <label>8. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Holmboe</surname>
+                     <given-names>SA</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Jensen</surname>
+                     <given-names>TK</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Linneberg</surname>
+                     <given-names>A</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Scheike</surname>
+                     <given-names>T</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Thuesen</surname>
+                     <given-names>BH</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Skakkebaek</surname>
+                     <given-names>NE</given-names>
+                  </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>Low Testosterone: a risk marker rather than a risk factor for type 2 diabetes</article-title>. 
+                    <source>J Clin Endocrinol Metab</source>. 
+                    <year>2016</year>
+                    <month>Aug</month>;
+                    <volume>101</volume>(
+                    <issue>8</issue>):
+                    <fpage>3180</fpage>–
+                    <lpage>90</lpage>. 
+                    <pub-id pub-id-type="doi">10.1210/jc.2016-1778</pub-id>
+                    <pub-id pub-id-type="pmid">27285294</pub-id>
+                    <issn>0021-972X</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b9">
+            <label>9. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Wang</surname>
+                     <given-names>C</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Nieschlag</surname>
+                     <given-names>E</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Swerdloff</surname>
+                     <given-names>RS</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Behre</surname>
+                     <given-names>H</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Hellstrom</surname>
+                     <given-names>WJ</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Gooren</surname>
+                     <given-names>LJ</given-names>
+                  </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>ISA, ISSAM, EAU, EAA and ASA recommendations: investigation, treatment and monitoring of late-onset hypogonadism in males</article-title>. 
+                    <source>Aging Male</source>. 
+                    <year>2009</year>
+                    <month>Mar</month>;
+                    <volume>12</volume>(
+                    <issue>1</issue>):
+                    <fpage>5</fpage>–
+                    <lpage>12</lpage>. 
+                    <pub-id pub-id-type="doi">10.1080/13685530802389628</pub-id>
+                    <pub-id pub-id-type="pmid">18763169</pub-id>
+                    <issn>1368-5538</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b10">
+            <label>10. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Bhasin</surname>
+                     <given-names>S</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Brito</surname>
+                     <given-names>JP</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Cunningham</surname>
+                     <given-names>GR</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Hayes</surname>
+                     <given-names>FJ</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Hodis</surname>
+                     <given-names>HN</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Matsumoto</surname>
+                     <given-names>AM</given-names>
+                  </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>Testosterone therapy in men with hypogonadism: an Endocrine society clinical practice guideline</article-title>. 
+                    <source>J Clin Endocrinol Metab</source>. 
+                    <year>2018</year>
+                    <month>May</month>;
+                    <volume>103</volume>(
+                    <issue>5</issue>):
+                    <fpage>1715</fpage>–
+                    <lpage>44</lpage>. 
+                    <pub-id pub-id-type="doi">10.1210/jc.2018-00229</pub-id>
+                    <pub-id pub-id-type="pmid">29562364</pub-id>
+                    <issn>0021-972X</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b11">
+            <label>11. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Svartberg</surname>
+                     <given-names>J</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Jenssen</surname>
+                     <given-names>T</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Sundsfjord</surname>
+                     <given-names>J</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Jorde</surname>
+                     <given-names>R</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>The associations of endogenous testosterone and sex hormone-binding globulin with glycosylated hemoglobin levels, in community dwelling men. The Tromsø Study</article-title>. 
+                    <source>Diabetes Metab</source>. 
+                    <year>2004</year>
+                    <month>Feb</month>;
+                    <volume>30</volume>(
+                    <issue>1</issue>):
+                    <fpage>29</fpage>–
+                    <lpage>34</lpage>. 
+                    <pub-id pub-id-type="doi">10.1016/S1262-3636(07)70086-1</pub-id>
+                    <pub-id pub-id-type="pmid">15029095</pub-id>
+                    <issn>1262-3636</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b12">
+            <label>12. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Jones</surname>
+                     <given-names>TH</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Testosterone associations with erectile dysfunction, diabetes, and the metabolic syndrome</article-title>. 
+                    <source>Eur Urol Suppl</source>. 
+                    <year>2007</year>;
+                    <volume>6</volume>(
+                    <issue>16</issue>):
+                    <fpage>847</fpage>–
+                    <lpage>57</lpage>. 
+                    <pub-id pub-id-type="doi">10.1016/j.eursup.2007.07.002</pub-id>
+                    <issn>1569-9056</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b13">
+            <label>13. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Cohen</surname>
+                     <given-names>PG</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>The hypogonadal-obesity cycle: role of aromatase in modulating the testosterone-estradiol shunt—a major factor in the genesis of morbid obesity</article-title>. 
+                    <source>Med Hypotheses</source>. 
+                    <year>1999</year>
+                    <month>Jan</month>;
+                    <volume>52</volume>(
+                    <issue>1</issue>):
+                    <fpage>49</fpage>–
+                    <lpage>51</lpage>. 
+                    <pub-id pub-id-type="doi">10.1054/mehy.1997.0624</pub-id>
+                    <pub-id pub-id-type="pmid">10342671</pub-id>
+                    <issn>0306-9877</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b14">
+            <label>14. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Dhindsa</surname>
+                     <given-names>S</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Ghanim</surname>
+                     <given-names>H</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Batra</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Dandona</surname>
+                     <given-names>P</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Hypogonadotropic hypogonadism in men with diabesity</article-title>. 
+                    <source>Diabetes Care</source>. 
+                    <year>2018</year>
+                    <month>Jul</month>;
+                    <volume>41</volume>(
+                    <issue>7</issue>):
+                    <fpage>1516</fpage>–
+                    <lpage>25</lpage>. 
+                    <pub-id pub-id-type="doi">10.2337/dc17-2510</pub-id>
+                    <pub-id pub-id-type="pmid">29934480</pub-id>
+                    <issn>0149-5992</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b15">
+            <label>15. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Pittas</surname>
+                     <given-names>AG</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Joseph</surname>
+                     <given-names>NA</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Greenberg</surname>
+                     <given-names>AS</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Adipocytokines and insulin resistance</article-title>. 
+                    <source>J Clin Endocrinol Metab</source>. 
+                    <year>2004</year>
+                    <month>Feb</month>;
+                    <volume>89</volume>(
+                    <issue>2</issue>):
+                    <fpage>447</fpage>–
+                    <lpage>52</lpage>. 
+                    <pub-id pub-id-type="doi">10.1210/jc.2003-031005</pub-id>
+                    <pub-id pub-id-type="pmid">14764746</pub-id>
+                    <issn>0021-972X</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b16">
+            <label>16. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Guay</surname>
+                     <given-names>AT</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Bansal</surname>
+                     <given-names>S</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Heatley</surname>
+                     <given-names>GJ</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Effect of raising endogenous testosterone levels in impotent men with secondary hypogonadism: double blind placebo-controlled trial with clomiphene citrate</article-title>. 
+                    <source>J Clin Endocrinol Metab</source>. 
+                    <year>1995</year>
+                    <month>Dec</month>;
+                    <volume>80</volume>(
+                    <issue>12</issue>):
+                    <fpage>3546</fpage>–
+                    <lpage>52</lpage>.
+                    <pub-id pub-id-type="pmid">8530597</pub-id>
+                    <issn>0021-972X</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b17">
+            <label>17. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Mantzoros</surname>
+                     <given-names>CS</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>The role of leptin in human obesity and disease: a review of current evidence</article-title>. 
+                    <source>Ann Intern Med</source>. 
+                    <year>1999</year>
+                    <month>Apr</month>;
+                    <volume>130</volume>(
+                    <issue>8</issue>):
+                    <fpage>671</fpage>–
+                    <lpage>80</lpage>. 
+                    <pub-id pub-id-type="doi">10.7326/0003-4819-130-8-199904200-00014</pub-id>
+                    <pub-id pub-id-type="pmid">10215564</pub-id>
+                    <issn>0003-4819</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b18">
+            <label>18. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Isidori</surname>
+                     <given-names>AM</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Caprio</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Strollo</surname>
+                     <given-names>F</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Moretti</surname>
+                     <given-names>C</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Frajese</surname>
+                     <given-names>G</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Isidori</surname>
+                     <given-names>A</given-names>
+                  </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>Leptin and androgens in male obesity: evidence for leptin contribution to reduced androgen levels</article-title>. 
+                    <source>J Clin Endocrinol Metab</source>. 
+                    <year>1999</year>
+                    <month>Oct</month>;
+                    <volume>84</volume>(
+                    <issue>10</issue>):
+                    <fpage>3673</fpage>–
+                    <lpage>80</lpage>. 
+                    <pub-id pub-id-type="doi">10.1210/jc.84.10.3673</pub-id>
+                    <pub-id pub-id-type="pmid">10523013</pub-id>
+                    <issn>0021-972X</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b19">
+            <label>19. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Nogueiras</surname>
+                     <given-names>R</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Barreiro</surname>
+                     <given-names>ML</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Caminos</surname>
+                     <given-names>JE</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Gaytán</surname>
+                     <given-names>R</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Suominen</surname>
+                     <given-names>Js</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Navarro</surname>
+                     <given-names>VM</given-names>
+                  </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>Novel expression of resistin in rat testis: functional role and regulation by nutritional status and hormonal factors</article-title>. 
+                    <source>J  Cell Sci</source>. 
+                    <year>2004</year>
+                    <month>Jul</month>;
+                    <volume>117</volume>(
+                    <issue>Pt 15</issue>):
+                    <fpage>3247</fpage>–
+                    <lpage>57</lpage>. 
+                    <pub-id pub-id-type="doi">10.1242/jcs.01196</pub-id>
+                    <pub-id pub-id-type="pmid">15226398</pub-id>
+                    <issn>0021-9533</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b20">
+            <label>20. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Forbes</surname>
+                     <given-names>S</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Li</surname>
+                     <given-names>XF</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Kinsey-Jones</surname>
+                     <given-names>J</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>O’Byrne</surname>
+                     <given-names>K</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Effects of ghrelin on Kisspeptin mRNA expression in the hypothalamic medial preoptic area and pulsatile luteinising hormone secretion in the female rat</article-title>. 
+                    <source>Neurosci Lett</source>. 
+                    <year>2009</year>
+                    <month>Aug</month>;
+                    <volume>460</volume>(
+                    <issue>2</issue>):
+                    <fpage>143</fpage>–
+                    <lpage>7</lpage>. 
+                    <pub-id pub-id-type="doi">10.1016/j.neulet.2009.05.060</pub-id>
+                    <pub-id pub-id-type="pmid">19477231</pub-id>
+                    <issn>0304-3940</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b21">
+            <label>21. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Aitken</surname>
+                     <given-names>RJ</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Roman</surname>
+                     <given-names>SD</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Antioxidant systems and oxidative stress in the testes</article-title>. 
+                    <source>Oxid Med Cell Longev</source>. 
+                    <year>2008</year>
+                    <month>Oct-Dec</month>;
+                    <volume>1</volume>(
+                    <issue>1</issue>):
+                    <fpage>15</fpage>–
+                    <lpage>24</lpage>. 
+                    <pub-id pub-id-type="doi">10.4161/oxim.1.1.6843</pub-id>
+                    <pub-id pub-id-type="pmid">19794904</pub-id>
+                    <issn>1942-0900</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b22">
+            <label>22. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Tajar</surname>
+                     <given-names>A</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Huhtaniemi</surname>
+                     <given-names>IT</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>O’Neill</surname>
+                     <given-names>TW</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Finn</surname>
+                     <given-names>JD</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Pye</surname>
+                     <given-names>SR</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Lee</surname>
+                     <given-names>DM</given-names>
+                  </name>, 
+                        <etal>et al</etal>; 
+                        <collab>EMAS Group</collab>
+                    </person-group>. 
+                    <article-title>Characteristics of androgen deficiency in late-onset hypogonadism: results from the European Male Aging Study (EMAS)</article-title>. 
+                    <source>J Clin Endocrinol Metab</source>. 
+                    <year>2012</year>
+                    <month>May</month>;
+                    <volume>97</volume>(
+                    <issue>5</issue>):
+                    <fpage>1508</fpage>–
+                    <lpage>16</lpage>. 
+                    <pub-id pub-id-type="doi">10.1210/jc.2011-2513</pub-id>
+                    <pub-id pub-id-type="pmid">22419720</pub-id>
+                    <issn>0021-972X</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b23">
+            <label>23. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Harman</surname>
+                     <given-names>SM</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Metter</surname>
+                     <given-names>EJ</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Tobin</surname>
+                     <given-names>JD</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Pearson</surname>
+                     <given-names>J</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Blackman</surname>
+                     <given-names>MR</given-names>
+                  </name>; 
+                        <collab>Baltimore Longitudinal Study of Aging</collab>
+                    </person-group>. 
+                    <article-title>Longitudinal effects of aging on serum total and free testosterone levels in healthy men</article-title>. 
+                    <source>J Clin Endocrinol Metab</source>. 
+                    <year>2001</year>
+                    <month>Feb</month>;
+                    <volume>86</volume>(
+                    <issue>2</issue>):
+                    <fpage>724</fpage>–
+                    <lpage>31</lpage>. 
+                    <pub-id pub-id-type="doi">10.1210/jcem.86.2.7219</pub-id>
+                    <pub-id pub-id-type="pmid">11158037</pub-id>
+                    <issn>0021-972X</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b24">
+            <label>24. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Kumar</surname>
+                     <given-names>P</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Kumar</surname>
+                     <given-names>N</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Thakur</surname>
+                     <given-names>DS</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Patidar</surname>
+                     <given-names>A</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Male hypogonadism: symptoms and treatment</article-title>. 
+                    <source>J Adv Pharm Technol Res</source>. 
+                    <year>2010</year>
+                    <month>Jul</month>;
+                    <volume>1</volume>(
+                    <issue>3</issue>):
+                    <fpage>297</fpage>–
+                    <lpage>301</lpage>. 
+                    <pub-id pub-id-type="doi">10.4103/0110-5558.72420</pub-id>
+                    <pub-id pub-id-type="pmid">22247861</pub-id>
+                    <issn>2231-4040</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b25">
+            <label>25. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Wu</surname>
+                     <given-names>FC</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Commentary: Guideline for male testosterone therapy: a European perspective</article-title>. 
+                    <source>J Clin Endocrinol Metab</source>. 
+                    <year>2007</year>
+                    <month>Feb</month>;
+                    <volume>92</volume>(
+                    <issue>2</issue>):
+                    <fpage>418</fpage>–
+                    <lpage>9</lpage>. 
+                    <pub-id pub-id-type="doi">10.1210/jc.2006-2799</pub-id>
+                    <pub-id pub-id-type="pmid">17284643</pub-id>
+                    <issn>0021-972X</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b26">
+            <label>26. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Grossmann</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Matsumoto</surname>
+                     <given-names>AM</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>A perspective on middle-aged and older men with functional hypogonadism: focus on holistic management</article-title>. 
+                    <source>J Clin Endocrinol Metab</source>. 
+                    <year>2017</year>
+                    <month>Mar</month>;
+                    <volume>102</volume>(
+                    <issue>3</issue>):
+                    <fpage>1067</fpage>–
+                    <lpage>75</lpage>.
+                    <pub-id pub-id-type="pmid">28359097</pub-id>
+                    <issn>1945-7197</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b27">
+            <label>27. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Corona</surname>
+                     <given-names>G</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Rastrelli</surname>
+                     <given-names>G</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Monami</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Saad</surname>
+                     <given-names>F</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Luconi</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Lucchese</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>Body weight loss reverts obesity-associated hypogonadotropic hypogonadism: a systematic review and meta-analysis</article-title>. 
+                    <source>Eur J Endocrinol</source>. 
+                    <year>2013</year>
+                    <month>May</month>;
+                    <volume>168</volume>(
+                    <issue>6</issue>):
+                    <fpage>829</fpage>–
+                    <lpage>43</lpage>. 
+                    <pub-id pub-id-type="doi">10.1530/EJE-12-0955</pub-id>
+                    <pub-id pub-id-type="pmid">23482592</pub-id>
+                    <issn>0804-4643</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b28">
+            <label>28. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Camacho</surname>
+                     <given-names>EM</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Huhtaniemi</surname>
+                     <given-names>IT</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>O’Neill</surname>
+                     <given-names>TW</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Finn</surname>
+                     <given-names>JD</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Pye</surname>
+                     <given-names>SR</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Lee</surname>
+                     <given-names>DM</given-names>
+                  </name>, 
+                        <etal>et al</etal>; 
+                        <collab>EMAS Group</collab>
+                    </person-group>. 
+                    <article-title>Age-associated changes in hypothalamic-pituitary-testicular function in middle-aged and older men are modified by weight change and lifestyle factors: longitudinal results from the European Male Ageing Study</article-title>. 
+                    <source>Eur J Endocrinol</source>. 
+                    <year>2013</year>
+                    <month>Feb</month>;
+                    <volume>168</volume>(
+                    <issue>3</issue>):
+                    <fpage>445</fpage>–
+                    <lpage>55</lpage>. 
+                    <pub-id pub-id-type="doi">10.1530/EJE-12-0890</pub-id>
+                    <pub-id pub-id-type="pmid">23425925</pub-id>
+                    <issn>0804-4643</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b29">
+            <label>29. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Saad</surname>
+                     <given-names>F</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Aversa</surname>
+                     <given-names>A</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Isidori</surname>
+                     <given-names>AM</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Zafalon</surname>
+                     <given-names>L</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Zitzmann</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Gooren</surname>
+                     <given-names>L</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Onset of effects of testosterone treatment and time span until maximum effects are achieved</article-title>. 
+                    <source>Eur J Endocrinol</source>. 
+                    <year>2011</year>
+                    <month>Nov</month>;
+                    <volume>165</volume>(
+                    <issue>5</issue>):
+                    <fpage>675</fpage>–
+                    <lpage>85</lpage>. 
+                    <pub-id pub-id-type="doi">10.1530/EJE-11-0221</pub-id>
+                    <pub-id pub-id-type="pmid">21753068</pub-id>
+                    <issn>0804-4643</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b30">
+            <label>30. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Haider</surname>
+                     <given-names>A</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Saad</surname>
+                     <given-names>F</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Doros</surname>
+                     <given-names>G</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Gooren</surname>
+                     <given-names>L</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Hypogonadal obese men with and without diabetes mellitus type 2 lose weight and show improvement in cardiovascular risk factors when treated with testosterone: an observational study</article-title>. 
+                    <source>Obes Res Clin Pract</source>. 
+                    <year>2014</year>
+                    <month>Jul-Aug</month>;
+                    <volume>8</volume>(
+                    <issue>4</issue>):
+                    <fpage>e339</fpage>–
+                    <lpage>49</lpage>. 
+                    <pub-id pub-id-type="doi">10.1016/j.orcp.2013.10.005</pub-id>
+                    <pub-id pub-id-type="pmid">25091355</pub-id>
+                    <issn>1871-403X</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b31">
+            <label>31. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Heufelder</surname>
+                     <given-names>AE</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Saad</surname>
+                     <given-names>F</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Bunck</surname>
+                     <given-names>MC</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Gooren</surname>
+                     <given-names>L</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Fifty-two-week treatment with diet and exercise plus transdermal testosterone reverses the metabolic syndrome and improves glycemic control in men with newly diagnosed type 2 diabetes and subnormal plasma testosterone</article-title>. 
+                    <source>J Androl</source>. 
+                    <year>2009</year>
+                    <month>Nov-Dec</month>;
+                    <volume>30</volume>(
+                    <issue>6</issue>):
+                    <fpage>726</fpage>–
+                    <lpage>33</lpage>. 
+                    <pub-id pub-id-type="doi">10.2164/jandrol.108.007005</pub-id>
+                    <pub-id pub-id-type="pmid">19578132</pub-id>
+                    <issn>0196-3635</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b32">
+            <label>32. </label>
+            <mixed-citation publication-type="book">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Košnik</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Mrevlje</surname>
+                     <given-names>F</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Štajer</surname>
+                     <given-names>D</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Černelč</surname>
+                     <given-names>P</given-names>
+                  </name>,
+                        <name name-style="western">
+                     <surname>Koželj</surname>
+                     <given-names>M</given-names>
+                  </name>,
+                        <name name-style="western">
+                     <surname>Andoljšek</surname>
+                     <given-names>D</given-names>
+                  </name>,
+                        <etal>et al</etal>
+                    </person-group>.
+                    <source>Interna medicina</source>. 
+                    <edition>4th ed</edition>.
+                    <publisher-loc>Ljubljana</publisher-loc>:
+                    <publisher-name>Littera picta</publisher-name>;
+                    <publisher-name>Slovensko medicinsko društvo</publisher-name>;
+                    <year>2011</year>. pp. 
+                    <fpage>983</fpage>–
+                    <lpage>47</lpage>.
+                </mixed-citation>
+         </ref>
+         <ref id="b33">
+            <label>33. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Morgentaler</surname>
+                     <given-names>A</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Dobs</surname>
+                     <given-names>AS</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Kaufman</surname>
+                     <given-names>JM</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Miner</surname>
+                     <given-names>MM</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Shabsigh</surname>
+                     <given-names>R</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Swerdloff</surname>
+                     <given-names>RS</given-names>
+                  </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>Long acting testosterone undecanoate therapy in men with hypogonadism: results of a pharmacokinetic clinical study</article-title>. 
+                    <source>J Urol</source>. 
+                    <year>2008</year>
+                    <month>Dec</month>;
+                    <volume>180</volume>(
+                    <issue>6</issue>):
+                    <fpage>2307</fpage>–
+                    <lpage>13</lpage>. 
+                    <pub-id pub-id-type="doi">10.1016/j.juro.2008.08.126</pub-id>
+                    <pub-id pub-id-type="pmid">18930255</pub-id>
+                    <issn>0022-5347</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b34">
+            <label>34. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Kapoor</surname>
+                     <given-names>D</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Goodwin</surname>
+                     <given-names>E</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Channer</surname>
+                     <given-names>KS</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Jones</surname>
+                     <given-names>TH</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Testosterone replacement therapy improves insulin resistance, glycaemic control, visceral adiposity and hypercholesterolaemia in hypogonadal men with type 2 diabetes</article-title>. 
+                    <source>Eur J Endocrinol</source>. 
+                    <year>2006</year>
+                    <month>Jun</month>;
+                    <volume>154</volume>(
+                    <issue>6</issue>):
+                    <fpage>899</fpage>–
+                    <lpage>906</lpage>. 
+                    <pub-id pub-id-type="doi">10.1530/eje.1.02166</pub-id>
+                    <pub-id pub-id-type="pmid">16728551</pub-id>
+                    <issn>0804-4643</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b35">
+            <label>35. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Jones</surname>
+                     <given-names>TH</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Arver</surname>
+                     <given-names>S</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Behre</surname>
+                     <given-names>HM</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Buvat</surname>
+                     <given-names>J</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Meuleman</surname>
+                     <given-names>E</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Moncada</surname>
+                     <given-names>I</given-names>
+                  </name>, 
+                        <etal>et al</etal>; 
+                        <collab>TIMES2 Investigators</collab>
+                    </person-group>. 
+                    <article-title>Testosterone replacement in hypogonadal men with type 2 diabetes and/or metabolic syndrome (the TIMES2 study)</article-title>. 
+                    <source>Diabetes Care</source>. 
+                    <year>2011</year>
+                    <month>Apr</month>;
+                    <volume>34</volume>(
+                    <issue>4</issue>):
+                    <fpage>828</fpage>–
+                    <lpage>37</lpage>. 
+                    <pub-id pub-id-type="doi">10.2337/dc10-1233</pub-id>
+                    <pub-id pub-id-type="pmid">21386088</pub-id>
+                    <issn>0149-5992</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b36">
+            <label>36. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Hackett</surname>
+                     <given-names>G</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Cole</surname>
+                     <given-names>N</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Bhartia</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Kennedy</surname>
+                     <given-names>D</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Raju</surname>
+                     <given-names>J</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Wilkinson</surname>
+                     <given-names>P</given-names>
+                  </name>; 
+                        <collab>BLAST Study Group</collab>
+                    </person-group>. 
+                    <article-title>Testosterone replacement therapy improves metabolic parameters in hypogonadal men with type 2 diabetes but not in men with coexisting depression: the BLAST study</article-title>. 
+                    <source>J Sex Med</source>. 
+                    <year>2014</year>
+                    <month>Mar</month>;
+                    <volume>11</volume>(
+                    <issue>3</issue>):
+                    <fpage>840</fpage>–
+                    <lpage>56</lpage>. 
+                    <pub-id pub-id-type="doi">10.1111/jsm.12404</pub-id>
+                    <pub-id pub-id-type="pmid">24308723</pub-id>
+                    <issn>1743-6095</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b37">
+            <label>37. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Dhindsa</surname>
+                     <given-names>S</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Ghanim</surname>
+                     <given-names>H</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Batra</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Kuhadiya</surname>
+                     <given-names>ND</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Abuaysheh</surname>
+                     <given-names>S</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Sandhu</surname>
+                     <given-names>S</given-names>
+                  </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>Insulin resistance and inflammation in hypogonadotropic hypogonadism and their reduction after testosterone replacement in men with type 2 diabetes</article-title>. 
+                    <source>Diabetes Care</source>. 
+                    <year>2016</year>
+                    <month>Jan</month>;
+                    <volume>39</volume>(
+                    <issue>1</issue>):
+                    <fpage>82</fpage>–
+                    <lpage>91</lpage>. 
+                    <pub-id pub-id-type="doi">10.2337/dc15-1518</pub-id>
+                    <pub-id pub-id-type="pmid">26622051</pub-id>
+                    <issn>0149-5992</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b38">
+            <label>38. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Svartberg</surname>
+                     <given-names>J</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Agledahl</surname>
+                     <given-names>I</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Figenschau</surname>
+                     <given-names>Y</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Sildnes</surname>
+                     <given-names>T</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Waterloo</surname>
+                     <given-names>K</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Jorde</surname>
+                     <given-names>R</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Testosterone treatment in elderly men with subnormal testosterone levels improves body composition and BMD in the hip</article-title>. 
+                    <source>Int J Impot Res</source>. 
+                    <year>2008</year>
+                    <month>Jul-Aug</month>;
+                    <volume>20</volume>(
+                    <issue>4</issue>):
+                    <fpage>378</fpage>–
+                    <lpage>87</lpage>. 
+                    <pub-id pub-id-type="doi">10.1038/ijir.2008.19</pub-id>
+                    <pub-id pub-id-type="pmid">18480825</pub-id>
+                    <issn>0955-9930</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b39">
+            <label>39. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Mazo</surname>
+                     <given-names>EB</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Gamidov</surname>
+                     <given-names>SI</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Sotnikova</surname>
+                     <given-names>EM</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>[Effects of different treatments on endothelial function in patients with erectile dysfunction and hypogonadism]</article-title>. 
+                    <source>Ter Arkh</source>. 
+                    <year>2008</year>;
+                    <volume>80</volume>(
+                    <issue>12</issue>):
+                    <fpage>59</fpage>–
+                    <lpage>63</lpage>.
+                    <pub-id pub-id-type="pmid">19227909</pub-id>
+                    <issn>0040-3660</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b40">
+            <label>40. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Ng Tang Fui</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Prendergast</surname>
+                     <given-names>LA</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Dupuis</surname>
+                     <given-names>P</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Raval</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Strauss</surname>
+                     <given-names>BJ</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Zajac</surname>
+                     <given-names>JD</given-names>
+                  </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>Effects of testosterone treatment on body fat and lean mass in obese men on a hypocaloric diet: a randomised controlled trial</article-title>. 
+                    <source>BMC Med</source>. 
+                    <year>2016</year>
+                    <month>Oct</month>;
+                    <volume>14</volume>(
+                    <issue>1</issue>):
+                    <fpage>153</fpage>. 
+                    <pub-id pub-id-type="doi">10.1186/s12916-016-0700-9</pub-id>
+                    <pub-id pub-id-type="pmid">27716209</pub-id>
+                    <issn>1741-7015</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b41">
+            <label>41. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Blouin</surname>
+                     <given-names>K</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Boivin</surname>
+                     <given-names>A</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Tchernof</surname>
+                     <given-names>A</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Androgens and body fat distribution</article-title>.
+                    <source>J Steroid Biochem Mol Bio</source>. 
+                    <year>2008</year>
+                    <month>Feb</month>;
+                    <volume>108</volume>(
+                    <issue>3-5</issue>):
+                    <fpage>272</fpage>–
+                    <lpage>80</lpage>. 
+                    <pub-id pub-id-type="doi">10.1016/j.jsbmb.2007.09.001</pub-id>
+                    <pub-id pub-id-type="pmid">17945484</pub-id>
+                    <issn>0960-0760</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b42">
+            <label>42. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Yassin</surname>
+                     <given-names>A</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Haider</surname>
+                     <given-names>A</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Haider</surname>
+                     <given-names>KS</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Caliber</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Doros</surname>
+                     <given-names>G</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Saad</surname>
+                     <given-names>F</given-names>
+                  </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>Testosterone therapy in men with hypogonadism prevents progression from prediabetes to type 2 diabetes: eight-year data from a registry study</article-title>. 
+                    <source>Diabetes Care</source>. 
+                    <year>2019</year>
+                    <month>Jun</month>;
+                    <volume>42</volume>(
+                    <issue>6</issue>):
+                    <fpage>1104</fpage>–
+                    <lpage>11</lpage>. 
+                    <pub-id pub-id-type="doi">10.2337/dc18-2388</pub-id>
+                    <pub-id pub-id-type="pmid">30862651</pub-id>
+                    <issn>0149-5992</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b43">
+            <label>43. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Zitzmann</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Faber</surname>
+                     <given-names>S</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Nieschlag</surname>
+                     <given-names>E</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Association of specific symptoms and metabolic risks with serum testosterone in older men</article-title>. 
+                    <source>J Clin Endocrinol Metab</source>. 
+                    <year>2006</year>
+                    <month>Nov</month>;
+                    <volume>91</volume>(
+                    <issue>11</issue>):
+                    <fpage>4335</fpage>–
+                    <lpage>43</lpage>. 
+                    <pub-id pub-id-type="doi">10.1210/jc.2006-0401</pub-id>
+                    <pub-id pub-id-type="pmid">16926258</pub-id>
+                    <issn>0021-972X</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b44">
+            <label>44. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Mulligan</surname>
+                     <given-names>T</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Frick</surname>
+                     <given-names>MF</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Zuraw</surname>
+                     <given-names>QC</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Stemhagen</surname>
+                     <given-names>A</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>McWhirter</surname>
+                     <given-names>C</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Prevalence of hypogonadism in males aged at least 45 years: the HIM study</article-title>. 
+                    <source>Int J Clin Pract</source>. 
+                    <year>2006</year>
+                    <month>Jul</month>;
+                    <volume>60</volume>(
+                    <issue>7</issue>):
+                    <fpage>762</fpage>–
+                    <lpage>9</lpage>. 
+                    <pub-id pub-id-type="doi">10.1111/j.1742-1241.2006.00992.x</pub-id>
+                    <pub-id pub-id-type="pmid">16846397</pub-id>
+                    <issn>1368-5031</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b45">
+            <label>45. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <collab>Professional practice committee</collab>
+                    </person-group>. 
+                    <article-title>Standards of medical care in diabetes—2018</article-title>. 
+                    <source>Diabetes Care</source>. 
+                    <year>2018</year>
+                    <month>Jan</month>;
+                    <volume>41</volume>(
+                    <issue>1</issue>
+                    <supplement>Suppl 1</supplement>):
+                    <fpage>S3</fpage>–
+                    <lpage>3</lpage>.
+                    <pub-id pub-id-type="pmid">29222370</pub-id>
+                    <issn>1935-5548</issn>
+                </mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

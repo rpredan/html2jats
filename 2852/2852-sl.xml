@@ -1,0 +1,2880 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD with MathML3 v1.1 20151215//EN" "JATS-journalpublishing1-mathml3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink"
+         dtd-version="1.1"
+         xml:lang="sl"
+         article-type="other">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher-id">Zdrav Vestn</journal-id>
+         <journal-id journal-id-type="nlm-ta">Zdrav Vestn</journal-id>
+         <journal-id journal-id-type="doi">Zdrav Vestn</journal-id>
+         <journal-title-group>
+            <journal-title>Zdravniški vestnik</journal-title>
+            <trans-title-group xml:lang="en">
+               <trans-title>Slovenian Medical Journal</trans-title>
+            </trans-title-group>
+            <abbrev-journal-title>Zdrav Vestn</abbrev-journal-title>
+         </journal-title-group>
+         <issn publication-format="ppub" pub-type="ppub">1318-0347</issn>
+         <issn publication-format="epub" pub-type="epub">1581-0224</issn>
+         <issn-l>0350-0063</issn-l>
+         <publisher>
+            <publisher-name xml:lang="sl">Slovensko zdravniško društvo</publisher-name>
+            <publisher-name xml:lang="en">Slovenian Medical Association</publisher-name>
+            <publisher-loc xml:lang="sl">Ljubljana, Slovenia</publisher-loc>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.6016/ZdravVestn.2852</article-id>
+         <article-id pub-id-type="publisher-id">2852</article-id>
+         <article-categories>
+            <subj-group subj-group-type="discipline" xml:lang="en">
+               <subject>Medicine and health sciences</subject>
+               <subj-group>
+                  <subject>Microbiology and immunology</subject>
+               </subj-group>
+            </subj-group>
+            <subj-group subj-group-type="discipline" xml:lang="sl">
+               <subject>Medicina/Zdravstvo</subject>
+               <subj-group>
+                  <subject>Mikrobiologija in imunologija</subject>
+               </subj-group>
+            </subj-group>
+            <subj-group subj-group-type="article-type" xml:lang="en">
+               <subject>Original scientific article</subject>
+            </subj-group>
+            <subj-group subj-group-type="article-type" xml:lang="sl">
+               <subject>Izvirni znanstveni članek</subject>
+            </subj-group>
+            <subj-group subj-group-type="heading" xml:lang="sl">
+               <subject>Mikrobiologija in imunologija</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title xml:lang="sl">Optimizacija zdravljenja s ciklosporinom v Univerzitetnem kliničnem centru Maribor</article-title>
+            <trans-title-group>
+               <trans-title xml:lang="en">Optimising therapy with cyclosporine at the University Medical Centre Maribor</trans-title>
+            </trans-title-group>
+            <alt-title alt-title-type="running-head" xml:lang="sl">Optimizacija zdravljenja s ciklosporinom v Univerzitetnem kliničnem centru Maribor</alt-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Stopinšek</surname>
+                  <given-names>Mateja</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1">1</xref>
+               <xref ref-type="corresp" rid="corr"/>
+            </contrib>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Drofenik</surname>
+                  <given-names>Polonca</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1">1</xref>
+            </contrib>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Bevc</surname>
+                  <given-names>Sebastjan</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff2">2</xref>
+               <xref ref-type="aff" rid="aff3">3</xref>
+            </contrib>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Roškar</surname>
+                  <given-names>Zlatko</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff4">4</xref>
+            </contrib>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Holc</surname>
+                  <given-names>Iztok</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff5">5</xref>
+            </contrib>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Gorenjak</surname>
+                  <given-names>Maksimiljan</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff6">6</xref>
+            </contrib>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Mrhar</surname>
+                  <given-names>Aleš</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff7">7</xref>
+            </contrib>
+         </contrib-group>
+         <aff-alternatives id="aff1">
+            <aff xml:lang="sl">
+               <label>1</label>
+               <institution>Centralna lekarna, Univerzitetni klinični center Maribor, Maribor, Slovenija</institution>
+            </aff>
+            <aff xml:lang="en">
+               <label>1</label>
+               <institution>Central Pharmacy, University Medical Centre Maribor, Maribor, Slovenia</institution>
+            </aff>
+         </aff-alternatives>
+         <aff-alternatives id="aff2">
+            <aff xml:lang="sl">
+               <label>2</label>
+               <institution>Oddelek za nefrologijo, Klinika za interno medicino, Univerzitetni klinični center Maribor, Maribor, Slovenija</institution>
+            </aff>
+            <aff xml:lang="en">
+               <label>2</label>
+               <institution>Department of Nephrology, Division of Internal Medicine, University Medical Centre Maribor, Maribor, Slovenia</institution>
+            </aff>
+         </aff-alternatives>
+         <aff-alternatives id="aff3">
+            <aff xml:lang="sl">
+               <label>3</label>
+               <institution>Medicinska fakulteta, Univerza v Mariboru, Maribor, Slovenija</institution>
+            </aff>
+            <aff xml:lang="en">
+               <label>3</label>
+               <institution>Faculty of Medicine, University of Maribor, Maribor, Slovenia</institution>
+            </aff>
+         </aff-alternatives>
+         <aff-alternatives id="aff4">
+            <aff xml:lang="sl">
+               <label>4</label>
+               <institution>Oddelek za hematologijo in hematološko onkologijo, Klinika za interno medicino, Univerzitetni klinični center Maribor, Maribor, Slovenija</institution>
+            </aff>
+            <aff xml:lang="en">
+               <label>4</label>
+               <institution>Department of Haematology and Hematologic Oncology, Division of Internal Medicine, University Medical Centre Maribor, Maribor, Slovenia</institution>
+            </aff>
+         </aff-alternatives>
+         <aff-alternatives id="aff5">
+            <aff xml:lang="sl">
+               <label>5</label>
+               <institution>Oddelek za revmatologijo, Klinika za interno medicino, Univerzitetni klinični center Maribor, Maribor, Slovenija</institution>
+            </aff>
+            <aff xml:lang="en">
+               <label>5</label>
+               <institution>Department of Rheumatology, Division of Internal Medicine, University Medical Centre Maribor, Maribor, Slovenia</institution>
+            </aff>
+         </aff-alternatives>
+         <aff-alternatives id="aff6">
+            <aff xml:lang="sl">
+               <label>6</label>
+               <institution>Oddelek za laboratorijsko diagnostiko, Univerzitetni klinični center Maribor, Maribor, Slovenija</institution>
+            </aff>
+            <aff xml:lang="en">
+               <label>6</label>
+               <institution>Department of Laboratory diagnostics, University Medical Centre Maribor, Maribor, Slovenia</institution>
+            </aff>
+         </aff-alternatives>
+         <aff-alternatives id="aff7">
+            <aff xml:lang="sl">
+               <label>7</label>
+               <institution>Fakulteta za farmacijo, Univerza v Ljubljani, Ljubljana, Slovenija</institution>
+            </aff>
+            <aff xml:lang="en">
+               <label>7</label>
+               <institution>Faculty of Pharmacy, University of Ljubljana, Ljubljana, Slovenia</institution>
+            </aff>
+         </aff-alternatives>
+         <author-notes>
+            <fn fn-type="conflict" xml:lang="en">
+               <p>The authors have declared that no competing interests exist.</p>
+            </fn>
+            <fn fn-type="conflict" xml:lang="sl">
+               <p>Avtorji so izjavili, da ne obstajajo nobeni konkurenčni interesi.</p>
+            </fn>
+            <corresp id="corr">Mateja Stopinšek, e-mail: <email xlink:type="simple"/>
+            </corresp>
+         </author-notes>
+         <pub-date pub-type="ppub">
+            <month>4</month>
+            <year>2020</year>
+         </pub-date>
+         <pub-date pub-type="epub">
+            <month>4</month>
+            <year>2020</year>
+         </pub-date>
+         <volume>2020;89</volume>
+         <issue>3–4</issue>
+         <fpage>123</fpage>
+         <lpage>38</lpage>
+         <history>
+            <date date-type="received">
+               <day>5</day>
+               <month>7</month>
+               <year>2018</year>
+            </date>
+            <date date-type="accepted">
+               <day>21</day>
+               <month>2</month>
+               <year>2020</year>
+            </date>
+         </history>
+         <permissions>
+            <copyright-statement xml:lang="en">Copyright © 2020, Slovenian Medical Association (SZD)</copyright-statement>
+            <copyright-statement xml:lang="sl">© 2020, Slovensko zdravniško društvo (SZD)</copyright-statement>
+            <copyright-year>2020</copyright-year>
+            <copyright-holder xml:lang="en">Slovenian Medical Association (SZD)</copyright-holder>
+            <copyright-holder xml:lang="sl">Slovensko zdravniško društvo (SZD)</copyright-holder>
+            <license xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                     xlink:type="simple"
+                     xml:lang="en">
+               <license-p>This is an open access article distributed under the terms of the
+          <ext-link ext-link-type="uri"
+                            xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                            xlink:type="simple">Creative Commons Attribution-NonCommercial
+            License</ext-link>, which permits unrestricted use, distribution, and
+          reproduction in any medium, provided the original author and source are
+          credited and only for non-commercial purposes. </license-p>
+            </license>
+            <license xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                     xlink:type="simple"
+                     xml:lang="sl">
+               <license-p>To je članek z odprtim dostopom, ki ga lahko uporabite pod pogoji iz
+          <ext-link ext-link-type="uri"
+                            xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                            xlink:type="simple">Creative Commons Priznanje avtorstva-Nekomercialno
+            licence</ext-link>. ki dovoljuje distribucijo, predelavo ali
+          prilagoditev, ter gradijo na njem, v nekomercialne namene, z navedbo avtorja
+          in izvirnega dela.</license-p>
+            </license>
+         </permissions>
+         <abstract xml:lang="sl">
+            <title>Izvleček</title>
+            <p>Izhodišče: Ciklosporin je imunosupresivna zdravilna učinkovina, ki se uporablja pri presaditvah čvrstih organov in krvotvornih matičnih celic ter pri zdravljenju nekaterih avtoimunskih bolezni. Ker gre za učinkovino z ozkim terapevtskim območjem, številnimi interakcijami ter veliko inter- in intraindividualno variabilnostjo farmakokinetičnih parametrov, lahko s terapevtskim spremljanjem koncentracije v krvi (<italic>angl.</italic> Therapeutic Drug Monitoring, TDM) in z individualnim odmerjanjem bistveno izboljšamo varnost ter učinkovitost zdravljenja. V raziskavi smo želeli preveriti, ali računalniško podprta storitev TDM kot dejavnost klinične farmacije prispeva k optimizaciji zdravljenja s ciklosporinom pri bolnikih z avtoimunskimi boleznimi.</p>
+            <p>Metode: V UKC Maribor smo leta 2016 izvedli prospektivno 6-mesečno raziskavo, v katero smo vključili vse bolnike, ki se trajno zdravijo s ciklosporinom zaradi avtoimunskih bolezni. Raziskava je bila razdeljena na opazovalno in na intervencijsko obdobje, v katerem smo za interpretacijo izmerjenih koncentracij ciklosporina v krvi ter za izračun najprimernejšega režima odmerjanja uvedli farmakokinetični program DoseMe®. V opazovalnem obdobju je bilo v raziskavo vključenih 8, v intervencijskem pa 9 bolnikov; od tega smo 6 bolnikov spremljali v obeh obdobjih. S spremljanjem izbranih parametrov smo primerjali uspešnost zdravljenja s ciklosporinom v obeh obdobjih. Za statistično analizo rezultatov smo uporabili računalniška programa IBM SPSS Statistics® in Microsoft® Office Excel.</p>
+            <p>Rezultati: V opazovalnem obdobju je bilo opravljenih 24 meritev minimalne koncentracije ciklosporina v krvi (C<sub>0</sub>), v intervencijskem obdobju pa 18. Odzivni čas od meritve do vpisa zdravnikovega mnenja v medicinsko dokumentacijo je v opazovalnem obdobju znašal 17,4 dni, v intervencijskem pa 6,8 dni. V obeh obdobjih petina opravljenih meritev C<sub>0</sub> ni imela zabeleženega zdravnikovega mnenja v medicinsko dokumentacijo. Delež meritev C<sub>0</sub>, ki so bile v ustreznem območju, se je v intervencijskem obdobju z 38 % povečal na 67 %, število dni v terapevtskem območju pa s 37,5 na 70 dni.</p>
+            <p>Zaključek: Z raziskavo smo potrdili pomen terapevtskega spremljanja koncentracij pri optimiziranju zdravljenja s ciklosporinom. Odzivni čas od meritve koncentracije do vpisa zdravnikovega mnenja v medicinsko dokumentacijo se je v intervencijskem obdobju skrajšal, povečalo se je število doseženih ciljnih koncentracij v krvi ter ocena števila dni, ko so bile koncentracije ciklosporina pri bolnikih v terapevtskem območju. Na našem vzorcu bolnikov se je farmakokinetični program DoseMe® izkazal kot uporaben pripomoček.</p>
+         </abstract>
+         <trans-abstract xml:lang="en">
+            <title>Abstract</title>
+            <p>Background: Cyclosporine is an immunosuppressive drug used in transplantations and autoimmune diseases. It is a drug with a narrow therapeutic index, numerous interactions and high inter- and intraindividual variability. Therefore, therapeutic drug monitoring (TDM) and individual dosing can contribute greatly to the safety and efficacy of cyclosporine treatment. The aim of our study was to assess the importance of computerised TDM service within clinical pharmacy in the optimization of cyclosporine treatment in patients with autoimmune diseases.</p>
+            <p>Methods: In 2016, we conducted a 6-month prospective study, which involved all patients on permanent cyclosporine therapy who were treated at the UMC Maribor due to autoimmune diseases. Our study was divided into two periods. i.e. the observation and the intervention period, in which the use of pharmacokinetic software DoseMe® was introduced to interpret cyclosporine blood concentration measurements and to calculate the appropriate dosing regimen. There were 8 patients included in the observation period and 9 patients in the intervention period, 6 patients were monitored during both periods. By monitoring the selected parameters, the efficiency of cyclosporine treatment during both periods was compared. We used the IBM SPSS Statistics® and Microsoft® Office Excel for statistical analysis.</p>
+            <p>Results: There were 24 measurements of cyclosporine minimum concentration (C<sub>0</sub>) carried out in the observation period and 18 measurements during the intervention period. The response time required for a measured concentration to be interpreted and recorded in the patient’s medical record was 17.4 days during the observation period and 6.8 days during the intervention period. In both periods, one-fifth of the measured concentrations were not interpreted in patients’ medical records by physicians. The percentage of cyclosporine concentration measurements that were within the therapeutic range increased from 38 % to 67 % during the intervention period. The number of days when patients’ blood levels of cyclosporine were within the therapeutic range increased from 37.5 to 70 days.</p>
+            <p>Conclusion: In this study, the importance of therapeutic drug monitoring to optimize cyclosporine treatment was confirmed. During the intervention period, the response time, the number of concentration measurements within the therapeutic range and the number of days when patients’ cyclosporine blood levels were within the therapeutic range were improved. In our set of patients, DoseMe® software was found to be a useful tool for optimizing cyclosporine treatment.</p>
+         </trans-abstract>
+         <kwd-group xml:lang="sl">
+            <kwd>terapevtsko spremljanje koncentracij</kwd>
+            <kwd>ciklosporin</kwd>
+            <kwd>avtoimunske bolezni</kwd>
+            <kwd>individualno odmerjanje</kwd>
+            <kwd>farmakokinetični program</kwd>
+         </kwd-group>
+         <kwd-group xml:lang="en">
+            <kwd>therapeutic drug monitoring</kwd>
+            <kwd>cyclosporine</kwd>
+            <kwd>autoimmune diseases</kwd>
+            <kwd>individual dosing</kwd>
+            <kwd>pharmacokinetic program</kwd>
+         </kwd-group>
+      </article-meta>
+   </front>
+   <body>
+      <sec id="s1" sec-type="Uvod">
+         <label>1</label>
+         <title>Uvod</title>
+         <p>Ciklosporin, znan tudi pod imenom ciklosporin A, je ciklični polipeptid, ki ga uvrščamo med imunosupresivne zdravilne učinkovine. Ključni mehanizem delovanja je zmanjšana tvorba interlevkina-2 ter zmanjšano izražanje receptorja za interlevkin-2, zaradi česar se zmanjša aktivnost limfocitov T. Zaradi svojega delovanja se uspešno uporablja pri bolnikih po presaditvah čvrstih organov in krvotvornih matičnih celic, koristne učinke pa so opazili tudi pri zdravljenju številnih avtoimunskih bolezni (<xref ref-type="bibr" rid="b1">1</xref>-<xref ref-type="bibr" rid="b3">3</xref>).</p>
+         <p>Ciklosporin je inhibitor in substrat presnovnega encima citokroma P450 3A4 (CYP3A4) ter inhibitor in substrat transportnega encima glikoproteina P, zato so zelo pogoste njegove farmakokinetične interakcije z drugimi zdravilnimi učinkovinami, pa tudi z določeno hrano (<xref ref-type="bibr" rid="b4">4</xref>-<xref ref-type="bibr" rid="b6">6</xref>). Vlogo pri presnovi ciklosporina igra tudi encim CYP3A5, vendar ne pri vseh bolnikih. Le osebe z vsaj enim alelom CYP3A5*1 dejansko izražajo CYP3A5 in sintetizirajo beljakovino CYP3A5, ki pri teh osebah pomembno prispeva k presnovi ciklosporina. Presnova ciklosporina se s tem pospeši, poveča pa se tudi nastanek presnovnih produktov, zaradi česar so bolniki bolj dovzetni za možne nefrotoksične učinke (<xref ref-type="bibr" rid="b7">7</xref>,<xref ref-type="bibr" rid="b8">8</xref>). Farmakodinamične interakcije z nefrotoksičnimi učinkovinami so posledica sinergističnih toksičnih učinkov na ledvice. Primeri najpogostejših interakcij s ciklosporinom so prikazani v <xref ref-type="table" rid="table1">Tabeli 1</xref>. Na presnovo ciklosporina vplivajo tudi nekatera bolezenska stanja. Eno pogostejših je akutni gastroenterokolitis. Presnova in izločanje ciklosporina v enterocitih sta ob tem namreč moteni, zato se večja količina vsrka v kri (<xref ref-type="bibr" rid="b9">9</xref>).</p>
+         <table-wrap position="anchor" id="table1">
+            <label>Tabela 1:</label>
+            <caption>
+               <p> Pregled učinkovin ter drugih pripravkov, ki vstopajo v interakcijo s ciklosporinom (<xref ref-type="bibr" rid="b3">3</xref>,<xref ref-type="bibr" rid="b4">4</xref>,<xref ref-type="bibr" rid="b10">10</xref>-<xref ref-type="bibr" rid="b17">17</xref>).</p>
+            </caption>
+            <table>
+               <colgroup>
+                  <col/>
+                  <col/>
+                  <col/>
+                  <col/>
+               </colgroup>
+               <thead>
+                  <tr>
+                     <th align="center" colspan="3">Farmakokinetične interakcije</th>
+                     <th align="center">Farmakodinamične interakcije z nefrotoksičnimi učinkovinami</th>
+                  </tr>
+               </thead>
+               <tbody>
+                  <tr>
+                     <th content-type="table-subhead">
+                        <p>↓ konc.</p>
+                        <p>ciklosporina</p>
+                     </th>
+                     <th content-type="table-subhead">
+                        <p>↑ konc.</p>
+                        <p>ciklosporina</p>
+                     </th>
+                     <th content-type="table-subhead">
+                        <p>↑ konc. učinkovin</p>
+                        <p>v sočasni terapiji</p>
+                     </th>
+                     <th content-type="table-subhead">sinergistično toksično delovanje na ledvice</th>
+                  </tr>
+                  <tr>
+                     <td>barbiturati</td>
+                     <td>alopurinol</td>
+                     <td>aliskiren</td>
+                     <td>aminoglikozidi</td>
+                  </tr>
+                  <tr>
+                     <td>bosentan</td>
+                     <td>amiodaron</td>
+                     <td>ambrisentan</td>
+                     <td>amfotericin B</td>
+                  </tr>
+                  <tr>
+                     <td>ciklofosfamid</td>
+                     <td>azitromicin</td>
+                     <td>apiksaban</td>
+                     <td>antagonisti histaminskih receptorjev H<sub>2</sub>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td>fenitoin</td>
+                     <td>danazol</td>
+                     <td>aripiprazol</td>
+                     <td>ciprofloksacin</td>
+                  </tr>
+                  <tr>
+                     <td>fibrati</td>
+                     <td>diltiazem</td>
+                     <td>bosentan</td>
+                     <td>fibrati</td>
+                  </tr>
+                  <tr>
+                     <td>karbamazepin</td>
+                     <td>eritromicin</td>
+                     <td>dabigatran eteksilat</td>
+                     <td>furosemid</td>
+                  </tr>
+                  <tr>
+                     <td>modafinil</td>
+                     <td>flukonazol</td>
+                     <td>daunorubicin</td>
+                     <td>melfalan</td>
+                  </tr>
+                  <tr>
+                     <td>nafcilin</td>
+                     <td>glipizid</td>
+                     <td>deksametazon</td>
+                     <td>metotreksat</td>
+                  </tr>
+                  <tr>
+                     <td>okskarbazepin</td>
+                     <td>holna kislina</td>
+                     <td>digoksin</td>
+                     <td>nesteroidna protivnetna zdravila</td>
+                  </tr>
+                  <tr>
+                     <td>oktreotid</td>
+                     <td>imatinib</td>
+                     <td>diklofenak</td>
+                     <td>takrolimus</td>
+                  </tr>
+                  <tr>
+                     <td>orlistat</td>
+                     <td>itrakonazol</td>
+                     <td>doksorubicin</td>
+                     <td>trimetoprim (s sulfametoksazolom)</td>
+                  </tr>
+                  <tr>
+                     <td>probukol</td>
+                     <td>karvedilol</td>
+                     <td>dronedaron</td>
+                     <td>vankomicin</td>
+                  </tr>
+                  <tr>
+                     <td>rifampicin</td>
+                     <td>ketokonazol</td>
+                     <td>etopozid</td>
+                     <td/>
+                  </tr>
+                  <tr>
+                     <td>sulfadimidin i.v.</td>
+                     <td>klaritromicin</td>
+                     <td>everolimus</td>
+                     <td/>
+                  </tr>
+                  <tr>
+                     <td>sulfinpirazon</td>
+                     <td>klorokin</td>
+                     <td>fentanil</td>
+                     <td/>
+                  </tr>
+                  <tr>
+                     <td>terbinafin</td>
+                     <td>kolhicin</td>
+                     <td>kolhicin</td>
+                     <td/>
+                  </tr>
+                  <tr>
+                     <td>tiklopidin</td>
+                     <td>kontraceptivi (hormonski)</td>
+                     <td>kvetiapin</td>
+                     <td/>
+                  </tr>
+                  <tr>
+                     <td/>
+                     <td>lerkanidipin</td>
+                     <td>lerkanidipin</td>
+                     <td/>
+                  </tr>
+                  <tr>
+                     <td/>
+                     <td>metilprednizolon (visoki odmerki)</td>
+                     <td>mitoksantron</td>
+                     <td/>
+                  </tr>
+                  <tr>
+                     <td/>
+                     <td>metoklopramid</td>
+                     <td>nifedipin</td>
+                     <td/>
+                  </tr>
+                  <tr>
+                     <td/>
+                     <td>mifepriston</td>
+                     <td>ranolazin</td>
+                     <td/>
+                  </tr>
+                  <tr>
+                     <td/>
+                     <td>nefazodon</td>
+                     <td>repaglinid</td>
+                     <td/>
+                  </tr>
+                  <tr>
+                     <td/>
+                     <td>nikardipin</td>
+                     <td>rivaroksaban</td>
+                     <td/>
+                  </tr>
+                  <tr>
+                     <td/>
+                     <td>ranolazin</td>
+                     <td>sirolimus</td>
+                     <td/>
+                  </tr>
+                  <tr>
+                     <td/>
+                     <td>verapamil</td>
+                     <td>statini</td>
+                     <td/>
+                  </tr>
+                  <tr>
+                     <td/>
+                     <td>vorikonazol</td>
+                     <td/>
+                     <td/>
+                  </tr>
+                  <tr>
+                     <td/>
+                     <td>zaviralci proteaze</td>
+                     <td/>
+                     <td/>
+                  </tr>
+                  <tr>
+                     <td>šentjanževka</td>
+                     <td>grenivke</td>
+                     <td/>
+                     <td/>
+                  </tr>
+                  <tr>
+                     <td>rdeče vino</td>
+                     <td>seviljske pomaranče</td>
+                     <td/>
+                     <td/>
+                  </tr>
+               </tbody>
+            </table>
+         </table-wrap>
+         <p>Zaradi pogostnosti sočasne uporabe je zelo pomembna interakcija s statini. Ob sočasni uporabi lahko namreč ciklosporin poveča izpostavljenost organizma statinom tudi do 10-krat, kar poveča tveganje za miopatije in pojav rabdomiolize. Po podatkih različnih podatkovnih baz je ob ciklosporinu smiselna le sočasna uporaba fluvastatina (največ 20 mg 2-krat/dan), pravastatina (največ 20 mg/dan) in rosuvastatina (največ 5 mg/dan) (<xref ref-type="bibr" rid="b4">4</xref>,<xref ref-type="bibr" rid="b10">10</xref>). Temu pa nasprotujejo navedbe v povzetku glavnih značilnosti zdravil, ki vsebujejo rosuvastatin. Le-ti namreč navajajo, da je sočasna uporaba ciklosporina in rosuvastatina celo kontraindicirana.</p>
+         <p>Ciklosporin je učinkovina z ozkim terapevtskim območjem ter veliko inter- in intraindividualno variabilnostjo farmakokinetičnih parametrov, kar lahko privede do subterapevtskih in tudi toksičnih koncentracij v krvi bolnika. Zato je za učinkovito in varno zdravljenje s ciklosporinom nujno spremljanje njegove koncentracije v krvi in individualno prilagajanje odmerka ciljnemu koncentracijskemu območju, kar obsega storitev terapevtskega spremljanja koncentracije v krvi (<italic>angl.</italic> Therapeutic Drug Monitoring, TDM) (<xref ref-type="bibr" rid="b18">18</xref>-<xref ref-type="bibr" rid="b20">20</xref>). To je še posebej pomembno pri bolnikih s presajenim organom, saj lahko premajhne koncentracije privedejo do zavrnitvene reakcije in izgube presadka. Pri bolnikih z avtoimunskimi boleznimi prenizke koncentracije ciklosporina v krvi predstavljajo tveganje za neučinkovitost zdravljenja, previsoke koncentracije pa pomenijo nevarnost za pojav toksičnosti. Razen rednega spremljanja koncentracij v krvi moramo pri zdravljenju s ciklosporinom varnost zdravljenja nadzorovati še s spremljanjem ledvične in jetrne funkcije ter določati vrednosti bilirubina, lipidov, kalija, magnezija in sečne kisline v serumu. Potrebne so tudi redne meritve krvnega tlaka (<xref ref-type="bibr" rid="b3">3</xref>,<xref ref-type="bibr" rid="b4">4</xref>,<xref ref-type="bibr" rid="b10">10</xref>).</p>
+         <p>Ker se ciklosporin neenakomerno porazdeljuje med plazmo in krvnimi celicami (33–47 % prisotnega v plazmi, preostanek v različnih deležih porazdeljen po limfocitih, granulocitih in eritrocitih), njegovo koncentracijo določamo v polni krvi z dodatkom antikoagulanta. Pomemben je čas odvzema vzorca glede na čas zaužitja zadnjega odmerka zdravila. Najbolj pogosto se določa minimalna koncentracija ciklosporina v krvi, C<sub>0</sub>, torej koncentracija tik pred apliciranjem naslednjega odmerka. V prid določanja C<sub>0</sub> govorijo obsežni podatki iz literature ter praktičnost odvzema vzorca krvi (<xref ref-type="bibr" rid="b1">1</xref>,<xref ref-type="bibr" rid="b21">21</xref>). V literaturi se omenja še določanje maksimalne koncentracije ciklosporina v krvi, C<sub>2</sub>, torej koncentracije dve uri po odmerku, ki naj bi imela boljšo napovedno vrednost glede celokupne izpostavljenosti zdravilni učinkovini, vendar kasnejše raziskave tega niso uspele potrditi. Čas, ko koncentracija ciklosporina po zaužitju doseže najvišjo vrednost, je odvisen od številnih dejavnikov, zato so pogoste napake zaradi prehitro ali prepozno odvzetega vzorca (<xref ref-type="bibr" rid="b22">22</xref>-<xref ref-type="bibr" rid="b25">25</xref>). Za določitev C<sub>2</sub> se odločimo le pri bolj zapletenih primerih, kadar z določitvijo koncentracije ciklosporina zgolj v eni časovni točki ne dobimo dovolj informacij o farmakokinetiki pri posamezniku (<xref ref-type="bibr" rid="b26">26</xref>).</p>
+         <p>Za praktično izvedbo TDM ciklosporina moramo opredeliti ustrezna terapevtska območja, ki nam služijo kot usmeritev za prilagajanje odmerkov. Priporočena terapevtska območja, zbrana iz različnih raziskav in po posvetu s strokovnjaki s tega področja, vsebuje <xref ref-type="table" rid="table2">Tabela 2</xref>. Podana so priporočena območja za C<sub>0</sub> in C<sub>2</sub> pri zdravljenju avtoimunskih bolezni. Terapevtska območja za posamezne primere presaditev v tabeli niso navedena, saj se vsi bolniki s presajenimi organi vodijo v Univerzitetnem kliničnem centru Ljubljana. Ciljna koncentracijska območja ciklosporina za te indikacije so v njihovi pristojnosti. Navedena priporočena območja uporabljamo v UKC Maribor kot terapevtska za posebej tu navedene indikacije.</p>
+         <table-wrap position="anchor" id="table2">
+            <label>Tabela 2:</label>
+            <caption>
+               <p> Priporočena terapevtska območja za zdravljenje s ciklosporinom (<xref ref-type="bibr" rid="b1">1</xref>,<xref ref-type="bibr" rid="b27">27</xref>-<xref ref-type="bibr" rid="b47">47</xref>).</p>
+            </caption>
+            <table>
+               <colgroup>
+                  <col/>
+                  <col/>
+                  <col/>
+               </colgroup>
+               <thead>
+                  <tr>
+                     <th>Indikacija</th>
+                     <th align="center" colspan="2">Terapevtsko območje</th>
+                  </tr>
+               </thead>
+               <tbody>
+                  <tr>
+                     <th content-type="table-subhead"/>
+                     <th align="center" content-type="table-subhead">C<sub>0</sub> [μg/L]</th>
+                     <th align="center" content-type="table-subhead">C<sub>2</sub> [μg/L]</th>
+                  </tr>
+                  <tr>
+                     <td>
+                        <p>avtoimunske bolezni</p>
+                        <p>(splošna usmeritev)</p>
+                     </td>
+                     <td align="right">50–150</td>
+                     <td align="right" rowspan="13">500–600</td>
+                  </tr>
+                  <tr>
+                     <td>polimiozitis in dermatomiozitis</td>
+                     <td align="right">150</td>
+                  </tr>
+                  <tr>
+                     <td>sistemski lupus eritematozus</td>
+                     <td align="right">80–150</td>
+                  </tr>
+                  <tr>
+                     <td>Behçetova bolezen</td>
+                     <td align="right">&gt; 50</td>
+                  </tr>
+                  <tr>
+                     <td>revmatoidni artritis</td>
+                     <td align="right">50–150</td>
+                  </tr>
+                  <tr>
+                     <td>glomerulonefritis</td>
+                     <td align="right">125–200</td>
+                  </tr>
+                  <tr>
+                     <td>nefrotski sindrom</td>
+                     <td align="right">80–120</td>
+                  </tr>
+                  <tr>
+                     <td>fokalna segmentna glomeruloskleroza</td>
+                     <td align="right">100–200</td>
+                  </tr>
+                  <tr>
+                     <td>aplastična anemija</td>
+                     <td align="right">150–200</td>
+                  </tr>
+                  <tr>
+                     <td>mielodisplastični sindrom</td>
+                     <td align="right">200</td>
+                  </tr>
+                  <tr>
+                     <td>endogeni uveitis</td>
+                     <td align="right">80–150</td>
+                  </tr>
+                  <tr>
+                     <td>psoriaza</td>
+                     <td align="right">&lt; 200</td>
+                  </tr>
+                  <tr>
+                     <td>atopijski dermatitis</td>
+                     <td align="right">ni spec. vrednosti</td>
+                  </tr>
+               </tbody>
+            </table>
+         </table-wrap>
+         <p>Za pridobivanje informacij o terapevtskih območjih ciklosporina pri različnih avtoimunskih boleznih je na voljo le omejen nabor literature. Priporočena območja predpisujejo uporabo različnih imunokemijskih metod za določanje koncentracije ciklosporina v krvi, predvsem FPIA (<italic>angl.</italic> fluorescence polarization immunoassay). Splošno terapevtsko območje za avtoimunske bolezni se v literaturi uporablja tudi pri spremljanju koncentracij, določenih z uporabo kromatografske metode LC-MS/MS (<italic>angl.</italic> liquid chromatography tandem mass spectrometry), ki velja za zlati standard. Pri uporabi imunokemijskih metod za določanje koncentracije ciklosporina v krvi so izmerjene vrednosti v večini primerov lažno višje, kar potrjujejo številni viri v literaturi (<xref ref-type="bibr" rid="b1">1</xref>,<xref ref-type="bibr" rid="b48">48</xref>-<xref ref-type="bibr" rid="b52">52</xref>). Najpogostejše komercialne imunokemijske metode za določanje ciklosporina ter njihova odstopanja od vrednosti, določenih s kromatografskimi metodami, prikazuje <xref ref-type="table" rid="table3">Tabela 3</xref>.</p>
+         <table-wrap position="anchor" id="table3">
+            <label>Tabela 3:</label>
+            <caption>
+               <p> Najpogostejše imunokemijske metode za določanje koncentracije ciklosporina v krvi ter njihova odstopanja (<xref ref-type="bibr" rid="b1">1</xref>,<xref ref-type="bibr" rid="b48">48</xref>,<xref ref-type="bibr" rid="b49">49</xref>).</p>
+            </caption>
+            <table>
+               <colgroup>
+                  <col/>
+                  <col/>
+               </colgroup>
+               <thead>
+                  <tr>
+                     <th>Metoda</th>
+                     <th>Odstopanje (pozitivno)</th>
+                  </tr>
+               </thead>
+               <tbody>
+                  <tr>
+                     <td>EMIT</td>
+                     <td>9–13 %</td>
+                  </tr>
+                  <tr>
+                     <td>
+                        <p>CEDIA Plus</p>
+                        <p>(cloned enzyme donor immunoassay)</p>
+                     </td>
+                     <td>9–12 %</td>
+                  </tr>
+                  <tr>
+                     <td>
+                        <p>CMIA</p>
+                        <p>(chemiluminescent microparticle immunoassay)</p>
+                     </td>
+                     <td>nekatere študije navajajo primerljivost s kromatografskimi metodami, druge pa odstopanje do 15 %</td>
+                  </tr>
+                  <tr>
+                     <td>
+                        <p>ACMIA</p>
+                        <p>(antibody conjugated magnetic immunoassay)</p>
+                     </td>
+                     <td>12 %</td>
+                  </tr>
+                  <tr>
+                     <td>
+                        <p>FPIA</p>
+                        <p>(fluorescence polarization immunoassay)</p>
+                     </td>
+                     <td>15–30 %</td>
+                  </tr>
+               </tbody>
+            </table>
+         </table-wrap>
+         <p>Cilj TDM ciklosporina je vzdrževanje koncentracij v krvi v priporočenem območju. Vrednosti nad zgornjo mejo predstavljajo tveganje za neželene učinke, medtem ko koncentracije pod spodnjo mejo lahko pri bolnikih po presaditvah povzročijo zavrnitev presajenega organa, pri bolnikih z avtoimunskimi boleznimi pa neučinkovitost zdravljenja. Vzdrževanje koncentracije ciklosporina v krvi znotraj priporočenih območij je pomembno tudi zaradi obvladovanja neželenih učinkov, saj so le-ti pogosto odvisni od odmerka in se odzivajo na njegovo zniževanje. Med najpogostejšimi neželenimi učinki ciklosporina so akutna in kronična okvara ledvic, okvara jeter, hipertenzija, hiperkaliemija, hiperurikemija, hipomagneziemija, hiperkalciurija, hipofosfatemija, hiperkalciemija, presnovna acidoza (hiperkloremična), tremor, hirzutizem, anoreksija, diareja, navzea in bruhanje. Zaradi mehanizma delovanja ciklosporina so bolniki izpostavljeni tudi večjemu tveganju za pojav nalezljivih bolezni ter malignih novotvorb (<xref ref-type="bibr" rid="b3">3</xref>).</p>
+         <p>V letu 2016 smo v Univerzitetnem kliničnem centru Maribor izvedli prospektivno raziskavo, s katero smo želeli preveriti, ali računalniško podprta TDM storitev z uporabo farmakokinetičnega programa DoseMe® kot dejavnost klinične farmacije prispeva k optimizaciji zdravljenja s ciklosporinom pri bolnikih z avtoimunskimi boleznimi. Po naših informacijah je to prva tovrstna raziskava v Sloveniji.</p>
+      </sec>
+      <sec id="s2" sec-type="Materiali in metode">
+         <label>2</label>
+         <title>Materiali in metode</title>
+         <sec id="s2.1" sec-type="Materiali">
+            <label>2.1</label>
+            <title>Materiali</title>
+            <p>DoseMe® je računalniški program, ki je namenjen načrtovanju individualnega odmerjanja učinkovin z ozkim terapevtskim območjem in veliko variabilnostjo farmakokinetičnih parametrov. Program pri izračunu priporočenega odmerka posamezne učinkovine deluje na osnovi Bayesovega teorema, pri čemer se upoštevajo populacijski farmakokinetični parametri, bolnikovi podatki (demografski, klinični, terapevtski) ter izmerjena koncentracija učinkovine v krvi (<xref ref-type="bibr" rid="b53">53</xref>).</p>
+            <p>Za opis farmakokinetike ciklosporina DoseMe® uporablja dvoprostorni farmakokinetični model, v katerem se absorpcija ciklosporina opredeli z Erlangovo (gama) porazdelitvijo, izločanje pa poteka s kinetiko 1. reda. Model so razvili in validirali na populaciji bolnikov s presajenimi organi (ledvice, srce, pljuča), pri čemer so bili v populacijo vključeni odrasli in tudi pediatrični bolniki, kot pomembno sočasno spremenljivko pa vključuje telesno maso (<xref ref-type="bibr" rid="b54">54</xref>). Model je uporaben pri optimiziranju zdravljenja z novejšo formulacijo ciklosporina (Neoral), ki v telesu tvori homogeno mikroemulzijo, katere absorpcija ni tako odvisna od prisotnosti žolčnih soli kot v prvotni formulaciji ciklosporina (Sandimmune), ki je temeljila na olju. Danes uporabljamo le novejšo formulacijo. Končni model izkazuje dobro napovedno vrednost, vendar ga je potrebno pri drugih populacijah bolnikov uporabljati previdno, saj je bil validiran zgolj na populaciji bolnikov s presajenimi organi (<xref ref-type="bibr" rid="b53">53</xref>,<xref ref-type="bibr" rid="b54">54</xref>).</p>
+         </sec>
+         <sec id="s2.2" sec-type="Metode">
+            <label>2.2</label>
+            <title>Metode</title>
+            <p>Izvedli smo prospektivno raziskavo, v katero smo vključili vse bolnike, ki zaradi avtoimunskih bolezni trajno dobivajo ciklosporin in so se v obdobju od začetka julija do konca decembra 2016 zdravili tako v specialističnih ambulantah kot na oddelkih UKC Maribor. Pred pričetkom raziskave smo zbrali podatke o priporočenih terapevtskih območjih ciklosporina za različne indikacije, ki so služili kot usmeritev pri zdravljenju (<xref ref-type="table" rid="table2">Tabela 2</xref>). Raziskava je potekala šest mesecev, pri čemer je v prvi polovici potekalo opazovalno obdobje, zadnji trije meseci pa so bili namenjeni intervencijskemu obdobju. V prvi polovici raziskave smo spremljali 8, v drugi polovici pa 9 bolnikov, od tega smo 6 bolnikov spremljali v obeh obdobjih. Določili smo nabor parametrov, s pomočjo katerih smo primerjali uspešnost zdravljenja s ciklosporinom v obeh obdobjih. Parametri so bili: število meritev koncentracije ciklosporina v krvi, število meritev, ki jim je sledil vpis zdravnikovega mnenja v medicinsko dokumentacijo, odzivni čas od meritve do vpisa zdravnikovega mnenja v medicinsko dokumentacijo, število meritev, ki so bile v terapevtskem območju, število dni, ko je bil bolnik v terapevtskem območju, število sočasno predpisanih zdravil, ki lahko vstopajo v interakcijo s ciklosporinom, število primerov sočasnega uživanja grenivk ali drugih morda neprimernih pripravkov, število klinično izraženih interakcij, število izraženih neželenih učinkov ciklosporina, ki niso bili posledica interakcije ter število neustreznih vzorcev krvi pri laboratorijski kontroli (predhodno zaužitje odmerka).</p>
+            <p>V opazovalnem obdobju je zdravljenje vseh vključenih bolnikov potekalo po ustaljenem redu; zdravilo so jemali v skladu z zdravnikovimi navodili, prihajali na redne ambulantne preglede in oddajali vzorce krvi za kontrolo. Če je bilo potrebno, je zdravnik prilagodil odmerjanje ciklosporina. Zapisi o ambulantnih pregledih in napotkih za odmerjanje ciklosporina in ostalih zdravil so se zapisovali v program medicinske dokumentacije Medis. Klinični farmacevt je v tem obdobju preizkušal program DoseMe®.</p>
+            <p>V intervencijskem obdobju smo v ustaljeno rutino vnesli dodaten korak; takoj po določitvi koncentracije ciklosporina v krvi je klinični farmacevt v programu DoseMe® izvedel simulacijo ter pripravil predlog najprimernejšega režima odmerjanja, s katerim bi dosegli želeno koncentracijo zdravila v krvi. Zdravnik je priporočilo po svoji presoji uporabil kot pripomoček pri nadaljnjem odmerjanju.</p>
+            <p>Za uporabo farmakokinetičnega programa DoseMe® potrebujemo bolnikove osnovne podatke, ki jih ob začetku zdravljenja vnesemo v program (spol, starost, telesna masa, telesna višina). Vnesemo tudi točen čas aplikacij ter jakosti posameznih odmerkov. Na osnovi vnesenih podatkov program izriše koncentracijsko krivuljo ciklosporina v krvi bolnika, upoštevajoč populacijske parametre. Ko pridobimo rezultat meritve dejanske koncentracije ciklosporina v bolnikovi krvi, vrednost vnesemo v program, ki nato izriše še individualno koncentracijsko krivuljo, prilagojeno farmakokinetičnim parametrom posameznega bolnika. Obe krivulji ter dve meritvi koncentracije ciklosporina v krvi bolnika (C<sub>0</sub> in C<sub>2</sub>) prikazuje <xref ref-type="fig" rid="fig1">Slika 1</xref>. Slika prikazuje odmik koncentracijske krivulje ciklosporina v krvi posameznega bolnika od populacijske krivulje, kadar gre za interakcijo ciklosporina z diltiazemom.</p>
+            <fig position="anchor" id="fig1">
+               <label>Slika 1:</label>
+               <caption>
+                  <p> Primer farmakokinetičnega profila v programu DoseMe® (rdeča krivulja – populacijski model, modra krivulja – individualni bolnik, križec – izmerjena koncentracija ciklosporina).</p>
+               </caption>
+               <p>
+                  <graphic xlink:href="2852-web-resources/image/zdravvestn-2852-sl-01.png"/>
+               </p>
+            </fig>
+            <p>Ko imamo na voljo individualno koncentracijsko krivuljo, lahko s programom za bolnika izračunamo optimalni režim odmerjanja, s katerim bomo dosegli želene vrednosti ciklosporina v krvi. V program vnesemo datum in uro naslednjega odmerka ter želeno koncentracijo ciklosporina v krvi, program pa nam pripravi priporočilo s predlaganim odmernim režimom, ki ga lahko nato poljubno tudi spreminjamo. Program pa nam ob tem vsakič izračuna predvideno minimalno ter maksimalno koncentracijo ciklosporina v krvi in celokupno 24-urno izpostavljenost (AUC). Na priporočilu so zabeleženi tudi osnovni farmakokinetični parametri (volumen porazdelitve, očistek, hitrostna konstanta izločanja, razpolovni čas).</p>
+            <p>Kemijsko analizo odvzetih vzorcev krvi je opravil Oddelek za laboratorijsko diagnostiko UKC Maribor, kjer določajo koncentracijo ciklosporina v krvi bolnikov na analizatorju Thermo Scientific Indiko Plus z metodo CEDIA Plus.</p>
+            <p>Pri večini bolnikov smo za ugotavljanje ustreznosti zdravljenja s ciklosporinom spremljali minimalne koncentracije ciklosporina v krvi, pri nekaterih pa smo pomerili tudi koncentracijo dve uri po odmerku. Ker smo s preprosto statistično analizo (parni t-test) ugotovili, da ne obstaja statistično značilna razlika v priporočenem odmerku, če se le-ta izračuna z upoštevanjem C<sub>0</sub> in C<sub>2</sub> ali zgolj C<sub>0</sub>, smo kasnejše meritve C<sub>2</sub> opustili.</p>
+            <p>Za statistično analizo rezultatov smo uporabili računalniška programa IBM SPSS Statistics® in Microsoft® Office Excel. Računalniški program IBM SPSS Statistics® smo uporabili za ugotavljanje statistično pomembnih razlik med izračunanimi razmerji v opazovalnem in intervencijskem obdobju (Pearson Chi-Square test), pri čemer smo predpostavili neodvisnost med opazovanima populacijama. Pri vseh statističnih testih smo izbrali stopnjo tveganja α = 0,05.</p>
+            <p>Etično ustreznost raziskave je potrdila Komisija za medicinsko etiko UKC Maribor. Bolniki so bili o poteku raziskave obveščeni, svoje sodelovanje pa so potrdili s pisnim pristankom.</p>
+         </sec>
+      </sec>
+      <sec id="s3" sec-type="Rezultati">
+         <label>3</label>
+         <title>Rezultati</title>
+         <p>V raziskavo je bilo v opazovalnem obdobju vključenih 8 bolnikov, v intervencijskem pa 9 bolnikov. 6 bolnikov smo spremljali skozi obe obdobji. Povprečna starost bolnikov v opazovalnem obdobju je znašala 57,3 let (razpon 45–68 let), razmerje med moškimi in ženskami je bilo 4/4. V intervencijskem obdobju je bila povprečna starost bolnikov 61,3 let (razpon 45–74 let), razmerje med moškimi in ženskami pa 6/3. Glede povprečne starosti sta bili obe skupini bolnikov primerljivi, razporeditev po spolu pa je bila v opazovalnem obdobju enakovrednejša. Bolnikov s presajenimi organi v raziskavo nismo vključevali, saj njihovo imunosupresivno terapijo vodijo v UKC Ljubljana. Pri naših bolnikih so bile indikacije za uporabo ciklosporina naslednje bolezni: primarni membranski glomerulonefritis (2 bolnika), nefrotski sindrom (2 bolnika), dermatomiozitis (2 bolnika), polimiozitis (1 bolnik), granulomatozni miozitis (1 bolnik), sistemski lupus eritematozus (1 bolnik), Behçetova bolezen (1 bolnik), aplastična anemija (1 bolnik). Celokupno so bili v raziskavo vključeni 4 nefrološki, 6 revmatoloških in 1 hematološki bolnik.</p>
+         <p>Vse potrebne informacije smo pridobili iz programa Medis. V <xref ref-type="table" rid="table4">Tabeli 4</xref> je primerjava izmerjenih minimalnih koncentracij ciklosporina v krvi z izračunanimi osnovnimi statističnimi parametri v opazovalnem in intervencijskem obdobju glede na posamezno indikacijo.</p>
+         <table-wrap position="anchor" id="table4">
+            <label>Tabela 4:</label>
+            <caption>
+               <p> Primerjava izmerjenih minimalnih koncentracij ciklosporina v krvi ter izračunanih osnovnih statističnih parametrov.</p>
+            </caption>
+            <table>
+               <colgroup>
+                  <col/>
+                  <col/>
+                  <col/>
+                  <col/>
+                  <col/>
+                  <col/>
+                  <col/>
+               </colgroup>
+               <thead>
+                  <tr>
+                     <th rowspan="2">Indikacija</th>
+                     <th colspan="3">Opazovalno obdobje</th>
+                     <th colspan="3">Intervencijsko obdobje</th>
+                  </tr>
+                  <tr>
+                     <th>C<sub>0</sub>
+                        <sup>1</sup> [μg/L]</th>
+                     <th colspan="2">statistični parameter</th>
+                     <th>C<sub>0</sub> [μg/L]</th>
+                     <th colspan="2">statistični parameter</th>
+                  </tr>
+               </thead>
+               <tbody>
+                  <tr>
+                     <td rowspan="5">Primarni membranski glomerulonefritis</td>
+                     <td rowspan="5">
+                        <p>76</p>
+                        <p>65</p>
+                        <p>104</p>
+                     </td>
+                     <td>povpr. vrednost</td>
+                     <td align="right">81,7</td>
+                     <td rowspan="5">
+                        <p>114</p>
+                        <p>116</p>
+                        <p>165</p>
+                     </td>
+                     <td>povpr. vrednost</td>
+                     <td align="right">131,7</td>
+                  </tr>
+                  <tr>
+                     <td>mediana</td>
+                     <td align="right">76</td>
+                     <td>mediana</td>
+                     <td align="right">116</td>
+                  </tr>
+                  <tr>
+                     <td>minimalna vrednost</td>
+                     <td align="right">65</td>
+                     <td>minimalna vrednost</td>
+                     <td align="right">114</td>
+                  </tr>
+                  <tr>
+                     <td>maksimalna vrednost</td>
+                     <td align="right">104</td>
+                     <td>maksimalna vrednost</td>
+                     <td align="right">165</td>
+                  </tr>
+                  <tr>
+                     <td>IQR<sup>2</sup>
+                     </td>
+                     <td align="right">19,5</td>
+                     <td>IQR</td>
+                     <td align="right">25,5</td>
+                  </tr>
+                  <tr>
+                     <td rowspan="5">Nefrotski sindrom</td>
+                     <td rowspan="5">
+                        <p>101</p>
+                        <p>118</p>
+                     </td>
+                     <td>povpr. vrednost</td>
+                     <td align="right">109,5</td>
+                     <td rowspan="5">
+                        <p>121</p>
+                        <p>208</p>
+                     </td>
+                     <td>povpr. vrednost</td>
+                     <td align="right">164,5</td>
+                  </tr>
+                  <tr>
+                     <td>mediana</td>
+                     <td align="right">109,5</td>
+                     <td>mediana</td>
+                     <td align="right">164,5</td>
+                  </tr>
+                  <tr>
+                     <td>minimalna vrednost</td>
+                     <td align="right">101</td>
+                     <td>minimalna vrednost</td>
+                     <td align="right">121</td>
+                  </tr>
+                  <tr>
+                     <td>maksimalna vrednost</td>
+                     <td align="right">118</td>
+                     <td>maksimalna vrednost</td>
+                     <td align="right">208</td>
+                  </tr>
+                  <tr>
+                     <td>IQR</td>
+                     <td align="right">8,5</td>
+                     <td>IQR</td>
+                     <td align="right">43,5</td>
+                  </tr>
+                  <tr>
+                     <td rowspan="5">Dermatomiozitis, polimiozitis</td>
+                     <td rowspan="5">
+                        <p>35</p>
+                        <p>38</p>
+                        <p>49</p>
+                        <p>83</p>
+                     </td>
+                     <td>povpr. vrednost</td>
+                     <td align="right">51,3</td>
+                     <td rowspan="5">
+                        <p>125</p>
+                        <p>63</p>
+                        <p>56</p>
+                        <p>64</p>
+                     </td>
+                     <td>povpr. vrednost</td>
+                     <td align="right">77</td>
+                  </tr>
+                  <tr>
+                     <td>mediana</td>
+                     <td align="right">43,5</td>
+                     <td>mediana</td>
+                     <td align="right">63,5</td>
+                  </tr>
+                  <tr>
+                     <td>minimalna vrednost</td>
+                     <td align="right">35</td>
+                     <td>minimalna vrednost</td>
+                     <td align="right">56</td>
+                  </tr>
+                  <tr>
+                     <td>maksimalna vrednost</td>
+                     <td align="right">83</td>
+                     <td>maksimalna vrednost</td>
+                     <td align="right">125</td>
+                  </tr>
+                  <tr>
+                     <td>IQR</td>
+                     <td align="right">20,3</td>
+                     <td>IQR</td>
+                     <td align="right">18</td>
+                  </tr>
+                  <tr>
+                     <td rowspan="5">Granulomatozni miozitis</td>
+                     <td rowspan="5">
+                        <p>86</p>
+                        <p>68</p>
+                        <p>78</p>
+                        <p>58</p>
+                     </td>
+                     <td>povpr. vrednost</td>
+                     <td align="right">72,5</td>
+                     <td rowspan="5">
+                        <p>132</p>
+                        <p>100</p>
+                        <p>140</p>
+                     </td>
+                     <td>povpr. vrednost</td>
+                     <td align="right">124</td>
+                  </tr>
+                  <tr>
+                     <td>mediana</td>
+                     <td align="right">73</td>
+                     <td>mediana</td>
+                     <td align="right">132</td>
+                  </tr>
+                  <tr>
+                     <td>minimalna vrednost</td>
+                     <td align="right">58</td>
+                     <td>minimalna vrednost</td>
+                     <td align="right">100</td>
+                  </tr>
+                  <tr>
+                     <td>maksimalna vrednost</td>
+                     <td align="right">86</td>
+                     <td>maksimalna vrednost</td>
+                     <td align="right">140</td>
+                  </tr>
+                  <tr>
+                     <td>IQR</td>
+                     <td align="right">14,5</td>
+                     <td>IQR</td>
+                     <td align="right">20</td>
+                  </tr>
+                  <tr>
+                     <td rowspan="5">Sistemski lupus eritematozus</td>
+                     <td rowspan="5">
+                        <p>44</p>
+                        <p>34</p>
+                        <p>118</p>
+                     </td>
+                     <td>povpr. vrednost</td>
+                     <td align="right">65,3</td>
+                     <td align="right" rowspan="5">/</td>
+                     <td>povpr. vrednost</td>
+                     <td align="right">/</td>
+                  </tr>
+                  <tr>
+                     <td>mediana</td>
+                     <td align="right">44</td>
+                     <td>mediana</td>
+                     <td align="right">/</td>
+                  </tr>
+                  <tr>
+                     <td>minimalna vrednost</td>
+                     <td align="right">34</td>
+                     <td>minimalna vrednost</td>
+                     <td align="right">/</td>
+                  </tr>
+                  <tr>
+                     <td>maksimalna vrednost</td>
+                     <td align="right">118</td>
+                     <td>maksimalna vrednost</td>
+                     <td align="right">/</td>
+                  </tr>
+                  <tr>
+                     <td>IQR</td>
+                     <td align="right">42</td>
+                     <td>IQR</td>
+                     <td align="right">/</td>
+                  </tr>
+                  <tr>
+                     <td rowspan="5">Behçetova bolezen</td>
+                     <td rowspan="5">
+                        <p>39</p>
+                        <p>170<sup>3</sup>
+                        </p>
+                        <p>224<sup>3</sup>
+                        </p>
+                        <p>31</p>
+                     </td>
+                     <td>povpr. vrednost</td>
+                     <td align="right">116</td>
+                     <td rowspan="5">
+                        <p>25</p>
+                        <p>102</p>
+                     </td>
+                     <td>povpr. vrednost</td>
+                     <td align="right">63,5</td>
+                  </tr>
+                  <tr>
+                     <td>mediana</td>
+                     <td align="right">104,5</td>
+                     <td>mediana</td>
+                     <td align="right">63,5</td>
+                  </tr>
+                  <tr>
+                     <td>minimalna vrednost</td>
+                     <td align="right">31</td>
+                     <td>minimalna vrednost</td>
+                     <td align="right">25</td>
+                  </tr>
+                  <tr>
+                     <td>maksimalna vrednost</td>
+                     <td align="right">224</td>
+                     <td>maksimalna vrednost</td>
+                     <td align="right">102</td>
+                  </tr>
+                  <tr>
+                     <td>IQR</td>
+                     <td align="right">146,5</td>
+                     <td>IQR</td>
+                     <td align="right">38,5</td>
+                  </tr>
+                  <tr>
+                     <td rowspan="5">Aplastična anemija</td>
+                     <td rowspan="5">
+                        <p>221</p>
+                        <p>168</p>
+                        <p>169</p>
+                        <p>191</p>
+                     </td>
+                     <td>povpr. vrednost</td>
+                     <td align="right">187,3</td>
+                     <td rowspan="5">
+                        <p>270</p>
+                        <p>100<sup>4</sup>
+                        </p>
+                        <p>169</p>
+                        <p>175</p>
+                     </td>
+                     <td>povpr. vrednost</td>
+                     <td align="right">178,5</td>
+                  </tr>
+                  <tr>
+                     <td>mediana</td>
+                     <td align="right">180</td>
+                     <td>mediana</td>
+                     <td align="right">172</td>
+                  </tr>
+                  <tr>
+                     <td>minimalna vrednost</td>
+                     <td align="right">168</td>
+                     <td>minimalna vrednost</td>
+                     <td align="right">100</td>
+                  </tr>
+                  <tr>
+                     <td>maksimalna vrednost</td>
+                     <td align="right">221</td>
+                     <td>maksimalna vrednost</td>
+                     <td align="right">270</td>
+                  </tr>
+                  <tr>
+                     <td>IQR</td>
+                     <td align="right">29,8</td>
+                     <td>IQR</td>
+                     <td align="right">47</td>
+                  </tr>
+                  <tr>
+                     <th content-type="table-subhead" rowspan="5">Vsi</th>
+                     <th content-type="table-subhead" colspan="2">povpr. vrednost</th>
+                     <th align="right" content-type="table-subhead">98,7</th>
+                     <th content-type="table-subhead" colspan="2">povpr. vrednost</th>
+                     <th align="right" content-type="table-subhead">124,7</th>
+                  </tr>
+                  <tr>
+                     <th content-type="table-subhead" colspan="2">mediana</th>
+                     <th align="right" content-type="table-subhead">80,5</th>
+                     <th content-type="table-subhead" colspan="2">mediana</th>
+                     <th align="right" content-type="table-subhead">118,5</th>
+                  </tr>
+                  <tr>
+                     <th content-type="table-subhead" colspan="2">minimalna vrednost</th>
+                     <th align="right" content-type="table-subhead">31</th>
+                     <th content-type="table-subhead" colspan="2">minimalna vrednost</th>
+                     <th align="right" content-type="table-subhead">25</th>
+                  </tr>
+                  <tr>
+                     <th content-type="table-subhead" colspan="2">maksimalna vrednost</th>
+                     <th align="right" content-type="table-subhead">224</th>
+                     <th content-type="table-subhead" colspan="2">maksimalna vrednost</th>
+                     <th align="right" content-type="table-subhead">270</th>
+                  </tr>
+                  <tr>
+                     <th content-type="table-subhead" colspan="2">IQR</th>
+                     <th align="right" content-type="table-subhead">82,75</th>
+                     <th content-type="table-subhead" colspan="2">IQR</th>
+                     <th align="right" content-type="table-subhead">58,8</th>
+                  </tr>
+               </tbody>
+            </table>
+            <table-wrap-foot>
+               <p>
+                  <sup>1</sup> posamezne izmerjene vrednosti koncentracije ciklosporina v krvi,</p>
+               <p>
+                  <sup>2</sup> interkvartilni razmik (IQR – interquartile range),</p>
+               <p>
+                  <sup>3</sup> sočasno uživanje grenivke,</p>
+               <p>
+                  <sup>4</sup> načrtno kratkotrajno ciljanje nižje koncentracije ciklosporina v krvi bolnika zaradi nenadne previsoke koncentracije ob prejšnji meritvi.</p>
+            </table-wrap-foot>
+         </table-wrap>
+         <p>V opazovalnem in intervencijskem obdobju smo spremljali izide, ki so prikazani v <xref ref-type="table" rid="table5">Tabeli 5</xref>. Pri vsakem spremljanem izidu je prikazana tudi podanaliza, ki vključuje zgolj tiste bolnike, ki smo jih spremljali v obeh obdobjih.</p>
+         <table-wrap position="anchor" id="table5">
+            <label>Tabela 5:</label>
+            <caption>
+               <p> Rezultati spremljanih parametrov za opazovalno in intervencijsko obdobje.</p>
+            </caption>
+            <table>
+               <colgroup>
+                  <col/>
+                  <col/>
+                  <col/>
+               </colgroup>
+               <thead>
+                  <tr>
+                     <th/>
+                     <th>Opazovalno obdobje (90 dni)</th>
+                     <th>Intervencijsko obdobje (90 dni)</th>
+                  </tr>
+               </thead>
+               <tbody>
+                  <tr>
+                     <td>Število vseh bolnikov (M/Ž)</td>
+                     <td align="right">8 (4/4)</td>
+                     <td align="right">9 (6/3)</td>
+                  </tr>
+                  <tr>
+                     <td>
+                        <italic>Bolniki, spremljani v obeh obdobjih</italic>
+                     </td>
+                     <td align="right">
+                        <italic>6 (4/2)</italic>
+                     </td>
+                     <td align="right">
+                        <italic>6 (4/2)</italic>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td>Povprečna starost bolnikov</td>
+                     <td align="right">57,3 let</td>
+                     <td align="right">61,3 let</td>
+                  </tr>
+                  <tr>
+                     <td>
+                        <italic>Bolniki, spremljani v obeh obdobjih</italic>
+                     </td>
+                     <td align="right">
+                        <italic>58 let</italic>
+                     </td>
+                     <td align="right">
+                        <italic>58 let</italic>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td>Povprečna telesna masa bolnikov</td>
+                     <td align="right">79,1 kg</td>
+                     <td align="right">82,2 kg</td>
+                  </tr>
+                  <tr>
+                     <td>
+                        <italic>Bolniki, spremljani v obeh obdobjih</italic>
+                     </td>
+                     <td align="right">
+                        <italic>81,3 kg</italic>
+                     </td>
+                     <td align="right">
+                        <italic>81,3 kg</italic>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td>Število vseh meritev koncentracije ciklosporina v krvi</td>
+                     <td align="right">30</td>
+                     <td align="right">26</td>
+                  </tr>
+                  <tr>
+                     <td>
+                        <italic>Bolniki, spremljani v obeh obdobjih</italic>
+                     </td>
+                     <td align="right">
+                        <italic>24</italic>
+                     </td>
+                     <td align="right">
+                        <italic>16</italic>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td>Število meritev minimalne koncentracije ciklosporina v krvi (C<sub>0</sub>)</td>
+                     <td align="right">24</td>
+                     <td align="right">18</td>
+                  </tr>
+                  <tr>
+                     <td>
+                        <italic>Bolniki, spremljani v obeh obdobjih</italic>
+                     </td>
+                     <td align="right">
+                        <italic>18</italic>
+                     </td>
+                     <td align="right">
+                        <italic>12</italic>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td>Število meritev C<sub>0</sub>, ki jim je sledil vpis v medicinsko dokumentacijo</td>
+                     <td align="right">19 (19/24–79 %)</td>
+                     <td align="right">15 (15/18–83 %)</td>
+                  </tr>
+                  <tr>
+                     <td>
+                        <italic>Bolniki, spremljani v obeh obdobjih</italic>
+                     </td>
+                     <td align="right">
+                        <italic>14 (14/18–78 %)</italic>
+                     </td>
+                     <td align="right">
+                        <italic>10 (10/12–83 % )</italic>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td>Povprečni odzivni čas od meritve do vpisa zdravnikovega mnenja v medicinsko dokumentacijo<sup>1</sup>
+                     </td>
+                     <td align="right">17,4 dni</td>
+                     <td align="right">6,8 dni</td>
+                  </tr>
+                  <tr>
+                     <td>
+                        <italic>Bolniki, spremljani v obeh obdobjih</italic>
+                     </td>
+                     <td align="right">
+                        <italic>20,6 dni</italic>
+                     </td>
+                     <td align="right">
+                        <italic>8,4 dni</italic>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td>Število meritev C<sub>0</sub>, ki so bile v terapevtskem območju<sup>2</sup>
+                     </td>
+                     <td align="right">9 (9/24–38 %)</td>
+                     <td align="right">12 (12/18–67 %)</td>
+                  </tr>
+                  <tr>
+                     <td>
+                        <italic>Bolniki, spremljani v obeh obdobjih</italic>
+                     </td>
+                     <td align="right">
+                        <italic>8 (8/18–44 %)</italic>
+                     </td>
+                     <td align="right">
+                        <italic>10 (10/12–83 %)</italic>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td>Povprečno število dni, ko so bile bolnikove koncentracije v terapevtskem območju (od opazovanih 90 dni)<sup>3</sup>
+                     </td>
+                     <td align="right">37,5 dni (37,5/90–42 %)</td>
+                     <td align="right">70 dni (70/90–78 %)</td>
+                  </tr>
+                  <tr>
+                     <td>
+                        <italic>Bolniki, spremljani v obeh obdobjih</italic>
+                     </td>
+                     <td align="right">
+                        <italic>50 dni (50/90–56 %)</italic>
+                     </td>
+                     <td align="right">
+                        <italic>75 dni (75/90–83 %)</italic>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td>Celokupno število sočasno predpisanih zdravil, ki potencialno vstopajo v interakcijo s ciklosporinom<sup>4</sup>
+                     </td>
+                     <td align="right">6</td>
+                     <td align="right">7</td>
+                  </tr>
+                  <tr>
+                     <td>
+                        <italic>Bolniki, spremljani v obeh obdobjih</italic>
+                     </td>
+                     <td align="right">
+                        <italic>3</italic>
+                     </td>
+                     <td align="right">
+                        <italic>2</italic>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td>Število primerov sočasnega uživanja grenivk ali drugih potencialno neprimernih pripravkov</td>
+                     <td align="right">1</td>
+                     <td align="right">/</td>
+                  </tr>
+                  <tr>
+                     <td>
+                        <italic>Bolniki, spremljani v obeh obdobjih</italic>
+                     </td>
+                     <td align="right">
+                        <italic>1</italic>
+                     </td>
+                     <td/>
+                  </tr>
+                  <tr>
+                     <td>Število klinično izraženih interakcij</td>
+                     <td align="right">1</td>
+                     <td align="right">2<sup>5</sup>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td>
+                        <italic>Bolniki, spremljani v obeh obdobjih</italic>
+                     </td>
+                     <td align="right">
+                        <italic>1</italic>
+                     </td>
+                     <td align="right">
+                        <italic>0</italic>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td>Število primerov izraženih neželenih učinkov ciklosporina</td>
+                     <td align="right">3<sup>6</sup>
+                     </td>
+                     <td align="right">/</td>
+                  </tr>
+                  <tr>
+                     <td>
+                        <italic>Bolniki, spremljani v obeh obdobjih</italic>
+                     </td>
+                     <td align="right">
+                        <italic>1</italic>
+                     </td>
+                     <td/>
+                  </tr>
+                  <tr>
+                     <td>Število neustreznih vzorcev krvi pri laboratorijski kontroli (predhodno zaužitje odmerka)</td>
+                     <td align="right">/</td>
+                     <td align="right">2</td>
+                  </tr>
+                  <tr>
+                     <td>
+                        <italic>Bolniki, spremljani v obeh obdobjih</italic>
+                     </td>
+                     <td/>
+                     <td align="right">
+                        <italic>2</italic>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+            <table-wrap-foot>
+               <p>
+                  <sup>1</sup> Število dni, ki je preteklo od določitve koncentracije do vpisa zdravnikovega mnenja v medicinsko dokumentacijo. Za vpis v medicinsko dokumentacijo mora biti lečeči zdravnik obveščen o meritvi koncentracije, preveriti in ustrezno interpretirati mora izmerjeno vrednost ter narekovati izvid, ki ga nato zdravstveni administrator vnese v program medicinske dokumentacije Medis. V primeru, da se posamezna meritev ni interpretirala, smo za izračun odzivnega časa uporabili prvi naslednji vpis, ki se je pojavil, čeprav je bila vmes opravljena že naslednja meritev koncentracije ciklosporina v krvi.</p>
+               <p>
+                  <sup>2</sup> Kot ustrezne smo šteli tudi izmerjene koncentracije z odstopanjem ± 10 % glede na priporočena terapevtska območja, prav tako smo pri ugotavljanju ustreznosti izmerjene koncentracije upoštevali zdravnikovo mnenje.</p>
+               <p>
+                  <sup>3</sup> Gre za oceno oziroma interpolacijo, ki temelji na predpostavkah, da je bolnik ustrezne koncentracije ciklosporina v krvi vzdrževal v celotnem vmesnem obdobju, če sta bili dve zaporedni meritvi koncentracije ciklosporina v krvi ustrezni in se v vmesnem obdobju tako odmerni režim kot tudi sočasna terapija nista spreminjala. Ob tem se predpostavlja tudi ustrezna adherenca bolnika, ki pa smo jo v raziskavi preverjali zgolj s pogovorom z bolnikom.</p>
+               <p>
+                  <sup>4</sup> Interakcijo podatkovna baza Lexicomp označuje kot X ali D. Ugotovljena zdravila so bila: rosuvastatin, atorvastatin, diltiazem, karvedilol, spironolakton, natrijev naproksenat, etorikoksib, klorokin. Tovrstna zdravila so bila v opazovalnem obdobju predpisana pri 5 bolnikih, v intervencijskem obdobju pa pri 4 bolnikih.</p>
+               <p>
+                  <sup>5</sup> Namerna iatrogeno povzročena interakcija z namenom zvišanja koncentracije ciklosporina v krvi ter posledično znižanja potrebnega odmerka zdravila. V obeh zabeleženih primerih gre za interakcijo z diltiazemom.</p>
+               <p>
+                  <sup>6</sup> Neželeni učinki so se izrazili pri 3 bolnikih, in sicer: glavobol, tremor, bolečine v mišicah in sklepih, slabost, hujšanje, povišanje krvnega tlaka, gingivitis, hiperplazija dlesni.</p>
+            </table-wrap-foot>
+         </table-wrap>
+         <p>Najpomembnejši spremljani parameter je bilo število meritev C<sub>0</sub>, ki so bile v terapevtskem območju. Statistična analiza je pokazala, da kljub opazni razliki v deležu ustreznih meritev, v opazovalnem obdobju 9/24 ter v intervencijskem obdobju 12/18, razlika med obdobjema ni bila statistično značilna (p = 0,119). Iz deleža ustreznih meritev C<sub>0</sub> je sledila ocena naslednjega parametra, in sicer povprečnega števila dni, ko so bile bolnikove koncentracije v terapevtskem območju. Razlika med deležem 37,5/90 dni (standardni odklon 36,0 in interval zaupanja 37,5 ± 24,9 dni) v opazovalnem obdobju in 70/90 dni (standardni odklon 29,2 in interval zaupanja 70 ± 19,0 dni) v intervencijskem obdobju je sicer statistično značilna (p &lt; 0,0001), vendar je potrebno poudariti, da gre pri povprečnem številu dni, ko so bile bolnikove koncentracije v terapevtskem območju, zgolj za oceno. Kot statistično neznačilna (p = 1,0) se je izkazala tudi razlika v številu meritev C<sub>0</sub>, ki jim je sledil vpis zdravnikovega mnenja v medicinsko dokumentacijo, kar je razvidno tudi iz rezultatov, saj je bil delež meritev v obeh obdobjih praktično enak.</p>
+         <p>V intervencijskem obdobju smo pripravili 21 priporočil, od teh jih je bilo v celoti ali delno upoštevanih 18 (85,7 %). Kot delno upoštevane štejemo primere, ko je zdravnik izbral enak celokupni dnevni odmerek kakor v priporočilu, vendar ga ni razdelil v dva enaka posamezna odmerka.</p>
+      </sec>
+      <sec id="s4" sec-type="Razpravljanje">
+         <label>4</label>
+         <title>Razpravljanje</title>
+         <p>V <xref ref-type="table" rid="table5">Tabeli 5</xref> je razviden napredek, ki smo ga dosegli v intervencijskem obdobju v primerjavi z opazovalnim, vendar zaradi majhnosti vzorca pri najpomembnejšem spremljanem parametru (število meritev C<sub>0</sub>, ki so bile v terapevtskem območju) ne moremo govoriti o statistično pomembnih razlikah. Z vključitvijo multidisciplinarnega tima in s spremenjenim načinom sporočanja rezultatov smo skrajšali odzivni čas od meritve do vpisa zdravnikovega mnenja v medicinsko dokumentacijo. Razlog za dolge odzivne čase v opazovalnem obdobju je, da bolniki včasih sicer oddajo v laboratoriju kri za določitev koncentracije, kasneje pa se ne oglasijo pri specialistu, ki bi vrednost odčital in interpretiral. V intervencijskem obdobju smo podatke o izmerjenih koncentracijah pridobivali aktivno in takoj pripravili priporočilo, ki ga je zdravnik prejel v roke. Na ta način se je izboljšalo sledenje podatkov in omogočil hitrejši odziv. Še vedno pa tudi v intervencijskem obdobju pri približno petini meritev v medicinski dokumentaciji ni bilo zabeleženega zdravnikovega odziva na izmerjeno koncentracijo. Razlog za to so telefonske konzultacije in obisk bolnika na oddelku zunaj dodeljenega ambulantnega termina, kar se večinoma ne zabeleži.</p>
+         <p>V opazovalnem obdobju smo opažali predvsem prenizke koncentracije ciklosporina v krvi bolnikov (12/24 meritev C<sub>0</sub>) glede na terapevtska območja, ki smo jih poskušali doseči v intervencijskem obdobju. V nekaterih primerih je bil razlog tudi klinično stanje bolnika, saj ob stabilnem stanju ali pojavu neželenih učinkov kljub prenizkim izmerjenim koncentracijam nismo povišali odmerka ciklosporina. Klinično stanje bolnika smo upoštevali tudi v intervencijskem obdobju. V kolikor je bilo bolnikovo stanje klinično stabilno in izmerjena koncentracija po zdravnikovi presoji ni bistveno odstopala od priporočene, odmerka nismo spreminjali. Kljub temu je bil v intervencijskem obdobju delež prenizkih koncentracij manjši (4/18 meritev C<sub>0</sub>). Nenamerno povišanje koncentracije ciklosporina v krvi bolnika smo v opazovalnem obdobju zasledili v enem primeru, in sicer kot posledico sočasnega uživanja grenivke. Izmerjena koncentracija ciklosporina v krvi bolnice je bila petkrat višja kot pred tem. Tudi v intervencijskem obdobju smo nenadno nenamerno povišanje koncentracije ciklosporina v krvi zasledili v enem primeru, pri čemer je bolnik navajal, da je imel drisko zaradi uživanja metformina. Drugo previsoko izmerjeno koncentracijo v intervencijskem obdobju smo zabeležili ob uvajanju terapije s ciklosporinom v klasičnem odmernem režimu 2 × 100 mg ob sočasni uporabi diltiazema v odmerku 3 × 60 mg. To je pri bolniku povzročilo previsoke koncentracije ciklosporina v krvi, zato smo terapijo ustrezno prilagodili. Zanimiva je tudi ugotovitev, da izraženost neželenih učinkov ni nujno povezana s previsokimi koncentracijami ciklosporina v krvi. Ugotovili smo, da so med opazovanimi bolniki zdravljenje s ciklosporinom bolje prenašali moški kot ženske. V opazovalnem obdobju smo zabeležili 3 primere izraženih neželenih učinkov ciklosporina. V dveh primerih je šlo za bolnici, ki kljub subterapevtskim koncentracijam ciklosporina v krvi zdravljenja nista prenašali, zaradi česar smo zdravljenje s ciklosporinom zaključili. Tretji primer je bil bolnik, čigar koncentracije ciklosporina v krvi so bile sicer ustrezne, vendar je vseeno prišlo do pojava neželenih učinkov. Le-ti so po kratki prekinitvi zdravljenja (14 dni) izzveneli. Nato smo ciklosporin ponovno uvedli. V intervencijskem obdobju smo pri 2 bolnikih namerno uvedli diltiazem, ki z inhibiranjem CYP3A4 poviša koncentracijo ciklosporina v krvi. Za takšno sočasno zdravljenje gre pogosto pri nefroloških bolnikih, saj se zaradi zvišanja koncentracije zdravila v krvi omogoča jemanje manjših odmerkov, hkrati se zmanjšuje proteinurija, s čimer se dodatno preprečuje poslabšanje delovanja ledvic. Sočasno zdravljenje s statini smo v intervencijskem obdobju bolje vodili, in sicer smo potencialno neprimerne statine zamenjali s primernejšimi alternativami ter prilagodili odmerke, kadar je bilo to potrebno. Pri pregledu terapije vključenih bolnikov sta bila namreč najpogosteje predpisana atorvastatin ali rosuvastatin v polnem odmerku, kar je pri zdravljenju s ciklosporinom kontraindicirano.</p>
+         <p>Delež izmerjenih koncentracij znotraj terapevtskih območij je bil naš najpomembnejši opazovani parameter, s katerim smo vrednotili uspešnost intervencijskega obdobja in koristnost programa DoseMe®. Že pred pričetkom raziskave smo pripravili preglednico s terapevtskimi območji in preglednico z zdravilnimi učinkovinami, ki vstopajo v interakcijo s ciklosporinom ter ju izročili vsem vključenim zdravnikom. Bolniki so bili o poteku raziskave obveščeni pred začetkom opazovalnega obdobja in so bili med celotno raziskavo izpostavljeni enakim okoliščinam. S stališča bolnika se sam potek zdravljenja ni spreminjal, edina razlika med obema obdobjema je bila vključitev kliničnega farmacevta in uporaba programa DoseMe®, pri čemer smo v intervencijskem obdobju dosegli boljše rezultate kot v opazovalnem. Ugotovitve nakazujejo koristnost farmakokinetičnega programa DoseMe® pri individualizaciji zdravljenja s ciklosporinom.</p>
+         <p>Kot poglavitno omejitev raziskave je potrebno omeniti nizko število vključenih bolnikov ter kratko obdobje spremljanja. Zaradi raznolikih indikacij je bila naša opazovana populacija heterogena, hkrati pa je bil zaradi ambulantno vodenega zdravljenja tudi nadzor nad bolniki manjši, kot bi bil ob hospitalizaciji. Večina trenutno dostopnih člankov obravnava tematiko terapevtskega spremljanja koncentracij ciklosporina pri bolnikih po presaditvah predvsem na področju nefrologije. Koristnost te storitve so že prepoznali, dileme pa so trenutno predvsem na področju iskanja najprimernejših časovnih točk za odvzem krvi za določitev koncentracije ciklosporina v krvi, ki najbolje korelira z izpostavljenostjo ciklosporinu in posledično doseganjem terapevtskih ter preprečevanjem neželenih učinkov. Drugo aktualno področje pa je ustreznost laboratorijskih metod za določanje koncentracije ciklosporina v krvi. Znano je namreč, da se rezultati pridobljeni z različnimi metodami med seboj razlikujejo. Raziskave, ki bi se specifično ukvarjale z uporabo računalniškega farmakokinetičnega programa pri optimizaciji zdravljenja s ciklosporinom, ne poznamo. Prav tako je zelo malo informacij o uporabi ciklosporina pri avtoimunskih boleznih, zato je naša raziskava novost in prinaša pomembne rezultate na ravni pilotnega pristopa.</p>
+      </sec>
+      <sec id="s5" sec-type="Zaključek">
+         <label>5</label>
+         <title>Zaključek</title>
+         <p>Naša raziskava je nakazala prednosti optimizacije zdravljenja s ciklosporinom s farmakokinetičnim programom, vendar zaradi omejene velikosti vzorca ne moremo govoriti o statistično pomembnih razlikah. Ob pregledu rezultatov lahko zaključimo, da smo v intervencijskem obdobju sicer dosegli večje število koncentracij v terapevtskem območju, prav tako tudi celokupno število dni, ko smo pri bolnikih te koncentracije vzdrževali. S temi dejavnostmi nameravamo nadaljevati tudi v prihodnje, saj je spremljanje v daljšem obdobju ključnega pomena za ovrednotenje uspešnosti ukrepa. Kljub majhnemu številu vključenih bolnikov se je farmakokinetični program DoseMe® izkazal kot uporaben pripomoček tudi pri populaciji bolnikov z avtoimunskimi boleznimi. Za boljše sodelovanje bolnikov pri zdravljenju smo pripravili zloženko z vsemi bistvenimi informacijami glede zdravljenja s ciklosporinom. Na osnovi izsledkov raziskave smo pripravili protokol za odmerjanje in spremljanje koncentracij ciklosporina v krvi pri bolnikih z avtoimunskimi boleznimi, ki ga bomo vključili v redno klinično prakso v UKC Maribor.</p>
+      </sec>
+   </body>
+   <back>
+      <ref-list>
+         <ref id="b1">
+            <label>1. </label>
+            <mixed-citation publication-type="book">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Oellerich</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Dasgupta</surname>
+                     <given-names>A</given-names>
+                  </name>
+                    </person-group>. 
+                    <source>Personalized Immunosuppression in Transplantation: Role of Biomarker Monitoring and Therapeutic Drug Monitoring</source>. 
+                    <publisher-loc>Waltham</publisher-loc>: 
+                    <publisher-name>Elsevier</publisher-name>; 
+                    <year>2016</year>. pp. 
+                    <fpage>1</fpage>–
+                    <lpage>51</lpage>.
+                </mixed-citation>
+         </ref>
+         <ref id="b2">
+            <label>2. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Azzi</surname>
+                     <given-names>JR</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Sayegh</surname>
+                     <given-names>MH</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Mallat</surname>
+                     <given-names>SG</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Calcineurin inhibitors: 40 years later, can’t live without ...</article-title>. 
+                    <source>J Immunol</source>. 
+                    <year>2013</year>
+                    <month>Dec</month>;
+                    <volume>191</volume>(
+                    <issue>12</issue>):
+                    <fpage>5785</fpage>–
+                    <lpage>91</lpage>. 
+                    <pub-id pub-id-type="doi">10.4049/jimmunol.1390055</pub-id>
+                    <pub-id pub-id-type="pmid">24319282</pub-id>
+                    <issn>0022-1767</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b3">
+            <label>3. </label>
+            <mixed-citation publication-type="webpage">
+                    <person-group person-group-type="author"> 
+                        <collab/>  
+                    </person-group>.
+                    <source>Povzetek glavnih značilnosti zdravila Sandimmun Neoral</source>.
+                    [<date-in-citation content-type="access-date" iso-8601-date="2018-01-10">cited 2018 Jan 10</date-in-citation>].
+                    <comment>Available from:<uri>http://www.cbz.si/ZZZS/pao/bazazdr2.nsf/o/15F9EEB8ACC17C2AC12579C2003F5926/$File/s-015812.pdf</uri>
+               </comment>.
+                </mixed-citation>
+         </ref>
+         <ref id="b4">
+            <label>4. </label>
+            <mixed-citation publication-type="webpage">
+                    <person-group person-group-type="author"> 
+                        <collab/>  
+                    </person-group>.
+                    <source>Podatkovna baza Micromedex: Cyclosporine</source>.
+                    [<date-in-citation content-type="access-date" iso-8601-date="2018-01-10">cited 2018 Jan 10</date-in-citation>]. 
+                    <comment>Available from:<uri>https://www.micromedexsolutions.com/home/dispatch</uri>
+               </comment>.
+                </mixed-citation>
+         </ref>
+         <ref id="b5">
+            <label>5. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Barbarino</surname>
+                     <given-names>JM</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Staatz</surname>
+                     <given-names>CE</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Venkataramanan</surname>
+                     <given-names>R</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Klein</surname>
+                     <given-names>TE</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Altman</surname>
+                     <given-names>RB</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>PharmGKB summary: cyclosporine and tacrolimus pathways</article-title>. 
+                    <source>Pharmacogenet Genomics</source>. 
+                    <year>2013</year>
+                    <month>Oct</month>;
+                    <volume>23</volume>(
+                    <issue>10</issue>):
+                    <fpage>563</fpage>–
+                    <lpage>85</lpage>. 
+                    <pub-id pub-id-type="doi">10.1097/FPC.0b013e328364db84</pub-id>
+                    <pub-id pub-id-type="pmid">23922006</pub-id>
+                    <issn>1744-6872</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b6">
+            <label>6. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Finch</surname>
+                     <given-names>A</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Pillans</surname>
+                     <given-names>P</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>P-glycoprotein and its role in drug-drug interactions</article-title>. 
+                    <source>Aust Prescr</source>. 
+                    <year>2014</year>;
+                    <volume>37</volume>(
+                    <issue>4</issue>):
+                    <fpage>137</fpage>–
+                    <lpage>9</lpage>. 
+                    <pub-id pub-id-type="doi">10.18773/austprescr.2014.050</pub-id>
+                    <issn>0312-8008</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b7">
+            <label>7. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Zheng</surname>
+                     <given-names>S</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Tasnif</surname>
+                     <given-names>Y</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Hebert</surname>
+                     <given-names>MF</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Davis</surname>
+                     <given-names>CL</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Shitara</surname>
+                     <given-names>Y</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Calamia</surname>
+                     <given-names>JC</given-names>
+                  </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>CYP3A5 gene variation influences cyclosporine A metabolite formation and renal cyclosporine disposition</article-title>. 
+                    <source>Transplantation</source>. 
+                    <year>2013</year>
+                    <month>Mar</month>;
+                    <volume>95</volume>(
+                    <issue>6</issue>):
+                    <fpage>821</fpage>–
+                    <lpage>7</lpage>. 
+                    <pub-id pub-id-type="doi">10.1097/TP.0b013e31827e6ad9</pub-id>
+                    <pub-id pub-id-type="pmid">23354298</pub-id>
+                    <issn>0041-1337</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b8">
+            <label>8. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Zhu</surname>
+                     <given-names>HJ</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Yuan</surname>
+                     <given-names>SH</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Fang</surname>
+                     <given-names>Y</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Sun</surname>
+                     <given-names>XZ</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Kong</surname>
+                     <given-names>H</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Ge</surname>
+                     <given-names>WH</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>The effect of CYP3A5 polymorphism on dose-adjusted cyclosporine concentration in renal transplant recipients: a meta-analysis</article-title>. 
+                    <source>Pharmacogenomics J</source>. 
+                    <year>2011</year>
+                    <month>Jun</month>;
+                    <volume>11</volume>(
+                    <issue>3</issue>):
+                    <fpage>237</fpage>–
+                    <lpage>46</lpage>. 
+                    <pub-id pub-id-type="doi">10.1038/tpj.2010.26</pub-id>
+                    <pub-id pub-id-type="pmid">20368718</pub-id>
+                    <issn>1470-269X</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b9">
+            <label>9. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Maezono</surname>
+                     <given-names>S</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Sugimoto</surname>
+                     <given-names>K</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Sakamoto</surname>
+                     <given-names>K</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Ohmori</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Hishikawa</surname>
+                     <given-names>S</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Mizuta</surname>
+                     <given-names>K</given-names>
+                  </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>Elevated blood concentrations of calcineurin inhibitors during diarrheal episode in pediatric liver transplant recipients: involvement of the suppression of intestinal cytochrome P450 3A and P-glycoprotein</article-title>. 
+                    <source>Pediatr Transplant</source>. 
+                    <year>2005</year>
+                    <month>Jun</month>;
+                    <volume>9</volume>(
+                    <issue>3</issue>):
+                    <fpage>315</fpage>–
+                    <lpage>23</lpage>. 
+                    <pub-id pub-id-type="doi">10.1111/j.1399-3046.2005.00315.x</pub-id>
+                    <pub-id pub-id-type="pmid">15910387</pub-id>
+                    <issn>1397-3142</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b10">
+            <label>10. </label>
+            <mixed-citation publication-type="webpage">
+                    <person-group person-group-type="author"> 
+                        <collab/>  
+                    </person-group>.
+                    <source>Podatkovna baza UpToDate: Cyclosporine</source>.
+                    [<date-in-citation content-type="access-date" iso-8601-date="2018-01-10">cited 2018 Jan 10</date-in-citation>]. 
+                    <comment>Available from:<uri>https://www.uptodate.com/contents/search</uri>
+               </comment>.
+                </mixed-citation>
+         </ref>
+         <ref id="b11">
+            <label>11. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Kiani</surname>
+                     <given-names>J</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Imam</surname>
+                     <given-names>SZ</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Medicinal importance of grapefruit juice and its interaction with various drugs</article-title>. 
+                    <source>Nutr J</source>. 
+                    <year>2007</year>
+                    <month>Oct</month>;
+                    <volume>6</volume>(
+                    <issue>1</issue>):
+                    <fpage>33</fpage>. 
+                    <pub-id pub-id-type="doi">10.1186/1475-2891-6-33</pub-id>
+                    <pub-id pub-id-type="pmid">17971226</pub-id>
+                    <issn>1475-2891</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b12">
+            <label>12. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Colombo</surname>
+                     <given-names>D</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Lunardon</surname>
+                     <given-names>L</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Bellia</surname>
+                     <given-names>G</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Cyclosporine and herbal supplement interactions</article-title>. 
+                    <source>J Toxicol</source>. 
+                    <year>2014</year>;
+                    <volume>2014</volume>:
+                    <fpage>145325</fpage>. 
+                    <pub-id pub-id-type="doi">10.1155/2014/145325</pub-id>
+                    <pub-id pub-id-type="pmid">24527031</pub-id>
+                    <issn>1687-8191</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b13">
+            <label>13. </label>
+            <mixed-citation publication-type="book">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>West</surname>
+                     <given-names>SG</given-names>
+                  </name>
+                    </person-group>. 
+                    <source>Rheumatology Secrets</source>. 
+                    <publisher-loc>Philadelphia</publisher-loc>: 
+                    <publisher-name>Elsevier</publisher-name>; 
+                    <year>2015</year>. pp. 
+                    <fpage>627</fpage>–
+                    <lpage>32</lpage>.
+                </mixed-citation>
+         </ref>
+         <ref id="b14">
+            <label>14. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Russo</surname>
+                     <given-names>E</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Scicchitano</surname>
+                     <given-names>F</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Whalley</surname>
+                     <given-names>BJ</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Mazzitello</surname>
+                     <given-names>C</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Ciriaco</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Esposito</surname>
+                     <given-names>S</given-names>
+                  </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>Hypericum perforatum: pharmacokinetic, mechanism of action, tolerability, and clinical drug-drug interactions</article-title>. 
+                    <source>Phytother Res</source>. 
+                    <year>2014</year>
+                    <month>May</month>;
+                    <volume>28</volume>(
+                    <issue>5</issue>):
+                    <fpage>643</fpage>–
+                    <lpage>55</lpage>. 
+                    <pub-id pub-id-type="doi">10.1002/ptr.5050</pub-id>
+                    <pub-id pub-id-type="pmid">23897801</pub-id>
+                    <issn>0951-418X</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b15">
+            <label>15. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Harris</surname>
+                     <given-names>RZ</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Jang</surname>
+                     <given-names>GR</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Tsunoda</surname>
+                     <given-names>S</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Dietary effects on drug metabolism and transport</article-title>. 
+                    <source>Clin Pharmacokinet</source>. 
+                    <year>2003</year>;
+                    <volume>42</volume>(
+                    <issue>13</issue>):
+                    <fpage>1071</fpage>–
+                    <lpage>88</lpage>. 
+                    <pub-id pub-id-type="doi">10.2165/00003088-200342130-00001</pub-id>
+                    <pub-id pub-id-type="pmid">14531721</pub-id>
+                    <issn>0312-5963</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b16">
+            <label>16. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Fujita</surname>
+                     <given-names>K</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Food-drug interactions via human cytochrome P450 3A (CYP3A)</article-title>. 
+                    <source>Drug Metabol Drug Interact</source>. 
+                    <year>2004</year>;
+                    <volume>20</volume>(
+                    <issue>4</issue>):
+                    <fpage>195</fpage>–
+                    <lpage>217</lpage>. 
+                    <pub-id pub-id-type="doi">10.1515/DMDI.2004.20.4.195</pub-id>
+                    <pub-id pub-id-type="pmid">15663291</pub-id>
+                    <issn>0792-5077</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b17">
+            <label>17. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Tsunoda</surname>
+                     <given-names>SM</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Harris</surname>
+                     <given-names>RZ</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Christians</surname>
+                     <given-names>U</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Velez</surname>
+                     <given-names>RL</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Freeman</surname>
+                     <given-names>RB</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Benet</surname>
+                     <given-names>LZ</given-names>
+                  </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>Red wine decreases cyclosporine bioavailability</article-title>. 
+                    <source>Clin Pharmacol Ther</source>. 
+                    <year>2001</year>
+                    <month>Nov</month>;
+                    <volume>70</volume>(
+                    <issue>5</issue>):
+                    <fpage>462</fpage>–
+                    <lpage>7</lpage>. 
+                    <pub-id pub-id-type="doi">10.1016/S0009-9236(01)70992-7</pub-id>
+                    <pub-id pub-id-type="pmid">11719733</pub-id>
+                    <issn>0009-9236</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b18">
+            <label>18. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Vari</surname>
+                     <given-names>CE</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Tero-Vescan</surname>
+                     <given-names>A</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Imre</surname>
+                     <given-names>S</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Muntean</surname>
+                     <given-names>DL</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Therapeutic Drug Monitoring of Cyclosporine in Transplanted Patients. Possibilities, Controversy, Causes for Failure</article-title>. 
+                    <source>Farmacia</source>. 
+                    <year>2012</year>;
+                    <volume>60</volume>:
+                    <fpage>595</fpage>–
+                    <lpage>601</lpage>.
+                    <issn>0014-8237</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b19">
+            <label>19. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Jorga</surname>
+                     <given-names>A</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Holt</surname>
+                     <given-names>DW</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Johnston</surname>
+                     <given-names>A</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Therapeutic drug monitoring of cyclosporine</article-title>. 
+                    <source>Transplant Proc</source>. 
+                    <year>2004</year>
+                    <month>Mar</month>;
+                    <volume>36</volume>(
+                    <issue>2</issue>
+                    <supplement>Suppl</supplement>):
+                    <fpage>396S</fpage>–
+                    <lpage>403S</lpage>. 
+                    <pub-id pub-id-type="doi">10.1016/j.transproceed.2004.01.013</pub-id>
+                    <pub-id pub-id-type="pmid">15041374</pub-id>
+                    <issn>0041-1345</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b20">
+            <label>20. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Citterio</surname>
+                     <given-names>F</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Evolution of the therapeutic drug monitoring of cyclosporine</article-title>. 
+                    <source>Transplant Proc</source>. 
+                    <year>2004</year>
+                    <month>Mar</month>;
+                    <volume>36</volume>(
+                    <issue>2</issue>
+                    <supplement>Suppl</supplement>):
+                    <fpage>420S</fpage>–
+                    <lpage>5S</lpage>. 
+                    <pub-id pub-id-type="doi">10.1016/j.transproceed.2004.01.054</pub-id>
+                    <pub-id pub-id-type="pmid">15041378</pub-id>
+                    <issn>0041-1345</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b21">
+            <label>21. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Büchler</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Johnston</surname>
+                     <given-names>A</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Seeking optimal prescription of cyclosporine ME</article-title>. 
+                    <source>Ther Drug Monit</source>. 
+                    <year>2005</year>
+                    <month>Feb</month>;
+                    <volume>27</volume>(
+                    <issue>1</issue>):
+                    <fpage>3</fpage>–
+                    <lpage>6</lpage>. 
+                    <pub-id pub-id-type="doi">10.1097/00007691-200502000-00002</pub-id>
+                    <pub-id pub-id-type="pmid">15665738</pub-id>
+                    <issn>0163-4356</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b22">
+            <label>22. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Einecke</surname>
+                     <given-names>G</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Mai</surname>
+                     <given-names>I</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Diekmann</surname>
+                     <given-names>F</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Fritsche</surname>
+                     <given-names>L</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Boehler</surname>
+                     <given-names>T</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Neumayer</surname>
+                     <given-names>HH</given-names>
+                  </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>Optimizing Neoral therapeutic drug monitoring with cyclosporine trough (C(
+                        <sub>0</sub>)) and C(
+                        <sub>2</sub>) concentrations in stable renal allograft recipients
+                    </article-title>. 
+                    <source>Transplant Proc</source>. 
+                    <year>2001</year>
+                    <month>Nov-Dec</month>;
+                    <volume>33</volume>(
+                    <issue>7-8</issue>):
+                    <fpage>3102</fpage>–
+                    <lpage>3</lpage>. 
+                    <pub-id pub-id-type="doi">10.1016/S0041-1345(01)02322-3</pub-id>
+                    <pub-id pub-id-type="pmid">11750333</pub-id>
+                    <issn>0041-1345</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b23">
+            <label>23. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Durlik</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Rauch</surname>
+                     <given-names>C</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Thyroff-Friesinger</surname>
+                     <given-names>U</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Streu</surname>
+                     <given-names>H</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Paczek</surname>
+                     <given-names>L</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Comparison of peak and trough level monitoring of cyclosporine treatment using two modern cyclosporine preparations</article-title>. 
+                    <source>Transplant Proc</source>. 
+                    <year>2003</year>
+                    <month>Jun</month>;
+                    <volume>35</volume>(
+                    <issue>4</issue>):
+                    <fpage>1304</fpage>–
+                    <lpage>7</lpage>. 
+                    <pub-id pub-id-type="doi">10.1016/S0041-1345(03)00516-5</pub-id>
+                    <pub-id pub-id-type="pmid">12826144</pub-id>
+                    <issn>0041-1345</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b24">
+            <label>24. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Maziers</surname>
+                     <given-names>N</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Bulpa</surname>
+                     <given-names>P</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Jamart</surname>
+                     <given-names>J</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Delaunois</surname>
+                     <given-names>L</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Eucher</surname>
+                     <given-names>P</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Evrard</surname>
+                     <given-names>P</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Correlations between cyclosporine concentrations at 2 hours post-dose and trough levels with functional outcomes in de novo lung transplant recipients</article-title>. 
+                    <source>Transplant Proc</source>. 
+                    <year>2012</year>
+                    <month>Nov</month>;
+                    <volume>44</volume>(
+                    <issue>9</issue>):
+                    <fpage>2880</fpage>–
+                    <lpage>4</lpage>. 
+                    <pub-id pub-id-type="doi">10.1016/j.transproceed.2012.09.081</pub-id>
+                    <pub-id pub-id-type="pmid">23146546</pub-id>
+                    <issn>0041-1345</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b25">
+            <label>25. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Saint-Marcoux</surname>
+                     <given-names>F</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Rousseau</surname>
+                     <given-names>A</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Le Meur</surname>
+                     <given-names>Y</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Estenne</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Knoop</surname>
+                     <given-names>C</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Debord</surname>
+                     <given-names>J</given-names>
+                  </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>Influence of sampling-time error on cyclosporine measurements nominally at 2 hours after administration</article-title>. 
+                    <source>Clin Chem</source>. 
+                    <year>2003</year>
+                    <month>May</month>;
+                    <volume>49</volume>(
+                    <issue>5</issue>):
+                    <fpage>813</fpage>–
+                    <lpage>5</lpage>. 
+                    <pub-id pub-id-type="doi">10.1373/49.5.813</pub-id>
+                    <pub-id pub-id-type="pmid">12709377</pub-id>
+                    <issn>0009-9147</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b26">
+            <label>26. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Wacke</surname>
+                     <given-names>R</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Drewelow</surname>
+                     <given-names>B</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Kundt</surname>
+                     <given-names>G</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Hehl</surname>
+                     <given-names>EM</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Bast</surname>
+                     <given-names>R</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Seiter</surname>
+                     <given-names>H</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Cyclosporine A: peak or trough level monitoring in renal transplant recipients?</article-title>
+                    <source>Transplant Proc</source>. 
+                    <year>2001</year>
+                    <month>Nov-Dec</month>;
+                    <volume>33</volume>(
+                    <issue>7-8</issue>):
+                    <fpage>3122</fpage>–
+                    <lpage>3</lpage>. 
+                    <pub-id pub-id-type="doi">10.1016/S0041-1345(01)02331-4</pub-id>
+                    <pub-id pub-id-type="pmid">11750342</pub-id>
+                    <issn>0041-1345</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b27">
+            <label>27. </label>
+            <mixed-citation publication-type="webpage">
+                    <person-group person-group-type="author"> 
+                        <collab/>  
+                    </person-group>.
+                    <source>Clinical Laboratory Medicine: Cyclosporin A</source>.
+                    [<date-in-citation content-type="access-date" iso-8601-date="2018-01-10">cited 2018 Jan 10</date-in-citation>]. 
+                    <comment>Available from:<uri>http://pathlabs.rlbuht.nhs.uk/overfrm.htm</uri>
+               </comment>.
+                </mixed-citation>
+         </ref>
+         <ref id="b28">
+            <label>28. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Tesfaye</surname>
+                     <given-names>H</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Prusa</surname>
+                     <given-names>R</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Jedlickova</surname>
+                     <given-names>B</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Segethova</surname>
+                     <given-names>J</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Cyclosporine use in miscellaneous clinical settings other than organ transplantations: is there any evidence for target levels?</article-title>
+                    <source>Ann Transplant</source>. 
+                    <year>2008</year>;
+                    <volume>13</volume>(
+                    <issue>4</issue>):
+                    <fpage>34</fpage>–
+                    <lpage>40</lpage>.
+                    <pub-id pub-id-type="pmid">19034221</pub-id>
+                    <issn>1425-9524</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b29">
+            <label>29. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Ekberg</surname>
+                     <given-names>H</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Tedesco-Silva</surname>
+                     <given-names>H</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Demirbas</surname>
+                     <given-names>A</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Vítko</surname>
+                     <given-names>S</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Nashan</surname>
+                     <given-names>B</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Gürkan</surname>
+                     <given-names>A</given-names>
+                  </name>, 
+                        <etal>et al</etal>; 
+                        <collab>ELITE-Symphony Study</collab>
+                    </person-group>. 
+                    <article-title>Reduced exposure to calcineurin inhibitors in renal transplantation</article-title>. 
+                    <source>N Engl J Med</source>. 
+                    <year>2007</year>
+                    <month>Dec</month>;
+                    <volume>357</volume>(
+                    <issue>25</issue>):
+                    <fpage>2562</fpage>–
+                    <lpage>75</lpage>. 
+                    <pub-id pub-id-type="doi">10.1056/NEJMoa067411</pub-id>
+                    <pub-id pub-id-type="pmid">18094377</pub-id>
+                    <issn>0028-4793</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b30">
+            <label>30. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Schiff</surname>
+                     <given-names>J</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Cole</surname>
+                     <given-names>E</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Cantarovich</surname>
+                     <given-names>M</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Therapeutic monitoring of calcineurin inhibitors for the nephrologist</article-title>. 
+                    <source>Clin J Am Soc Nephrol</source>. 
+                    <year>2007</year>
+                    <month>Mar</month>;
+                    <volume>2</volume>(
+                    <issue>2</issue>):
+                    <fpage>374</fpage>–
+                    <lpage>84</lpage>. 
+                    <pub-id pub-id-type="doi">10.2215/CJN.03791106</pub-id>
+                    <pub-id pub-id-type="pmid">17699437</pub-id>
+                    <issn>1555-9041</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b31">
+            <label>31. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Ytterberg</surname>
+                     <given-names>SR</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Treatment of refractory polymyositis and dermatomyositis</article-title>. 
+                    <source>Curr Rheumatol Rep</source>. 
+                    <year>2006</year>
+                    <month>Jun</month>;
+                    <volume>8</volume>(
+                    <issue>3</issue>):
+                    <fpage>167</fpage>–
+                    <lpage>73</lpage>. 
+                    <pub-id pub-id-type="doi">10.1007/s11926-996-0021-7</pub-id>
+                    <pub-id pub-id-type="pmid">16901073</pub-id>
+                    <issn>1523-3774</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b32">
+            <label>32. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Ogawa</surname>
+                     <given-names>H</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Kameda</surname>
+                     <given-names>H</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Amano</surname>
+                     <given-names>K</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Takeuchi</surname>
+                     <given-names>T</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Efficacy and safety of cyclosporine A in patients with refractory systemic lupus erythematosus in a daily clinical practice</article-title>. 
+                    <source>Lupus</source>. 
+                    <year>2010</year>
+                    <month>Feb</month>;
+                    <volume>19</volume>(
+                    <issue>2</issue>):
+                    <fpage>162</fpage>–
+                    <lpage>9</lpage>. 
+                    <pub-id pub-id-type="doi">10.1177/0961203309350320</pub-id>
+                    <pub-id pub-id-type="pmid">19952069</pub-id>
+                    <issn>0961-2033</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b33">
+            <label>33. </label>
+            <mixed-citation publication-type="book">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Tsokos</surname>
+                     <given-names>GC</given-names>
+                  </name>
+                    </person-group>. 
+                    <source>Systemic Lupus Erythematosus: Basic, Applied and Clinical Aspects</source>. 
+                    <publisher-loc>San Diego</publisher-loc>: 
+                    <publisher-name>Elsevier</publisher-name>; 
+                    <year>2016</year>. pp. 
+                    <fpage>533</fpage>–
+                    <lpage>9</lpage>.
+                </mixed-citation>
+         </ref>
+         <ref id="b34">
+            <label>34. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Chi</surname>
+                     <given-names>W</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Yang</surname>
+                     <given-names>P</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Zhu</surname>
+                     <given-names>X</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Wang</surname>
+                     <given-names>Y</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Chen</surname>
+                     <given-names>L</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Huang</surname>
+                     <given-names>X</given-names>
+                  </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>Production of interleukin-17 in Behcet’s disease is inhibited by cyclosporin A</article-title>. 
+                    <source>Mol Vis</source>. 
+                    <year>2010</year>
+                    <month>May</month>;
+                    <volume>16</volume>:
+                    <fpage>880</fpage>–
+                    <lpage>6</lpage>.
+                    <pub-id pub-id-type="pmid">20508866</pub-id>
+                    <issn>1090-0535</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b35">
+            <label>35. </label>
+            <mixed-citation publication-type="webpage">
+                    <person-group person-group-type="author">
+                        <collab>Cyclosporine Clinic</collab>
+                    </person-group>. 
+                    <source>Guidelines For Monitoring Physicians</source>.
+                    [<date-in-citation content-type="access-date" iso-8601-date="2018-01-10">cited 2018 Jan 10</date-in-citation>]. 
+                    <comment>Available from:<uri>http://mpap.vch.ca/wp-content/uploads/sites/16/2014/05/Cyclosporine-Physician-Guidelines.pdf</uri>
+               </comment>.
+                </mixed-citation>
+         </ref>
+         <ref id="b36">
+            <label>36. </label>
+            <mixed-citation publication-type="webpage">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Bergner</surname>
+                     <given-names>R</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Landmann</surname>
+                     <given-names>T</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Tuleweit</surname>
+                     <given-names>A</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Abdel Mutallib</surname>
+                     <given-names>S</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Geibel</surname>
+                     <given-names>G</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Uppenkamp</surname>
+                     <given-names>M</given-names>
+                  </name>
+                    </person-group>. 
+                    <source>Ist die Bestimmung von Cyclosporin Spiegeln in der Rheumatologie erforderlich?</source>
+                    [<date-in-citation content-type="access-date" iso-8601-date="2018-01-10">cited 2018 Jan 10</date-in-citation>]. 
+                    <comment>Available from:<uri>http://dgrh-kongress.de/fileadmin/media/Die_DGRH/Jahreskongresse/Abstracts_2008_PDFs/K08_RA2.08.pdf</uri>
+               </comment>.
+                </mixed-citation>
+         </ref>
+         <ref id="b37">
+            <label>37. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Waldman</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Austin</surname>
+                     <given-names>HA</given-names>
+                     <suffix>3rd</suffix>
+                  </name>
+                    </person-group>. 
+                    <article-title>Treatment of idiopathic membranous nephropathy</article-title>. 
+                    <source>J Am Soc Nephrol</source>. 
+                    <year>2012</year>
+                    <month>Oct</month>;
+                    <volume>23</volume>(
+                    <issue>10</issue>):
+                    <fpage>1617</fpage>–
+                    <lpage>30</lpage>. 
+                    <pub-id pub-id-type="doi">10.1681/ASN.2012010058</pub-id>
+                    <pub-id pub-id-type="pmid">22859855</pub-id>
+                    <issn>1046-6673</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b38">
+            <label>38. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Merlin</surname>
+                     <given-names>T</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Membranous nephropathy: role of cyclosporin therapy</article-title>. 
+                    <source>Nephrology (Carlton)</source>. 
+                    <year>2006</year>;
+                    <volume>11</volume>(
+                    <issue>S1</issue>):
+                    <fpage>S166</fpage>–
+                    <lpage>9</lpage>. 
+                    <pub-id pub-id-type="doi">10.1111/j.1440-1797.2006.00634.x</pub-id>
+                    <issn>1320-5358</issn>
+                    
+                </mixed-citation>
+         </ref>
+         <ref id="b39">
+            <label>39. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Ghiggeri</surname>
+                     <given-names>GM</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Catarsi</surname>
+                     <given-names>P</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Scolari</surname>
+                     <given-names>F</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Caridi</surname>
+                     <given-names>G</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Bertelli</surname>
+                     <given-names>R</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Carrea</surname>
+                     <given-names>A</given-names>
+                  </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>Cyclosporine in patients with steroid-resistant nephrotic syndrome: an open-label, nonrandomized, retrospective study</article-title>. 
+                    <source>Clin Ther</source>. 
+                    <year>2004</year>
+                    <month>Sep</month>;
+                    <volume>26</volume>(
+                    <issue>9</issue>):
+                    <fpage>1411</fpage>–
+                    <lpage>8</lpage>. 
+                    <pub-id pub-id-type="doi">10.1016/j.clinthera.2004.09.012</pub-id>
+                    <pub-id pub-id-type="pmid">15531003</pub-id>
+                    <issn>0149-2918</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b40">
+            <label>40. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Gulati</surname>
+                     <given-names>A</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Bagga</surname>
+                     <given-names>A</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Gulati</surname>
+                     <given-names>S</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Mehta</surname>
+                     <given-names>KP</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Vijayakumar</surname>
+                     <given-names>M</given-names>
+                  </name>; 
+                        <collab>Indian Society of Pediatric Nephrology</collab>
+                    </person-group>. 
+                    <article-title>Management of steroid resistant nephrotic syndrome</article-title>. 
+                    <source>Indian Pediatr</source>. 
+                    <year>2009</year>
+                    <month>Jan</month>;
+                    <volume>46</volume>(
+                    <issue>1</issue>):
+                    <fpage>35</fpage>–
+                    <lpage>47</lpage>.
+                    <pub-id pub-id-type="pmid">19179716</pub-id>
+                    <issn>0019-6061</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b41">
+            <label>41. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Passweg</surname>
+                     <given-names>JR</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Marsh</surname>
+                     <given-names>JC</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Aplastic anemia: first-line treatment by immunosuppression and sibling marrow transplantation</article-title>. 
+                    <source>Hematology (Am Soc Hematol Educ Program)</source>. 
+                    <year>2010</year>;
+                    <volume>2010</volume>(
+                    <issue>1</issue>):
+                    <fpage>36</fpage>–
+                    <lpage>42</lpage>. 
+                    <pub-id pub-id-type="doi">10.1182/asheducation-2010.1.36</pub-id>
+                    <pub-id pub-id-type="pmid">21239768</pub-id>
+                    <issn>1520-4391</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b42">
+            <label>42. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Murphy</surname>
+                     <given-names>CC</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Greiner</surname>
+                     <given-names>K</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Plskova</surname>
+                     <given-names>J</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Duncan</surname>
+                     <given-names>L</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Frost</surname>
+                     <given-names>NA</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Forrester</surname>
+                     <given-names>JV</given-names>
+                  </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>Cyclosporine vs tacrolimus therapy for posterior and intermediate uveitis</article-title>. 
+                    <source>Arch Ophthalmol</source>. 
+                    <year>2005</year>
+                    <month>May</month>;
+                    <volume>123</volume>(
+                    <issue>5</issue>):
+                    <fpage>634</fpage>–
+                    <lpage>41</lpage>. 
+                    <pub-id pub-id-type="doi">10.1001/archopht.123.5.634</pub-id>
+                    <pub-id pub-id-type="pmid">15883282</pub-id>
+                    <issn>0003-9950</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b43">
+            <label>43. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Schmidt</surname>
+                     <given-names>S</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Pleyer</surname>
+                     <given-names>U</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Ciclosporin-Monitoring bei Patienten mit chronischer Uveitis</article-title>. 
+                    <source>Ophthalmologe</source>. 
+                    <year>2005</year>
+                    <month>Apr</month>;
+                    <volume>102</volume>(
+                    <issue>4</issue>):
+                    <fpage>349</fpage>–
+                    <lpage>54</lpage>. 
+                    <pub-id pub-id-type="doi">10.1007/s00347-005-1174-x</pub-id>
+                    <pub-id pub-id-type="pmid">15726383</pub-id>
+                    <issn>0941-293X</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b44">
+            <label>44. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Heydendael</surname>
+                     <given-names>VM</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Spuls</surname>
+                     <given-names>PI</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Ten Berge</surname>
+                     <given-names>IJ</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Opmeer</surname>
+                     <given-names>BC</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Bos</surname>
+                     <given-names>JD</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>de Rie</surname>
+                     <given-names>MA</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Cyclosporin trough levels: is monitoring necessary during short-term treatment in psoriasis? A systematic review and clinical data on trough levels</article-title>. 
+                    <source>Br J Dermatol</source>. 
+                    <year>2002</year>
+                    <month>Jul</month>;
+                    <volume>147</volume>(
+                    <issue>1</issue>):
+                    <fpage>122</fpage>–
+                    <lpage>9</lpage>. 
+                    <pub-id pub-id-type="doi">10.1046/j.1365-2133.2002.04836.x</pub-id>
+                    <pub-id pub-id-type="pmid">12100194</pub-id>
+                    <issn>0007-0963</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b45">
+            <label>45. </label>
+            <mixed-citation publication-type="webpage">
+                    <person-group person-group-type="author"> 
+                        <collab/>  
+                    </person-group>.
+                    <source>Focal segmental glomerulosclerosis: use of cyclosporin A. The CARI Guidelines – Caring for Australasians with Renal Impairment</source>. 
+                    [<date-in-citation content-type="access-date" iso-8601-date="2019-03-15">cited 2019 Mar 15</date-in-citation>].
+                    <comment>Available from:<uri>http://www.cari.org.au/Archived%20guidelines/CKD%20archived/prevention%20of%20progression/FSGS_use_of_cyclosporin_A.pdf</uri>
+               </comment>.
+                </mixed-citation>
+         </ref>
+         <ref id="b46">
+            <label>46. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Cattran</surname>
+                     <given-names>DC</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Appel</surname>
+                     <given-names>GB</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Hebert</surname>
+                     <given-names>LA</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Hunsicker</surname>
+                     <given-names>LG</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Pohl</surname>
+                     <given-names>MA</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Hoy</surname>
+                     <given-names>WE</given-names>
+                  </name>, 
+                        <etal>et al</etal>; 
+                        <collab>North America Nephrotic Syndrome Study Group</collab>
+                    </person-group>. 
+                    <article-title>A randomized trial of cyclosporine in patients with steroid-resistant focal segmental glomerulosclerosis</article-title>. 
+                    <source>Kidney Int</source>. 
+                    <year>1999</year>
+                    <month>Dec</month>;
+                    <volume>56</volume>(
+                    <issue>6</issue>):
+                    <fpage>2220</fpage>–
+                    <lpage>6</lpage>. 
+                    <pub-id pub-id-type="doi">10.1046/j.1523-1755.1999.00778.x</pub-id>
+                    <pub-id pub-id-type="pmid">10594798</pub-id>
+                    <issn>0085-2538</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b47">
+            <label>47. </label>
+            <mixed-citation publication-type="webpage">
+                    <person-group person-group-type="author"> 
+                        <collab/>  
+                    </person-group>.
+                    <source>Guidelines for the diagnosis and treatment of Myelodysplastic Syndrome and Chronic Myelomonocytic Leukemia. Nordic MDS Group</source>.
+                    [<date-in-citation content-type="access-date" iso-8601-date="2019-03-15">cited 2019 Mar 15</date-in-citation>].
+                    <comment>Available from:<uri>https://www.nmds.org/attachments/article/92/Guidelines%20for%20the%20diagnosis%20and%20treatment%20of%20MDS%20and%20CMML_17.pdf</uri>
+               </comment>.
+                </mixed-citation>
+         </ref>
+         <ref id="b48">
+            <label>48. </label>
+            <mixed-citation publication-type="book">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Clarke</surname>
+                     <given-names>W</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Dasgupta</surname>
+                     <given-names>A</given-names>
+                  </name>
+                    </person-group>. 
+                    <source>Clinical Challenges in Therapeutic Drug Monitoring</source>. 
+                    <publisher-loc>Oxford</publisher-loc>: 
+                    <publisher-name>Elsevier</publisher-name>; 
+                    <year>2016</year>.
+                </mixed-citation>
+         </ref>
+         <ref id="b49">
+            <label>49. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Morris</surname>
+                     <given-names>RG</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Cyclosporin therapeutic drug monitoring—an established service revisited</article-title>. 
+                    <source>Clin Biochem Rev</source>. 
+                    <year>2003</year>
+                    <month>May</month>;
+                    <volume>24</volume>(
+                    <issue>2</issue>):
+                    <fpage>33</fpage>–
+                    <lpage>46</lpage>.
+                    <pub-id pub-id-type="pmid">18568053</pub-id>
+                    <issn>0159-8090</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b50">
+            <label>50. </label>
+            <mixed-citation publication-type="webpage">
+                    <person-group person-group-type="author"> 
+                        <collab/>  
+                    </person-group>.
+                    <source>Therapeutisches Drug Monitoring von Cyclosporin A und Tacrolimus – Ergebnisse der Vergleichsmessungen zwischen LCMS und den bisher eingesetzten Immunoassays</source>.
+                    [<date-in-citation content-type="access-date" iso-8601-date="2018-01-10">cited 2018 Jan 10</date-in-citation>].
+                    <comment>Available from:<uri>http://www.labor-lademannbogen.de/fileadmin/_migrated/content_uploads/TDM-neu_01.pdf</uri>
+               </comment>.
+                </mixed-citation>
+         </ref>
+         <ref id="b51">
+            <label>51. </label>
+            <mixed-citation publication-type="webpage">
+                    <person-group person-group-type="author"> 
+                        <collab/>  
+                    </person-group>.
+                    <source>Immunsuppressiva – Therapeutic Drug Monitoring (TDM) mittels LC-MS/MS: Bessere Patientenführung durch exakte Analysenwerte – Cyclosporin A – Tacrolimus – Sirolimus – Everolimus</source>.
+                    [<date-in-citation content-type="access-date" iso-8601-date="2018-01-10">cited 2018 Jan 10</date-in-citation>]. 
+                    <comment>Available from:<uri>http://www.labor-lademannbogen.de/fileadmin/_migrated/content_uploads/JUNI0407_01.pdf</uri>
+               </comment>.
+                </mixed-citation>
+         </ref>
+         <ref id="b52">
+            <label>52. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Andrews</surname>
+                     <given-names>DJ</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Cramb</surname>
+                     <given-names>R</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Cyclosporin: revisions in monitoring guidelines and review of current analytical methods</article-title>. 
+                    <source>Ann Clin Biochem</source>. 
+                    <year>2002</year>
+                    <month>Sep</month>;
+                    <volume>39</volume>(
+                    <issue>Pt 5</issue>):
+                    <fpage>424</fpage>–
+                    <lpage>35</lpage>. 
+                    <pub-id pub-id-type="doi">10.1258/000456302320314430</pub-id>
+                    <pub-id pub-id-type="pmid">12227848</pub-id>
+                    <issn>0004-5632</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b53">
+            <label>53. </label>
+            <mixed-citation publication-type="webpage">
+                    <person-group person-group-type="author"> 
+                        <collab/>  
+                    </person-group>.
+                    <source>DoseMe</source>.  
+                    [<date-in-citation content-type="access-date" iso-8601-date="2018-01-10">cited 2018 Jan 10</date-in-citation>]. 
+                    <comment>Available from:<uri>https://doseme.com.au/</uri>
+               </comment>. 
+                </mixed-citation>
+         </ref>
+         <ref id="b54">
+            <label>54. </label>
+            <mixed-citation publication-type="journal">  
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Saint-Marcoux</surname>
+                     <given-names>F</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Marquet</surname>
+                     <given-names>P</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Jacqz-Aigrain</surname>
+                     <given-names>E</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Bernard</surname>
+                     <given-names>N</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Thiry</surname>
+                     <given-names>P</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Le Meur</surname>
+                     <given-names>Y</given-names>
+                  </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>Patient characteristics influencing ciclosporin pharmacokinetics and accurate Bayesian estimation of ciclosporin exposure in heart, lung and kidney transplant patients</article-title>. 
+                    <source>Clin Pharmacokinet</source>. 
+                    <year>2006</year>;
+                    <volume>45</volume>(
+                    <issue>9</issue>):
+                    <fpage>905</fpage>–
+                    <lpage>22</lpage>. 
+                    <pub-id pub-id-type="doi">10.2165/00003088-200645090-00003</pub-id>
+                    <pub-id pub-id-type="pmid">16928152</pub-id>
+                    <issn>0312-5963</issn>
+                </mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

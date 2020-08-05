@@ -1,0 +1,1318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD with MathML3 v1.1 20151215//EN" "JATS-journalpublishing1-mathml3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink"
+         dtd-version="1.1"
+         xml:lang="sl"
+         article-type="other">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher-id">Zdrav Vestn</journal-id>
+         <journal-id journal-id-type="nlm-ta">Zdrav Vestn</journal-id>
+         <journal-id journal-id-type="doi">Zdrav Vestn</journal-id>
+         <journal-title-group>
+            <journal-title>Zdravniški vestnik</journal-title>
+            <trans-title-group xml:lang="en">
+               <trans-title>Slovenian Medical Journal</trans-title>
+            </trans-title-group>
+            <abbrev-journal-title>Zdrav Vestn</abbrev-journal-title>
+         </journal-title-group>
+         <issn publication-format="ppub" pub-type="ppub">1318-0347</issn>
+         <issn publication-format="epub" pub-type="epub">1581-0224</issn>
+         <issn-l>0350-0063</issn-l>
+         <publisher>
+            <publisher-name xml:lang="sl">Slovensko zdravniško društvo</publisher-name>
+            <publisher-name xml:lang="en">Slovenian Medical Association</publisher-name>
+            <publisher-loc xml:lang="sl">Ljubljana, Slovenia</publisher-loc>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.6016/ZdravVestn.2823</article-id>
+         <article-id pub-id-type="publisher-id">2823</article-id>
+         <article-categories>
+            <subj-group subj-group-type="discipline" xml:lang="en">
+               <subject>Medicine and health sciences</subject>
+               <subj-group>
+                  <subject>Oncology</subject>
+               </subj-group>
+            </subj-group>
+            <subj-group subj-group-type="discipline" xml:lang="sl">
+               <subject>Medicina/Zdravstvo</subject>
+               <subj-group>
+                  <subject>Onkologija</subject>
+               </subj-group>
+            </subj-group>
+            <subj-group subj-group-type="article-type" xml:lang="en">
+               <subject>Short scientific article</subject>
+            </subj-group>
+            <subj-group subj-group-type="article-type" xml:lang="sl">
+               <subject>Klinični primer</subject>
+            </subj-group>
+            <subj-group subj-group-type="heading" xml:lang="sl">
+               <subject>Onkologija</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title xml:lang="sl">Karcinom Merklovih celic – izziv v ambulanti družinske medicine</article-title>
+            <trans-title-group>
+               <trans-title xml:lang="en">Merkel cell carcinoma – a challenging situation in a family medicine</trans-title>
+            </trans-title-group>
+            <alt-title alt-title-type="running-head" xml:lang="sl">Karcinom Merklovih celic</alt-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Beigot</surname>
+                  <given-names>Franc</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1">1</xref>
+               <xref ref-type="corresp" rid="corr"/>
+            </contrib>
+         </contrib-group>
+         <aff-alternatives id="aff1">
+            <aff xml:lang="sl">
+               <label>1</label>
+               <institution>Franc Beigot – dejavnost splošne medicine, Selnica ob Dravi, Slovenija</institution>
+            </aff>
+            <aff xml:lang="en">
+               <label>1</label>
+               <institution>Franc Beigot – general medical practitioner, Selnica ob Dravi, Slovenia</institution>
+            </aff>
+         </aff-alternatives>
+         <author-notes>
+            <fn fn-type="conflict" xml:lang="en">
+               <p>The authors have declared that no competing interests exist.</p>
+            </fn>
+            <fn fn-type="conflict" xml:lang="sl">
+               <p>Avtorji so izjavili, da ne obstajajo nobeni konkurenčni interesi.</p>
+            </fn>
+            <corresp id="corr">Franc Beigot, e-mail: <email xlink:type="simple"/>
+            </corresp>
+         </author-notes>
+         <pub-date pub-type="ppub">
+            <month>2</month>
+            <year>2020</year>
+         </pub-date>
+         <pub-date pub-type="epub">
+            <month>2</month>
+            <year>2020</year>
+         </pub-date>
+         <volume>89</volume>
+         <issue>1–2</issue>
+         <fpage>85</fpage>
+         <lpage>91</lpage>
+         <history>
+            <date date-type="received">
+               <day>7</day>
+               <month>3</month>
+               <year>2018</year>
+            </date>
+            <date date-type="accepted">
+               <day>10</day>
+               <month>11</month>
+               <year>2019</year>
+            </date>
+         </history>
+         <permissions>
+            <copyright-statement xml:lang="en">Copyright © 2020, Slovenian Medical Association (SZD)</copyright-statement>
+            <copyright-statement xml:lang="sl">© 2020, Slovensko zdravniško društvo (SZD)</copyright-statement>
+            <copyright-year>2020</copyright-year>
+            <copyright-holder xml:lang="en">Slovenian Medical Association (SZD)</copyright-holder>
+            <copyright-holder xml:lang="sl">Slovensko zdravniško društvo (SZD)</copyright-holder>
+            <license xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                     xlink:type="simple"
+                     xml:lang="en">
+               <license-p>This is an open access article distributed under the terms of the
+          <ext-link ext-link-type="uri"
+                            xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                            xlink:type="simple">Creative Commons Attribution-NonCommercial
+            License</ext-link>, which permits unrestricted use, distribution, and
+          reproduction in any medium, provided the original author and source are
+          credited and only for non-commercial purposes. </license-p>
+            </license>
+            <license xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                     xlink:type="simple"
+                     xml:lang="sl">
+               <license-p>To je članek z odprtim dostopom, ki ga lahko uporabite pod pogoji iz
+          <ext-link ext-link-type="uri"
+                            xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                            xlink:type="simple">Creative Commons Priznanje avtorstva-Nekomercialno
+            licence</ext-link>. ki dovoljuje distribucijo, predelavo ali
+          prilagoditev, ter gradijo na njem, v nekomercialne namene, z navedbo avtorja
+          in izvirnega dela.</license-p>
+            </license>
+         </permissions>
+         <abstract xml:lang="sl">
+            <title>Izvleček</title>
+            <p>Izhodišče: Karcinom Merklovih celic (MCC) je redek, agresiven in pogosto smrten nevroendokrini kožni karcinom. Klinično ga zlahka zamenjamo za benigno kožno tvorbo. V strokovni literaturi je zapis o odstranitvi karcinoma Merklovih celic v ambulanti družinske medicine redek.</p>
+            <p>Prikaz primera: Opisan je primer odstranitve karcinoma Merklovih celic velikosti slabega 1 cm pri 80-letni gospe, prizadeti po možganski kapi, ki je dajal klinični vtis vnete ciste. Takoj po vrezu je bilo jasno, da gre za solidni tumor, ki je bil nato v celoti izluščen in poslan patologu. Izvid je potrdil MCC, robovi in dno pa niso bili odstranjeni v zdravo tkivo. Bolnica je bila takoj poslana na nadaljnjo obravnavo k onkologu, a je tam odklonila vse nadaljnje posege. 4 leta in 9 mesecev po odstranitvi tumorja ni kliničnih znakov za lokalno ponovitev tumorja ali znakov o sistemskem napredovanju bolezni.</p>
+            <p>Zaključek: Zdravnik družinske medicine, ki dela na oddaljenih podeželskih območjih, mora pogosteje kot drugi zdravniki na primarni ravni uporabljati kirurške veščine. Pri tem lahko naleti celo na redke in agresivne maligne tumorje kože. Rešitev je potrditev diagnoze s patohistološko preiskavo in nato interdisciplinarna obravnava.</p>
+         </abstract>
+         <trans-abstract xml:lang="en">
+            <title>Abstract</title>
+            <p>Background: Merkel cell carcinoma (MCC) is a rare, aggressive and often lethal neuroendocrine skin cancer. It can clinically resemble a benign skin lesion. Merkel cell cancer removal in the family medicine practice is a rare report in the literature.</p>
+            <p>Case report: This report describes the removal of Merkel cell carcinoma less than 1 cm of size on the right wrist of an 80-year-old woman, affected by stroke; the initial clinical impression of the lesion was consistent with an inflammed cyst.</p>
+            <p>Immediately after the incision, it was clear that it was a solid tumour, which was then completely excised and sent to the pathologist. The result was MCC, the edges and the bottom of which had not been radically excised from the healthy surrounding tissue. The patient was immediately referred to the oncologist for further treatment, but she refused further treatment. Four years and 9 months after removal of the tumour, there are no clinical signs of local recurrence or signs of systemic progression.</p>
+            <p>Conclusion: A family doctor who works in remote rural areas, more often than other doctors at the primary level have to use surgical skills. In addition, it can encounter rare and aggressive malignant skin tumours. The solution is to confirm the diagnosis by pathohistological examination, followed by interdisciplinary treatment.</p>
+         </trans-abstract>
+         <kwd-group xml:lang="sl">
+            <kwd>izrez kožnega tumorja</kwd>
+            <kwd>družinska medicina</kwd>
+            <kwd>karcinom Merklovih celic</kwd>
+         </kwd-group>
+         <kwd-group xml:lang="en">
+            <kwd>excision of skin tumor</kwd>
+            <kwd>family medicine</kwd>
+            <kwd>Merkel cell cancer</kwd>
+         </kwd-group>
+      </article-meta>
+   </front>
+   <body>
+      <sec id="s1" sec-type="Uvod">
+         <label>1</label>
+         <title>Uvod</title>
+         <p>Karcinom Merklovih celic (MCC) je redek, agresiven in pogosto smrten nevroendokrini kožni karcinom (<xref ref-type="bibr" rid="b1">1</xref>,<xref ref-type="bibr" rid="b2">2</xref>,<xref ref-type="bibr" rid="b3">3</xref>). Merklove celice so nevroendokrine in mehanosenzitivne celice, ki kot celično-nevritski kompleks sodelujejo pri prenosu in modulaciji zaznav nežnega dotika. Preoblikovanje mehanske energije v električne signale je prvi korak v mehanotransdukciji v perifernem senzoričnem živčnem sistemu (<xref ref-type="bibr" rid="b4">4</xref>,<xref ref-type="bibr" rid="b5">5</xref>). Celice se nahajajo v bazalnem sloju povrhnjice. Karcinom teh celic je prvi opisal Toker leta 1972 (<xref ref-type="bibr" rid="b6">6</xref>).</p>
+         <p>Karcinom Merklovih celic se kaže kot hitro rastoča asimptomatska rdeče-modra dermalna papula ali nodus. Razvija se tedne ali mesece, sum na karcinom Merklovih celic pa se redko postavi pred biopsijo. Zlahka ga zamenjamo za epidermoidno cisto, ognojek in druge benigne kožne novotvorbe (<xref ref-type="fig" rid="fig1">Slika 1</xref>) (<xref ref-type="bibr" rid="b1">1</xref>,<xref ref-type="bibr" rid="b7">7</xref>,<xref ref-type="bibr" rid="b8">8</xref>,<xref ref-type="bibr" rid="b9">9</xref>,<xref ref-type="bibr" rid="b10">10</xref>).</p>
+         <fig position="anchor" id="fig1">
+            <label>Slika 1:</label>
+            <caption>
+               <p> Karcinom Merklovih celic na goleni.</p>
+               <p>(Fotografija z dovoljenjem www.merkelcell.org in dr. Paula Nghiema)</p>
+            </caption>
+            <p>
+               <graphic xlink:href="2823-web-resources/image/zdravvestn-2823-sl-01.png"/>
+            </p>
+         </fig>
+         <p>Smrtnost pri MCC je višja kot pri malignem melanomu (<xref ref-type="bibr" rid="b11">11</xref>). Tumor ima visoko tveganje za lokalno ponovitev. Medina-Franko s sodelavci ugotavlja po pregledu 1.024 primerov MCC (potem, ko so izključili bolnike z oddaljenimi metastazami v stadiju III), da se pri 30,1 % bolnikov med spremljanjem pojavi lokalni recidiv, in da so v 55,5 % ob pregledu že prisotne metastaze v področnih bezgavkah oziroma se le-te pojavijo v času spremljanja. Prosti interval do ponovitve je 4–10 mesecev (<xref ref-type="bibr" rid="b2">2</xref>). Več kot 20 % bolnikov ima ob pregledu že stadij II (tumor velikosti med 2 in 5 cm) (<xref ref-type="bibr" rid="b2">2</xref>). 80–90 % ponovitev karcinoma Merklovih celic se pojavi v okviru dveh let (<xref ref-type="bibr" rid="b3">3</xref>).</p>
+         <p>Karcinom Merklovih celic se v 41–50 % pojavi na glavi in vratu, sledijo udi (32–38 %) in trup (12–14 %) (<xref ref-type="bibr" rid="b12">12</xref>). Najpogosteje se pojavi na soncu izpostavljenih mestih kože, pri belcih in v starosti nad 65 let (<xref ref-type="bibr" rid="b3">3</xref>). Predpostavlja se, da sta za maligno preoblikovanje celic odgovorna ultravijolično sevanje, ki sproži poškodbo DNA, in Merklov celični poliomavirus (MCV ali MCPyV) (<xref ref-type="bibr" rid="b13">13</xref>). Za maligno preoblikovanje na severni polobli naj bi bil v 80 % odgovoren prav Merklov celični poliomavirus, medtem ko naj bi bila poškodba po ultravijoličnem sevanju vpletena pri MCV-negativnih tumorjih (<xref ref-type="bibr" rid="b13">13</xref>,<xref ref-type="bibr" rid="b14">14</xref>).</p>
+         <p>Zdravljenje karcinoma Merklovih celic je kombinirano. Zdravimo ga kirurško, z obsevanjem in kemoterapijo (<xref ref-type="bibr" rid="b1">1</xref>,<xref ref-type="bibr" rid="b3">3</xref>,<xref ref-type="bibr" rid="b10">10</xref>,<xref ref-type="bibr" rid="b15">15</xref>).</p>
+         <p>Temeljno zdravljenje lokalnega MCC je popolni kirurški izrez z adjuvantno radioterapijo tega predela (<xref ref-type="bibr" rid="b3">3</xref>,<xref ref-type="bibr" rid="b15">15</xref>). Obsežnost izreza je odvisna od velikosti primarnega tumorja. Za tumorje do velikosti 2 cm svetujejo rob izreza vsaj 1 cm, pri večjih od 2 cm, pa 2 cm (<xref ref-type="bibr" rid="b12">12</xref>,<xref ref-type="bibr" rid="b16">16</xref>). Strub in sodelavci svetujejo varni resekcijski rob na obrazu vsaj 1,5 cm, 3 cm pa na udih (<xref ref-type="bibr" rid="b17">17</xref>).</p>
+         <p>Okoli 25–30 % bolnikov brez klinično zaznavne spremembe bezgavk bo imelo histološko pozitivne bezgavke (<xref ref-type="bibr" rid="b18">18</xref>,<xref ref-type="bibr" rid="b19">19</xref>). Klinične smernice Ameriške nacionalne mreže za raka (NCCN), zato priporočajo biopsijo varovalne bezgavke in, glede na izvid, morebitno odstranitev področnih bezgavk in/ali obsevanje področnih bezgavk (<xref ref-type="bibr" rid="b15">15</xref>).</p>
+         <p>Kemoterapija kot adjuvantna terapija pri razširjeni obliki MCC se ni izkazala z izboljšanjem preživetja teh bolnikov. V metastatskem stadiju karcinoma Merklovih celic odgovor na kemoterapijo ni dolgotrajen, v povprečju le 3–8 mesecev, s ponovnim napredovanjem bolezni pri 90 % bolnikov do 10 mesecev (<xref ref-type="bibr" rid="b20">20</xref>,<xref ref-type="bibr" rid="b21">21</xref>). Kemoterapija v fazi razsoja bolezni ima tako bolj vlogo paliativnega zdravljenja (<xref ref-type="bibr" rid="b3">3</xref>). Bergant, Hočevar in Čufer so poročali o dobrem odzivu zdravljenja lokalno ali regionalno napredovalega MCC v stadiju II s kemoterapijo pred operacijo in z operacijo. MCC so namreč v regionalni bolnišnici zamenjali za glutealni ognojek. 2 leti in pol od prvega zdravljenja je bil bolnik brez znamenj MCC (<xref ref-type="bibr" rid="b10">10</xref>).</p>
+         <p>Karcinom Merkovih celic je zelo občutljiv na obsevanje (<xref ref-type="bibr" rid="b22">22</xref>,<xref ref-type="bibr" rid="b23">23</xref>,<xref ref-type="bibr" rid="b24">24</xref>). Radioterapija kot monoterapija je alternativna metoda zdravljenja primarne spremembe MCC, predvsem v primerih, ko kirurško zdravljenje ni možno, jo bolniki odklanjajo ali je nezaželena (soobolevnost, neoperabilni MCC, v primerih, ko je pričakovati večji kozmetični ali funkcionalni primanjkljaj) (<xref ref-type="bibr" rid="b3">3</xref>,<xref ref-type="bibr" rid="b15">15</xref>,<xref ref-type="bibr" rid="b21">21</xref>,<xref ref-type="bibr" rid="b22">22</xref>). Pape s sodelavci v komparativni in retrospektivni študiji (25 bolnikov je bilo zdravljenih izključno z radioterapijo) ni našel statistično značilne razlike med bolniki, zdravljenimi konvencionalno (kirurški poseg z adjuvantno radioterapijo) in bolniki, zdravljenimi samo z radioterapijo, ne v 5-letnem prostem intervalu in ne v celokupni stopnji preživetja (<xref ref-type="bibr" rid="b23">23</xref>). Harrington in Kwan sta podobno ugotavljala v študiji 179 bolnikov z MCC, od katerih so jih 57 zdravili samo z radikalno radioterapijo, ostali pa so bili zdravljeni radikalno kirurško (<xref ref-type="bibr" rid="b24">24</xref>).</p>
+         <p>Ohrabrujoči so rezultati imunoterapije virus-pozitivnega in virus-negativnega Merklovega karcinoma (MCPyV pozitivni tumorji izražajo virusne onkoproteine), poskusi z monoklonskimi protitelesi in raziskave v smeri tarčnega molekularnega zdravljenja (somatostatinski analogi, tirozin kinazni inhibitorji, inhibitorji tarč rapamicina sesalcev – mTOR) (<xref ref-type="bibr" rid="b3">3</xref>).</p>
+         <p>Od leta 1994 do maja 2011 so na Onkološkem inštitutu v Ljubljani obravnavali 45 bolnikov s karcinomom Merklovih celic. Zunaj Onkološkega inštituta je bilo prvič operiranih 15 bolnikov, le pri dveh je bil narejen dovolj širok izrez, z resekcijskimi robovi v zdravo tkivo (<xref ref-type="bibr" rid="b1">1</xref>). Trend kožnih nemelanomskih rakov narašča tudi pri nas, povprečno za 5,0 % letno (<xref ref-type="bibr" rid="b25">25</xref>).</p>
+         <p>Karcinom Merklovih celic sam je zelo redek tumor, še redkejši pa so zapisi v strokovni literaturi o biopsiji in odstranitvi tega tumorja v ambulanti družinske medicine. Leta 2008 je Zucchi, zdravnik družinske medicine v odročnem kraju Francije, opravil biopsijo kožne spremembe in po prejemu histološkega izvida izrezal karcinom Merklovih celic. Omenja, da je to verjetno prvi primer odkritja in zdravljenja MCC na primarni ravni v Franciji (<xref ref-type="bibr" rid="b26">26</xref>).</p>
+      </sec>
+      <sec id="s2" sec-type="Prikaz primera">
+         <label>2</label>
+         <title>Prikaz primera</title>
+         <p>V decembru 2013 se je v ambulanti oglasila 80-letna gospa zaradi »bulice« na hrbtišču desne roke, ki jo je opazila pred 14 dnevi. Povedala je, da se kožna sprememba hitro veča, a se ne odpre. Gospa je bila na invalidskem vozičku zaradi levostranske hemiplegije in kontraktur po možganski kapi izpred 16 let. Želela je poseg v ambulanti.</p>
+         <p>Ob pregledu je bila na dorzalni strani desnega zapestja okrogla, mehka, neboleča papula v velikosti slabega centimetra rožnato-rdeče barve. Z delovno diagnozo <italic>cystis inflammata carpi dex susp.</italic> smo bolnico pripravili za kirurški poseg. Takoj po zarezu v tkivo je bilo jasno, da ne gre za vsebino vnete ciste, ampak za solidno, mehko tkivo, po barvi in konsistenci drugačno tudi od lipoma. Odločili smo se za odstranitev tumorja v celoti. Rano smo kirurško zaprli s šivi, ves izrezani material pa poslali na Oddelek za patologijo Univerzitetnega kliničnega centra v Mariboru (UKC Mb).</p>
+         <p>Osmi dan smo odstranili šive. Trinajsti dan od izreza tumorja smo prejeli patohistološki izvid, ki je opisoval ovalno oblikovan drobec kože, velikosti 1,5 × 1 cm, z mnenjem, da gre za karcinom Merklovih celic. Ni pa bilo opisa, ali je bila sprememba izrezana v zdravo ali ne. Bolnico smo takoj obvestili o naravi tumorja in jo naslednji dan napotili h kirurgu za plastično kirurgijo v UKC Maribor. Ta se je odločil, da bodo gospo obvestili o nadaljnji obravnavi, ko bodo revidirali histološki izvid. Čez 3 tedne so jo pregledali na Onkološkem inštitutu v Ljubljani, kjer so ji glede na histološki izvid svetovali ponovni izrez in biopsijo varovalne bezgavke. V vmesnem času smo prejeli dodatek k histološkemu izvidu, po katerem robovi in dno niso bili odstranjeni v zdravo. Gospo so čez 2 tedna po pregledu poklicali na dogovorjeni kirurški poseg, a je gospa poseg zavrnila, zavrnila pa je tudi vse druge ukrepe in kontrole.</p>
+         <p>Bolnico ves čas spremljamo na domu. Danes, 4 leta in 9 mesecev od odstranitve tumorja, ni kliničnih znakov za lokalno ponovitev karcinoma in tudi ni zaznati povečanih področnih bezgavk ali drugih znakov, ki bi kazali na morebitno napredovanje bolezni (<xref ref-type="fig" rid="fig2">Slika 2</xref>).</p>
+         <fig position="anchor" id="fig2">
+            <label>Slika 2:</label>
+            <caption>
+               <p> 4 leta in 9 mesecev po odstranitvi kožnega tumorja.</p>
+            </caption>
+            <p>
+               <graphic xlink:href="2823-web-resources/image/zdravvestn-2823-sl-02.png"/>
+            </p>
+         </fig>
+      </sec>
+      <sec id="s3" sec-type="Razpravljanje">
+         <label>3</label>
+         <title>Razpravljanje</title>
+         <p>Ni zanesljivih podatkov, koliko zdravnikov družinske medicine v Sloveniji opravlja tudi male kirurške posege. Po lastni oceni je teh v mestnem okolju zelo malo, več pa jih je na podeželju.</p>
+         <p>Pri tem imam v mislih kirurške posege, ki jih lahko zdravniki družinske medicine z obvladanjem osnovnih kirurških veščin zagotove kot manjši kirurški poseg, in so navedeni na prvi ravni v <xref ref-type="table" rid="table1">Tabeli 1</xref>, kot jih navaja Združenje britanskih kirurgov na primarni ravni (<xref ref-type="table" rid="table1">Tabela 1</xref>) (<xref ref-type="bibr" rid="b27">27</xref>).</p>
+         <table-wrap position="anchor" id="table1">
+            <label>Tabela 1:</label>
+            <caption>
+               <p> Kirurški posegi, primerni za primarno raven (Dhumale R, 2016, osebna komunikacija, cit. Marsden J, Lipp A, Kumar V) (<xref ref-type="bibr" rid="b27">27</xref>).</p>
+            </caption>
+            <table>
+               <colgroup>
+                  <col/>
+               </colgroup>
+               <thead>
+                  <tr>
+                     <th>Raven 1:	Kirurški posegi, ki jih lahko izvajajo zdravniki družinske medicine z obvladovanjem osnovnih kirurških veščin kot mali kirurški poseg ali v prostoru za posege.</th>
+                  </tr>
+               </thead>
+               <tbody>
+                  <tr>
+                     <td>
+                        <list>
+                           <list-item>
+                              <label>•</label>
+                              <p>lojnična cista,</p>
+                           </list-item>
+                        </list>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td>
+                        <list>
+                           <list-item>
+                              <label>•</label>
+                              <p>lipom, manjši od 2 cm,</p>
+                           </list-item>
+                        </list>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td>
+                        <list>
+                           <list-item>
+                              <label>•</label>
+                              <p>vraščen noht,</p>
+                           </list-item>
+                        </list>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td>
+                        <list>
+                           <list-item>
+                              <label>•</label>
+                              <p>izrez manjših zatrdlin in bul,</p>
+                           </list-item>
+                        </list>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td>
+                        <list>
+                           <list-item>
+                              <label>•</label>
+                              <p>halazij,</p>
+                           </list-item>
+                        </list>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td>
+                        <list>
+                           <list-item>
+                              <label>•</label>
+                              <p>injiciranje sklepov in burz,</p>
+                           </list-item>
+                        </list>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td>
+                        <list>
+                           <list-item>
+                              <label>•</label>
+                              <p>krioterapija,</p>
+                           </list-item>
+                        </list>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td>
+                        <list>
+                           <list-item>
+                              <label>•</label>
+                              <p>aspiracija ciste.</p>
+                           </list-item>
+                        </list>
+                     </td>
+                  </tr>
+                  <tr>
+                     <th content-type="table-subhead">
+                        <p>Raven 2: Kirurški posegi, ki jih lahko izvajajo specialisti ali zdravniki družinske medicine s posebnimi znanji iz kirurgije v prilagojenem prostoru za posege ali</p>
+                        <p>v operacijski dvorani.</p>
+                     </th>
+                  </tr>
+                  <tr>
+                     <td>
+                        <list>
+                           <list-item>
+                              <label>•</label>
+                              <p>vazektomija,</p>
+                           </list-item>
+                        </list>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td>
+                        <list>
+                           <list-item>
+                              <label>•</label>
+                              <p>dekompresija karpalnega kanala,</p>
+                           </list-item>
+                        </list>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td>
+                        <list>
+                           <list-item>
+                              <label>•</label>
+                              <p>ganglion zapestja (dorsum),</p>
+                           </list-item>
+                        </list>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td>
+                        <list>
+                           <list-item>
+                              <label>•</label>
+                              <p>popolna ablacija vraščenega nohta po Zadeku,</p>
+                           </list-item>
+                        </list>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td>
+                        <list>
+                           <list-item>
+                              <label>•</label>
+                              <p>ligiranje varikoznih ven,</p>
+                           </list-item>
+                        </list>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td>
+                        <list>
+                           <list-item>
+                              <label>•</label>
+                              <p>injiciranje hemoroidov,</p>
+                           </list-item>
+                        </list>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td>
+                        <list>
+                           <list-item>
+                              <label>•</label>
+                              <p>sigmoidoskopija,</p>
+                           </list-item>
+                        </list>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td>
+                        <list>
+                           <list-item>
+                              <label>•</label>
+                              <p>gastroskopija,</p>
+                           </list-item>
+                        </list>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td>
+                        <list>
+                           <list-item>
+                              <label>•</label>
+                              <p>cistoskopija,</p>
+                           </list-item>
+                        </list>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td>
+                        <list>
+                           <list-item>
+                              <label>•</label>
+                              <p>kavdalna blokada.</p>
+                           </list-item>
+                        </list>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+         </table-wrap>
+         <p>Jasno je, da se zdravnik družinske medicine odloči za odstranitev kožne spremembe le v primeru, ko je po klinični oceni prepričan, da gre za benigno tvorbo. A prav karcinom Merklovih celih je izstopajoči primer, ko ga lahko tudi zelo izkušen klinik zamenja za vneto cisto ali drugo benigno kožno novotvorbo.</p>
+         <p>Heath in sodelavci so na vzorcu 195 bolnikov s karcinom Merklovih celic ugotovili, da je klinični vtis primarne spremembe v času biopsije zelo raznolik: Za cisto oz. aknasto spremembo ga je ocenilo 32 %, 6 % za lipom, 4 % za kožni fibrom, za vaskularno spremembo 4 %, 3 % za pik oz. ugriz insekta, za drugo benigno spremembo 7 % in podobno. Za kožni karcinom ga je ocenilo v 19 %, za limfom v 6 %. Samo v 1 % je bil že pred biopsijo podan sum na karcinom Merklovih celic (<xref ref-type="bibr" rid="b8">8</xref>).</p>
+         <p>Dodatna nevarnost se skriva v dejstvu, da na histološko preiskavo iz ambulant družinske medicine pošiljamo le vzorce, ki jih ocenimo za sumljive.</p>
+         <p>Buis s sodelavci ocenjuje, da le okoli 60 % kožnih sprememb, ki jih odstranijo zdravniki družinske medicine na Nizozemskem, pošljejo v pregled patologu. Še več! Ko so iz poslanih vzorcev izbrali 90 takih, ki niso vsebovale kože, ampak le podkožje, se je izkazalo, da sta bila dva vzorca maligna: prvi je bil karcinom Merklovih celic, klinično poslan kot lipom, drugi pa dermatofibrosarkom, poslan kot lojnična cista. Pri obeh je potreben ponovni izrez. Oba malignoma sta bila nepričakovana (pozitivna napovedna vrednost 0). V bran zdravnikom družinske medicine govori dejstvo, da ugotovitev Buisa in sodelavcev ne velja le za zdravnike družinske medicine. S prav enakimi težavami se soočajo tudi dermatologi, kirurgi za plastično kirurgijo in drugi zdravniki (<xref ref-type="bibr" rid="b9">9</xref>).</p>
+         <p>Trdim, da je delež odstranjenih kožnih tvorb v ambulantah družinske medicine, ki so poslane na histološko preiskavo, v Sloveniji še veliko manjši, kot ga za Nizozemsko ocenjujejo Buis in sodelavci. Vsaj deloma zato, ker so se stroški histološkega pregleda krili neposredno iz materialnih stroškov ambulante in ne kot ločeno zaračunljivi material (LZM) ali kot stroški za laboratorijske storitve. Cena tega histološkega pregleda je bila 569,72 EUR decembra 2013. Šele kasneje je Zavod za zdravstveno zavarovanje Slovenije (ZZZS) tudi histološke preiskave dodal med LZM.</p>
+      </sec>
+      <sec id="s4" sec-type="Zaključek">
+         <label>4</label>
+         <title>Zaključek</title>
+         <p>Zdravnik družinske medicine, ki dela na oddaljenem podeželju, zna in tudi pogosteje kot drugi kolegi v družinski medicini uporablja kirurške veščine. Pri tem vedno tvega, da bo naletel na redke in zlovešče tumorje.</p>
+         <p>Poudariti velja, da je histopatološka preiskava odstranjenega tkiva v ambulanti zdravnika družinske medicine vedno potrebna v primeru papulastih ali tumorskih kožnih vzbrsti, še posebej, če se spreminjajo po obliki, velikosti in barvi. Če histopatološka preiskava odkrije maligno novotvorbo, bolnika takoj pošljemo na interdisciplinarno obravnavo, v primeru karcinoma Merklovih celic najbolje k onkologu, ki bo načrtoval zdravljenje in ga usmerjal.</p>
+         <p>Zdravnik družinske medicine se bo prvi srečal s karcinomom Merklovih celic, zato je prav, da nanj pomisli. V vseh nejasnih primerih naj bolnika napoti k dermatologu.</p>
+      </sec>
+   </body>
+   <back>
+      <ack>
+         <label>5</label>
+         <title>Zahvala</title>
+         <p>Zahvaljujem se gospe za pisno soglasje k objavi tega primera, vključno s slikovnim gradivom.</p>
+      </ack>
+      <ref-list>
+         <ref id="b1">
+            <label>1. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Eržen</surname>
+                     <given-names>D</given-names>
+                  </name>
+                    </person-group>.
+                    <article-title>Karcinom Merklovih celic</article-title>. 
+                    <source>Onkologija : strokovni časopis za zdravnike</source>. 
+                    <year>2012</year>
+                    <month>Jun</month>; 
+                    <volume>16</volume>( 
+                    <issue>1</issue>): 
+                    <fpage>14</fpage>- 
+                    <lpage>7</lpage>. 
+                    <issn>1408-1741</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b2">
+            <label>2. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Medina-Franco</surname>
+                     <given-names>H</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Urist</surname>
+                     <given-names>MM</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Fiveash</surname>
+                     <given-names>J</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Heslin</surname>
+                     <given-names>MJ</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Bland</surname>
+                     <given-names>KI</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Beenken</surname>
+                     <given-names>SW</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Multimodality treatment of Merkel cell carcinoma: case series and literature review of 1024 cases</article-title>. 
+                    <source>Ann Surg Oncol</source>. 
+                    <year>2001</year>
+                    <month>Apr</month>;
+                    <volume>8</volume>(
+                    <issue>3</issue>):
+                    <fpage>204</fpage>–
+                    <lpage>8</lpage>. 
+                    <pub-id pub-id-type="doi">10.1007/s10434-001-0204-4</pub-id>
+                    <pub-id pub-id-type="pmid">11314935</pub-id>
+                    <issn>1068-9265</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b3">
+            <label>3. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Tello</surname>
+                     <given-names>TL</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Coggshall</surname>
+                     <given-names>K</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Yom</surname>
+                     <given-names>SS</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Yu</surname>
+                     <given-names>SS</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Merkel cell carcinoma: An update and review: Current and future therapy</article-title>. 
+                    <source>J Am Acad Dermatol</source>. 
+                    <year>2018</year>
+                    <month>Mar</month>;
+                    <volume>78</volume>(
+                    <issue>3</issue>):
+                    <fpage>445</fpage>–
+                    <lpage>54</lpage>. 
+                    <pub-id pub-id-type="doi">10.1016/j.jaad.2017.12.004</pub-id>
+                    <pub-id pub-id-type="pmid">29229573</pub-id>
+                    <issn>0190-9622</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b4">
+            <label>4. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Woo</surname>
+                     <given-names>SH</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Lumpkin</surname>
+                     <given-names>EA</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Patapoutian</surname>
+                     <given-names>A</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Merkel cells and neurons keep in touch</article-title>. 
+                    <source>Trends Cell Biol</source>. 
+                    <year>2015</year>
+                    <month>Feb</month>;
+                    <volume>25</volume>(
+                    <issue>2</issue>):
+                    <fpage>74</fpage>–
+                    <lpage>81</lpage>. 
+                    <pub-id pub-id-type="doi">10.1016/j.tcb.2014.10.003</pub-id>
+                    <pub-id pub-id-type="pmid">25480024</pub-id>
+                    <issn>0962-8924</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b5">
+            <label>5. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>García-Mesa</surname>
+                     <given-names>Y</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>García-Piqueras</surname>
+                     <given-names>J</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>García</surname>
+                     <given-names>B</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Feito</surname>
+                     <given-names>J</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Cabo</surname>
+                     <given-names>R</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Cobo</surname>
+                     <given-names>J</given-names>
+                  </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>Merkel cells and Meissner’s corpuscles in human digital skin display Piezo2 immunoreactivity</article-title>. 
+                    <source>J Anat</source>. 
+                    <year>2017</year>
+                    <month>Dec</month>;
+                    <volume>231</volume>(
+                    <issue>6</issue>):
+                    <fpage>978</fpage>–
+                    <lpage>89</lpage>. 
+                    <pub-id pub-id-type="doi">10.1111/joa.12688</pub-id>
+                    <pub-id pub-id-type="pmid">28905996</pub-id>
+                    <issn>0021-8782</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b6">
+            <label>6. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Toker</surname>
+                     <given-names>C</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Trabecular carcinoma of the skin</article-title>. 
+                    <source>Arch Dermatol</source>. 
+                    <year>1972</year>
+                    <month>Jan</month>;
+                    <volume>105</volume>(
+                    <issue>1</issue>):
+                    <fpage>107</fpage>–
+                    <lpage>10</lpage>. 
+                    <pub-id pub-id-type="doi">10.1001/archderm.1972.01620040075020</pub-id>
+                    <pub-id pub-id-type="pmid">5009611</pub-id>
+                    <issn>0003-987X</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b7">
+            <label>7. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Nasseri</surname>
+                     <given-names>E</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Merkel cell carcinoma</article-title>. 
+                    <source>Can Fam Physician</source>. 
+                    <year>2012</year>
+                    <month>Sep</month>;
+                    <volume>58</volume>(
+                    <issue>9</issue>):
+                    <fpage>967</fpage>–
+                    <lpage>9</lpage>.
+                    <pub-id pub-id-type="pmid">22972727</pub-id>
+                    <issn>1715-5258</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b8">
+            <label>8. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Heath</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Jaimes</surname>
+                     <given-names>N</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Lemos</surname>
+                     <given-names>B</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Mostaghimi</surname>
+                     <given-names>A</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Wang</surname>
+                     <given-names>LC</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Peñas</surname>
+                     <given-names>PF</given-names>
+                  </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>Clinical characteristics of Merkel cell carcinoma at diagnosis in 195 patients: the AEIOU features</article-title>. 
+                    <source>J Am Acad Dermatol</source>. 
+                    <year>2008</year>
+                    <month>Mar</month>;
+                    <volume>58</volume>(
+                    <issue>3</issue>):
+                    <fpage>375</fpage>–
+                    <lpage>81</lpage>. 
+                    <pub-id pub-id-type="doi">10.1016/j.jaad.2007.11.020</pub-id>
+                    <pub-id pub-id-type="pmid">18280333</pub-id>
+                    <issn>0190-9622</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b9">
+            <label>9. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Buis</surname>
+                     <given-names>PA</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Verweij</surname>
+                     <given-names>W</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>van Diest</surname>
+                     <given-names>PJ</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Value of histopathologic analysis of subcutis excisions by general practitioners</article-title>. 
+                    <source>BMC Fam Pract</source>. 
+                    <year>2007</year>
+                    <month>Jan</month>;
+                    <volume>8</volume>(
+                    <issue>1</issue>):
+                    <fpage>5</fpage>. 
+                    <pub-id pub-id-type="doi">10.1186/1471-2296-8-5</pub-id>
+                    <pub-id pub-id-type="pmid">17257417</pub-id>
+                    <issn>1471-2296</issn> 
+                </mixed-citation>
+         </ref>
+         <ref id="b10">
+            <label>10. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Bergant</surname>
+                     <given-names>D</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Hočevar</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Čufer</surname>
+                     <given-names>T</given-names>
+                  </name>
+                    </person-group>
+                    <article-title>Karcinom Merklovih celic.</article-title>
+                    <source>Onkologija : strokovni časopis za zdravnike</source>. 
+                    <year iso-8601-date="2002">2002</year>
+                    <month>Dec</month>; 
+                    <volume>9</volume>( 
+                    <issue>2</issue>): 
+                    <fpage>63</fpage>- 
+                    <lpage>7</lpage>. 
+                    <issn>1408-1741</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b11">
+            <label>11. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Becker</surname>
+                     <given-names>JC</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Stang</surname>
+                     <given-names>A</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>DeCaprio</surname>
+                     <given-names>JA</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Cerroni</surname>
+                     <given-names>L</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Lebbé</surname>
+                     <given-names>C</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Veness</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>Merkel cell carcinoma</article-title>. 
+                    <source>Nat Rev Dis Primers</source>. 
+                    <year>2017</year>
+                    <month>Oct</month>;
+                    <volume>3</volume>(
+                    <issue>1</issue>):
+                    <fpage>17077</fpage>. 
+                    <pub-id pub-id-type="doi">10.1038/nrdp.2017.77</pub-id>
+                    <pub-id pub-id-type="pmid">29072302</pub-id>
+                    <issn>2056-676X</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b12">
+            <label>12. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Duprat</surname>
+                     <given-names>JP</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Landman</surname>
+                     <given-names>G</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Salvajoli</surname>
+                     <given-names>JV</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Brechtbühl</surname>
+                     <given-names>ER</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>A review of the epidemiology and treatment of Merkel cell carcinoma</article-title>. 
+                    <source>Clinics (São Paulo)</source>. 
+                    <year>2011</year>;
+                    <volume>66</volume>(
+                    <issue>10</issue>):
+                    <fpage>1817</fpage>–
+                    <lpage>23</lpage>. 
+                    <pub-id pub-id-type="doi">10.1590/S1807-59322011001000023</pub-id>
+                    <pub-id pub-id-type="pmid">22012057</pub-id>
+                    <issn>1807-5932</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b13">
+            <label>13. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Feng</surname>
+                     <given-names>H</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Shuda</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Chang</surname>
+                     <given-names>Y</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Moore</surname>
+                     <given-names>PS</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Clonal integration of a polyomavirus in human Merkel cell carcinoma</article-title>. 
+                    <source>Science</source>. 
+                    <year>2008</year>
+                    <month>Feb</month>;
+                    <volume>319</volume>(
+                    <issue>5866</issue>):
+                    <fpage>1096</fpage>–
+                    <lpage>100</lpage>. 
+                    <pub-id pub-id-type="doi">10.1126/science.1152586</pub-id>
+                    <pub-id pub-id-type="pmid">18202256</pub-id>
+                    <issn>0036-8075</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b14">
+            <label>14. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Paik</surname>
+                     <given-names>JY</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Hall</surname>
+                     <given-names>G</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Clarkson</surname>
+                     <given-names>A</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Lee</surname>
+                     <given-names>L</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Toon</surname>
+                     <given-names>C</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Colebatch</surname>
+                     <given-names>A</given-names>
+                  </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>Immunohistochemistry for Merkel cell polyomavirus is highly specific but not sensitive for the diagnosis of Merkel cell carcinoma in the Australian population</article-title>. 
+                    <source>Hum Pathol</source>. 
+                    <year>2011</year>
+                    <month>Oct</month>;
+                    <volume>42</volume>(
+                    <issue>10</issue>):
+                    <fpage>1385</fpage>–
+                    <lpage>90</lpage>. 
+                    <pub-id pub-id-type="doi">10.1016/j.humpath.2010.12.013</pub-id>
+                    <pub-id pub-id-type="pmid">21453956</pub-id>
+                    <issn>0046-8177</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b15">
+            <label>15. </label>
+            <mixed-citation publication-type="webpage">
+                    <person-group person-group-type="author">
+                        <collab>National Comprehensive Cancer Network (NCCN)</collab>. 
+                    </person-group>
+                        <source>Clinical practice guidelines in oncology: Merkel cell carcinoma</source>. 
+                        <year>2018</year>. 
+                        <date-in-citation content-type="access-date" iso-8601-date="2018-08-26">cited 2018 Avg 26</date-in-citation>. 
+                        <comment>Available from</comment>: 
+                        <uri>"https://www.nccn.org/professionals/physician_gls/pdf/mcc.pdf</uri>. 
+                </mixed-citation>
+         </ref>
+         <ref id="b16">
+            <label>16. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Wang</surname>
+                     <given-names>TS</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Byrne</surname>
+                     <given-names>PJ</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Jacobs</surname>
+                     <given-names>LK</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Taube</surname>
+                     <given-names>JM</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Merkel cell carcinoma: update and review</article-title>. 
+                    <source>Semin Cutan Med Surg</source>. 
+                    <year>2011</year>
+                    <month>Mar</month>;
+                    <volume>30</volume>(
+                    <issue>1</issue>):
+                    <fpage>48</fpage>–
+                    <lpage>56</lpage>. 
+                    <pub-id pub-id-type="doi">10.1016/j.sder.2011.02.001</pub-id>
+                    <pub-id pub-id-type="pmid">21540020</pub-id>
+                    <issn>1085-5629</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b17">
+            <label>17. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Strub</surname>
+                     <given-names>B</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Weindel</surname>
+                     <given-names>S</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Witt</surname>
+                     <given-names>P</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Grünert</surname>
+                     <given-names>J</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>[The interdisciplinary treatment of Merkel cell carcinoma: a retrospective case analysis and review of the current literature]</article-title>. 
+                    <source>Zentralbl Chir</source>. 
+                    <year>2009</year>
+                    <month>Sep</month>;
+                    <volume>134</volume>(
+                    <issue>5</issue>):
+                    <fpage>468</fpage>–
+                    <lpage>73</lpage>. 
+                    <pub-id pub-id-type="pmid">19757348</pub-id>
+                    <issn>0044-409X</issn> 
+                </mixed-citation>
+         </ref>
+         <ref id="b18">
+            <label>18. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Allen</surname>
+                     <given-names>PJ</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Bowne</surname>
+                     <given-names>WB</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Jaques</surname>
+                     <given-names>DP</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Brennan</surname>
+                     <given-names>MF</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Busam</surname>
+                     <given-names>K</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Coit</surname>
+                     <given-names>DG</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Merkel cell carcinoma: prognosis and treatment of patients from a single institution</article-title>. 
+                    <source>J Clin Oncol</source>. 
+                    <year>2005</year>
+                    <month>Apr</month>;
+                    <volume>23</volume>(
+                    <issue>10</issue>):
+                    <fpage>2300</fpage>–
+                    <lpage>9</lpage>. 
+                    <pub-id pub-id-type="doi">10.1200/JCO.2005.02.329</pub-id>
+                    <pub-id pub-id-type="pmid">15800320</pub-id>
+                    <issn>0732-183X</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b19">
+            <label>19. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Gunaratne</surname>
+                     <given-names>DA</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Howle</surname>
+                     <given-names>JR</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Veness</surname>
+                     <given-names>MJ</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Sentinel lymph node biopsy in Merkel cell carcinoma: a 15-year institutional experience and statistical analysis of 721 reported cases</article-title>. 
+                    <source>Br J Dermatol</source>. 
+                    <year>2016</year>
+                    <month>Feb</month>;
+                    <volume>174</volume>(
+                    <issue>2</issue>):
+                    <fpage>273</fpage>–
+                    <lpage>81</lpage>. 
+                    <pub-id pub-id-type="doi">10.1111/bjd.14240</pub-id>
+                    <pub-id pub-id-type="pmid">26480031</pub-id>
+                    <issn>0007-0963</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b20">
+            <label>20. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Tai</surname>
+                     <given-names>PT</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Yu</surname>
+                     <given-names>E</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Winquist</surname>
+                     <given-names>E</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Hammond</surname>
+                     <given-names>A</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Stitt</surname>
+                     <given-names>L</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Tonita</surname>
+                     <given-names>J</given-names>
+                  </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>Chemotherapy in neuroendocrine/Merkel cell carcinoma of the skin: case series and review of 204 cases</article-title>. 
+                    <source>J Clin Oncol</source>. 
+                    <year>2000</year>
+                    <month>Jun</month>;
+                    <volume>18</volume>(
+                    <issue>12</issue>):
+                    <fpage>2493</fpage>–
+                    <lpage>9</lpage>. 
+                    <pub-id pub-id-type="doi">10.1200/JCO.2000.18.12.2493</pub-id>
+                    <pub-id pub-id-type="pmid">10856110</pub-id>
+                    <issn>0732-183X</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b21">
+            <label>21. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Iyer</surname>
+                     <given-names>JG</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Blom</surname>
+                     <given-names>A</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Doumani</surname>
+                     <given-names>R</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Lewis</surname>
+                     <given-names>C</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Tarabadkar</surname>
+                     <given-names>ES</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Anderson</surname>
+                     <given-names>A</given-names>
+                  </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>Response rates and durability of chemotherapy among 62 patients with metastatic Merkel cell carcinoma</article-title>. 
+                    <source>Cancer Med</source>. 
+                    <year>2016</year>
+                    <month>Sep</month>;
+                    <volume>5</volume>(
+                    <issue>9</issue>):
+                    <fpage>2294</fpage>–
+                    <lpage>301</lpage>. 
+                    <pub-id pub-id-type="doi">10.1002/cam4.815</pub-id>
+                    <pub-id pub-id-type="pmid">27431483</pub-id>
+                    <issn>2045-7634</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b22">
+            <label>22. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Kitamura</surname>
+                     <given-names>N</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Tomita</surname>
+                     <given-names>R</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Yamamoto</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Yoshizawa</surname>
+                     <given-names>Y</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Sasabe</surname>
+                     <given-names>E</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Yamada</surname>
+                     <given-names>T</given-names>
+                  </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>Complete remission of Merkel cell carcinoma on the upper lip treated with radiation monotherapy and a literature review of Japanese cases</article-title>. 
+                    <source>World J Surg Oncol</source>. 
+                    <year>2015</year>
+                    <month>Apr</month>;
+                    <volume>13</volume>(
+                    <issue>1</issue>):
+                    <fpage>152</fpage>. 
+                    <pub-id pub-id-type="doi">10.1186/s12957-015-0564-z</pub-id>
+                    <pub-id pub-id-type="pmid">25886455</pub-id>
+                    <issn>1477-7819</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b23">
+            <label>23. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Pape</surname>
+                     <given-names>E</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Rezvoy</surname>
+                     <given-names>N</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Penel</surname>
+                     <given-names>N</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Salleron</surname>
+                     <given-names>J</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Martinot</surname>
+                     <given-names>V</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Guerreschi</surname>
+                     <given-names>P</given-names>
+                  </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>Radiotherapy alone for Merkel cell carcinoma: a comparative and retrospective study of 25 patients</article-title>. 
+                    <source>J Am Acad Dermatol</source>. 
+                    <year>2011</year>
+                    <month>Nov</month>;
+                    <volume>65</volume>(
+                    <issue>5</issue>):
+                    <fpage>983</fpage>–
+                    <lpage>90</lpage>. 
+                    <pub-id pub-id-type="doi">10.1016/j.jaad.2010.07.043</pub-id>
+                    <pub-id pub-id-type="pmid">21641081</pub-id>
+                    <issn>0190-9622</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b24">
+            <label>24. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Harrington</surname>
+                     <given-names>C</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Kwan</surname>
+                     <given-names>W</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Outcomes of Merkel cell carcinoma treated with radiotherapy without radical surgical excision</article-title>. 
+                    <source>Ann Surg Oncol</source>. 
+                    <year>2014</year>
+                    <month>Oct</month>;
+                    <volume>21</volume>(
+                    <issue>11</issue>):
+                    <fpage>3401</fpage>–
+                    <lpage>5</lpage>. 
+                    <pub-id pub-id-type="doi">10.1245/s10434-014-3757-8</pub-id>
+                    <pub-id pub-id-type="pmid">25001091</pub-id>
+                    <issn>1068-9265</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b25">
+            <label>25. </label>
+            <mixed-citation publication-type="book">
+                    <source>Rak v Sloveniji 2014</source>. 
+                    <publisher-loc>Ljubljana</publisher-loc>: 
+                    <publisher-name>Onkološki inštitut Ljubljana, Epidemiologija in register raka, Register raka Republike Slovenije</publisher-name>;
+                    <year>2017</year>. 
+                </mixed-citation>
+         </ref>
+         <ref id="b26">
+            <label>26. </label>
+            <mixed-citation publication-type="journal"> 
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Zucchi</surname>
+                     <given-names>S</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Merkel cell carcinoma: case report and literature review, from a remote region of France </article-title>. 
+                    <source>Rural Remote Health</source>. 
+                    <year>2009</year>
+                    <month>Jan_Mar</month>; 
+                    <volume>9</volume>( 
+                    <issue>1</issue>): 
+                    <fpage>1072</fpage>.
+                    <pub-id pub-id-type="pmid">19206996</pub-id>
+                    <issn>1445-6354</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b27">
+            <label>27. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Marsden</surname>
+                     <given-names>J</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Lipp</surname>
+                     <given-names>A</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Kumar</surname>
+                     <given-names>V</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Day surgery: implications for general practice</article-title>. 
+                    <source>Br J Gen Pract</source>. 
+                    <year>2016</year>
+                    <month>May</month>;
+                    <volume>66</volume>(
+                    <issue>646</issue>):
+                    <fpage>232</fpage>–
+                    <lpage>3</lpage>. 
+                    <pub-id pub-id-type="doi">10.3399/bjgp16X684877</pub-id>
+                    <pub-id pub-id-type="pmid">27127272</pub-id>
+                    <issn>0960-1643</issn>
+                </mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

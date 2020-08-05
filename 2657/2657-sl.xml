@@ -1,0 +1,2241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD with MathML3 v1.1 20151215//EN" "JATS-journalpublishing1-mathml3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink"
+         dtd-version="1.1"
+         xml:lang="sl"
+         article-type="other">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher-id">Zdrav Vestn</journal-id>
+         <journal-id journal-id-type="nlm-ta">Zdrav Vestn</journal-id>
+         <journal-id journal-id-type="doi">Zdrav Vestn</journal-id>
+         <journal-title-group>
+            <journal-title>Zdravniški vestnik</journal-title>
+            <trans-title-group xml:lang="en">
+               <trans-title>Slovenian Medical Journal</trans-title>
+            </trans-title-group>
+            <abbrev-journal-title>Zdrav Vestn</abbrev-journal-title>
+         </journal-title-group>
+         <issn publication-format="ppub" pub-type="ppub">1318-0347</issn>
+         <issn publication-format="epub" pub-type="epub">1581-0224</issn>
+         <issn-l>0350-0063</issn-l>
+         <publisher>
+            <publisher-name xml:lang="sl">Slovensko zdravniško društvo</publisher-name>
+            <publisher-name xml:lang="en">Slovenian Medical Association</publisher-name>
+            <publisher-loc xml:lang="sl">Ljubljana, Slovenia</publisher-loc>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.6016/ZdravVestn.2657</article-id>
+         <article-id pub-id-type="publisher-id">2657</article-id>
+         <article-categories>
+            <subj-group subj-group-type="discipline" xml:lang="en">
+               <subject>Medicine and health sciences</subject>
+               <subj-group>
+                  <subject>Human reproduction</subject>
+               </subj-group>
+            </subj-group>
+            <subj-group subj-group-type="discipline" xml:lang="sl">
+               <subject>Medicina/Zdravstvo</subject>
+               <subj-group>
+                  <subject>Reprodukcija človeka</subject>
+               </subj-group>
+            </subj-group>
+            <subj-group subj-group-type="article-type" xml:lang="en">
+               <subject>Review article</subject>
+            </subj-group>
+            <subj-group subj-group-type="article-type" xml:lang="sl">
+               <subject>Pregledni znanstveni članek</subject>
+            </subj-group>
+            <subj-group subj-group-type="heading" xml:lang="sl">
+               <subject>Reprodukcija človeka</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title xml:lang="sl">Fetalna in neonatalna aloimunska trombocitopenija: pregledni članek in retrospektivni pregled laboratorijskih in kliničnih značilnosti bolnikov v Sloveniji v obdobju od 1996–2016</article-title>
+            <trans-title-group>
+               <trans-title xml:lang="en">Fetal and neonatal alloimmune thrombocytopenia: review article and retrospective analysis of clinical and laboratory characteristics of patients in Slovenia between 1996 and 2016</trans-title>
+            </trans-title-group>
+            <alt-title alt-title-type="running-head" xml:lang="sl">Fetalna in neonatalna aloimunska trombocitopenija</alt-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Lozar Krivec</surname>
+                  <given-names>Jana</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1">1</xref>
+               <xref ref-type="corresp" rid="corr"/>
+            </contrib>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Tanasič</surname>
+                  <given-names>Tatjana</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1">1</xref>
+            </contrib>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Đorđević</surname>
+                  <given-names>Jelena</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1">1</xref>
+            </contrib>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Fidler</surname>
+                  <given-names>Petra</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff2">2</xref>
+            </contrib>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Štucin Gantar</surname>
+                  <given-names>Irena</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff3">3</xref>
+            </contrib>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Trojner Bregar</surname>
+                  <given-names>Andreja</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff2">2</xref>
+            </contrib>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Rožman</surname>
+                  <given-names>Primož</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff4">4</xref>
+            </contrib>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Klemenc</surname>
+                  <given-names>Polona</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff4">4</xref>
+            </contrib>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Paro Panjan</surname>
+                  <given-names>Darja</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1">1</xref>
+            </contrib>
+         </contrib-group>
+         <aff-alternatives id="aff1">
+            <aff xml:lang="sl">
+               <label>1</label>
+               <institution>Klinični oddelek za neonatologijo, Pediatrična klinika, Univerzitetni klinični center Ljubljana, Ljubljana, Slovenija</institution>
+            </aff>
+            <aff xml:lang="en">
+               <label>1</label>
+               <institution>Neonatal Unit, Division of Paediatrics, University Medical Centre Ljubljana, Ljubljana, Slovenia</institution>
+            </aff>
+         </aff-alternatives>
+         <aff-alternatives id="aff2">
+            <aff xml:lang="sl">
+               <label>2</label>
+               <institution>Oddelek za perinatologijo, Klinika za ginekologijo in perinatologijo, Univerzitetni klinični center Maribor, Maribor, Slovenija</institution>
+            </aff>
+            <aff xml:lang="en">
+               <label>2</label>
+               <institution>Department of Perinatology, Division of Obstetrics and Gynecology, University Medical Centre Maribor, Maribor, Slovenia</institution>
+            </aff>
+         </aff-alternatives>
+         <aff-alternatives id="aff3">
+            <aff xml:lang="sl">
+               <label>3</label>
+               <institution>Klinični oddelek za perinatologijo, Ginekološka klinika, Univerzitetni klinični center Ljubljana, Ljubljana, Slovenija</institution>
+            </aff>
+            <aff xml:lang="en">
+               <label>3</label>
+               <institution>Department of Perinatology, Division of Obstetrics and Gynecology, University Medical Centre Ljubljana, Ljubljana, Slovenia</institution>
+            </aff>
+         </aff-alternatives>
+         <aff-alternatives id="aff4">
+            <aff xml:lang="sl">
+               <label>4</label>
+               <institution>Zavod RS za transfuzijsko medicino, Ljubljana, Slovenija</institution>
+            </aff>
+            <aff xml:lang="en">
+               <label>4</label>
+               <institution>Blood Transfusion Centre of Slovenia, Ljubljana, Slovenia</institution>
+            </aff>
+         </aff-alternatives>
+         <author-notes>
+            <fn fn-type="conflict" xml:lang="en">
+               <p>The authors have declared that no competing interests exist.</p>
+            </fn>
+            <fn fn-type="conflict" xml:lang="sl">
+               <p>Avtorji so izjavili, da ne obstajajo nobeni konkurenčni interesi.</p>
+            </fn>
+            <corresp id="corr">Jana Lozar Krivec, e-mail: <email xlink:type="simple"/>
+            </corresp>
+         </author-notes>
+         <pub-date pub-type="ppub">
+            <month>4</month>
+            <year>2019</year>
+         </pub-date>
+         <pub-date pub-type="epub">
+            <month>4</month>
+            <year>2019</year>
+         </pub-date>
+         <volume>88</volume>
+         <issue>3–4</issue>
+         <fpage>125</fpage>
+         <lpage>42</lpage>
+         <history>
+            <date date-type="received">
+               <day>26</day>
+               <month>9</month>
+               <year>2017</year>
+            </date>
+            <date date-type="accepted">
+               <day>20</day>
+               <month>11</month>
+               <year>2018</year>
+            </date>
+         </history>
+         <permissions>
+            <copyright-statement xml:lang="en">Copyright © 2019, Slovenian Medical Association (SZD)</copyright-statement>
+            <copyright-statement xml:lang="sl">© 2019, Slovensko zdravniško društvo (SZD)</copyright-statement>
+            <copyright-year>2019</copyright-year>
+            <copyright-holder xml:lang="en">Slovenian Medical Association (SZD)</copyright-holder>
+            <copyright-holder xml:lang="sl">Slovensko zdravniško društvo (SZD)</copyright-holder>
+            <license xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                     xlink:type="simple"
+                     xml:lang="en">
+               <license-p>This is an open access article distributed under the terms of the
+          <ext-link ext-link-type="uri"
+                            xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                            xlink:type="simple">Creative Commons Attribution-NonCommercial
+            License</ext-link>, which permits unrestricted use, distribution, and
+          reproduction in any medium, provided the original author and source are
+          credited and only for non-commercial purposes. </license-p>
+            </license>
+            <license xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                     xlink:type="simple"
+                     xml:lang="sl">
+               <license-p>To je članek z odprtim dostopom, ki ga lahko uporabite pod pogoji iz
+          <ext-link ext-link-type="uri"
+                            xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                            xlink:type="simple">Creative Commons Priznanje avtorstva-Nekomercialno
+            licence</ext-link>. ki dovoljuje distribucijo, predelavo ali
+          prilagoditev, ter gradijo na njem, v nekomercialne namene, z navedbo avtorja
+          in izvirnega dela.</license-p>
+            </license>
+         </permissions>
+         <abstract xml:lang="sl">
+            <title>Izvleček</title>
+            <p>Fetalna in neonatalna aloimunska trombocitopenija (FNAIT) je posledica transplacentnega prenosa in vezave aloimunskih protiteles na trombocitne antigene otroka, ki jih je podedoval od očeta. Do aloimunizacije matere proti trombocitnim antigenom lahko pride med nosečnostjo ali ob transfuziji trombocitov. FNAIT je redka bolezen, ki lahko poteka popolnoma brez bolezenskih znakov ali pa ima otrok znake hemoraške diateze. Najhujši zaplet je znotrajlobanjska krvavitev, zato sta zgodnje diagnosticiranje in ustrezno zdravljenje zelo pomembni. Po podatkih iz literature je ocenjena pojavnost FNAIT 1 novorojenček na 1.000–2.000 živorojenih. Pojavnost FNAIT v Sloveniji ni znana. Namen opravljene retrospektivne raziskave je bil ugotoviti pojavnost in etiologijo FNAIT v Sloveniji ter klinično sliko bolnikov s FNAIT. Rezultati raziskave, v kateri smo analizirali izvide transfuzijskih preiskav za dokaz trombocitnih protiteles pri novorojenčkih ali materah, so pokazali nižjo pojavnost FNAIT od prej navedene ocenjene pojavnosti. V obdobju od leta 1996 do leta 2016 je bilo v Sloveniji potrjenih 39 primerov FNAIT, povprečno 2 na leto, medtem ko je bilo prošenj za dokaz trombocitnih protiteles pri novorojenčku ali materi povprečno 9 na leto. Pojavnost FNAIT je torej v Sloveniji 1 na 10.000 živorojenih. Čeprav je ocena pojavnosti zaradi retrospektivne analize najverjetneje podcenjena, menimo, da omenjeni rezultati potrjujejo naša klinična opažanja, da je FNAIT preredko diagnosticirana. Prispevek zato, poleg rezultatov retrospektivne raziskave o pojavnosti, etiologiji in klinični sliki FNAIT v Sloveniji, predstavlja pregled trenutnega znanja o FNAIT, saj želimo, da se na omenjeno bolezen, ki lahko ogroža življenje, pogosteje pomisli in ustrezno ukrepa.</p>
+         </abstract>
+         <trans-abstract xml:lang="en">
+            <title>Abstract</title>
+            <p>Fetal and neonatal alloimmune thrombocytopenia (FNAIT) results from the transplacental transmission and binding of alloimmune antibodies on the child’s platelet antigens which were inherited from the father. Alloimmunisation of the mother against platelet antigen can occur during present or previous pregnancies or platelet transfusions. FNAIT is a rare disease whose course may be insignificant or may present with signs of haemorrhagic diathesis. It’s most serious complication is intracranial bleeding, therefore early diagnosis and, in the case of indications, appropriate treatment are very important. The estimated incidence of FNAIT is 1 in 1000–2000 live births. According to the Slovenia’s national vital statistics data, we estimate that there should be between 10 and 20 serologically confirmed cases of FNAIT annually. The incidence of FNAIT in Slovenia is not known. The aim of the present retrospective study was to assess the incidence and aetiology of FNAIT in Slovenia and clinical characteristics of the disease. The results of a retrospective study in which we analysed the results of blood tests for the detection of platelet antibodies in infants or mothers have shown a much lower incidence. In the period from 1996 to 2016 there were on average 9 requests for FNAIT diagnostic tests per year and 39 cases of FNAIT were confirmed, resulting in an incidence rate of 1 in 10000 live births in Slovenia. We are aware that the obtained incidence may be underestimated due to retrospective analysis of the data; nevertheless, our results confirm our clinical observations that FNAIT is underdiagnosed in our area. In the present article, in addition to the results of a retrospective study on the incidence, aetiology and clinical picture of FNAIT in Slovenia, we review current knowledge of FNAIT. This contribution is aimed at increasing awareness about FNAIT, which can be life-threatening, and its prompt diagnosis may be very important for the child as well as for mother’s following pregnancies.</p>
+         </trans-abstract>
+         <kwd-group xml:lang="sl">
+            <kwd>aloimunizacija</kwd>
+            <kwd>trombocitopenija</kwd>
+            <kwd>novorojenček</kwd>
+            <kwd>nosečnost</kwd>
+            <kwd>trombocitni antigeni (HPA</kwd>
+         </kwd-group>
+         <kwd-group xml:lang="en">
+            <kwd>alloimmunisation</kwd>
+            <kwd>thrombocytopenia</kwd>
+            <kwd>neonate</kwd>
+            <kwd>pregnancy</kwd>
+            <kwd>human platelet antigen (HPA)</kwd>
+         </kwd-group>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>TotalReferences</meta-name>
+               <meta-value>45</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ReferencesParsed</meta-name>
+               <meta-value>40</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ReferencesBillable</meta-name>
+               <meta-value>40</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>LinkServices</meta-name>
+               <meta-value>pubmed-crossref</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ReferencesLinked</meta-name>
+               <meta-value>37</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ReferencesLinkedDOI</meta-name>
+               <meta-value>32</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ReferencesLinkedPMID</meta-name>
+               <meta-value>37</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>JournalReferences</meta-name>
+               <meta-value>39</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>BookReferences</meta-name>
+               <meta-value>1</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>BookChapterReferences</meta-name>
+               <meta-value>2</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ConferenceReferences</meta-name>
+               <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ElectronicReferences</meta-name>
+               <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>DissertationReferences</meta-name>
+               <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>LegalReferences</meta-name>
+               <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>StandardReferences</meta-name>
+               <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>OtherReferences</meta-name>
+               <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>UnknownReferences</meta-name>
+               <meta-value>3</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ReferencesSemiParsed</meta-name>
+               <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ReferencesBookUnparsed</meta-name>
+               <meta-value>2</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>EditorialStyle</meta-name>
+               <meta-value>ICMJE-WHO</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <body>
+      <sec id="s1" sec-type="Uvod">
+         <label>1</label>
+         <title>Uvod</title>
+         <p>Fetalna in neonatalna aloimunska trombocitopenija (FNAIT) je redka bolezen, ki nastane zaradi tkivnega neskladja (fetomaternalne inkompatibilnosti) med nosečnico in plodom ter imunskega uničenja plodovih ali novorojenčkovih trombocitov. FNAIT je eden najpogostejših vzrokov hude trombocitopenije ploda in novorojenčka (<xref ref-type="bibr" rid="b1">1</xref>). Na podlagi rezultatov prospektivnih raziskav HPA-1a negativnih nosečnic ocenjujejo, da je pojavnost FNAIT 1 na 1.000 do 2.000 živorojenih otrok (<xref ref-type="bibr" rid="b2">2</xref>,<xref ref-type="bibr" rid="b3">3</xref>,<xref ref-type="bibr" rid="b4">4</xref>). Incidenca FNAIT na podlagi klinične diagnoze pa se po podatkih norveških in angleških raziskovalcev ocenjuje na 1 na 7.700 do 8.000 živorojenih otrok (<xref ref-type="bibr" rid="b5">5</xref>,<xref ref-type="bibr" rid="b6">6</xref>).</p>
+      </sec>
+      <sec id="s2" sec-type="Etiopatogeneza">
+         <label>2</label>
+         <title>Etiopatogeneza</title>
+         <p>FNAIT nastane zaradi senzibilizacije matere proti plodovim trombocitnim antigenom, ki jih je plod podedoval od očeta. Patogeneza bolezni je podobna hemolitični bolezni ploda in novorojenčka zaradi senzibilizacije matere proti eritrocitnim antigenom RhD ploda. Za razliko od hemolitične bolezni ploda in novorojenčka pride do senzibilizacije na trombocitne aloantigene pogosto že v prvi nosečnosti, tako da se pri senzibiliziranih prvesnicah trombocitopenija pojavi pri 20–60 % prvorojencev (<xref ref-type="bibr" rid="b7">7</xref>,<xref ref-type="bibr" rid="b8">8</xref>). Obdobje in mehanizem senzibilizacije nista popolnoma pojasnjena.</p>
+         <p>Senzibilizacijo pri FNAIT povzročajo specifični trombocitni antigeni HPA (<italic>angl</italic>
+            <italic>.</italic> human platelet antigens), ki so prisotni na trombocitih od 16. tedna nosečnosti in prehajajo skozi posteljico v materin krvni obtok, kjer lahko povzročijo tvorbo aloprotiteles (<xref ref-type="bibr" rid="b9">9</xref>). Na začetku senzibilizacije je količina plodovih trombocitov, ki prehajajo posteljico, najverjetneje prenizka, da bi povzročila imunski odgovor (<xref ref-type="bibr" rid="b10">10</xref>). Raziskovalci menijo, da so v patogenezo FNAIT zato najverjetneje vključene še druge celice, ki izražajo HPA, kot so trofoblasti posteljice (<xref ref-type="bibr" rid="b11">11</xref>).</p>
+         <p>Po senzibilizaciji začne materin imunski sistem tvoriti aloprotitelesa. Protitelesa razreda IgG prehajajo skozi posteljico v plodov krvni obtok, kjer se vežejo na plodove trombocite, ki jih nato retikuloendotelni sistem razgradi, kar vodi v trombocitopenijo. Aloprotitelesa razreda IgM ne prehajajo posteljice in ne sodelujejo v patogenezi FNAIT (<xref ref-type="bibr" rid="b9">9</xref>,<xref ref-type="bibr" rid="b12">12</xref>,<xref ref-type="bibr" rid="b13">13</xref>).</p>
+         <p>Antigeni HPA se nahajajo na glikoproteinskih receptorjih membrane trombocitov. Danes poznamo 35 različnih trombocitnih antigenov, 12 od njih spada v 6 bialelnih sistemov (HPA-1, -2, -3, -4, -5, in -15; <table-wrap position="float" id="table1">
+               <label>Tabela 1:</label>
+               <caption>
+                  <p> HPA aloantigeni/proteini. Povzeto po http://www.ebi.ac.uk/ipd/hpa/table1.html,<italic> </italic>julij 2017.</p>
+               </caption>
+               <table>
+                  <colgroup>
+                     <col/>
+                     <col/>
+                     <col/>
+                     <col/>
+                     <col/>
+                  </colgroup>
+                  <thead>
+                     <tr>
+                        <th>Sistem</th>
+                        <th>Antigen</th>
+                        <th>Originalno ime</th>
+                        <th>Glikoprotein</th>
+                        <th>CD</th>
+                     </tr>
+                  </thead>
+                  <tbody>
+                     <tr>
+                        <td>HPA-1</td>
+                        <td>HPA-1a<break/>HPA-1b</td>
+                        <td>Zw<sup>a</sup>, Pl<sup>A1<break/>
+                           </sup>Zw<sup>b</sup>, Pl<sup>A2</sup>
+                        </td>
+                        <td>GPIIIa</td>
+                        <td>CD61</td>
+                     </tr>
+                     <tr>
+                        <td>HPA-2</td>
+                        <td>HPA-2a<break/>HPA-2b</td>
+                        <td>Ko<sup>b</sup>
+                           <sup>
+                              <break/>
+                           </sup>Ko<sup>a, </sup>Sib<sup>a</sup>
+                        </td>
+                        <td>GPIb<italic>alpha</italic>
+                        </td>
+                        <td>CD42b</td>
+                     </tr>
+                     <tr>
+                        <td>HPA-3</td>
+                        <td>HPA-3a<break/>HPA-3b</td>
+                        <td>Bak<sup>a</sup>, Lek<sup>a<break/>
+                           </sup>Bak<sup>b</sup>
+                        </td>
+                        <td>GPIIb</td>
+                        <td>CD41</td>
+                     </tr>
+                     <tr>
+                        <td>HPA-4</td>
+                        <td>HPA-4a<break/>HPA-4b</td>
+                        <td>Yuk<sup>b</sup>, Pen<sup>a<break/>
+                           </sup>Yuk<sup>a</sup>, Pen<sup>b</sup>
+                        </td>
+                        <td>GPIIIa</td>
+                        <td>CD61</td>
+                     </tr>
+                     <tr>
+                        <td>HPA-5</td>
+                        <td>HPA-5a<break/>HPA-5b</td>
+                        <td>Br<sup>b</sup>, Zav<sup>b<break/>
+                           </sup>Br<sup>a</sup>, Zav<sup>a</sup>, Hc<sup>a</sup>
+                        </td>
+                        <td>GPIa</td>
+                        <td>CD49b</td>
+                     </tr>
+                     <tr>
+                        <td/>
+                        <td>HPA-6bw</td>
+                        <td>Ca<sup>a</sup>, Tu<sup>a</sup>
+                        </td>
+                        <td>GPIIIa</td>
+                        <td>CD61</td>
+                     </tr>
+                     <tr>
+                        <td/>
+                        <td>HPA-7bw</td>
+                        <td>Mo<sup>a</sup>
+                        </td>
+                        <td>GPIIIa</td>
+                        <td>CD61</td>
+                     </tr>
+                     <tr>
+                        <td/>
+                        <td>HPA-8bw</td>
+                        <td>Sr<sup>a</sup>
+                        </td>
+                        <td>GPIIIa</td>
+                        <td>CD61</td>
+                     </tr>
+                     <tr>
+                        <td/>
+                        <td>HPA-9bw</td>
+                        <td>Max<sup>a</sup>
+                        </td>
+                        <td>GPIIb</td>
+                        <td>CD41</td>
+                     </tr>
+                     <tr>
+                        <td/>
+                        <td>HPA10bw</td>
+                        <td>La<sup>a</sup>
+                        </td>
+                        <td>GPIIIa</td>
+                        <td>CD61</td>
+                     </tr>
+                     <tr>
+                        <td/>
+                        <td>HPA11bw</td>
+                        <td>Gro<sup>a</sup>
+                        </td>
+                        <td>GPIIIa</td>
+                        <td>CD61</td>
+                     </tr>
+                     <tr>
+                        <td/>
+                        <td>HPA12bw</td>
+                        <td>Iy<sup>a</sup>
+                        </td>
+                        <td>GPIb<italic>beta</italic>
+                        </td>
+                        <td>CD42c</td>
+                     </tr>
+                     <tr>
+                        <td/>
+                        <td>HPA13bw</td>
+                        <td>Sit<sup>a</sup>
+                        </td>
+                        <td>GPIa</td>
+                        <td>CD49b</td>
+                     </tr>
+                     <tr>
+                        <td/>
+                        <td>HPA14bw</td>
+                        <td>Oe<sup>a</sup>
+                        </td>
+                        <td>GPIIIa</td>
+                        <td>CD61</td>
+                     </tr>
+                     <tr>
+                        <td>HPA-15</td>
+                        <td>HPA-15a<break/>HPA-15b</td>
+                        <td>Gov<sup>b<break/>
+                           </sup>Gov<sup>a</sup>
+                        </td>
+                        <td>CD109</td>
+                        <td>CD109</td>
+                     </tr>
+                     <tr>
+                        <td/>
+                        <td>HPA-16bw</td>
+                        <td>Duv<sup>a</sup>
+                        </td>
+                        <td>GPIIIa</td>
+                        <td>CD61</td>
+                     </tr>
+                     <tr>
+                        <td/>
+                        <td>HPA-17bw</td>
+                        <td>Va<sup>a</sup>
+                        </td>
+                        <td>GPIIb/IIIa</td>
+                        <td>CD61</td>
+                     </tr>
+                     <tr>
+                        <td/>
+                        <td>HPA-18bw</td>
+                        <td>Cab<sup>a</sup>
+                        </td>
+                        <td>GPIa</td>
+                        <td>CD49b</td>
+                     </tr>
+                     <tr>
+                        <td/>
+                        <td>HPA-19bw</td>
+                        <td>Sta</td>
+                        <td>GPIIIa</td>
+                        <td>CD61</td>
+                     </tr>
+                     <tr>
+                        <td/>
+                        <td>HPA-20bw</td>
+                        <td>Kno</td>
+                        <td>GPIIb</td>
+                        <td>CD41</td>
+                     </tr>
+                     <tr>
+                        <td/>
+                        <td>HPA-21bw</td>
+                        <td>Nos</td>
+                        <td>GPIIIa</td>
+                        <td>CD61</td>
+                     </tr>
+                     <tr>
+                        <td/>
+                        <td>HPA-22bw</td>
+                        <td>Sey</td>
+                        <td>GPIIb</td>
+                        <td>CD41</td>
+                     </tr>
+                     <tr>
+                        <td/>
+                        <td>HPA-23bw</td>
+                        <td>Hug</td>
+                        <td>GPIIIa</td>
+                        <td>CD61</td>
+                     </tr>
+                     <tr>
+                        <td/>
+                        <td>HPA-24bw</td>
+                        <td>Cab2<sup>a + </sup>
+                        </td>
+                        <td>GPIIb</td>
+                        <td>CD41</td>
+                     </tr>
+                     <tr>
+                        <td/>
+                        <td>HPA-25bw</td>
+                        <td>Swi<sup>a</sup>
+                        </td>
+                        <td>GPIa</td>
+                        <td>CD49b</td>
+                     </tr>
+                     <tr>
+                        <td/>
+                        <td>HPA-26bw</td>
+                        <td>Sec<sup>a</sup>
+                        </td>
+                        <td>GPIIIa</td>
+                        <td>CD61</td>
+                     </tr>
+                     <tr>
+                        <td/>
+                        <td>HPA-27bw</td>
+                        <td>Cab<sup>3a + </sup>
+                        </td>
+                        <td>GPIIb</td>
+                        <td>CD41</td>
+                     </tr>
+                     <tr>
+                        <td/>
+                        <td>HPA-28bw</td>
+                        <td>War</td>
+                        <td>GPIIb</td>
+                        <td>CD41</td>
+                     </tr>
+                     <tr>
+                        <td/>
+                        <td>HPA-29bw</td>
+                        <td>Kha<sup>b</sup>
+                        </td>
+                        <td>GPIIIa</td>
+                        <td>CD61</td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table-wrap-foot>
+                  <p>Legenda: HPA - <italic>angl. human platelet </italic>
+                     <italic>antigens</italic>, trombocitni antigeni; GP – glikoproteini; CD – označevalci pripadnosti.</p>
+               </table-wrap-foot>
+            </table-wrap>
+            <xref ref-type="table" rid="table1">Tabela 1</xref>) (<xref ref-type="bibr" rid="b14">14</xref>). FNAIT pri belcih v 80–90 % primerov povzročijo protitelesa proti HPA-1a (<xref ref-type="bibr" rid="b7">7</xref>,<xref ref-type="bibr" rid="b12">12</xref>,<xref ref-type="bibr" rid="b15">15</xref>). Antigen HPA-1a se nahaja na integrinu β3 in ga povzroča polimorfizem Leu33Pro. Nosilci Leu33 alela so HPA-1a pozitivni, homozigoti Pro33 alela pa so HPA-1a negativni in jih označujemo kot HPA-1b/b (1¸4). Delež HPA-1a negativnih oseb je v kavkaški (naši) populaciji 2,5 %, vendar bo anti-HPA-1a razvilo le 10 % HPA-1a negativnih nosečnic, ki nosi HPA-1a pozitivni plod (<xref ref-type="bibr" rid="b10">10</xref>). Prisotnost antigena HLA-DR B3*0101 pomembno zveča verjetnost senzibilizacije med nosečnostjo s HPA-1a pozitivnim plodom. Ob tej kombinaciji antigenov se namreč senzibilizira kar 35 % nosečnic, kar pomeni, da molekula haplotipa HLA-DR B3*0101 zelo uspešno predstavlja antigen HPA-1a imunskim celicam HPA-1a negativne matere (<xref ref-type="bibr" rid="b8">8</xref>). Druga najpogostejša protitelesa, odgovorna za razvoj FNAIT, so anti-HPA-5b (10–15 %). Ostala, sorazmerno pogosta protitelesa so še anti-HPA-1b, anti-HPA-15, anti-HPA-3 in anti-HPA-9b (skupaj 5 % vseh primerov) (<xref ref-type="bibr" rid="b7">7</xref>,<xref ref-type="bibr" rid="b8">8</xref>,<xref ref-type="bibr" rid="b9">9</xref>,<xref ref-type="bibr" rid="b15">15</xref>).</p>
+         <p>Redko je trombocitopenija novorojenčka posledica prenosa avtoprotiteles pri materi s primarno imunsko trombocitopenijo (ITP) preko posteljice. Materina avtoprotitelesa običajno ne povzročajo trombocitopenije pri otroku ali pa je prisotna le blaga trombocitopenija brez kliničnih znakov. Opisano je le nekaj primerov težke neonatalne trombocitopenije, ki so jo povzročila materina avtoprotitelesa (<xref ref-type="bibr" rid="b16">16</xref>).</p>
+         <p>Vloga protiteles anti-A in anti-B iz krvnoskupinskega sistema ABO ter protiteles anti-HLA-A in -HLA-B v serumu nosečnice pri pojavu trombocitopenije ni povsem jasna. Raziskave kažejo, da protitelesa anti-A in -B ter protitelesa anti-HLA-A in -HLA-B najverjetneje niso pomembna v patogenezi FNAIT in ne povzročajo trombocitopenije pri novorojenčku. V literaturi je opisano le nekaj primerov FNAIT, ki jih povzročajo protitelesa anti-A in -B ter anti-HLA-A in -HLA-B (<xref ref-type="bibr" rid="b8">8</xref>,<xref ref-type="bibr" rid="b17">17</xref>).</p>
+      </sec>
+      <sec id="s3" sec-type="Klinična slika in izvidi laboratorijskih preiskav">
+         <label>3</label>
+         <title>Klinična slika in izvidi laboratorijskih preiskav</title>
+         <p>Novorojenček s FNAIT je lahko brez bolezenskih znakov, v 85–90 % FNAIT, povzročene s protitelesi anti-HPA-1a, pa so prisotni znaki hemoraške diateze; najpogosteje petehije, hematomi in mukozne krvavitve. Krvavitev iz prebavil opažamo pri eni tretjini bolnikov, medtem ko je krvavitev iz sečil redka. Znotrajlobanjska krvavitev, ki je sicer redek zaplet (prisotna pri 10–15 % novorojenčkov s simptomi) (<xref ref-type="bibr" rid="b8">8</xref>,<xref ref-type="bibr" rid="b10">10</xref>,<xref ref-type="bibr" rid="b13">13</xref>), je najpogostejši vzrok smrti in trajnih nevroloških posledic (<xref ref-type="bibr" rid="b18">18</xref>). V 80 % nastane znotrajlobanjska krvavitev prenatalno (<xref ref-type="bibr" rid="b19">19</xref>), po porodu pa je največje tveganje za njen nastanek v prvih 96 urah življenja (<xref ref-type="bibr" rid="b8">8</xref>). Pri FNAIT, povzročeni z anti-HPA-5b, je 2/3 bolnikov brez bolezenskih znakov, vendar lahko znotrajlobanjsko krvavitev kljub temu utrpijo (<xref ref-type="bibr" rid="b9">9</xref>,<xref ref-type="bibr" rid="b10">10</xref>).</p>
+         <p>Do znotrajlobanjske krvavitve zaradi FNAIT lahko pride že pri plodu, kar ima lahko za posledico destrukcijo možganovine, ventrikulomegalijo, nastanek porencefalne ciste, hidrops ploda in smrt (<xref ref-type="bibr" rid="b21">21</xref>). Tveganje za nastanek znotrajlobanjske krvavitve pri plodu nosečnice, ki je že imela plod z znotrajlobanjsko krvavitvijo v prejšnji nosečnosti, je 72 % (interval 46–98 %) (<xref ref-type="bibr" rid="b20">20</xref>).</p>
+         <p>Pri novorojenčku s FNAIT je po rojstvu, običajno v prvih 24–48 urah življenja, prisotna zgolj nepojasnjena trombocitopenija. Število trombocitov (Tr) je najpogosteje med 10 in 50 × 10<sup>9</sup>/L. V večini primerov se trombocitopenija v prvih 48 urah poglablja in pri polovici pade pod 10 × 10<sup>9</sup>/L (<xref ref-type="bibr" rid="b12">12</xref>). Trombocitopenija, povzročena s protitelesi anti-HPA-1a, je običajno težje stopnje v primerjavi s trombocitopenijo, povzročeno z anti-HPA-5b, ki je nekoliko blažja (<xref ref-type="bibr" rid="b13">13</xref>). V raziskavi Bussela s sod. je bilo ugotovljeno, da je povprečno število trombocitov pri plodu s fetalno aloimunsko trombocitopenijo zaradi protiteles anti-HPA-1a 18 × 10<sup>9</sup>/L, pri drugih anti-HPA protitelesih pa 60 × 10<sup>9</sup>/L (<xref ref-type="bibr" rid="b21">21</xref>). Trombocitopenija običajno traja 2–6 tednov in nato spontano izzveni, zato večina novorojenčkov ne potrebuje zdravljenja (<xref ref-type="bibr" rid="b8">8</xref>). V redkih primerih zaradi krvavitve pri FNAIT beležimo tudi anemijo in hiperbilirubinemijo (<xref ref-type="bibr" rid="b22">22</xref>). Pri vsakem naslednjem otroku z neskladjem v trombocitnih antigenih je trombocitopenija izražena z enako ali večjo intenzivnostjo (<xref ref-type="bibr" rid="b8">8</xref>,<xref ref-type="bibr" rid="b13">13</xref>).</p>
+      </sec>
+      <sec id="s4" sec-type="Diagnosticiranje">
+         <label>4</label>
+         <title>Diagnosticiranje</title>
+         <p>Na FNAIT posumimo pri novorojenčku, ki ima izolirano trombocitopenijo s hemoraško diatezo ali brez nje v odsotnosti drugih, pogostejših vzrokov trombocitopenije. Število trombocitov pri materi je normalno, potek nosečnosti in porod sta brez zapletov, v anamnezi ni podatka o avtoimunskih boleznih matere ali jemanju zdravil, ki lahko povzročajo trombocitopenijo pri novorojenčku (<xref ref-type="bibr" rid="b10">10</xref>,<xref ref-type="bibr" rid="b12">12</xref>,<xref ref-type="bibr" rid="b13">13</xref>). S kliničnim pregledom in preiskavami so drugi vzroki neonatalne trombocitopenije (znotrajmaternična okužba, policitemija, tromboza, prirojene nepravilnosti, za katere je značilna trombocitopenija, diseminirana intravaskularna koagulacija kot posledica okužbe ali hude krvavitve) izključeni (<xref ref-type="bibr" rid="b10">10</xref>,<xref ref-type="bibr" rid="b23">23</xref>).</p>
+         <p>Ob sumu na FNAIT moramo z laboratorijskimi testi ugotoviti, ali so v materinem serumu dejansko prisotna trombocitna protitelesa in nato določiti njihovo specifičnost. Smiselno je, da določimo tudi genotip HPA matere in očeta. Neskladje v antigenih HPA med materjo in očetom je pomembno za napoved tveganja v naslednjih nosečnostih, vodenje nosečnosti in ustrezno zdravljenje, če je le-to potrebno (<xref ref-type="bibr" rid="b24">24</xref>).</p>
+         <p>Serološka diagnostika FNAIT temelji na dokazovanju trombocitnih protiteles v materinem in otrokovem serumu z indirektnim imunofluorescenčnim testom ter dokazovanju trombocitnih protiteles, ki so vezana na trombocitih novorojenca, z direktnim imunofluorescenčnim testom (<xref ref-type="bibr" rid="b25">25</xref>). Ker nam serum in trombociti novorojenca mnogokrat niso dostopni, za dokaz trombocitnih protiteles uporabimo serum matere. Če v serumu matere dokažemo trombocitna protitelesa, je treba le-ta še specificirati.</p>
+         <p>Za specifikacijo protiteles HPA uporabljamo encimsko-imunski test (<italic>angl.</italic> enzyme linked immunosorbent assay - ELISA). Test ELISA omogoča ločevanje protiteles anti-HPA-1a, -1b, -3a, -3b, -4a, -5a, -5b ter protiteles anti-gpIa/IIa in anti-HLA (<xref ref-type="bibr" rid="b26">26</xref>).</p>
+         <p>Serološka potrditev FNAIT in specifikacija trombocitnih protiteles pri materi sta zelo pomembni za vodenje nadaljnjih nosečnosti, saj je znano, da vsa trombocitna protitelesa niso enako agresivna ter da je trombocitopenija pri vsakem naslednjem otroku z neskladjem v trombocitnih antigenih izražena z enako ali večjo intenzivnostjo (<xref ref-type="bibr" rid="b8">8</xref>,<xref ref-type="bibr" rid="b13">13</xref>).</p>
+         <p>Za določanje trombocitnih antigenov HPA uporabljamo serološke in molekularno-biološke teste. Najpogosteje se uporablja verižna reakcija s polimerazo s specifičnim zaporedjem začetnih oligonukleotidov (<italic>angl.</italic> polymerase chain reaction-sequence specific primers – PCR-SSP). V kolikor je nosečnica HPA-1a negativna (HPA-1b/b), oče pa homozigot HPA-1a/a, bo plod vedno HPA-1a pozitiven ter zato ogrožen za razvoj FNAIT. Če je nosečnica HPA-1b/b, oče pa heterozigot HPA-1a/b, je možnost, da je plod HPA-1a pozitiven 50-odstotna. V tem primeru je določanje plodovih trombocitnih antigenov iz celic iz amnijske tekočine ali biopsije horionskih resic z metodo PCR-SSR še zlasti pomembno, saj omogoča zgodnejše zdravljenje ogroženega ploda. Testi za neinvazivno prenatalno testiranje in določitev plodovega genotipa HPA-1a iz prostih celičnih fragmentov plodove DNK, ki so prisotni v periferni krvi nosečnice, so še v razvoju in trenutno dostopni le v raziskovalnih laboratorijih (<xref ref-type="bibr" rid="b14">14</xref>).</p>
+         <p>Kordocenteza z namenom določiti trombocitopenijo pri plodu in odločiti potrebo po transfuziji trombocitov ploda se zaradi tveganosti posega ne priporoča več (<xref ref-type="bibr" rid="b14">14</xref>).</p>
+         <p>Predimplantacijska genetska diagnostika v sklopu <italic>in vitro</italic> fertilizacije, s katero lahko izberemo HPA-1a negativen zarodek, ki ga nato s postopkom prenosa zarodka vnesemo HPA-1a negativni ženski, je trenutno možnost prihodnosti, saj je bil doslej v literature opisan le en tak primer (<xref ref-type="bibr" rid="b27">27</xref>).</p>
+         <p>Ugotavljanja neskladnosti v antigenih HPA med materjo in očetom z metodo PCR-SSP se je smiselno poslužiti tudi v primerih, ko s serološkimi testi ne uspemo dokazati trombocitnih protiteles v serumu matere, bodisi zaradi nizkega titra ali nizke avidnosti protiteles (<xref ref-type="bibr" rid="b9">9</xref>).</p>
+      </sec>
+      <sec id="s5" sec-type="Zdravljenje">
+         <label>5</label>
+         <title>Zdravljenje</title>
+         <sec id="s5.1" sec-type="Novorojenček">
+            <label>5.1</label>
+            <title>Novorojenček</title>
+            <p>Zdravljenje FNAIT-a je odvisno od stopnje trombocitopenije in klinične slike. Zdravljenje s transfuzijo trombocitov se priporoča, če je število trombocitov pod 30 × 10<sup>9</sup>/L pri klinično stabilnem novorojenčku (še posebej v prvih dneh življenja) (<xref ref-type="bibr" rid="b28">28</xref>,<xref ref-type="bibr" rid="b29">29</xref>), oziroma pod 50 × 10<sup>9</sup>/L pri novorojenčku z znaki krvavitve ali s pridruženimi boleznimi (<xref ref-type="bibr" rid="b8">8</xref>,<xref ref-type="bibr" rid="b10">10</xref>,<xref ref-type="bibr" rid="b16">16</xref>,<xref ref-type="bibr" rid="b28">28</xref>).</p>
+            <p>Če je mogoče, novorojenček prejme transfuzijo materinih trombocitov, saj aloprotitelesa, ki so prisotna v krvi otroka, z njimi ne reagirajo. Materina trombocitna enota mora biti pred uporabo ustrezno pripravljena, tako da odstranimo aloprotitelesa. Vsako enoto trombocitov, namenjeno novorojenčkom, filtriramo in obsevamo in tako preprečimo s transfuzijo povzročeno bolezen presadka proti gostitelju (<italic>angl.</italic> graft versus host disease - GVHD) (<xref ref-type="bibr" rid="b15">15</xref>).</p>
+            <p>Če materinih trombocitov ni mogoče uporabiti, pridobimo trombocitne pripravke z aferezo, najbolje HPA-1a negativnih dajalcev, ali z zlitjem več enot (‚buffycoat‘) različnih dajalcev. Dajalci trombocitov morajo biti CMV negativni, trombociti pa tudi v tem primeru filtrirani in obsevani (<xref ref-type="bibr" rid="b3">3</xref>).</p>
+            <p>Novorojenčka lahko zdravimo tudi z intravenskimi gamaglobulini (IVIG) v odmerku 0,4–1 g/kg telesne teže/dan 2–5 dni zapored (<xref ref-type="bibr" rid="b1">1</xref>,<xref ref-type="bibr" rid="b8">8</xref>,<xref ref-type="bibr" rid="b29">29</xref>). Po aplikaciji IVIG ugotavljamo zadovoljiv učinek pri 2/3 bolnikov, število trombocitov pa poraste nad 50 × 10<sup>9</sup>/L po 48 urah. Pomanjkljivost zdravljenja z IVIG je odložen učinek, zato ga, še posebej v primeru krvavitev ali hude trombocitopenije, kombiniramo s transfuzijami trombocitov (<xref ref-type="bibr" rid="b1">1</xref>,<xref ref-type="bibr" rid="b8">8</xref>).</p>
+         </sec>
+         <sec id="s5.2" sec-type="Plod">
+            <label>5.2</label>
+            <title>Plod</title>
+            <p>Ukrepi pri HPA alosenzibilizirani nosečnici so odvisni od izida predhodne nosečnosti in genotipa plodovih oziroma očetovih trombocitov. Če je oče homozigot za trombocitni antigen, bo plod v vsakem primeru neskladen z materjo. Če je oče heterozigot, je verjetnost, da bo plod neskladen z materjo 50 %. Genotip ploda lahko določimo z analizo celic, pridobljenih z amniocentezo ali biopsijo horionskih resic (<xref ref-type="bibr" rid="b14">14</xref>).</p>
+            <p>Če je prisotna neskladnost v trombocitnih antigenih med materjo in plodom, proti katerim ima mati dokazana protitelesa, mora biti porod načrtovan in opravljen s carskim rezom po dopolnjenem 37. tednu. S tem se zmanjša možnost znotrajlobanjske krvavitve med vaginalnim porodom (<xref ref-type="bibr" rid="b31">31</xref>).</p>
+            <p>Indikacije za prenatalno zdravljenje niso jasno določene. Leta 2011 je skupina strokovnjakov izdala priporočila za zdravljenje in vodenje nosečnic s trombocitnimi protitelesi ali anamnezo trombocitopenije novorojenčka po prejšnjem porodu matere. Priporočila so oblikovali na osnovi rezultatov kliničnih raziskav in mnenja strokovnjakov s tega področja (expert opinion) (<xref ref-type="bibr" rid="b31">31</xref>). Zaradi tveganosti kordocenteze za določitev števila trombocitov pri plodu so trenutno terapevtske indikacije osnovane na rezultatih seroloških testiranj ter stopnji trombocitopenije in pojavnosti znotrajlobanjske krvavitve v predhodni nosečnosti (<xref ref-type="bibr" rid="b31">31</xref>). Čeprav je transfuzija trombocitov plodu možen terapevtski ukrep, se danes svetuje predvsem zdravljenje matere z imunoglobulini, kortikosteroidi ali obojim, pri čemer je slednje najbolj učinkovito (<xref ref-type="bibr" rid="b32">32</xref>).</p>
+         </sec>
+      </sec>
+      <sec id="s6" sec-type="Preventiva in presejanje nosečnic">
+         <label>6</label>
+         <title>Preventiva in presejanje nosečnic</title>
+         <p>Čeprav velja, da do alosenzibilizacije HPA-1a negativne nosečnice lahko pride že zelo zgodaj v nosečnosti, novejše prospektivne raziskave dokazujejo, da se &gt; 75 % HPA-1a negativnih nosečnic aloimunizira ob porodu (<xref ref-type="bibr" rid="b33">33</xref>). Te ugotovitve potrjujejo podobnost FNAIT s hemolitično boleznijo ploda in novorojenčka, zato trenutno potekajo raziskave, ki bi podprle domnevo, da lahko s postnatalno aplikacijo anti-HPA-1a protiteles po porodu pri HPA-1a negativni nosečnici, ki rodi HPA-1a pozitivnega otroka, preprečimo alosenzibilizacijo (<xref ref-type="bibr" rid="b14">14</xref>).</p>
+         <p>Trenutno v svetu še ni nacionalnega programa, ki bi testiral vse nosečnice in s tem identificiral HPA-1a negativne nosečnice, ki so ogrožene za alosenzibilizacijo (<xref ref-type="bibr" rid="b14">14</xref>). Čeprav so norveški raziskovalci dokazali, da presejalni program izboljša klinični izid (<xref ref-type="bibr" rid="b4">4</xref>) in je ekonomsko upravičen (<xref ref-type="bibr" rid="b34">34</xref>), nacionalni presejalni programi zaenkrat niso bili odobreni predvsem zaradi pomanjkanja preventivnih ukrepov in učinkovitega ter enotnega zdravljenja. Zaradi odsotnosti presejanja predlagani protokoli prenatalne obravnave temeljijo na anamnestičnem podatku o znotrajlobanjski krvavitvi ali trombocitopeniji pri predhodnem otroku, s čimer pa običajno zgrešimo prvo nosečnost, v kateri pride do FNAIT.</p>
+      </sec>
+      <sec id="s7"
+           sec-type="Retrospektivni pregled bolnikov s FNAIT v Sloveniji v obdobju med letoma 1996 in 2016">
+         <label>7</label>
+         <title>Retrospektivni pregled bolnikov s FNAIT v Sloveniji v obdobju med letoma 1996 in 2016</title>
+         <sec id="s7.1" sec-type="Namen raziskave">
+            <label>7.1</label>
+            <title>Namen raziskave</title>
+            <p>Pojavnost in klinična razsežnost FNAIT v Sloveniji nista znani. Namen opravljene retrospektivne raziskave je bil ugotoviti pojavnost in etiologijo FNAIT v Sloveniji ter klinično sliko bolnikov s FNAIT.</p>
+         </sec>
+         <sec id="s7.2" sec-type="Metode">
+            <label>7.2</label>
+            <title>Metode</title>
+            <sec id="s7.2.1" sec-type="Zasnova raziskave in preučevana populacija">
+               <label>7.2.1</label>
+               <title>Zasnova raziskave in preučevana populacija</title>
+               <p>Raziskavo smo zasnovali kot retrospektivno kohortno raziskavo. V raziskavo smo vključili vse otroke, rojene med januarjem 1996 in decembrom 2016, ki so izpolnjevali merila za FNAIT in bili hospitalizirani na dveh oddelkih Univerzitetnega kliničnega centra Ljubljana (Kliničnem oddelku za perinatologijo Ginekološke klinike (KOP UKCL) in Kliničnem oddelku za neonatologijo Pediatrične klinike (KON UKCL)) in na Oddelku za perinatologijo Univerzitetnega kliničnega centra Maribor (UKCM). Glede na delitev dela in organizacijo neonatalne službe v Sloveniji smo z vključitvijo omenjenih oddelkov v raziskavo verjetno zajeli veliko večino slovenskih bolnikov, pri katerih je bila diagnosticirana FNAIT.</p>
+               <p>Diagnostična merila za FNAIT so bila trombocitopenija pri novorojenčku (Tr &lt; 120 × 10<sup>9</sup>/L) in pozitivni serološki testi za dokaz trombocitnih protiteles pri materi in/ali novorojenčku ter odsotnost drugih možnih vzrokov za trombocitopenijo.</p>
+               <p>Zbiranje nabora novorojencev je potekalo v dveh fazah. V prvi fazi smo za obdobje med januarjem 1996 in decembrom 2016 iz informacijskega sistema Zavoda republike Slovenije za transfuzijsko medicino (ZTM) pridobili seznam vseh nosečnic, otročnic in novorojenčkov iz omenjenih bolnišničnih oddelkov, pri katerih so bile opravljene preiskave za dokazovanje prisotnosti trombocitnih protiteles. V drugi fazi smo identificirali vse matere, pri katerih smo dokazali trombocitna protitelesa, novorojenček pa je imel trombocitopenijo ter odsotnost drugih vzrokov za trombocitopenijo, in tudi vse novorojenčke, pri katerih so bila dokazana trombocitna protitelesa. Novorojenčke s trombocitopenijo, katerih matere niso imele dokazanih trombocitnih protiteles, smo izključili iz raziskave. Za končni nabor bolnikov smo nato pridobili popise bolezni.</p>
+               <p>Raziskavo je odobrila Komisija za medicinsko etiko Republike Slovenije (št. odločbe 0120–635/2016–5).</p>
+            </sec>
+            <sec id="s7.2.2" sec-type="Zbiranje podatkov">
+               <label>7.2.2</label>
+               <title>Zbiranje podatkov</title>
+               <p>Iz popisov bolezni otrok smo zbrali osnovne demografske podatke ter podatke o kliničnem poteku, zdravljenju in izidu bolezni. Blago trombocitopenijo smo opredelili kot število Tr med 100–120 × 10<sup>9</sup>/L, zmerno kot število Tr med 50 in 100 × 10<sup>9</sup>/L, hudo kot število Tr &lt; 50 × 10<sup>9</sup>/L. Podatke o rezultatih serološkega testiranja in specifikacije trombocitnih protiteles smo pridobili iz informacijskega sistema ZTM.</p>
+            </sec>
+            <sec id="s7.2.3" sec-type="Statistična analiza">
+               <label>7.2.3</label>
+               <title>Statistična analiza</title>
+               <p>Pri izračunu pojavnosti FNAIT smo upoštevali, da se vse prošnje za identifikacijo trombocitnih protiteles iz vseh slovenskih zdravstvenih zavodov pošlje na ZTM. Poleg tega smo predvidevali, da so slovenski novorojenčki z nepojasnjeno trombocitopenijo premeščeni v dve terciarni zdravstveni ustanovi (KON UKCL in UKCM) ali pa rojeni v porodnišnici Ljubljana (KOP UKCL) in Maribor (UKCM), kamor so usmerjene nosečnice z obremenilno anamnezo za FNAIT oziroma pozitivnimi testi na trombocitne antigene. Število tako pridobljenih bolnikov s FNAIT je števec, število živorojenih otrok v 21-letnem obdobju pa imenovalec v izračunu pojavnosti FNAIT v Sloveniji. Pridobljeni količnik smo izrazili na 1000 živorojenih otrok. Podatke o številu živorojenih otrok v Sloveniji smo pridobili v Statističnem letopisu Republike Slovenije za leta od 1996 do 2016 (http://www.stat.si).</p>
+               <p>Statistično obdelavo podatkov smo opravili s pomočjo statističnega paketa IBM SPSS Statistics, različica 21 (IBM Corporation, Armonk, ZDA). Za pridobljene podatke smo predstavili deleže, povprečja, standardne odklone, mediane, interkvartilni razmik (IQR) in intervale zaupanja (IZ). IZ smo izračunali za deleže z normalno aproksimacijo (za n &lt; 30 pa Agresti-Coull) (<xref ref-type="bibr" rid="b35">35</xref>). V primeru negativne spodnje vrednosti IZ smo za spodnjo mejo IZ zabeležili številko nič. Za primerjavo asimetrično porazdeljenih številskih spremenljivk med skupinama smo uporabili Mann-Whitneyev test. Za primerjavo deležev v podskupinah smo uporabili Fisherjev eksaktni test. Za statistično značilno razliko smo upoštevali vrednost p &lt; 0,05.</p>
+            </sec>
+         </sec>
+         <sec id="s7.3" sec-type="Rezultati">
+            <label>7.3</label>
+            <title>Rezultati</title>
+            <sec id="s7.3.1" sec-type="Vključeni bolniki">
+               <label>7.3.1</label>
+               <title>Vključeni bolniki</title>
+               <p>V obdobju od januarja 1996 do decembra 2016 je bilo na ZTM opravljenih 229 testov za dokazovanje trombocitnih protiteles pri novorojenčkih, otročnicah in nosečnicah iz treh v raziskavo vključenih oddelkov (KOP UKCL, KON UKCL in UKCM). 143 testov je bilo negativnih in 86 pozitivnih na trombocitna protitelesa. Po izključitvi podvojenih bolnikov in identifikaciji parov otrok/mati je bilo na voljo 62 pozitivnih seroloških testov, ki smo jih lahko povezali z novorojenčki: 24 (39 %) iz KON UKCL, 33 (53 %) iz KOP UKCL in 5 (8 %) iz UKCM; od tega je bilo 54 vzorcev od mater, 1 vzorec od otroka in 7 parnih vzorcev – za otroka in mati (<xref ref-type="fig" rid="fig1">Slika 1</xref>). Novorojenčki desetih otročnic, ki so imele dokazana trombocitna protitelesa (protitelesa so bila anti-HLA, nobena otročnica ni imela protiteles HPA), niso razvili trombocitopenije. Za 16 otrok nismo uspeli pridobiti popisov. Podatke o demografskih značilnostih in klinični sliki otrok s FNAIT ter izvidih trombocitnih testiranj in zdravljenju nosečnic ali otrok smo tako pridobili za 39 primerov.</p>
+               <fig position="anchor" id="fig1">
+                  <label>Slika 1:</label>
+                  <caption>
+                     <p> Shema nabora bolnikov.</p>
+                  </caption>
+                  <p>
+                     <graphic xlink:href="2657-web-resources/image/zdravvestn-2657-sl-01.png"/>
+                  </p>
+                  <p>Legenda: KOP UKCL – Klinični oddelek za perinatologijo Ginekološke klinike Univerzitetnega kliničnega centra Ljubljana; KON UKCL – Klinični oddelek za neonatologijo Pediatrične klinike Univerzitetnega kliničnega centra Ljubljana; UKCM – Oddelek za perinatologijo, Univerzitetnega kliničnega centra Maribor, HPA – Protitelesa anti-HPA, HLA – Protitelesa anti-HLA; NESP – Specifikacija protiteles ni bila izvedena</p>
+               </fig>
+            </sec>
+            <sec id="s7.3.2" sec-type="Pojavnost FNAIT">
+               <label>7.3.2</label>
+               <title>Pojavnost FNAIT</title>
+               <p>V obdobju od leta 1996 do 2016 se je v Sloveniji rodilo 410.310 otrok (http://www.stat.si). V tem obdobju je bilo po podatkih ZTM, ki edini izvajajo diagnostiko trombocitnih protiteles, 62 vzorcev mater ali otrok pozitivnih na trombocitna protitelesa. Novorojenčki desetih otročnic kljub prisotnosti trombocitnih protiteles pri materi niso razvili trombocitopenije. Za 16 otrok nismo uspeli pridobiti popisa, zato podatka, ali so imeli trombocitopenijo, nimamo. Tri nosečnice so imele po dva otroka s trombocitopenijo. V obdobju 1996–2016 je FNAIT torej zagotovo imelo 39 otrok (mogoče celo 55 (39 + 16) otrok), kar predstavlja števec, število živorojenih v omenjenem obdobju pa imenovalec v izračunu pojavnosti. Pojavnost FNAIT v Sloveniji je bila torej v omenjenem obdobju 1/10000 živorojenih (95 % IZ, [0,6/10000; 1,3/10000]), torej povprečno dva otroka s FNAIT letno.</p>
+            </sec>
+            <sec id="s7.3.3" sec-type="Klinične značilnosti in trombocitna protitelesa">
+               <label>7.3.3</label>
+               <title>Klinične značilnosti in trombocitna protitelesa</title>
+               <p>V končno analizo je bilo vključenih 12 (30,5 %) deklic in 27 (69,5 %) dečkov. Mediana gestacijske starosti otrok s FNAIT je bila 39 (IQR 3) tednov, 8 otrok je bilo nedonošenih, mediana porodne teže pa je bila 3180 (IQR 760) g. (<xref ref-type="table" rid="table2">Tabela 2</xref>) Večina, 31 (79 %), otrok je bilo rojenih vaginalno. Pozitivna anamneza na trombocitopenijo v neonatalnem obdobju pri sorojencu je bila prisotna v 6 (15 %) (95 % IZ [4 %; 26 %]) primerih, porod s carskim rezom je bil le v dveh od omenjenih šestih primerov.</p>
+               <table-wrap position="anchor" id="table2">
+                  <label>Tabela 2:</label>
+                  <caption>
+                     <p> Osnovni demografski in perinatalni podatki vključenih novorojenčkov. </p>
+                     <p>Legenda: SD – standardni odklon; IQR – interkvartilni razmik; HPA – <italic>angl</italic>. <italic>human platelet antigens, </italic>trombocitni antigeni; HLA – humani levkocitni antigeni.</p>
+                  </caption>
+                  <table>
+                     <colgroup>
+                        <col/>
+                        <col/>
+                        <col/>
+                        <col/>
+                        <col/>
+                        <col/>
+                        <col/>
+                     </colgroup>
+                     <thead>
+                        <tr>
+                           <th/>
+                           <th colspan="2">
+                              <p>anti-HPA-1a in anti-HPA-1a + anti-HLA</p>
+                              <p>n = 15</p>
+                           </th>
+                           <th colspan="2">
+                              <p>Ostala trombocitna protitelesa</p>
+                              <p>n = 24</p>
+                           </th>
+                           <th colspan="2">
+                              <p>Skupaj</p>
+                              <p>n = 39</p>
+                           </th>
+                        </tr>
+                     </thead>
+                     <tbody>
+                        <tr>
+                           <th content-type="table-subhead">Spol</th>
+                           <th content-type="table-subhead">n</th>
+                           <th content-type="table-subhead">(%)</th>
+                           <th content-type="table-subhead">n</th>
+                           <th content-type="table-subhead">(%)</th>
+                           <th content-type="table-subhead">n</th>
+                           <th content-type="table-subhead">(%)</th>
+                        </tr>
+                        <tr>
+                           <td>Moški</td>
+                           <td align="right">12</td>
+                           <td align="right">(80)</td>
+                           <td align="right">15</td>
+                           <td align="right">(62)</td>
+                           <td align="right">27</td>
+                           <td align="right">(69,5)</td>
+                        </tr>
+                        <tr>
+                           <td>Ženski</td>
+                           <td align="right">3</td>
+                           <td align="right">(20)</td>
+                           <td align="right">9</td>
+                           <td align="right">(38)</td>
+                           <td align="right">12</td>
+                           <td align="right">(30,5)</td>
+                        </tr>
+                        <tr>
+                           <th content-type="table-subhead" colspan="7">Porodna teža v g</th>
+                        </tr>
+                        <tr>
+                           <td>Povprečje (SD)</td>
+                           <td align="right" colspan="2">3128 (410)</td>
+                           <td align="right" colspan="2">2960 (700)</td>
+                           <td align="right" colspan="2">3024 (604)</td>
+                        </tr>
+                        <tr>
+                           <td>Mediana (IQR)</td>
+                           <td align="right" colspan="2">3250 (690)</td>
+                           <td align="right" colspan="2">3040 (1390)</td>
+                           <td align="right" colspan="2">3180 (760)</td>
+                        </tr>
+                        <tr>
+                           <th content-type="table-subhead" colspan="7">Gestacijska starost v tednih</th>
+                        </tr>
+                        <tr>
+                           <td>Povprečje (SD)</td>
+                           <td align="right" colspan="2">38,4 (2)</td>
+                           <td align="right" colspan="2">38 (2,5)</td>
+                           <td align="right" colspan="2">38,1 (2,3)</td>
+                        </tr>
+                        <tr>
+                           <td>Mediana (IQR)</td>
+                           <td align="right" colspan="2">39 (3)</td>
+                           <td align="right" colspan="2">39 (4)</td>
+                           <td align="right" colspan="2">39 (3)</td>
+                        </tr>
+                        <tr>
+                           <th content-type="table-subhead">Zaporedna nosečnost</th>
+                           <th content-type="table-subhead">n</th>
+                           <th content-type="table-subhead">(%)</th>
+                           <th content-type="table-subhead">n</th>
+                           <th content-type="table-subhead">(%)</th>
+                           <th content-type="table-subhead">n</th>
+                           <th content-type="table-subhead">(%)</th>
+                        </tr>
+                        <tr>
+                           <td>1</td>
+                           <td align="right">6</td>
+                           <td align="right">(40)</td>
+                           <td align="right">9</td>
+                           <td align="right">(38)</td>
+                           <td align="right">15</td>
+                           <td align="right">(39)</td>
+                        </tr>
+                        <tr>
+                           <td>2</td>
+                           <td align="right">6</td>
+                           <td align="right">(40)</td>
+                           <td align="right">7</td>
+                           <td align="right">(29)</td>
+                           <td align="right">13</td>
+                           <td align="right">(33)</td>
+                        </tr>
+                        <tr>
+                           <td>3</td>
+                           <td align="right">2</td>
+                           <td align="right">(13)</td>
+                           <td align="right">6</td>
+                           <td align="right">(25)</td>
+                           <td align="right">8</td>
+                           <td align="right">(20,5)</td>
+                        </tr>
+                        <tr>
+                           <td>4 ali več</td>
+                           <td align="right">1</td>
+                           <td align="right">(7)</td>
+                           <td align="right">2</td>
+                           <td align="right">(8)</td>
+                           <td align="right">3</td>
+                           <td align="right">(7,5)</td>
+                        </tr>
+                        <tr>
+                           <th content-type="table-subhead">Število otrok v družini</th>
+                           <th content-type="table-subhead">n</th>
+                           <th content-type="table-subhead">(%)</th>
+                           <th content-type="table-subhead">n</th>
+                           <th content-type="table-subhead">(%)</th>
+                           <th content-type="table-subhead">n</th>
+                           <th content-type="table-subhead">(%)</th>
+                        </tr>
+                        <tr>
+                           <td>1</td>
+                           <td align="right">8</td>
+                           <td align="right">(53)</td>
+                           <td align="right">12</td>
+                           <td align="right">(50)</td>
+                           <td align="right">20</td>
+                           <td align="right">(51)</td>
+                        </tr>
+                        <tr>
+                           <td>2</td>
+                           <td align="right">6</td>
+                           <td align="right">(40)</td>
+                           <td align="right">7</td>
+                           <td align="right">(29)</td>
+                           <td align="right">13</td>
+                           <td align="right">(33,5)</td>
+                        </tr>
+                        <tr>
+                           <td>3</td>
+                           <td align="right">1</td>
+                           <td align="right">(7)</td>
+                           <td align="right">4</td>
+                           <td align="right">(17)</td>
+                           <td align="right">5</td>
+                           <td align="right">(13)</td>
+                        </tr>
+                        <tr>
+                           <td>4 ali več</td>
+                           <td align="right">0</td>
+                           <td align="right">(0)</td>
+                           <td align="right">1</td>
+                           <td align="right">(4)</td>
+                           <td align="right">1</td>
+                           <td align="right">(2.5)</td>
+                        </tr>
+                        <tr>
+                           <th content-type="table-subhead">Način poroda</th>
+                           <th content-type="table-subhead">n</th>
+                           <th content-type="table-subhead">(%)</th>
+                           <th content-type="table-subhead">n</th>
+                           <th content-type="table-subhead">(%)</th>
+                           <th content-type="table-subhead">n</th>
+                           <th content-type="table-subhead">(%)</th>
+                        </tr>
+                        <tr>
+                           <td>Vaginalni</td>
+                           <td align="right">13</td>
+                           <td align="right">(87)</td>
+                           <td align="right">18</td>
+                           <td align="right">(75)</td>
+                           <td align="right">31</td>
+                           <td align="right">(79,5)</td>
+                        </tr>
+                        <tr>
+                           <td>Carski rez</td>
+                           <td align="right">2</td>
+                           <td align="right">(13)</td>
+                           <td align="right">6</td>
+                           <td align="right">(25)</td>
+                           <td align="right">8</td>
+                           <td align="right">(20,5)</td>
+                        </tr>
+                        <tr>
+                           <th content-type="table-subhead">Trombocitopenija v predhodni nosečnosti</th>
+                           <th content-type="table-subhead">n</th>
+                           <th content-type="table-subhead">(%)</th>
+                           <th content-type="table-subhead">n</th>
+                           <th content-type="table-subhead">(%)</th>
+                           <th content-type="table-subhead">n</th>
+                           <th content-type="table-subhead">(%)</th>
+                        </tr>
+                        <tr>
+                           <td>Ne</td>
+                           <td align="right">13</td>
+                           <td align="right">(87)</td>
+                           <td align="right">19</td>
+                           <td align="right">(82)</td>
+                           <td align="right">32</td>
+                           <td align="right">(84)</td>
+                        </tr>
+                        <tr>
+                           <td>Da</td>
+                           <td align="right">2</td>
+                           <td align="right">(13)</td>
+                           <td align="right">4</td>
+                           <td align="right">(18)</td>
+                           <td align="right">6</td>
+                           <td align="right">(16)</td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </table-wrap>
+               <p>V 22 (56 %) (95 % IZ [40 %; 72 %]) primerih so FNAIT povzročila protitelesa HPA, v 9 (23 %) (95 % IZ [10 %; 36 %]) primerih so bila dokazana samo protitelesa HLA, v 8 (21 %) (95 % IZ [8 %; 34 %]) primerih identifikacija protiteles ni bila izvedena. Med protitelesi HPA so bila v 15 (68 %) (95 % IZ [47 %; 84 %]) primerih dokazana protitelesa anti-HPA-1a (pri 4 smo hkrati dokazali protitelesa anti-HPA-1a in anti-HLA), v 3 (14 %) (95 % IZ [4 %; 34 %]) protitelesa anti-HPA-3a, v 2 (10 %) (95 % IZ [1 %; 29 %]) protitelesa anti-gpIIb/IIIa in v 2 (10 %) (95 % IZ [1 %; 29 %]) primerih hkrati anti-HPA-5b in anti-HLA (<xref ref-type="fig" rid="fig2">Slika 2</xref>).</p>
+               <fig position="anchor" id="fig2">
+                  <label>Slika 2:</label>
+                  <caption>
+                     <p> Delež otrok s FNAIT glede na vrsto protiteles.</p>
+                  </caption>
+                  <p>
+                     <graphic xlink:href="2657-web-resources/image/zdravvestn-2657-sl-02.png"/>
+                  </p>
+                  <p>Legenda: FNAIT – fetalna in neonatalna aloimunska trombocitopenija; HPA – <italic>angl. human platelet antigens,</italic>
+                     <italic> </italic>trombocitni antigeni; HLA – humani levkocitni antigeni.</p>
+               </fig>
+               <p>27 (69,5 %) (95 % IZ [55 %; 84 %]) otrok je imelo petehije in/ali sufuzije (87 % otrok z anti-HPA-1a in 55 % z ostalimi protitelesi), 1 (2,5 %) (95 % IZ [0 %; 7 %]) znotrajlobanjsko krvavitev, 2 (5 %) (95 % IZ [0 %; 12 %]) druge vrste krvavitev, brez kliničnih znakov je bilo 9 (23 %) (95 % IZ [10 %; 36 %]) otrok. 2 otroka brez kliničnih znakov sta imela dokazana protitelesa anti-HPA-1a, 1 otrok anti-HPA-3a, 2 otroka anti-HLA in 1 otrok anti-gpIIb/IIIa. Pri treh otrocih brez kliničnih znakov smo dokazali trombocitna protitelesa, vendar njihova specifičnosti ni bila opredeljena. Le 2 otroka s protitelesi anti-HLA sta bila brez kliničnih znakov, 7 jih je imelo petehije.</p>
+               <p>Otroci s protitelesi anti-HPA-1a so imeli nižje vrednosti trombocitov v primerjavi z otroki s FNAIT, povzročeno z drugimi trombocitnimi protitelesi (razlika je bila statistično značilna (p = 0,015)); mediana najnižje zabeleženega števila trombocitov je bila 16 × 10<sup>9</sup>/L (IQR 19 × 10<sup>9</sup>/L) vs. 36 × 10<sup>9</sup>/(IQR 39 × 10<sup>9</sup>/L). Deleži otrok z različno stopnjo trombocitopenije (število Tr &lt; 30 × 10<sup>9</sup>/L, med 30–50 × 10<sup>9</sup>/L in &gt; 50 × 10<sup>9</sup>/L) so razvidni na <xref ref-type="fig" rid="fig3">Sliki 3</xref>. Pri polovici otrok (mediana) z anti-HPA-1a FNAIT je bila najnižja vrednost trombocitov zabeležena manj kot 1 (IQR 3) dan po rojstvu, medtem ko je bila pri drugih trombocitnih protitelesih pri polovici otrok (mediana) najnižja vrednost zabeležena manj kot 2 (IQR 6) dni po rojstvu, vendar razlika ni bila statistično značilna. Število trombocitov se je pri otrocih s FNAIT, povzročeno s protitelesi anti-HPA-1a, hitreje normaliziralo kot pri otrocih s FNAIT, povzročeno z drugimi trombocitnimi protitelesi, vendar razlika porazdelitve med skupinama ni bila statistično značilna (<xref ref-type="table" rid="table3">Tabela 3</xref>).</p>
+               <fig position="anchor" id="fig3">
+                  <label>Slika 3:</label>
+                  <caption>
+                     <p> Delež otrok glede na stopnjo trombocitopenije, ločeno za FNAIT, povzročeno s protitelesi anti-HPA-1a in z ostalimi trombocitnimi protitelesi. </p>
+                  </caption>
+                  <p>
+                     <graphic xlink:href="2657-web-resources/image/zdravvestn-2657-sl-03.png"/>
+                  </p>
+                  <p>Legenda: Št.Tr – število trombocitov × 10<sup>9</sup>/L; HPA –<italic> </italic>
+                     <italic>angl. human platelet antigens,</italic>
+                     <italic> </italic>trombocitni antigeni.</p>
+               </fig>
+               <table-wrap position="anchor" id="table3">
+                  <label>Tabela 3:</label>
+                  <caption>
+                     <p> Primerjava klinične slike, števila trombocitov in zdravljenja novorojenčkov s FNAIT, ločeno za skupini z anti-HPA-1a in ostalimi protitelesi.</p>
+                  </caption>
+                  <table>
+                     <colgroup>
+                        <col/>
+                        <col/>
+                        <col/>
+                        <col/>
+                        <col/>
+                        <col/>
+                        <col/>
+                        <col/>
+                     </colgroup>
+                     <thead>
+                        <tr>
+                           <th/>
+                           <th colspan="2">
+                              <p>anti-HPA-1a in anti-HPA-1a + anti-HLA</p>
+                              <p>n = 15</p>
+                           </th>
+                           <th colspan="2">
+                              <p>Ostala trombocitna protitelesa</p>
+                              <p>n = 24</p>
+                           </th>
+                           <th colspan="2">
+                              <p>Skupaj</p>
+                              <p>n = 39</p>
+                           </th>
+                           <th>
+                              <p>Statistični test</p>
+                              <p>Vrednost p</p>
+                           </th>
+                        </tr>
+                     </thead>
+                     <tbody>
+                        <tr>
+                           <th content-type="table-subhead">Klinična slika</th>
+                           <th content-type="table-subhead">n</th>
+                           <th content-type="table-subhead">(%)</th>
+                           <th content-type="table-subhead">n</th>
+                           <th content-type="table-subhead">(%)</th>
+                           <th content-type="table-subhead">n</th>
+                           <th content-type="table-subhead" colspan="2">(%)</th>
+                        </tr>
+                        <tr>
+                           <td>Brez simptomov</td>
+                           <td>2</td>
+                           <td>(13)</td>
+                           <td>7</td>
+                           <td>(29)</td>
+                           <td>9</td>
+                           <td>(23)</td>
+                           <td rowspan="2">
+                              <p>Fisherjev test</p>
+                              <p>p = 0,437</p>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td>S simptomi</td>
+                           <td>13</td>
+                           <td>(87)</td>
+                           <td>17</td>
+                           <td>(71)</td>
+                           <td>30</td>
+                           <td>(77)</td>
+                        </tr>
+                        <tr>
+                           <th content-type="table-subhead" colspan="8">Št. najnižje zabeleženih Tr (× 10<sup>9</sup>/L)</th>
+                        </tr>
+                        <tr>
+                           <td>Povprečje (SD)</td>
+                           <td colspan="2">20 (13)</td>
+                           <td colspan="2">44 (36)</td>
+                           <td colspan="2">35 (32)</td>
+                           <td rowspan="2">
+                              <p>Mann-Whitneyev test</p>
+                              <p>p = 0,015</p>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td>Mediana (IQR)</td>
+                           <td colspan="2">16 (19)</td>
+                           <td colspan="2">36 (39)</td>
+                           <td colspan="2">29 (32)</td>
+                        </tr>
+                        <tr>
+                           <td/>
+                           <td colspan="2">2,2 (2)</td>
+                           <td colspan="2">3,8 (6,3)</td>
+                           <td colspan="2">3,2 (5,2)</td>
+                           <td rowspan="2">
+                              <p>Mann-Whitneyev test</p>
+                              <p>p = 0,415</p>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td/>
+                           <td colspan="2">1 (3)</td>
+                           <td colspan="2">2 (6)</td>
+                           <td colspan="2">1 (3)</td>
+                        </tr>
+                        <tr>
+                           <th content-type="table-subhead" colspan="8">Čas do normalizacije št. Tr, Povprečje (SD), Mediana (IQR)</th>
+                        </tr>
+                        <tr>
+                           <td>Povprečje (SD)</td>
+                           <td colspan="2">11,5 (12,6)</td>
+                           <td colspan="2">25,7 (37)</td>
+                           <td colspan="2">19,1 (28,9)</td>
+                           <td rowspan="2">
+                              <p>Mann-Whitneyev test</p>
+                              <p>p = 0,185</p>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td>Mediana (IQR)</td>
+                           <td colspan="2">6 (4)</td>
+                           <td colspan="2">18 (20)</td>
+                           <td colspan="2">7,5 (21)</td>
+                        </tr>
+                        <tr>
+                           <th content-type="table-subhead" colspan="8">Zdravljenje novorojenčka<sup>a</sup>
+                           </th>
+                        </tr>
+                        <tr>
+                           <td>Ni bilo potrebno</td>
+                           <td>8</td>
+                           <td>(53)</td>
+                           <td>17</td>
+                           <td>(72)</td>
+                           <td>25</td>
+                           <td>(64,5)</td>
+                           <td rowspan="5">
+                              <p>Fisherjev test</p>
+                              <p>p = 0,318</p>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td>Transfuzija Tr</td>
+                           <td>5</td>
+                           <td>(13)</td>
+                           <td>3</td>
+                           <td>(12)</td>
+                           <td>8</td>
+                           <td>(20,5)</td>
+                        </tr>
+                        <tr>
+                           <td>IVIG</td>
+                           <td>1</td>
+                           <td>(7)</td>
+                           <td>0</td>
+                           <td>(0)</td>
+                           <td>1</td>
+                           <td>(2,5)</td>
+                        </tr>
+                        <tr>
+                           <td>Transfuzija Tr + IVIG</td>
+                           <td>1</td>
+                           <td>(7)</td>
+                           <td>3</td>
+                           <td>(12)</td>
+                           <td>4</td>
+                           <td>(10)</td>
+                        </tr>
+                        <tr>
+                           <td>Transfuzija Tr + IVIG + KS</td>
+                           <td>0</td>
+                           <td>(0)</td>
+                           <td>1</td>
+                           <td>(4)</td>
+                           <td>1</td>
+                           <td>(2,5)</td>
+                        </tr>
+                        <tr>
+                           <th content-type="table-subhead">Prenatalno zdravljenje matere z IVIG<sup>b</sup>
+                           </th>
+                           <th content-type="table-subhead">n</th>
+                           <th content-type="table-subhead">(%)</th>
+                           <th content-type="table-subhead">n</th>
+                           <th content-type="table-subhead">(%)</th>
+                           <th content-type="table-subhead">n</th>
+                           <th content-type="table-subhead" colspan="2">(%)</th>
+                        </tr>
+                        <tr>
+                           <td>Ne</td>
+                           <td>13</td>
+                           <td>(93)</td>
+                           <td>18</td>
+                           <td>(82)</td>
+                           <td>31</td>
+                           <td>(86)</td>
+                           <td rowspan="2">
+                              <p>Fisherjev test</p>
+                              <p>p = 0,628</p>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td>Da</td>
+                           <td>1</td>
+                           <td>(7)</td>
+                           <td>4</td>
+                           <td>(18)</td>
+                           <td>5</td>
+                           <td>(14)</td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table-wrap-foot>
+                     <p>Legenda: SD – standardni odklon; IQR – interkvartilni razmik; HPA – <italic>angl</italic>. <italic>human platelet antigens, </italic>trombocitni antigeni; HLA – humani levkocitni antigeni; Tr – trombociti; IVK – intraventrikularna krvavitev; IVIG – intravenozni imunoglobulini; KS – kortikosteroidi.</p>
+                     <p>a - S Fisherjevim eksaktni testom smo primerjali deleže zdravljenih (otroci, ki so prejeli transfuzijo Tr, IVIG, KS ali kombinacijo navedenih terapij) in nezdravljenih otrok.</p>
+                     <p>b – Podatek o prenatalnem zdravljenju matere je bil pridobljen za 36 otrok.</p>
+                  </table-wrap-foot>
+               </table-wrap>
+               <p>25 (64,5 %) (95 % IZ [49 %; 80 %]) otrok zdravljenja ni potrebovala, 8 (20,5 %) (95 % IZ [8 %; 33 %]) je prejelo transfuzijo trombocitov, 4 (10 %) (95 % IZ [1 %; 19 %]) transfuzijo trombocitov in IVIG, 1 (2,5 %) (95 % IZ [0 %; 7 % ]) samo IVIG in 1 (2,5 %) (95 % IZ [0 %; 7 % ]) transfuzijo trombocitov, IVIG in kortikosteroide. Terapijo z IVIG v času nosečnosti je prejelo 5 nosečnic, dve s protitelesi anti-gpIIb/IIIa, ter po ena s protitelesi anti-HPA-1a, anti-HPA-3a oz. anti-HLA. Vseh pet nosečnic je pred tem rodilo otroka s trombocitopenijo, nosečnica s protitelesi anti-HLA je v predhodni nosečnosti rodila novorojenčka s trombocitopenijo, petehijami in subependimalno krvavitvijo.</p>
+               <p>Število predhodnih nosečnosti in porodov, način poroda, klinična slika, najnižje število trombocitov, starost otroka ob najnižji vrednosti trombocitov, čas do normalizacije vrednosti trombocitov in terapija trombocitopenije so predstavljeni v <xref ref-type="table" rid="table2">Tabeli 2</xref> in <xref ref-type="table" rid="table3">Tabeli 3</xref>, ločeno za otroke, ki so imeli FNAIT zaradi prisotnosti protiteles anti-HPA-1a ali drugih trombocitnih protiteles.</p>
+            </sec>
+         </sec>
+         <sec id="s7.4" sec-type="Razpravljanje">
+            <label>7.4</label>
+            <title>Razpravljanje</title>
+            <p>Iz rezultatov raziskav, v katerih so spremljali HPA-1a negativne nosečnice, se pojavnost FNAIT ocenjuje na 1/1.000 do 2.000 živorojenih otrok (<xref ref-type="bibr" rid="b2">2</xref>,<xref ref-type="bibr" rid="b3">3</xref>,<xref ref-type="bibr" rid="b4">4</xref>). Glede na rodnost v Sloveniji bi pričakovali 10 do 20 primerov FNAIT letno. Rezultati opravljene retrospektivne raziskave so pokazali, da v Sloveniji v povprečju letno dokažemo FNAIT pri 2 otrocih in da je pojavnost FNAIT v Sloveniji 1/10.000 (95 % IZ [0,6/10.000; 1,3/10.000]) živorojenih, torej nižja od ocenjene pojavnosti v prospektivnih raziskavah (<xref ref-type="bibr" rid="b2">2</xref>,<xref ref-type="bibr" rid="b3">3</xref>,<xref ref-type="bibr" rid="b4">4</xref>) in podobna pojavnosti FNAIT v raziskavah norveških in angleških raziskovalcev, ki so bile zasnovane podobno kot naše (1 na 7.700 do 8.000 živorojenih otrok) (<xref ref-type="bibr" rid="b5">5</xref>,<xref ref-type="bibr" rid="b6">6</xref>).</p>
+            <p>Kljub temu, da je pojavnost izračunana iz podatkov, pridobljenih z retrospektivnim pregledom in zato najverjetneje podcenjena, menimo, da je bil nabor bolnikov v danih razmerah optimalen in je zato število dokazanih primerov FNAIT realno. ZTM je namreč edina ustanova v Sloveniji, kjer se izvajajo testi za dokazovanje trombocitnih protiteles, glede na delitev dela v neonatologiji in organiziranost porodništva v Sloveniji pa je zelo velika verjetnost, da so otroci s FNAIT oskrbovani v treh v raziskavo vključenih oddelkih.</p>
+            <p>Čeprav je izračunana nizka pojavnost lahko posledica pomanjkljivosti retrospektivne analize, ne moremo mimo dejstva, da je bilo prošenj za identifikacijo protiteles za dokaz FNAIT v 21-letnem obdobju 229, torej 10,9 letno. Glede na pričakovanih 10 do 20 FNAIT letno bi moralo biti prošenj za identifikacijo vsaj toliko ali dvakrat več (<xref ref-type="bibr" rid="b12">12</xref>). Nizka pojavnost je torej lahko posledica tudi neoptimalnega aktivnega iskanja bolezni.</p>
+            <p>Najpogosteje dokazana protitelesa so bila protitelesa anti-HPA-1a, in sicer pri 15 otrocih oz. v 68 % (95 % IZ [49 %; 87 %]) FNAIT zaradi HPA protiteles. Delež s protitelesi anti-HPA-1a povzročene FNAIT je v našem vzorcu, ki sicer zajema večji del populacije v analiziranem obdobju, torej nižji, kot je naveden v literaturi (75–90 %) (<xref ref-type="bibr" rid="b5">5</xref>,<xref ref-type="bibr" rid="b15">15</xref>,<xref ref-type="bibr" rid="b36">36</xref>,<xref ref-type="bibr" rid="b37">37</xref>,<xref ref-type="bibr" rid="b38">38</xref>). O manjšem deležu FNAIT povzročene s protitelesi anti-HPA-1a poročajo tudi Hrvatje, in sicer 50 % (<xref ref-type="bibr" rid="b12">12</xref>). Manjši delež FNAIT, povzročene s protitelesi anti-HPA-1a, lahko pomeni, da je delež senzibiliziranih HPA-1a negativnih nosečnic v našem okolju nižji. Delež HPA-1a negativnih oseb je namreč v našem okolju podoben kot v populacijah, kjer poročajo o 75–90 % FNAIT, povzročene z anti-HPA-1a (<xref ref-type="bibr" rid="b39">39</xref>). Nižji delež FNAIT, povzročene z anti-HPA-1a, pa je lahko posledica tudi laboratorijske nezaznave nizko avidnih protiteles. Rezultati raziskav kažejo, da nizko avidna protitelesa anti-HPA-1a, ki jih z običajnimi laboratorijskimi testi ne moremo dokazati, lahko povzročijo FNAIT (<xref ref-type="bibr" rid="b40">40</xref>,<xref ref-type="bibr" rid="b41">41</xref>).</p>
+            <p>V 9 (23 %) (95 % IZ [10 %; 36 %]) primerih FNAIT smo dokazali izključno protitelesa anti-HLA. Etiologija protiteles anti-HLA v razvoju FNAIT ni povsem pojasnjena, vendar naj ne bi bila vzrok za razvoj hude trombocitopenije novorojenčka (<xref ref-type="bibr" rid="b15">15</xref>,<xref ref-type="bibr" rid="b37">37</xref>,<xref ref-type="bibr" rid="b42">42</xref>), saj je prisotnost anti-HLA pri zdravih nosečnicah zelo pogosta (do 40 %) (<xref ref-type="bibr" rid="b24">24</xref>,<xref ref-type="bibr" rid="b36">36</xref>). Med omenjenimi 9 nosečnicami so bile 4 prvič noseče. V prvi nosečnosti, med katero pride do senzibilizacije, je lahko titer protiteles HPA nizek in nezaznaven z laboratorijskimi testi. V primeru suma na FNAIT in odsotnosti protiteles anti-HPA je smiselno določiti antigene HPA matere in otroka ali vsaj očeta z genotipizacijo. Če sta mati in novorojenček antigensko neskladna v sistemu HPA, je FNAIT mogoča, saj so lahko prisotna nizko avidna ali malo številčna protitelesa, ki jih s standardnimi testi nismo uspeli dokazati. V naši raziskavi je bila med 9 HLA pozitivnimi primeri genotipizacija opravljena v treh primerih.</p>
+            <p>Pozitivno anamnezo trombocitopenije pri sorojencu je imelo 15 % (95 % IZ [4 %; 26 %]) otrok, podobno kot v raziskavi Bussel in sod.<italic> </italic>(<xref ref-type="bibr" rid="b43">43</xref>), v kateri so poročali o trombocitopeniji med 18 % sorojencev. Čeprav je pri nosečnici, ki ima dokazana trombocitna protitelesa, še posebej, če je pred tem rodila otroka s trombocitopenijo, indiciran carski rez, sta bila v naši raziskavi le 2 od 6 novorojenčkov s pozitivno družinsko anamnezo rojena s carskim rezom.</p>
+            <p>Novorojenčki s protitelesi anti-HPA-1a so imeli nižje vrednosti trombocitov kot novorojenčki s FNAIT, povzročeno z drugimi trombocitnimi protitelesi. Delež otrok s hudo trombocitopenijo je bil v skupini FNAIT s protitelesi anti-HPA-1a 100 % vs 63 % otrok s FNAIT, povzročeno z drugimi trombocitnimi protitelesi. Skoraj 70 % otrok s FNAIT, ki so imeli dokazana protitelesa anti-HPA-1a, je imela Tr pod 30. Podobno poročajo drugi raziskovalci (<xref ref-type="bibr" rid="b13">13</xref>,<xref ref-type="bibr" rid="b15">15</xref>,<xref ref-type="bibr" rid="b44">44</xref>). 10 otrok mater, pri katerih smo dokazali trombocitna protitelesa, trombocitopenije ni razvilo (10 od 54 vzorcev mater, 18 % (95 % IZ [8 %; 28 %]). Kjeldsen-Kragh in sod. poročajo o še večjem deležu otrok, rojenih materam s protitelesi anti-HPA-1a z normalnim številom trombocitov, in sicer 50 % (<xref ref-type="bibr" rid="b4">4</xref>).</p>
+            <p>Protitelesa anti-HPA-1a povzročajo najbolj izrazito trombocitopenijo, zato bi pričakovali, da je čas do normalizacije števila trombocitov pri otrocih s protitelesi anti-HPA-1a daljši kot pri otrocih s FNAIT, povzročeno z drugimi trombocitnimi protitelesi. V naši raziskavi je bil čas do normalizacije števila trombocitov otrok s protitelesi anti-HPA-1a krajši, vendar razlika ni bila statistično značilna. Krajši čas do normalizacije števila Tr bi lahko bil posledica zdravljenja, saj je delež otrok, zdravljenih s transfuzijo trombocitov, v skupini otrok s protitelesi anti-HPA-1a večji kot v skupini otrok, ki je imela druga trombocitna protitelesa, natančneje znaša 47 % (95 % IZ [25 %; 70 %]) vs 29 % (95 % IZ [15 %; 49 %]). Večina avtorjev za zdravljenje novorojenčka s FNAIT svetuje transfuzijo trombocitov, v kolikor je število Tr &lt; 30 ali imajo znake krvavitve (<xref ref-type="bibr" rid="b8">8</xref>,<xref ref-type="bibr" rid="b28">28</xref>,<xref ref-type="bibr" rid="b29">29</xref>). V naši raziskavi je transfuzijo trombocitov prejelo 13 od 20 otrok s številom Tr &lt; 30.</p>
+            <p>Med nosečnostjo je IVIG prejelo 5 žensk. Njihovi otroci so imeli različno stopnjo trombocitopenije: 2 sta imela blago, 1 zmerno, 2 hudo trombocitopenijo, nihče pa ni imel znotrajlobanjske krvavitve. Kljub zdravljenju matere z IVIG je torej imelo hudo trombocitopenijo 40 % (95 % IZ [12 %; 77 %]) novorojenčkov. Izid zdravljena nosečnic z IVIG so spremljali Van der Lugt in sod., med skupno 22 novorojenčki jih je 12 (55 %) razvilo hudo trombocitopenijo in le 1 (4 %) znotrajlobanjsko krvavitev (<xref ref-type="bibr" rid="b44">44</xref>). Zdravljenje z IVIG torej zniža verjetnost nastanka znotrajlobanjske krvavitve kljub temu, da ne normalizira števila Tr, kar poročajo tudi drugi raziskovalci (<xref ref-type="bibr" rid="b45">45</xref>).</p>
+            <p>Opravljena raziskava ima nekatere pomanjkljivosti. Retrospektivni nabor podatkov je zaradi pomanjkljivosti dokumentacije, različnega pristopa k beleženju ugotovitev v dokumentacijo ter različnih terapevtskih pristopov težaven in pomanjkljiv. Kljub temu, da za 16 otrok nismo uspeli pridobiti dokumentacije, smo z naborom kliničnih podatkov za preostale otroke zadovoljni. 21-letno obdobje je namreč za retrospektivni nabor podatkov dolgo, poleg tega pa smo v razpoložljivi dokumentaciji pridobili odgovore na skoraj vsa naslovljena vprašanja za posameznega otroka. Zato menimo, da so demografski podatki ter podatki o klinični sliki in terapiji otrok s FNAIT v Sloveniji zadovoljivi. Zaradi retrospektivno zasnovane raziskave tudi nismo uspeli pojasniti etiologije FNAIT v primerih, ko so bila dokazana trombocitna protitelesa, vendar specifikacijo niso izvedli.</p>
+         </sec>
+      </sec>
+      <sec id="s8" sec-type="Zaključek">
+         <label>8</label>
+         <title>Zaključek</title>
+         <p>Prispevek predstavlja prvi pregledni članek o FNAIT, v katerem so predstavljeni rezultati retrospektivnega pregleda etiologije, klinične slike in zdravljenja bolnikov s FNAIT v Sloveniji. Glede na dobljeno pojavnost, ki je nižja ob pričakovane in najverjetneje posledica pomanjkanja aktivnega iskanja FNAIT pri novorojenčkih, avtorji upamo, da bo članek prispeval k zvečanju pozornosti ginekologov in neonatologov na to sicer redko, vendar potencialno zelo resno bolezen.</p>
+      </sec>
+   </body>
+   <back>
+      <ref-list>
+         <ref id="b1">
+            <label>1. </label>
+            <mixed-citation publication-type="unknown" specific-use="unparsed">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Brouk</surname> 
+                     <given-names>H</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Ouelaa</surname> 
+                     <given-names>H.</given-names>
+                  </name>
+               </person-group> Fetal and Neonatal Alloimmune Thrombocytopenia: Advances in Laboratory Diagnosis and Management. Int J Blood Res Disord. <year>2015</year>; 2:013.</mixed-citation>
+         </ref>
+         <ref id="b2">
+            <label>2.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Blanchette</surname> 
+                     <given-names>VS</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Chen</surname> 
+                     <given-names>L</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>de Friedberg</surname> 
+                     <given-names>ZS</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Hogan</surname> 
+                     <given-names>VA</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Trudel</surname> 
+                     <given-names>E</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Décary</surname> 
+                     <given-names>F</given-names>
+                  </name>
+               </person-group>. <article-title>Alloimmunization to the PlA1 platelet antigen: results of a prospective study</article-title>. <source>Br J Haematol</source>. <year>1990</year> 
+               <month>Feb</month>;<volume>74</volume>(<issue>2</issue>):<fpage>209</fpage>–<lpage>15</lpage>. <pub-id pub-id-type="doi">10.1111/j.1365-2141.1990.tb02567.x</pub-id>
+               <pub-id pub-id-type="pmid">2317456</pub-id>
+               <issn>0007-1048</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b3">
+            <label>3.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Williamson</surname> 
+                     <given-names>LM</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Hackett</surname> 
+                     <given-names>G</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Rennie</surname> 
+                     <given-names>J</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Palmer</surname> 
+                     <given-names>CR</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Maciver</surname> 
+                     <given-names>C</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Hadfield</surname> 
+                     <given-names>R</given-names>
+                  </name>, <etal>et al</etal>
+               </person-group>. 
+               <article-title>The natural history of fetomaternal alloimmunization to the platelet-specific antigen HPA-1a (PlA1, Zwa) as determined by antenatal screening</article-title>. <source>Blood</source>. <year>1998</year> 
+               <month>Oct</month>;<volume>92</volume>(<issue>7</issue>):<fpage>2280</fpage>–<lpage>7</lpage>.<pub-id pub-id-type="pmid">9746765</pub-id>
+               <issn>0006-4971</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b4">
+            <label>4.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Kjeldsen-Kragh</surname> 
+                     <given-names>J</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Killie</surname> 
+                     <given-names>MK</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Tomter</surname> 
+                     <given-names>G</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Golebiowska</surname> 
+                     <given-names>E</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Randen</surname> 
+                     <given-names>I</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Hauge</surname> 
+                     <given-names>R</given-names>
+                  </name>, <etal>et al</etal>
+               </person-group>. 
+               <article-title>A screening and intervention program aimed to reduce mortality and serious morbidity associated with severe neonatal alloimmune thrombocytopenia</article-title>. <source>Blood</source>. <year>2007</year> 
+               <month>Aug</month>;<volume>110</volume>(<issue>3</issue>):<fpage>833</fpage>–<lpage>9</lpage>. <pub-id pub-id-type="doi">10.1182/blood-2006-08-040121</pub-id>
+               <pub-id pub-id-type="pmid">17429009</pub-id>
+               <issn>0006-4971</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b5">
+            <label>5.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Tiller</surname> 
+                     <given-names>H</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Killie</surname> 
+                     <given-names>MK</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Skogen</surname> 
+                     <given-names>B</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Øian</surname> 
+                     <given-names>P</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Husebekk</surname> 
+                     <given-names>A</given-names>
+                  </name>
+               </person-group>. <article-title>Neonatal alloimmune thrombocytopenia in Norway: poor detection rate with nonscreening versus a general screening programme</article-title>. <source>BJOG</source>. <year>2009</year> 
+               <month>Mar</month>;<volume>116</volume>(<issue>4</issue>):<fpage>594</fpage>–<lpage>8</lpage>. <pub-id pub-id-type="doi">10.1111/j.1471-0528.2008.02068.x</pub-id>
+               <pub-id pub-id-type="pmid">19250370</pub-id>
+               <issn>1470-0328</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b6">
+            <label>6.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Knight</surname> 
+                     <given-names>M</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Pierce</surname> 
+                     <given-names>M</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Allen</surname> 
+                     <given-names>D</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Kurinczuk</surname> 
+                     <given-names>JJ</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Spark</surname> 
+                     <given-names>P</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Roberts</surname> 
+                     <given-names>DJ</given-names>
+                  </name>, <etal>et al</etal>
+               </person-group>. 
+               <article-title>The incidence and outcomes of fetomaternal alloimmune thrombocytopenia: a UK national study using three data sources</article-title>. <source>Br J Haematol</source>. <year>2011</year> 
+               <month>Feb</month>;<volume>152</volume>(<issue>4</issue>):<fpage>460</fpage>–<lpage>8</lpage>. <pub-id pub-id-type="doi">10.1111/j.1365-2141.2010.08540.x</pub-id>
+               <pub-id pub-id-type="pmid">21210775</pub-id>
+               <issn>0007-1048</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b7">
+            <label>7.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Risson</surname> 
+                     <given-names>DC</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Davies</surname> 
+                     <given-names>MW</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Williams</surname> 
+                     <given-names>BA</given-names>
+                  </name>
+               </person-group>. <article-title>Review of neonatal alloimmune thrombocytopenia</article-title>. <source>J Paediatr Child Health</source>. <year>2012</year> 
+               <month>Sep</month>;<volume>48</volume>(<issue>9</issue>):<fpage>816</fpage>–<lpage>22</lpage>. <pub-id pub-id-type="doi">10.1111/j.1440-1754.2012.02528.x</pub-id>
+               <pub-id pub-id-type="pmid">22970675</pub-id>
+               <issn>1034-4810</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b8">
+            <label>8.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Peterson</surname> 
+                     <given-names>JA</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>McFarland</surname> 
+                     <given-names>JG</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Curtis</surname> 
+                     <given-names>BR</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Aster</surname> 
+                     <given-names>RH</given-names>
+                  </name>
+               </person-group>. <article-title>Neonatal alloimmune thrombocytopenia: pathogenesis, diagnosis and management</article-title>. <source>Br J Haematol</source>. <year>2013</year> 
+               <month>Apr</month>;<volume>161</volume>(<issue>1</issue>):<fpage>3</fpage>–<lpage>14</lpage>. <pub-id pub-id-type="doi">10.1111/bjh.12235</pub-id>
+               <pub-id pub-id-type="pmid">23384054</pub-id>
+               <issn>0007-1048</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b9">
+            <label>9.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Brojer</surname> 
+                     <given-names>E</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Husebekk</surname> 
+                     <given-names>A</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Dębska</surname> 
+                     <given-names>M</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Uhrynowska</surname> 
+                     <given-names>M</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Guz</surname> 
+                     <given-names>K</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Orzińska</surname> 
+                     <given-names>A</given-names>
+                  </name>, <etal>et al</etal>
+               </person-group>. 
+               <article-title>Fetal/Neonatal Alloimmune Thrombocytopenia: Pathogenesis, Diagnostics and Prevention</article-title>. <source>Arch Immunol Ther Exp (Warsz)</source>. <year>2016</year> 
+               <month>Aug</month>;<volume>64</volume>(<issue>4</issue>):<fpage>279</fpage>–<lpage>90</lpage>. <pub-id pub-id-type="doi">10.1007/s00005-015-0371-9</pub-id>
+               <pub-id pub-id-type="pmid">26564154</pub-id>
+               <issn>0004-069X</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b10">
+            <label>10.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <collab>EspinozaEspinoza JP</collab>
+               </person-group>. <article-title>CaradeuxCaradeux J, NorwitzNorwitz ER, Illanes SE. Fetal and Neonatal Alloimmune Thrombocytopenia</article-title>. <source>Obstet Gynecol</source>. <year>2013</year>;<volume>6</volume>(<issue>1</issue>):<fpage>e15</fpage>–<lpage>21</lpage>.<issn>0029-7844</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b11">
+            <label>11.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Kumpel</surname> 
+                     <given-names>BM</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Sibley</surname> 
+                     <given-names>K</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Jackson</surname> 
+                     <given-names>DJ</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>White</surname> 
+                     <given-names>G</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Soothill</surname> 
+                     <given-names>PW</given-names>
+                  </name>
+               </person-group>. <article-title>Ultrastructural localization of glycoprotein IIIa (GPIIIa, beta 3 integrin) on placental syncytiotrophoblast microvilli: implications for platelet alloimmunization during pregnancy</article-title>. <source>Transfusion</source>. <year>2008</year> 
+               <month>Oct</month>;<volume>48</volume>(<issue>10</issue>):<fpage>2077</fpage>–<lpage>86</lpage>. <pub-id pub-id-type="doi">10.1111/j.1537-2995.2008.01832.x</pub-id>
+               <pub-id pub-id-type="pmid">18673340</pub-id>
+               <issn>0041-1132</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b12">
+            <label>12.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Tomicić</surname> 
+                     <given-names>M</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Golubić-Cepulić</surname> 
+                     <given-names>B</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Gojceta</surname> 
+                     <given-names>K</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Ivanković</surname> 
+                     <given-names>Z</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Dogić</surname> 
+                     <given-names>V</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Hundrić-Haspl</surname> 
+                     <given-names>Z</given-names>
+                  </name>
+               </person-group>. <article-title>Neonatalna aloimuna trombocitopenija u Hrvatskoj od 1997. do 2007. godine</article-title>. <source>Lijec Vjesn</source>. <year>2008</year> 
+               <month>Jul-Aug</month>;<volume>130</volume>(<issue>7-8</issue>):<fpage>183</fpage>–<lpage>6</lpage>.<pub-id pub-id-type="pmid">18979905</pub-id>
+               <issn>0024-3477</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b13">
+            <label>13.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Kaplan</surname> 
+                     <given-names>C</given-names>
+                  </name>
+               </person-group>. <article-title>Neonatal alloimmune thrombocytopenia: a 50-year story</article-title>. <source>Immunohematology</source>. <year>2007</year>;<volume>23</volume>(<issue>1</issue>):<fpage>9</fpage>–<lpage>13</lpage>.<pub-id pub-id-type="pmid">17425410</pub-id>
+               <issn>0894-203X</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b14">
+            <label>14.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Tiller</surname> 
+                     <given-names>H</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Husebekk</surname> 
+                     <given-names>A</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Ahlen</surname> 
+                     <given-names>MT</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Stuge</surname> 
+                     <given-names>TB</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Skogen</surname> 
+                     <given-names>B</given-names>
+                  </name>
+               </person-group>. <article-title>Current perspectives on fetal and neonatal alloimmune thrombocytopenia - increasing clinical concerns and new treatment opportunities</article-title>. <source>Int J Womens Health</source>. <year>2017</year> 
+               <month>Apr</month>;<volume>9</volume>(<issue>9</issue>):<fpage>223</fpage>–<lpage>34</lpage>. <pub-id pub-id-type="doi">10.2147/IJWH.S90753</pub-id>
+               <pub-id pub-id-type="pmid">28458583</pub-id>
+               <issn>1179-1411</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b15">
+            <label>15.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Ghevaert</surname> 
+                     <given-names>C</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Campbell</surname> 
+                     <given-names>K</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Walton</surname> 
+                     <given-names>J</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Smith</surname> 
+                     <given-names>GA</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Allen</surname> 
+                     <given-names>D</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Williamson</surname> 
+                     <given-names>LM</given-names>
+                  </name>, <etal>et al</etal>
+               </person-group>. 
+               <article-title>Management and outcome of 200 cases of fetomaternal alloimmune thrombocytopenia</article-title>. <source>Transfusion</source>. <year>2007</year> 
+               <month>May</month>;<volume>47</volume>(<issue>5</issue>):<fpage>901</fpage>–<lpage>10</lpage>. <pub-id pub-id-type="doi">10.1111/j.1537-2995.2007.01208.x</pub-id>
+               <pub-id pub-id-type="pmid">17465957</pub-id>
+               <issn>0041-1132</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b16">
+            <label>16.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Kaplan</surname> 
+                     <given-names>C</given-names>
+                  </name>
+               </person-group>. <article-title>Alloimmune thrombocytopenia of the fetus and the newborn</article-title>. <source>Blood Rev</source>. <year>2002</year> 
+               <month>Mar</month>;<volume>16</volume>(<issue>1</issue>):<fpage>69</fpage>–<lpage>72</lpage>. <pub-id pub-id-type="doi">10.1054/blre.2001.0187</pub-id>
+               <pub-id pub-id-type="pmid">11914000</pub-id>
+               <issn>0268-960X</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b17">
+            <label>1.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Hutchinson</surname> 
+                     <given-names>AL</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Dennington</surname> 
+                     <given-names>PM</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Holdsworth</surname> 
+                     <given-names>R</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Downe</surname> 
+                     <given-names>L</given-names>
+                  </name>
+               </person-group>. <article-title>Recurrent HLA-B56 mediated neonatal alloimmune thrombocytopenia with fatal outcomes</article-title>. <source>Transfus Apheresis Sci</source>. <year>2015</year> 
+               <month>Jun</month>;<volume>52</volume>(<issue>3</issue>):<fpage>311</fpage>–<lpage>3</lpage>. <pub-id pub-id-type="doi">10.1016/j.transci.2015.01.007</pub-id>
+               <pub-id pub-id-type="pmid">25634791</pub-id>
+               <issn>1473-0502</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b18">
+            <label>18. </label>
+            <mixed-citation publication-type="unknown" specific-use="unparsed">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Tiller</surname> 
+                     <given-names>H</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Kamphuis</surname> 
+                     <given-names>MM</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Flodmark</surname> 
+                     <given-names>O</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Papadogiannakis</surname> 
+                     <given-names>N</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>David</surname> 
+                     <given-names>AL</given-names>
+                  </name>
+               </person-group>, SainioS et al. Fetal intracranial haemorrhages caused by fetal and neonatal alloimmune thrombocytopenia: an observational cohort study of 43 cases from an international multicentre registry. BMJ Open. <year>2013</year>;22:3(3).</mixed-citation>
+         </ref>
+         <ref id="b19">
+            <label>19.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Spencer</surname> 
+                     <given-names>JA</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Burrows</surname> 
+                     <given-names>RF</given-names>
+                  </name>
+               </person-group>. <article-title>Feto-maternal alloimmune thrombocytopenia: a literature review and statistical analysis</article-title>. <source>Aust N Z J Obstet Gynaecol</source>. <year>2001</year> 
+               <month>Feb</month>;<volume>41</volume>(<issue>1</issue>):<fpage>45</fpage>–<lpage>55</lpage>. <pub-id pub-id-type="doi">10.1111/j.1479-828X.2001.tb01293.x</pub-id>
+               <pub-id pub-id-type="pmid">11284646</pub-id>
+               <issn>0004-8666</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b20">
+            <label>20.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Murphy</surname> 
+                     <given-names>MF</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Bussel</surname> 
+                     <given-names>JB</given-names>
+                  </name>
+               </person-group>. <article-title>Advances in the management of alloimmune thrombocytopenia</article-title>. <source>Br J Haematol</source>. <year>2007</year> 
+               <month>Feb</month>;<volume>136</volume>(<issue>3</issue>):<fpage>366</fpage>–<lpage>78</lpage>. <pub-id pub-id-type="doi">10.1111/j.1365-2141.2006.06418.x</pub-id>
+               <pub-id pub-id-type="pmid">17233844</pub-id>
+               <issn>0007-1048</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b21">
+            <label>21.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Bussel</surname> 
+                     <given-names>JB</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Zabusky</surname> 
+                     <given-names>MR</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Berkowitz</surname> 
+                     <given-names>RL</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>McFarland</surname> 
+                     <given-names>JG</given-names>
+                  </name>
+               </person-group>. <article-title>Fetal alloimmune thrombocytopenia</article-title>. <source>N Engl J Med</source>. <year>1997</year> 
+               <month>Jul</month>;<volume>337</volume>(<issue>1</issue>):<fpage>22</fpage>–<lpage>6</lpage>. <pub-id pub-id-type="doi">10.1056/NEJM199707033370104</pub-id>
+               <pub-id pub-id-type="pmid">9203427</pub-id>
+               <issn>0028-4793</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b22">
+            <label>22.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Bussel</surname> 
+                     <given-names>JB</given-names>
+                  </name>
+               </person-group>. <article-title>Alloimmune thrombocytopenia in the fetus and newborn</article-title>. <source>Semin Thromb Hemost</source>. <year>2001</year> 
+               <month>Jun</month>;<volume>27</volume>(<issue>3</issue>):<fpage>245</fpage>–<lpage>52</lpage>. <pub-id pub-id-type="doi">10.1055/s-2001-15254</pub-id>
+               <pub-id pub-id-type="pmid">11446658</pub-id>
+               <issn>0094-6176</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b23">
+            <label>23.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Bussel</surname> 
+                     <given-names>J</given-names>
+                  </name>
+               </person-group>. <article-title>Diagnosis and management of the fetus and neonate with alloimmune thrombocytopenia</article-title>. <source>J Thromb Haemost</source>. <year>2009</year> 
+               <month>Jul</month>;<volume>7</volume> 
+               <supplement>Suppl 1</supplement>:<fpage>253</fpage>–<lpage>7</lpage>. <pub-id pub-id-type="doi">10.1111/j.1538-7836.2009.03380.x</pub-id>
+               <pub-id pub-id-type="pmid">19630811</pub-id>
+               <issn>1538-7933</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b24">
+            <label>24.	</label>
+            <mixed-citation publication-type="book-chapter" specific-use="unparsed">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Rožman</surname> 
+                     <given-names>P</given-names>
+                  </name>
+               </person-group>. Diagnostika trombocitopenije – trombocitne preiskave v nosečnosti. In: Bricl I, Lampreht N, ur. Transfuzijska medicina v porodništvu: 6. podiplomski seminar Zdravljenje s krvjo. 3-4 Dec 2004; Portorož, Slovenija. Ljubljana: Zavod Republike Slovenije za transfuzijsko medicino; <year>2004</year>, p. 46-58.</mixed-citation>
+         </ref>
+         <ref id="b25">
+            <label>25.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Heikal</surname> 
+                     <given-names>NM</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Smock</surname> 
+                     <given-names>KJ</given-names>
+                  </name>
+               </person-group>. <article-title>Laboratory testing for platelet antibodies</article-title>. <source>Am J Hematol</source>. <year>2013</year> 
+               <month>Sep</month>;<volume>88</volume>(<issue>9</issue>):<fpage>818</fpage>–<lpage>21</lpage>. <pub-id pub-id-type="doi">10.1002/ajh.23503</pub-id>
+               <pub-id pub-id-type="pmid">23757218</pub-id>
+               <issn>0361-8609</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b26">
+            <label>26.	</label>
+            <mixed-citation publication-type="book-chapter" specific-use="unparsed">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Rožman</surname> 
+                     <given-names>P</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Klemenc</surname> 
+                     <given-names>P</given-names>
+                  </name>
+               </person-group>. <chapter-title>Novosti v laboratorijski diagnostiki imunskih trombocitopenij</chapter-title> In: Černe D, Skitek M, ur. Raziskovalni dnevi laboratorijske biomedicine: zbornik predavan.30 Sep 2014; Ljubljana, Slovenija. Ljubljana: Fakulteta za farmacijo, <year>2014</year>, str. 34-45.</mixed-citation>
+         </ref>
+         <ref id="b27">
+            <label>27.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Altarescu</surname> 
+                     <given-names>G</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Eldar-Geva</surname> 
+                     <given-names>T</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Grisaru-Granovsky</surname> 
+                     <given-names>S</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Bonstein</surname> 
+                     <given-names>L</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Miskin</surname> 
+                     <given-names>H</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Varshver</surname> 
+                     <given-names>I</given-names>
+                  </name>, <etal>et al</etal>
+               </person-group>. 
+               <article-title>Preimplantation genetic diagnosis for fetal neonatal alloimmune thrombocytopenia due to antihuman platelet antigen maternal antibodies</article-title>. <source>Obstet Gynecol</source>. <year>2012</year> 
+               <month>Feb</month>;<volume>119</volume>(<issue>2 Pt 1</issue>):<fpage>338</fpage>–<lpage>43</lpage>. <pub-id pub-id-type="doi">10.1097/AOG.0b013e318242a11d</pub-id>
+               <pub-id pub-id-type="pmid">22270286</pub-id>
+               <issn>0029-7844</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b28">
+            <label>28. </label>
+            <mixed-citation publication-type="book" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Norfolk</surname> 
+                     <given-names>D</given-names>
+                  </name>
+               </person-group>. <source>Handbook of Transfusion Medicine</source>. <edition>5th ed.</edition> 
+               <publisher-name>United Kingdom Blood Services</publisher-name>; <year>2014</year>. pp. <fpage>119</fpage>–<lpage>23</lpage>.</mixed-citation>
+         </ref>
+         <ref id="b29">
+            <label>29.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Kaplan</surname> 
+                     <given-names>C</given-names>
+                  </name>
+               </person-group>. <article-title>Neonatal alloimmune thrombocytopenia</article-title>. <source>Haematologica</source>. <year>2008</year> 
+               <month>Jun</month>;<volume>93</volume>(<issue>6</issue>):<fpage>805</fpage>–<lpage>7</lpage>. <pub-id pub-id-type="doi">10.3324/haematol.13160</pub-id>
+               <pub-id pub-id-type="pmid">18515877</pub-id>
+               <issn>0390-6078</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b30">
+            <label>30.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Constantinescu</surname> 
+                     <given-names>S</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Zamfirescu</surname> 
+                     <given-names>V</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Vladareanu</surname> 
+                     <given-names>PR</given-names>
+                  </name>
+               </person-group>. <article-title>Fetal and neonatal alloimmune thrombocytopenia</article-title>. <source>Maedica (Buchar)</source>. <year>2012</year> 
+               <month>Dec</month>;<volume>7</volume>(<issue>4</issue>):<fpage>372</fpage>–<lpage>6</lpage>.<pub-id pub-id-type="pmid">23482913</pub-id>
+               <issn>1841-9038</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b31">
+            <label>31.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Pacheco</surname> 
+                     <given-names>LD</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Berkowitz</surname> 
+                     <given-names>RL</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Moise</surname> 
+                     <given-names>KJ</given-names> 
+                     <suffix>Jr</suffix>
+                  </name>, <string-name name-style="western">
+                     <surname>Bussel</surname> 
+                     <given-names>JB</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>McFarland</surname> 
+                     <given-names>JG</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Saade</surname> 
+                     <given-names>GR</given-names>
+                  </name>
+               </person-group>. <article-title>Fetal and neonatal alloimmune thrombocytopenia: a management algorithm based on risk stratification</article-title>. <source>Obstet Gynecol</source>. <year>2011</year> 
+               <month>Nov</month>;<volume>118</volume>(<issue>5</issue>):<fpage>1157</fpage>–<lpage>63</lpage>. <pub-id pub-id-type="doi">10.1097/AOG.0b013e31823403f4</pub-id>
+               <pub-id pub-id-type="pmid">22015886</pub-id>
+               <issn>0029-7844</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b32">
+            <label>32.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Bertrand</surname> 
+                     <given-names>G</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Drame</surname> 
+                     <given-names>M</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Martageix</surname> 
+                     <given-names>C</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Kaplan</surname> 
+                     <given-names>C</given-names>
+                  </name>
+               </person-group>. <article-title>Prediction of the fetal status in noninvasive management of alloimmune thrombocytopenia</article-title>. <source>Blood</source>. <year>2011</year> 
+               <month>Mar</month>;<volume>117</volume>(<issue>11</issue>):<fpage>3209</fpage>–<lpage>13</lpage>. <pub-id pub-id-type="doi">10.1182/blood-2010-08-302463</pub-id>
+               <pub-id pub-id-type="pmid">21239703</pub-id>
+               <issn>0006-4971</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b33">
+            <label>33.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Killie</surname> 
+                     <given-names>MK</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Husebekk</surname> 
+                     <given-names>A</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Kjeldsen-Kragh</surname> 
+                     <given-names>J</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Skogen</surname> 
+                     <given-names>B</given-names>
+                  </name>
+               </person-group>. <article-title>A prospective study of maternal anti-HPA 1a antibody level as a potential predictor of alloimmune thrombocytopenia in the newborn</article-title>. <source>Haematologica</source>. <year>2008</year> 
+               <month>Jun</month>;<volume>93</volume>(<issue>6</issue>):<fpage>870</fpage>–<lpage>7</lpage>. <pub-id pub-id-type="doi">10.3324/haematol.12515</pub-id>
+               <pub-id pub-id-type="pmid">18443267</pub-id>
+               <issn>0390-6078</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b34">
+            <label>34.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Killie</surname> 
+                     <given-names>MK</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Kjeldsen-Kragh</surname> 
+                     <given-names>J</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Husebekk</surname> 
+                     <given-names>A</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Skogen</surname> 
+                     <given-names>B</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Olsen</surname> 
+                     <given-names>JA</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Kristiansen</surname> 
+                     <given-names>IS</given-names>
+                  </name>
+               </person-group>. <article-title>Cost-effectiveness of antenatal screening for neonatal alloimmune thrombocytopenia</article-title>. <source>BJOG</source>. <year>2007</year> 
+               <month>May</month>;<volume>114</volume>(<issue>5</issue>):<fpage>588</fpage>–<lpage>95</lpage>. <pub-id pub-id-type="doi">10.1111/j.1471-0528.2007.01289.x</pub-id>
+               <pub-id pub-id-type="pmid">17355359</pub-id>
+               <issn>1470-0328</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b35">
+            <label>35.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Agresti</surname> 
+                     <given-names>A</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Brent</surname> 
+                     <given-names>AC</given-names>
+                  </name>
+               </person-group>. <article-title>Approximate is better than ‘exact’ for interval estimation of binomial proportions</article-title>. <source>Am Stat</source>. <year>1998</year>;<volume>52</volume>:<fpage>119</fpage>–<lpage>26</lpage>.<issn>0003-1305</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b36">
+            <label>36.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Rožman</surname> 
+                     <given-names>P</given-names>
+                  </name>
+               </person-group>. <article-title>Platelet antigens. The role of human platelet alloantigens (HPA) in blood transfusion and transplantation</article-title>. <source>Transpl Immunol</source>. <year>2002</year> 
+               <month>Aug</month>;<volume>10</volume>(<issue>2-3</issue>):<fpage>165</fpage>–<lpage>81</lpage>. <pub-id pub-id-type="doi">10.1016/S0966-3274(02)00063-1</pub-id>
+               <pub-id pub-id-type="pmid">12216947</pub-id>
+               <issn>0966-3274</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b37">
+            <label>37.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Davoren</surname> 
+                     <given-names>A</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Curtis</surname> 
+                     <given-names>BR</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Aster</surname> 
+                     <given-names>RH</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>McFarland</surname> 
+                     <given-names>JG</given-names>
+                  </name>
+               </person-group>. <article-title>Human platelet antigen-specific alloantibodies implicated in 1162 cases of neonatal alloimmune thrombocytopenia</article-title>. <source>Transfusion</source>. <year>2004</year> 
+               <month>Aug</month>;<volume>44</volume>(<issue>8</issue>):<fpage>1220</fpage>–<lpage>5</lpage>. <pub-id pub-id-type="doi">10.1111/j.1537-2995.2004.04026.x</pub-id>
+               <pub-id pub-id-type="pmid">15265127</pub-id>
+               <issn>0041-1132</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b38">
+            <label>38. </label>
+            <mixed-citation publication-type="unknown" specific-use="unparsed">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Mueller-Eckhardt</surname> 
+                     <given-names>C</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Kiefel</surname> 
+                     <given-names>V</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Grubert</surname> 
+                     <given-names>A</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Kroll</surname> 
+                     <given-names>H</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Weisheit</surname> 
+                     <given-names>M</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Schmidt</surname> 
+                     <given-names>S</given-names>
+                  </name> 
+                  <etal>et al</etal>
+               </person-group>. 348 cases of suspected neonatal alloimmune neonatal thrombocytopenia. Lancet. 198918;1(8634):363-6.</mixed-citation>
+         </ref>
+         <ref id="b39">
+            <label>39.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Rožman</surname> 
+                     <given-names>P</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Drabbels</surname> 
+                     <given-names>J</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Schipper</surname> 
+                     <given-names>RF</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Doxiadis</surname> 
+                     <given-names>I</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Stein</surname> 
+                     <given-names>S</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Claas</surname> 
+                     <given-names>FH</given-names>
+                  </name>
+               </person-group>. <article-title>Genotyping for human platelet-specific antigens HPA-1, -2, -3, -4 and -5 in the Slovenian population reveals a slightly increased frequency of HPA-1b and HPA-2b as compared to other European populations</article-title>. <source>Eur J Immunogenet</source>. <year>1999</year> 
+               <month>Aug</month>;<volume>26</volume>(<issue>4</issue>):<fpage>265</fpage>–<lpage>9</lpage>. <pub-id pub-id-type="doi">10.1046/j.1365-2370.1999.00142.x</pub-id>
+               <pub-id pub-id-type="pmid">10457889</pub-id>
+               <issn>0960-7420</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b40">
+            <label>40.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Peterson</surname> 
+                     <given-names>JA</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Kanack</surname> 
+                     <given-names>A</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Nayak</surname> 
+                     <given-names>D</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Bougie</surname> 
+                     <given-names>DW</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>McFarland</surname> 
+                     <given-names>JG</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Curtis</surname> 
+                     <given-names>BR</given-names>
+                  </name>, <etal>et al</etal>
+               </person-group>. 
+               <article-title>Prevalence and clinical significance of low-avidity HPA-1a antibodies in women exposed to HPA-1a during pregnancy</article-title>. <source>Transfusion</source>. <year>2013</year> 
+               <month>Jun</month>;<volume>53</volume>(<issue>6</issue>):<fpage>1309</fpage>–<lpage>18</lpage>. <pub-id pub-id-type="doi">10.1111/j.1537-2995.2012.03903.x</pub-id>
+               <pub-id pub-id-type="pmid">23003125</pub-id>
+               <issn>0041-1132</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b41">
+            <label>41.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Bakchoul</surname> 
+                     <given-names>T</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Kubiak</surname> 
+                     <given-names>S</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Krautwurst</surname> 
+                     <given-names>A</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Roderfeld</surname> 
+                     <given-names>M</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Siebert</surname> 
+                     <given-names>HC</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Bein</surname> 
+                     <given-names>G</given-names>
+                  </name>, <etal>et al</etal>
+               </person-group>. 
+               <article-title>Low-avidity anti-HPA-1a alloantibodies are capable of antigen-positive platelet destruction in the NOD/SCID mouse model of alloimmune thrombocytopenia</article-title>. <source>Transfusion</source>. <year>2011</year> 
+               <month>Nov</month>;<volume>51</volume>(<issue>11</issue>):<fpage>2455</fpage>–<lpage>61</lpage>. <pub-id pub-id-type="doi">10.1111/j.1537-2995.2011.03171.x</pub-id>
+               <pub-id pub-id-type="pmid">21564107</pub-id>
+               <issn>0041-1132</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b42">
+            <label>42.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Refsum</surname> 
+                     <given-names>E</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Mörtberg</surname> 
+                     <given-names>A</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Dahl</surname> 
+                     <given-names>J</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Meinke</surname> 
+                     <given-names>S</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Auvinen</surname> 
+                     <given-names>MK</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Westgren</surname> 
+                     <given-names>M</given-names>
+                  </name>, <etal>et al</etal>
+               </person-group>. 
+               <article-title>Characterisation of maternal human leukocyte antigen class I antibodies in suspected foetal and neonatal alloimmune thrombocytopenia</article-title>. <source>Transfus Med</source>. <year>2017</year> 
+               <month>Feb</month>;<volume>27</volume>(<issue>1</issue>):<fpage>43</fpage>–<lpage>51</lpage>. <pub-id pub-id-type="doi">10.1111/tme.12375</pub-id>
+               <pub-id pub-id-type="pmid">27862486</pub-id>
+               <issn>0958-7578</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b43">
+            <label>43.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Bussel</surname> 
+                     <given-names>JB</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Zacharoulis</surname> 
+                     <given-names>S</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Kramer</surname> 
+                     <given-names>K</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>McFarland</surname> 
+                     <given-names>JG</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Pauliny</surname> 
+                     <given-names>J</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Kaplan</surname> 
+                     <given-names>C</given-names>
+                  </name>
+               </person-group>. <article-title>Clinical and diagnostic comparison of neonatal alloimmune thrombocytopenia to non-immune cases of thrombocytopenia</article-title>. <source>Pediatr Blood Cancer</source>. <year>2005</year> 
+               <month>Aug</month>;<volume>45</volume>(<issue>2</issue>):<fpage>176</fpage>–<lpage>83</lpage>. <pub-id pub-id-type="doi">10.1002/pbc.20282</pub-id>
+               <pub-id pub-id-type="pmid">15828027</pub-id>
+               <issn>1545-5009</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b44">
+            <label>44.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Van Der Lugt</surname> 
+                     <given-names>NM</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Kamphuis</surname> 
+                     <given-names>MM</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Paridaans</surname> 
+                     <given-names>NP</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Figee</surname> 
+                     <given-names>A</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Oepkes</surname> 
+                     <given-names>D</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Walther</surname> 
+                     <given-names>FJ</given-names>
+                  </name>, <etal>et al</etal>
+               </person-group>. 
+               <article-title>Neonatal outcome in alloimmune thrombocytopenia after maternal treatment with intravenous immunoglobulin</article-title>. <source>Blood Transfus</source>. <year>2015</year> 
+               <month>Jan</month>;<volume>13</volume>(<issue>1</issue>):<fpage>66</fpage>–<lpage>71</lpage>.<pub-id pub-id-type="pmid">24960663</pub-id>
+               <issn>1723-2007</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b45">
+            <label>45.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Bussel</surname> 
+                     <given-names>JB</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Berkowitz</surname> 
+                     <given-names>RL</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Lynch</surname> 
+                     <given-names>L</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Lesser</surname> 
+                     <given-names>ML</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Paidas</surname> 
+                     <given-names>MJ</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Huang</surname> 
+                     <given-names>CL</given-names>
+                  </name>, <etal>et al</etal>
+               </person-group>. 
+               <article-title>Antenatal management of alloimmune thrombocytopenia with intravenous gamma-globulin: a randomized trial of the addition of low-dose steroid to intravenous gamma-globulin</article-title>. <source>Am J Obstet Gynecol</source>. <year>1996</year> 
+               <month>May</month>;<volume>174</volume>(<issue>5</issue>):<fpage>1414</fpage>–<lpage>23</lpage>. <pub-id pub-id-type="doi">10.1016/S0002-9378(96)70582-3</pub-id>
+               <pub-id pub-id-type="pmid">9065105</pub-id>
+               <issn>0002-9378</issn>
+            </mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

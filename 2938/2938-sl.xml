@@ -1,0 +1,924 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD with MathML3 v1.1 20151215//EN" "JATS-journalpublishing1-mathml3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink"
+         dtd-version="1.1"
+         xml:lang="sl"
+         article-type="other">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher-id">Zdrav Vestn</journal-id>
+         <journal-id journal-id-type="nlm-ta">Zdrav Vestn</journal-id>
+         <journal-id journal-id-type="doi">Zdrav Vestn</journal-id>
+         <journal-title-group>
+            <journal-title>Zdravniški vestnik</journal-title>
+            <trans-title-group xml:lang="en">
+               <trans-title>Slovenian Medical Journal</trans-title>
+            </trans-title-group>
+            <abbrev-journal-title>Zdrav Vestn</abbrev-journal-title>
+         </journal-title-group>
+         <issn publication-format="ppub" pub-type="ppub">1318-0347</issn>
+         <issn publication-format="epub" pub-type="epub">1581-0224</issn>
+         <issn-l>0350-0063</issn-l>
+         <publisher>
+            <publisher-name xml:lang="sl">Slovensko zdravniško društvo</publisher-name>
+            <publisher-name xml:lang="en">Slovenian Medical Association</publisher-name>
+            <publisher-loc xml:lang="sl">Ljubljana, Slovenia</publisher-loc>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.6016/ZdravVestn.2938</article-id>
+         <article-id pub-id-type="publisher-id">2938</article-id>
+         <article-categories>
+            <subj-group subj-group-type="discipline" xml:lang="en">
+               <subject>Medicine and health sciences</subject>
+               <subj-group>
+                  <subject>Microbiology and immunology</subject>
+               </subj-group>
+            </subj-group>
+            <subj-group subj-group-type="discipline" xml:lang="sl">
+               <subject>Medicina/Zdravstvo</subject>
+               <subj-group>
+                  <subject>Mikrobiologija in imunologija</subject>
+               </subj-group>
+            </subj-group>
+            <subj-group subj-group-type="article-type" xml:lang="en">
+               <subject>Short scientific article</subject>
+            </subj-group>
+            <subj-group subj-group-type="article-type" xml:lang="sl">
+               <subject>Klinični primer</subject>
+            </subj-group>
+            <subj-group subj-group-type="heading" xml:lang="sl">
+               <subject>Mikrobiologija in imunologija</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title xml:lang="sl">Zastrupitev z ricinom: Prikaz primera</article-title>
+            <trans-title-group>
+               <trans-title xml:lang="en">Ricin poisoining: Case report</trans-title>
+            </trans-title-group>
+            <alt-title alt-title-type="running-head" xml:lang="sl">Zastrupitev z ricinom</alt-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Razinger</surname>
+                  <given-names>Gašper</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1">1</xref>
+            </contrib>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Brvar</surname>
+                  <given-names>Miran</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1">1</xref>
+               <xref ref-type="corresp" rid="corr"/>
+            </contrib>
+         </contrib-group>
+         <aff-alternatives id="aff1">
+            <aff xml:lang="sl">
+               <label>1</label>
+               <institution>Center za klinično toksikologijo in farmakologijo, Interna klinika, Univerzitetni klinični center Ljubljanaa</institution>
+            </aff>
+            <aff xml:lang="en">
+               <label>1</label>
+               <institution>Poison Control Unit, Division of Internal Medicine, University Medical Centre Ljubljana, Ljubljana, Slovenia</institution>
+            </aff>
+         </aff-alternatives>
+         <author-notes>
+            <fn fn-type="conflict" xml:lang="en">
+               <p>The authors have declared that no competing interests exist.</p>
+            </fn>
+            <fn fn-type="conflict" xml:lang="sl">
+               <p>Avtorji so izjavili, da ne obstajajo nobeni konkurenčni interesi.</p>
+            </fn>
+            <corresp id="corr">Miran Brvar, e-mail: <email xlink:type="simple"/>
+            </corresp>
+         </author-notes>
+         <pub-date pub-type="ppub">
+            <month>6</month>
+            <year>2020</year>
+         </pub-date>
+         <pub-date pub-type="epub">
+            <month>6</month>
+            <year>2020</year>
+         </pub-date>
+         <volume>89</volume>
+         <issue>5–6</issue>
+         <fpage>327</fpage>
+         <lpage>34</lpage>
+         <history>
+            <date date-type="received">
+               <day>16</day>
+               <month>3</month>
+               <year>2019</year>
+            </date>
+            <date date-type="accepted">
+               <day>9</day>
+               <month>10</month>
+               <year>2019</year>
+            </date>
+         </history>
+         <permissions>
+            <copyright-statement xml:lang="en">Copyright © 2020, Slovenian Medical Association (SZD)</copyright-statement>
+            <copyright-statement xml:lang="sl">© 2020, Slovensko zdravniško društvo (SZD)</copyright-statement>
+            <copyright-year>2020</copyright-year>
+            <copyright-holder xml:lang="en">Slovenian Medical Association (SZD)</copyright-holder>
+            <copyright-holder xml:lang="sl">Slovensko zdravniško društvo (SZD)</copyright-holder>
+            <license xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                     xlink:type="simple"
+                     xml:lang="en">
+               <license-p>This is an open access article distributed under the terms of the
+          <ext-link ext-link-type="uri"
+                            xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                            xlink:type="simple">Creative Commons Attribution-NonCommercial
+            License</ext-link>, which permits unrestricted use, distribution, and
+          reproduction in any medium, provided the original author and source are
+          credited and only for non-commercial purposes. </license-p>
+            </license>
+            <license xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                     xlink:type="simple"
+                     xml:lang="sl">
+               <license-p>To je članek z odprtim dostopom, ki ga lahko uporabite pod pogoji iz
+          <ext-link ext-link-type="uri"
+                            xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                            xlink:type="simple">Creative Commons Priznanje avtorstva-Nekomercialno
+            licence</ext-link>. ki dovoljuje distribucijo, predelavo ali
+          prilagoditev, ter gradijo na njem, v nekomercialne namene, z navedbo avtorja
+          in izvirnega dela.</license-p>
+            </license>
+         </permissions>
+         <abstract xml:lang="sl">
+            <title>Izvleček</title>
+            <p>Kloščevec (<italic>Ricinus communis</italic>) v Sloveniji poznamo predvsem kot okrasno rastlino, medtem ko v toplejših delih sveta raste prosto v naravi kot plevel. Rastlina je v celoti strupena, saj vsebuje močan strup ricin, katerega največja koncentracija se nahaja v semenih. Kloščevec je gospodarsko pomemben za proizvodnjo ricinusovega olja.</p>
+            <p>Prispevek opisuje zastrupitev z zaužitjem semen kloščevca. Zastrupitev z ricinom je potekala z omotico, glavobolom, bolečino v prsnem košu, dušenjem, slabostjo, bruhanjem in odvajanjem tekočega blata.</p>
+            <p>Ricin je toksični protein in eden najmočnejših znanih rastlinskih strupov. Mehanizem njegovega delovanja je zaviranje sinteze proteinov v celici. Z ricinom se lahko zastrupimo z zaužitjem, vdihom, preko kože in z vnosom v podkožje ali v mišice. Način vnosa vpliva na smrtni odmerek in klinično sliko. Zdravljenje zastrupitve z ricinom je simptomatsko. Skrbi nas uporaba ricina v teroristične namene, predvsem v obliki aerosola. Razvija se aktivna in pasivna imunizacija.</p>
+         </abstract>
+         <trans-abstract xml:lang="en">
+            <title>Abstract</title>
+            <p>In Slovenia, ricinus (<italic>Ricinus communis</italic>) is best known as a decorative plant. However, in warmer climates the plant is widely distributed in nature and grows as a weed. The whole plant is poisonous since it contains a highly poisonous toxin ricin. The highest concentration of ricin is found in ricinus seeds. Ricinus is grown commercially especially for its oil.</p>
+            <p>This report presents a case of ricin poisoning following oral ingestion of ricin seeds. The main symptoms were dizziness, headache, chest pain, choking sensation, nausea, vomiting and diarrhoea.</p>
+            <p>Ricin is a toxic protein and one of the most potent plant toxins. Its cellular mechanism is inhibition of protein synthesis. The main routes of ricin administration are oral, inhalation, transdermal and parenteral. Both lethal dose and clinical presentation are dependent on the route of administration. Treatment of ricin poisoning is supportive. The use of ricin for acts of bioterrorism is of major concern. Active and passive immunisations are being developed.</p>
+         </trans-abstract>
+         <kwd-group xml:lang="sl">
+            <kwd>kloščevec</kwd>
+            <kwd>ricin</kwd>
+            <kwd>zastrupitev</kwd>
+            <kwd> terorizem</kwd>
+            <kwd>biološki terorizem</kwd>
+         </kwd-group>
+         <kwd-group xml:lang="en">
+            <kwd>ricinus</kwd>
+            <kwd>ricin</kwd>
+            <kwd>poisoning</kwd>
+            <kwd>terrorism</kwd>
+            <kwd>bioterrorism</kwd>
+         </kwd-group>
+      </article-meta>
+   </front>
+   <body>
+      <sec id="s1" sec-type="Uvod">
+         <label>1</label>
+         <title>Uvod</title>
+         <p>V Sloveniji zastrupitve z rastlinami predstavljajo okoli 3 % vseh zastrupitev odraslih bolnikov. Med pogostejšimi rastlinami, s katerimi se ljudje pri nas huje zastrupijo, so jesenski podlesek, čmerika, tisa, navadni kristavec itn. Zastrupitve s strupenimi rastlinami so lahko velik izziv, saj bolniki utegnejo zaužiti tudi različne tujerodne in okrasne rastline. Ena takšnih rastlin je kloščevec (<italic>Ricinus communis</italic>), ki ga pogosto opazimo tudi na slovenskih vrtovih. Kloščevec kot plevel prosto raste v tropskih in subtropskih območjih, kot so Afrika, Bližnji vzhod, Srednja Amerika in Indija (<xref ref-type="bibr" rid="b1">1</xref>,<xref ref-type="bibr" rid="b2">2</xref>,<xref ref-type="bibr" rid="b3">3</xref>).</p>
+         <p>Pri nas je kloščevec enoletnica in jo sadimo kot okrasno rastlino. Spada v družino mlečkovk. Zraste lahko več metrov visoko. Visoko steblo je pokončno, na katerega so z dolgimi peclji izmenično pripeti pahljačasti listi zelene do rdečkasto vijoličaste barve, široki do 90 cm (<xref ref-type="fig" rid="fig1">Slika 1</xref>). Korenine kloščevca so vlaknate in redko razvejane. Bodičasti plodovi rastejo v grozdu. Vsak plod vsebuje po eno seme (<xref ref-type="fig" rid="fig2">Slika 2</xref>). Zaužita semena so prijetnega okusa, a zelo strupena, saj v svoji notranjosti vsebujejo močan strup ricin. Strup se iz semen izloči, če se prekine ovoj semen, npr. pri grizenju. Tudi ostali deli rastline vsebujejo ricin, vendar v manjših količinah (<xref ref-type="bibr" rid="b2">2</xref>,<xref ref-type="bibr" rid="b4">4</xref>).</p>
+         <fig position="anchor" id="fig1">
+            <label>Slika 1:</label>
+            <caption>
+               <p> Kloščevec.</p>
+            </caption>
+            <p>
+               <graphic xlink:href="2938-web-resources/image/zdravvestn-2938-sl-01.png"/>
+            </p>
+         </fig>
+         <fig position="anchor" id="fig2">
+            <label>Slika 2:</label>
+            <caption>
+               <p> Semena kloščevca.</p>
+            </caption>
+            <p>
+               <graphic xlink:href="2938-web-resources/image/zdravvestn-2938-sl-02.png"/>
+            </p>
+         </fig>
+         <p>Kloščevec gojijo tudi kot industrijsko rastlino. Predvsem cenjeno in splošno uporabno je ricinusovo olje, ki ga pridobivajo s stiskanjem semen kloščevca. Seme kloščevca povprečno vsebuje 30–50 % olja. Svetovne velesile na področju gojenja kloščevca za potrebe industrije so Brazilija, Kitajska in Indija. Slednja izvozi več kot 90 % vsega ricinusovega olja. Ricinusovo olje je svetlorumeno, viskozno in nehlapljivo. Še posebej je cenjeno zaradi visoke vsebnosti ricinolejske kisline, ki je zaradi svojih lastnosti uporabna tudi pri izdelavi barvil, premazov, črnil in lubrikantov. Uporablja se tudi kot biogorivo, pri izdelavi polimernih materialov, mil, voskov, zavornih tekočin in gnojil. Kloščevec so poznali že stari Egipčani in ga celo častili, kar pričajo najdbe v sarkofagih, starih 4.000 let. Že takrat so njegovo olje uporabljali kot mazilo. Iz starega Egipta se je rastlina razširila naprej v Indijo in na Kitajsko. Stari Grki in Rimljani so ricinusovo olje uporabljali kot močno odvajalo, kar je še danes njegova glavna raba v tradicionalni medicini. Za odvajalni učinek ricinusovega olja je odgovorna ricinolejska kislina, ki se pod vplivom črevesnih lipaz sprosti iz acilglicerolov in aktivira prostaglandinske receptorje na gladkomišičnih celicah, kar pospeši peristaltiko. Ricinusovo olje je varno za uporabo in ne vsebuje ricina, saj ga med postopki predelave olja odstranijo s fizikalnimi in kemičnimi metodami. Poleg njegovega odvajalnega učinka ricinusovo olje uporabljajo tudi pri izdelavi zdravil in ponekod kot sredstvo za sprožitev poroda (<xref ref-type="bibr" rid="b1">1</xref>,<xref ref-type="bibr" rid="b2">2</xref>,<xref ref-type="bibr" rid="b3">3</xref>,<xref ref-type="bibr" rid="b5">5</xref>,<xref ref-type="bibr" rid="b16">16</xref>). V zadnjem času se ricin vse pogosteje omenja tudi kot kemično orožje za vojaško in teroristično uporabo.</p>
+         <p>Namen prispevka je prikazati primer zastrupitve s kloščevcem in predstaviti zastrupitve z ricinom.</p>
+      </sec>
+      <sec id="s2" sec-type="Prikaz kliničnega primera">
+         <label>2</label>
+         <title>Prikaz kliničnega primera</title>
+         <p>61-letni upokojeni kriminalist s sladkorno boleznijo tipa II je ob 13. uri zgrizel in pogoltnil 15–20 semen, sladkih po okusu, za katere je menil, da gre za pinjole. 7 ur po zaužitju semen mu je postalo slabo, dobil je občutek dušenja in tiščanja v prsnem košu, ki pa je po bruhanju izzvenelo. Izbruhanina je vsebovala ostanke hrane in je bila rdečkaste barve. Po bruhanju ga je pričela boleti glava in postal je omotičen. Ponoči je 4-krat odvajal tekoče blato. Pod levim rebrnim lokom je čutil ostro, omejeno bolečino, ki jo je odvajanje blata olajšalo. Naslednji dan okoli 15. ure, 22 ur po zaužitju semen, je poklical reševalce, ki so ga z reševalnim vozilom pripeljali na Internistični prvo pomoč v UKC Ljubljana. Sprejeli so ga na oddelek Centra za klinično toksikologijo in farmakologijo. S seboj je prinesel semena, ki jih je dan prej zaužil. Ob pregledu je bil bolnik orientiran, afebrilen, acianotičen in anikteričen, normopnoičen s 96-odstotno zasičenostjo hemoglobina, normokarden in normotenziven. Pregled glave, vratu, prsnega koša s pljuči, trebuha in udov ni pokazal nikakršnih odstopanj od normale. Blato je bilo ob takratnem odvajanju rjavo, brez vidne krvi in z negativnim hematestom. V laboratorijskih izvidih je izstopala predvsem glukoza 9,3 mmol/L, levkociti 12,5 × 10<sup>9 </sup>/L ter mejna anemija s hemoglobinom 139 g/L (<xref ref-type="fig" rid="fig1">Tabela 1</xref>). Plinska analiza je pokazala blago respiracijsko alkalozo. EKG je pokazal sinusni ritem. Bolniku smo ob sprejemu dali 50 g aktivnega oglja in pričeli hidriranje z 0,9-odstotnim NaCl 100 ml/h, ob slabosti pa pantoprazol in tietilperazin. Znaki zastrupitve so izzveneli drugi dan po zaužitju semen. Kontrolni izvidi, vključno z jetrno in ledvično funkcijo, so bili v redu. Botanični pregled preostalih semen je potrdil zaužitje semen kloščevca.</p>
+         <table-wrap position="anchor" id="table1">
+            <label>Tabela 1:</label>
+            <caption>
+               <p> Laboratorijske vrednosti ob sprejemu.</p>
+               <p/>
+            </caption>
+            <table>
+               <colgroup>
+                  <col/>
+                  <col/>
+                  <col/>
+                  <col/>
+               </colgroup>
+               <thead>
+                  <tr>
+                     <th>Preiskava</th>
+                     <th>Vrednost</th>
+                     <th>Enote</th>
+                     <th>Orientacijske ref. vrednosti</th>
+                  </tr>
+               </thead>
+               <tbody>
+                  <tr>
+                     <td>S-Glukoza</td>
+                     <td>H 9,3</td>
+                     <td>mmol/L</td>
+                     <td>3,6–6,1</td>
+                  </tr>
+                  <tr>
+                     <td>S-Sečnina</td>
+                     <td>6,5</td>
+                     <td>mmol/L</td>
+                     <td>2,8–7,5</td>
+                  </tr>
+                  <tr>
+                     <td>S-Kalij</td>
+                     <td>4,3</td>
+                     <td>mmol/L</td>
+                     <td>3,8–5,5</td>
+                  </tr>
+                  <tr>
+                     <td>S-Natrij</td>
+                     <td>140</td>
+                     <td>mmol/L</td>
+                     <td>135–145</td>
+                  </tr>
+                  <tr>
+                     <td>S-Kreatinin</td>
+                     <td>85</td>
+                     <td>µmol/L</td>
+                     <td>44–97</td>
+                  </tr>
+                  <tr>
+                     <td>oGF (MDRD)/1,73 m<sup>2</sup>
+                     </td>
+                     <td>79</td>
+                     <td>mL/min</td>
+                     <td/>
+                  </tr>
+                  <tr>
+                     <th content-type="table-subhead" colspan="4"/>
+                  </tr>
+                  <tr>
+                     <td>S- Bilirubin cel.</td>
+                     <td>15</td>
+                     <td>µmol/L</td>
+                     <td>do 17</td>
+                  </tr>
+                  <tr>
+                     <td>S- Bilirubin dir.</td>
+                     <td>H 5</td>
+                     <td>µmol/L</td>
+                     <td>do 5</td>
+                  </tr>
+                  <tr>
+                     <td>S-A. Fosfataza</td>
+                     <td>0.92</td>
+                     <td>µkat/L</td>
+                     <td>do 2,15</td>
+                  </tr>
+                  <tr>
+                     <td>S-AST</td>
+                     <td>0,23</td>
+                     <td>µkat/L</td>
+                     <td>do 0,58</td>
+                  </tr>
+                  <tr>
+                     <td>S-ALT</td>
+                     <td>0,34</td>
+                     <td>µkat/L</td>
+                     <td>do 0,74</td>
+                  </tr>
+                  <tr>
+                     <td>S-gama-GT</td>
+                     <td>0,35</td>
+                     <td>µkat/L</td>
+                     <td>do 0,92</td>
+                  </tr>
+                  <tr>
+                     <td>S-alfa-Amilaza</td>
+                     <td>1,37</td>
+                     <td>µkat/L</td>
+                     <td>do 1,67</td>
+                  </tr>
+                  <tr>
+                     <td>S-Lipaza</td>
+                     <td>0,73</td>
+                     <td>µkat/L</td>
+                     <td>do 1,00</td>
+                  </tr>
+                  <tr>
+                     <td>S-CK</td>
+                     <td>1,60</td>
+                     <td>µkat/L</td>
+                     <td>do 2,85</td>
+                  </tr>
+                  <tr>
+                     <td>S-LDH</td>
+                     <td>2,49</td>
+                     <td>µkat/L</td>
+                     <td>do 4,13</td>
+                  </tr>
+                  <tr>
+                     <td>S-CRP</td>
+                     <td>pod 5</td>
+                     <td>mg/L</td>
+                     <td>0–5,0</td>
+                  </tr>
+                  <tr>
+                     <th content-type="table-subhead" colspan="4">Hemogram</th>
+                  </tr>
+                  <tr>
+                     <td>K-Lkci</td>
+                     <td>H 12,5</td>
+                     <td>10^9/L</td>
+                     <td>4,0–10,0</td>
+                  </tr>
+                  <tr>
+                     <td>K-Erci</td>
+                     <td>5,10</td>
+                     <td>10^12/L</td>
+                     <td>4,5–6,3</td>
+                  </tr>
+                  <tr>
+                     <td>K-Hb</td>
+                     <td>L 139</td>
+                     <td>g/L</td>
+                     <td>140–180</td>
+                  </tr>
+                  <tr>
+                     <td>K-Ht</td>
+                     <td>0,412</td>
+                     <td>1</td>
+                     <td>0,40–0,54</td>
+                  </tr>
+                  <tr>
+                     <td>MCV</td>
+                     <td>L 80,7</td>
+                     <td>fl</td>
+                     <td>81,0–94,0</td>
+                  </tr>
+                  <tr>
+                     <td>MCH</td>
+                     <td>27,3</td>
+                     <td>pg</td>
+                     <td>26,0–32,0</td>
+                  </tr>
+                  <tr>
+                     <td>MCHC</td>
+                     <td>332</td>
+                     <td>g/L</td>
+                     <td>310–350</td>
+                  </tr>
+                  <tr>
+                     <td>RDW</td>
+                     <td>13,4</td>
+                     <td>%</td>
+                     <td>11,5–14,5</td>
+                  </tr>
+                  <tr>
+                     <td>K-Trombociti</td>
+                     <td>207</td>
+                     <td>10^9/L</td>
+                     <td>140–340</td>
+                  </tr>
+                  <tr>
+                     <td>MPV</td>
+                     <td>8,7</td>
+                     <td>fl</td>
+                     <td>7,8–11,0</td>
+                  </tr>
+                  <tr>
+                     <th content-type="table-subhead" colspan="4"/>
+                  </tr>
+                  <tr>
+                     <td>P-PČ</td>
+                     <td>0,94</td>
+                     <td>1</td>
+                     <td>0,7–1,0</td>
+                  </tr>
+                  <tr>
+                     <td>INR</td>
+                     <td>1,04</td>
+                     <td/>
+                     <td/>
+                  </tr>
+               </tbody>
+            </table>
+         </table-wrap>
+      </sec>
+      <sec id="s3" sec-type="Razpravljanje">
+         <label>3</label>
+         <title>Razpravljanje</title>
+         <p>Ricin je zelo strupen protein (toksalbumin) in eden najmočnejših znanih rastlinskih strupov. Predstavlja 3–5 % suhe teže semena kloščevca. Pri sobni temperaturi ima obliko belega prahu in je vodotopen. Ricin postane neaktiven pri segrevanju na 80 °C za 10 min ali na 50 °C za 1 h, sicer pa je pod temperaturo 60 °C dobro stabilen. Onesposobijo ga tudi klorove spojine (<xref ref-type="bibr" rid="b1">1</xref>,<xref ref-type="bibr" rid="b6">6</xref>-<xref ref-type="bibr" rid="b10">10</xref>).</p>
+         <p>Ricin je glikoprotein, sestavljen iz verige A in B, ki sta med seboj povezani z disulfidno vezjo. Veriga A je encimsko aktivna glikozidaza, veriga B pa služi za privzem ricina v celico, saj vsebuje vezavna mesta za galaktozne ostanke, ki so prisotni na glikolipidih in glikoproteinih na površini celične membrane. Ricin v celico vstopi z endocitozo. Nekaj molekul ricina se razgradi v lizosomih, nekaj jih zapusti celico z eksocitozo, del pa z retrogradnim prenosom potuje v Golgijev aparat in od tam v endoplazemski retikel. Verigi A in B se tu razcepita. Veriga A s translokacijo vstopi v citosol, kjer na večji podenoti ribosoma odstrani adeninski ostanek na podenoti 28S ribosoma. To prepreči vezavo elongacijskih faktorjev, zaradi česar se sinteza beljakovin ustavi. Ricin lahko tudi naposredno poškoduje celične opne, poruši elektrolitsko ravnovesje, sproži apoptozo in povzroči sproščanje vnetnih mediatorjev (<xref ref-type="bibr" rid="b6">6</xref>,<xref ref-type="bibr" rid="b7">7</xref>,<xref ref-type="bibr" rid="b8">8</xref>).</p>
+         <p>Z ricinom se lahko zastrupimo z zaužitjem, vdihom, preko kože in z vnosom v podkožje ali v mišice (<xref ref-type="table" rid="table2">Tabela 2</xref>). Način vnosa tudi vpliva na smrtni odmerek ricina. Znano je, da je smrtni odmerek zaužitega ricina bistveno večji, kot to velja pri inhalacijskem ali parenteralnem vnosu. Pri miših je tako LD<sub>50</sub> ob zaužitju ricina 20 mg/kg, ob subkutanem vnosu 24 μg/kg in ob vdihu le 3–5 μg/kg. Po vdihu ricin so živali umrle v 60 urah, po zaužitju pa v 100 urah (<xref ref-type="bibr" rid="b1">1</xref>).</p>
+         <table-wrap position="anchor" id="table2">
+            <label>Tabela 2:</label>
+            <caption>
+               <p> Pričakovani simptomi in znaki pri posameznih poteh vnosa ricina.</p>
+            </caption>
+            <table>
+               <colgroup>
+                  <col/>
+                  <col/>
+                  <col/>
+                  <col/>
+               </colgroup>
+               <thead>
+                  <tr>
+                     <th>Način vnosa ricina</th>
+                     <th>Peroralni vnos</th>
+                     <th>Inhalacijski vnos</th>
+                     <th>Parenteralni vnos</th>
+                  </tr>
+               </thead>
+               <tbody>
+                  <tr>
+                     <td>Pričakovani simptomi in znaki zastrupitve</td>
+                     <td>Slabost, bruhanje, driska, bolečine v trebuhu, hematemeza, hematohezija, melena, tahikardija, tahipneja, periferna cianoza.</td>
+                     <td>Kašelj, dispneja, slabost, bolečine v sklepih, potenje, vročina, pljučni edem.</td>
+                     <td>Slabost, bruhanje, utrujenost, vročina, hematemeza, hematohezija, melena, znaki šoka.</td>
+                  </tr>
+               </tbody>
+            </table>
+         </table-wrap>
+         <p>Najpogostejši način zastrupitve z ricinom je zaužitje semen kloščevca. Klinična slika zastrupitve je odvisna od lastnosti semen, ki se lahko zelo razlikujejo glede na geografsko območje rasti kloščevca, čas obiranja, hidriranost semen, velikost semen, število semen in vsebnost posameznih izooblik ricina v semenih. Nezrela semena so veliko bolj strupena kot zrela. Pomembno je, ali semena samo pogoltnemo ali tudi zgrizemo, saj v prvem primeru do pojava simptomov velikokrat sploh ne pride. Razlog za to je najverjetneje velika molekulska masa ricina in zato slabša absorpcija ricina iz črevesja. Ob zaužitju semen kloščevca se simptomi zastrupitve pojavijo v roku 12 ur in so neznačilni, kar brez anamneze o zaužitju semen predstavlja trd diagnostični oreh. Bolniki, ki zaužijejo semena, imajo predvsem simptome v prebavilih, kot so bolečina, slabost, bruhanje, bolečina v trebuhu in driska, kot se je zgodilo tudi pri opisanem bolniku. Ob zastrupitvi z ricinom se lahko sicer razvijejo tudi melena, hematemeza in hematurija. Spremljajoči znaki so tahikardija, tahipneja, potenje in periferna cianoza. Bolniki imajo lahko tudi halucinacije in krče. Patofiziološko pride do nekroze črevesnega epitela in krvavitve ter do nekroze jeter, vranice in ledvic. Nastopi dehidracija, poruši se elektrolitsko ravnovesje, opazimo lahko ledvično in/ali jetrno odpoved, kar skupaj pripelje do večorganske odpovedi. Rezultati laboratorijske preiskav krvi in urina so neznačilni in vključujejo povišane jetrne encime, kreatin kinazo, laktatno dehidrogenazo in bilirubin, zaznamo lahko levkocitozo, presnovno acidozo, hipoglikemijo ali hiperglikemijo ter proteinurijo. Možne so tudi različne spremembe v EKG (<xref ref-type="bibr" rid="b1">1</xref>,<xref ref-type="bibr" rid="b6">6</xref>
+            <xref ref-type="bibr" rid="b9">9</xref>,<xref ref-type="bibr" rid="b15">15</xref>).</p>
+         <p>V Kaliforniji so od 2001 do 2011 obravnavali 84 bolnikov, ki so zaužili kloščevec. V polovici primerov je šlo za namerne zastrupitve. Slaba polovica bolnikov je zaužila intaktna semena, dobra polovica pa je semena zgrizla ali zdrobila. Slednji so imeli več simptomov in so jih pogosteje hospitalizirali. Dve tretjini bolnikov je imelo simptome v prebavilih, drugih znakov zastrupitve pa niso imeli (<xref ref-type="bibr" rid="b15">15</xref>).</p>
+         <p>Vdih ricina v obliki aerosola je najnevarnejša oblika zastrupitve z ricinom, vendar pri ljudeh takšne zastrupitve še niso opisali. V poskusih z živalmi se je pokazalo, da je pri vdihu ricina pomembna velikost delcev aerosola, saj manjši delci prodrejo globlje v pljuča. Delci, večji od 10 mikrometrov, ne dosežejo pljučnih mešičkov in zato povzročijo le blažjo klinično sliko zastrupitve. Znaki zastrupitve po vdihu ricina so se pri živalih pojavili 4–8 ur po izpostavitvi in so vključevali kašelj, dušenje, slabost, potenje, vročino in bolečine v sklepih. 36–72 ur po vdihu ricina se je pri živalih razvil difuzni pljučni edem in nekroza ter zato dihalna odpoved in smrt v nekaj dneh (<xref ref-type="bibr" rid="b1">1</xref>,<xref ref-type="bibr" rid="b6">6</xref>,<xref ref-type="bibr" rid="b8">8</xref>,<xref ref-type="bibr" rid="b9">9</xref>,<xref ref-type="bibr" rid="b11">11</xref>).</p>
+         <p>V živalskih poskusih so uporabili različne sorte kloščevca z različnimi razmerji izooblik ricina in ustvarili aerosole ricina ter ugotovili, da je smrtni odmerek odvisen od izooblike ricina. Z živalskimi poskusi so pokazali tudi, da se večina ricina nabere v pljučih, nekaj pa tudi v srcu, ledvicah in limfnem tkivu. V krvi in prebavilih pa ricina niso zaznali, čeprav so druge študije pokazale, da ricin preko pljuč lahko vstopi tudi v kri in od tam v druge organe (<xref ref-type="bibr" rid="b1">1</xref>).</p>
+         <p>Parenteralni vnos ricina, npr. v mišico, podkožje in v žilo, je najmanj verjeten vzrok zastrupitve. Značilnost parenteralnega vnosa je vstop ricina v krvni obtok in hitra porazdelitev toksina po telesu v večino organov. Edini znani primer tovrstnega vnosa ricina pri človeku je atentat na bolgarskega novinarja Georgija Markova leta 1978 v Londonu. Ustrelili so ga z zračno puško, zamaskirano v dežnik, ki je v nogo Markova sprožila projektil, prepojen z ricinom. Opis njegovega primera je služil kot temelj za preučevanje tovrstnega vnosa. Nekaj ur po vnosu je nastopilo sistemsko vnetje, ki se je kazalo kot gripa, slabost, bruhanje, utrujenost in vročina. Sledila je krvavitev iz prebavil, hipovolemični šok in ledvična odpoved. Markov je čez 3 dni umrl. Na obdukciji so ugotovili nekrozo bezgavk in jeter, vnetje vranice in ledvic, hemoragično nekrozo tankega črevesja, trebušne slinavke in mod. Študije na podganah so pokazale, da je značilno mesto vnetnega dogajanja pri vnosu skozi mišico tanko črevo. Pri živalih je prišlo tudi do lokalne nekroze mišic, področne limfadenopatije in okvare notranjih organov. Ko so preučevali intravenski vnos radioaktivno označenega ricina, so ugotovili, da se je polovica ricina nakopičila v jetrih, dobrih 10 % v vranici, ostalo pa v drugih organih (<xref ref-type="bibr" rid="b1">1</xref>,<xref ref-type="bibr" rid="b8">8</xref>,<xref ref-type="bibr" rid="b9">9</xref>).</p>
+         <p>Ob stiku kože in sluznic z ricinom in ostalo vsebino semen kloščevca, ki vsebujejo tudi različne glikoproteine, lahko pri dovzetnih osebah nastanejo alergijske reakcije, ki se klinično pokažejo kot dermatitis, konjunktivitis in astma (<xref ref-type="bibr" rid="b3">3</xref>,<xref ref-type="bibr" rid="b9">9</xref>).</p>
+         <p>Zastrupitve z ricinom je, ne glede na pot vnosa, težko ugotoviti, saj je klinična slika neznačilna in diferencialna diagnoza podobnih kliničnih stanj zelo široka. Pri ugotavljanju zastrupitev s kloščevcem nam najbolj koristi dobra anamneza z opisom okoliščin ter botanična analiza preostalih semen, če jih je bolnik prinesel v bolnišnico, kot se je to zgodilo tudi v predstavljenem primeru.</p>
+         <p>S toksikološko analizo na Inštitutu za sodno medicino Medicinske fakultete v Ljubljani lahko dokažemo ricin ali njegov posredni označevalec ricinin, ki se poleg ricina nahaja v pripravkih iz semen kloščevca. Ricinin lahko v urinu zastrupljenih bolnikov zaznamo do 48 h po izpostavitvi. Hiter imunokemični test za ricin v klinični uporabi še ne obstaja, potekajo pa številne raziskave za ugotavljanje ricina v bioloških vzorcih in hrani, npr. z zaznavo specifičnih protiteles in ribonukleinskih kislin, masno spektroskopijo in merjenjem aktivnosti ricina. Najbolj obetavne metode za dokazovanje ricina so encimska imunoadsorpcijska preiskava (ELISA), elektrokemoluminiscenca, imunokromatografske metode, PCR in masna spektrometrija.</p>
+         <p>Zaradi možnosti uporabe ricina v teroristične in vojaške namene pa bo potrebna razviti hitro in zanesljivo metodo z dovolj visoko občutljivostjo in specifičnostjo (<xref ref-type="bibr" rid="b1">1</xref>,<xref ref-type="bibr" rid="b6">6</xref>,<xref ref-type="bibr" rid="b7">7</xref>).</p>
+         <p>Zdravljenje zastrupitev z ricinom je simptomatsko oziroma podporno, saj protistrupa za ricin ni. Dializa ni učinkovita zaradi velike molekulske mase ricina.</p>
+         <p>Ob zaužitju celih semen posebno zdravljenje ni potrebno. Ob zaužitju zgrizenih semen pa bolniku damo aktivno oglje in ob prebavnih simptomih poskrbimo za hidriranje in zdravljenje proti bruhanju. Pri bolnikih s simptomi spremljamo laboratorijske izvide, predvsem smo pozorni na elektrolitsko ravnovesje in ledvično funkcijo. Bolnike, ki so brez znakov zastrupitve po zaužitju semen in ne vemo, ali so semena zgrizli, opazujemo 12 ur od zaužitja. Pri stiku kože z ricinom kožo dobro izperemo; nadaljnja hospitalizacija ni potrebna, razen v primeru, ko je koža izrazito poškodovana in obstaja verjetnost za sistemsko absorpcijo ricina.</p>
+         <p>V razvoju je aktivna imunizacija oziroma cepivo, ki bi bilo primerno za zaščito pred pretečo izpostavljenostjo ricinu in uporabno v vojaške namene. Učinkovitost cepiv proti ricinu so že potrdili z živalskimi modeli. V razvoju so tudi protitelesa (pasivna imunizacija) oziroma protistrupi, ki bi jih lahko uporabili proflilaktično in po izpostavitvi tudi pri civilnem prebivalstvu v primeru terorističnega napada z ricinom. Protitelesa nevtralizirajo ricin z vezavo na verigo A ali B ali na obe. Vprašanje pa je, ali bodo nevtralizirajoča protitelesa učinkovita tudi po časovnem presledku, ki je potreben za prepoznavanje zastrupitev z ricinom (<xref ref-type="bibr" rid="b4">4</xref>,<xref ref-type="bibr" rid="b6">6</xref>-<xref ref-type="bibr" rid="b8">8</xref>). Razvoj protistrupov proti ricinu postaja vse aktualnejši zaradi možne uporabe ricina v terorističnih napadih, kar pričajo tudi objave v javnih medijih. Proti koncu leta 2018 sta bila odmevna primera, ko so v Nemčiji pri domnevnem teroristu doma našli 1000 semen kloščevca in električni mlinček za kavo ter primer pošiljke belega prahu, ki se je kasneje izkazal za ricin, naslovljene na specifično osebo v ameriškem Pentagonu (<xref ref-type="bibr" rid="b12">12</xref>,<xref ref-type="bibr" rid="b13">13</xref>,<xref ref-type="bibr" rid="b14">14</xref>).</p>
+         <p>Ricin je primeren za teroristične napade, ker je kloščevec zelo razširjena rastlina in je proizvodnja strupa v večjih količinah dokaj enostavna. Recepti in postopki za izdelavo visoko toksičnih ricinskih pripravkov so lahko dostopni na medmrežju in črnem trgu, vendar na srečo zaradi majhne koncentracije ricina v končnem produktu ne predstavljajo večje nevarnosti, da bi jih uporabili kot teroristično sredstvo večjih razsežnosti. S stališča vojaške uporabe in terorizma je najpomembnejša pot vnosa ricina v obliki aerosola, obstaja pa tudi možnost za vnos v mišico, podkožje in v žilo. V mišico bi lahko ricin vnesli v telesa večjega števila ljudi z eksplozivnimi sredstvi, ki vsebujejo ostre elemente, prepojene z ricinom. Takšna pot vnosa bi najverjetneje vključevala vse poti vnosa. V ZDA so ricin razvrstili v kategorijo B biološko terorističnih sredstev, kar pomeni, da ga je sorazmerno lahko razpršiti med večjo skupino ljudi, povzroča zmerno obolevnost in nizko smrtnost. Naravni toksini, kot je ricin, v primerjavi z živimi organizmi niso nalezljivi, zato zdravstveno osebje ne potrebuje posebnih zaščitnih oblek in ukrepov (<xref ref-type="bibr" rid="b1">1</xref>,<xref ref-type="bibr" rid="b9">9</xref>,<xref ref-type="bibr" rid="b11">11</xref>).</p>
+      </sec>
+      <sec id="s4" sec-type="Zaključek">
+         <label>4</label>
+         <title>Zaključek</title>
+         <p>Pri bolnikih s prebavnimi težavami po obroku semen moramo pomisliti na zastrupitev s kloščevcem. Zastrupitev z ricinom lahko potrdimo z biološko in/ali toksikološko analizo ostankov rastline in bioloških vzorcev zastrupljencev. Zdravljenje je predvsem simptomatsko. Ob terorističnem napadu s prahom ali aerosolom moramo pomisliti tudi na možnost zastrupitve z ricinom.</p>
+         <p>Bolnik se strinja z objavo prispevka.</p>
+      </sec>
+   </body>
+   <back>
+      <ref-list>
+         <ref id="b1">
+            <label>1. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Griffiths</surname>
+                     <given-names>GD</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Understanding ricin from a defensive viewpoint</article-title>. 
+                    <source>Toxins (Basel)</source>. 
+                    <year>2011</year>
+                    <month>Nov</month>;
+                    <volume>3</volume>(
+                    <issue>11</issue>):
+                    <fpage>1373</fpage>–
+                    <lpage>92</lpage>. 
+                    <pub-id pub-id-type="doi">10.3390/toxins3111373</pub-id>
+                    <pub-id pub-id-type="pmid">22174975</pub-id>
+                    <issn>2072-6651</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b2">
+            <label>2. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Patel</surname>
+                     <given-names>VR</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Dumancas</surname>
+                     <given-names>GG</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Kasi Viswanath</surname>
+                     <given-names>LC</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Maples</surname>
+                     <given-names>R</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Subong</surname>
+                     <given-names>BJ</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Castor oil: properties, uses, and optimization of processing parameters in commercial production</article-title>. 
+                    <source>Lipid Insights</source>. 
+                    <year>2016</year>
+                    <month>Sep</month>;
+                    <volume>9</volume>:
+                    <fpage>1</fpage>–
+                    <lpage>12</lpage>. 
+                    <pub-id pub-id-type="doi">10.4137/LPI.S40233</pub-id>
+                    <pub-id pub-id-type="pmid">27656091</pub-id>
+                    <issn>1178-6353</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b3">
+            <label>3. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Scarpa</surname>
+                     <given-names>A</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Guerci</surname>
+                     <given-names>A</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Various uses of the castor oil plant (Ricinus communis L.). A review</article-title>. 
+                    <source>J Ethnopharmacol</source>. 
+                    <year>1982</year>
+                    <month>Mar</month>;
+                    <volume>5</volume>(
+                    <issue>2</issue>):
+                    <fpage>117</fpage>–
+                    <lpage>37</lpage>. 
+                    <pub-id pub-id-type="doi">10.1016/0378-8741(82)90038-1</pub-id>
+                    <pub-id pub-id-type="pmid">7035750</pub-id>
+                    <issn>0378-8741</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b4">
+            <label>4. </label>
+            <mixed-citation publication-type="book">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Nelson</surname>
+                     <given-names>LS</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Shih</surname>
+                     <given-names>RD</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Balick</surname>
+                     <given-names>MJ</given-names>
+                  </name>
+                    </person-group>. 
+                    <source>Handbook of poisonous and injurious plants</source>. 
+                    <edition>2nd ed</edition>.
+                    <publisher-loc>New York</publisher-loc>: 
+                    <publisher-name>Springer</publisher-name>; 
+                    <year>2007</year>.
+                </mixed-citation>
+         </ref>
+         <ref id="b5">
+            <label>5. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Neri</surname>
+                     <given-names>I</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Dante</surname>
+                     <given-names>G</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Pignatti</surname>
+                     <given-names>L</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Salvioli</surname>
+                     <given-names>C</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Facchinetti</surname>
+                     <given-names>F</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Castor oil for induction of labour: a retrospective study</article-title>. 
+                    <source>J Matern Fetal Neonatal Med</source>. 
+                    <year>2018</year>
+                    <month>Aug</month>;
+                    <volume>31</volume>(
+                    <issue>16</issue>):
+                    <fpage>2105</fpage>–
+                    <lpage>8</lpage>. 
+                    <pub-id pub-id-type="doi">10.1080/14767058.2017.1336223</pub-id>
+                    <pub-id pub-id-type="pmid">28618920</pub-id>
+                    <issn>1476-7058</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b6">
+            <label>6. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Audi</surname>
+                     <given-names>J</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Belson</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Patel</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Schier</surname>
+                     <given-names>J</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Osterloh</surname>
+                     <given-names>J</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Ricin poisoning: a comprehensive review</article-title>. 
+                    <source>JAMA</source>. 
+                    <year>2005</year>
+                    <month>Nov</month>;
+                    <volume>294</volume>(
+                    <issue>18</issue>):
+                    <fpage>2342</fpage>–
+                    <lpage>51</lpage>. 
+                    <pub-id pub-id-type="doi">10.1001/jama.294.18.2342</pub-id>
+                    <pub-id pub-id-type="pmid">16278363</pub-id>
+                    <issn>0098-7484</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b7">
+            <label>7. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Lopez Nunez</surname>
+                     <given-names>OF</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Pizon</surname>
+                     <given-names>AF</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Tamama</surname>
+                     <given-names>K</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Ricin Poisoning after Oral Ingestion of Castor Beans: A Case Report and Review of the Literature and Laboratory Testing</article-title>. 
+                    <source>J Emerg Med</source>. 
+                    <year>2017</year>
+                    <month>Nov</month>;
+                    <volume>53</volume>(
+                    <issue>5</issue>):
+                    <fpage>e67</fpage>–
+                    <lpage>71</lpage>. 
+                    <pub-id pub-id-type="doi">10.1016/j.jemermed.2017.08.023</pub-id>
+                    <pub-id pub-id-type="pmid">28987302</pub-id>
+                    <issn>0736-4679</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b8">
+            <label>8. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Pincus</surname>
+                     <given-names>SH</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Smallshaw</surname>
+                     <given-names>JE</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Song</surname>
+                     <given-names>K</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Berry</surname>
+                     <given-names>J</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Vitetta</surname>
+                     <given-names>ES</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Passive and active vaccination strategies to prevent ricin poisoning</article-title>. 
+                    <source>Toxins (Basel)</source>. 
+                    <year>2011</year>
+                    <month>Sep</month>;
+                    <volume>3</volume>(
+                    <issue>9</issue>):
+                    <fpage>1163</fpage>–
+                    <lpage>84</lpage>. 
+                    <pub-id pub-id-type="doi">10.3390/toxins3091163</pub-id>
+                    <pub-id pub-id-type="pmid">22069761</pub-id>
+                    <issn>2072-6651</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b9">
+            <label>9. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Berger</surname>
+                     <given-names>T</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Eisenkraft</surname>
+                     <given-names>A</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Bar-Haim</surname>
+                     <given-names>E</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Kassirer</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Aran</surname>
+                     <given-names>AA</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Fogel</surname>
+                     <given-names>I</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Toxins as biological weapons for terror-characteristics, challenges and medical countermeasures: a mini-review</article-title>. 
+                    <source>Disaster Mil Med</source>. 
+                    <year>2016</year>
+                    <month>Apr</month>;
+                    <volume>2</volume>(
+                    <issue>1</issue>):
+                    <fpage>7</fpage>. 
+                    <pub-id pub-id-type="doi">10.1186/s40696-016-0017-4</pub-id>
+                    <pub-id pub-id-type="pmid">28265441</pub-id>
+                    <issn>2054-314X</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b10">
+            <label>10. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Doan</surname>
+                     <given-names>LG</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Ricin: mechanism of toxicity, clinical manifestations, and vaccine development. A review</article-title>. 
+                    <source>J Toxicol Clin Toxicol</source>. 
+                    <year>2004</year>;
+                    <volume>42</volume>(
+                    <issue>2</issue>):
+                    <fpage>201</fpage>–
+                    <lpage>8</lpage>. 
+                    <pub-id pub-id-type="doi">10.1081/CLT-120030945</pub-id>
+                    <pub-id pub-id-type="pmid">15214627</pub-id>
+                    <issn>0731-3810</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b11">
+            <label>11. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Park</surname>
+                     <given-names>K</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Pulmonary delivery of anti-ricin antibody: from the bench to the clinic</article-title>. 
+                    <source>J Control Release</source>. 
+                    <year>2016</year>
+                    <month>Jul</month>;
+                    <volume>234</volume>:
+                    <fpage>135</fpage>. 
+                    <pub-id pub-id-type="doi">10.1016/j.jconrel.2016.06.002</pub-id>
+                    <pub-id pub-id-type="pmid">27324205</pub-id>
+                    <issn>0168-3659</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b12">
+            <label>12. </label>
+            <mixed-citation publication-type="webpage">
+                    <article-title>German prosecutors arrest man over alleged ricin attack plot</article-title>.
+                    <source>The Guardian. Guardian News and Media</source> 
+                    <year>2018</year>.
+                    [<date-in-citation content-type="access-date" iso-8601-date="2019-03-28">cited 2019 Mar 28</date-in-citation>.
+                    <comment>Available from:<uri>https://www.theguardian.com/us-news/2018/oct/02/pentagon-ricin-poison-packages-latest</uri>
+               </comment>.
+                </mixed-citation>
+         </ref>
+         <ref id="b13">
+            <label>13. </label>
+            <mixed-citation publication-type="webpage">
+                    <article-title>V Nemčiji v stanovanju Tunizijca našli biološko orožje</article-title>. 
+                    <source>Delo</source>. 
+                    <year>2018</year>.
+                    [<date-in-citation content-type="access-date" iso-8601-date="2018-08-28">cited 2018 Aug 28</date-in-citation>. 
+                    <comment>Available from:<uri>https://www.delo.si/novice/svet/v-nemciji-v-stanovanju-tunizijca-nasli-biolosko-orozje-61392.html</uri>
+               </comment>.
+                </mixed-citation>
+         </ref>
+         <ref id="b14">
+            <label>14. </label>
+            <mixed-citation publication-type="webpage">
+                    <article-title>Suspected ricin poison packages found at Pentagon</article-title>. 
+                    <source>The Guardian. Guardian News and Media</source> 
+                    <year>2018</year>.
+                    [<date-in-citation content-type="access-date" iso-8601-date="2019-03-28">cited 2019 Mar 28</date-in-citation>.
+                    <comment>Available from:<uri>https://www.theguardian.com/us-news/2018/oct/02/pentagon-ricin-poison-packages-latest</uri>
+               </comment>.
+                    
+                </mixed-citation>
+         </ref>
+         <ref id="b15">
+            <label>15. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Thornton</surname>
+                     <given-names>SL</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Darracq</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Lo</surname>
+                     <given-names>J</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Cantrell</surname>
+                     <given-names>FL</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Castor bean seed ingestions: a state-wide poison control system’s experience</article-title>. 
+                    <source>Clin Toxicol (Phila)</source>. 
+                    <year>2014</year>
+                    <month>Apr</month>;
+                    <volume>52</volume>(
+                    <issue>4</issue>):
+                    <fpage>265</fpage>–
+                    <lpage>8</lpage>. 
+                    <pub-id pub-id-type="doi">10.3109/15563650.2014.892124</pub-id>
+                    <pub-id pub-id-type="pmid">24579983</pub-id>
+                    <issn>1556-3650</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b16">
+            <label>16. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Tunaru</surname>
+                     <given-names>S</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Althoff</surname>
+                     <given-names>TF</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Nüsing</surname>
+                     <given-names>RM</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Diener</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Offermanns</surname>
+                     <given-names>S</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Castor oil induces laxation and uterus contraction via ricinoleic acid activating prostaglandin EP3 receptors</article-title>. 
+                    <source>Proc Natl Acad Sci USA</source>. 
+                    <year>2012</year>
+                    <month>Jun</month>;
+                    <volume>109</volume>(
+                    <issue>23</issue>):
+                    <fpage>9179</fpage>–
+                    <lpage>84</lpage>. 
+                    <pub-id pub-id-type="doi">10.1073/pnas.1201627109</pub-id>
+                    <pub-id pub-id-type="pmid">22615395</pub-id>
+                    <issn>0027-8424</issn>
+                </mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

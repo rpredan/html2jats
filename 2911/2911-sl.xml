@@ -1,0 +1,3313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD with MathML3 v1.1 20151215//EN" "JATS-journalpublishing1-mathml3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink"
+         dtd-version="1.1"
+         xml:lang="sl"
+         article-type="other">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher-id">Zdrav Vestn</journal-id>
+         <journal-id journal-id-type="nlm-ta">Zdrav Vestn</journal-id>
+         <journal-id journal-id-type="doi">Zdrav Vestn</journal-id>
+         <journal-title-group>
+            <journal-title>Zdravniški vestnik</journal-title>
+            <trans-title-group xml:lang="en">
+               <trans-title>Slovenian Medical Journal</trans-title>
+            </trans-title-group>
+            <abbrev-journal-title>Zdrav Vestn</abbrev-journal-title>
+         </journal-title-group>
+         <issn publication-format="ppub" pub-type="ppub">1318-0347</issn>
+         <issn publication-format="epub" pub-type="epub">1581-0224</issn>
+         <issn-l>0350-0063</issn-l>
+         <publisher>
+            <publisher-name xml:lang="sl">Slovensko zdravniško društvo</publisher-name>
+            <publisher-name xml:lang="en">Slovenian Medical Association</publisher-name>
+            <publisher-loc xml:lang="sl">Ljubljana, Slovenia</publisher-loc>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.6016/ZdravVestn.2911</article-id>
+         <article-id pub-id-type="publisher-id">2911</article-id>
+         <article-categories>
+            <subj-group subj-group-type="discipline" xml:lang="en">
+               <subject>Medicine and health sciences</subject>
+               <subj-group>
+                  <subject> Cardiovascular system</subject>
+               </subj-group>
+            </subj-group>
+            <subj-group subj-group-type="discipline" xml:lang="sl">
+               <subject>Medicina/Zdravstvo</subject>
+               <subj-group>
+                  <subject>Srce in ožilje</subject>
+               </subj-group>
+            </subj-group>
+            <subj-group subj-group-type="article-type" xml:lang="en">
+               <subject>Review article</subject>
+            </subj-group>
+            <subj-group subj-group-type="article-type" xml:lang="sl">
+               <subject>Pregledni znanstveni članek</subject>
+            </subj-group>
+            <subj-group subj-group-type="heading" xml:lang="sl">
+               <subject>Srce in ožilje</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title xml:lang="sl">Akutna travmatska poškodba hrbtenjače – Patofiziologija in moderni koncepti zdravljenja</article-title>
+            <trans-title-group>
+               <trans-title xml:lang="en">Acute traumatic spinal cord injury – Pathophysiology and modern treatment concepts</trans-title>
+            </trans-title-group>
+            <alt-title alt-title-type="running-head" xml:lang="sl">Akutna travmatska poškodba hrbtenjače</alt-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Jug</surname>
+                  <given-names>Marko</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1">1</xref>
+               <xref ref-type="corresp" rid="corr"/>
+            </contrib>
+         </contrib-group>
+         <aff-alternatives id="aff1">
+            <aff xml:lang="sl">
+               <label>1</label>
+               <institution>Klinični oddelek za travmatologijo, Kirurška klinika, Univerzitetni klinični center Ljubljana, Ljubljana, Slovenija</institution>
+            </aff>
+            <aff xml:lang="en">
+               <label>1</label>
+               <institution>Department of Traumatology, Division of Surgery, University Medical Centre Ljubljana, Ljubljana, Slovenia</institution>
+            </aff>
+         </aff-alternatives>
+         <author-notes>
+            <fn fn-type="conflict" xml:lang="en">
+               <p>The authors have declared that no competing interests exist.</p>
+            </fn>
+            <fn fn-type="conflict" xml:lang="sl">
+               <p>Avtorji so izjavili, da ne obstajajo nobeni konkurenčni interesi.</p>
+            </fn>
+            <corresp id="corr">Marko Jug, e-mail: <email xlink:type="simple"/>
+            </corresp>
+         </author-notes>
+         <pub-date pub-type="ppub">
+            <month>10</month>
+            <year>2019</year>
+         </pub-date>
+         <pub-date pub-type="epub">
+            <month>10</month>
+            <year>2019</year>
+         </pub-date>
+         <volume>88</volume>
+         <issue>9–10</issue>
+         <fpage/>
+         <lpage/>
+         <history>
+            <date date-type="received">
+               <day>3</day>
+               <month>1</month>
+               <year>2019</year>
+            </date>
+            <date date-type="accepted">
+               <day>12</day>
+               <month>6</month>
+               <year>2019</year>
+            </date>
+         </history>
+         <permissions>
+            <copyright-statement xml:lang="en">Copyright © 2019, Slovenian Medical Association (SZD)</copyright-statement>
+            <copyright-statement xml:lang="sl">© 2019, Slovensko zdravniško društvo (SZD)</copyright-statement>
+            <copyright-year>2019</copyright-year>
+            <copyright-holder xml:lang="en">Slovenian Medical Association (SZD)</copyright-holder>
+            <copyright-holder xml:lang="sl">Slovensko zdravniško društvo (SZD)</copyright-holder>
+            <license xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                     xlink:type="simple"
+                     xml:lang="en">
+               <license-p>This is an open access article distributed under the terms of the
+          <ext-link ext-link-type="uri"
+                            xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                            xlink:type="simple">Creative Commons Attribution-NonCommercial
+            License</ext-link>, which permits unrestricted use, distribution, and
+          reproduction in any medium, provided the original author and source are
+          credited and only for non-commercial purposes. </license-p>
+            </license>
+            <license xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                     xlink:type="simple"
+                     xml:lang="sl">
+               <license-p>To je članek z odprtim dostopom, ki ga lahko uporabite pod pogoji iz
+          <ext-link ext-link-type="uri"
+                            xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                            xlink:type="simple">Creative Commons Priznanje avtorstva-Nekomercialno
+            licence</ext-link>. ki dovoljuje distribucijo, predelavo ali
+          prilagoditev, ter gradijo na njem, v nekomercialne namene, z navedbo avtorja
+          in izvirnega dela.</license-p>
+            </license>
+         </permissions>
+         <abstract xml:lang="sl">
+            <title>Izvleček</title>
+            <p>Travmatska poškodba hrbtenjače (PH) je nepričakovan dogodek, ki lahko trajno zaznamuje bolnika in predstavlja veliko obremenitev moderne družbe. Kljub napredkom v razumevanju patofiziologije poškodbe in obetavnim napredkom na predklinični ravni je uspešnost prenosa različnih modelov zdravljenja v klinično prakso izredno omejena. Prevladuje napačno prepričanje, da je zdravnik v borbi s tovrstno poškodbo nemočen. Novejše raziskave so namreč pokazale, da takojšnja dekompresija hrbtenjače in zagotavljanje ustrezne perfuzije hrbtenjače izboljšata nevrološki izid zdravljenja. Dodatni terapevtski ukrepi zaenkrat ostajajo še ekperimentalne narave, vendar se pričakuje, da bodo nadaljnje raziskave in poglobljeno razumevanje vseh patofizioloških procesov vodilo v nadgradnjo terapevtskih ukrepov. V preglednem članku so predstavljene osnove patofiziologije poškodbe, ki predstavljajo temelj razumevanja akutnega zdravljenja, ter moderni pristopi k zdravljenju PH, ki se uveljavljajo v klinični praksi.</p>
+         </abstract>
+         <trans-abstract xml:lang="en">
+            <title>Abstract</title>
+            <p>Traumatic spinal cord injury (tSCI) is a devastating event with a huge impact on modern society. Despite recent advances in different therapeutic strategies in preclinical models, the transition of these approaches into the clinical setting remains elusive. However, recent studies have shown that urgent spinal cord decompression and adequate spinal cord perfusion have a positive effect on neurologic recovery. Additional treatment strategies that try to address the complexity of tSCI are under clinical investigation, based on an in-depth understanding of pathophysiological processes involved in tSCI. Therefore, in this review we present a comprehensive understanding of pathophysiological processes involved in tSCI with emerging and evolving concepts of modern treatment.</p>
+         </trans-abstract>
+         <kwd-group xml:lang="sl">
+            <kwd>hrbtenjača</kwd>
+            <kwd>poškodba</kwd>
+            <kwd>patofiziologija</kwd>
+            <kwd>zdravljenje</kwd>
+            <kwd>dekompresija</kwd>
+         </kwd-group>
+         <kwd-group xml:lang="en">
+            <kwd>spinal cord</kwd>
+            <kwd>injury</kwd>
+            <kwd>pathophysiology</kwd>
+            <kwd>treatment</kwd>
+            <kwd>decompression</kwd>
+         </kwd-group>
+      </article-meta>
+   </front>
+   <body>
+      <sec id="s1" sec-type="Uvod">
+         <label>1</label>
+         <title>Uvod</title>
+         <p>Travmatska poškodba hrbtenjače (PH) je nepričakovan, katastrofalen dogodek, ki lahko trajno zaznamuje bolnika in njegovo socialno okolje. Nevrološka okvara lahko povzroči dolgotrajno motnjo v delovanju vseh organskih sistemov in telesnih funkcij pod ravnijo poškodbe, posledica pa so zmanjšana mobilnost in kakovost življenja, večja obolevnost in krajša življenjska doba (<xref ref-type="bibr" rid="b1">1</xref>). Travmatska PH tako predstavlja hudo telesno, psihično, socialno in finančno breme za bolnika in njegovo okolje (<xref ref-type="bibr" rid="b2">2</xref>). Pojavlja se z incidenco od 20–40 primerov na 1.000.000 prebivalcev letno in je najpogosteje posledica prometnih nesreč (42 %), padcev (27 %), nasilja (15 %) ter športnih (8 %) in drugih poškodb (9 %) (<xref ref-type="bibr" rid="b3">3</xref>). Najpogosteje je PH posledica zlomov hrbtenice s pridruženim izpahom vretenca (40 %) ali zelo nestabilnih oblik kompresijskih zlomov hrbtenice s t. i. »eksplozivnim« (<italic>angl.</italic> burst) zlomom vretenca (30 %). Manj pogosto je PH posledica »čistega« izpaha vretenca (5 %) ali manj nestabilnega zloma vretenc (10 %). Občasno pa je PH prisotna tudi brez radioloških znakov poškodbe hrbtenice. Pri otrocih v tem primeru govorimo o SCIWORA (<italic>angl.</italic> Spinal Cord Injury Without Obvious Radiologic Abnormality) (5 %), ki je lahko posledica natega hrbtenjače zaradi večje elastičnosti hrbtenice kot hrbtenjače; pri starejši populaciji ob pridruženih degenerativnih spremembah (predvsem vratne hrbtenice) pa PH brez radioloških znakov poškodbe hrbtenice imenujemo SCIWORET (<italic>angl.</italic> Spinal Cord Injury Without Obvious Radiologic Evidence of Trauma) (10 %), ko degenerativna zožitev spinalnega kanala lahko privede do PH že ob trivialnih poškodbah (<xref ref-type="bibr" rid="b4">4</xref>). Poškodbe vratnega dela hrbtenjače predstavlajo 50 % vseh PH in zaradi večje nevrološke okvare in funkcijske prizadetosti povzročajo veliko večjo obolevnost kot poškodbe prsne ali ledvene hrbtenjače (<xref ref-type="bibr" rid="b4">4</xref>,<xref ref-type="bibr" rid="b5">5</xref>). Stroški dolgotrajne oskrbe bolnika s poškodbo vratnega dela hrbtenjače se v primerjavi s stroški oskrbe bolnika s prizadetostjo prsnega ali ledvenega predela podvojijo. V ZDA tako stroške celotne oskrbe mlajšega bolnika s tetraplegijo ocenjujejo na približno 4 milijone EUR. Ker PH pogosto prizadene prav mlajše ljudi, socialno-ekonomske posledice poškodbe čuti celotna družba (<xref ref-type="bibr" rid="b4">4</xref>,<xref ref-type="bibr" rid="b6">6</xref>). Novejše epidemiološke raziskave sicer odkrivajo porast incidence in prevalence bolnikov s poškodbo zgornjega dela vratne hrbtenjače (C1–C4) ter pogostejšo prizadetost starejših ljudi (&gt; 65 let). Vzrok gre iskati predvsem v boljšem preživetju bolnikov s poškodbami zgornjega dela vratne hrbtenjače in uspešnejšemu dolgotrajnemu zdravljenju na eni strani ter staranju prebivalstva na drugi (<xref ref-type="bibr" rid="b7">7</xref>,<xref ref-type="bibr" rid="b8">8</xref>). Kljub velikim naporom, vloženim v izboljšanje zdravljenja bolnikov s tako katastrofalno poškodbo in obetavnim predkliničnim raziskavam, ki predlagajo številne nove strategije oskrbe, klinične raziskave zaenkrat prinašajo le omejene rezultate in so usmerjene predvsem v omejevanje nevrološke okvare, PH pa ostaja pereč problem sodobne družbe (<xref ref-type="bibr" rid="b9">9</xref>).</p>
+         <p>Namen prispevka je predstavitev najnovejših dognanj o patofiziologiji PH ter predstavitev preverjenih in trenutno najbolj obetavnih konceptov zdravljenja, ki bodo morda kmalu našli pot do klinične rabe.</p>
+      </sec>
+      <sec id="s2" sec-type="Patofiziologija travmatske poškodbe hrbtenjače">
+         <label>2</label>
+         <title>Patofiziologija travmatske poškodbe hrbtenjače</title>
+         <p>Akutna travmatska PH je posledica neposrednega delovanja mehanskih sil, ki povzročijo primarno poškodbo hrbtenjače (PPH) in kaskado žilnih, celičnih in biokemičnih dogodkov, ki se med seboj prepletajo in dodatno povečajo okvaro ter jih s skupnim imenom imenujemo sekundarna poškodba hrbtenjače (SPH) (<xref ref-type="bibr" rid="b10">10</xref>,<xref ref-type="bibr" rid="b11">11</xref>).</p>
+         <sec id="s2.1" sec-type="Primarna poškodba hrbtenjače">
+            <label>2.1</label>
+            <title>Primarna poškodba hrbtenjače</title>
+            <p>Primarna poškodba hrbtenjače (PPH) nastane zaradi delovanja mehanskih sil, ki povzročijo prekinitev aksonov in/ali njihovih ovojnic, okvaro ožilja hrbtenjače in smrt prizadetih celic. Poznamo različne morfološke vzorce PPH:</p>
+            <list>
+               <list-item>
+                  <label>•</label>
+                  <p>udarnino hrbtenjače s trajno kompresijo hrbtenjače,</p>
+               </list-item>
+               <list-item>
+                  <label>•</label>
+                  <p>udarnino hrbtenjače z začasno kompresijo hrbtenjače,</p>
+               </list-item>
+               <list-item>
+                  <label>•</label>
+                  <p>nateg hrbtenjače in</p>
+               </list-item>
+               <list-item>
+                  <label>•</label>
+                  <p>pretrganje hrbtenjače.</p>
+               </list-item>
+            </list>
+            <p>Udarnino in kompresijo hrbtenjače navadno povzročajo kostni odlomki in/ali izpahnjeno vretence in/ali popoškodbeni epiduralni hematom, ostale oblike poškodbe pa so navadno posledica delovanja distrakcijskih ali strižnih sil (<xref ref-type="bibr" rid="b12">12</xref>). Žal na obseg PPH ne moremo vplivati, vzorec poškodbe pa pomembno vpliva na nevrološki izid. Čeprav je po PPH pogosto prisotna popolna funkcionalna okvara hrbtenjače, pri večini primerov ne pride do prekinitve vseh aksonov hrbtenjače. Del aksonov ostane ohranjen, vendar le-ti niso zmožni prevajanja impulzov zaradi poškodb ali spinalnega šoka. Njihov potencial regeneracije ali reaktivacije ni znan, njihova usoda pa je odvisna tudi od kaskade nadaljnjih dogodkov med SPH (<xref ref-type="bibr" rid="b11">11</xref>). Natančen način prehoda med primarno in sekundarno poškodbo sicer ni jasen, znano pa je, da hujša PPH sproži hujšo SPH.</p>
+         </sec>
+         <sec id="s2.2" sec-type="Sekundarna poškodba hrbtenjače">
+            <label>2.2</label>
+            <title>Sekundarna poškodba hrbtenjače</title>
+            <p>Primarni poškodbi hrbtenjače v nekaj sekundah sledijo lokalni in sistemski procesi. Lokalno se lahko pojavi vazospazem, ishemija, motnja delovanja celičnih membran in vzdrževanja elektrolitskega ravnotežja ter kopičenje nevrotransmiterjev na mestu poškodbe, sistemski odgovor pa lahko vključuje sistemsko hipotenzijo ter spinalni šok. Temu procesu v nekaj minutah sledi subakutna faza, ki vodi v sekundarno okvaro hrbtenjače, ko se že prisotnim motnjam homeostaze pridružijo še motnje lokalne perfuzije, poškodba s prostimi radikali, glutamatna ekscitotoksičnost, znotrajcelična hiperkalcemija in vnetje ter apoptoza. Vsi ti procesi so medsebojno prepleteni v začarani krog, ki se sam vzdržuje in celo poglablja (<xref ref-type="bibr" rid="b10">10</xref>,<xref ref-type="bibr" rid="b11">11</xref>,<xref ref-type="bibr" rid="b13">13</xref>). Pomembno vlogo v subakutni fazi SPH igrajo tudi ishemija in ishemično-reperfuzijska poškodba, motnja lokalne vaskularne avtoregulacije, sistemska hipotenzija in lokalna krvavitev (<xref ref-type="bibr" rid="b11">11</xref>). Posledica motenj perfuzije na mestu poškodbe so namreč motnje v celični homeostazi in nastanek kisikovih in dušikovih prostih radikalov, ki povzročajo lipidno peroksidacijo ter okvaro beljakovin in nukleinskih kislin, ki vodijo v propad celice preko nekroze ali apoptoze (<xref ref-type="bibr" rid="b13">13</xref>). Primarni PH sledi tudi močno povečanje sproščanja glutamata na mestu poškodbe hrbtenjače in v njeni neposredni bližini, kjer pride do t. i. gluatamatne ekscitotoksičnosti s tvorbo radikalov, sekundarne ishemije in vdora kalcija v celico ter s tem do t. i. ekscitotoksične smrti celice preko nekroze ali apoptoze (<xref ref-type="bibr" rid="b14">14</xref>). Imunski odziv na PH poteka tako na celični kot molekularni ravni in povzroča vnetje na mestu poškodbe. Vnetje nastopi takoj po poškodbi in traja od nekaj tednov do mesecev ter igra ključno vlogo v SPH (<xref ref-type="bibr" rid="b15">15</xref>). Vnetni proces je po eni strani nepogrešljiv za odstranitev razpadnih produktov živčevja, ki bi lahko ovirali regeneracijo aksonov, po drugi strani pa vodi pretirano rekrutiranje in aktiviranje vnetnih celic na mestu poškodbe do nekontroliranega sproščanja vnetnih mediatorjev, posebno tumor nekrotizirajočega faktorja α (TNF–α) in eksacerbacije vnetja ter tvorbe prostih radikalov. Posledica nekontroliranega vnetnega procesa je SPH, medtem ko bi natančno zunanje modeliranje imunskega sistema lahko imelo ugodne učinke (<xref ref-type="bibr" rid="b12">12</xref>). Apoptoza po PH je posledica različnih mehanizmov sekundarne celične okvare in pomeni programirano smrt številnih vrst celic v hrbtenjači. Lahko nastopi v nekaj urah po PH in lahko prizadene tudi celice, ki niso v neposrednem stiku z mestom poškodbe. Rezultat vseh teh procesov je lahko napredujoča demielinizacija aksonov in motnja prevajanja preko mesta poškodbe ter propad nevrona in napredujoča kavitacija na mestu poškodbe (<xref ref-type="bibr" rid="b12">12</xref>,<xref ref-type="bibr" rid="b15">15</xref>).</p>
+         </sec>
+      </sec>
+      <sec id="s3" sec-type="Zdravljenje poškodbe hrbtenjače">
+         <label>3</label>
+         <title>Zdravljenje poškodbe hrbtenjače</title>
+         <p>Ker na PPH lahko vplivamo samo s preventivnimi ukrepi, SPH pa pomembno poslabša nevrološki izid po poškodbi, je zamejitev SPH zaenkrat edina terapevtska priložnost za zmanjšanje končne nevrološke okvare in funkcionalne prizadetosti. V prispevku so predstavljeni tako moderni koncepti zdravljenja, ki sestavljajo strategijo moderne oskrbe poškodovanca s PH, kot tudi metode, ki bi v prihodnosti lahko postale pomemben člen v verigi oskrbe PH, zaenkrat pa ostajajo še predmet predkliničnih in/ali kliničnih raziskav. Glede na kompleksnost PH gre namreč pričakovati, da bo le usklajeno uvajanje različnih ukrepov lahko sestavilo mozaik zdravljenja, ki bo uspešno rešil enega največjih problemov moderne medicine.</p>
+         <sec id="s3.1" sec-type="Splošna načela">
+            <label>3.1</label>
+            <title>Splošna načela</title>
+            <p>Zdravljenje akutnih poškodb hrbtenjače se prične na terenu z zagotavljanjem ustrezne perfuzije in oksigenacije hrbtenjače ter imobilizacijo hrbtenice za zmanjšanje premikov med odlomki in pritiska na živčevje (<xref ref-type="bibr" rid="b9">9</xref>,<xref ref-type="bibr" rid="b16">16</xref>). Sledi takojšen prevoz poškodovanca v zdravstveno ustanovo, kjer je možna dokončna oskrba poškodovanca s PH (<xref ref-type="bibr" rid="b16">16</xref>), saj hitra kirurška dekompresija in vzdrževanje ustreznega krvnega tlaka ter s tem izboljšana perfuzija hrbtenjače zaenkrat ostaja edina dokazano učinkovita metoda zdravljenja (<xref ref-type="bibr" rid="b9">9</xref>). Poškodovanec z akutno PH v prvih dneh po poškodbi potrebuje zdravljenje na oddelku intenzivne terapije z natančnim nadzorom življenskih funkcij in vzdrževanjem srednjega arterijskega krvnega tlaka nad 85 mmHg (<xref ref-type="bibr" rid="b9">9</xref>,<xref ref-type="bibr" rid="b17">17</xref>). Posebno pomemeben je tovrsten nadzor v primeru poškodbe vratnega dela hrbtenjače in spremljajočih poškodb. Po stabiliziranju bolnika in morebitni kirurški oskrbi bolnik takoj prične z zgodnjo fizikalno rehabilitacijo v bolnišnici, ki ji sledi kompleksna rehabilitacija v specializirani ustanovi, ki omogoča multidisciplinarni pristop k bolniku.</p>
+         </sec>
+         <sec id="s3.2" sec-type="Farmakološko moduliranje SPH">
+            <label>3.2</label>
+            <title>Farmakološko moduliranje SPH</title>
+            <p>V predkliničnih raziskavah se posveča veliko pozornosti preizkušanju številnih učinkovin z namenom zamejiti SPH in zagotoviti dodatno zaščito živčevja, t. i. nevroprotekcijo (<xref ref-type="bibr" rid="b18">18</xref>). Strategije zaščite živčevja so usmerjene v moduliranje lokalnega vnetja (<xref ref-type="bibr" rid="b19">19</xref>,<xref ref-type="bibr" rid="b20">20</xref>,<xref ref-type="bibr" rid="b21">21</xref>,<xref ref-type="bibr" rid="b22">22</xref>), zmanjšanje ekscitotoksične in oksidativne okvare (<xref ref-type="bibr" rid="b23">23</xref>,<xref ref-type="bibr" rid="b24">24</xref>,<xref ref-type="bibr" rid="b25">25</xref>), izboljšanje prekrvitve hrbtenjače (<xref ref-type="bibr" rid="b26">26</xref>), krpanje poškodovanih celičnih membran (<xref ref-type="bibr" rid="b27">27</xref>), urejanje elektrolitske homeostaze (<xref ref-type="bibr" rid="b28">28</xref>) itn. Rezultati večine raziskav na živalskih modelih so obetavni, vendar prenos predkliničnih modelov v klinično prakso zaenkrat ni uspešen (<xref ref-type="bibr" rid="b29">29</xref>).</p>
+            <p>Tudi terapija z metilprednizolonom, edino doslej registrirano učinkovino za zdravljenje akutne PH s strani Ameriškega urada za varnost hrane in zdravil (<italic>angl.</italic> Food and Drug Administration, FDA) po shemi, ki jo priporočata raziskavi NASCIS II in III (<xref ref-type="bibr" rid="b29">29</xref>,<xref ref-type="bibr" rid="b30">30</xref>,<xref ref-type="bibr" rid="b31">31</xref>) v strokovni javnosti izgublja podporo, saj so dokazi o stranskih učinkih (povečana incidenca krvavitev iz prebavil in vnetij, sicer brez povečane smrtnosti) bolj trdni od dokazov o učinku na zmanjšanje SPH in o boljšem končnem nevrološkem izidu (<xref ref-type="bibr" rid="b32">32</xref>,<xref ref-type="bibr" rid="b33">33</xref>,<xref ref-type="bibr" rid="b34">34</xref>). Uporaba metilprednizolona tako ne sodi več v protokole oskrbe poškodovancev s PH, odločitev o morebitni uporabi pa se prepušča lečečemu zdravniku. Po drugi strani pa se z naraščajočim zavedanjem, da gre pri PH za heterogeno poškodbo z morebiti različnim odzivom na terapevtske ukrepe, krepi podpora selektivni uporabi metilprednizolona pri poškodbi vratnega dela hrbtenjače in/ali nepopolne PH (<xref ref-type="bibr" rid="b33">33</xref>).</p>
+            <p>V novejših raziskavah se največji potencial za klinično pomemben učinek pri zamejitvi SPH in izboljšanju nevrološkega izida bolnikov trenutno pripisuje zdravilu Riluzole, blokatorju natrijevih kanalčkov, ki se sicer že uporablja pri zdravljenju amiotrofične lateralne skleroze. Riluzol trenutno prestaja fazo II/III testiranj v multicentrični raziskavi klinične učinkovitosti pri poškodbi vratnega dela hrbtenjače (Riluzole in Acute Spinal Cord Injury Study: RISCIS) (<xref ref-type="bibr" rid="b35">35</xref>). Riluzole zniža znotrajcelično koncentracijo natrija in s tem vdor kalcija v celico, slednji pa je odgovoren za aktiviranje znotrajcelične kaskade dogodkov, ki lahko vodijo v smrt celice, dodatno pa zmanjša tudi glutamatno ekscitotoksičnost na mestu poškodbe (<xref ref-type="bibr" rid="b35">35</xref>). Čeprav so začetni rezultati obetavni, nedvomnih dokazov o klinični učinkovitosti zaenkrat še ni. V predkliničnih raziskavah se trenutno posveča vedno več pozornosti tudi zdravilu glibenclamide, ki je že dolgo v uporabi za zdravljenje sladkorne bolezni tipa II (<xref ref-type="bibr" rid="b36">36</xref>,<xref ref-type="bibr" rid="b37">37</xref>). Glibenclamide deluje preko inhibiranja nedavno odkritih kanalčkov Sur1-Trpm4 podobno kot Riluzole, ki blokira samo podenoto Trpm4, vendar so morfološke in funkcionalne raziskave pokazale večji učinek glibenclemida kot Riluzole-a pri ohranjanju tkiva in funkcije hrbtenjače po PH pri glodavcih (<xref ref-type="bibr" rid="b38">38</xref>,<xref ref-type="bibr" rid="b39">39</xref>). Inhibicija Sur1-Trpm4 ščiti endotel mikrožilja in zmanjšuje edem ter sekundarne krvavitve, ima močan protivnetni učinek in zavira nekrotično smrt celic v sklopu progresivne hemoragične nekroze ter spodbuja nevronegenezo. Trenutno potekajo klinične raziskave o učinkovitosti glibenclamida pri bolnikih s travmatsko poškodbo možganov in bolnikih z ishemično okvaro možganov, morebitni klinični učinek pri bolnikih s PH pa se zaenkrat ne preverja.</p>
+         </sec>
+         <sec id="s3.3" sec-type="Celično in gensko zdravljenje PH">
+            <label>3.3</label>
+            <title>Celično in gensko zdravljenje PH</title>
+            <p>Celično zdravljenje PH pomeni presaditev celic na mesto poškodbe hrbtenjače, gensko zdravljenje pa vnos genov z vektorji v celice in tako usmeritev celic v tvorjenje različnih molekul oz. v reprogramiranje celice. Z napredovanjem tehnoloških zmožnosti za pridobivanje in vzgojo različnih celičnih vrst ter z izboljšanjem tehnologij genskega zdravljenja postajata celično in gensko zdravljenje vedno bolj obetavni možnosti zdravljenja PH v prihodnosti. Cilji presaditve celic in genskega zdravljenja so omilitev vnetnega odziva, inhibicija apoptoze ali nekroze nevronov ter spudbujanje regeneracije in remielinizacije aksonov (<xref ref-type="bibr" rid="b40">40</xref>). Glede na vrsto transplantiranih celic lahko »celično« zdravljenje delimo na zdravljenje s pluripotentnimi zarodnimi celicami, fetalnimi zarodnimi celicami, progenitornimi celicami in diferenciranimi celicami živčevja (<xref ref-type="bibr" rid="b41">41</xref>). Ob celičnem zdravljenju pa je izredno pomembno tudi ustrezno moduliranje delovanja tako morebitnih presajenih in/ali celic, ki se naravno nahajajo na mestu poškodbe. Z genskim zdravlenjem lahko namreč celice usmerimo v želeno funkcijo; npr. v izražanje genov transkripcijskih dejavnikov (Ngn2), nevrotrofičnih dejavnikov (NT3, BDNF, GDNF in MNTS1), rastnih dejavnikov (bFGF, HGF), receptorja tirozin kinaze (TrKC) in celične adhezijske molekule (L1CAM) (<xref ref-type="bibr" rid="b41">41</xref>). Drugi način uporabe genskega zdravljenja pa predvideva reprogramiranje celic, ki se naravno nahajajo v hrbtenjači, v pluripotentne celice, oz. celice, ki lahko služijo regeneraciji (<xref ref-type="bibr" rid="b42">42</xref>). Rezultat celičnega in genskega zdravljenja je lahko sekrecija parakrinih dejavnikov, ki služijo kot kalup za regeneriranje aksonov, nadomeščanje izgubljenih nevronov in/ali nevralnih progenitornih celic (<xref ref-type="bibr" rid="b43">43</xref>), zaščita nevronov pred sekundarno okvaro, izboljšanje prevajanja impulzov preko mesta poškodbe, uspešnejša regeneracija aksonov zaradi zmanjšane izvotlitve hrbtenjače, večje remielinizacije aksonov, večje trofične podpore in modulacije do regeneracije neprijaznega mikrookolja na mestu poškodbe (<xref ref-type="bibr" rid="b44">44</xref>).</p>
+            <p>Številne predklinične raziskave o učinku transplantacije različnih progenitornih celic (<xref ref-type="bibr" rid="b44">44</xref>,<xref ref-type="bibr" rid="b45">45</xref>), celic ovojnice olfaktornega živca (<italic>angl.</italic> olfactory nerve ensheathing cells) (<xref ref-type="bibr" rid="b45">45</xref>) ter Schwannovih celic (<xref ref-type="bibr" rid="b46">46</xref>) na mesto poškodbe hrbtenjače so sicer dokazale učinkovitost tovrstnega posega v živalskih modelih, opozorile pa so tudi na potencialne nevarnosti prehitrega prenosa nedodelanih poskusnih modelov v klinično prakso (<xref ref-type="bibr" rid="b41">41</xref>).</p>
+            <p>V zadnjih letih je prišlo do napredka v zdravljenju s krvotvornimi matičnimi celicami. Predvsem uporaba mezenhimskih matičnih celic (MMC) se neredko omenja pri zdravljenju imunskih bolezni ter v regenerativni medicini, vključno s poškodbo hrbtenjače (<xref ref-type="bibr" rid="b47">47</xref>,<xref ref-type="bibr" rid="b48">48</xref>). Poznan je ugoden vpliv MMC na vnetni odgovor organizma po presaditvi (<xref ref-type="bibr" rid="b48">48</xref>), po drugi strani pa ni opisanih pomembnih stranskih učinkov sistemskega intravenskega vnosa (<xref ref-type="bibr" rid="b49">49</xref>,<xref ref-type="bibr" rid="b50">50</xref>,<xref ref-type="bibr" rid="b51">51</xref>,<xref ref-type="bibr" rid="b52">52</xref>), zaradi česar je preaditev MMC trenutno ena najbolj atraktivnih opcij celične terapije po PH. Imunomodulacijsko delovanje MMC je posledica sposobnosti sproščanja številnih imunosupresivnih citokinov in biomolekul (interlevkin-10, transformirajoči rastni dejavnik-β, prostaglandin E2 in drugi), površinsko vezanih inhibicijskih molekul (HLA-G) ter imunosupresivnih encimov, kot sta indolamin-2,3-dioksigenaza in arginaza (<xref ref-type="bibr" rid="b53">53</xref>). Preko naštetih mehanizmov MMC delujejo zaviralno na številne celične tipe prirojene in pridobljene imunosti, vključujoč limfocite T in B, makrofage, dendritične celice, celice naravne ubijalke in ostale ter s tem zmanjšujejo pretiran vnetni odgovor. Sproščanje številnih ostalih trofičnih dejavnikov pa bistveno prispeva k regeneriranju poškodovanega tkiva z antiapoptotskimi, angiogenetskimi ter mitogenimi učinki (<xref ref-type="bibr" rid="b54">54</xref>). Dodatno je za MMC dokazana sposobnost diferenciacije v številne celične linije, med drugimi tudi Schwannove celice in nevrone, brez teratogenega učinkovanja, ter parakrino nevrotrofično delovanje v primeru presaditve MMC po PH. Slednje v predkliničnih modelih predstavlja zadostno osnovo za prenos terapije s presaditvijo MMC tudi v klinične raziskave PH. Prenos v klinične modele zdravljenja PH so sicer že dosegli in rezultati glede vpliva na končni nevrološki izid so zaenkrat vzpodbudni (<xref ref-type="bibr" rid="b55">55</xref>). Zagotovo je trenutno iluzorno pričakovati, da bi sistemski ali intratekalni vnos MMC pri človeku lahko spodbudila kompletno regeneracijo tkiva hrbtenjače, možno pa je, da se z opisanimi sistemskimi in parakrinimi učinki ter tudi z diferenciacijo v ustrezne celične linije pomembno izboljša nevrološki izid tako z ohranjanjem poškodovanega, a ne popolnoma uničenega tkiva, kot s spodbujanjem remielinizacije demieliniziranih aksonov. Zaenkrat klinične študije opisujejo ugoden učinek na nevrološki izid v smislu izboljšanja kontrole sfinktrov in zmanjšane nevropatske bolečine ter spastičnosti in šibek, a vendar ugoden učinek na motorični in senzibitetni status pri poškodovancih s PH (<xref ref-type="bibr" rid="b55">55</xref>). Trenutno potekajo klinične raziskave o najučinkovitejšemu načinu in času ter številu transplantacij, nejasno pa je, kolikšna je tudi idealna količina transplantiranih celic (<xref ref-type="bibr" rid="b56">56</xref>). Predpogoj za uspešno zdravljenje pa se zdi morfološko vsaj delno ohranjena struktura hrbtenjače na mestu poškodbe (<xref ref-type="bibr" rid="b57">57</xref>).</p>
+            <p>Čeprav bosta v prihodnosti celična in genska terapija zagotovo našli mesto v oskrbi PH, je bilo do danes opravljenih premalo predkliničnih in kliničnih raziskav, da bi lahko odgovorili na ključna vprašanja, povezana s presaditvijo celic po PH, tako glede vrste in števila presajenih celic kot ciljnega mesta presaditve in načina moduliranja presajenih celic. Nejasni so tudi primerni časovni okviri presaditve, stopnja varnosti samega posega in morebitne dolgoročne posledice (povečano brazgotinjenje, izvotlitev, vnetje, imunosupresija, neoplazme) (<xref ref-type="bibr" rid="b41">41</xref>).</p>
+         </sec>
+         <sec id="s3.4" sec-type="Hipotermija v boju s SPH">
+            <label>3.4</label>
+            <title>Hipotermija v boju s SPH</title>
+            <p>Hipotermija upočasni številne reakcije in procese v organizmu ter z zmanjšanjem vnetja, ekscitotoksičnosti, tvorbe prostih radikalov in nekroze omili SPH (<xref ref-type="bibr" rid="b58">58</xref>,<xref ref-type="bibr" rid="b59">59</xref>). Pozitiven vpliv hipotermije na nevrološki izid po PH so opisali tako na živalskih modelih (<xref ref-type="bibr" rid="b47">47</xref>,<xref ref-type="bibr" rid="b60">60</xref>) kot kliničnih študijah (<xref ref-type="bibr" rid="b61">61</xref>,<xref ref-type="bibr" rid="b62">62</xref>). Batchelor in sod. so v raziskavi o vplivu sistemske hipotermije (33 °C) na nevrološki izid po PH pri podganah dokazali, da je pozitiven učinek hipotermije sorazmeren s časom trajanja kompresije hrbtenjače. Sistemska hipotermija, sprožena 30 minut po poškodbi, je upočasnila napredovanje SPH, saj so hipotermične živali z osem ur trajajočo kompresijo hrbtenjače izkazovale enak nevrološki in morfološki izid kot normotermične živali z dve uri trajajočo kompresijo hrbtenjače. Podatki iz te raziskave nakazujejo možnost klinične uporabe hipotermije predvsem v času do kirurške dekompresije hrbtenjače (KDH), saj hipotermija omili uničujoči učinek kompresije hrbtenjače, ki se s trajanjem povečuje (<xref ref-type="bibr" rid="b63">63</xref>). Učinek hipotermije, predvsem v zmanjšanju oksidativnega stresa celic, so dokazali tudi v <italic>in vitro</italic> poskusih na humanih celičnih linijah (6 ur po inzultu) (<xref ref-type="bibr" rid="b64">64</xref>).</p>
+            <p>Dididze in sod. so poročali o ugodnem vplivu hipotermije na nevrološki izid pri bolnikih s poškodbo vratne hrbtenice in hrbtenjače, pri katerih so v 8 urah po PH uvedli sistemsko hipotermijo (33 °C) (<xref ref-type="bibr" rid="b52">52</xref>). Od skupno 35 bolnikov s popolno PH so pri 43 % bolnikov ugotavljali nevrološko izboljšanje za vsaj eno stopnjo na petstopenjski lestvici American Spinal Injury Association (ASIA) Impairment Scale (<xref ref-type="bibr" rid="b65">65</xref>), kar je bolje od prej poznanih vrednosti (26 %). Večina bolnikov je bila operirana znotraj 24 ur po poškodbi (povpečno 16 ur po poškodbi), število in vrsta zapletov pa se nista bistveno razlikovala od zapletov pri bolnikih z normalno temperaturo. Čeprav Dididze ni ugotavljal pomembne povezave med hipotermijo in pooperativnimi zapleti, je lahko sistemska hipotermija ob hkratnih motnjah koagulacije in acidozi del začaranega kroga usodne triade pri politravmatiziranem bolniku (<xref ref-type="bibr" rid="b66">66</xref>). Znana je tudi povezava med večjo verjetnostjo oboperativnih okužb ter oboperativno sistemsko hipotermijo (<xref ref-type="bibr" rid="b67">67</xref>). Če je zaradi neželenih sistemskih učinkov hipotermije sistemsko ohlajanje tvegano, je lokalno hlajenje poškodovane hrbtenjače varnejša metoda. Novejša raziskava, ki so jo opravili Hansebout in sod., je namreč pokazala ugoden vpliv lokalnega ohlajanja hrbtenjače na nevrološki izid pri bolnikih s popolno PH, pri katerih je bila dosežena dekompresija in lokalna ohladitev hrbtenjače v prvih osmih urah po poškodbi (<xref ref-type="bibr" rid="b68">68</xref>). Čeprav sta Hansebout in Dididze primerjala svoje rezultate s historičnimi izidi zdravljenja in je boljši nevrološki izid lahko bolj posledica hitrejše KDH kot samega ohlajanja hrbtenjače (v primerjavi s historičnimi rezultati), se njuni rezultati ujemajo z ugotovitvami raziskav <italic>in vitro</italic>, da je pri človeku hipotermija uspešna pri omejevanju SPH tudi, če je inducirana več ur po PH. Zaenkrat ni natančnih protokolov o uporabi hipotermije pri PH in zagotovo bodo potrebne dodatne raziskave za končno določitev pomena tako sistemske kot lokalne hipotermije v sklopu oskrbe akutne travmatske PH (<xref ref-type="bibr" rid="b69">69</xref>).</p>
+         </sec>
+         <sec id="s3.5" sec-type="Prehrana kot modulator SPH">
+            <label>3.5</label>
+            <title>Prehrana kot modulator SPH</title>
+            <p>Raziskave na živalih so pokazale znaten nevroprotektivni pomen prehrane ob poškodbi živčevja (predvsem omega-3 polinenasičenih maščobnih kislin). Kombinacija intravenskega vnosa dokosaheksaenoična kisline – DHA v prvih urah po poškodbi in kasneje prehrana, bogata z DHA, je vodila v manjšo izgubo aksonov, nevronov in oligodendroglije po PH pri podganah (<xref ref-type="bibr" rid="b70">70</xref>,<xref ref-type="bibr" rid="b71">71</xref>). Ugoden vpliv na nevrološki izid po PH je bil potrjen tudi v modelu na glodalcih ob prehrani z nizko vsebnostjo ogljikovih hidratov in visoko vsebnostjo maščob – t. i. ketonski prehrani (<xref ref-type="bibr" rid="b72">72</xref>), ali ob intermitentnem stradanju (<xref ref-type="bibr" rid="b73">73</xref>). Čeprav se pomen prilagojene prehrane vedno bolje opredeljuje, primanjkuje kliničnih raziskav, ki bi natančno opredelile pomen prehrane pri bolnikih s PH.</p>
+         </sec>
+         <sec id="s3.6" sec-type="Kirurška modulacija SPH z dekompresijo hrbtenjače">
+            <label>3.6</label>
+            <title>Kirurška modulacija SPH z dekompresijo hrbtenjače</title>
+            <p>Kljub obetavnim rezultatom farmakološke in celične terapije PH v predkliničnih raziskavah prenos teh modelov v klinično prakso zaenkrat ni uspešen (<xref ref-type="bibr" rid="b74">74</xref>). Ker v strokovni javnosti vedno bolj upada podpora tudi uporabi metilprednizolona (<xref ref-type="bibr" rid="b33">33</xref>), drugi farmakološki in ostali konzervativni ukrepi v oskrbi akutne PH pa še nimajo preverjene učinkovitosti, se lečeči zdravnik ob soočanju s tako težko poškodbo znajde v nezavidljivem položaju, saj bolniku ne more ponuditi učinkovitega medikamentnega zdravljenja.</p>
+            <p>Vale in sod. (<xref ref-type="bibr" rid="b17">17</xref>) so v klinični raziskavi o vplivu izdatnega nadomeščanja tekočin in zagotavljanja zadostnega krvnega tlaka pri bolnikih z akutno PH sicer pokazali, da zagotavljanje srednjega arterijskega tlaka nad 85 mmHg pomembno vpliva na nevrološki izid zdravljenja. Njihova hipoteza, da ustrezna perfuzija hrbtenjače lahko zagotovi bojši nevrološki izid, se ujema z živalskimi modeli, ki kažejo na neposredno povezavo med zgodnjo reperfuzijo hrbtenjače (v prvih urah po poškodbi) in boljšim nevrološkim izidom (<xref ref-type="bibr" rid="b75">75</xref>,<xref ref-type="bibr" rid="b76">76</xref>).</p>
+            <p>Iz predkliničnih raziskav je namreč razvidno, da PPH sproži sekundarno okvaro, ki jo trajanje kompresije hrbtenjače še dodatno poglablja (<xref ref-type="bibr" rid="b75">75</xref>,<xref ref-type="bibr" rid="b76">76</xref>,<xref ref-type="bibr" rid="b77">77</xref>), nestabilnost poškodovane hrbtenice pa pri bolniku lahko povzroči dodatne premike vretenc in/ali odlomkov in dodaten pritisk na hrbtenjačo. Kirurška dekompresija hrbtenjače ter naravnava in stabilizacija poškodovane hrbtenice z osteosintetskim materialom tako predstavlja predpogoj za uspešno reperfuzijo hrbtenjače in uspešno zdravljenje bolnikov s PH in nestabilno poškodbo hrbtenice (<fig position="float" id="fig1">
+                  <label>Slika 1:</label>
+                  <caption>
+                     <p> Zlom vratne hrbtenice z izpahom na ravni C6–C7 in kompresija hrbtrenjače. 40-letni moški, padec z višine. Levo: MRI vratne hrbtenice, na kateri je viden izpah na ravni C6–C7 s kompresijo hrbtenjače na tej ravni. Desno: Rentgenogram vratne hrbtenice po odprti naravnavi izpaha hrbtenice in dekompresiji hrbtenjače ter 360 ° stabilizaciji z osteosintetskim materialom.</p>
+                  </caption>
+                  <p>
+                     <graphic xlink:href="2911-web-resources/image/zdravvestn-2911-sl-01.png"/>
+                  </p>
+               </fig>
+               <xref ref-type="fig" rid="fig1">Slika 1</xref>) (<xref ref-type="bibr" rid="b78">78</xref>). Kljub jasnim patofizioliškim procesom, na katerih temelji tovrstna hipoteza, nekatere starejše raziskave ugodnega učinka KDH niso potrdile (<xref ref-type="bibr" rid="b17">17</xref>,<xref ref-type="bibr" rid="b79">79</xref>).</p>
+            <p>Van Middendorp je v svojem sistematskem pregledu in metaanalizi vseh raizskav o učinku časa KDH po PH zaključil, da ima »zgodnja« KDH sicer ugodne učinke tako na nevrološki izid kot skrajšanje hospitalizacije, vednar zaradi heterogenosti tako znotraj samih raziskav kot med različnimi raziskavami zanesljivi zaključki zaenkrat niso možni (<xref ref-type="bibr" rid="b80">80</xref>). V zadnjem času sicer prevladuje mnenje, da je KDH med 8. in 24. uro po poškodbi idealen čas za kirurško oskrbo (<xref ref-type="bibr" rid="b78">78</xref>), kar podpirajo tudi nedavne raizskave, ki so pokazale boljši nevrološki izid pri bolnikih s PH, ki so bili kirurško oskrbljeni znotraj 24 ur po poškodbi (<xref ref-type="bibr" rid="b81">81</xref>,<xref ref-type="bibr" rid="b82">82</xref>) kot pa pri bolnikih, ki so bili oskrbljeni kasneje. Najnovejše smernice za oskrbo akutne poškodbe hrbtebnjače tako priporočajo dekompresijo hrbtenjače znotraj prvih 24 ur po poškodbi, čeprav avtorji obenem priznavajo, da 24-urno okno verjetno predstavlja bolj praktičen kot pa idealen časovni okvir (<xref ref-type="bibr" rid="b83">83</xref>). Raziskave, ki so raziskovale vpliv urgentne dekompresije v različnih časovnih oknih znotraj prvih 24 ur po poškodbi, so namreč pokazale, da je nevrološko izboljšanje značilno večje, če se KDH opravi znotraj prvih 8 ur po poškodbi kot pa med 8. in 24. uro poškodbi (<xref ref-type="bibr" rid="b84">84</xref>), oz. znotraj prvih 8 ur kot pa kasneje (<xref ref-type="bibr" rid="b85">85</xref>); verjetnost izboljšanja pa se z vsako preteklo uro od poškodbe statistično značilno zmanjšuje (<xref ref-type="bibr" rid="b84">84</xref>). Ugoden vpliv tovrstne urgentne KDH gre pripisati predvsem izboljšanju prekrvitve poškodovane hrbtenjače po dekompresiji (<xref ref-type="bibr" rid="b75">75</xref>,<xref ref-type="bibr" rid="b84">84</xref>). Rezultati raziskav zagovarjajo takojšen prevoz bolnika s poškodbo hrbtenjače v center, kjer je možna takojšnja dokončna oskrba, saj bolniki, ki v primarnem sprejemnem centru ne prejmejo dokončne oskrbe, niso deležni KDH v času, ki zagotavlja boljši nevrološki izid zdravljenja.</p>
+            <p>Kljub hitri kirurški oskrbi poškodovancev s PH pa je rezultat zdravljenja pri številnih bolnikih zelo omejen, posebno v primeru kompletnih poškodb. Čeprav gre pri kompletnih poškodbah lahko za nepovratno primarno poškodbo, natančni vzroki za omejeno nevrološko okrevanje niso povsem jasni. V zadnjem času pridobiva pomembno podporo hipoteza, da je slab nevrološki izid predvsem posledica povečanja intraspinalnega tlaka (IST) na mestu PH (<xref ref-type="bibr" rid="b86">86</xref>). Po PPH se v sklopu SPH na mestu poškodbe namreč razvije oteklina hrbtenjače, ki zaradi omejenega intraduralnega prostora lahko privede do povečanja IST. Posledica je lahko padec perfuzijskega tlaka hrbtenjače (PTH) na mestu poškodbe in slabši nevrološki izid (<xref ref-type="bibr" rid="b86">86</xref>). Papadopoulos in sod. so s postavitvijo elektrode v subduralni prostor na mestu PH spremljali IST, ne da bi s tem povzročali škodo bolniku. Pri bolnikih s poškodbo hrbtenice in hrbtenjače so opravili zgodnjo KDH znotraj prvih 72 ur po poškodbi in ugotovili, da je IST zaradi izrazite otekline hrbtenjače in nekompliantnosti duralne vreče povišan kljub kostni dekompresiji, posledica pa je, analogno poškodbam možganov, slabša perfuzija hrbtenjače (<xref ref-type="bibr" rid="b87">87</xref>). Še več, s pomočjo ekspanzijske duroplastike (ED) po kostni dekompresiji so uspešno povečali intraduralni prostor in s tem uspešno znižali IST ter ugodno vplivali na PTH. Čeprav je vpliv ED na nevrološki izid težko ovrednotiti, so prvi rezultati tovrstne metode obetavni (<xref ref-type="bibr" rid="b88">88</xref>). Ta ugotovitev postavlja pod vprašaj učinkovitost urgentne KDH, pri kateri ostane duralna vreča nedotaknjena in se opravi le kostna dekompresija ter odpira novo perspektivo na zdravljenje PH. Trenutno nimamo podatkov o tem, kako urgentna KDH vpliva na IST. Glede na rezultate dosedanjih kliničnih raziskav, ki kažejo na boljši nevrološki izid pri poškodovancih z urgentno KDH kot kasnejšo dekompresijo (<xref ref-type="bibr" rid="b84">84</xref>,<xref ref-type="bibr" rid="b85">85</xref>), lahko sklepamo, da urgentna KDH ugodno vpliva na IST in PTH. Glede na omejeno nevrološko okrevanje kljub urgentni KDH pa lahko tudi sklepamo, da pri nekaterih bolnikih kljub urgentni oskrbi pride do pretiranega porasta IST in bi s pomočjo ED morda lahko izboljšali PTH in nevrološki izid.</p>
+            <p>Zanesljivo predstavlja urgentna dekompresija hrbtenjače v prvih urah po poškodbi predpogoj za uspešno nevrološko okrevanje, saj ni mogoče pričakovati, da bi kateri koli drug ukrep lahko bistveno prispeval k zmanjšenaju SPH, če ne zagotovimo hitre in zadostne perfuzije harbtenjače po poškodbi. Potrebne pa so dodatne raziskave, ki bodo pokazale, ali kostna dekompresija zadostuje ali pa bodo potrebni dodatni ukrepi za uravnavanje intraspinalnega tlaka in izboljšanje perfuzije na mestu poškodbe.</p>
+         </sec>
+      </sec>
+      <sec id="s4" sec-type="Zaključek">
+         <label>4</label>
+         <title>Zaključek</title>
+         <p>Poškodba hrbtenjače je še vedno pereč problem sodobne družbe. Kljub poznavanju patofizioloških mehanizmov so možnosti zdravljenja omejene. Novejše raziskave kažejo, da igra hitra dekompresija poškodovane hrbtenjače v prvih urah po poškodbi ključno vlogo pri zmanjševanju končne nevrološke okvare, zato je nujen takojšen prevoz poškodovanca v center, kjer poškodovanec lahko prejme hitro in dokončno oskrbo. Vzporedno s hitro KDH mora potekati natančen nadzor krvnega tlaka za zagotavljanje zadostne perfuzije poškodovanih tkiv. Zanesljivo ni možno pričakovati, da bi posamezna farmakološka učinkovina ali nek drug posamezen ukrep rešil tako kompleksen problem, kot ga predstavlja PH. Prav tako pa ne gre pričakovati uspešnosti katerega koli modela, če s KDH ne bo razbremenjen pritisk na hrbtenjačo v ustreznem času in s tem omogočena ustrezna prekrvitev in oksigenacija poškodovanih tkiv, ki bi sploh omogočila dostop in delovanje farmakološke učinkovine na tarčnem mestu. Ob tem pa bodo potrebne še dodatne raziskave, ki bi lahko vodile v razvoj kompleksnih protokolov komplementarnega multimodalnega zdravljenja PH, ki bi ob hitri KDH zajemali trenutno še eksperimentalne modele oskrbe, kot so npr. hipotermija, farmakološka in prehranska modulacija sekundarne okvare ter celično in gensko zdravljenje akutne in/ali kronične poškodbe hrbtenjače. Opisane strategije namreč izkazujejo uspešnost v predkliničnih raziskavah, njihov prenos v klinično prakso pa zenkrat še ni uspešen. Čeprav PH za nekatere bolnike zaenkrat predstavlja še nerešljivo uganko, gre pričakovati, da bomo v prihodnosti povečali uspešnost prenosa obetavnih predkliničnih raziskav v klinično prakso in postopoma zgradili piramido oskrbe, ki bo pomembno spremenila napoved izida te katastrofalne poškodbe.</p>
+      </sec>
+   </body>
+   <back>
+      <ref-list>
+         <ref id="b1">
+            <label>1.	</label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Branco</surname>
+                     <given-names>F</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Cardenas</surname>
+                     <given-names>DD</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Svircev</surname>
+                     <given-names>JN</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Spinal cord injury: a comprehensive review</article-title>. 
+                    <source>Phys Med Rehabil Clin N Am</source>. 
+                    <year>2007</year>
+                    <month>Nov</month>;
+                    <volume>18</volume>(
+                    <issue>4</issue>):
+                    <fpage>651</fpage>–
+                    <lpage>79</lpage>. 
+                    <pub-id pub-id-type="doi">10.1016/j.pmr.2007.07.010</pub-id>
+                    <pub-id pub-id-type="pmid">17967359</pub-id>
+                    <issn>1047-9651</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b2">
+            <label>2.	</label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Post</surname>
+                     <given-names>MW</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>van Leeuwen</surname>
+                     <given-names>CM</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Psychosocial issues in spinal cord injury: a review</article-title>. 
+                    <source>Spinal Cord</source>. 
+                    <year>2012</year>
+                    <month>May</month>;
+                    <volume>50</volume>(
+                    <issue>5</issue>):
+                    <fpage>382</fpage>–
+                    <lpage>9</lpage>. 
+                    <pub-id pub-id-type="doi">10.1038/sc.2011.182</pub-id>
+                    <pub-id pub-id-type="pmid">22270190</pub-id>
+                    <issn>1362-4393</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b3">
+            <label>3.	</label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Singh</surname>
+                     <given-names>A</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Tetreault</surname>
+                     <given-names>L</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Kalsi-Ryan</surname>
+                     <given-names>S</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Nouri</surname>
+                     <given-names>A</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Fehlings</surname>
+                     <given-names>MG</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Global prevalence and incidence of traumatic spinal cord injury</article-title>. 
+                    <source>Clin Epidemiol</source>. 
+                    <year>2014</year>
+                    <month>Sep</month>;
+                    <volume>6</volume>:
+                    <fpage>309</fpage>–
+                    <lpage>31</lpage>.
+                    <pub-id pub-id-type="doi">10.2147/CLEP.S68889</pub-id>
+                    <pub-id pub-id-type="pmid">25278785</pub-id>
+                    <issn>1179-1349</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b4">
+            <label>4.	</label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Sekhon</surname>
+                     <given-names>LH</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Fehlings</surname>
+                     <given-names>MG</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Epidemiology, demographics, and pathophysiology of acute spinal cord injury</article-title>. 
+                    <source>Spine</source>. 
+                    <year>2001</year>
+                    <month>Dec</month>;
+                    <volume>26</volume>(
+                    <issue>24</issue>
+                    <supplement>Suppl</supplement>):
+                    <fpage>S2</fpage>–
+                    <lpage>12</lpage>. 
+                    <pub-id pub-id-type="doi">10.1097/00007632-200112151-00002</pub-id>
+                    <pub-id pub-id-type="pmid">11805601</pub-id>
+                    <issn>0362-2436</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b5">
+            <label>5.	</label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Pirouzmand</surname>
+                     <given-names>F</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Epidemiological trends of spine and spinal cord injuries in the largest Canadian adult trauma center from 1986 to 2006</article-title>. 
+                    <source>J Neurosurg Spine</source>. 
+                    <year>2010</year>
+                    <month>Feb</month>;
+                    <volume>12</volume>(
+                    <issue>2</issue>):
+                    <fpage>131</fpage>–
+                    <lpage>40</lpage>. 
+                    <pub-id pub-id-type="doi">10.3171/2009.9.SPINE0943</pub-id>
+                    <pub-id pub-id-type="pmid">20121346</pub-id>
+                    <issn>1547-5654</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b6">
+            <label>6.	</label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Chamberlain</surname>
+                     <given-names>JD</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Deriaz</surname>
+                     <given-names>O</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Hund-Georgiadis</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Meier</surname>
+                     <given-names>S</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Scheel-Sailer</surname>
+                     <given-names>A</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Schubert</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>Epidemiology and contemporary risk profile of traumatic spinal cord injury in Switzerland</article-title>. 
+                    <source>Inj Epidemiol</source>. 
+                    <year>2015</year>;
+                    <volume>2</volume>(
+                    <issue>1</issue>):
+                    <fpage>28</fpage>. 
+                    <pub-id pub-id-type="doi">10.1186/s40621-015-0061-4</pub-id>
+                    <pub-id pub-id-type="pmid">26550554</pub-id>
+                    <issn>2197-1714</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b7">
+            <label>7.	</label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Jabbour</surname>
+                     <given-names>P</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Fehlings</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Vaccaro</surname>
+                     <given-names>AR</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Harrop</surname>
+                     <given-names>JS</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Traumatic spine injuries in the geriatric population</article-title>. 
+                    <source>Neurosurg Focus</source>. 
+                    <year>2008</year>;
+                    <volume>25</volume>(
+                    <issue>5</issue>):
+                    <fpage>E16</fpage>. 
+                    <pub-id pub-id-type="doi">10.3171/FOC.2008.25.11.E16</pub-id>
+                    <pub-id pub-id-type="pmid">19067564</pub-id>
+                    <issn>1092-0684</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b8">
+            <label>8.	</label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>McCaughey</surname>
+                     <given-names>EJ</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Purcell</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>McLean</surname>
+                     <given-names>AN</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Fraser</surname>
+                     <given-names>MH</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Bewick</surname>
+                     <given-names>A</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Borotkanics</surname>
+                     <given-names>RJ</given-names>
+                  </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>Changing demographics of spinal cord injury over a 20-year period: a longitudinal population-based study in Scotland</article-title>. 
+                    <source>Spinal Cord</source>. 
+                    <year>2016</year>
+                    <month>Apr</month>;
+                    <volume>54</volume>(
+                    <issue>4</issue>):
+                    <fpage>270</fpage>–
+                    <lpage>6</lpage>. 
+                    <pub-id pub-id-type="doi">10.1038/sc.2015.167</pub-id>
+                    <pub-id pub-id-type="pmid">26458974</pub-id>
+                    <issn>1362-4393</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b9">
+            <label>9.	</label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Ahuja</surname>
+                     <given-names>CS</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Wilson</surname>
+                     <given-names>JR</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Nori</surname>
+                     <given-names>S</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Kotter</surname>
+                     <given-names>MR</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Druschel</surname>
+                     <given-names>C</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Curt</surname>
+                     <given-names>A</given-names>
+                  </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>Traumatic spinal cord injury</article-title>. 
+                    <source>Nat Rev Dis Primers</source>. 
+                    <year>2017</year>
+                    <month>Apr</month>;
+                    <volume>3</volume>(
+                    <issue>1</issue>):
+                    <fpage>17018</fpage>. 
+                    <pub-id pub-id-type="doi">10.1038/nrdp.2017.18</pub-id>
+                    <pub-id pub-id-type="pmid">28447605</pub-id>
+                    <issn>2056-676X</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b10">
+            <label>10. </label>
+            <mixed-citation publication-type="book-chapter">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Fehlings</surname>
+                     <given-names>MG</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Sekhon</surname>
+                     <given-names>L</given-names>
+                  </name>
+                    </person-group>. 
+                    <chapter-title>Cellular, ionic and biomolecular mechanisms of the injury process</chapter-title>. 
+                    <comment>In:</comment>
+                    <person-group person-group-type="editor">
+                        <name name-style="western">
+                     <surname>Benzel</surname>
+                     <given-names>E</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Tator</surname>
+                     <given-names>CH</given-names>
+                  </name>, 
+                        <role>editors</role>
+                    </person-group>. 
+                    <source>Contemporary Management of Spinal Cord Injury: From Impact to Rehabilitation</source>. 
+                    <publisher-loc>Chicago (IL)</publisher-loc>: 
+                    <publisher-name>American Association of Neurological Surgeons</publisher-name>; 
+                    <year>2000</year>. pp. 
+                    <fpage>33</fpage>–
+                    <lpage>50</lpage>.
+                </mixed-citation>
+         </ref>
+         <ref id="b11">
+            <label>11. </label>
+            <mixed-citation publication-type="book-chapter">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Tator</surname>
+                     <given-names>CH</given-names>
+                  </name>
+                    </person-group>. 
+                    <chapter-title>Pathophysiology and pathology of spinal cord injury</chapter-title>. 
+                    <comment>In:</comment> 
+                    <chapter-title>Pathophysiology and pathology of spinal cord injury</chapter-title>. 
+                    <comment>In:</comment>
+                    <person-group person-group-type="editor">
+                        <name name-style="western">
+                     <surname>Wilkins</surname>
+                     <given-names>RH</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Rengachary</surname>
+                     <given-names>SS</given-names>
+                  </name>, 
+                        <role>editors</role>
+                    </person-group>. 
+                    <source>Neurosurgery</source>. 
+                    <edition>2nd ed.</edition>
+                    <publisher-loc>New York (NY)</publisher-loc>: 
+                    <publisher-name>McGraw- Hill</publisher-name>; 
+                    <year>1996</year>. pp. 
+                    <fpage>2847</fpage>–
+                    <lpage>59</lpage>.
+                </mixed-citation>
+         </ref>
+         <ref id="b12">
+            <label>12.	</label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Oyinbo</surname>
+                     <given-names>CA</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Secondary injury mechanisms in traumatic spinal cord injury: a nugget of this multiply cascade</article-title>. 
+                    <source>Acta Neurobiol Exp (Wars)</source>. 
+                    <year>2011</year>;
+                    <volume>71</volume>(
+                    <issue>2</issue>):
+                    <fpage>281</fpage>–
+                    <lpage>99</lpage>.
+                    <pub-id pub-id-type="pmid">21731081</pub-id>
+                    <issn>1689-0035</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b13">
+            <label>13.	</label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Sullivan</surname>
+                     <given-names>PG</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Krishnamurthy</surname>
+                     <given-names>S</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Patel</surname>
+                     <given-names>SP</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Pandya</surname>
+                     <given-names>JD</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Rabchevsky</surname>
+                     <given-names>AG</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Temporal characterization of mitochondrial bioenergetics after spinal cord injury</article-title>. 
+                    <source>J Neurotrauma</source>. 
+                    <year>2007</year>
+                    <month>Jun</month>;
+                    <volume>24</volume>(
+                    <issue>6</issue>):
+                    <fpage>991</fpage>–
+                    <lpage>9</lpage>. 
+                    <pub-id pub-id-type="doi">10.1089/neu.2006.0242</pub-id>
+                    <pub-id pub-id-type="pmid">17600515</pub-id>
+                    <issn>0897-7151</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b14">
+            <label>14.	</label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Xu</surname>
+                     <given-names>GY</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Hughes</surname>
+                     <given-names>MG</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Zhang</surname>
+                     <given-names>L</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Cain</surname>
+                     <given-names>L</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>McAdoo</surname>
+                     <given-names>DJ</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Administration of glutamate into the spinal cord at extracellular concentrations reached post-injury causes functional impairments</article-title>. 
+                    <source>Neurosci Lett</source>. 
+                    <year>2005</year>b 
+                    <month>Aug</month>;
+                    <volume>384</volume>(
+                    <issue>3</issue>):
+                    <fpage>271</fpage>–
+                    <lpage>6</lpage>. 
+                    <pub-id pub-id-type="doi">10.1016/j.neulet.2005.04.100</pub-id>
+                    <pub-id pub-id-type="pmid">15925447</pub-id>
+                    <issn>0304-3940</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b15">
+            <label>15.	</label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Fehlings</surname>
+                     <given-names>MG</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Nguyen</surname>
+                     <given-names>DH</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Immunoglobulin G: a potential treatment to attenuate neuroinflammation following spinal cord injury</article-title>. 
+                    <source>J Clin Immunol</source>. 
+                    <year>2010</year>
+                    <month>May</month>;
+                    <volume>30</volume>(
+                    <issue>S1</issue>
+                    <supplement>Suppl 1</supplement>):
+                    <fpage>S109</fpage>–
+                    <lpage>12</lpage>. 
+                    <pub-id pub-id-type="doi">10.1007/s10875-010-9404-7</pub-id>
+                    <pub-id pub-id-type="pmid">20437085</pub-id>
+                    <issn>0271-9142</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b16">
+            <label>16.	</label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Resnick</surname>
+                     <given-names>DK</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Updated guidelines for the management of acute cervical spine and spinal cord injury</article-title>. 
+                    <source>Neurosurgery</source>. 
+                    <year>2013</year>
+                    <month>Mar</month>;
+                    <volume>72</volume>
+                    <supplement>Suppl 2</supplement>:
+                    <fpage>1</fpage>. 
+                    <pub-id pub-id-type="doi">10.1227/NEU.0b013e318276ee7e</pub-id>
+                    <pub-id pub-id-type="pmid">23417171</pub-id>
+                    <issn>0148-396X</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b17">
+            <label>17.	</label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Vale</surname>
+                     <given-names>FL</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Burns</surname>
+                     <given-names>J</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Jackson</surname>
+                     <given-names>AB</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Hadley</surname>
+                     <given-names>MN</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Combined medical and surgical treatment after acute spinal cord injury: results of a prospective pilot study to assess the merits of aggressive medical resuscitation and blood pressure management</article-title>. 
+                    <source>J Neurosurg</source>. 
+                    <year>1997</year>
+                    <month>Aug</month>;
+                    <volume>87</volume>(
+                    <issue>2</issue>):
+                    <fpage>239</fpage>–
+                    <lpage>46</lpage>. 
+                    <pub-id pub-id-type="doi">10.3171/jns.1997.87.2.0239</pub-id>
+                    <pub-id pub-id-type="pmid">9254087</pub-id>
+                    <issn>0022-3085</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b18">
+            <label>18.	</label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Kwon</surname>
+                     <given-names>BK</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Okon</surname>
+                     <given-names>E</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Hillyer</surname>
+                     <given-names>J</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Mann</surname>
+                     <given-names>C</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Baptiste</surname>
+                     <given-names>D</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Weaver</surname>
+                     <given-names>LC</given-names>
+                  </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>A systematic review of non-invasive pharmacologic neuroprotective treatments for acute spinal cord injury</article-title>. 
+                    <source>J Neurotrauma</source>. 
+                    <year>2011</year>
+                    <month>Aug</month>;
+                    <volume>28</volume>(
+                    <issue>8</issue>):
+                    <fpage>1545</fpage>–
+                    <lpage>88</lpage>. 
+                    <pub-id pub-id-type="doi">10.1089/neu.2009.1149</pub-id>
+                    <pub-id pub-id-type="pmid">20146558</pub-id>
+                    <issn>0897-7151</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b19">
+            <label>19.	</label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Popovich</surname>
+                     <given-names>PG</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Guan</surname>
+                     <given-names>Z</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Wei</surname>
+                     <given-names>P</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Huitinga</surname>
+                     <given-names>I</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>van Rooijen</surname>
+                     <given-names>N</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Stokes</surname>
+                     <given-names>BT</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Depletion of hematogenous macrophages promotes partial hindlimb recovery and neuroanatomical repair after experimental spinal cord injury</article-title>. 
+                    <source>Exp Neurol</source>. 
+                    <year>1999</year>
+                    <month>Aug</month>;
+                    <volume>158</volume>(
+                    <issue>2</issue>):
+                    <fpage>351</fpage>–
+                    <lpage>65</lpage>. 
+                    <pub-id pub-id-type="doi">10.1006/exnr.1999.7118</pub-id>
+                    <pub-id pub-id-type="pmid">10415142</pub-id>
+                    <issn>0014-4886</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b20">
+            <label>20.	</label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Wells</surname>
+                     <given-names>JE</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Hurlbert</surname>
+                     <given-names>RJ</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Fehlings</surname>
+                     <given-names>MG</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Yong</surname>
+                     <given-names>VW</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Neuroprotection by minocycline facilitates significant recovery from spinal cord injury in mice</article-title>. 
+                    <source>Brain</source>. 
+                    <year>2003</year>
+                    <month>Jul</month>;
+                    <volume>126</volume>(
+                    <issue>Pt 7</issue>):
+                    <fpage>1628</fpage>–
+                    <lpage>37</lpage>. 
+                    <pub-id pub-id-type="doi">10.1093/brain/awg178</pub-id>
+                    <pub-id pub-id-type="pmid">12805103</pub-id>
+                    <issn>0006-8950</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b21">
+            <label>21.	</label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Gris</surname>
+                     <given-names>D</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Marsh</surname>
+                     <given-names>DR</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Oatway</surname>
+                     <given-names>MA</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Chen</surname>
+                     <given-names>Y</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Hamilton</surname>
+                     <given-names>EF</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Dekaban</surname>
+                     <given-names>GA</given-names>
+                  </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>Transient blockade of the CD11d/CD18 integrin reduces secondary damage after spinal cord injury, improving sensory, autonomic, and motor function</article-title>. 
+                    <source>J Neurosci</source>. 
+                    <year>2004</year>
+                    <month>Apr</month>;
+                    <volume>24</volume>(
+                    <issue>16</issue>):
+                    <fpage>4043</fpage>–
+                    <lpage>51</lpage>. 
+                    <pub-id pub-id-type="doi">10.1523/JNEUROSCI.5343-03.2004</pub-id>
+                    <pub-id pub-id-type="pmid">15102919</pub-id>
+                    <issn>0270-6474</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b22">
+            <label>22.	</label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Schwartz</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Yoles</surname>
+                     <given-names>E</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Immune-based therapy for spinal cord repair: autologous macrophages and beyond</article-title>. 
+                    <source>J Neurotrauma</source>. 
+                    <year>2006</year>
+                    <month>Mar-Apr</month>;
+                    <volume>23</volume>(
+                    <issue>3-4</issue>):
+                    <fpage>360</fpage>–
+                    <lpage>70</lpage>. 
+                    <pub-id pub-id-type="doi">10.1089/neu.2006.23.360</pub-id>
+                    <pub-id pub-id-type="pmid">16629622</pub-id>
+                    <issn>0897-7151</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b23">
+            <label>23.	</label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Hirbec</surname>
+                     <given-names>H</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Gaviria</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Vignon</surname>
+                     <given-names>J</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Gacyclidine: a new neuroprotective agent acting at the N-methyl-D-aspartate receptor</article-title>. 
+                    <source>CNS Drug Rev</source>. 
+                    <year>2001</year>;
+                    <volume>7</volume>(
+                    <issue>2</issue>):
+                    <fpage>172</fpage>–
+                    <lpage>98</lpage>. 
+                    <pub-id pub-id-type="doi">10.1111/j.1527-3458.2001.tb00194.x</pub-id>
+                    <pub-id pub-id-type="pmid">11474423</pub-id>
+                    <issn>1080-563X</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b24">
+            <label>24.	</label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Hall</surname>
+                     <given-names>ED</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Braughler</surname>
+                     <given-names>JM</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Glucocorticoid mechanisms in acute spinal cord injury: a review and therapeutic rationale</article-title>. 
+                    <source>Surg Neurol</source>. 
+                    <year>1982</year>
+                    <month>Nov</month>;
+                    <volume>18</volume>(
+                    <issue>5</issue>):
+                    <fpage>320</fpage>–
+                    <lpage>7</lpage>. 
+                    <pub-id pub-id-type="doi">10.1016/0090-3019(82)90140-9</pub-id>
+                    <pub-id pub-id-type="pmid">7179094</pub-id>
+                    <issn>0090-3019</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b25">
+            <label>25.	</label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Golding</surname>
+                     <given-names>JD</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Rigley MacDonald</surname>
+                     <given-names>ST</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Juurlink</surname>
+                     <given-names>BH</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Rosser</surname>
+                     <given-names>BW</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>The effect of glutamine on locomotor performance and skeletal muscle myosins following spinal cord injury in rats</article-title>. 
+                    <source>J Appl Physiol (1985)</source>. 
+                    <year>2006</year>
+                    <month>Oct</month>;
+                    <volume>101</volume>(
+                    <issue>4</issue>):
+                    <fpage>1045</fpage>–
+                    <lpage>52</lpage>. 
+                    <pub-id pub-id-type="doi">10.1152/japplphysiol.00428.2006</pub-id>
+                    <pub-id pub-id-type="pmid">16778003</pub-id>
+                    <issn>8750-7587</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b26">
+            <label>26.	</label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Faden</surname>
+                     <given-names>AI</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Jacobs</surname>
+                     <given-names>TP</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Mougey</surname>
+                     <given-names>E</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Holaday</surname>
+                     <given-names>JW</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Endorphins in experimental spinal injury: therapeutic effect of naloxone</article-title>. 
+                    <source>Ann Neurol</source>. 
+                    <year>1981</year>
+                    <month>Oct</month>;
+                    <volume>10</volume>(
+                    <issue>4</issue>):
+                    <fpage>326</fpage>–
+                    <lpage>32</lpage>. 
+                    <pub-id pub-id-type="doi">10.1002/ana.410100403</pub-id>
+                    <pub-id pub-id-type="pmid">6274252</pub-id>
+                    <issn>0364-5134</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b27">
+            <label>27.	</label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Luo</surname>
+                     <given-names>J</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Borgens</surname>
+                     <given-names>R</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Shi</surname>
+                     <given-names>R</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Polyethylene glycol immediately repairs neuronal membranes and inhibits free radical production after acute spinal cord injury</article-title>. 
+                    <source>J Neurochem</source>. 
+                    <year>2002</year>
+                    <month>Oct</month>;
+                    <volume>83</volume>(
+                    <issue>2</issue>):
+                    <fpage>471</fpage>–
+                    <lpage>80</lpage>. 
+                    <pub-id pub-id-type="doi">10.1046/j.1471-4159.2002.01160.x</pub-id>
+                    <pub-id pub-id-type="pmid">12423257</pub-id>
+                    <issn>0022-3042</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b28">
+            <label>28.	</label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Baptiste</surname>
+                     <given-names>DC</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Fehlings</surname>
+                     <given-names>MG</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Pharmacological approaches to repair the injured spinal cord</article-title>. 
+                    <source>J Neurotrauma</source>. 
+                    <year>2006</year>
+                    <month>Mar-Apr</month>;
+                    <volume>23</volume>(
+                    <issue>3-4</issue>):
+                    <fpage>318</fpage>–
+                    <lpage>34</lpage>. 
+                    <pub-id pub-id-type="doi">10.1089/neu.2006.23.318</pub-id>
+                    <pub-id pub-id-type="pmid">16629619</pub-id>
+                    <issn>0897-7151</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b29">
+            <label>29.	</label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Bracken</surname>
+                     <given-names>MB</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Holford</surname>
+                     <given-names>TR</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Springer</surname>
+                     <given-names>JE</given-names>
+                  </name>
+                        <name name-style="western">
+                     <surname>Holford</surname>
+                     <given-names>TR</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Effects of timing of methylprednisolone or naloxone administration on recovery of segmental and long-tract neurological function in NASCIS 2</article-title>. 
+                    <source>J Neurosurg</source>. 
+                    <year>1993</year>
+                    <month>Oct</month>;
+                    <volume>79</volume>(
+                    <issue>4</issue>):
+                    <fpage>500</fpage>–
+                    <lpage>7</lpage>. 
+                    <pub-id pub-id-type="doi">10.3171/jns.1993.79.4.0500</pub-id>
+                    <pub-id pub-id-type="pmid">8410217</pub-id>
+                    <issn>0022-3085</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b30">
+            <label>30.	</label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Bracken</surname>
+                     <given-names>MB</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Shepard</surname>
+                     <given-names>MJ</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Collins</surname>
+                     <given-names>WF</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Holford</surname>
+                     <given-names>TR</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Young</surname>
+                     <given-names>W</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Baskin</surname>
+                     <given-names>DS</given-names>
+                  </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>A randomized, controlled trial of methylprednisolone or naloxone in the treatment of acute spinal-cord injury. Results of the Second National Acute Spinal Cord Injury Study</article-title>. 
+                    <source>N Engl J Med</source>. 
+                    <year>1990</year>
+                    <month>May</month>;
+                    <volume>322</volume>(
+                    <issue>20</issue>):
+                    <fpage>1405</fpage>–
+                    <lpage>11</lpage>. 
+                    <pub-id pub-id-type="doi">10.1056/NEJM199005173222001</pub-id>
+                    <pub-id pub-id-type="pmid">2278545</pub-id>
+                    <issn>0028-4793</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b31">
+            <label>31.	</label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Bracken</surname>
+                     <given-names>MB</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Shepard</surname>
+                     <given-names>MJ</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Holford</surname>
+                     <given-names>TR</given-names>
+                  </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>Administration of methylprednisolone for 24 or 48 hours or tirilazad mesylate for 48 hours in the treatment of acute spinal cord injury. Results of the Third National Acute Spinal Cord Injury Randomized Controlled Trial. National Acute Spinal Cord Injury Study. JAMA 1997; 277: 1597–604.How might we step forward?</article-title>
+                    <source>Pharmacol Ther</source>. 
+                    <year>2011</year>;
+                    <volume>132</volume>:
+                    <fpage>15</fpage>–
+                    <lpage>29</lpage>.
+                    <issn>0163-7258</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b32">
+            <label>32.	</label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Evaniew</surname>
+                     <given-names>N</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Noonan</surname>
+                     <given-names>VK</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Fallah</surname>
+                     <given-names>N</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Kwon</surname>
+                     <given-names>BK</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Rivers</surname>
+                     <given-names>CS</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Ahn</surname>
+                     <given-names>H</given-names>
+                  </name>, 
+                        <etal>et al</etal>.; 
+                        <collab>RHSCIR Network</collab>
+                    </person-group>. 
+                    <article-title>Methylprednisolone for the Treatment of Patients with Acute Spinal Cord Injuries: A Propensity Score-Matched Cohort Study from a Canadian Multi-Center Spinal Cord Injury Registry</article-title>. 
+                    <source>J Neurotrauma</source>. 
+                    <year>2015</year>
+                    <month>Nov</month>;
+                    <volume>32</volume>(
+                    <issue>21</issue>):
+                    <fpage>1674</fpage>–
+                    <lpage>83</lpage>. 
+                    <pub-id pub-id-type="doi">10.1089/neu.2015.3963</pub-id>
+                    <pub-id pub-id-type="pmid">26065706</pub-id>
+                    <issn>0897-7151</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b33">
+            <label>33.	</label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Fehlings</surname>
+                     <given-names>MG</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Wilson</surname>
+                     <given-names>JR</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Cho</surname>
+                     <given-names>N</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Methylprednisolone for the treatment of acute spinal cord injury: counterpoint</article-title>. 
+                    <source>Neurosurgery</source>. 
+                    <year>2014</year>
+                    <month>Aug</month>;
+                    <volume>61</volume>
+                    <supplement>Suppl 1</supplement>:
+                    <fpage>36</fpage>–
+                    <lpage>42</lpage>. 
+                    <pub-id pub-id-type="doi">10.1227/NEU.0000000000000412</pub-id>
+                    <pub-id pub-id-type="pmid">25032529</pub-id>
+                    <issn>0148-396X</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b34">
+            <label>34.	</label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Druschel</surname>
+                     <given-names>C</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Schaser</surname>
+                     <given-names>KD</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Schwab</surname>
+                     <given-names>JM</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Current practice of methylprednisolone administration for acute spinal cord injury in Germany: a national survey</article-title>. 
+                    <source>Spine</source>. 
+                    <year>2013</year>
+                    <month>May</month>;
+                    <volume>38</volume>(
+                    <issue>11</issue>):
+                    <fpage>E669</fpage>–
+                    <lpage>77</lpage>. 
+                    <pub-id pub-id-type="doi">10.1097/BRS.0b013e31828e4dce</pub-id>
+                    <pub-id pub-id-type="pmid">23446768</pub-id>
+                    <issn>0362-2436</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b35">
+            <label>35.	</label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Nagoshi</surname>
+                     <given-names>N</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Nakashima</surname>
+                     <given-names>H</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Fehlings</surname>
+                     <given-names>MG</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Riluzole as a neuroprotective drug for spinal cord injury: from bench to bedside</article-title>. 
+                    <source>Molecules</source>. 
+                    <year>2015</year>
+                    <month>Apr</month>;
+                    <volume>20</volume>(
+                    <issue>5</issue>):
+                    <fpage>7775</fpage>–
+                    <lpage>89</lpage>. 
+                    <pub-id pub-id-type="doi">10.3390/molecules20057775</pub-id>
+                    <pub-id pub-id-type="pmid">25939067</pub-id>
+                    <issn>1420-3049</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b36">
+            <label>36.	</label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Popovich</surname>
+                     <given-names>PG</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Lemeshow</surname>
+                     <given-names>S</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Gensel</surname>
+                     <given-names>JC</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Tovar</surname>
+                     <given-names>CA</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Independent evaluation of the effects of glibenclamide on reducing progressive hemorrhagic necrosis after cervical spinal cord injury</article-title>. 
+                    <source>Exp Neurol</source>. 
+                    <year>2012</year>
+                    <month>Feb</month>;
+                    <volume>233</volume>(
+                    <issue>2</issue>):
+                    <fpage>615</fpage>–
+                    <lpage>22</lpage>. 
+                    <pub-id pub-id-type="doi">10.1016/j.expneurol.2010.11.016</pub-id>
+                    <pub-id pub-id-type="pmid">21145891</pub-id>
+                    <issn>0014-4886</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b37">
+            <label>37.	</label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Simard</surname>
+                     <given-names>JM</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Tsymbalyuk</surname>
+                     <given-names>O</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Keledjian</surname>
+                     <given-names>K</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Ivanov</surname>
+                     <given-names>A</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Ivanova</surname>
+                     <given-names>S</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Gerzanich</surname>
+                     <given-names>V</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Comparative effects of glibenclamide and riluzole in a rat model of severe cervical spinal cord injury</article-title>. 
+                    <source>Exp Neurol</source>. 
+                    <year>2012</year>
+                    <month>Jan</month>;
+                    <volume>233</volume>(
+                    <issue>1</issue>):
+                    <fpage>566</fpage>–
+                    <lpage>74</lpage>. 
+                    <pub-id pub-id-type="doi">10.1016/j.expneurol.2011.11.044</pub-id>
+                    <pub-id pub-id-type="pmid">22177998</pub-id>
+                    <issn>0014-4886</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b38">
+            <label>38.	</label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Hosier</surname>
+                     <given-names>H</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Peterson</surname>
+                     <given-names>D</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Tsymbalyuk</surname>
+                     <given-names>O</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Keledjian</surname>
+                     <given-names>K</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Smith</surname>
+                     <given-names>BR</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Ivanova</surname>
+                     <given-names>S</given-names>
+                  </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>A Direct Comparison of Three Clinically Relevant Treatments in a Rat Model of Cervical Spinal Cord Injury</article-title>. 
+                    <source>J Neurotrauma</source>. 
+                    <year>2015</year>
+                    <month>Nov</month>;
+                    <volume>32</volume>(
+                    <issue>21</issue>):
+                    <fpage>1633</fpage>–
+                    <lpage>44</lpage>. 
+                    <pub-id pub-id-type="doi">10.1089/neu.2015.3892</pub-id>
+                    <pub-id pub-id-type="pmid">26192071</pub-id>
+                    <issn>0897-7151</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b39">
+            <label>39.	</label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Kurland</surname>
+                     <given-names>DB</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Tosun</surname>
+                     <given-names>C</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Pampori</surname>
+                     <given-names>A</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Karimy</surname>
+                     <given-names>JK</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Caffes</surname>
+                     <given-names>NM</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Gerzanich</surname>
+                     <given-names>V</given-names>
+                  </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>Glibenclamide for the treatment of acute CNS injury</article-title>. 
+                    <source>Pharmaceuticals (Basel)</source>. 
+                    <year>2013</year>
+                    <month>Oct</month>;
+                    <volume>6</volume>(
+                    <issue>10</issue>):
+                    <fpage>1287</fpage>–
+                    <lpage>303</lpage>. 
+                    <pub-id pub-id-type="doi">10.3390/ph6101287</pub-id>
+                    <pub-id pub-id-type="pmid">24275850</pub-id>
+                    <issn>1424-8247</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b40">
+            <label>40.	</label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Garbossa</surname>
+                     <given-names>D</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Boido</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Fontanella</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Fronda</surname>
+                     <given-names>C</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Ducati</surname>
+                     <given-names>A</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Vercelli</surname>
+                     <given-names>A</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Recent therapeutic strategies for spinal cord injury treatment: possible role of stem cells</article-title>. 
+                    <source>Neurosurg Rev</source>. 
+                    <year>2012</year>
+                    <month>Jul</month>;
+                    <volume>35</volume>(
+                    <issue>3</issue>):
+                    <fpage>293</fpage>–
+                    <lpage>311</lpage>. 
+                    <pub-id pub-id-type="doi">10.1007/s10143-012-0385-2</pub-id>
+                    <pub-id pub-id-type="pmid">22539011</pub-id>
+                    <issn>0344-5607</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b41">
+            <label>41.	</label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Sabapathy</surname>
+                     <given-names>V</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Tharion</surname>
+                     <given-names>G</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Kumar</surname>
+                     <given-names>S</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Cell Therapy Augments Functional Recovery Subsequent to Spinal Cord Injury under Experimental Conditions</article-title>. 
+                    <source>Stem Cells Int</source>. 
+                    <year>2015</year>;
+                    <volume>2015</volume>:
+                    <fpage>132172</fpage>. 
+                    <pub-id pub-id-type="doi">10.1155/2015/132172</pub-id>
+                    <pub-id pub-id-type="pmid">26240569</pub-id>
+                    <issn>1687-9678</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b42">
+            <label>42. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Tso</surname>
+                     <given-names>D</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>McKinnon</surname>
+                     <given-names>RD</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Cell replacement therapy for central nervous system diseases</article-title>.
+                    <source>Neural Regen Res</source>.
+                    <year iso-8601-date="2015-9">2015</year>
+                    <month>Sep</month>;
+                    <volume>10</volume>(
+                    <issue>9</issue>):
+                    <fpage>1356</fpage>-
+                    <lpage>8</lpage>.
+                    <pub-id pub-id-type="doi">10.4103/1673-5374.165209</pub-id>
+                    <pub-id pub-id-type="pmid">26604878</pub-id>
+                </mixed-citation>
+         </ref>
+         <ref id="b43">
+            <label>43.	</label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Pearse</surname>
+                     <given-names>DD</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Bunge</surname>
+                     <given-names>MB</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Designing cell- and gene-based regeneration strategies to repair the injured spinal cord</article-title>. 
+                    <source>J Neurotrauma</source>. 
+                    <year>2006</year>
+                    <month>Mar-Apr</month>;
+                    <volume>23</volume>(
+                    <issue>3-4</issue>):
+                    <fpage>438</fpage>–
+                    <lpage>52</lpage>. 
+                    <pub-id pub-id-type="doi">10.1089/neu.2006.23.437</pub-id>
+                    <pub-id pub-id-type="pmid">16629628</pub-id>
+                    <issn>0897-7151</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b44">
+            <label>44.	</label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Thuret</surname>
+                     <given-names>S</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Moon</surname>
+                     <given-names>LD</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Gage</surname>
+                     <given-names>FH</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Therapeutic interventions after spinal cord injury</article-title>. 
+                    <source>Nat Rev Neurosci</source>. 
+                    <year>2006</year>
+                    <month>Aug</month>;
+                    <volume>7</volume>(
+                    <issue>8</issue>):
+                    <fpage>628</fpage>–
+                    <lpage>43</lpage>. 
+                    <pub-id pub-id-type="doi">10.1038/nrn1955</pub-id>
+                    <pub-id pub-id-type="pmid">16858391</pub-id>
+                    <issn>1471-003X</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b45">
+            <label>45.	</label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Li</surname>
+                     <given-names>Y</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Decherchi</surname>
+                     <given-names>P</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Raisman</surname>
+                     <given-names>G</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Transplantation of olfactory ensheathing cells into spinal cord lesions restores breathing and climbing</article-title>. 
+                    <source>J Neurosci</source>. 
+                    <year>2003</year>
+                    <month>Feb</month>;
+                    <volume>23</volume>(
+                    <issue>3</issue>):
+                    <fpage>727</fpage>–
+                    <lpage>31</lpage>. 
+                    <pub-id pub-id-type="doi">10.1523/JNEUROSCI.23-03-00727.2003</pub-id>
+                    <pub-id pub-id-type="pmid">12574399</pub-id>
+                    <issn>0270-6474</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b46">
+            <label>46.	</label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Papastefanaki</surname>
+                     <given-names>F</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Chen</surname>
+                     <given-names>J</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Lavdas</surname>
+                     <given-names>AA</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Thomaidou</surname>
+                     <given-names>D</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Schachner</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Matsas</surname>
+                     <given-names>R</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Grafts of Schwann cells engineered to express PSA-NCAM promote functional recovery after spinal cord injury</article-title>. 
+                    <source>Brain</source>. 
+                    <year>2007</year>
+                    <month>Aug</month>;
+                    <volume>130</volume>(
+                    <issue>Pt 8</issue>):
+                    <fpage>2159</fpage>–
+                    <lpage>74</lpage>. 
+                    <pub-id pub-id-type="doi">10.1093/brain/awm155</pub-id>
+                    <pub-id pub-id-type="pmid">17626035</pub-id>
+                    <issn>0006-8950</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b47">
+            <label>47.	</label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Dalamagkas</surname>
+                     <given-names>K</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Tsintou</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Seifalian</surname>
+                     <given-names>A</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Seifalian</surname>
+                     <given-names>AM</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Translational Regenerative Therapies for Chronic Spinal Cord Injury</article-title>. 
+                    <source>Int J Mol Sci</source>. 
+                    <year>2018</year>
+                    <month>Jun</month>;
+                    <volume>19</volume>(
+                    <issue>6</issue>):
+                    <fpage>E1776</fpage>. 
+                    <pub-id pub-id-type="doi">10.3390/ijms19061776</pub-id>
+                    <pub-id pub-id-type="pmid">29914060</pub-id>
+                    <issn>1661-6596</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b48">
+            <label>48.	</label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Ayala-Cuellar</surname>
+                     <given-names>AP</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Kang</surname>
+                     <given-names>JH</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Jeung</surname>
+                     <given-names>EB</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Choi</surname>
+                     <given-names>KC</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Roles of Mesenchymal Stem Cells in Tissue Regeneration and Immunomodulation</article-title>. 
+                    <source>Biomol Ther (Seoul)</source>. 
+                    <year>2019</year>
+                    <month>Jan</month>;
+                    <volume>27</volume>(
+                    <issue>1</issue>):
+                    <fpage>25</fpage>–
+                    <lpage>33</lpage>. 
+                    <pub-id pub-id-type="doi">10.4062/biomolther.2017.260</pub-id>
+                    <pub-id pub-id-type="pmid">29902862</pub-id>
+                    <issn>1976-9148</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b49">
+            <label>49.	</label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Saito</surname>
+                     <given-names>F</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Nakatani</surname>
+                     <given-names>T</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Iwase</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Maeda</surname>
+                     <given-names>Y</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Murao</surname>
+                     <given-names>Y</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Suzuki</surname>
+                     <given-names>Y</given-names>
+                  </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>Administration of cultured autologous bone marrow stromal cells into cerebrospinal fluid in spinal injury patients: a pilot study</article-title>. 
+                    <source>Restor Neurol Neurosci</source>. 
+                    <year>2012</year>;
+                    <volume>30</volume>(
+                    <issue>2</issue>):
+                    <fpage>127</fpage>–
+                    <lpage>36</lpage>.
+                    <pub-id pub-id-type="pmid">22232031</pub-id>
+                    <issn>1878-3627</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b50">
+            <label>50.	</label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Mendonça</surname>
+                     <given-names>MV</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Larocca</surname>
+                     <given-names>TF</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>de Freitas Souza</surname>
+                     <given-names>BS</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Villarreal</surname>
+                     <given-names>CF</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Silva</surname>
+                     <given-names>LF</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Matos</surname>
+                     <given-names>AC</given-names>
+                  </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>Safety and neurological assessments after autologous transplantation of bone marrow mesenchymal stem cells in subjects with chronic spinal cord injury</article-title>. 
+                    <source>Stem Cell Res Ther</source>. 
+                    <year>2014</year>
+                    <month>Nov</month>;
+                    <volume>5</volume>(
+                    <issue>6</issue>):
+                    <fpage>126</fpage>. 
+                    <pub-id pub-id-type="doi">10.1186/scrt516</pub-id>
+                    <pub-id pub-id-type="pmid">25406723</pub-id>
+                    <issn>1757-6512</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b51">
+            <label>51.	</label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Oraee-Yazdani</surname>
+                     <given-names>S</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Hafizi</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Atashi</surname>
+                     <given-names>A</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Ashrafi</surname>
+                     <given-names>F</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Seddighi</surname>
+                     <given-names>AS</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Hashemi</surname>
+                     <given-names>SM</given-names>
+                  </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>Co-transplantation of autologous bone marrow mesenchymal stem cells and Schwann cells through cerebral spinal fluid for the treatment of patients with chronic spinal cord injury: safety and possible outcome</article-title>. 
+                    <source>Spinal Cord</source>. 
+                    <year>2016</year>
+                    <month>Feb</month>;
+                    <volume>54</volume>(
+                    <issue>2</issue>):
+                    <fpage>102</fpage>–
+                    <lpage>9</lpage>. 
+                    <pub-id pub-id-type="doi">10.1038/sc.2015.142</pub-id>
+                    <pub-id pub-id-type="pmid">26526896</pub-id>
+                    <issn>1362-4393</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b52">
+            <label>52.	</label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Karamouzian</surname>
+                     <given-names>S</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Nematollahi-Mahani</surname>
+                     <given-names>SN</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Nakhaee</surname>
+                     <given-names>N</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Eskandary</surname>
+                     <given-names>H</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Clinical safety and primary efficacy of bone marrow mesenchymal cell transplantation in subacute spinal cord injured patients</article-title>. 
+                    <source>Clin Neurol Neurosurg</source>. 
+                    <year>2012</year>
+                    <month>Sep</month>;
+                    <volume>114</volume>(
+                    <issue>7</issue>):
+                    <fpage>935</fpage>–
+                    <lpage>9</lpage>. 
+                    <pub-id pub-id-type="doi">10.1016/j.clineuro.2012.02.003</pub-id>
+                    <pub-id pub-id-type="pmid">22464434</pub-id>
+                    <issn>0303-8467</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b53">
+            <label>53. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Gao</surname>
+                     <given-names>F</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Chiu</surname>
+                     <given-names>SM</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Motan</surname>
+                     <given-names>DA</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Zhang</surname>
+                     <given-names>Z</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Chen</surname>
+                     <given-names>L</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Ji</surname>
+                     <given-names>HL</given-names>
+                  </name>, 
+                        <etal>et al</etal>
+                    </person-group>.. 
+                    <article-title>Mesenchymal stem cells and immunomodulation: current status and future prospects.</article-title>
+                    <source>Cell Death Dis</source>. 
+                    <year>2016</year>
+                    <month>Jan</month>;
+                    <volume>7</volume>:
+                    <fpage>e2062</fpage>.
+                    <pub-id pub-id-type="doi">10.1038/cddis.2015.327</pub-id> 
+                    <pub-id pub-id-type="pmid">26794657</pub-id>
+                </mixed-citation>
+         </ref>
+         <ref id="b54">
+            <label>54. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Ma</surname>
+                     <given-names>S</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Xie</surname>
+                     <given-names>N</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Li</surname>
+                     <given-names>W</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Yuan</surname>
+                     <given-names>B</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Shi</surname>
+                     <given-names>Y</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Wang</surname>
+                     <given-names>Y</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Immunobiology of mesenchymal stem cells </article-title>.
+                    <source>Cell Death Differ</source>.
+                    <year>2014</year>;
+                    <volume>21</volume>:
+                    <fpage>216</fpage>–
+                    <lpage>25</lpage>.
+                    <pub-id pub-id-type="doi">10.1038/cdd.2013.158</pub-id> 
+                </mixed-citation>
+         </ref>
+         <ref id="b55">
+            <label>55.	</label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Vaquero</surname>
+                     <given-names>J</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Zurita</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Rico</surname>
+                     <given-names>MA</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Bonilla</surname>
+                     <given-names>C</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Aguayo</surname>
+                     <given-names>C</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Fernández</surname>
+                     <given-names>C</given-names>
+                  </name>, 
+                        <etal>et al</etal>.; 
+                        <collab>Neurological Cell Therapy Group</collab>
+                    </person-group>. 
+                    <article-title>Repeated subarachnoid administrations of autologous mesenchymal stromal cells supported in autologous plasma improve quality of life in patients suffering incomplete spinal cord injury</article-title>. 
+                    <source>Cytotherapy</source>. 
+                    <year>2017</year>
+                    <month>Mar</month>;
+                    <volume>19</volume>(
+                    <issue>3</issue>):
+                    <fpage>349</fpage>–
+                    <lpage>59</lpage>. 
+                    <pub-id pub-id-type="doi">10.1016/j.jcyt.2016.12.002</pub-id>
+                    <pub-id pub-id-type="pmid">28089079</pub-id>
+                    <issn>1465-3249</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b56">
+            <label>56.	</label>
+            <mixed-citation publication-type="webpage">
+                    <source>Spinal Cord Outcomes Partnership Endeavor (SCOPE, www.scope-sci.org) Current SCI Clinical Trials of Rehabilitation and Technological Interventions to Improve Functional Outcomes</source>.
+                    <date-in-citation content-type="access-date" iso-8601-date="2019-2-22">cited 2019 Feb 22</date-in-citation>.
+                    <comment>Available from</comment>: <uri>https://www.asia-spinalinjury.org/wp-content/uploads/2016/07/SCOPE-Rehab-Technology-TrialsTable-2016.06.02.pdf/</uri>.
+                </mixed-citation>
+         </ref>
+         <ref id="b57">
+            <label>57.	</label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Vaquero</surname>
+                     <given-names>J</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Zurita</surname>
+                     <given-names>M</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Cell transplantation in paraplegic patients: the importance of properly assessing the spinal cord morphology</article-title>. 
+                    <source>Clin Transplant</source>. 
+                    <year>2013</year>
+                    <month>Nov-Dec</month>;
+                    <volume>27</volume>(
+                    <issue>6</issue>):
+                    <fpage>968</fpage>–
+                    <lpage>71</lpage>. 
+                    <pub-id pub-id-type="doi">10.1111/ctr.12267</pub-id>
+                    <pub-id pub-id-type="pmid">24147851</pub-id>
+                    <issn>0902-0063</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b58">
+            <label>58.	</label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Polderman</surname>
+                     <given-names>KH</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Mechanisms of action, physiological effects, and complications of hypothermia</article-title>. 
+                    <source>Crit Care Med</source>. 
+                    <year>2009</year>
+                    <month>Jul</month>;
+                    <volume>37</volume>(
+                    <issue>7</issue>
+                    <supplement>Suppl</supplement>):
+                    <fpage>S186</fpage>–
+                    <lpage>202</lpage>. 
+                    <pub-id pub-id-type="doi">10.1097/CCM.0b013e3181aa5241</pub-id>
+                    <pub-id pub-id-type="pmid">19535947</pub-id>
+                    <issn>0090-3493</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b59">
+            <label>59.	</label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Dietrich</surname>
+                     <given-names>WD</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Levi</surname>
+                     <given-names>AD</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Wang</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Green</surname>
+                     <given-names>BA</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Hypothermic treatment for acute spinal cord injury</article-title>. 
+                    <source>Neurotherapeutics</source>. 
+                    <year>2011</year>
+                    <month>Apr</month>;
+                    <volume>8</volume>(
+                    <issue>2</issue>):
+                    <fpage>229</fpage>–
+                    <lpage>39</lpage>. 
+                    <pub-id pub-id-type="doi">10.1007/s13311-011-0035-3</pub-id>
+                    <pub-id pub-id-type="pmid">21416406</pub-id>
+                    <issn>1933-7213</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b60">
+            <label>60.	</label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Lo</surname>
+                     <given-names>TP</given-names>
+                     <suffix>Jr</suffix>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Cho</surname>
+                     <given-names>KS</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Garg</surname>
+                     <given-names>MS</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Lynch</surname>
+                     <given-names>MP</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Marcillo</surname>
+                     <given-names>AE</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Koivisto</surname>
+                     <given-names>DL</given-names>
+                  </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>Systemic hypothermia improves histological and functional outcome after cervical spinal cord contusion in rats</article-title>. 
+                    <source>J Comp Neurol</source>. 
+                    <year>2009</year>
+                    <month>Jun</month>;
+                    <volume>514</volume>(
+                    <issue>5</issue>):
+                    <fpage>433</fpage>–
+                    <lpage>48</lpage>. 
+                    <pub-id pub-id-type="doi">10.1002/cne.22014</pub-id>
+                    <pub-id pub-id-type="pmid">19350644</pub-id>
+                    <issn>0021-9967</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b61">
+            <label>61.	</label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Levi</surname>
+                     <given-names>AD</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Casella</surname>
+                     <given-names>G</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Green</surname>
+                     <given-names>BA</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Dietrich</surname>
+                     <given-names>WD</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Vanni</surname>
+                     <given-names>S</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Jagid</surname>
+                     <given-names>J</given-names>
+                  </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>Clinical outcomes using modest intravascular hypothermia after acute cervical spinal cord injury</article-title>. 
+                    <source>Neurosurgery</source>. 
+                    <year>2010</year>
+                    <month>Apr</month>;
+                    <volume>66</volume>(
+                    <issue>4</issue>):
+                    <fpage>670</fpage>–
+                    <lpage>7</lpage>. 
+                    <pub-id pub-id-type="doi">10.1227/01.NEU.0000367557.77973.5F</pub-id>
+                    <pub-id pub-id-type="pmid">20190669</pub-id>
+                    <issn>0148-396X</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b62">
+            <label>62.	</label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Dididze</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Green</surname>
+                     <given-names>BA</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Dietrich</surname>
+                     <given-names>WD</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Vanni</surname>
+                     <given-names>S</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Wang</surname>
+                     <given-names>MY</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Levi</surname>
+                     <given-names>AD</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Systemic hypothermia in acute cervical spinal cord injury: a case-controlled study</article-title>. 
+                    <source>Spinal Cord</source>. 
+                    <year>2013</year>
+                    <month>May</month>;
+                    <volume>51</volume>(
+                    <issue>5</issue>):
+                    <fpage>395</fpage>–
+                    <lpage>400</lpage>. 
+                    <pub-id pub-id-type="doi">10.1038/sc.2012.161</pub-id>
+                    <pub-id pub-id-type="pmid">23247015</pub-id>
+                    <issn>1362-4393</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b63">
+            <label>63.	</label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Batchelor</surname>
+                     <given-names>PE</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Wills</surname>
+                     <given-names>TE</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Skeers</surname>
+                     <given-names>P</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Battistuzzo</surname>
+                     <given-names>CR</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Macleod</surname>
+                     <given-names>MR</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Howells</surname>
+                     <given-names>DW</given-names>
+                  </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>Meta-analysis of pre-clinical studies of early decompression in acute spinal cord injury: a battle of time and pressure</article-title>. 
+                    <source>PLoS One</source>. 
+                    <year>2013</year>
+                    <month>Aug</month>;
+                    <volume>8</volume>(
+                    <issue>8</issue>):
+                    <fpage>e72659</fpage>. 
+                    <pub-id pub-id-type="doi">10.1371/journal.pone.0072659</pub-id>
+                    <pub-id pub-id-type="pmid">24009695</pub-id>
+                    <issn>1932-6203</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b64">
+            <label>64.	</label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Antonic</surname>
+                     <given-names>A</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Dottori</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Leung</surname>
+                     <given-names>J</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Sidon</surname>
+                     <given-names>K</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Batchelor</surname>
+                     <given-names>PE</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Wilson</surname>
+                     <given-names>W</given-names>
+                  </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>Hypothermia protects human neurons</article-title>. 
+                    <source>Int J Stroke</source>. 
+                    <year>2014</year>
+                    <month>Jul</month>;
+                    <volume>9</volume>(
+                    <issue>5</issue>):
+                    <fpage>544</fpage>–
+                    <lpage>52</lpage>. 
+                    <pub-id pub-id-type="doi">10.1111/ijs.12224</pub-id>
+                    <pub-id pub-id-type="pmid">24393199</pub-id>
+                    <issn>1747-4930</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b65">
+            <label>65. </label>
+            <mixed-citation publication-type="book">
+                    <source>American Spinal Injury Association</source>. 
+                    <publisher-loc>Chicago</publisher-loc>: 
+                    <publisher-name>American Spinal Injury Association</publisher-name>; 
+                    <year>2000</year>.
+                </mixed-citation>
+         </ref>
+         <ref id="b66">
+            <label>66.	</label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Gerecht</surname>
+                     <given-names>R</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>The lethal triad. Hypothermia, acidosis &amp; coagulopathy create a deadly cycle for trauma patients</article-title>. 
+                    <source>JEMS</source>. 
+                    <year>2014</year>
+                    <month>Apr</month>;
+                    <volume>39</volume>(
+                    <issue>4</issue>):
+                    <fpage>56</fpage>–
+                    <lpage>60</lpage>.
+                    <pub-id pub-id-type="pmid">24779101</pub-id>
+                    <issn>0197-2510</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b67">
+            <label>67.	</label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Varon</surname>
+                     <given-names>J</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Acosta</surname>
+                     <given-names>P</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Therapeutic hypothermia: past, present, and future</article-title>. 
+                    <source>Chest</source>. 
+                    <year>2008</year>
+                    <month>May</month>;
+                    <volume>133</volume>(
+                    <issue>5</issue>):
+                    <fpage>1267</fpage>–
+                    <lpage>74</lpage>. 
+                    <pub-id pub-id-type="doi">10.1378/chest.07-2190</pub-id>
+                    <pub-id pub-id-type="pmid">18460529</pub-id>
+                    <issn>0012-3692</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b68">
+            <label>68.	</label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Hansebout</surname>
+                     <given-names>RR</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Hansebout</surname>
+                     <given-names>CR</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Local cooling for traumatic spinal cord injury: outcomes in 20 patients and review of the literature</article-title>. 
+                    <source>J Neurosurg Spine</source>. 
+                    <year>2014</year>
+                    <month>May</month>;
+                    <volume>20</volume>(
+                    <issue>5</issue>):
+                    <fpage>550</fpage>–
+                    <lpage>61</lpage>. 
+                    <pub-id pub-id-type="doi">10.3171/2014.2.SPINE13318</pub-id>
+                    <pub-id pub-id-type="pmid">24628130</pub-id>
+                    <issn>1547-5654</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b69">
+            <label>69.	</label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Alkabie</surname>
+                     <given-names>S</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Boileau</surname>
+                     <given-names>AJ</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>The role of therapeutic hypothermia after traumatic spinal cord injury-a systematic review</article-title>. 
+                    <source>World Neurosurg</source>. 
+                    <year>2015</year>;
+                    <volume>15</volume>:
+                    <fpage>1247</fpage>–
+                    <lpage>54</lpage>.
+                    <pub-id pub-id-type="pmid">26433095</pub-id>
+                </mixed-citation>
+         </ref>
+         <ref id="b70">
+            <label>70. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Huang</surname>
+                     <given-names>WL</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>King</surname>
+                     <given-names>VR</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Curran</surname>
+                     <given-names>OE</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Dyall</surname>
+                     <given-names>SC</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Ward</surname>
+                     <given-names>RE</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Lal</surname>
+                     <given-names>N</given-names>
+                  </name>, 
+                            <etal>et al</etal>
+                    </person-group>.
+                    <article-title>A combination of intravenous and dietary docosahexaenoic acid significantly improves outcome after spinal cord injury</article-title>. 
+                    <source>Brain</source>. 
+                    <year>2007</year>
+               <month>Nov</month>;
+                    <volume>130</volume>(
+                    <issue>Pt 11</issue>):
+                    <fpage>3004</fpage>–
+                    <lpage>19</lpage>. 
+                    <pub-id pub-id-type="doi">10.1093/brain/awm223</pub-id>
+                    <pub-id pub-id-type="pmid">17901087</pub-id>
+                    <issn>0006-8950</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b71">
+            <label>71. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Lim</surname>
+                     <given-names>SN</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Huang</surname>
+                     <given-names>W</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Hall</surname>
+                     <given-names>JC</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Michael-Titus</surname>
+                     <given-names>AT</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Priestley</surname>
+                     <given-names>JV</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Improved outcome after spinal cord compression injury in mice treated with docosahexaenoic acid</article-title>. 
+                    <source>Exp Neurol</source>. 
+                    <year>2013</year>
+               <month>Jan</month>;
+                    <volume>239</volume>:
+                    <fpage>13</fpage>–
+                    <lpage>27</lpage>. 
+                    <pub-id pub-id-type="doi">10.1016/j.expneurol.2012.09.015</pub-id>
+                    <pub-id pub-id-type="pmid">23026410</pub-id>
+                    <issn>0014-4886</issn>
+                    <issn>0014-4886</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b72">
+            <label>72. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Streijger</surname>
+                     <given-names>F</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Plunet</surname>
+                     <given-names>WT</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Lee</surname>
+                     <given-names>JH</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Liu</surname>
+                     <given-names>J</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Lam</surname>
+                     <given-names>CK</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Park</surname>
+                     <given-names>S</given-names>
+                  </name>, 
+                            <etal>et al</etal>
+                    </person-group>.
+                    <article-title>Ketogenic diet improves forelimb motor function after spinal cord injury in rodents</article-title>. 
+                    <source>PLoS One</source>. 
+                    <year>2013</year>
+               <month>Nov</month>;
+                    <volume>8</volume>(
+                    <issue>11</issue>):
+                    <fpage>e78765</fpage>. 
+                    <pub-id pub-id-type="doi">10.1371/journal.pone.0078765</pub-id>
+                    <pub-id pub-id-type="pmid">24223849</pub-id>
+                    <issn>1932-6203</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b73">
+            <label>73. </label>
+            <mixed-citation publication-type="journal">
+                <person-group person-group-type="author">
+                    <name name-style="western">
+                     <surname>Jeong</surname>
+                     <given-names>MA</given-names>
+                  </name>, 
+                    <name name-style="western">
+                     <surname>Plunet</surname>
+                     <given-names>W</given-names>
+                  </name>, 
+                    <name name-style="western">
+                     <surname>Streijger</surname>
+                     <given-names>F</given-names>
+                  </name>, 
+                    <name name-style="western">
+                     <surname>Lee</surname>
+                     <given-names>JH</given-names>
+                  </name>, 
+                    <name name-style="western">
+                     <surname>Plemel</surname>
+                     <given-names>JR</given-names>
+                  </name>, 
+                    <name name-style="western">
+                     <surname>Park</surname>
+                     <given-names>S</given-names>
+                  </name>,
+                    <etal>et al</etal>
+                </person-group>.
+                <article-title>Intermittent fasting improves functional recovery after rat thoracic contusion spinal cord injury</article-title>. 
+                <source>J Neurotrauma</source>. 
+                <year>2011</year>
+               <month>Mar</month>;
+                <volume>28</volume>(
+                <issue>3</issue>):
+                <fpage>479</fpage>–
+                <lpage>92</lpage>. 
+                <pub-id pub-id-type="doi">10.1089/neu.2010.1609</pub-id>
+                <pub-id pub-id-type="pmid">21219083</pub-id>
+                <issn>0897-7151</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b74">
+            <label>74. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Rabchevsky</surname>
+                     <given-names>AG</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Patel</surname>
+                     <given-names>SP</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Springer</surname>
+                     <given-names>JE</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Pharmacological interventions for spinal cord injury: where do we stand? How might we step forward?</article-title>
+                    <source>Pharmacol Ther</source>. 
+                    <year>2011</year>
+               <month>Oct</month>;
+                    <volume>132</volume>(
+                    <issue>1</issue>):
+                    <fpage>15</fpage>–
+                    <lpage>29</lpage>. 
+                    <pub-id pub-id-type="doi">10.1016/j.pharmthera.2011.05.001</pub-id>
+                    <pub-id pub-id-type="pmid">21605594</pub-id>
+                    <issn>0163-7258</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b75">
+            <label>75. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Carlson</surname>
+                     <given-names>GD</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Minato</surname>
+                     <given-names>Y</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Okada</surname>
+                     <given-names>A</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Gorden</surname>
+                     <given-names>CD</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Warden</surname>
+                     <given-names>KE</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Barbeau</surname>
+                     <given-names>JM</given-names>
+                  </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>Early time-dependent decompression for spinal cord injury: vascular mechanisms of recovery</article-title>. 
+                    <source>J Neurotrauma</source>. 
+                    <year>1997</year>a 
+                    <month>Dec</month>;
+                    <volume>14</volume>(
+                    <issue>12</issue>):
+                    <fpage>951</fpage>–
+                    <lpage>62</lpage>. 
+                    <pub-id pub-id-type="doi">10.1089/neu.1997.14.951</pub-id>
+                    <pub-id pub-id-type="pmid">9475376</pub-id>
+                    <issn>0897-7151</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b76">
+            <label>76. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Carlson</surname>
+                     <given-names>GD</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Warden</surname>
+                     <given-names>KE</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Barbeau</surname>
+                     <given-names>JM</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Bahniuk</surname>
+                     <given-names>E</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Kutina-Nelson</surname>
+                     <given-names>KL</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Biro</surname>
+                     <given-names>CL</given-names>
+                  </name>, 
+                                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>Viscoelastic relaxation and regional blood flow response to spinal cord compression and decompression</article-title>. 
+                    <source>Spine</source>. 
+                    <year>1997</year>b 
+                    <month>Jun</month>;
+                    <volume>22</volume>(
+                    <issue>12</issue>):
+                    <fpage>1285</fpage>–
+                    <lpage>91</lpage>. 
+                    <pub-id pub-id-type="doi">10.1097/00007632-199706150-00002</pub-id>
+                    <pub-id pub-id-type="pmid">9201829</pub-id>
+                    <issn>0362-2436</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b77">
+            <label>77. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Dimar</surname>
+                     <given-names>JR</given-names>
+                     <suffix>2nd</suffix>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Glassman</surname>
+                     <given-names>SD</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Raque</surname>
+                     <given-names>GH</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Zhang</surname>
+                     <given-names>YP</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Shields</surname>
+                     <given-names>CB</given-names>
+                  </name>
+                    </person-group>.
+                    <article-title>The influence of spinal canal narrowing and timing of decompression on neurologic recovery after spinal cord contusion in a rat model</article-title>. 
+                    <source>Spine</source>. 
+                    <year>1999</year>
+               <month>Aug</month>;
+                    <volume>24</volume>(
+                    <issue>16</issue>):
+                    <fpage>1623</fpage>–
+                    <lpage>33</lpage>. 
+                    <pub-id pub-id-type="doi">10.1097/00007632-199908150-00002</pub-id>
+                    <pub-id pub-id-type="pmid">10472095</pub-id>
+                    <issn>0362-2436</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b78">
+            <label>78. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Furlan</surname>
+                     <given-names>JC</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Noonan</surname>
+                     <given-names>V</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Cadotte</surname>
+                     <given-names>DW</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Fehlings</surname>
+                     <given-names>MG</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Timing of decompressive surgery of spinal cord after traumatic spinal cord injury: an evidence-based examination of pre-clinical and clinical studies</article-title>. 
+                    <source>J Neurotrauma</source>. 
+                    <year>2011</year>
+               <month>Aug</month>;
+                    <volume>28</volume>(
+                    <issue>8</issue>):
+                    <fpage>1371</fpage>–
+                    <lpage>99</lpage>. 
+                    <pub-id pub-id-type="doi">10.1089/neu.2009.1147</pub-id>
+                    <pub-id pub-id-type="pmid">20001726</pub-id>
+                    <issn>0897-7151</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b79">
+            <label>79. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Pointillart</surname>
+                     <given-names>V</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Petitjean</surname>
+                     <given-names>ME</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Wiart</surname>
+                     <given-names>L</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Vital</surname>
+                     <given-names>JM</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Lassié</surname>
+                     <given-names>P</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Thicoipé</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>Pharmacological therapy of spinal cord injury during the acute phase</article-title>. 
+                    <source>Spinal Cord</source>. 
+                    <year>2000</year>
+               <month>Feb</month>;
+                    <volume>38</volume>(
+                    <issue>2</issue>):
+                    <fpage>71</fpage>–
+                    <lpage>6</lpage>. 
+                    <pub-id pub-id-type="doi">10.1038/sj.sc.3100962</pub-id>
+                    <pub-id pub-id-type="pmid">10762178</pub-id>
+                    <issn>1362-4393</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b80">
+            <label>80. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>van Middendorp</surname>
+                     <given-names>JJ</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Hosman</surname>
+                     <given-names>AJ</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Doi</surname>
+                     <given-names>SA</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>The effects of the timing of spinal surgery after traumatic spinal cord injury: a systematic review and meta-analysis</article-title>. 
+                    <source>J Neurotrauma</source>. 
+                    <year>2013</year>
+               <month>Nov</month>;
+                    <volume>30</volume>(
+                    <issue>21</issue>):
+                    <fpage>1781</fpage>–
+                    <lpage>94</lpage>. 
+                    <pub-id pub-id-type="doi">10.1089/neu.2013.2932</pub-id>
+                    <pub-id pub-id-type="pmid">23815524</pub-id>
+                    <issn>0897-7151</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b81">
+            <label>81. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Fehlings</surname>
+                     <given-names>MG</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Vaccaro</surname>
+                     <given-names>A</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Wilson</surname>
+                     <given-names>JR</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Singh</surname>
+                     <given-names>A</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>W Cadotte</surname>
+                     <given-names>D</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Harrop</surname>
+                     <given-names>JS</given-names>
+                  </name>, 
+                            <etal>et al</etal>
+                    </person-group>.
+                    <article-title>Early versus delayed decompression for traumatic cervical spinal cord injury: results of the Surgical Timing in Acute Spinal Cord Injury Study (STASCIS)</article-title>. 
+                    <source>PLoS One</source>. 
+                    <year>2012</year>;
+                    <volume>7</volume>(
+                    <issue>2</issue>):
+                    <fpage>e32037</fpage>. 
+                    <pub-id pub-id-type="doi">10.1371/journal.pone.0032037</pub-id>
+                    <pub-id pub-id-type="pmid">22384132</pub-id>
+                    <issn>1932-6203</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b82">
+            <label>82. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Wilson</surname>
+                     <given-names>JR</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Singh</surname>
+                     <given-names>A</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Craven</surname>
+                     <given-names>C</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Verrier</surname>
+                     <given-names>MC</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Drew</surname>
+                     <given-names>B</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Ahn</surname>
+                     <given-names>H</given-names>
+                  </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>Early versus late surgery for traumatic spinal cord injury: the results of a prospective Canadian cohort study</article-title>. 
+                    <source>Spinal Cord</source>. 
+                    <year>2012</year>
+               <month>Nov</month>;
+                    <volume>50</volume>(
+                    <issue>11</issue>):
+                    <fpage>840</fpage>–
+                    <lpage>3</lpage>. 
+                    <pub-id pub-id-type="doi">10.1038/sc.2012.59</pub-id>
+                    <pub-id pub-id-type="pmid">22565550</pub-id>
+                    <issn>1362-4393</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b83">
+            <label>83. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Wilson</surname>
+                     <given-names>JR</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>BSc</surname>
+                     <given-names>LT</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Aarabi</surname>
+                     <given-names>B</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Anderson</surname>
+                     <given-names>PA</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Arnold</surname>
+                     <given-names>PM</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Brodke</surname>
+                     <given-names>DS</given-names>
+                  </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>181 Guidelines for the Management of Patients With Spinal Cord Injury: The Optimal Timing of Decompression</article-title>. 
+                    <source>Neurosurgery</source>. 
+                    <year>2016</year>
+                    <month>Aug</month>;
+                    <volume>63</volume>
+                    <supplement>Suppl 1</supplement>:
+                    <fpage>172</fpage>. 
+                    <pub-id pub-id-type="doi">10.1227/01.neu.0000489750.82285.7f</pub-id>
+                    <issn>0148-396X</issn> 
+                </mixed-citation>
+         </ref>
+         <ref id="b84">
+            <label>84. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Jug</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Kejžar</surname>
+                     <given-names>N</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Vesel</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Al Mawed</surname>
+                     <given-names>S</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Dobravec</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Herman</surname>
+                     <given-names>S</given-names>
+                  </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>Neurological Recovery after Traumatic Cervical Spinal Cord Injury Is Superior if Surgical Decompression and Instrumented Fusion Are Performed within 8 Hours versus 8 to 24 Hours after Injury: A Single Center Experience</article-title>. 
+                    <source>J Neurotrauma</source>. 
+                    <year>2015</year>
+               <month>Sep</month>;
+                    <volume>32</volume>(
+                    <issue>18</issue>):
+                    <fpage>1385</fpage>–
+                    <lpage>92</lpage>. 
+                    <pub-id pub-id-type="doi">10.1089/neu.2014.3767</pub-id>
+                    <pub-id pub-id-type="pmid">25658291</pub-id>
+                    <issn>0897-7151</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b85">
+            <label>85. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Grassner</surname>
+                     <given-names>L</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Wutte</surname>
+                     <given-names>C</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Klein</surname>
+                     <given-names>B</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Mach</surname>
+                     <given-names>O</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Riesner</surname>
+                     <given-names>S</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Panzer</surname>
+                     <given-names>S</given-names>
+                  </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>Early Decompression (&lt; 8 h) after Traumatic Cervical Spinal Cord Injury Improves Functional Outcome as Assessed by Spinal Cord Independence Measure after One Year</article-title>. 
+                    <source>J Neurotrauma</source>. 
+                    <year>2016</year>
+               <month>Sep</month>;
+                    <volume>33</volume>(
+                    <issue>18</issue>):
+                    <fpage>1658</fpage>–
+                    <lpage>66</lpage>. 
+                    <pub-id pub-id-type="doi">10.1089/neu.2015.4325</pub-id>
+                    <pub-id pub-id-type="pmid">27050499</pub-id>
+                    <issn>0897-7151</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b86">
+            <label>86. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Saadoun</surname>
+                     <given-names>S</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Chen</surname>
+                     <given-names>S</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Papadopoulos</surname>
+                     <given-names>MC</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Intraspinal pressure and spinal cord perfusion pressure predict neurological outcome after traumatic spinal cord injury</article-title>. 
+                    <source>J Neurol Neurosurg Psychiatry</source>. 
+                    <year>2017</year>
+               <month>May</month>;
+                    <volume>88</volume>(
+                    <issue>5</issue>):
+                    <fpage>452</fpage>–
+                    <lpage>3</lpage>. 
+                    <pub-id pub-id-type="doi">10.1136/jnnp-2016-314600</pub-id>
+                    <pub-id pub-id-type="pmid">27864426</pub-id>
+                    <issn>0022-3050</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b87">
+            <label>87. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Phang</surname>
+                     <given-names>I</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Zoumprouli</surname>
+                     <given-names>A</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Saadoun</surname>
+                     <given-names>S</given-names>
+                  </name>, 
+                         <name name-style="western">
+                     <surname>Papadopoulos</surname>
+                     <given-names>MC</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Safety profile and probe placement accuracy of intraspinal pressure monitoring for traumatic spinal cord injury: Injured Spinal Cord Pressure Evaluation study</article-title>. 
+                    <source>J Neurosurg Spine</source>. 
+                    <year>2016</year>
+               <month>Sep</month>;
+                    <volume>25</volume>(
+                    <issue>3</issue>):
+                    <fpage>398</fpage>–
+                    <lpage>405</lpage>. 
+                    <pub-id pub-id-type="doi">10.3171/2016.1.SPINE151317</pub-id>
+                    <pub-id pub-id-type="pmid">27129044</pub-id>
+                    <issn>1547-5654</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b88">
+            <label>88. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Phang</surname>
+                     <given-names>I</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Werndle</surname>
+                     <given-names>MC</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Saadoun</surname>
+                     <given-names>S</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Varsos</surname>
+                     <given-names>G</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Czosnyka</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Zoumprouli</surname>
+                     <given-names>A</given-names>
+                  </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>Expansion duroplasty improves intraspinal pressure, spinal cord perfusion pressure, and vascular pressure reactivity index in patients with traumatic spinal cord injury: injured spinal cord pressure evaluation study</article-title>. 
+                    <source>J Neurotrauma</source>. 
+                    <year>2015</year>
+               <month>Jun</month>;
+                    <volume>32</volume>(
+                    <issue>12</issue>):
+                    <fpage>865</fpage>–
+                    <lpage>74</lpage>. 
+                    <pub-id pub-id-type="doi">10.1089/neu.2014.3668</pub-id>
+                <pub-id pub-id-type="pmid">25705999</pub-id>
+                <issn>0897-7151</issn>
+            </mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

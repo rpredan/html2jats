@@ -1,0 +1,1146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD with MathML3 v1.1 20151215//EN" "JATS-journalpublishing1-mathml3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink"
+         dtd-version="1.1"
+         xml:lang="sl"
+         article-type="other">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher-id">Zdrav Vestn</journal-id>
+         <journal-id journal-id-type="nlm-ta">Zdrav Vestn</journal-id>
+         <journal-id journal-id-type="doi">Zdrav Vestn</journal-id>
+         <journal-title-group>
+            <journal-title>Zdravniški vestnik</journal-title>
+            <trans-title-group xml:lang="en">
+               <trans-title>Slovenian Medical Journal</trans-title>
+            </trans-title-group>
+            <abbrev-journal-title>Zdrav Vestn</abbrev-journal-title>
+         </journal-title-group>
+         <issn publication-format="ppub" pub-type="ppub">1318-0347</issn>
+         <issn publication-format="epub" pub-type="epub">1581-0224</issn>
+         <issn-l>0350-0063</issn-l>
+         <publisher>
+            <publisher-name xml:lang="sl">Slovensko zdravniško društvo</publisher-name>
+            <publisher-name xml:lang="en">Slovenian Medical Association</publisher-name>
+            <publisher-loc xml:lang="sl">Ljubljana, Slovenia</publisher-loc>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.6016/ZdravVestn.2901</article-id>
+         <article-id pub-id-type="publisher-id">2901</article-id>
+         <article-categories>
+            <subj-group subj-group-type="discipline" xml:lang="en">
+               <subject>Medicine and health sciences</subject>
+               <subj-group>
+                  <subject>Metabolic and hormonal disorders</subject>
+               </subj-group>
+            </subj-group>
+            <subj-group subj-group-type="discipline" xml:lang="sl">
+               <subject>Medicina/Zdravstvo</subject>
+               <subj-group>
+                  <subject>Metabolne in hormonske motnje</subject>
+               </subj-group>
+            </subj-group>
+            <subj-group subj-group-type="article-type" xml:lang="en">
+               <subject>Professional article</subject>
+            </subj-group>
+            <subj-group subj-group-type="article-type" xml:lang="sl">
+               <subject>Strokovni članek</subject>
+            </subj-group>
+            <subj-group subj-group-type="heading" xml:lang="sl">
+               <subject>Metabolne in hormonske motnje</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title xml:lang="sl">Opredelitev stopnje nujnosti pri napotitvi tirološkega bolnika k specialistu</article-title>
+            <trans-title-group>
+               <trans-title xml:lang="en">Definition of urgency levels at the referral of a thyroid patient to a specialist</trans-title>
+            </trans-title-group>
+            <alt-title alt-title-type="running-head" xml:lang="sl">Opredelitev stopnje nujnosti pri napotitvi tirološkega bolnika k specialistu</alt-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Gaberšček</surname>
+                  <given-names>Simona</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1">1</xref>
+               <xref ref-type="aff" rid="aff2">2</xref>
+               <xref ref-type="corresp" rid="corr"/>
+            </contrib>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Bajuk Studen</surname>
+                  <given-names>Katica</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1">1</xref>
+            </contrib>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Bedernjak Bajuk</surname>
+                  <given-names>Nataša</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1">1</xref>
+            </contrib>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Glogovšek</surname>
+                  <given-names>Martin</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff3">3</xref>
+            </contrib>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Jugovac</surname>
+                  <given-names>Nives</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff4">4</xref>
+            </contrib>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Krković</surname>
+                  <given-names>Danijela</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff3">3</xref>
+            </contrib>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Mir</surname>
+                  <given-names>Mojca</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff5">5</xref>
+            </contrib>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Pirnat</surname>
+                  <given-names>Edvard</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1">1</xref>
+            </contrib>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Svilar</surname>
+                  <given-names>Rajko</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff5">5</xref>
+            </contrib>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Zaletel</surname>
+                  <given-names>Katja</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1">1</xref>
+            </contrib>
+         </contrib-group>
+         <aff-alternatives id="aff1">
+            <aff xml:lang="sl">
+               <label>1</label>
+               <institution>Klinika za nuklearno medicino, Univerzitetni klinični center Ljubljana, Ljubljana, Slovenija</institution>
+            </aff>
+            <aff xml:lang="en">
+               <label>1</label>
+               <institution>Department of Nuclear Medicine, University Medical Centre Ljubljana, Ljubljana, Slovenia</institution>
+            </aff>
+         </aff-alternatives>
+         <aff-alternatives id="aff2">
+            <aff xml:lang="sl">
+               <label>2</label>
+               <institution>Medicinska fakulteta, Univerza v Ljubljani, Ljubljana, Slovenija</institution>
+            </aff>
+            <aff xml:lang="en">
+               <label>2</label>
+               <institution>Faculty of Medicine, University of Ljubljana, Ljubljana, Slovenia</institution>
+            </aff>
+         </aff-alternatives>
+         <aff-alternatives id="aff3">
+            <aff xml:lang="sl">
+               <label>3</label>
+               <institution>Oddelek za nuklearno medicino, Univerzitetni klinični center Maribor, Maribor, Slovenija</institution>
+            </aff>
+            <aff xml:lang="en">
+               <label>3</label>
+               <institution>Department of Nuclear Medicine, University Medical Centre Maribor, Maribor, Slovenia</institution>
+            </aff>
+         </aff-alternatives>
+         <aff-alternatives id="aff4">
+            <aff xml:lang="sl">
+               <label>4</label>
+               <institution>Oddelek medicinskih služb, Dejavnost nuklearne medicine, Splošna bolnišnica Izola, Izola, Slovenija</institution>
+            </aff>
+            <aff xml:lang="en">
+               <label>4</label>
+               <institution>Division of Medical Services, Nuclear Medicine Unit, Izola General Hospital, Izola, Slovenia</institution>
+            </aff>
+         </aff-alternatives>
+         <aff-alternatives id="aff5">
+            <aff xml:lang="sl">
+               <label>5</label>
+               <institution>Oddelek za endokrinologijo in nuklearno medicino, Splošna bolnišnica dr. Franca Derganca, Nova Gorica, Nova Gorica, Slovenija</institution>
+            </aff>
+            <aff xml:lang="en">
+               <label>5</label>
+               <institution>Department of endocrinology and nuclear medicine, General Hospital dr. Franc Derganc, Nova Gorica, Nova Gorica, Slovenia</institution>
+            </aff>
+         </aff-alternatives>
+         <author-notes>
+            <fn fn-type="conflict" xml:lang="en">
+               <p>The authors have declared that no competing interests exist.</p>
+            </fn>
+            <fn fn-type="conflict" xml:lang="sl">
+               <p>Avtorji so izjavili, da ne obstajajo nobeni konkurenčni interesi.</p>
+            </fn>
+            <corresp id="corr">Simona Gaberšček, e-mail: <email xlink:type="simple"/>
+            </corresp>
+         </author-notes>
+         <pub-date pub-type="ppub">
+            <month>12</month>
+            <year>2019</year>
+         </pub-date>
+         <pub-date pub-type="epub">
+            <month>12</month>
+            <year>2019</year>
+         </pub-date>
+         <volume>88</volume>
+         <issue>11–12</issue>
+         <fpage>607</fpage>
+         <lpage>15</lpage>
+         <history>
+            <date date-type="received">
+               <day>26</day>
+               <month>11</month>
+               <year>2018</year>
+            </date>
+            <date date-type="accepted">
+               <day>25</day>
+               <month>4</month>
+               <year>2019</year>
+            </date>
+         </history>
+         <permissions>
+            <copyright-statement xml:lang="en">Copyright © 2019, Slovenian Medical Association (SZD)</copyright-statement>
+            <copyright-statement xml:lang="sl">© 2019, Slovensko zdravniško društvo (SZD)</copyright-statement>
+            <copyright-year>2019</copyright-year>
+            <copyright-holder xml:lang="en">Slovenian Medical Association (SZD)</copyright-holder>
+            <copyright-holder xml:lang="sl">Slovensko zdravniško društvo (SZD)</copyright-holder>
+            <license xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                     xlink:type="simple"
+                     xml:lang="en">
+               <license-p>This is an open access article distributed under the terms of the
+          <ext-link ext-link-type="uri"
+                            xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                            xlink:type="simple">Creative Commons Attribution-NonCommercial
+            License</ext-link>, which permits unrestricted use, distribution, and
+          reproduction in any medium, provided the original author and source are
+          credited and only for non-commercial purposes. </license-p>
+            </license>
+            <license xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                     xlink:type="simple"
+                     xml:lang="sl">
+               <license-p>To je članek z odprtim dostopom, ki ga lahko uporabite pod pogoji iz
+          <ext-link ext-link-type="uri"
+                            xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                            xlink:type="simple">Creative Commons Priznanje avtorstva-Nekomercialno
+            licence</ext-link>. ki dovoljuje distribucijo, predelavo ali
+          prilagoditev, ter gradijo na njem, v nekomercialne namene, z navedbo avtorja
+          in izvirnega dela.</license-p>
+            </license>
+         </permissions>
+         <abstract xml:lang="sl">
+            <title>Izvleček</title>
+            <p>Namen prispevka je razjasnitev dilem pri napotitvi bolnika s sumom na bolezen ščitnice k tirologu. Zaradi omejitev zdravstvenega sistema pomoč pri specialistu ni vedno dosegljiva takoj. Stopnje nujnosti, opredeljene v »Pravilniku o naročanju in upravljanju čakalnih seznamov ter najdaljših dopustnih čakalnih dobah«, naj bi omogočale bolnikom, da dobijo pomoč takrat, ko jo potrebujejo. Sistem <italic>eNaročanja</italic> z <italic>eNapotnico</italic> zahteva razvrščanje napotnic glede na stopnjo nujnosti. Menimo, da mora to zahtevno strokovno opravilo izvajati zdravnik specialist, ne pa drugo medicinsko osebje ali administrativni kader. Ustrezno razvrščanje napotnic je možno samo, če je informacij na napotnici dovolj, sicer jo je treba dopolniti. Stopnje nujnosti pri bolnikih z motnjo v delovanju ščitnice ne opredelimo samo na podlagi laboratorijskih izvidov, čeprav so ti zelo pomembni in morajo biti navedeni na napotnici. Pomagamo si tudi z drugimi informacijami o bolniku, kot so na primer starost, pridružene bolezni, zdravila, ki jih bolnik prejema, morebitna nosečnost ali postopek oploditve z biomedicinsko pomočjo. Pri bolniku s sumom na golšo oziroma nodus v ščitnici so zelo pomembne informacije o klinični oceni velikosti ščitnice, prisotnost morebitnih sumljivih bezgavk na vratu in izvidi opravljenih slikovnih preiskav. Čeprav so ščitnične bolezni zelo pogoste in ne morejo vsi bolniki dobiti pomoči specialista takoj, pa lahko pravilno izpolnjena ter natančno razvrščena <italic>eNapotnica</italic> zagotovi ustrezen rok obravnave večini bolnikov.</p>
+         </abstract>
+         <trans-abstract xml:lang="en">
+            <title>Abstract</title>
+            <p>The aim of our article is to clarify dilemmas occurring at the referral of patients with the suspicion of thyroid disorder to a thyroid specialist. Due to the limitations of health care system, not every patient may get help from the specialist immediately. Levels of urgency that are listed in the »Rules on the referral of patients, the management of waiting lists, and the maximum permissible waiting times« should enable patients to get help when it is needed. Within the eReferral system with the eReferral document, patients are classified according to the level of urgency. In our opinion, this demanding professional task should be performed by a relevant specialist and not by other medical staff or administrative workers. Only a sufficient amount of information stated in the eReferral document makes proper classification of patients possible. Otherwise, the eReferral document should be supplemented accordingly. In a patient with the suspicion of thyroid dysfunction, the level of urgency is not determined on the basis of laboratory results alone, although they are very important and should be referenced in the referral document. Other valuable items of information are patient’s age, accompanying diseases, any already prescribed medication, possible pregnancy or assisted reproductive technology procedures. In a patient with the suspicion of goiter or thyroid nodule, valuable information is the clinical estimation of thyroid size, the presence of suspicious neck lymph nodes, and the results of performed imaging examinations. Thyroid diseases are very frequent, and therefore not every patient can get help from the specialist immediately. However, correctly filled as well as accurately classified eReferral documents may provide an adequate treatment appointment for the majority of patients.</p>
+         </trans-abstract>
+         <kwd-group xml:lang="sl">
+            <kwd>hipertiroza</kwd>
+            <kwd>hipotiroza</kwd>
+            <kwd>boleča ščitnica</kwd>
+            <kwd>nodus v ščitnici</kwd>
+            <kwd>nosečnost</kwd>
+         </kwd-group>
+         <kwd-group xml:lang="en">
+            <kwd>hyperthyroidism</kwd>
+            <kwd>hypothyroidism</kwd>
+            <kwd>painful thyroid gland</kwd>
+            <kwd>thyroid nodule</kwd>
+            <kwd>pregnancy</kwd>
+         </kwd-group>
+      </article-meta>
+   </front>
+   <body>
+      <sec id="s1" sec-type="Uvod">
+         <label>1</label>
+         <title>Uvod</title>
+         <p>V zadnjih desetletjih je napredek znanja na vseh področjih medicine skokovit. Velika količina informacij zahteva specializacije za posamezna področja. V tem kompleksnem sistemu se izbrani zdravniki družinske medicine trudijo svojim bolnikom zagotoviti ustrezno pomoč takrat, ko jo potrebujejo. Del tega procesa je tudi napotitev k drugim specialistom, ki pa zaradi omejitev zdravstvenega sistema niso vedno dosegljivi takoj. V prispevku želimo razjasniti dileme, ki se lahko pojavijo pri napotitvi bolnika s sumom na bolezen ščitnice k specialistu interne ali nuklearne medicine, ki se ukvarja z boleznimi ščitnice (v nadaljevanju tirolog).</p>
+         <sec id="s1.1" sec-type="Priprava napotnice">
+            <label>1.1</label>
+            <title>Priprava napotnice</title>
+            <p>V Republiki Sloveniji je bilo v letu 2017 uvedemo <italic>eNaročanje</italic> z <italic>eNapotnico</italic>. V začetku leta 2018 je bil sprejet nov <italic>»Pravilnik o naročanju</italic>
+               <italic> in upravljanju čakalnih seznamov ter najdaljših dopustnih čakalnih dobah«</italic> (<xref ref-type="bibr" rid="b1">1</xref>), ki poleg doslej veljavnih stopenj nujnosti obravnave − nujno (obravnava pri specialistu v 24 urah po izstavitvi napotnice), hitro (do 3 mesece), redno (do 6 mesecev po izstavitvi napotnice) − uvaja še kategorijo zelo hitro (obravnava v 14 dneh). Osnovni pogoj za ustrezno razvrščanje bolnikov v čakalne sezname je ustrezno izpolnjena <italic>eNapotnica</italic>. Vsebovati mora pravilno vrsto zdravstvene storitve (VZS), pooblastila za obravnavo pri specialistu, stopnjo nujnosti, delovno diagnozo oziroma natančno definiran klinični problem. Zelo koristni so podatki o pridruženih boleznih, zlasti srčno-žilnih, onkoloških, drugih avtoimunskih, o metaboličnih motnjah, o morebitni nosečnosti, poporodnem obdobju, postopkih oploditve z biomedicinsko pomočjo. Potrebno je navesti pomembne ugotovitve kliničnega pregleda, zlasti klinično oceno velikosti ščitnice, morebitno prisotnost povečanih bezgavk na vratu in izvide opravljenih slikovnih preiskav. Pri sumu na moteno delovanje ščitnice je treba navesti laboratorijski izvid serumske koncentracije tirotropina (TSH), prostega tiroksina (pT<sub>4</sub>) in prostega trijodtironina (pT<sub>3</sub>). Zelo pomemben je podatek o zdravilih, ki jih bolnik že prejema, zlasti o zdravilih, ki vplivajo na velikost ali delovanje ščitnice (amiodaron, litij, sunitinib …), o zdravilih, ki lahko spremenijo klinično sliko (zaviralci receptorjev beta pri hipertirozi) in o zdravilih, ki zavirajo strjevanje krvi.</p>
+         </sec>
+         <sec id="s1.2" sec-type="Razvrščanje napotnic">
+            <label>1.2</label>
+            <title>Razvrščanje napotnic</title>
+            <p>Menimo, da razvrščanja napotnic glede na stopnjo nujnosti ne more opravljati drugo medicinsko osebje ali celo administrativni kader, ampak mora to zahtevno strokovno opravilo izvajati specialist, v tem primeru tirolog. Najprej mora tirolog ugotoviti, ali je informacij na napotnici dovolj, da lahko oceni predlagano stopnjo nujnosti. Če je napotnica pomanjkljivo ali neustrezno izpolnjena, jo lahko zavrne ali zahteva njeno dopolnitev. Če je podatkov na napotnici dovolj, pa lahko tirolog (upoštevaje navedene podatke in/ali triažni pregled bolnika) tudi spremeni stopnjo nujnosti. Pogosto se lahko šele po opravljenem specialističnem pregledu zanesljivo opredeli stopnja nujnosti.</p>
+            <p>V nadaljevanju bomo natančneje predstavili najpogostejše razloge za napotitev k tirologu in informacije, ki jih tirolog pri posameznih kliničnih stanjih potrebuje za določitev roka pregleda. Pri tem ne more vedno upoštevati administrativno določenih stopenj nujnosti.</p>
+         </sec>
+      </sec>
+      <sec id="s2" sec-type="Hipertiroza">
+         <label>2</label>
+         <title>Hipertiroza</title>
+         <sec id="s2.1" sec-type="Uvod">
+            <label>2.1</label>
+            <title>Uvod</title>
+            <p>Hipertiroza je sindrom, ki nastane zaradi zvečane serumske koncentracije prostih ščitničnih hormonov in odziva tkiv na njihovo delovanje (<xref ref-type="bibr" rid="b2">2</xref>). Najpogostejši bolezni, ki povzročata hipertirozo v našem okolju, sta bazedovka (avtoimunska hipertiroza) in avtonomno tkivo v ščitnici (<xref ref-type="bibr" rid="b3">3</xref>).</p>
+            <p>Hipertiroza pa je lahko tudi posledica čezmernega vnosa joda (amiodaron, rentgenska kontrastna sredstva, ki vsebujejo jod), lahko se pojavi v poteku Hashimotovega tiroiditisa, subakutnega tiroiditisa in poporodnega tiroiditisa. Zelo redko povzroči hipertirozo čezmerna koncentracija substanc, podobnih TSH, kot je humani horijev gonadotropin (<italic>angl.</italic>
+               <italic> </italic>human chorionic gonadotropin, hCG), katerega koncentracija je zvišana v začetnem obdobju nosečnosti, pa tudi pri bolnikih s horiokarcinomom ali teratomom. Iatrogena hipertiroza je posledica prevelikega odmerka levotiroksina (L-T4) pri bolnikih, zdravljenih zaradi hipotiroze. Redko je hipertiroza posledica adenoma hipofize, ki izloča TSH.</p>
+            <p>Klinična slika je odvisna od izraženosti, hitrosti nastanka in trajanja hipertiroze, od starosti bolnika, pridruženih bolezni in zdravil, ki jih prejema. Pri manifestni hipertirozi najdemo v laboratorijskih izvidih nizko ali popolnoma nemerljivo serumsko koncentracijo TSH, zvišano koncentracijo pT<sub>4</sub> in zvišano koncentracijo pT<sub>3</sub>. Izjema je TSH-adenom hipofize, pri katerem so zvišane tako vrednosti prostih ščitničnih hormonov kot TSH. Pri subklinični hipertirozi je vrednost TSH znižana, pT<sub>4</sub> in pT<sub>3</sub> pa sta v zgornjem območju normalnih vrednosti.</p>
+         </sec>
+         <sec id="s2.2" sec-type="Opredelitev stopnje nujnosti pri napotitvi">
+            <label>2.2</label>
+            <title>Opredelitev stopnje nujnosti pri napotitvi</title>
+            <p>Hipertiroza − tako manifestna kot subklinična − poveča tveganje za pojav motenj srčnega ritma in umrljivost ter bistveno poslabša zdravstveno stanje bolnika (<xref ref-type="bibr" rid="b4">4</xref>). Pravočasno prepoznavanje in zdravljenje bolezni, ki povzročajo hipertirozo, je zato nujno za ohranjanje zdravja. Za ustrezno opredelitev stopnje nujnosti pri bolniku s sumom na hipertirozo je treba določiti serumsko koncentracijo TSH, pT<sub>4</sub> in pT<sub>3</sub> in te vrednosti navesti na <italic>eNapotnici</italic>.</p>
+            <p>Naše strokovno stališče je, da mora bolnik opraviti pregled pri tirologu:</p>
+            <list>
+               <list-item>
+                  <label>•</label>
+                  <p>pri klinično izraženi (manifestni) hipertirozi (TSH popolnoma zavrt, zvišana pT<sub>4</sub> in pT<sub>3</sub>) isti dan ali najkasneje nekaj dni po izstavitvi napotnice;</p>
+               </list-item>
+               <list-item>
+                  <label>•</label>
+                  <p>pri subklinični (latentni) hipertirozi (TSH &lt; 0,1 mE/l, normalna pT<sub>4</sub> in pT<sub>3</sub>, upoštevaje ostale dejavnike oz. pridružene bolezni) najkasneje dva tedna po izstavitvi napotnice;</p>
+               </list-item>
+               <list-item>
+                  <label>•</label>
+                  <p>pri subklinični (latentni) hipertirozi (TSH &gt; 0,1 mE/l, normalna pT<sub>4</sub> in pT<sub>3</sub>, upoštevaje ostale dejavnike oz. pridružene bolezni) do tri mesece po izstavitvi napotnice.</p>
+               </list-item>
+            </list>
+         </sec>
+      </sec>
+      <sec id="s3" sec-type="Hipotiroza">
+         <label>3</label>
+         <title>Hipotiroza</title>
+         <sec id="s3.1" sec-type="Uvod">
+            <label>3.1</label>
+            <title>Uvod</title>
+            <p>Prevalenca hipotiroze je visoka, med 4 % in 9,5 %, pogostejša je pri ženskah in s starostjo narašča (<xref ref-type="bibr" rid="b5">5</xref>,<xref ref-type="bibr" rid="b6">6</xref>). Najpogostejši vzrok je Hashimotov tiroiditis, ki ga v Sloveniji na novo ugotovimo pri 3200−3400 prebivalcih letno, ob opredelitvi bolezni pa je približno 40 % bolnikov hipotirotičnih (<xref ref-type="bibr" rid="b3">3</xref>). Med pogostejše vzroke hipotiroze sodijo zdravljenje z radioaktivnim jodom, poporodni tiroiditis in tiroidektomija. Redkeje hipotirozo povzročijo čezmeren vnos joda, nekatera zdravila ali obsevanje območja vratu, zelo redki vzroki hipotiroze pa so sekundarna hipotiroza, kongenitalna hipotiroza ali hipotiroza zaradi pomanjkanja joda, ki je v našem okolju lahko odraz uživanja presne neslane prehrane (<xref ref-type="bibr" rid="b7">7</xref>).</p>
+            <p>Pri diagnostični opredelitvi suma na hipotirozo ima ključno vlogo laboratorijska meritev koncentracije ščitničnih hormonov. Kakovostna interpretacija laboratorijskega izvida lahko temelji le na dobrem poznavanju značilnosti in slabosti uporabljene laboratorijske metode. Na rezultat laboratorijske analize namreč vplivajo številni dejavniki, ki poleg morebitne ščitnične bolezni vključujejo nosečnost, pridružene bolezni, učinkovanje različnih zdravil, čas odvzema vzorca, prevoz vzorca, shranjevanje vzorca … Priporočeni čas odvzema krvi je med 10. in 16. uro, ko je koncentracija TSH najnižja in najbolj stabilna. Ob zgodnejši uri odvzema pa je lahko koncentracija TSH nad zgornjo referenčno mejo tudi pri posameznikih z zdravo ščitnico. Zdravila vplivajo na sintezo, učinkovanje in metabolizem ščitničnih hormonov, pa tudi na uravnavanje osi hipotalamus-hipofiza-ščitnica ter na avtoimunske mehanizme. Zdravila, ki lahko spremenijo rezultate laboratorijske analize ščitničnih hormonov ali povzročijo ščitnično bolezen, so amiodaron, glukokortikoidi, biološka zdravila, propranolol, antidepresivi, litij, sulpirid, spironolakton, diuretiki, metformin in druga (<xref ref-type="bibr" rid="b8">8</xref>).</p>
+            <p>O subklinični ali latentni hipotirozi govorimo, kadar je koncentracija TSH zvišana ob normalni koncentraciji prostih ščitničnih hormonov. Pri klinični ali manifestni hipotirozi je koncentracija TSH zvišana ob znižani koncentraciji prostih ščitničnih hormonov. Za sekundarno hipotirozo pa je značilna znižana koncentracija prostih ščitničnih hormonov ob znižani ali nizko normalni koncentraciji TSH. Simptomi in znaki hipotiroze so običajno nespecifični, zato jih težko prepoznamo.</p>
+         </sec>
+         <sec id="s3.2" sec-type="Opredelitev stopnje nujnosti pri napotitvi">
+            <label>3.2</label>
+            <title>Opredelitev stopnje nujnosti pri napotitvi</title>
+            <p>Hipotiroza poveča tveganje za dislipidemijo, aterosklerozo, koronarno bolezen in druge žilne zaplete, izid neprepoznane in nezdravljene hipotiroze pa je lahko hipotirotična koma, ki ima več kot 50-odstotno smrtnost (<xref ref-type="bibr" rid="b7">7</xref>). Hipotiroza v nosečnosti lahko povzroči moten razvoj ploda in resne zaplete za zdravje matere, pri otroku pa je povezana z moteno rastjo in razvojem. Pri bolniku s sumom na hipotirozo je treba določiti serumsko koncentracijo TSH, pT<sub>4</sub> in pT<sub>3</sub>. Poleg teh vrednosti mora <italic>eNapotnica</italic> vsebovati še podatke o pridruženih boleznih in stanjih ter o zdravilih, ki jih bolnik prejema.</p>
+            <p>Naše strokovno stališče je, da mora bolnik opraviti pregled pri tirologu:</p>
+            <list>
+               <list-item>
+                  <label>•</label>
+                  <p>pri hipotirozi s TSH ≥ 20,0 mE/L najkasneje v 1 tednu oziroma nujno v primeru nosečnosti ali ob grozeči hipotirotični komi;</p>
+               </list-item>
+               <list-item>
+                  <label>•</label>
+                  <p>pri hipotirozi s TSH ≥ 10,0 mE/L in &lt; 20,0 mE/L najkasneje v 1 mesecu oziroma nujno v primeru nosečnosti;</p>
+               </list-item>
+               <list-item>
+                  <label>•</label>
+                  <p>pri hipotirozi s TSH &lt; 10,0 mE/l najkasneje v 6 mesecih, najkasneje v 3 mesecih ob prisotnosti pridruženih bolezni oziroma nujno v primeru nosečnosti.</p>
+               </list-item>
+            </list>
+         </sec>
+      </sec>
+      <sec id="s4" sec-type="Boleča ščitnica">
+         <label>4</label>
+         <title>Boleča ščitnica</title>
+         <sec id="s4.1" sec-type="Uvod">
+            <label>4.1</label>
+            <title>Uvod</title>
+            <p>Pri bolečinah na vratu moramo z natančno anamnezo, inspekcijo in palpacijo opredeliti mesto bolečnosti. Ščitnica se s požiranjem premika, zato lahko s kliničnim pregledom ugotovimo, ali je vzrok za bolečino v ščitnici ali v kakšni drugi strukturi na vratu. Najpogostejša vzroka za bolečo ščitnico sta subakutni tiroiditis in krvavitev v ščitnico (<xref ref-type="bibr" rid="b9">9</xref>). Redkejši vzroki so radiacijski tiroiditis, hitro rastoči karcinom ščitnice in akutni tiroiditis.</p>
+            <p>
+               <italic>Subakutni tiroiditis </italic>ponavadi poteka z bolečino na vratu in s povišano telesno temperaturo. Pojavi se lahko po virusni okužbi zgornjih dihal. Običajno je ščitnica boleča že na dotik, bolečina pa se poslabša ob požiranju, kašlju ali premikanju glave, izžareva v uho, spodnjo čeljust in se lahko seli po ščitnici. Bolečino lahko napačno pripišemo zobobolu, faringitisu ali otitisu. Ščitnica je lahko vidno povečana, na dotik trda in boleča, vratne bezgavke pa niso povečane. V laboratorijskih izvidih izstopa močno zvišana sedimentacija eritrocitov, levkociti so normalni ali blago zvišani, diferencialna krvna slika je normalna. Zaradi vnetja se iz poškodovanih ščitničnih foliklov v kri sproščajo uskladiščeni ščitnični hormoni, zato imajo lahko bolniki tudi hipertirozo, ki je ponavadi blaga (<xref ref-type="bibr" rid="b10">10</xref>).</p>
+            <p>
+               <italic>Pri krvavitvi v </italic>ščitnico<italic> </italic>pride ponavadi do nenadne bolečine v predelu ščitnice, bolniki pa lahko opazijo novonastalo oteklino. Po nekaj dnevih bolečina običajno izzveni. Laboratorijski izvidi so običajno v mejah normale. Na otip je oteklina čvrsta, zmerno boleča, premakljiva ob požiranju (<xref ref-type="bibr" rid="b9">9</xref>).</p>
+            <p>
+               <italic>Radiacijski tiroiditis </italic>nastopi nekaj dni po zdravljenju z radiojodom pri približno 10 % bolnikov. Ščitnica se zmerno poveča, bolniki navajajo blago bolečino in tiščanje v predelu ščitnice, laboratorijski izvidi so pri blažjih oblikah v mejah normale. Bolečina po nekaj dneh izzveni (<xref ref-type="bibr" rid="b9">9</xref>).</p>
+            <p>
+               <italic>Hitro rastoči ščitnični karcinom </italic>– ponavadi gre za anaplastični karcinom − je izredno redek in se običajno pojavi pri starejših od 50 let ter ima zelo slabo napoved izida. Raste zelo hitro, zato razteza ščitnično ovojnico in povzroča bolečine v predelu ščitnice. Na otip je ščitnica zelo trda (<xref ref-type="bibr" rid="b11">11</xref>).</p>
+            <p>
+               <italic>Akutni tiroiditis </italic>je bakterijsko vnetje ščitnice. Je zelo redka bolezen. Pogosteje se pojavlja pri otrocih z embriološkimi fistulami na vratu in pri imunokomprimitiranih bolnikih. Poteka z visoko telesno temperaturo, ščitnica je na dotik boleča, povečana, koža nad njo je pordela. Bolniki imajo levkocitozo s pomikom v levo ter povišano raven C-reaktivnega proteina (CRP) (<xref ref-type="bibr" rid="b9">9</xref>).</p>
+         </sec>
+         <sec id="s4.2" sec-type="Opredelitev stopnje nujnosti pri napotitvi">
+            <label>4.2</label>
+            <title>Opredelitev stopnje nujnosti pri napotitvi</title>
+            <p>Ko napotujemo k tirologu bolnika z bolečo ščitnico, mora <italic>eNapotnica</italic> poleg ostalih, že prej navedenih podatkov, vsebovati tudi informacijo o bolečini. Napotni zdravnik naj opiše klinični problem (simptome in znake), laboratorijske preiskave pa pred napotitvijo niso potrebne. Bolnika z bolečo ščitnico tirolog pregleda še isti dan, če je možno, sicer pa najkasneje v nekaj dneh.</p>
+         </sec>
+      </sec>
+      <sec id="s5" sec-type="Nodus v ščitnici">
+         <label>5</label>
+         <title>Nodus v ščitnici</title>
+         <sec id="s5.1" sec-type="Uvod">
+            <label>5.1</label>
+            <title>Uvod</title>
+            <p>Nodusi v ščitnici so omejene spremembe v ščitnici, ki jih z metodami slikovne diagnostike ločimo od priležnega ščitničnega tkiva. Incidentalomi so tisti nodusi v ščitnici, ki so bili slučajno ugotovljeni s slikovno diagnostiko, izvedeno v druge namene (<xref ref-type="bibr" rid="b12">12</xref>). Če je nodusov v ščitnici več, govorimo o nodozni golši.</p>
+            <p>Nodusi v ščitnici so pogosti, na avtopsijah jih npr. ugotavljajo pri 65 % populacije, pogosteje pri ženskah kot pri moških, s palpacijo pa jih ugotovimo pri 2–6 % ljudi (<xref ref-type="bibr" rid="b13">13</xref>). S sodobnimi slikovnimi preiskavami v zadnjih letih odkrivamo noduse v ščitnici vse bolj pogosto. Nodusi v ščitnici so pogosti, rak pa je redek. Približno 5–10 % nodusov je malignih. V Sloveniji odkrijemo letno približno 2.000 novih bolnikov z nodusi v ščitnici (<xref ref-type="bibr" rid="b14">14</xref>). Po podatkih Registra raka za Slovenijo je opazovana letna incidenčna stopnja raka ščitnice za obdobje 2006–2015 11,7 na 100.000 prebivalcev za ženske in 3,2 na 100.000 prebivalcev za moške. Letno odkrijemo v Sloveniji približno 200 novih bolnikov z rakom ščitnice (<xref ref-type="bibr" rid="b15">15</xref>).</p>
+            <p>Bolniki z nodusom v ščitnici lahko opazijo oteklino na vratu sami ali pa jo opazi nekdo drug. Včasih imajo občutek tujka ali tiščanja v vratu. Večji nodusi lahko zaradi pritiska na sapnik povzročijo dispnejo, občutek dušenja, kašelj ali celo stridor. Zelo velika golša lahko povzroči sindrom zgornje votle vene. Redko so bolniki hripavi zaradi pritiska na povratni živec grla.</p>
+            <p>Vse noduse v ščitnici, tudi incidentalome, mora diagnostično obravnavati tirolog.</p>
+         </sec>
+         <sec id="s5.2" sec-type="Opredelitev stopnje nujnosti pri napotitvi">
+            <label>5.2</label>
+            <title>Opredelitev stopnje nujnosti pri napotitvi</title>
+            <p>Pri bolniku z nodusom v ščitnici naj <italic>eNapotnica</italic> poleg podatkov, navedenih v odstavku »Priprava napotnice«, vsebuje še naslednje informacije:</p>
+            <list>
+               <list-item>
+                  <label>•</label>
+                  <p>koliko časa je nodus v ščitnici znan;</p>
+               </list-item>
+               <list-item>
+                  <label>•</label>
+                  <p>ali je bil nodus ugotovljen na otip/ultrazvočno/z drugo metodo;</p>
+               </list-item>
+               <list-item>
+                  <label>•</label>
+                  <p>oceno velikosti nodusa in morebitnih bezgavk na vratu (na otip/ultrazvočno/z drugo metodo);</p>
+               </list-item>
+               <list-item>
+                  <label>•</label>
+                  <p>oceno hitrosti rasti nodusa;</p>
+               </list-item>
+               <list-item>
+                  <label>•</label>
+                  <p>simptome in znake, ki jih nodus povzroča;</p>
+               </list-item>
+               <list-item>
+                  <label>•</label>
+                  <p>serumsko koncentracijo TSH (če je na voljo, ni pa obvezna).</p>
+               </list-item>
+            </list>
+            <p>Takojšnjo obravnavo potrebuje bolnik, ki mu nodus povzroča dihalno stisko oziroma stridor. Optimalna obravnava takšnega bolnika poteka v urgentni ambulanti s sodelovanjem urgentnega zdravnika in tirologa.</p>
+            <p>Bolnik, ki ima zaradi nodusa bolečino v ščitnici, potrebuje obravnavo še isti dan, če je le možno, sicer pa v nekaj dneh po izstavitvi napotnice.</p>
+            <p>Pri sumu na raka v ščitnici (na otip ali ultrazvočno sumljiv nodus, hitro rastoč nodus, na otip ali ultrazvočno ugotovljene sumljive bezgavke na vratu, hripavost, povišana serumska raven kalcitonina, žariščno zvečana metabolna aktivnost v področju nodusa, ugotovljena s pozitronsko emisijsko tomografijo) mora biti bolnik obravnavan v 14 dneh.</p>
+            <p>Bolnik z na novo ugotovljenim nodusom v ščitnici, ki je &gt; 1 cm in nima sumljivih značilnosti ali bolnik z že znanim nodusom v ščitnici, ki je bil že opredeljen kot benigen, sedaj pa počasi raste, mora biti pregledan v treh mesecih.</p>
+            <p>Bolnik z incidentalomom v ščitnici velikosti &lt; 1 cm brez sumljivih značilnosti in z normalnim delovanjem ščitnice mora biti obravnavan v šestih mesecih.</p>
+         </sec>
+      </sec>
+      <sec id="s6" sec-type="Nosečnost">
+         <label>6</label>
+         <title>Nosečnost</title>
+         <sec id="s6.1" sec-type="Uvod">
+            <label>6.1</label>
+            <title>Uvod</title>
+            <p>Nosečnost predstavlja za ščitnico neke vrste obremenitveno testiranje. Sinteza ščitničnih hormonov se mora namreč povečati za 25−50 % zaradi 2,5-krat višje koncentracije transportne beljakovine globulina, ki veže tiroksin (<italic>angl.</italic>
+               <italic> </italic>thyroxine-binding globulin, TBG). Koncentracija TBG pa se poveča zaradi zvišane koncentracije estrogena. Delovanje ščitničnih celic med nosečnostjo dodatno stimulira hCG, ki je strukturno podoben TSH (<xref ref-type="bibr" rid="b16">16</xref>). V začetku nosečnosti je lahko zato koncentracija TSH nekoliko nižja in koncentracija pT<sub>4</sub> in/ali pT<sub>3</sub> nekoliko višja kot pri nenoseči populaciji. Navišjo vrednost doseže hCG v 10. tednu nosečnosti, nato pa prične upadati. Padcu koncentracije hCG sledi porast koncentracije TSH. Večina strokovnjakov se strinja, da bi bilo zaželeno za nosečnost uporabljati laboratoriju lastne in za trimesečje specifične normalne vrednosti za TSH ter ščitnične hormone. Če teh vrednosti ni na voljo, priporočajo med 7. in 12. tednom nosečnosti znižati spodnjo mejo TSH za 0,4 mE/L, zgornjo mejo pa za 0,5 mE/L (<xref ref-type="bibr" rid="b17">17</xref>). Normalna raven ščitničnih hormonov pri materi je zelo pomembna za razvoj ploda, zlasti v prvi polovici nosečnosti, ko plodova ščitnica še ne tvori hormonov (<xref ref-type="bibr" rid="b18">18</xref>). Ustrezen vnos joda pa postane bolj pomemben v drugi polovici nosečnosti, ko prične delovati plodova ščitnica. Nosečnice z zdravo ščitnico morajo biti zato predvsem pozorne na primeren vnos joda, kar dosežejo z uporabo ustrezno jodirane soli.</p>
+         </sec>
+         <sec id="s6.2" sec-type="Opredelitev stopnje nujnosti pri napotitvi">
+            <label>6.2</label>
+            <title>Opredelitev stopnje nujnosti pri napotitvi</title>
+            <p>Ko napotujemo k tirologu nosečnico s sumom na bolezen ščitnice, mora <italic>eNapotnica</italic> poleg ostalih, že prej navedenih podatkov, vsebovati tudi informacijo o nosečnosti. Tirolog bo nosečnico pregledal še isti dan, če je možno, sicer pa najkasneje v nekaj dneh (<xref ref-type="table" rid="table1">Tabela 1</xref>).</p>
+            <table-wrap position="anchor" id="table1">
+               <label>Tabela 1:</label>
+               <caption>
+                  <p> Opredelitev stopnje nujnosti pri napotitvi k tirologu.</p>
+               </caption>
+               <table>
+                  <colgroup>
+                     <col/>
+                     <col/>
+                  </colgroup>
+                  <thead>
+                     <tr>
+                        <th>Stopnja nujnosti</th>
+                        <th>Bolezensko stanje</th>
+                     </tr>
+                  </thead>
+                  <tbody>
+                     <tr>
+                        <td>
+                           <p>Nujno</p>
+                           <p>(v 24 urah ali nekaj dneh)</p>
+                        </td>
+                        <td>
+                           <list>
+                              <list-item>
+                                 <label>•</label>
+                                 <p>Manifestna hipertiroza (zavrt TSH, zvišana pT<sub>4</sub> in pT<sub>3</sub>).</p>
+                              </list-item>
+                           </list>
+                        </td>
+                     </tr>
+                     <tr>
+                        <td>
+                           <p>Zelo hitro</p>
+                           <p>(v 14 dneh)</p>
+                        </td>
+                        <td>
+                           <list>
+                              <list-item>
+                                 <label>•</label>
+                                 <p>Subklinična hipertiroza (TSH &lt; 0,1 mE/l, normalna pT<sub>4</sub> in pT<sub>3</sub>, upoštevaje ostale dejavnike oz. pridružene bolezni).</p>
+                              </list-item>
+                           </list>
+                        </td>
+                     </tr>
+                     <tr>
+                        <td>
+                           <p>Hitro</p>
+                           <p>(v roku 3 mesecev)</p>
+                        </td>
+                        <td>
+                           <list>
+                              <list-item>
+                                 <label>•</label>
+                                 <p>Subklinična hipertiroza (TSH &gt; 0,1 mE/l, normalna pT<sub>4</sub> in pT<sub>3</sub>, upoštevaje ostale dejavnike oz. pridružene bolezni).</p>
+                              </list-item>
+                           </list>
+                        </td>
+                     </tr>
+                     <tr>
+                        <td>
+                           <p>Redno</p>
+                           <p>(v roku 6 mesecev)</p>
+                        </td>
+                        <td>
+                           <list>
+                              <list-item>
+                                 <label>•</label>
+                                 <p>Subklinična hipotiroza (zvišan TSH, normalna pT<sub>4</sub> in pT<sub>3</sub>, brez ostalih dejavnikov oz. pridruženih bolezni).</p>
+                              </list-item>
+                           </list>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </table-wrap>
+            <p>Nosečnice s subklinično ali manifestno hipertirozo potrebujejo zaradi morebitnih škodljivih posledic hipertiroze na mater in otroka čimprejšnji pregled pri tirologu (isti dan ali najkasneje v nekaj dneh). Bolnice, ki so se že pred zanositvijo zdravile s tirostatikom zaradi hipertiroze v sklopu bazedovke, potrebujejo po potrditvi nosečnosti čimprejšnji pregled pri tirologu (najkasneje v nekaj dneh), ker je treba tirostatik zamenjati, pogosto pa celo ukiniti.</p>
+            <p>Nosečnice z manifestno hipotirozo potrebujejo zaradi morebitnih škodljivih posledic hipotiroze za mater in otroka čimprejšnji pregled pri tirologu (isti dan ali najkasneje v nekaj dneh). Nosečnice z diagnostično še neopredeljeno subklinično hipotirozo potrebujejo pregled pri tirologu v nekaj dneh.</p>
+            <p>Nosečnice z znanim evtirotičnim Hashimotovim tiroiditisom ali z znano že zdravljeno hipotirozo ne potrebujejo napotitve k tirologu, ampak meritev serumske koncentracije TSH pri izbranem zdravniku družinske medicine in po potrebi (če je koncentracija TSH zunaj območja, specifičnega za obdobje nosečnosti) telefonski posvet s tirologom. Izjema so nosečnice z zdravljeno hipotirozo po zdravljenju z radiojodom zaradi bazedovke, ki potrebujejo pregled pri tirologu v enem do dveh tednih zaradi preverjanja koncentracije protiteles proti receptorju za TSH (antiTSH-R). Redki so primeri, ko bolnice hipotirozo (večinoma samoiniciativno) zdravijo s kombinacijo L-T4 in liotironina (L-T3). Zdravljenje z L-T3 ni primerno za nosečnice (<xref ref-type="bibr" rid="b19">19</xref>), zato potrebujejo čimprejšnji pregled pri tirologu zaradi ureditve zdravljenja.</p>
+         </sec>
+      </sec>
+      <sec id="s7" sec-type="Zaključek">
+         <label>7</label>
+         <title>Zaključek</title>
+         <p>Bolezni ščitnice so pogoste, zdravstveni sistem pa ne omogoča, da bi vsi bolniki s sumom na bolezen ščitnice opravili pregled pri tirologu takoj. Izbrani zdravnik družinske medicine lahko s pravilnim izpolnjevanjem <italic>eNapotnice</italic>, tirolog pa z natančnim razvrščanjem <italic>eNapotnice</italic> zagotovita ustrezen rok obravnave večini bolnikov.</p>
+      </sec>
+   </body>
+   <back>
+      <ref-list>
+         <ref id="b1">
+            <mixed-citation publication-type="journal">
+                    <article-title>Pravilnik o naročanju in upravljanju čakalnih seznamov ter najdaljših dopustnih čakalnih dobah</article-title>. 
+                    <source>Uradni list RS</source>. 
+                    <year>2018</year>;(
+                    <issue>3</issue>): 
+                    <fpage>522</fpage>-
+                    <lpage>5</lpage>. 
+                    <date-in-citation content-type="access-date" iso-8601-date="2018-11-01">[cited 2018 Nov 01]</date-in-citation>
+                    <comment>Available from:<uri>http://www.pisrs.si/Pis.web/pregledPredpisa?id=PRAV13238</uri>
+               </comment>.
+                </mixed-citation>
+         </ref>
+         <ref id="b2">
+            <mixed-citation publication-type="book-chapter">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Gaberšček</surname>
+                     <given-names>S</given-names>
+                  </name>
+                    </person-group>. 
+                    <chapter-title>Ščitnica</chapter-title>. In: 
+                    <person-group person-group-type="editor">
+                        <name name-style="western">
+                     <surname>Košnik</surname>
+                     <given-names>M</given-names>
+                  </name>
+                    <role>ed</role> 
+                    </person-group>. 
+                    <source>Interna medicina</source>.
+                    <edition>5. izd</edition>.
+                    <publisher-loc>Ljubljana</publisher-loc>:
+                    <publisher-name>Medicinska fakulteta</publisher-name>:
+                    <publisher-name>Slovensko zdravniško društvo</publisher-name>: 
+                    <publisher-name>Buča</publisher-name>; 
+                    <year>2018</year>. pp. 
+                    <fpage>741</fpage>–
+                    <lpage>5</lpage>. 
+                </mixed-citation>
+         </ref>
+         <ref id="b3">
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Zaletel</surname>
+                     <given-names>K</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Gaberšček</surname>
+                     <given-names>S</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Pirnat</surname>
+                     <given-names>E</given-names>
+                  </name> 
+                    </person-group>. 
+                    <article-title>Ten-year follow-up of thyroid epidemiology in Slovenia after increase in salt iodization</article-title>. 
+                    <source>Croat Med J</source>. 
+                    <year>2011</year>
+                    <month>Oct</month>;
+                    <volume>52</volume>(
+                    <issue>5</issue>):
+                    <fpage>615</fpage>–
+                    <lpage>21</lpage>. 
+                    <pub-id pub-id-type="doi">10.3325/cmj.2011.52.615</pub-id>
+                    <pub-id pub-id-type="pmid">21990079</pub-id>
+                    <issn>0353-9504</issn> 
+                </mixed-citation>
+         </ref>
+         <ref id="b4">
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Collet</surname>
+                     <given-names>TH</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Gussekloo</surname>
+                     <given-names>J</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Bauer</surname>
+                     <given-names>DC</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>den Elzen</surname>
+                     <given-names>WP</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Cappola</surname>
+                     <given-names>AR</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Balmer</surname>
+                     <given-names>P</given-names>
+                  </name>, 
+                        <etal>et al</etal>.; 
+                        <collab>Thyroid Studies Collaboration</collab>
+                    </person-group>. 
+                    <article-title>Subclinical hyperthyroidism and the risk of coronary heart disease and mortality</article-title>. 
+                    <source>Arch Intern Med</source>. 
+                    <year>2012</year>
+                    <month>May</month>;
+                    <volume>172</volume>(
+                    <issue>10</issue>):
+                    <fpage>799</fpage>–
+                    <lpage>809</lpage>. 
+                    <pub-id pub-id-type="doi">10.1001/archinternmed.2012.402</pub-id>
+                    <pub-id pub-id-type="pmid">22529182</pub-id>
+                    <issn>0003-9926</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b5">
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Hollowell</surname>
+                     <given-names>JG</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Staehling</surname>
+                     <given-names>NW</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Flanders</surname>
+                     <given-names>WD</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Hannon</surname>
+                     <given-names>WH</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Gunter</surname>
+                     <given-names>EW</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Spencer</surname>
+                     <given-names>CA</given-names>
+                  </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>Serum TSH, T4 and thyroid antibodies in the United States population (1988 to 1994): National Health and Nutrition Examination Survey (NHANES III)</article-title>. 
+                    <source>J Clin Endocrinol Metab</source>. 
+                    <year>2002</year>
+                    <month>Feb</month>;
+                    <volume>87</volume>(
+                    <issue>2</issue>):
+                    <fpage>489</fpage>–
+                    <lpage>99</lpage>. 
+                    <pub-id pub-id-type="doi">10.1210/jcem.87.2.8182</pub-id>
+                    <pub-id pub-id-type="pmid">11836274</pub-id>
+                    <issn>0021-972X</issn> 
+                </mixed-citation>
+         </ref>
+         <ref id="b6">
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Canaris</surname>
+                     <given-names>GJ</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Manowitz</surname>
+                     <given-names>NR</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Mayor</surname>
+                     <given-names>G</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Ridgway</surname>
+                     <given-names>EC</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>The Colorado thyroid disease prevalence study</article-title>. 
+                    <source>Arch Intern Med</source>. 
+                    <year>2000</year>
+                    <month>Feb</month>;
+                    <volume>160</volume>(
+                    <issue>4</issue>):
+                    <fpage>526</fpage>–
+                    <lpage>34</lpage>. 
+                    <pub-id pub-id-type="doi">10.1001/archinte.160.4.526</pub-id>
+                    <pub-id pub-id-type="pmid">10695693</pub-id>
+                    <issn>0003-9926</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b7">
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Almandoz</surname>
+                     <given-names>JP</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Gharib</surname>
+                     <given-names>H</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Hypothyroidism: etiology, diagnosis, and management</article-title>. 
+                    <source>Med Clin North Am</source>. 
+                    <year>2012</year>
+                    <month>Mar</month>;
+                    <volume>96</volume>(
+                    <issue>2</issue>):
+                    <fpage>203</fpage>–
+                    <lpage>21</lpage>. 
+                    <pub-id pub-id-type="doi">10.1016/j.mcna.2012.01.005</pub-id>
+                    <pub-id pub-id-type="pmid">22443971</pub-id>
+                    <issn>0025-7125</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b8">
+            <mixed-citation publication-type="book-chapter">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Krhin</surname>
+                     <given-names>B</given-names>
+                  </name>
+                    </person-group>. 
+                    <chapter-title>Kakovostna laboratorijska diagnostika ščitničnih bolezni</chapter-title>. In: 
+                    <person-group person-group-type="editor">
+                        <name name-style="western">
+                     <surname>Gaberšček</surname>
+                     <given-names>K</given-names>
+                  </name>,
+                        <name name-style="western">
+                     <surname>Zaletel</surname>
+                     <given-names>K</given-names>
+                  </name>,
+                     <role>ur</role>.
+                    </person-group>
+                    <source>Bolezni ščitnice. Podiplomska šola za zdravnike</source>; 
+                    <conf-date>2017 May 12-13</conf-date>;
+                    <conf-loc>Logarska dolina, Slovenija</conf-loc>.
+                    <publisher-loc>Ljubljana</publisher-loc>:
+                    <publisher-name>Slovensko združenje za nuklearno medicino</publisher-name>;
+                    <year>2017</year>. pp. 
+                    <fpage>15</fpage>-
+                    <lpage>9</lpage>. 
+                </mixed-citation>
+         </ref>
+         <ref id="b9">
+            <mixed-citation publication-type="conf-proc">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Molnar Novak</surname>
+                     <given-names>H</given-names>
+                  </name>,
+                        <name name-style="western">
+                     <surname>Bajuk Studen</surname>
+                     <given-names>K</given-names>
+                  </name>
+                    </person-group>. 
+                    <chapter-title>Boleča ščitnica</chapter-title>. In: 
+                    <person-group person-group-type="editor">
+                        <name name-style="western">
+                     <surname>Gaberšček</surname>
+                     <given-names>K</given-names>
+                  </name>,
+                        <name name-style="western">
+                     <surname>Zaletel</surname>
+                     <given-names>K</given-names>
+                  </name>,
+                    </person-group>
+                    <role>ur</role>.
+                    <source>Bolezni ščitnice. Podiplomska šola za zdravnike</source>; 
+                    <conf-date>2017 May 12-13</conf-date>;
+                    <conf-loc>Logarska dolina, Slovenija</conf-loc>.
+                    <publisher-loc>Ljubljana</publisher-loc>:
+                    <publisher-name>Slovensko združenje za nuklearno medicino</publisher-name>;
+                    <year>2017</year>. pp. 
+                    <fpage>57</fpage>-
+                    <lpage>61</lpage>. 
+                </mixed-citation>
+         </ref>
+         <ref id="b10">
+            <mixed-citation publication-type="webpage">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Hennessey</surname>
+                     <given-names>JV</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Subacute thyroiditis</article-title>. In: 
+                    <person-group person-group-type="editor">
+                        <name name-style="western">
+                     <surname>De Groot</surname>
+                     <given-names>LJ</given-names>
+                  </name>,
+                        <name name-style="western">
+                     <surname>Chrousos</surname>
+                     <given-names>G</given-names>
+                  </name>,
+                        <name name-style="western">
+                     <surname>Dungan</surname>
+                     <given-names>K</given-names>
+                  </name>,
+                        <name name-style="western">
+                     <surname>Feingold</surname>
+                     <given-names>KR</given-names>
+                  </name>,
+                        <name name-style="western">
+                     <surname>Grossman</surname>
+                     <given-names>A</given-names>
+                  </name>,
+                        <name name-style="western">
+                     <surname>Hershman</surname>
+                     <given-names>JM</given-names>
+                  </name>,
+                        <etal>et. al.</etal>
+                    </person-group>
+                    <source>Endotext</source>.
+                    <publisher-loc>South Dartmouth (MA</publisher-loc>:
+                    <publisher-name>MDText.com, Inc.</publisher-name>;
+                    <year>2000-2015</year>. 
+                    <date-in-citation content-type="access-date" iso-8601-date="2018-11-01">[cited 2018 Nov 01]</date-in-citation>
+                    <comment>Available from: <uri>https://www.ncbi.nlm.nih.gov/books/NBK279084/</uri>
+               </comment>.
+                </mixed-citation>
+         </ref>
+         <ref id="b11">
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Slatosky</surname>
+                     <given-names>J</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Shipton</surname>
+                     <given-names>B</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Wahba</surname>
+                     <given-names>H</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Thyroiditis: differential diagnosis and management</article-title>. 
+                    <source>Am Fam Physician</source>. 
+                    <year>2000</year>
+                    <month>Feb</month>;
+                    <volume>61</volume>(
+                    <issue>4</issue>):
+                    <fpage>1047</fpage>–
+                    <lpage>52</lpage>.
+                    <pub-id pub-id-type="pmid">10706157</pub-id>
+                    <issn>0002-838X</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b12">
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Haugen</surname>
+                     <given-names>BR</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Alexander</surname>
+                     <given-names>EK</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Bible</surname>
+                     <given-names>KC</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Doherty</surname>
+                     <given-names>GM</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Mandel</surname>
+                     <given-names>SJ</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Nikiforov</surname>
+                     <given-names>YE</given-names>
+                  </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>2015 American Thyroid Association management guidelines for adult patients with thyroid nodules and differentiated thyroid vancer: The American Thyroid Association Guidelines Task Force on Thyroid Nodules and Differentiated Thyroid Cancer</article-title>. 
+                    <source>Thyroid</source>. 
+                    <year>2016</year>
+                    <month>Jan</month>;
+                    <volume>26</volume>(
+                    <issue>1</issue>):
+                    <fpage>1</fpage>–
+                    <lpage>133</lpage>. 
+                    <pub-id pub-id-type="doi">10.1089/thy.2015.0020</pub-id>
+                    <pub-id pub-id-type="pmid">26462967</pub-id>
+                    <issn>1050-7256</issn> 
+                </mixed-citation>
+         </ref>
+         <ref id="b13">
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Dean</surname>
+                     <given-names>DS</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Gharib</surname>
+                     <given-names>H</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Epidemiology of thyroid nodules</article-title>. 
+                    <source>Best Pract Res Clin Endocrinol Metab</source>. 
+                    <year>2008</year>
+                    <month>Dec</month>;
+                    <volume>22</volume>(
+                    <issue>6</issue>):
+                    <fpage>901</fpage>–
+                    <lpage>11</lpage>. 
+                    <pub-id pub-id-type="doi">10.1016/j.beem.2008.09.019</pub-id>
+                    <pub-id pub-id-type="pmid">19041821</pub-id>
+                    <issn>1521-690X</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b14">
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Gharib</surname>
+                     <given-names>H</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Papini</surname>
+                     <given-names>E</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Paschke</surname>
+                     <given-names>R</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Duick</surname>
+                     <given-names>DS</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Valcavi</surname>
+                     <given-names>R</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Hegedüs</surname>
+                     <given-names>L</given-names>
+                  </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>AACE(AME(ETA Task Force on Thyroid Nodules. American Association of Clinical Endocrinologists, Associazione Medici Endocrinologi, and European Thyroid Association medical guidelines for clinical practice for the diagnosis and management of thyroid nodules</article-title>. 
+                    <source>Endocr Pract</source>. 
+                    <year>2010</year>;
+                    <volume>16</volume>
+                    <supplement>Suppl 1</supplement>:
+                    <fpage>1</fpage>–
+                    <lpage>43</lpage>. 
+                    <pub-id pub-id-type="doi">10.4158/10024.GL</pub-id>
+                    <pub-id pub-id-type="pmid">20497938</pub-id>
+                    <issn>1530-891X</issn> 
+                </mixed-citation>
+         </ref>
+         <ref id="b15">
+            <mixed-citation publication-type="webpage">
+                    <person-group person-group-type="author">
+                        <collab>Cancer in Slovenia</collab>
+                    </person-group>. 
+                    <year>2014</year>. 
+                    <publisher-loc>Ljubljana</publisher-loc>:
+                    <publisher-name>Institute of Oncology Ljubljana, Epidemiology and Cancer Registry. Cancer Registry of Republic of Slovenia</publisher-name>;
+                    <year>2015</year>. 
+                    <date-in-citation content-type="access-date" iso-8601-date="2018-11-01">fcited 2018 Nov 01]</date-in-citation>.
+                    <comment>Available from:<uri>https://www.onko-i.si/fileadmin/onko/datoteke/dokumenti/RRS/LP_2015.pdf</uri>
+               </comment>.
+                </mixed-citation>
+         </ref>
+         <ref id="b16">
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Gaberšček</surname>
+                     <given-names>S</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Zaletel</surname>
+                     <given-names>K</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Thyroid physiology and autoimmunity in pregnancy and after delivery</article-title>. 
+                    <source>Expert Rev Clin Immunol</source>. 
+                    <year>2011</year>
+                    <month>Sep</month>;
+                    <volume>7</volume>(
+                    <issue>5</issue>):
+                    <fpage>697</fpage>–
+                    <lpage>706</lpage>. 
+                    <pub-id pub-id-type="doi">10.1586/eci.11.42</pub-id>
+                    <pub-id pub-id-type="pmid">21895480</pub-id>
+                    <issn>1744-666X</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b17">
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Alexander</surname>
+                     <given-names>EK</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Pearce</surname>
+                     <given-names>EN</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Brent</surname>
+                     <given-names>GA</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Brown</surname>
+                     <given-names>RS</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Chen</surname>
+                     <given-names>H</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Dosiou</surname>
+                     <given-names>C</given-names>
+                  </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>2017 guidelines of the American Thyroid Association for the diagnosis and management of thyroid disease during pregnancy and the postpartum</article-title>. 
+                    <source>Thyroid</source>. 
+                    <year>2017</year>
+                    <month>Mar</month>;
+                    <volume>27</volume>(
+                    <issue>3</issue>):
+                    <fpage>315</fpage>–
+                    <lpage>89</lpage>. 
+                    <pub-id pub-id-type="doi">10.1089/thy.2016.0457</pub-id>
+                    <pub-id pub-id-type="pmid">28056690</pub-id>
+                    <issn>1050-7256</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b18">
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Lazarus</surname>
+                     <given-names>J</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Brown</surname>
+                     <given-names>RS</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Daumerie</surname>
+                     <given-names>C</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Hubalewska-Dydejczyk</surname>
+                     <given-names>A</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Negro</surname>
+                     <given-names>R</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Vaidya</surname>
+                     <given-names>B</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>2014 European thyroid association guidelines for the management of subclinical hypothyroidism in pregnancy and in children</article-title>. 
+                    <source>Eur Thyroid J</source>. 
+                    <year>2014</year>
+                    <month>Jun</month>;
+                    <volume>3</volume>(
+                    <issue>2</issue>):
+                    <fpage>76</fpage>–
+                    <lpage>94</lpage>. 
+                    <pub-id pub-id-type="doi">10.1159/000362597</pub-id>
+                    <pub-id pub-id-type="pmid">25114871</pub-id>
+                    <issn>2235-0640</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b19">
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Wiersinga</surname>
+                     <given-names>WM</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Duntas</surname>
+                     <given-names>L</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Fadeyev</surname>
+                     <given-names>V</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Nygaard</surname>
+                     <given-names>B</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Vanderpump</surname>
+                     <given-names>MP</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>2012 ETA guidelines: the use of L-T4 + L-T3 in the treatment of hypothyroidism</article-title>. 
+                    <source>Eur Thyroid J</source>. 
+                    <year>2012</year>
+                    <month>Jul</month>;
+                    <volume>1</volume>(
+                    <issue>2</issue>):
+                    <fpage>55</fpage>–
+                    <lpage>71</lpage>. 
+                    <pub-id pub-id-type="doi">10.1159/000339444</pub-id>
+                    <pub-id pub-id-type="pmid">24782999</pub-id>
+                    <issn>2235-0640</issn>
+                </mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

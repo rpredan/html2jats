@@ -1,0 +1,1794 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD with MathML3 v1.1 20151215//EN" "JATS-journalpublishing1-mathml3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink"
+         dtd-version="1.1"
+         xml:lang="sl"
+         article-type="other">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher-id">Zdrav Vestn</journal-id>
+         <journal-id journal-id-type="nlm-ta">Zdrav Vestn</journal-id>
+         <journal-id journal-id-type="doi">Zdrav Vestn</journal-id>
+         <journal-title-group>
+            <journal-title>Zdravniški vestnik</journal-title>
+            <trans-title-group xml:lang="en">
+               <trans-title>Slovenian Medical Journal</trans-title>
+            </trans-title-group>
+            <abbrev-journal-title>Zdrav Vestn</abbrev-journal-title>
+         </journal-title-group>
+         <issn publication-format="ppub" pub-type="ppub">1318-0347</issn>
+         <issn publication-format="epub" pub-type="epub">1581-0224</issn>
+         <issn-l>0350-0063</issn-l>
+         <publisher>
+            <publisher-name xml:lang="sl">Slovensko zdravniško društvo</publisher-name>
+            <publisher-name xml:lang="en">Slovenian Medical Association</publisher-name>
+            <publisher-loc xml:lang="sl">Ljubljana, Slovenia</publisher-loc>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.6016/ZdravVestn.2919</article-id>
+         <article-id pub-id-type="publisher-id">2919</article-id>
+         <article-categories>
+            <subj-group subj-group-type="discipline" xml:lang="en">
+               <subject>Medicine and health sciences</subject>
+               <subj-group>
+                  <subject>Human reproduction</subject>
+               </subj-group>
+            </subj-group>
+            <subj-group subj-group-type="discipline" xml:lang="sl">
+               <subject>Medicina/Zdravstvo</subject>
+               <subj-group>
+                  <subject>Reprodukcija človeka</subject>
+               </subj-group>
+            </subj-group>
+            <subj-group subj-group-type="article-type" xml:lang="en">
+               <subject>Review article</subject>
+            </subj-group>
+            <subj-group subj-group-type="article-type" xml:lang="sl">
+               <subject>Pregledni znanstveni članek</subject>
+            </subj-group>
+            <subj-group subj-group-type="heading" xml:lang="sl">
+               <subject>Reprodukcija človeka</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title xml:lang="sl">Dihalni premori zaradi nedonošenosti: vzroki, zdravljenje in preprečevanje, posledice ter genetska osnova</article-title>
+            <trans-title-group>
+               <trans-title xml:lang="en">Apnoea of prematurity: causes, treatment, prevention, consequences and genetic basis</trans-title>
+            </trans-title-group>
+            <alt-title alt-title-type="running-head" xml:lang="sl">Dihalni premori zaradi nedonošenosti</alt-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Bobik</surname>
+                  <given-names>Barbara</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1">1</xref>
+               <xref ref-type="corresp" rid="corr"/>
+            </contrib>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Grosek</surname>
+                  <given-names>Štefan</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff2">2</xref>
+               <xref ref-type="aff" rid="aff3">3</xref>
+               <xref ref-type="aff" rid="aff4">4</xref>
+            </contrib>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Kornhauser Cerar</surname>
+                  <given-names>Lilijana</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff2">2</xref>
+            </contrib>
+         </contrib-group>
+         <aff-alternatives id="aff1">
+            <aff xml:lang="sl">
+               <label>1</label>
+               <institution>Otroški oddelek, Splošna bolnišnica Celje, Celje, Slovenija</institution>
+            </aff>
+            <aff xml:lang="en">
+               <label>1</label>
+               <institution>Department of Paediatrics, General Hospital Celje, Celje, Slovenia</institution>
+            </aff>
+         </aff-alternatives>
+         <aff-alternatives id="aff2">
+            <aff xml:lang="sl">
+               <label>2</label>
+               <institution>Porodnišnica Ljubljana - Klinični oddelek za perinatologijo, Ginekološka klinika, Univerzitetni klinični center Ljubljana, Ljubljana, Slovenija</institution>
+            </aff>
+            <aff xml:lang="en">
+               <label>2</label>
+               <institution>Department of Perinatology, Division of Gynaecology, University Medical Centre Ljubljana, Ljubljana, Slovenia</institution>
+            </aff>
+         </aff-alternatives>
+         <aff-alternatives id="aff3">
+            <aff xml:lang="sl">
+               <label>3</label>
+               <institution>Klinični oddelek za intenzivno terapijo otrok, Kirurška klinika, Univerzitetni klinični center Ljubljana, Ljubljana, Slovenija</institution>
+            </aff>
+            <aff xml:lang="en">
+               <label>3</label>
+               <institution>Department of Paediatric Intensive Therapy, Division of Surgery, University Medical Centre Ljubljana, Ljubljana, Slovenia</institution>
+            </aff>
+         </aff-alternatives>
+         <aff-alternatives id="aff4">
+            <aff xml:lang="sl">
+               <label>4</label>
+               <institution>Katedra za pediatrijo, Medicinska fakulteta, Univerza v Ljubljani, Ljubljana, Slovenija</institution>
+            </aff>
+            <aff xml:lang="en">
+               <label>4</label>
+               <institution>Department of Pediatrics, Faculty of medicine, University of Ljubljana, Ljubljana, Slovenia</institution>
+            </aff>
+         </aff-alternatives>
+         <author-notes>
+            <fn fn-type="conflict" xml:lang="en">
+               <p>The authors have declared that no competing interests exist.</p>
+            </fn>
+            <fn fn-type="conflict" xml:lang="sl">
+               <p>Avtorji so izjavili, da ne obstajajo nobeni konkurenčni interesi.</p>
+            </fn>
+            <corresp id="corr">Barbara Bobik, e-mail: <email xlink:type="simple"/>
+            </corresp>
+         </author-notes>
+         <pub-date pub-type="ppub">
+            <month>2</month>
+            <year>2020</year>
+         </pub-date>
+         <pub-date pub-type="epub">
+            <month>2</month>
+            <year>2020</year>
+         </pub-date>
+         <volume>89</volume>
+         <issue>1–2</issue>
+         <fpage>39</fpage>
+         <lpage>54</lpage>
+         <history>
+            <date date-type="received">
+               <day>27</day>
+               <month>1</month>
+               <year>2019</year>
+            </date>
+            <date date-type="accepted">
+               <day>6</day>
+               <month>10</month>
+               <year>2019</year>
+            </date>
+         </history>
+         <permissions>
+            <copyright-statement xml:lang="en">Copyright © 2020, Slovenian Medical Association (SZD)</copyright-statement>
+            <copyright-statement xml:lang="sl">© 2020, Slovensko zdravniško društvo (SZD)</copyright-statement>
+            <copyright-year>2020</copyright-year>
+            <copyright-holder xml:lang="en">Slovenian Medical Association (SZD)</copyright-holder>
+            <copyright-holder xml:lang="sl">Slovensko zdravniško društvo (SZD)</copyright-holder>
+            <license xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                     xlink:type="simple"
+                     xml:lang="en">
+               <license-p>This is an open access article distributed under the terms of the
+          <ext-link ext-link-type="uri"
+                            xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                            xlink:type="simple">Creative Commons Attribution-NonCommercial
+            License</ext-link>, which permits unrestricted use, distribution, and
+          reproduction in any medium, provided the original author and source are
+          credited and only for non-commercial purposes. </license-p>
+            </license>
+            <license xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                     xlink:type="simple"
+                     xml:lang="sl">
+               <license-p>To je članek z odprtim dostopom, ki ga lahko uporabite pod pogoji iz
+          <ext-link ext-link-type="uri"
+                            xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                            xlink:type="simple">Creative Commons Priznanje avtorstva-Nekomercialno
+            licence</ext-link>. ki dovoljuje distribucijo, predelavo ali
+          prilagoditev, ter gradijo na njem, v nekomercialne namene, z navedbo avtorja
+          in izvirnega dela.</license-p>
+            </license>
+         </permissions>
+         <abstract xml:lang="sl">
+            <title>Izvleček</title>
+            <p>Dihalni premori (ali apnoične atake, pavze, apneje) zaradi nedonošenosti so ena najpogosteje postavljenih diagnoz v neonatalnih intenzivnih enotah. Dihalni premori so prehodne narave in nastanejo zaradi motnje v prilagoditvi dihalnega centra in dihal na zunajmaternično življenje ter nezrelosti receptorjev, ki zaznavajo delne tlake kisika in ogljikovega dioksida. Pomembno podaljšujejo trajanje hospitalizacije ter imajo lahko škodljive dolgoročne posledice.</p>
+            <p>V preglednem prispevku opredeljujemo dihalne premore zaradi nedonošenosti. Predstavljamo klasifikacijo, epidemiologijo, patofiziološko ozadje in nadzorovanje srčno-dihalnih funkcij nedonošenčkov. Opisujemo, kako postaviti diagnozo dihalnih premorov zaradi nedonošenosti, sekundarne vzroke apneje in diferencialnodiagnostične možnosti ter nekatera stanja, ki so povezana z dihalnimi premori zaradi nedonošenosti. Velik del prispevka je namenjen predstavitvi možnih terapevtskih ukrepov, med njimi tudi takih, ki še niso prodrli v splošno klinično prakso, saj so za potrditev njihove učinkovitosti potrebne nadaljnje raziskave. Sklepni del članka ponuja pregled raziskav, v katerih so proučevali genetsko podlago dihalnih premorov zaradi nedonošenosti in predstavitev njihovih rezultatov.</p>
+         </abstract>
+         <trans-abstract xml:lang="en">
+            <title>Abstract</title>
+            <p>Apnoea (or apnoeic attacks, pauses) of prematurity is one of the most common diagnoses in neonatal intensive care units. Apnoeic attacks are transient in nature and are caused by a disruption in the adaptation of the respiratory centre and respiratory system to extrauterine life and immaturity of the receptors that detect partial oxygen and carbon dioxide pressure. They significantly prolong the duration of hospitalisation and have potentially adverse long-term consequences.</p>
+            <p>In our review article, apnoeic attacks of prematurity are defined. We present the classification, epidemiology, pathophysiological background and cardiorespiratory monitoring of premature infants. We describe how to diagnose apnoea of prematurity, secondary causes of apnoea, and differential diagnostic options, as well as some conditions that are associated with apnoea of prematurity. A large part of the article is dedicated to presenting possible therapeutic measures, including those that have not yet been implemented in general clinical practice as further research is needed to confirm their efficacy. The final part of the article provides an overview of the research on the genetic basis of apnoea of prematurity, and the presentation of their results.</p>
+         </trans-abstract>
+         <kwd-group xml:lang="sl">
+            <kwd>nedonošenost</kwd>
+            <kwd>motnje dihanja</kwd>
+            <kwd>stalni pozitivni tlak v dihalnih poteh</kwd>
+            <kwd>kofein</kwd>
+            <kwd>genetska predispozicija</kwd>
+         </kwd-group>
+         <kwd-group xml:lang="en">
+            <kwd>premature</kwd>
+            <kwd>respiration disorders</kwd>
+            <kwd>continuous positive airway pressure</kwd>
+            <kwd>caffeine</kwd>
+            <kwd>genetic predisposition</kwd>
+         </kwd-group>
+      </article-meta>
+   </front>
+   <body>
+      <sec id="s1" sec-type="Uvod">
+         <label>1</label>
+         <title>Uvod</title>
+         <p>Dihalni premor ali apnoična ataka (pavza, apneja) zaradi nedonošenosti je stanje, ko novorojenček, ki se je rodil pred dopolnjenim 37. tednom nosečnosti, za 20 sekund ali dlje popolnoma preneha dihati (<xref ref-type="bibr" rid="b1">1</xref>-<xref ref-type="bibr" rid="b5">5</xref>). Pogosto ga spremljata desaturacija hemoglobina, ki jo definiramo kot upad nasičenosti arterijske krvi s kisikom (SpO<sub>2</sub>) na 80 % ali manj za najmanj štiri sekunde, in bradikardija, ki jo opredeljujemo kot upad srčne frekvence pod 100 utripov na minuto za najmanj štiri sekunde (<xref ref-type="bibr" rid="b1">1</xref>-<xref ref-type="bibr" rid="b3">3</xref>).</p>
+      </sec>
+      <sec id="s2" sec-type="Klasifikacija">
+         <label>2</label>
+         <title>Klasifikacija</title>
+         <p>Tradicionalno lahko dihalne premore (apnejo) delimo na tri oblike, in sicer ločimo centralno, obstruktivno in mešano (<xref ref-type="bibr" rid="b1">1</xref>-<xref ref-type="bibr" rid="b7">7</xref>). Ta delitev temelji na podatku, ali odsotno gibanje ali tok zraka skozi zgornja dihala spremlja dihalni napor ali ne (<xref ref-type="bibr" rid="b7">7</xref>). Pri centralni obliki sta odsotna tako gibanje zraka kot dihalni napor. Za obstruktivno apnejo pa je značilna odsotnost gibanja zraka kljub dihalnemu naporu (<xref ref-type="bibr" rid="b2">2</xref>-<xref ref-type="bibr" rid="b7">7</xref>). Obstrukcija je navadno kombinacija pasivnega kolapsa žrela in bodisi pasivnega bodisi aktivnega zaprtja grla (<xref ref-type="bibr" rid="b3">3</xref>). Pri mešani obliki, po kratki obstruktivni epizodi apneje, sledi centralna apneja ali obratno, da najprej nastopi centralna faza apneje, ki ji sledi obstruktivna faza apneje (<xref ref-type="bibr" rid="b2">2</xref>-<xref ref-type="bibr" rid="b7">7</xref>). Prevladujoča je mešana oblika, ki predstavlja 50–75 % vseh dihalnih premorov zaradi nedonošenosti. Centralna in obstruktivna oblika predstavljata vsaka po 10–25 % vseh dogodkov (<xref ref-type="bibr" rid="b1">1</xref>,<xref ref-type="bibr" rid="b3">3</xref>) (<fig position="float" id="fig1">
+               <label>Slika 1:</label>
+               <caption>
+                  <p> Prikaz centralne, obstruktivne in mešane apneje (prirejeno po Ruben E. Alvarado) (<xref ref-type="bibr" rid="b15">15</xref>).</p>
+               </caption>
+               <p>
+                  <graphic xlink:href="2919-web-resources/image/zdravvestn-2919-sl-01.png"/>
+               </p>
+            </fig>
+            <xref ref-type="fig" rid="fig1">Slika 1</xref>).</p>
+      </sec>
+      <sec id="s3" sec-type="Epidemiologija">
+         <label>3</label>
+         <title>Epidemiologija</title>
+         <p>Incidenca dihalnih premorov (apnej) zaradi nedonošenosti je obratnosorazmerna z gestacijsko starostjo in porodno težo (<xref ref-type="bibr" rid="b1">1</xref>-<xref ref-type="bibr" rid="b3">3</xref>,<xref ref-type="bibr" rid="b5">5</xref>). V literaturi navajajo, da se apneja zaradi nedonošenosti pojavi pri 7 % novorojenčkov, rojenih z dopolnjenimi 34 oz. 35 tedni gestacije, pri 15 % tistih, ki se rodijo z dopolnjenimi 32 oz. 33 tedni gestacije, pri že več kot 50 % tistih, ki se rodijo z dopolnjenimi 30 oz. 31 tedni gestacije, in pri skoraj vseh, ki so rojeni pred dopolnjenim 29. tednom. Dihalne premore zaradi nedonošenosti utrpi več kot polovica novorojenčkov z zelo majhno porodno težo (manj kot 1500 g) in kar 90 % tistih, ki se rodijo s skrajno majhno porodno težo (manj kot 1000 g) (<xref ref-type="bibr" rid="b1">1</xref>,<xref ref-type="bibr" rid="b3">3</xref>).</p>
+      </sec>
+      <sec id="s4" sec-type="Patofiziologija">
+         <label>4</label>
+         <title>Patofiziologija</title>
+         <p>Številne raziskave razvoja nadzora dihanja pri poskusnih živalih in ljudeh (nedonošenčkih) so nam olajšale razumevanje dihalnih premorov zaradi nedonošenosti (<xref ref-type="bibr" rid="b1">1</xref>,<xref ref-type="bibr" rid="b2">2</xref>,<xref ref-type="bibr" rid="b4">4</xref>). Kot to razumemo danes, gre v osnovi za razvojno fiziološko in anatomsko motnjo dihalnega sistema (<xref ref-type="bibr" rid="b1">1</xref>-<xref ref-type="bibr" rid="b3">3</xref>,<xref ref-type="bibr" rid="b6">6</xref>,<xref ref-type="bibr" rid="b7">7</xref>). Anatomsko se motnja kaže kot manjše število sinaptičnih povezav ter slabša dendritična razvejitev in aksonska mielinizacija (<xref ref-type="bibr" rid="b1">1</xref>,<xref ref-type="bibr" rid="b3">3</xref>,<xref ref-type="bibr" rid="b4">4</xref>,<xref ref-type="bibr" rid="b8">8</xref>). Fiziološko se motnja kaže v obliki nezrelega nadzora dihanja in nezrele dihalne funkcije nedonošenčkov (<xref ref-type="bibr" rid="b9">9</xref>).</p>
+         <sec id="s4.1"
+              sec-type="Centralni kemoreceptorji in oslabljeni dihalni odziv na hiperkapnijo">
+            <label>4.1</label>
+            <title>Centralni kemoreceptorji in oslabljeni dihalni odziv na hiperkapnijo</title>
+            <p>Ob porastu delnega tlaka ogljikovega dioksida v krvi odrasli, otroci in donošeni novorojenčki hitreje in globlje dihajo (<italic>hiperkapnični</italic>
+               <italic> respiracijski odziv</italic>), medtem ko se nedonošenčki odzovejo zgolj z daljšim izdihom, kar pomeni manjšo minutno predihanost (<xref ref-type="bibr" rid="b1">1</xref>,<xref ref-type="bibr" rid="b3">3</xref>,<xref ref-type="bibr" rid="b4">4</xref>,<xref ref-type="bibr" rid="b6">6</xref>). <italic>Hiperkapnični respiracijski odziv</italic> primarno posredujejo centralni kemoreceptorji za CO<sub>2</sub>. Naklon krivulje na sliki, ki prikazuje meritve minutne predihanosti v odvisnosti od delnega tlaka ogljikovega dioksida (PaCO<sub>2</sub>), je pri novorojenčkih z apnejo pomaknjen v desno, kar pomeni, da je pri enaki ravni PaCO<sub>2</sub> minutna predihanost novorojenčkov z apnejami nižja v primerjavi s predihanostjo pri njihovih sovrstnikih brez apneje. Med njimi pa ni razlik v pljučni mehaniki, kar kaže na to, da so opažena odstopanja centralnega izvora (<xref ref-type="bibr" rid="b4">4</xref>).</p>
+            <p>Prav tako je pri nedonošenčkih pražna vrednost CO<sub>2</sub> za apnejo blizu osnovni vrednosti delnega tlaka ogljikovega dioksida (PaCO<sub>2</sub>) v nasprotju z odraslimi, pri katerih je pražna vrednost precej pod osnovno. Zato že blaga hiperventilacija privede do padca PaCO<sub>2 </sub>in dihalnega premora (<xref ref-type="bibr" rid="b1">1</xref>,<xref ref-type="bibr" rid="b4">4</xref>).</p>
+            <p>Dodatno lahko pri nedonošenčkih hipoksija zaradi zmanjšane presnove in zato manjše tvorbe ogljikovega dioksida še bolj približa pražno in osnovno vrednost in privede do dihalnega premora (<xref ref-type="bibr" rid="b1">1</xref>,<xref ref-type="bibr" rid="b4">4</xref>).</p>
+         </sec>
+         <sec id="s4.2"
+              sec-type="Periferni kemoreceptorji in oslabljeni dihalni odziv na hipoksijo">
+            <label>4.2</label>
+            <title>Periferni kemoreceptorji in oslabljeni dihalni odziv na hipoksijo</title>
+            <p>Pred rojstvom so periferni kemoreceptorji, katerih glavni predstavnik je karotidno telesce, aktivni zgolj pri zelo nizkih vrednostih kisika. Takoj po rojstvu se aktivnost zmanjša (fiziološka denervacija) zaradi nenadnega porasta delnega tlaka kisika (PaO<sub>2</sub>) z vrednosti, ki so nižje od 30 mm Hg (4 kPa), na 50–70 mm Hg (6,7–9,4 kPa) in več. Po rojstvu se morajo periferni kemoreceptorji tako ponastaviti na višje delne tlake kisika. Od takrat dalje delujejo kemoreceptorji pri vrednostih PaO<sub>2</sub> 50–70 mm Hg (6,7–9,4 kPa). Novorojenčki lahko prenehajo dihati zato, ker kisik v njihovem vdihanem zraku pomembno poraste, saj to povzroči fiziološko denervacijo perifernih kemoreceptorjev (<xref ref-type="bibr" rid="b1">1</xref>,<xref ref-type="bibr" rid="b4">4</xref>,<xref ref-type="bibr" rid="b9">9</xref>,<xref ref-type="bibr" rid="b10">10</xref>).</p>
+            <p>Ob hipoksiji se pri odraslih poveča predihanje (hitrejše in globlje dihanje). Ključno vlogo pri tem imajo NMDA (N-metil-D-aspartat) glutamatni receptorji v nucleusu tractusa solitarii (<xref ref-type="bibr" rid="b4">4</xref>). Za razliko od odraslih kažejo nedonošenčki dvostopenjski (dvofazni) dihalni odziv. Najprej za približno 1–2 minuti ventilacija naraste, saj se povečata frekvenca dihanja in dihalni volumen, temu pa sledi poznejše vztrajno pojemanje dihanja (<italic>hipoksična ventilacijska depresija). </italic>Dvofazni dihalni odziv vztraja tudi 4–6 tednov (<xref ref-type="bibr" rid="b1">1</xref>,<xref ref-type="bibr" rid="b3">3</xref>,<xref ref-type="bibr" rid="b4">4</xref>).</p>
+         </sec>
+         <sec id="s4.3"
+              sec-type="Aferentni signali iz dihalnih poti in poudarjen inhibicijski odziv">
+            <label>4.3</label>
+            <title>Aferentni signali iz dihalnih poti in poudarjen inhibicijski odziv</title>
+            <p>Aferentni senzorični signali iz zgornjih dihalnih poti lahko spremenijo motoriko dihanja (<xref ref-type="bibr" rid="b4">4</xref>). Kemoreceptorji v grlu, ki jih oživčujejo vlakna zgornjega grlnega živca, so v sluznici interaritenoidnega prostora na vhodu v grlo. Stimulacija teh receptorjev sproži t. i. <italic>grlni kemorefleks</italic>. V osnovi je to zaščitni refleks, ki ščiti dihalno pot pred aspiracijo. Pri odraslih njegovo aktiviranje sproži kašelj, pri nedonošenčkih pa ob pretiranem odzivu privede do apneje, bradikardije in celo kardiovaskularnega kolapsa (<xref ref-type="bibr" rid="b1">1</xref>,<xref ref-type="bibr" rid="b4">4</xref>,<xref ref-type="bibr" rid="b11">11</xref>-<xref ref-type="bibr" rid="b13">13</xref>).</p>
+            <p>Aferentni senzorični signali, ki izvirajo iz zgornjih in spodnjih dihalnih poti (pljučnih in grlnih receptorjev), se združujejo v nevronih nucleusa tractusa solitarii in zaviralno učinkujejo na motorične nevrone freničnega živca. Nekatera grlna (laringealna) vlakna tvorijo monosinaptične povezave z vlakni vagusa za srčno mišico, kar lahko razloži sočasni pojav apneje in bradikardije med draženjem aferentnih živčnih končičev v grlu. Številni raziskovalci so z ugotovitvami, da lahko pri traheostomiranih živalih sprožimo apnejo z dovajanjem negativnega tlaka, zračnega pretoka v izolirano zgornjo dihalno pot ali tekočine v grlo, pokazali, da aferentni dotok informacij iz grla v možgansko deblo močno prispeva k zaviranju dihanja. Njegova vloga pri spontanem pojavu dihalnih premorov zaradi nedonošenosti pa še ni pojasnjena (<xref ref-type="bibr" rid="b4">4</xref>,<xref ref-type="bibr" rid="b11">11</xref>-<xref ref-type="bibr" rid="b13">13</xref>).</p>
+            <p>Primarni vir aferentnih signalov iz spodnjih dihalnih poti je deseti možganski živec <italic>(n. vagus).</italic> Njegova <italic>nemielinizirana</italic> vlakna C predstavljajo več kot 90 % respiracijskih aferentnih vlaken iz pljuč in so vpletena v bronhokonstrikcijski in bradikardni odziv, ki je povezan z apnejo ali s hitrim in plitvim dihanjem (<xref ref-type="bibr" rid="b4">4</xref>).</p>
+            <p>
+               <italic>Mielinizirana</italic> aferentna vlakna vagusnega živca so dveh tipov: počasna in hitra. Prva so v gladkih mišicah in posredujejo Hering-Breuerjev refleks na inflacijo (napihnjenost) pljuč (<xref ref-type="bibr" rid="b14">14</xref>). Druga skupina vlaken je razvejana v traheobronhialnem epitelu in posreduje kašelj, refleksno bronhokonstrikcijo in hitro ter plitvo dihanje. V raziskavah so le redki nedonošenčki dosledno kazali enak odziv, kot je pri odraslih osebah. Pri večini nedonošenčkov se je dihanje upočasnilo ali pa se je pojavila apneja (<xref ref-type="bibr" rid="b4">4</xref>).</p>
+            <p>Pri novorojenčkih številnih živalskih vrst, tudi pri človeku, lahko apnejo sprožijo dražeče snovi, dišave in voda, ki zalije obraz ali nos. Ta refleksni pojav apneje posreduje trovejni možganski živec <italic>(n. trigeminus)</italic> in je značilno povezan z bradikardijo in zaprtjem grla. Potrebne so še nadaljnje raziskave, ki bi pojasnile, ali pri refleksu sodelujejo termoreceptorji za mraz ali mehanoreceptorji (<xref ref-type="bibr" rid="b4">4</xref>).</p>
+         </sec>
+         <sec id="s4.4" sec-type="Nevrotransmiterji in apneja">
+            <label>4.4</label>
+            <title>Nevrotransmiterji in apneja</title>
+            <p>Ena od značilnosti dihalnega sistema pri nedonošenčkih je tudi povečana občutljivost za zaviralne nevroprenašalce, med katerimi sta najbolj raziskana gama aminomaslena kislina (GABA) in adenozin. GABA je glavni zaviralni nevroprenašalec v osrednjem živčnem sistemu. Pri poskusih na prašičkih so se gabanergični nevroni aktivirali med hiperkapnijo. Zavora receptorjev GABA<sub>A</sub> je med hiperkapnijo preprečila ventilacijsko depresijo in povečala frekvenco dihanja (<xref ref-type="bibr" rid="b1">1</xref>).</p>
+            <p>Adenozin je produkt ATP in nastaja kot rezultat presnovne in živčne aktivnosti možganov. Med hipoksijo se še posebej izrazito tvori. Nedavno so poročali, da prihaja pri reguliranju dihanja do medsebojnega delovanja med adenozinom in GABA. Odkritje, da se adenozinski receptorji izražajo v nevronih, ki vsebujejo GABA, je možnosti, da obstaja povezava med njima, še povečalo. Vezava adenozina na njegov receptor bi lahko prispevala k sproščanju GABA in s tem k zavori dihanja, kar privede do apneje (<xref ref-type="bibr" rid="b1">1</xref>).</p>
+         </sec>
+         <sec id="s4.5" sec-type="Podajnost prsnega koša">
+            <label>4.5</label>
+            <title>Podajnost prsnega koša</title>
+            <p>Zaradi manjše mineralizacije je pri novorojenčkih in izrazito pri nedonošenčkih stena prsnega koša mehka in zelo podajna (<xref ref-type="bibr" rid="b7">7</xref>). Zaradi tega je obseg premika trebušne prepone med vdihom večji. To povečuje dihalno delo, prispeva k utrujenosti prepone in pojavu dihalnih premorov (<xref ref-type="bibr" rid="b3">3</xref>).</p>
+         </sec>
+         <sec id="s4.6" sec-type="Hranjenje">
+            <label>4.6</label>
+            <title>Hranjenje</title>
+            <p>Dihalni premori zaradi nedonošenosti so pogostejši med hranjenjem in takoj po njem zaradi nezrele koordinacije dihanja, sesanja in požiranja, draženja grlnega refleksa, utrujenosti trebušne prepone in meteorizma črevesja. Slednji zmanjša pljučno prostornino in povečuje dihalno delo (<xref ref-type="bibr" rid="b3">3</xref>).</p>
+         </sec>
+         <sec id="s4.7" sec-type="Spanje">
+            <label>4.7</label>
+            <title>Spanje</title>
+            <p>Faze spanja močno vplivajo na dihanje. To je med aktivnim spanjem tipično neredno, med mirnim spanjem pa je lahko redno ali neredno. Mišice žrela izgubijo fazno in tonično aktivnost, kar naredi zgornje dihalne poti izjemno dovzetne za sesedanje, zlasti pri nedonošenčkih, in med vdihom, ko na zgornjo dihalno pot delujejo sile podtlaka. Celotno delo dihalnega sistema se med spanjem zmanjša, kar se kaže v manjšem naklonu krivulje dihalnega odziva na CO<sub>2</sub>. Nedonošenčki preživijo velik delež svojega časa v fazi spanja REM (<italic>angl</italic>
+               <italic>.</italic> rapid eye movement), med katero so dihalni premori tudi najpogostejši zaradi aktivacije gabanergičnih in utišanja serotonergičnih nevronov. V tej fazi izrazito upade frekvenca dihanja in s tem predihanost, pojavlja se več paradoksnega dihanja z manj stabilno osnovno vrednostjo SpO<sub>2</sub>. Prebuditev iz faze spanja REM je najverjetneje predhodnik apneje, saj se ob njej pri nedonošenčkih pojavita desaturiranost hemoglobina s kisikom in motorična aktivnost z zaprtjem grla. Tako prebuditev nedonošenčka iz spanja apnejo prej povzroči kot konča (<xref ref-type="bibr" rid="b1">1</xref>,<xref ref-type="bibr" rid="b3">3</xref>,<xref ref-type="bibr" rid="b4">4</xref>).</p>
+         </sec>
+      </sec>
+      <sec id="s5" sec-type="Nadzor vitalnih funkcij">
+         <label>5</label>
+         <title>Nadzor vitalnih funkcij</title>
+         <p>Vse novorojenčke, ki se rodijo pred dopolnjenim 34. tednom nosečnosti, je treba nadzorovati vsaj v prvem tednu življenja oz. vsaj še sedem dni po pojavu zadnjega dihalnega premora. V neonatalni intenzivni enoti pri večini novorojenčkov neprekinjeno monitoriramo frekvenci srca in dihanja ter zasičenost s kisikom neinvazivno preko kože s pulznim oksimetrom (<xref ref-type="bibr" rid="b2">2</xref>).</p>
+         <p>Uporabljamo tudi druge naprave za monitoriranje dihalnih premorov, kot so senzorji gibanja, denimo zračna blazina, senzorične blazinice in kapsula z občutljivostjo na pritisk. Ti senzorji zaznavajo premike prsnega koša ali trebušne stene kot dihanje (<xref ref-type="bibr" rid="b2">2</xref>,<xref ref-type="bibr" rid="b4">4</xref>,<xref ref-type="bibr" rid="b5">5</xref>).</p>
+         <p>Za spremljanje dihalnih premorov lahko uporabljamo tudi monitorje, ki zaznavajo spremembe v impedanci oz. upornosti prsnega koša med dihanjem. Pri respiracijski induktivni pletizmografiji premike prsnega koša in trebuha med dihanjem zaznavajo abdominalno-torakalni trakovi ali Grasebyjeva kapsula. Vse te naprave so nezanesljive zaradi motenj, ki se pojavijo pri premikih telesa in srčni aktivnosti ter ne morejo zaznati obstruktivne oblike apneje (<xref ref-type="bibr" rid="b2">2</xref>,<xref ref-type="bibr" rid="b4">4</xref>,<xref ref-type="bibr" rid="b5">5</xref>).</p>
+         <p>Trenutno je uporaba pulznega oksimetra pri zaznavanju dihalnih premorov zaradi nedonošenosti, s spremljajočimi bradikardijami in desaturacijami, najzanesljivejša metoda (<xref ref-type="bibr" rid="b2">2</xref>,<xref ref-type="bibr" rid="b4">4</xref>,<xref ref-type="bibr" rid="b5">5</xref>).</p>
+      </sec>
+      <sec id="s6" sec-type="Diagnoza in etiologija">
+         <label>6</label>
+         <title>Diagnoza in etiologija</title>
+         <p>Diagnoza apneje zaradi nedonošenosti je vselej izključitvena in jo lahko postavimo šele, ko smo izključili vse možne sekundarne vzroke apneje (<xref ref-type="bibr" rid="b3">3</xref>,<xref ref-type="bibr" rid="b5">5</xref>).</p>
+         <sec id="s6.1" sec-type="Sekundarni vzroki">
+            <label>6.1</label>
+            <title>Sekundarni vzroki</title>
+            <p>Pogostejši sekundarni vzroki apneje pri nedonošenčkih so prikazani v <table-wrap position="float" id="table1">
+                  <label>Tabela 1:</label>
+                  <caption>
+                     <p> Pregled pogostejših sekundarnih vzrokov apneje pri nedonošenčkih (<xref ref-type="bibr" rid="b1">1</xref>,<xref ref-type="bibr" rid="b3">3</xref>,<xref ref-type="bibr" rid="b5">5</xref>).</p>
+                  </caption>
+                  <table>
+                     <colgroup>
+                        <col/>
+                        <col/>
+                     </colgroup>
+                     <tbody>
+                        <tr>
+                           <td>Infekcijski:</td>
+                           <td>bakterijska sepsa (zgodnja, pozna), pljučnica, meningitis, lokalne okužbe (npr. uroinfekti), invazivna glivična okužba, virusi (RSV).</td>
+                        </tr>
+                        <tr>
+                           <td>Respiracijski:</td>
+                           <td>prirojene malformacije zgornjih dihalnih poti (sekvenca Pierre-Robin), nosna obstrukcija, paraliza glasilk, zapora sapnika zaradi čezmerne fleksije vratu, dihalna stiska novorojenčka, pljučna krvavitev, pnevmotoraks, hipoksemija, hiperkapnija, bronhopulmonalna displazija.</td>
+                        </tr>
+                        <tr>
+                           <td>Kardiovaskularni:</td>
+                           <td>odprt Botallov vod, prirojene srčne napake s cianozo, kongestivna odpoved srca, povečan vagotonus, obsežna hipovolemija, hipo- ali hipertenzija.</td>
+                        </tr>
+                        <tr>
+                           <td>Nevrološki:</td>
+                           <td>hipoksično-ishemična encefalopatija, znotrajprekatna in znotrajlobanjska krvavitev, stanja, ki zvišujejo znotrajlobanjski tlak, kongenitalne mio- in nevropatije, prirojeni centralni hipoventilacijski sindrom, malformacije osrednjega živčnega sistema (Arnold-Chiarijeva malformacija, sindrom Dandy-Walker), krči, bolečina, prenos opioidov prek posteljice, magnezijev sulfat, splošni anestetiki.</td>
+                        </tr>
+                        <tr>
+                           <td>Metabolni:</td>
+                           <td>prirojene presnovne bolezni (hipotiroza), acidoza, hipoglikemija, hipokalciemija, hipo- in hipernatriemija, hipermagneziemija, hipo- in hipertermija.</td>
+                        </tr>
+                        <tr>
+                           <td>Gastrointestinalni:</td>
+                           <td>nekrotizirajoči enterokolitis, gastroezofagealni refluks, abdominalna distenzija.</td>
+                        </tr>
+                        <tr>
+                           <td>Hematološki:</td>
+                           <td>huda anemija.</td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table-wrap-foot>
+                     <p>Legenda: RSV – respiratorni sincicijski virus.</p>
+                  </table-wrap-foot>
+               </table-wrap>
+               <xref ref-type="table" rid="table1">Tabeli 1</xref>.</p>
+         </sec>
+         <sec id="s6.2"
+              sec-type="Vzroki dihalnih premorov glede na starost pojavljanja">
+            <label>6.2</label>
+            <title>Vzroki dihalnih premorov glede na starost pojavljanja</title>
+            <p>Vzrok dihalnih premorov lahko precej zanesljivo ugotovimo glede na starost, pri kateri se premori pojavijo. Razjasnitev vzroka je potrebna zaradi izbire ustreznega terapevtskega pristopa (<xref ref-type="bibr" rid="b16">16</xref>) (<table-wrap position="float" id="table2">
+                  <label>Tabela 2:</label>
+                  <caption>
+                     <p> Vzroki dihalnih premorov glede na starost pojavljanja (<xref ref-type="bibr" rid="b16">16</xref>).</p>
+                  </caption>
+                  <table>
+                     <colgroup>
+                        <col/>
+                        <col/>
+                     </colgroup>
+                     <thead>
+                        <tr>
+                           <th>Starost, pri kateri se dihalni premori pojavijo</th>
+                           <th>Vzroki dihalnih premorov</th>
+                        </tr>
+                     </thead>
+                     <tbody>
+                        <tr>
+                           <td>Nekaj ur</td>
+                           <td>sediranje matere, asfiksija, krči, hipermagneziemija, dihalna stiska novorojenčka</td>
+                        </tr>
+                        <tr>
+                           <td>Prvi teden</td>
+                           <td>atelektaze po ekstubiranju, odprt Botallov vod, ob- ali znotrajprekatne krvavitve, nedonošenost</td>
+                        </tr>
+                        <tr>
+                           <td>Po prvem tednu</td>
+                           <td>pohemoragični hidrocefalus s povečanim znotrajlobanjskim tlakom, neonatalni krči</td>
+                        </tr>
+                        <tr>
+                           <td>Med 6. in 10. tednom</td>
+                           <td>anemija</td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </table-wrap>
+               <xref ref-type="table" rid="table2">Tabela 2</xref>).</p>
+         </sec>
+      </sec>
+      <sec id="s7" sec-type="Diferencialna diagnoza">
+         <label>7</label>
+         <title>Diferencialna diagnoza</title>
+         <sec id="s7.1" sec-type="Periodično dihanje">
+            <label>7.1</label>
+            <title>Periodično dihanje</title>
+            <p>Periodično dihanje lahko pri novorojenčku potrdimo, ko ugotovimo vsaj tri dihalne premore, ki trajajo dlje od treh sekund, med njimi pa potekajo normalni dihalni intervali, ki niso daljši od 20 sekund. Ob tem pa ne zasledimo spremembe srčne frekvence in barve telesa. Periodično dihanje je normalen pojav, ki odslikava nezrelost dihalnega sistema pri novorojenčkih in ne zahteva zdravljenja. Nasprotno je apneja zaradi nedonošenosti prenehanje dihanja, ki povzroči hemodinamske motnje in zato terja ustrezno obravnavo (<xref ref-type="bibr" rid="b4">4</xref>,<xref ref-type="bibr" rid="b5">5</xref>,<xref ref-type="bibr" rid="b17">17</xref>).</p>
+         </sec>
+         <sec id="s7.2" sec-type="Neonatalni krči">
+            <label>7.2</label>
+            <title>Neonatalni krči</title>
+            <p>Apneja ni prav pogost klinični simptom pri krčih nedonošenčkov, se pa pri njih vseeno lahko pojavi. Takrat govorimo o t. i. prikritih napadih, ki so pogostejši pri nedonošenčkih. Kažejo se z mežikanjem, slinjenjem, žvečenjem, zastrmitvijo, gibi v obliki pedaliranja oz. kolesarjenja, avtonomnimi napadi in spremembami v vazomotornem odzivanju, med katere poleg pogosteje opaženih tahipneje, tahi- ali bradikardije, uvrščamo tudi apnejo (<xref ref-type="bibr" rid="b5">5</xref>,<xref ref-type="bibr" rid="b18">18</xref>).</p>
+         </sec>
+      </sec>
+      <sec id="s8"
+           sec-type="Stanja, povezana z dihalnimi premori zaradi nedonošenosti">
+         <label>8</label>
+         <title>Stanja, povezana z dihalnimi premori zaradi nedonošenosti</title>
+         <sec id="s8.1" sec-type="Nenadna nepričakovana smrt dojenčka (NNSD)">
+            <label>8.1</label>
+            <title>Nenadna nepričakovana smrt dojenčka (NNSD)</title>
+            <p>Nenadna nepričakovana smrt dojenčka ali s kratico NNSD (<italic>angl.</italic> sudden infant death syndrome, SIDS) se nanaša na smrt otroka, mlajšega od enega leta, ki nastopi med spanjem in ostane nepojasnjena kljub natančni obdukciji, preiskavi okoliščin smrti in pregledu klinične zgodovine (<xref ref-type="bibr" rid="b3">3</xref>). Raziskave so v preteklosti sicer kazale na vzročno povezanost obeh pojavov, toda nedavne raziskave so pokazale, da je tveganje za NNSD pri nedonošenčkih v primerjavi z donošenčki kar trikrat višje, a so dejavniki tveganja za NNSD pri nedonošenčkih povezani s starostjo matere, kajenjem, meteorološkimi dejavniki in genetiko, ne pa z dihalnimi premori zaradi nedonošenosti (<xref ref-type="bibr" rid="b1">1</xref>). Raziskave so pokazale, da ima le 2–4 % bolnikov z NNSD v anamnezi apnejo zaradi nedonošenosti (<xref ref-type="bibr" rid="b5">5</xref>). Pomembno se je zavedati tudi, da sta pojava med seboj po času ločena. Dolgo časa trajajoče apneje namreč ne trajajo dlje kot do 43. tedna postkoncepcijske starosti, medtem ko se NNSD najpogosteje pojavi šele pri okoli 46 tednih (pri nedonošenčkih, ki so rojeni med 24. in 28. tednom gestacije) oz. 52 tednih (pri donošenih dojenčkih) postkoncepcijske starosti. Tako lahko rečemo, da apneja zaradi nedonošenosti ne napoveduje NNSD in ne zahteva neprekinjenega nadzora srčno-dihalnih funkcij na domu. Kardiorespiracijsko monitoriranje lahko po odpustu iz bolnišnice upravičeno predpišemo le nekaterim prezgodaj rojenim otrokom z nenavadno dolgimi ter ponavljajočimi se skrajnimi epizodami apneje, bradikardije in hipoksemije do prenehanja le-teh, kar je večinoma do dopolnjenega 43. tedna postkoncepcijske starosti (<xref ref-type="bibr" rid="b2">2</xref>,<xref ref-type="bibr" rid="b3">3</xref>).</p>
+         </sec>
+         <sec id="s8.2" sec-type="Anemija pri nedonošenčkih">
+            <label>8.2</label>
+            <title>Anemija pri nedonošenčkih</title>
+            <p>Anemija pri nedonošenčkih je pomembno vključena v patofiziologijo apneje zaradi nedonošenosti. Zmanjšana oksiforna kapaciteta krvi namreč privede do nizke tkivne oksigenacije oz. hipoksije, na katero se prezgodaj rojeni novorojenčki paradoksno odzovejo s t. i. <italic>hipoksično ventilacijsko depresijo</italic> (<xref ref-type="bibr" rid="b3">3</xref>). Stališča o uporabi transfuzij eritrocitov pri anemičnih nedonošenčkih z apnejo so si kljub temu nasprotujoča. Raziskave so pokazale, da se po prejetju transfuzije eritrocitov kratkoročno statistično značilno sicer zmanjša število apnej, saj je bila verjetnost za pojav apneje v 12 urah po prejeti transfuziji odvisna od vrednosti hematokrita, a še vedno nimamo dokazov o njeni dolgoročni učinkovitosti (<xref ref-type="bibr" rid="b2">2</xref>,<xref ref-type="bibr" rid="b19">19</xref>). Transfuzija eritrocitov tudi ne vpliva na bradikardije in naj bi celo povečevala tveganje za razvoj bronhopulmonalne displazije in nekrotizirajočega enterokolitisa (<xref ref-type="bibr" rid="b1">1</xref>).</p>
+         </sec>
+         <sec id="s8.3" sec-type="Gastroezofagealni refluks (GER)">
+            <label>8.3</label>
+            <title>Gastroezofagealni refluks (GER)</title>
+            <p>Tako apneja kot gastroezofagealni refluks (GER) sta pri nedonošenčkih pogosta pojava, a vzročna povezava med njima ostaja nedokončno razjasnjena. Nedonošenčki imajo hiperaktivni grlni kemorefleksni odziv ob draženju s kislo vsebino. Ta zaščiti dihalne poti pred aspiriranjem s hitrim požiranjem, apnejo, stisnjenjem grla, bradikardijo in hipertenzijo. Apneja s hipoksemijo tudi zmanjša tonus spodnje mišice zapiralke požiralnika in lahko s tem povzroči refluks. Obilna sekrecija v zgornjih dihalnih poteh lahko sproži centralno obliko apneje. Nekisli refluks, ki se pojavi takoj po obroku, lahko sproži apnejo po mehanizmu raztegnitve srednjega dela požiralnika. Kisli refluks, ki nastopa večinoma takrat, ko je želodec tako rekoč prazen, pa lahko sproži prej opisani grlni refleks, če doseže grlo. Toda z uporabo večkanalne intraluminalne impedančne tehnologije so nedavno ugotovili, da sta pojava pogosto po času ločena, da GER ne podaljša ali poslabša hkrati prisotne apneje, pa tudi farmakološko zdravljenje GER ne zmanjša tveganja za ponavljajočo se apnejo pri nedonošenčkih. Nasprotno so nekatere raziskave pokazale celo sočasno povečanje zaznanih apnej ob farmakološkem zdravljenju GER. Poleg tega naj bi ranitidin, zaviralec histaminskih receptorjev H<sub>2</sub>, povečeval tveganje za nekrotizirajoči enterokolitis, okužbe in smrt pri nedonošenčkih (<xref ref-type="bibr" rid="b1">1</xref>-<xref ref-type="bibr" rid="b4">4</xref>,<xref ref-type="bibr" rid="b20">20</xref>-<xref ref-type="bibr" rid="b22">22</xref>).</p>
+         </sec>
+      </sec>
+      <sec id="s9" sec-type="Zdravljenje">
+         <label>9</label>
+         <title>Zdravljenje</title>
+         <p>V literaturi so opisani številni ukrepi za zdravljenje dihalnih premorov zaradi nedonošenosti. Delimo jih lahko glede na mehanizem delovanja, saj določeni ukrepi zmanjšujejo dihalno delo, drugi povečajo vzdražnost dihalnega centra, tretji pa povečajo krčljivost trebušne prepone (<xref ref-type="bibr" rid="b3">3</xref>). Naslednja delitev je na farmakološke in nefarmakološke ukrepe ter delitev glede na dokazano učinkovitost (<xref ref-type="bibr" rid="b1">1</xref>,<xref ref-type="bibr" rid="b3">3</xref>) (<table-wrap position="float" id="table3">
+               <label>Tabela 3:</label>
+               <caption>
+                  <p> Mehanizem delovanja nekaterih terapevtskih ukrepov za zdravljenje apneje zaradi nedonošenosti (prirejeno po Picone F. et al.) (<xref ref-type="bibr" rid="b3">3</xref>).</p>
+               </caption>
+               <table>
+                  <colgroup>
+                     <col/>
+                     <col/>
+                  </colgroup>
+                  <thead>
+                     <tr>
+                        <th>Mehanizem delovanja</th>
+                        <th>Terapevtski ukrep</th>
+                     </tr>
+                  </thead>
+                  <tbody>
+                     <tr>
+                        <td rowspan="2">Zmanjšanje dihalnega dela</td>
+                        <td>trebušna lega z dvigom glave</td>
+                     </tr>
+                     <tr>
+                        <td>nCPAP ali nIPPV/nSIPPV</td>
+                     </tr>
+                     <tr>
+                        <td rowspan="5">Povečanje vzdražnosti dihalnega centra</td>
+                        <td>kofein</td>
+                     </tr>
+                     <tr>
+                        <td>doksapram</td>
+                     </tr>
+                     <tr>
+                        <td>inhalacije CO<sub>2</sub>
+                        </td>
+                     </tr>
+                     <tr>
+                        <td>transfuzija eritrocitov</td>
+                     </tr>
+                     <tr>
+                        <td>senzorični dražljaji</td>
+                     </tr>
+                     <tr>
+                        <td rowspan="2">Povečanje krčljivosti prepone</td>
+                        <td>kofein</td>
+                     </tr>
+                     <tr>
+                        <td>aminokisline z razvejano verigo</td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table-wrap-foot>
+                  <p>Legenda: nCPAP – stalni pozitivni nadtlak v dihalnih poteh; nIPPV –intermitentno predihanje skozi nos s pozitivnim tlakom; nSIPPV – sinhronizirano intermitentno predihanje skozi nos s pozitivnim tlakom.</p>
+               </table-wrap-foot>
+            </table-wrap>
+            <xref ref-type="table" rid="table3">Tabela 3</xref>).</p>
+         <sec id="s9.1" sec-type="Nefarmakološki ukrepi">
+            <label>9.1</label>
+            <title>Nefarmakološki ukrepi</title>
+            <sec id="s9.1.1" sec-type="Položaj telesa">
+               <label>9.1.1</label>
+               <title>Položaj telesa</title>
+               <p>Zaradi hipotonije vratnih mišic je pri novorojenčkih zelo pomembno, da se izognemo pretirani ekstenziji ali fleksiji vratu, saj lahko povzročita obstruktivno apnejo (<xref ref-type="bibr" rid="b3">3</xref>). V budnosti se priporoča lega na trebuhu, saj ima ta številne pozitivne učinke. Izboljša namreč prsno-trebušno ujemanje (torako-abdominalno sinhronost), stabilizira prsno steno, poveča predihanje, zmanjša pojav želodčnega refluksa in zmanjša pojav apneje. Ugotovili so tudi, da ekstenzija vratu za 15 stopinj, torej rahel dvig glave nazaj pri legi na trebuhu, zmanjša število hipoksemičnih dogodkov za skoraj polovico (<xref ref-type="bibr" rid="b1">1</xref>,<xref ref-type="bibr" rid="b3">3</xref>). Je pa lega na trebuhu povezana s povečano pojavnostjo sindroma nenadne smrti dojenčka in je zato primerna le za novorojenčke s kardiopulmonalnim nadzorom v neonatalni intenzivni enoti (<xref ref-type="bibr" rid="b3">3</xref>,<xref ref-type="bibr" rid="b23">23</xref>). Za vse zdrave novorojenčke se ob odpustu domov priporoča lega na hrbtu (<xref ref-type="bibr" rid="b3">3</xref>).</p>
+            </sec>
+            <sec id="s9.1.2" sec-type="Neinvazivna dihalna podpora">
+               <label>9.1.2</label>
+               <title>Neinvazivna dihalna podpora</title>
+               <p>Med oblikami neinvazivne dihalne podpore se najpogosteje uporablja CPAP (<italic>angl.</italic> continuous positive airway pressure, CPAP) oz. stalni pozitivni nadtlak v dihalnih poteh (<xref ref-type="bibr" rid="b1">1</xref>). Navadno ga dovajamo skozi masko ali nosne nastavke (nCPAP) (<xref ref-type="bibr" rid="b5">5</xref>). Vrednosti 4–6 cm H<sub>2</sub>O so se izkazale kot varne in učinkovite za zdravljenje dihalnih premorov (<xref ref-type="bibr" rid="b1">1</xref>,<xref ref-type="bibr" rid="b2">2</xref>). Gre za stalni pozitivni nadtlak v dihalnih poteh, ki skozi žrelo novorojenčka prehaja v dihalne poti in tako preprečuje kolaps žrela in alveolno atelektazo, stabilizira prsni koš in tako zmanjša dotok zaviralnih živčnih signalov v dihalni center, poveča funkcionalno rezidualno kapaciteto (FRK) pljuč in zmanjša dihalno delo, kar izboljša oksigenacijo in zmanjša bradikardijo (<xref ref-type="bibr" rid="b1">1</xref>,<xref ref-type="bibr" rid="b3">3</xref>,<xref ref-type="bibr" rid="b4">4</xref>). Uporabljamo ga lahko tudi za zmanjšanje apneje, ki pri nedonošenčkih nastopi po ekstubiranju (<xref ref-type="bibr" rid="b1">1</xref>,<xref ref-type="bibr" rid="b5">5</xref>). Učinkovit je pri zdravljenju apneje zaradi nedonošenosti, kadar epizode vsebujejo element obstrukcije dihalnih poti, torej pri obstruktivni in mešani obliki. Pri centralni apneji pa ni učinkovit. Raziskave so pokazale, da je nCPAP z variabilnim pretokom učinkovitejši od stalnega. CPAP razširimo z uporabo intermitentnega predihavanja s pozitivnim tlakom skozi nos (<italic>angl</italic>
+                  <italic>.</italic> nasal intermittent positive pressure ventilation, nIPPV) in sinhroniziranega intermitentnega predihavanja s pozitivnim tlakom skozi nos (<italic>angl</italic>
+                  <italic>.</italic> nasal synchronized intermittent positive pressure ventilation<italic>, </italic>nSIPPV) (<xref ref-type="bibr" rid="b1">1</xref>,<xref ref-type="bibr" rid="b5">5</xref>,<xref ref-type="bibr" rid="b24">24</xref>). Na splošno se uporabljata z maksimalnim inspiracijskim tlakom 15–20 cm H<sub>2</sub>O in s pozitivnim končnim ekspiracijskim tlakom 5–6 cm H<sub>2</sub>O. Učinkovita sta tudi pri centralni obliki, zmanjšata frekvenco apneje in potrebo po umetnem predihavanju. Raziskovalci pa so ugotovili, da so ob njuni sočasni uporabi za zdravljenje apneje potrebni manjši odmerki kofeina (<xref ref-type="bibr" rid="b3">3</xref>). Neželeni učinki CPAP so: barotravma, prenapihnjenost trebuha, intoleranca za hranjenje in lokalno draženje nosu in/ali kože nosu (<xref ref-type="bibr" rid="b5">5</xref>).</p>
+               <p>Alternativa preostalim oblikam neinvazivne podpore dihanju je uporaba visokopretočnih nosnih katetrov (<italic>angl.</italic> high flow nasal cannula<italic>, </italic>HFNC). Ti omogočajo dotok mešanice ogretega, navlaženega zraka in kisika po nosnem katetru z različno stopnjo pretoka ter tako vzdržujejo stalni pozitivni nadtlak v dihalnih poteh in odprto zgornjo dihalno pot. Tako pri zdravljenju apneje zaradi nedonošenosti dosegajo podobne rezultate kot nCPAP, jih pa dojenčki navadno bolje prenašajo (<xref ref-type="bibr" rid="b2">2</xref>-<xref ref-type="bibr" rid="b4">4</xref>,<xref ref-type="bibr" rid="b25">25</xref>).</p>
+            </sec>
+            <sec id="s9.1.3" sec-type="Endotrahealno intubiranje in umetno predihavanje">
+               <label>9.1.3</label>
+               <title>Endotrahealno intubiranje in umetno predihavanje</title>
+               <p>Kadar strategije neinvazivne dihalne podpore in farmakološko zdravljenje niso učinkoviti, moramo novorojenčke endotrahealno intubirati in umetno predihavati. Ta metoda je učinkovita za vse oblike apneje. Če so pljuča novorojenčka normalna, predihavamo s PIP (<italic>angl.</italic> peak inspiratory pressure) 10–12 cm H<sub>2</sub>O; PEEP (<italic>angl.</italic> positive end expiratory pressure) 3–5 cm H<sub>2</sub>O; nizko frekvenco 20–25 vdihov/min; kratkim inspiracijskim časom 0,35–0,40 sekunde in z nizkim deležem kisika v vdihanem zraku (<italic>angl</italic>
+                  <italic>.</italic> fraction of inspired oxygen,<italic> </italic>FiO<sub>2</sub>) (<xref ref-type="bibr" rid="b3">3</xref>-<xref ref-type="bibr" rid="b5">5</xref>).</p>
+            </sec>
+         </sec>
+         <sec id="s9.2" sec-type="Farmakološki ukrepi">
+            <label>9.2</label>
+            <title>Farmakološki ukrepi</title>
+            <sec id="s9.2.1" sec-type="Metilksantini">
+               <label>9.2.1</label>
+               <title>Metilksantini</title>
+               <p>Glavna skupina zdravil za farmakološko zdravljenje dihalnih premorov zaradi nedonošenosti so metilksantini, katerih predstavniki so kofein, teofilin in aminofilin (<xref ref-type="bibr" rid="b1">1</xref>-<xref ref-type="bibr" rid="b5">5</xref>). So močni dražilci osrednjega živčnega sistema. Glavni mehanizem njihovega delovanja je neselektivni kompetitivni antagonizem na adenozinskih receptorjih. Adenozin sicer deluje kot centralni depresor dihanja ali inhibicijski nevroregulator v osrednjem živčnem sistemu. Sprošča se med hipoksijo. Metilksantini blokirajo tako inhibicijske adenozinske receptorje A<sub>1 </sub>kot ekscitacijske A<sub>2A</sub>, ki so na nevronih GABA umeščeni v možganskem deblu. Vloga slednjih receptorjev naj bi bila večja. Imajo številne pozitivne učinke na dihanje, in sicer povečajo minutno ventilacijo, občutljivost na CO<sub>2</sub>, živčno spodbudo za dihanje, saj povečajo število signalov iz dihalnega centra, izboljšajo krčenje trebušne prepone in tudi funkcijo preostalih dihalnih mišic ter zmanjšajo periodično dihanje in hipoksično depresijo dihanja (<xref ref-type="bibr" rid="b1">1</xref>,<xref ref-type="bibr" rid="b2">2</xref>,<xref ref-type="bibr" rid="b4">4</xref>,<xref ref-type="bibr" rid="b5">5</xref>). Do zdaj v raziskavah še niso pridobili podatkov, ki bi potrjevali koristnost profilaktične uporabe metilksantinov pri nedonošenčkih s tveganjem za dihalne premore (<xref ref-type="bibr" rid="b2">2</xref>,<xref ref-type="bibr" rid="b5">5</xref>,<xref ref-type="bibr" rid="b26">26</xref>). Zdravljenje ima tudi določene neželene stranske učinke, in sicer lahko metilksantini povzročajo tahikardijo, bruhanje, napetost in živčnost, krče, zastajanje hrane v želodcu (<xref ref-type="bibr" rid="b1">1</xref>-<xref ref-type="bibr" rid="b5">5</xref>). Ker povečajo presnovno aktivnost, porabo kisika in energije, lahko s tem upočasnijo rast nedonošenčkov, kar včasih zahteva dodaten kalorični vnos (<xref ref-type="bibr" rid="b1">1</xref>).</p>
+               <sec id="s9.2.1.1" sec-type="Kofein">
+                  <label>9.2.1.1</label>
+                  <title>Kofein</title>
+                  <p>Kofein je med metilksantini prva izbira iz naslednjih razlogov: ima manj stranskih učinkov, novorojenčki ga bolje prenašajo, ima širše terapevtsko okno in zaradi velike varnosti je spremljanje njegovih serumskih koncentracij ob priporočenem odmerjanju le redko potrebno (<xref ref-type="bibr" rid="b1">1</xref>,<xref ref-type="bibr" rid="b2">2</xref>,<xref ref-type="bibr" rid="b4">4</xref>,<xref ref-type="bibr" rid="b27">27</xref>). Njegov dolgi razpolovni čas omogoča odmerjanje enkrat dnevno in ima še številne druge pozitivne učinke. Z raziskavami so namreč ugotovili, da zmanjšuje pojavnost bronhopulmonalne displazije in deluje tudi nevroprotektivno (<xref ref-type="bibr" rid="b1">1</xref>-<xref ref-type="bibr" rid="b4">4</xref>,<xref ref-type="bibr" rid="b27">27</xref>). Pri nedonošenčkih, zdravljenih s kofeinom, so opazili manj cerebralne paralize in boljši nevrološki razvoj (<xref ref-type="bibr" rid="b27">27</xref>). Kofein zmanjša potrebo po umetnem predihavanju oz. omogoči zgodnejše ekstubiranje, izboljša preživetje novorojenčkov z zelo majhno porodno težo in naj bi imel celo najboljše razmerje med stroški in koristjo med vsemi zdravilnimi učinkovinami, ki se uporabljajo v neonatologiji. Zaradi vseh naštetih lastnosti so mu znanstveniki nadeli naziv »srebrni izstrelek v neonatologiji« (<italic>angl.</italic> silver bullet in neonatology) (<xref ref-type="bibr" rid="b3">3</xref>,<xref ref-type="bibr" rid="b4">4</xref>,<xref ref-type="bibr" rid="b28">28</xref>). V obliki kofeinskega citrata so ga za zdravljenje idiopatske apneje na takratnem neonatalnem oddelku Pediatrične klinike v Ljubljani začeli uporabljati že na začetku 80. let prejšnjega stoletja (<xref ref-type="bibr" rid="b29">29</xref>).</p>
+                  <p>Kofein je sicer zdravilo prve izbire za zdravljenje dihalnih premorov zaradi nedonošenosti, toda treba je opozoriti na določene posebnosti v povezavi z njegovo uporabo. Pozorni moramo biti na to, ali dojenček prejema katera druga zdravila, ki lahko vplivajo na njegovo farmakokinetično celoto. Ker je kofein antagonist adenozinskih receptorjev, so potrebni večji odmerki adenozina za zdravljenje tahiaritmije, medtem ko novorojenček prejema tudi kofein (<xref ref-type="bibr" rid="b3">3</xref>).</p>
+                  <p>Čeprav je kofein na splošno zdravilo, ki ga novorojenčki dobro prenašajo, lahko predoziranje z njim povzroči hude znake: resno tahikardijo, razdražljivost, zlatenico, intoleranco za hranjenje in poliurijo. Pri serumskih vrednostih nad 50 μg/ml se pojavijo vročina, tahipneja, hiperosmolarnost seruma, bruhanje, hiperglikemija, krči. Rutinske meritve plazemske koncentracije kofeina sicer niso potrebne, a so vendarle na mestu, kadar zasledimo znake, sumljive za prekoračitev odmerka, ali kadar je treba uporabiti večje terapevtske odmerke, kot jih navadno predpišemo. Nekatere raziskave poročajo o zmanjšanju prekrvitve možganov in črevesja v prvih dveh urah po dodatku kofeina, s čimer se poveča tveganje za možganske krvavitve in nekrotizirajoči enterokolitis (<xref ref-type="bibr" rid="b3">3</xref>).</p>
+                  <p>Glede uporabe kofeina obstajata še dve nerešeni vprašanji, in sicer odmerjanje in trajanje zdravljenja. Kofein je običajno na voljo kot kofeinov citrat in aktivna komponenta predstavlja le 50 % celotnega odmerka (<xref ref-type="bibr" rid="b1">1</xref>). Načeloma ga odmerjamo z začetnim, bolusnim ali polnilnim odmerkom, ki mu sledi vzdrževalni odmerek. Raziskave so pokazale, da je večji odmerek kofeina učinkovitejši pri preprečevanju apneje zaradi nedonošenosti, čeprav imajo večji odmerki tudi več neželenih učinkov. Zato trenutno priporočajo najmanjše še učinkovite odmerke, to pa so 10–20 mg/kg kot polnilni in 5–10 mg/kg/dan kot vzdrževalni odmerek. Z večjimi odmerki lahko poskusimo pri vztrajajočih in na zdravljenje neodzivnih dihalnih premorih (<xref ref-type="bibr" rid="b1">1</xref>). Druga dilema je, kdaj lahko prenehamo zdravljenje s kofeinom. Svetuje se pravočasno prenehanje, da preprečimo nepotrebno podaljšanje hospitalizacije. Eden od pristopov bi bil lahko poskus ukinitve terapije po klinično očitnem obdobju brez apneje, ki traja vsaj 5–7 dni, ali pri dopolnjenem 33. oz. 34. tednu postkoncepcijske starosti, odvisno od tega, kateri pogoj je izpolnjen prej (<xref ref-type="bibr" rid="b2">2</xref>,<xref ref-type="bibr" rid="b5">5</xref>). Pomembno je, da prekinemo zdravljenje s kofeinom vsaj 1–2 tedna pred odpustom iz bolnišnice zaradi njegovega dolgega razpolovnega časa (3–4 dni oz. okoli 100 ur), ki se lahko v določenih okoliščinah (npr. pri holestatskem hepatitisu) še podaljša. Tako se mora odpust prezgodaj rojenih otrok z zgodovino dihalnih premorov zaradi nedonošenosti iz bolnišnice po prenehanju dajanja kofeina skrbno načrtovati (<xref ref-type="bibr" rid="b5">5</xref>,<xref ref-type="bibr" rid="b30">30</xref>). Se pa dolg razpolovni čas kofeina z zorenjem začne zelo hitro krajšati. V starosti okoli šest mesecev tako znaša pri dojenčku le še tri ure, zato ga je, če še obstaja potreba po zdravljenju z metilksantini, v postneonatalnem obdobju treba zamenjati s teofilinom, ki ima ves čas razpolovni čas okoli 10 ur (<xref ref-type="bibr" rid="b31">31</xref>,<xref ref-type="bibr" rid="b32">32</xref>).</p>
+               </sec>
+            </sec>
+            <sec id="s9.2.2" sec-type="Doksapram">
+               <label>9.2.2</label>
+               <title>Doksapram</title>
+               <p>Doksapram je močan dražilec dihanja. Pri manjših odmerkih deluje na periferne kemoreceptorje in povečuje dihalni volumen in minutno ventilacijo, pri večjih odmerkih pa neposredno deluje na respiracijske nevrone v možganskem deblu (<xref ref-type="bibr" rid="b1">1</xref>,<xref ref-type="bibr" rid="b3">3</xref>,<xref ref-type="bibr" rid="b4">4</xref>,<xref ref-type="bibr" rid="b33">33</xref>). Trenutno je na mestu le za zdravljenje apneje, ki se ne odziva na terapijo z metilksantini in CPAP. Njegov učinek je kratkoročen in traja le dva dni (<xref ref-type="bibr" rid="b5">5</xref>). Poleg tega je povezan s številnimi neželenimi stranskimi učinki, kot so krči, mioklonus, porast krvnega tlaka, hiperaktivnost in razdražljivost, hiperglikemija, meteorizem črevesja in zastajanje mleka v želodcu ter bruhanje (<xref ref-type="bibr" rid="b1">1</xref>,<xref ref-type="bibr" rid="b3">3</xref>-<xref ref-type="bibr" rid="b5">5</xref>,<xref ref-type="bibr" rid="b33">33</xref>). V prvem tednu življenja ali pri visoki vrednosti serumskega bilirubina se mu je priporočeno izogibati zaradi možnosti poslabšanja zlatenice, znotrajprekatne krvavitve in jedrnega ikterusa. V virih so bili ob njegovi rabi opisani tudi trije primeri preddvorno-prekatnega bloka (AV-bloka) (<xref ref-type="bibr" rid="b3">3</xref>). Najpomembnejši in potencialno dolgoročen nevarni stranski učinek je zmanjšanje oksigenacije in hitrosti možganskega krvnega pretoka, kar zmanjša prekrvitev in okvari razvijajoče se možgane ter lahko vodi v dolgoročni razvojni zaostanek (<xref ref-type="bibr" rid="b3">3</xref>). Ker se slabo absorbira, ga moramo dajati v kontinuirani intravenski infuziji ali, kadar ga dajemo peroralno, kar je sicer redko, ga dajemo počasi po cevki v eni uri, vsakih 8–12 ur (<xref ref-type="bibr" rid="b3">3</xref>). Kot sredstvo za konzerviranje pa vsebuje 0,9-odstotni benzilni alkohol, kar je tudi eden od pomembnih vzrokov, da se manj uporablja (<xref ref-type="bibr" rid="b4">4</xref>,<xref ref-type="bibr" rid="b5">5</xref>). Učinkoviti odmerek, ki je 2,5 mg/kg/uro, tako vsebuje 32,4 mg/kg/dan benzilnega alkohola, in četudi je ta odmerek še pod toksičnim, ki znaša 45 mg/kg/dan, so v literaturi že pri manjših odmerkih poročali o določenih primerih t. i. sopenja, hlastanja za zrakom (<italic>angl.</italic> gasping syndrome), ki ga pri novorojenčkih lahko povzroči zastrupitev z benzilnim alkoholom (<xref ref-type="bibr" rid="b5">5</xref>).</p>
+            </sec>
+         </sec>
+         <sec id="s9.3" sec-type="Drugi ukrepi z nejasno učinkovitostjo">
+            <label>9.3</label>
+            <title>Drugi ukrepi z nejasno učinkovitostjo</title>
+            <p>V različnih virih je mogoče zaslediti množico drugih ukrepov, katerih učinkovitost trenutno ostaja še nejasna oz. ni popolnoma potrjena (<xref ref-type="bibr" rid="b1">1</xref>,<xref ref-type="bibr" rid="b3">3</xref>).</p>
+            <sec id="s9.3.1" sec-type="Kengurujčkanje">
+               <label>9.3.1</label>
+               <title>Kengurujčkanje</title>
+               <p>Kengurujčkanje (<italic>angl</italic>
+                  <italic>.</italic> kangaroo mother care, skin-to-skin care) je način nege nedonošenega otroka, ki je namenjen povrnitvi otroka mami in mame otroku. V praksi ne pomeni nič drugega kot pestovanje otroka na golih materinih prsih. Pri stabilnih novorojenčkih se je široko uveljavilo zaradi znanega pomirjujočega učinka, ki se kaže v dojenčkovem kliničnem statusu in vitalnih znakih. Učinek tega pristopa pri zdravljenju apneje zaradi nedonošenosti pa ostaja nezanesljiv, saj si rezultati različnih raziskav med sabo nasprotujejo. V določenih raziskavah so namreč med kengurujčkanjem opazili manj, v drugih pa celo več apneje in bradikardije. Nedavno so raziskovalci ugotovili, da ima ta pristop enak učinek na izboljšanje apneje kot lega na trebuhu (<xref ref-type="bibr" rid="b1">1</xref>,<xref ref-type="bibr" rid="b3">3</xref>).</p>
+            </sec>
+            <sec id="s9.3.2" sec-type="Termonevtralno okolje">
+               <label>9.3.2</label>
+               <title>Termonevtralno okolje</title>
+               <p>Blag porast telesne temperature pri novorojenčkih poveča nestabilnost dihalnega vzorca. V nedavni raziskavi so ugotovili manj dihalnih premorov pri temperaturi inkubatorja 30,4 °C kot pri 32,5 °C. Seveda številni dejavniki vplivajo na temperaturo v inkubatorju in telesno temperaturo novorojenčka, toda pregrevanje bi bilo lahko dejavnik tveganja za dihalne premore zaradi nedonošenosti, zato velja splošno priporočilo znižanja temperature na spodnjo mejo termonevtralnega območja in izogibanja nihanjem temperature okolice. Specifična temperatura okolja, ki zmanjša pojavljanje ali resnost apneje zaradi nedonošenosti, ni znana (<xref ref-type="bibr" rid="b1">1</xref>,<xref ref-type="bibr" rid="b3">3</xref>,<xref ref-type="bibr" rid="b5">5</xref>).</p>
+            </sec>
+            <sec id="s9.3.3" sec-type="Aminokisline z razvejano verigo">
+               <label>9.3.3</label>
+               <title>Aminokisline z razvejano verigo</title>
+               <p>Parenteralna prehrana, obogatena z aminokislinami z razvejanimi verigami (levcin, izolevcin in valin), je <italic>in vitro</italic> dokazano povečala moč trebušne prepone. Ta ukrep bi bil lahko koristen, ker pri nedonošenčkih povečano dihalno delo zaradi velike podajnosti prsnega koša utruja mišice, kar še dodatno prispeva k apneji (<xref ref-type="bibr" rid="b3">3</xref>).</p>
+            </sec>
+            <sec id="s9.3.4" sec-type="Saharoza">
+               <label>9.3.4</label>
+               <title>Saharoza</title>
+               <p>Vnos saharoze skozi usta ima analgetični učinek, bolečina pa je znan dražljaj za apnejo, zato se tudi ta omenja kot eden možnih ukrepov. Doslej pa še ni dokazov, da naj bi zmanjšala število desaturacij in bradikardij (<xref ref-type="bibr" rid="b3">3</xref>).</p>
+            </sec>
+            <sec id="s9.3.5" sec-type="Uporaba ustno-želodčne cevke">
+               <label>9.3.5</label>
+               <title>Uporaba ustno-želodčne cevke</title>
+               <p>Hranjenje po ustno-želodčni cevki naj bi imelo prednost pred nosno vstavo želodčne cevke, saj lahko ta poveča upornost nosnega dela dihalne poti tudi za 50 %, kar igra pomembno vlogo pri apneji zaradi nedonošenosti. Toda nedavne raziskave so pokazale, da položaj sonde nima zelo velikega učinka na bradikardijo in desaturacijo. Transpilorično hranjenje se je, še posebej če je omejeno le na človeško mleko, v eni od raziskav izkazalo za varen način zmanjševanja epizod apneje in bradikardije pri nedonošenčkih s sumom na gastroezofagealni refluks (<xref ref-type="bibr" rid="b1">1</xref>).</p>
+            </sec>
+            <sec id="s9.3.6" sec-type="Inhalacije CO2">
+               <label>9.3.6</label>
+               <title>Inhalacije CO2</title>
+               <p>Ogljikov dioksid je fiziološki dražljaj za dihanje pri sesalcih. Apneja nastopi, ko njegova vrednost pade pod pražno vrednost za apnejo. Njegov porast za 1–2 mm Hg nad to vrednostjo pa zmanjša apnejo ali jo popolnoma odpravi. Raziskave so pokazale, da so inhalacije z nizkimi koncentracijami (komaj 0,8 %) CO<sub>2</sub> enako učinkovite kot uporaba teofilina pri zmanjševanju apneje zaradi nedonošenosti. Izpostavitev tako nizkim koncentracijam CO<sub>2</sub> tudi nima učinkov na hitrost možganskega pretoka; tudi sicer pri nedonošenčkih niso opazili nobenih stranskih učinkov inhalacij CO<sub>2</sub>. Obstaja pa velika verjetnost, da bi se novorojenčki na vdihane koncentracije hitro privadili, zato učinek dolgotrajne izpostavljenosti ostaja negotov (<xref ref-type="bibr" rid="b1">1</xref>,<xref ref-type="bibr" rid="b4">4</xref>,<xref ref-type="bibr" rid="b34">34</xref>).</p>
+            </sec>
+            <sec id="s9.3.7" sec-type="Senzorični dražljaji">
+               <label>9.3.7</label>
+               <title>Senzorični dražljaji</title>
+               <p>Senzorični dražljaji naj bi bili koristni pri zdravljenju ali preprečevanju apneje. Dotiki vzdražijo nespecifično živčno aktivnost v središču možganskega debla in stimulirajo dihanje. Pomembno je, da je jakost takih dražljajev pod pragom za prehod v budno stanje. V raziskavi so ugotovili, da uporaba posebnih zračnih blazin z vstavljenimi ročicami, ki omogočajo majhne premike, 65-odstotno zmanjša trajanje desaturacije (<xref ref-type="bibr" rid="b1">1</xref>,<xref ref-type="bibr" rid="b3">3</xref>,<xref ref-type="bibr" rid="b4">4</xref>,<xref ref-type="bibr" rid="b16">16</xref>).</p>
+               <p>Tudi vohalne dražljaje so že uporabili za zdravljenje apneje zaradi nedonošenosti. Prijetne vonjave stimulirajo dihanje, neprijetne vonjave pa med aktivnim spanjem, ko je apneja najpogostejša, zmanjšajo dihalno delo. V raziskavo so vključili 14 novorojenčkov z gestacijsko starostjo med 24. in 28. tednom, pri katerih zdravljenje apneje in bradikardije s kofeinom in doksapramom ni bilo učinkovito. Petnajst kapljic vanilina, znanega dražljaja za vohalni živec, so nanesli na rob odeje novorojenčkov in pri tem opazili 45-odstotno zmanjšano pogostnost apneje in bradikardije. Žal so spremljali le majhno skupino novorojenčkov, poskus pa je trajal zgolj 24 ur, zato ne vemo, kako dolgo ta koristni učinek vztraja (<xref ref-type="bibr" rid="b1">1</xref>,<xref ref-type="bibr" rid="b3">3</xref>,<xref ref-type="bibr" rid="b4">4</xref>,<xref ref-type="bibr" rid="b15">15</xref>,<xref ref-type="bibr" rid="b35">35</xref>).</p>
+               <p>Kinestetično draženje z uporabo vodnih postelj in oscilirajočih blazin se do zdaj ni izkazalo za učinkovito ne pri zdravljenju ne pri preprečevanju dihalnih premorov zaradi nedonošenosti (<xref ref-type="bibr" rid="b5">5</xref>).</p>
+            </sec>
+         </sec>
+      </sec>
+      <sec id="s10" sec-type="Prenehanje dihalnih premorov zaradi nedonošenosti">
+         <label>10</label>
+         <title>Prenehanje dihalnih premorov zaradi nedonošenosti</title>
+         <p>Dihalni premori zaradi nedonošenosti so samoomejujoče stanje, ki se z naraščajočo starostjo in zrelostjo preneha pojavljati (<xref ref-type="bibr" rid="b2">2</xref>,<xref ref-type="bibr" rid="b3">3</xref>). V splošnem velja pravilo: čim nižja je gestacijska starost, tem dlje časa dihalni premori zaradi nedonošenosti vztrajajo (<xref ref-type="bibr" rid="b1">1</xref>). Pri večini, in sicer pri 92 % novorojenčkov, izzvenijo do 36. tedna, do 40. tedna postkoncepcijske starosti pa izzvenijo že pri 98 % novorojenčkov. Toda pri skrajno nedonošenih, torej tistih, ki se rodijo z dopolnjenima 24. oz. 28. tednom gestacije, in tistih z bronhopulmonalno displazijo lahko apneja vztraja še po dopolnjenem 38. oz. 40. tednu postkoncepcijske starosti (<xref ref-type="bibr" rid="b1">1</xref>,<xref ref-type="bibr" rid="b5">5</xref>,<xref ref-type="bibr" rid="b36">36</xref>). Raziskave so pokazale, da je vzrok za to v zapoznelem razvoju oz. dozorevanju, to je v sinaptogenezi in mielinizaciji, ki se začne pri 33. tednu v nucleusu tractusa solitarii, glavnem dihalnem centru možganskega debla (<xref ref-type="bibr" rid="b4">4</xref>,<xref ref-type="bibr" rid="b8">8</xref>). Tako za fiziološko osnovo prenehanja apneje štejemo mielinizacijo možganskega debla (<xref ref-type="bibr" rid="b4">4</xref>).</p>
+      </sec>
+      <sec id="s11" sec-type="Posledice">
+         <label>11</label>
+         <title>Posledice</title>
+         <p>Posledice dihalnih premorov zaradi nedonošenosti trenutno še slabo razumemo, kajti različni viri si glede njih nasprotujejo. Omenjajo se tako kratkoročne kot dolgoročne posledice. Pri nedonošenčkih apnejo pogosto spremlja desaturacija s hipoksemijo in bradikardija. Ta se navadno začne po začetku hipoksemije. Najprej jo spremlja porast utripnega volumna srca, dlje časa trajajoči apneja in bradikardija pa sistemski krvni tlak znižata, kar vpliva tudi na možgansko hemodinamiko. Pride do zmanjšane prekrvitve možganov in zaradi nje do hipoksično-ishemične poškodbe še nezrelega možganskega tkiva. Dolgoročne posledice so si še bolj nasprotujoče, saj je težko dokazati neposredno povezavo med apnejo in slabim nevrološkim razvojem, ker je pri nedonošenčkih lahko prisotna množica stanj, ki so lahko povezana z negativnim učinkom na nevrološki razvoj (<xref ref-type="bibr" rid="b1">1</xref>,<xref ref-type="bibr" rid="b3">3</xref>). V prvih raziskavah niso opazili nobenih razlik v nevrološkem razvoju med nedonošenčki z apnejo in tistimi brez nje. V obeh skupinah so opazili zapozneli umski in gibalni razvoj. Nedavne raziskave so razkrile, da sta višja pogostnost in resnost apneje zaradi nedonošenosti povezani z večjo incidenco neželenih izidov ali smrti, kar so razložili z mehanizmom, da številna stanja hipoksije in bradikardije, ki sledijo apneji zaradi nedonošenosti, lahko povzročijo dolgotrajno možgansko okvaro in motnje v nevrološkem razvoju, kot sta cerebralna paraliza in tudi slepota (<xref ref-type="bibr" rid="b1">1</xref>).</p>
+      </sec>
+      <sec id="s12" sec-type="Genetska osnova">
+         <label>12</label>
+         <title>Genetska osnova</title>
+         <p>Zaradi opažene višje prevalence dihalnih premorov zaradi nedonošenosti med prvostopenjskimi sorodniki so v raziskavah kot hipotezo postavili, da obstaja določeno genetsko nagnjenje k apneji zaradi nedonošenosti (<xref ref-type="bibr" rid="b3">3</xref>,<xref ref-type="bibr" rid="b37">37</xref>). V retrospektivno raziskavo dvojčkov so vključili 217 parov, in sicer 56 monozigotnih in 161 dizigotnih parov dvojčkov, ki so se rodili pred dopolnjenim 36. tednom gestacije. Ocena dednosti je temeljila na sočasnem pojavu apneje pri vsakem od dvojčkov oz. pojavu apneje znotraj para. Med monozigotnimi dvojčki so opazili sočasen pojav apneje pri 87 %, med dizigotnimi dvojčki istega spola pa pri 62 %. Ugotovili so tudi, da genetski dejavniki prispevajo 99 % pri dvojčkih moškega in 78 % pri dvojčkih ženskega spola. Kot pomembni dejavniki tveganja za dihalne premore zaradi nedonošenosti so se v raziskavi izkazali majhna porodna teža, porod s carskim rezom in zanositev z biomedicinsko pomočjo (<xref ref-type="bibr" rid="b38">38</xref>).</p>
+         <p>Zaradi opaženega različnega odziva bolnikov z apnejo zaradi nedonošenosti na zdravljenje s kofeinom so si nekatere raziskave zadale raziskati vlogo genetskih polimorfizmov adenozinskih receptorjev A<sub>1</sub> in A<sub>2A</sub> na sam pojav apneje ter njihovo vlogo pri individualnih razlikah v odzivu na kofeinsko zdravljenje (<xref ref-type="bibr" rid="b2">2</xref>,<xref ref-type="bibr" rid="b3">3</xref>,<xref ref-type="bibr" rid="b39">39</xref>). V raziskavi so novorojenčkom, ki so se rodili med 24. in 34. tednom gestacije, vzeli vzorce popkovnične krvi in jih razdelili v dve skupini. V prvo so uvrstili novorojenčke brez apneje, ki jih je bilo 60, v drugo pa novorojenčke z apnejo, ki jih je bilo 55. To drugo skupino so razdelili še na dve podskupini, in sicer na podskupino s 30 novorojenčki, ki so se odzvali na terapijo s kofeinom, in na podskupino s 25 novorojenčki, ki se na zdravljenje s kofeinom niso odzvali. Za genotipizacijo so izbrali šest polimorfizmov posameznega nukleotida (<italic>angl.</italic> single nucleotide polymorphism<italic>, </italic>SNP). Ugotovili so, da so bolniki z apnejo, starejši od 28 tednov gestacije, ki so se odzvali na zdravljenje s kofeinom, pogosteje nosilci genotipa rs16851030 – C/C kot genotipa C/T ali T/T. Analiza z logistično regresijo je pokazala tudi pomembno povezavo med genotipi rs35320474 – C/T in T/T in apnejo ter tudi z razvojem bronhopulmonalne displazije. Na podlagi te raziskave lahko tako sklenemo, da specifični polimorfizmi v genih za adenozinske receptorje A<sub>1</sub> in A<sub>2A</sub> vplivajo na pojavnost apneje in bronhopulmonalne displazije ter tudi na individualno variabilnost v odzivu na zdravljenje s kofeinom (<xref ref-type="bibr" rid="b39">39</xref>).</p>
+      </sec>
+      <sec id="s13" sec-type="Zaključek">
+         <label>13</label>
+         <title>Zaključek</title>
+         <p>Dihalni premori zaradi nedonošenosti so ena najpogosteje postavljenih diagnoz v neonatalnih enotah za intenzivno zdravljenje. Pogostosti navkljub še vedno ostaja veliko odprtih vprašanj, ki se nanašajo na njihovo patogenezo, najustreznejšo obliko nadzorovanja nedonošenčkov, najučinkovitejše terapevtske in preventivne pristope ter na morebitne škodljive tako kratkoročne kot dolgoročne posledice te sicer samoomejujoče razvojne nepravilnosti. Dosedanje raziskave so pripeljale do številnih nasprotujočih si spoznanj. Prav zaradi tega ostajajo dihalni premori zaradi nedonošenosti velik izziv za neonatologijo ter spodbuda za nadaljnje raziskave, ki bi v prihodnosti lahko razjasnile marsikatere dvome ter s tem prispevale ne le k boljšemu razumevanju tega pojava, temveč tudi k poenotenju smernic za njegovo zdravljenje in preprečevanje.</p>
+      </sec>
+   </body>
+   <back>
+      <ref-list>
+         <ref id="b1">
+            <label>1. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Zhao</surname>
+                     <given-names>J</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Gonzalez</surname>
+                     <given-names>F</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Mu</surname>
+                     <given-names>D</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Apnea of prematurity: from cause to treatment</article-title>. 
+                    <source>Eur J Pediatr</source>. 
+                    <year>2011</year>
+                    <month>Sep</month>; 
+                    <volume>170</volume>( 
+                    <issue>9</issue>): 
+                    <fpage>1097</fpage>– 
+                    <lpage>105</lpage>. 
+                    <pub-id pub-id-type="doi">10.1007/s00431-011-1409-6</pub-id>
+                    <pub-id pub-id-type="pmid">21301866</pub-id>
+                    <issn>0340-6199</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b2">
+            <label>2. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Eichenwald</surname>
+                     <given-names>EC</given-names>
+                  </name>; 
+                        <collab>Committee on Fetus and Newborn, American Academy of Pediatrics</collab>
+                    </person-group>. 
+                    <article-title>Apnea of Prematurity</article-title>. 
+                    <source>Pediatrics</source>. 
+                    <year>2016</year>
+                    <month>Jan</month>; 
+                    <volume>137</volume>( 
+                    <issue>1</issue>): 
+                    <fpage>e20153757</fpage>. 
+                    <pub-id pub-id-type="doi">10.1542/peds.2015-3757</pub-id>
+                    <pub-id pub-id-type="pmid">26628729</pub-id>
+                    <issn>0031-4005</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b3">
+            <label>3. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Picone</surname>
+                     <given-names>F</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Aufieri</surname>
+                     <given-names>R</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Paolillo</surname>
+                     <given-names>P</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Apnea of prematurity: challenges and solutions</article-title>. 
+                    <source>Res Rep Neonatol</source>. 
+                    <year>2014</year>; 
+                    <volume>4</volume>: 
+                    <fpage>101</fpage>– 
+                    <lpage>9</lpage>. 
+                    <pub-id pub-id-type="doi">10.2147/RRN.S44810</pub-id>
+                    <issn>1179-9935</issn> 
+                </mixed-citation>
+         </ref>
+         <ref id="b4">
+            <label>4. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Mathew</surname>
+                     <given-names>OP</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Apnea of prematurity: pathogenesis and management strategies</article-title>. 
+                    <source>J Perinatol</source>. 
+                    <year>2011</year>
+                    <month>May</month>; 
+                    <volume>31</volume>( 
+                    <issue>5</issue>): 
+                    <fpage>302</fpage>– 
+                    <lpage>10</lpage>. 
+                    <pub-id pub-id-type="doi">10.1038/jp.2010.126</pub-id>
+                    <pub-id pub-id-type="pmid">21127467</pub-id>
+                    <issn>0743-8346</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b5">
+            <label>5. </label>
+            <mixed-citation publication-type="webpage">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Mishra</surname>
+                     <given-names>S</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Agarwal</surname>
+                     <given-names>R</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Jeevasankar</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Aggarwal</surname>
+                     <given-names>R</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Deorari</surname>
+                     <given-names>AK</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Vinod</surname>
+                     <given-names>KP</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Apnea in the Newborn</article-title>. 
+                    <year>2007</year>. 
+                    <date-in-citation content-type="access-date" iso-8601-date="2018-05-25">[cited 2018 May 25]</date-in-citation>. 
+                    <comment>Available from:<uri>http://www.newbornwhocc.org/"&gt;http://www.newbornwhocc.org/</uri>
+               </comment>.
+                </mixed-citation>
+         </ref>
+         <ref id="b6">
+            <label>6. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Martin</surname>
+                     <given-names>RJ</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Wilson</surname>
+                     <given-names>CG</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Apnea of prematurity</article-title>. 
+                    <source>Compr Physiol</source>. 
+                    <year>2012</year>
+                    <month>Oct</month>; 
+                    <volume>2</volume>( 
+                    <issue>4</issue>): 
+                    <fpage>2923</fpage>– 
+                    <lpage>31</lpage>.
+                    <pub-id pub-id-type="doi">10.1002/cphy.c100021</pub-id>
+                    <pub-id pub-id-type="pmid">23720269</pub-id>
+                    <issn>2040-4603</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b7">
+            <label>7. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Peček</surname>
+                     <given-names>J</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Fister</surname>
+                     <given-names>P</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Srčno-dihalni vzorci novorojenčkov</article-title>. 
+                    <source>Med Razgl</source>. 
+                    <year>2018</year>; 
+                    <volume>57</volume>( 
+                    <issue>3</issue>): 
+                    <fpage>325</fpage>– 
+                    <lpage>43</lpage>. 
+                    <issn>0025-8121</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b8">
+            <label>8. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Sarnat</surname>
+                     <given-names>HB</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Flores-Sarnat</surname>
+                     <given-names>L</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Synaptogenesis and myelination in the nucleus/tractus solitarius: potential role in apnea of prematurity, congenital central hypoventilation, and sudden infant death syndrome</article-title>. 
+                    <source>J Child Neurol</source>. 
+                    <year>2016</year>
+                    <month>May</month>; 
+                    <volume>31</volume>( 
+                    <issue>6</issue>): 
+                    <fpage>722</fpage>– 
+                    <lpage>32</lpage>. 
+                    <pub-id pub-id-type="doi">10.1177/0883073815615227</pub-id>
+                    <pub-id pub-id-type="pmid">26661483</pub-id>
+                    <issn>0883-0738</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b9">
+            <label>9. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Martin</surname>
+                     <given-names>RJ</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Di Fiore</surname>
+                     <given-names>JM</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Walsh</surname>
+                     <given-names>MC</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Hypoxic episodes in bronchopulmonary dysplasia</article-title>. 
+                    <source>Clin Perinatol</source>. 
+                    <year>2015</year>
+                    <month>Dec</month>; 
+                    <volume>42</volume>( 
+                    <issue>4</issue>): 
+                    <fpage>825</fpage>– 
+                    <lpage>38</lpage>. 
+                    <pub-id pub-id-type="doi">10.1016/j.clp.2015.08.009</pub-id>
+                    <pub-id pub-id-type="pmid">26593081</pub-id>
+                    <issn>0095-5108</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b10">
+            <label>10. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Martin</surname>
+                     <given-names>RJ</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Di Fiore</surname>
+                     <given-names>JM</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Macfarlane</surname>
+                     <given-names>PM</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Wilson</surname>
+                     <given-names>CG</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Physiologic basis for intermittent hypoxic episodes in preterm infants</article-title>. 
+                    <source>Adv Exp Med Biol</source>. 
+                    <year>2012</year>; 
+                    <volume>758</volume>: 
+                    <fpage>351</fpage>– 
+                    <lpage>8</lpage>. 
+                    <pub-id pub-id-type="doi">10.1007/978-94-007-4584-1_47</pub-id>
+                    <pub-id pub-id-type="pmid">23080182</pub-id>
+                    <issn>0065-2598</issn> 
+                </mixed-citation>
+         </ref>
+         <ref id="b11">
+            <label>11. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Heman-Ackah</surname>
+                     <given-names>YD</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Pernell</surname>
+                     <given-names>KJ</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Goding</surname>
+                     <given-names>GS</given-names>
+                     <suffix>Jr</suffix>
+                  </name>
+                    </person-group>. 
+                    <article-title>The laryngeal chemoreflex: an evaluation of the normoxic response</article-title>. 
+                    <source>Laryngoscope</source>. 
+                    <year>2009</year>
+                    <month>Feb</month>; 
+                    <volume>119</volume>( 
+                    <issue>2</issue>): 
+                    <fpage>370</fpage>– 
+                    <lpage>9</lpage>. 
+                    <pub-id pub-id-type="doi">10.1002/lary.20007</pub-id>
+                    <pub-id pub-id-type="pmid">19172628</pub-id>
+                    <issn>0023-852X</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b12">
+            <label>12. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Thach</surname>
+                     <given-names>BT</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Reflux associated apnea in infants: evidence for a laryngeal chemoreflex</article-title>. 
+                    <source>Am J Med</source>. 
+                    <year>1997</year>
+                    <month>Nov</month>; 
+                    <volume>103</volume>( 
+                    <issue>5</issue>
+                    <supplement>5A</supplement>): 
+                    <fpage>120S</fpage>– 
+                    <lpage>4S</lpage>. 
+                    <pub-id pub-id-type="doi">10.1016/S0002-9343(97)00336-7</pub-id>
+                    <pub-id pub-id-type="pmid">9422636</pub-id>
+                    <issn>0002-9343</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b13">
+            <label>13. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Xia</surname>
+                     <given-names>L</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Leiter</surname>
+                     <given-names>JC</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Bartlett</surname>
+                     <given-names>D</given-names>
+                     <suffix>Jr</suffix>
+                  </name>
+                    </person-group>. 
+                    <article-title>Laryngeal reflex apnea in neonates: effects of CO2 and the complex influence of hypoxia</article-title>. 
+                    <source>Respir Physiol Neurobiol</source>. 
+                    <year>2013</year>
+                    <month>Mar</month>; 
+                    <volume>186</volume>( 
+                    <issue>1</issue>): 
+                    <fpage>109</fpage>– 
+                    <lpage>13</lpage>. 
+                    <pub-id pub-id-type="doi">10.1016/j.resp.2013.01.004</pub-id>
+                    <pub-id pub-id-type="pmid">23348024</pub-id>
+                    <issn>1569-9048</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b14">
+            <label>14. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Schelegle</surname>
+                     <given-names>ES</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Functional morphology and physiology of slowly adapting pulmonary stretch receptors</article-title>. 
+                    <source>Anat Rec A Discov Mol Cell Evol Biol</source>. 
+                    <year>2003</year>
+                    <month>Jan</month>; 
+                    <volume>270</volume>( 
+                    <issue>1</issue>): 
+                    <fpage>11</fpage>– 
+                    <lpage>6</lpage>. 
+                    <pub-id pub-id-type="doi">10.1002/ar.a.10004</pub-id>
+                    <pub-id pub-id-type="pmid">12494485</pub-id>
+                    <issn>1552-4884</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b15">
+            <label>15. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Alvarado</surname>
+                     <given-names>RE</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Control of breathing and apnea of prematurity</article-title>. 
+                    <source>Neoreviews</source>. 
+                    <year>2018</year>; 
+                    <volume>19</volume>( 
+                    <issue>4</issue>): 
+                    <fpage>e224</fpage>– 
+                    <lpage>34</lpage>. 
+                    <pub-id pub-id-type="doi">10.1542/neo.19-4-e224</pub-id>
+                    <issn>1526-9906</issn>
+                  </mixed-citation>
+         </ref>
+         <ref id="b16">
+            <label>16. </label>
+            <mixed-citation publication-type="book-chapter">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Bratanič</surname>
+                     <given-names>B</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Paro Panjan</surname>
+                     <given-names>D</given-names>
+                  </name>
+                    </person-group>. 
+                    <chapter-title>Apnoične atake</chapter-title>. In: 
+                    <person-group person-group-type="editor">
+                        <name name-style="western">
+                     <surname>Kržišnik</surname>
+                     <given-names>C</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Anderluh</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Arnež</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <role>ur</role>
+                    </person-group>. 
+                    <source>Pediatrija</source>. 
+                    <publisher-loc>Ljubljana</publisher-loc>: 
+                    <publisher-name>DZS</publisher-name>; 
+                    <year>2014</year>. pp. 
+                    <fpage>223</fpage>– 
+                    <lpage>4</lpage>. 
+                </mixed-citation>
+         </ref>
+         <ref id="b17">
+            <label>17. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Martin</surname>
+                     <given-names>RJ</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Wilson</surname>
+                     <given-names>CG</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>What to do about apnea of prematurity?</article-title>
+                    <source>J Appl Physiol (1985)</source>. 
+                    <year>2009</year>
+                    <month>Oct</month>; 
+                    <volume>107</volume>( 
+                    <issue>4</issue>): 
+                    <fpage>1015</fpage>– 
+                    <lpage>6</lpage>. 
+                    <pub-id pub-id-type="doi">10.1152/japplphysiol.00940.2009</pub-id>
+                    <pub-id pub-id-type="pmid">19696360</pub-id>
+                    <issn>1522-1601</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b18">
+            <label>18. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Robek</surname>
+                     <given-names>D</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Soltirovska Šalamon</surname>
+                     <given-names>A</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Neonatalne konvulzije</article-title>. 
+                    <source>Slov Pediatr</source>.
+                    <year>2018</year>; 
+                    <volume>25</volume>: 
+                    <fpage>148</fpage>– 
+                    <lpage>56</lpage>. 
+                </mixed-citation>
+         </ref>
+         <ref id="b19">
+            <label>19. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Westkamp</surname>
+                     <given-names>E</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Soditt</surname>
+                     <given-names>V</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Adrian</surname>
+                     <given-names>S</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Bohnhorst</surname>
+                     <given-names>B</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Groneck</surname>
+                     <given-names>P</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Poets</surname>
+                     <given-names>CF</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Blood transfusion in anemic infants with apnea of prematurity</article-title>. 
+                    <source>Biol Neonate</source>. 
+                    <year>2002</year>; 
+                    <volume>82</volume>( 
+                    <issue>4</issue>): 
+                    <fpage>228</fpage>– 
+                    <lpage>32</lpage>. 
+                    <pub-id pub-id-type="doi">10.1159/000065891</pub-id>
+                    <pub-id pub-id-type="pmid">12381929</pub-id>
+                    <issn>0006-3126</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b20">
+            <label>20. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Slocum</surname>
+                     <given-names>C</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Hibbs</surname>
+                     <given-names>AM</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Martin</surname>
+                     <given-names>RJ</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Orenstein</surname>
+                     <given-names>SR</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Infant apnea and gastroesophageal reflux: a critical review and framework for further investigation</article-title>. 
+                    <source>Curr Gastroenterol Rep</source>. 
+                    <year>2007</year>
+                    <month>Jun</month>; 
+                    <volume>9</volume>( 
+                    <issue>3</issue>): 
+                    <fpage>219</fpage>– 
+                    <lpage>24</lpage>. 
+                    <pub-id pub-id-type="doi">10.1007/s11894-007-0022-3</pub-id>
+                    <pub-id pub-id-type="pmid">17511920</pub-id>
+                    <issn>1522-8037</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b21">
+            <label>21. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Arad-Cohen</surname>
+                     <given-names>N</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Cohen</surname>
+                     <given-names>A</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Tirosh</surname>
+                     <given-names>E</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>The relationship between gastroesophageal reflux and apnea in infants</article-title>. 
+                    <source>J Pediatr</source>. 
+                    <year>2000</year>
+                    <month>Sep</month>; 
+                    <volume>137</volume>( 
+                    <issue>3</issue>): 
+                    <fpage>321</fpage>– 
+                    <lpage>6</lpage>. 
+                    <pub-id pub-id-type="doi">10.1067/mpd.2000.107847</pub-id>
+                    <pub-id pub-id-type="pmid">10969254</pub-id>
+                    <issn>0022-3476</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b22">
+            <label>22. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Amin</surname>
+                     <given-names>RS</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Gastroesophageal reflux and infant apnea</article-title>. 
+                    <source>J Pediatr</source>. 
+                    <year>2000</year>
+                    <month>Sep</month>; 
+                    <volume>137</volume>( 
+                    <issue>3</issue>): 
+                    <fpage>298</fpage>– 
+                    <lpage>300</lpage>. 
+                    <pub-id pub-id-type="doi">10.1067/mpd.2000.109737</pub-id>
+                    <pub-id pub-id-type="pmid">10969250</pub-id>
+                    <issn>0022-3476</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b23">
+            <label>23. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Rambaud</surname>
+                     <given-names>C</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Guilleminault</surname>
+                     <given-names>C</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>“Back to sleep” and unexplained death in infants</article-title>. 
+                    <source>Sleep</source>. 
+                    <year>2004</year>
+                    <month>Nov</month>; 
+                    <volume>27</volume>( 
+                    <issue>7</issue>): 
+                    <fpage>1359</fpage>– 
+                    <lpage>66</lpage>. 
+                    <pub-id pub-id-type="doi">10.1093/sleep/27.7.1359</pub-id>
+                    <pub-id pub-id-type="pmid">15586789</pub-id>
+                    <issn>0161-8105</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b24">
+            <label>24. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Lemyre</surname>
+                     <given-names>B</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Davis</surname>
+                     <given-names>PG</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>De Paoli</surname>
+                     <given-names>AG</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Nasal intermittent positive pressure ventilation (NIPPV) versus nasal continuous positive airway pressure (NCPAP) for apnea of prematurity</article-title>. 
+                    <source>Cochrane Database Syst Rev</source>. 
+                    <year>2000</year>;( 
+                    <issue>3</issue>): 
+                    <fpage>CD002272</fpage>. 
+                    <pub-id pub-id-type="pmid">10908544</pub-id>
+                    <issn>1469-493X</issn> 
+                </mixed-citation>
+         </ref>
+         <ref id="b25">
+            <label>25. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Kubicka</surname>
+                     <given-names>ZJ</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Limauro</surname>
+                     <given-names>J</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Darnall</surname>
+                     <given-names>RA</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Heated, humidified high-flow nasal cannula therapy: yet another way to deliver continuous positive airway pressure?</article-title>
+                    <source>Pediatrics</source>. 
+                    <year>2008</year>
+                    <month>Jan</month>; 
+                    <volume>121</volume>( 
+                    <issue>1</issue>): 
+                    <fpage>82</fpage>– 
+                    <lpage>8</lpage>. 
+                    <pub-id pub-id-type="doi">10.1542/peds.2007-0957</pub-id>
+                    <pub-id pub-id-type="pmid">18166560</pub-id>
+                    <issn>0031-4005</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b26">
+            <label>26. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Henderson-Smart</surname>
+                     <given-names>DJ</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>De Paoli</surname>
+                     <given-names>AG</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Prophylactic methylxanthine for prevention of apnoea in preterm infants</article-title>. 
+                    <source>Cochrane Database Syst Rev</source>. 
+                    <year>2010</year>
+                    <month>Dec</month>; 
+                    <volume>12</volume>( 
+                    <issue>12</issue>): 
+                    <fpage>CD000432</fpage>. 
+                    <pub-id pub-id-type="doi">10.1002/14651858.CD000432.pub2</pub-id>
+                    <pub-id pub-id-type="pmid">21154344</pub-id>
+                    <issn>1469-493X</issn> 
+                </mixed-citation>
+         </ref>
+         <ref id="b27">
+            <label>27. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Schmidt</surname>
+                     <given-names>B</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Roberts</surname>
+                     <given-names>RS</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Davis</surname>
+                     <given-names>P</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Doyle</surname>
+                     <given-names>LW</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Barrington</surname>
+                     <given-names>KJ</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Ohlsson</surname>
+                     <given-names>A</given-names>
+                  </name>, 
+                        <etal>et al</etal>.; 
+                        <collab>Caffeine for Apnea of Prematurity Trial Group</collab>
+                    </person-group>. 
+                    <article-title>Caffeine therapy for apnea of prematurity</article-title>. 
+                    <source>N Engl J Med</source>. 
+                    <year>2006</year>
+                    <month>May</month>; 
+                    <volume>354</volume>( 
+                    <issue>20</issue>): 
+                    <fpage>2112</fpage>– 
+                    <lpage>21</lpage>. 
+                    <pub-id pub-id-type="doi">10.1056/NEJMoa054065</pub-id>
+                    <pub-id pub-id-type="pmid">16707748</pub-id>
+                    <issn>0028-4793</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b28">
+            <label>28. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Shrestha</surname>
+                     <given-names>B</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Jawa</surname>
+                     <given-names>G</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Caffeine citrate - Is it a silver bullet in neonatology?</article-title>
+                    <source>Pediatr Neonatol</source>. 
+                    <year>2017</year>
+                    <month>Oct</month>; 
+                    <volume>58</volume>( 
+                    <issue>5</issue>): 
+                    <fpage>391</fpage>– 
+                    <lpage>7</lpage>. 
+                    <pub-id pub-id-type="doi">10.1016/j.pedneo.2016.10.003</pub-id>
+                    <pub-id pub-id-type="pmid">28446386</pub-id>
+                    <issn>1875-9572</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b29">
+            <label>29. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Neubauer</surname>
+                     <given-names>D</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Erjavec</surname>
+                     <given-names>M</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Uporaba kardiorespirografije v neonatologiji</article-title>.
+                    <source>Zdravstveno varstvo v perinatalni dobi</source>. 
+                    <year>1983</year>; 
+                    <volume>1983</volume>(
+                    <fpage>65</fpage>-
+                    <lpage>7</lpage>. 
+                </mixed-citation>
+         </ref>
+         <ref id="b30">
+            <label>30. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Doyle</surname>
+                     <given-names>J</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Davidson</surname>
+                     <given-names>D</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Katz</surname>
+                     <given-names>S</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Varela</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Demeglio</surname>
+                     <given-names>D</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>DeCristofaro</surname>
+                     <given-names>J</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Apnea of prematurity and caffeine pharmacokinetics: potential impact on hospital discharge</article-title>. 
+                    <source>J Perinatol</source>. 
+                    <year>2016</year>
+                    <month>Feb</month>; 
+                    <volume>36</volume>( 
+                    <issue>2</issue>): 
+                    <fpage>141</fpage>– 
+                    <lpage>4</lpage>. 
+                    <pub-id pub-id-type="doi">10.1038/jp.2015.167</pub-id>
+                    <pub-id pub-id-type="pmid">26562367</pub-id>
+                    <issn>0743-8346</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b31">
+            <label>31. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Aranda</surname>
+                     <given-names>JV</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Collinge</surname>
+                     <given-names>JM</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Zinman</surname>
+                     <given-names>R</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Watters</surname>
+                     <given-names>G</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Maturation of caffeine elimination in infancy</article-title>. 
+                    <source>Arch Dis Child</source>. 
+                    <year>1979</year>
+                    <month>Dec</month>; 
+                    <volume>54</volume>( 
+                    <issue>12</issue>): 
+                    <fpage>946</fpage>– 
+                    <lpage>9</lpage>. 
+                    <pub-id pub-id-type="doi">10.1136/adc.54.12.946</pub-id>
+                    <pub-id pub-id-type="pmid">533298</pub-id>
+                    <issn>0003-9888</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b32">
+            <label>32. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Aranda</surname>
+                     <given-names>JV</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Turmen</surname>
+                     <given-names>T</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Davis</surname>
+                     <given-names>J</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Trippenbach</surname>
+                     <given-names>T</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Grondin</surname>
+                     <given-names>D</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Zinman</surname>
+                     <given-names>R</given-names>
+                  </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>Effect of caffeine on control of breathing in infantile apnea</article-title>. 
+                    <source>J Pediatr</source>. 
+                    <year>1983</year>
+                    <month>Dec</month>; 
+                    <volume>103</volume>( 
+                    <issue>6</issue>): 
+                    <fpage>975</fpage>– 
+                    <lpage>8</lpage>. 
+                    <pub-id pub-id-type="doi">10.1016/S0022-3476(83)80735-5</pub-id>
+                    <pub-id pub-id-type="pmid">6644439</pub-id>
+                    <issn>0022-3476</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b33">
+            <label>33. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Henderson-Smart</surname>
+                     <given-names>D</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Steer</surname>
+                     <given-names>P</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Doxapram treatment for apnea in preterm infants</article-title>. 
+                    <source>Cochrane Database Syst Rev</source>. 
+                    <year>2004</year>
+                    <month>Oct</month>;( 
+                    <issue>4</issue>): 
+                    <fpage>CD000074</fpage>. 
+                    <pub-id pub-id-type="doi">10.1002/14651858.CD000074.pub2</pub-id>
+                    <pub-id pub-id-type="pmid">15494987</pub-id>
+                    <issn>1469-493X</issn> 
+                </mixed-citation>
+         </ref>
+         <ref id="b34">
+            <label>34. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Al-Saif</surname>
+                     <given-names>S</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Alvaro</surname>
+                     <given-names>R</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Manfreda</surname>
+                     <given-names>J</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Kwiatkowski</surname>
+                     <given-names>K</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Cates</surname>
+                     <given-names>D</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Qurashi</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>A randomized controlled trial of theophylline versus CO2 inhalation for treating apnea of prematurity</article-title>. 
+                    <source>J Pediatr</source>. 
+                    <year>2008</year>
+                    <month>Oct</month>; 
+                    <volume>153</volume>( 
+                    <issue>4</issue>): 
+                    <fpage>513</fpage>– 
+                    <lpage>8</lpage>. 
+                    <pub-id pub-id-type="doi">10.1016/j.jpeds.2008.04.025</pub-id>
+                    <pub-id pub-id-type="pmid">18534618</pub-id>
+                    <issn>0022-3476</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b35">
+            <label>35. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Edraki</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Pourpulad</surname>
+                     <given-names>H</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Kargar</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Pishva</surname>
+                     <given-names>N</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Zare</surname>
+                     <given-names>N</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Montaseri</surname>
+                     <given-names>H</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Olfactory stimulation by vanillin prevents apnea in premature newborn infants</article-title>. 
+                    <source>Iran J Pediatr</source>. 
+                    <year>2013</year>
+                    <month>Jun</month>; 
+                    <volume>23</volume>( 
+                    <issue>3</issue>): 
+                    <fpage>261</fpage>– 
+                    <lpage>8</lpage>. 
+                    <pub-id pub-id-type="pmid">23795247</pub-id>
+                    <issn>2008-2142</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b36">
+            <label>36. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Eichenwald</surname>
+                     <given-names>EC</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Aina</surname>
+                     <given-names>A</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Stark</surname>
+                     <given-names>AR</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Apnea frequently persists beyond term gestation in infants delivered at 24 to 28 weeks</article-title>. 
+                    <source>Pediatrics</source>. 
+                    <year>1997</year>
+                    <month>Sep</month>; 
+                    <volume>100</volume>( 
+                    <issue>3 Pt 1</issue>): 
+                    <fpage>354</fpage>– 
+                    <lpage>9</lpage>. 
+                    <pub-id pub-id-type="doi">10.1542/peds.100.3.354</pub-id>
+                    <pub-id pub-id-type="pmid">9282705</pub-id>
+                    <issn>0031-4005</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b37">
+            <label>37. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Tamim</surname>
+                     <given-names>H</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Khogali</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Beydoun</surname>
+                     <given-names>H</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Melki</surname>
+                     <given-names>I</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Yunis</surname>
+                     <given-names>K</given-names>
+                  </name>; 
+                        <collab>National Collaborative Perinatal Neonatal Network</collab>
+                    </person-group>. 
+                    <article-title>Consanguinity and apnea of prematurity</article-title>. 
+                    <source>Am J Epidemiol</source>. 
+                    <year>2003</year>
+                    <month>Nov</month>; 
+                    <volume>158</volume>( 
+                    <issue>10</issue>): 
+                    <fpage>942</fpage>– 
+                    <lpage>6</lpage>. 
+                    <pub-id pub-id-type="doi">10.1093/aje/kwg226</pub-id>
+                    <pub-id pub-id-type="pmid">14607801</pub-id>
+                    <issn>0002-9262</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b38">
+            <label>38. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Bloch-Salisbury</surname>
+                     <given-names>E</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Hall</surname>
+                     <given-names>MH</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Sharma</surname>
+                     <given-names>P</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Boyd</surname>
+                     <given-names>T</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Bednarek</surname>
+                     <given-names>F</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Paydarfar</surname>
+                     <given-names>D</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Heritability of apnea of prematurity: a retrospective twin study</article-title>. 
+                    <source>Pediatrics</source>. 
+                    <year>2010</year>
+                    <month>Oct</month>; 
+                    <volume>126</volume>( 
+                    <issue>4</issue>): 
+                    <fpage>e779</fpage>– 
+                    <lpage>87</lpage>. 
+                    <pub-id pub-id-type="doi">10.1542/peds.2010-0084</pub-id>
+                    <pub-id pub-id-type="pmid">20837586</pub-id>
+                    <issn>0031-4005</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b39">
+            <label>39. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Kumral</surname>
+                     <given-names>A</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Tuzun</surname>
+                     <given-names>F</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Yesilirmak</surname>
+                     <given-names>DC</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Duman</surname>
+                     <given-names>N</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Ozkan</surname>
+                     <given-names>H</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Genetic basis of apnoea of prematurity and caffeine treatment response: role of adenosine receptor polymorphisms: genetic basis of apnoea of prematurity</article-title>. 
+                    <source>Acta Paediatr</source>. 
+                    <year>2012</year>
+                    <month>Jul</month>; 
+                    <volume>101</volume>( 
+                    <issue>7</issue>): 
+                    <fpage>e299</fpage>– 
+                    <lpage>303</lpage>. 
+                    <pub-id pub-id-type="doi">10.1111/j.1651-2227.2012.02664.x</pub-id>
+                    <pub-id pub-id-type="pmid">22462821</pub-id>
+                    <issn>0803-5253</issn>
+                </mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

@@ -1,0 +1,2358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD with MathML3 v1.1 20151215//EN" "JATS-journalpublishing1-mathml3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         xmlns:ali="http://www.niso.org/schemas/ali/1.0/"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         dtd-version="1.1"
+         xml:lang="sl"
+         article-type="other">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher-id">Zdrav Vestn</journal-id>
+         <journal-id journal-id-type="nlm-ta">Zdrav Vestn</journal-id>
+         <journal-id journal-id-type="doi">Zdrav Vestn</journal-id>
+         <journal-title-group>
+            <journal-title>Zdravniški vestnik</journal-title>
+            <trans-title-group xml:lang="en">
+               <trans-title>Slovenian Medical Journal</trans-title>
+            </trans-title-group>
+            <abbrev-journal-title>Zdrav Vestn</abbrev-journal-title>
+         </journal-title-group>
+         <issn publication-format="ppub" pub-type="ppub">1318-0347</issn>
+         <issn publication-format="epub" pub-type="epub">1581-0224</issn>
+         <issn-l>0350-0063</issn-l>
+         <publisher>
+            <publisher-name xml:lang="sl">Slovensko zdravniško društvo</publisher-name>
+            <publisher-name xml:lang="en">Slovenian Medical Association</publisher-name>
+            <publisher-loc xml:lang="sl">Ljubljana, Slovenia</publisher-loc>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.6016/ZdravVestn.2892</article-id>
+         <article-id pub-id-type="publisher-id">2892</article-id>
+         <article-categories>
+            <subj-group subj-group-type="discipline" xml:lang="en">
+               <subject>Medicine and health sciences</subject>
+               <subj-group>
+                  <subject>Stomatology</subject>
+               </subj-group>
+            </subj-group>
+            <subj-group subj-group-type="discipline" xml:lang="sl">
+               <subject>Medicina/Zdravstvo</subject>
+               <subj-group>
+                  <subject>Stomatologija</subject>
+               </subj-group>
+            </subj-group>
+            <subj-group subj-group-type="article-type" xml:lang="en">
+               <subject>Original scientific article</subject>
+            </subj-group>
+            <subj-group subj-group-type="article-type" xml:lang="sl">
+               <subject>Izvirni znanstveni članek</subject>
+            </subj-group>
+            <subj-group subj-group-type="heading" xml:lang="sl">
+               <subject>Stomatologija</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title xml:lang="sl">Motnje hranjenja in požiranja pri otrocih z razcepi v orofacialnem področju</article-title>
+            <trans-title-group>
+               <trans-title xml:lang="en">Feeding and swallowing disorders in children with clefts in the orofacial region</trans-title>
+            </trans-title-group>
+            <alt-title alt-title-type="running-head" xml:lang="sl">Motnje hranjenja in požiranja pri otrocih z razcepi v orofacialnem področju</alt-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Jelenc</surname>
+                  <given-names>Nika</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1">1</xref>
+               <xref ref-type="corresp" rid="corr"/>
+            </contrib>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Eberlinc</surname>
+                  <given-names>Andreja</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff2">2</xref>
+            </contrib>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Hočevar Boltežar</surname>
+                  <given-names>Irena</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff3">3</xref>
+               <xref ref-type="aff" rid="aff4">4</xref>
+            </contrib>
+         </contrib-group>
+         <aff-alternatives id="aff1">
+            <aff xml:lang="sl">
+               <label>1</label>
+               <institution>Univerzitetni rehabilitacijski inštitut Republike Slovenije – Soča, Ljubljana, Slovenija</institution>
+            </aff>
+            <aff xml:lang="en">
+               <label>1</label>
+               <institution>University Rehabilitation Institute Republic of Slovenia, Ljubljana, Slovenia</institution>
+            </aff>
+         </aff-alternatives>
+         <aff-alternatives id="aff2">
+            <aff xml:lang="sl">
+               <label>2</label>
+               <institution>Klinični oddelek za maksilofacialno in oralno kirurgijo, Kirurška klinika, Univerzitetni klinični center Ljubljana, Ljubljana, Slovenija</institution>
+            </aff>
+            <aff xml:lang="en">
+               <label>2</label>
+               <institution>Department of Maxillofacial and Oral Surgery, Division of Surgery, University Medical Centre Ljubljana, Ljubljana, Slovenia</institution>
+            </aff>
+         </aff-alternatives>
+         <aff-alternatives id="aff3">
+            <aff xml:lang="sl">
+               <label>3</label>
+               <institution>Klinika za otorinolaringologijo in cervikofacialno kirurgijo, Univerzitetni klinični center Ljubljana, Ljubljana, Slovenija</institution>
+            </aff>
+            <aff xml:lang="en">
+               <label>3</label>
+               <institution>Department of Otorhinolaryngology and Cervicofacial Surgery, University Medical Centre Ljubljana, Ljubljana, Slovenia</institution>
+            </aff>
+         </aff-alternatives>
+         <aff-alternatives id="aff4">
+            <aff xml:lang="sl">
+               <label>4</label>
+               <institution>Medicinska fakulteta, Univerza v Ljubljani, Ljubljana, Slovenija</institution>
+            </aff>
+            <aff xml:lang="en">
+               <label>4</label>
+               <institution>Faculty of Medicine, University of Ljubljana, Ljubljana, Slovenia</institution>
+            </aff>
+         </aff-alternatives>
+         <author-notes>
+            <fn fn-type="conflict" xml:lang="en">
+               <p>The authors have declared that no competing interests exist.</p>
+            </fn>
+            <fn fn-type="conflict" xml:lang="sl">
+               <p>Avtorji so izjavili, da ne obstajajo nobeni konkurenčni interesi.</p>
+            </fn>
+            <corresp id="corr">Nika Jelenc, e-mail: <email xlink:type="simple"/>
+            </corresp>
+         </author-notes>
+         <pub-date pub-type="ppub">
+            <month>10</month>
+            <year>2019</year>
+         </pub-date>
+         <pub-date pub-type="epub">
+            <month>10</month>
+            <year>2019</year>
+         </pub-date>
+         <volume>88</volume>
+         <issue>9–10</issue>
+         <fpage>405</fpage>
+         <lpage>14</lpage>
+         <history>
+            <date date-type="received">
+               <day>27</day>
+               <month>10</month>
+               <year>2018</year>
+            </date>
+            <date date-type="accepted">
+               <day>24</day>
+               <month>3</month>
+               <year>2019</year>
+            </date>
+         </history>
+         <permissions>
+            <copyright-statement xml:lang="en">Copyright © 2019, Slovenian Medical Association (SZD)</copyright-statement>
+            <copyright-statement xml:lang="sl">© 2019, Slovensko zdravniško društvo (SZD)</copyright-statement>
+            <copyright-year>2019</copyright-year>
+            <copyright-holder xml:lang="en">Slovenian Medical Association (SZD)</copyright-holder>
+            <copyright-holder xml:lang="sl">Slovensko zdravniško društvo (SZD)</copyright-holder>
+            <license xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                     xlink:type="simple"
+                     xml:lang="en">
+               <license-p>This is an open access article distributed under the terms of the
+          <ext-link ext-link-type="uri"
+                            xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                            xlink:type="simple">Creative Commons Attribution-NonCommercial
+            License</ext-link>, which permits unrestricted use, distribution, and
+          reproduction in any medium, provided the original author and source are
+          credited and only for non-commercial purposes. </license-p>
+            </license>
+            <license xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                     xlink:type="simple"
+                     xml:lang="sl">
+               <license-p>To je članek z odprtim dostopom, ki ga lahko uporabite pod pogoji iz
+          <ext-link ext-link-type="uri"
+                            xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                            xlink:type="simple">Creative Commons Priznanje avtorstva-Nekomercialno
+            licence</ext-link>. ki dovoljuje distribucijo, predelavo ali
+          prilagoditev, ter gradijo na njem, v nekomercialne namene, z navedbo avtorja
+          in izvirnega dela.</license-p>
+            </license>
+         </permissions>
+         <abstract xml:lang="sl">
+            <title>Izvleček</title>
+            <p>Izhodišče: Orofacialni razcep je najpogostejša prirojena obrazna nepravilnost. Otroci z razcepi v orofacialnem področju imajo poleg težav z govorom tudi težave na področju hranjenja in požiranja. Raziskave kažejo, da so simptomi težav s hranjenjem precej raznoliki. V skrajnih primerih je potrebno uvesti nadomestne načine hranjenja. V Sloveniji še ni bila narejena raziskava o pojavljanju težav s hranjenjem pri otrocih z razcepi v orofacialnem področju.</p>
+            <p>Metode: Ugotoviti smo želeli pogostost in vrsto težav s hranjenjem otrok z razcepi v orofacialnem področju, starih od pet mesecev do šest let. V ta namen smo izoblikovali anonimni vprašalnik za starše o vrsti orofacialnega razcepa, možnih otrokovih težavah pri hranjenju, požiranju in govoru ter pripomočkih za hranjenje. Vprašalnik je bil najprej pilotsko preizkušen pri starših otrok z orofacialnimi razcepi med kontrolnimi ambulantnimi pregledi, nato pa poslan 93 staršem otrok z orofacialnimi razcepi, rojenih v obdobju treh zaporednih let. Z opisno statistiko smo predstavili pogostnost pojavljanja težav ter analizirali dejavnike, ki so se pogosteje pojavljali pri otrocih s težavami pri hranjenju.</p>
+            <p>Rezultati: Starši 58 otrok z orofacialnimi razcepi so izpolnili vprašalnik. Ugotovili smo, da je imelo skoraj tri četrtine otrok težave z vzpostavitvijo hranjenja takoj po rojstvu, kasneje so se težave s hranjenjem zmanjšale, vendar so bile v četrtini primerov še vedno prisotne do zaključenega kirurškega zdravljenja. Največ težav se je pojavljalo zaradi uhajanja hrane in pijače skozi nos, požiranja zraka pri hranjenju po steklenički in podaljšanega časa hranjenja. Otroci z razcepom neba z razcepom ustnice ali brez so imeli bistveno več težav s hranjenjem kot otroci samo z razcepom ustnice. Večina staršev je za hranjenje uporabljala prilagojeno stekleničko in je bila z uporabo zadovoljna. Več kot polovica staršev je izjavila, da so prejeli premalo informacij v zvezi s hranjenjem pred in takoj po rojstvu otroka.</p>
+            <p>Zaključek: Kljub dobro organizirani multidisciplinarni skrbi za otroke z orofacialnimi razcepi v Sloveniji starši še vedno pogrešajo konkretna navodila o hranjenju otroka z orofacialnim razcepom, zaradi česar bo potrebno dodatno izobraziti predvsem medicinske sestre, ki delajo v porodnišnicah. Glede na visoke cene pripomočkov za hranjenje otrok z orofacialnimi razcepi bi bilo dobrodošlo, da bi kril stroške ZZZS.</p>
+         </abstract>
+         <trans-abstract xml:lang="en">
+            <title>Abstract</title>
+            <p>Background: Orofacial clefts are the most common congenital craniofacial malformations. Children with orofacial clefts do not only have problems with speech, but also with feeding and swallowing. Alternative methods of feeding need to be introduced in severe cases. Until now there has not been conducted a single study regarding feeding and swallowing problems in children with orofacial clefts in Slovenia.</p>
+            <p>Methods: The aim of the study was to determine the prevalence and the type of feeding and swallowing problems in children with orofacial clefts, aged between five months and six years. An anonymous questionnaire for parents was created, containing questions about the type of the child’s orofacial cleft, child’s possible feeding, swallowing and speech problems, and special feeding gadgets. The questionnaire was initially tested in a pilot study during routine medical follow-up visits. Afterwards, it was sent to 93 parents of children with clefs, born in a period of three consecutive years. A descriptive statistics was used to present the prevalence of feeding and swallowing problems in children with orofacial clefts. The factors correlated with feeding problems were analysed.</p>
+            <p>Results: Almost three-quarters of children had problems with feeding immediately after birth; problems with feeding later decreased, but they were still present in one quarter of all cases until the completed surgical treatment. Most difficulties occurred due to nasal regurgitation, excessive air intake while bottle feeding, and prolonged feeding time. Children with cleft palate with or without cleft lip had significantly more feeding problems in comparison to children with cleft lip only. Most parents used special feeding bottles and were generally satisfied with their use. More than a half of the parents believed that they had received too little information about feeding before and immediately after the child’s birth.</p>
+            <p>Conclusion: Despite the well-organized multidisciplinary care of children with orofacial clefts in Slovenia, parents still miss the professional counselling about feeding their children. Therefore, an additional education of nurses working in maternity hospitals will be necessary in the future. Considering the high prices of special feeding gadgets for children with orofacial clefts, covering of their costs by the health insurance would be welcome.</p>
+         </trans-abstract>
+         <kwd-group xml:lang="sl">
+            <kwd>razcepi v orofacialnem področju</kwd>
+            <kwd>težave s hranjenjem in požiranjem</kwd>
+            <kwd>vprašalnik</kwd>
+            <kwd>dejavniki tveganja</kwd>
+            <kwd>obravnava </kwd>
+         </kwd-group>
+         <kwd-group xml:lang="en">
+            <kwd>orofacial clefts</kwd>
+            <kwd>feeding and swallowing problems</kwd>
+            <kwd>questionnaire</kwd>
+            <kwd>risk factors</kwd>
+            <kwd>interventions</kwd>
+         </kwd-group>
+      </article-meta>
+   </front>
+   <body>
+      <sec id="s1" sec-type="Uvod">
+         <label>1</label>
+         <title>Uvod</title>
+         <p>Orofacialni razcep je najpogostejša prirojena obrazna nepravilnost. V Sloveniji se rodi približno 1,77 posameznikov z razcepom v orofacialnem področju na 1.000 živorojenih otrok (<xref ref-type="bibr" rid="b1">1</xref>). Večina orofacialnih razcepov nastane kot kombinacija genetskih in zunanjih faktorjev in se razvije v zgodnji fazi nosečnosti (<xref ref-type="bibr" rid="b2">2</xref>).</p>
+         <p>Orofacialne razcepe delimo v štiri skupine. V prvo skupino sodi razcep ustnice (<italic toggle="yes">cheiloschisis – CL)</italic> ali ustnice in čeljustnega grebena na eni ali obeh straneh <italic toggle="yes">(cheilognathoschisis unilateralis/</italic>
+            <italic toggle="yes">bilateralis – CLA)</italic>. V drugo skupino sodi razcepljena ustnica, čeljustni greben in nebo na eni ali obeh straneh (<italic toggle="yes">cheilognathopalatoschisis unilateralis – UCLP</italic>
+            <italic toggle="yes"> / bilateralis – BCLP)</italic>. Pri tretji skupini orofacialnih razcepov gre za razcepljeno nebo <italic toggle="yes">(palatoschisis – CP)</italic>. V četrto skupino sodijo redke oblike orofacialnih razcepov na drugih predelih obraza (<xref ref-type="bibr" rid="b2">2</xref>,<xref ref-type="bibr" rid="b3">3</xref>). Orofacialni razcep se lahko pojavi kot del sindromske simptomatike. Obstaja več kot 400 sindromov, povezanih z razcepom ustnice in/ali neba (<xref ref-type="bibr" rid="b4">4</xref>). Približno 30 % vseh orofacialnih razcepov se pojavi v sklopu sindroma (<xref ref-type="bibr" rid="b5">5</xref>).</p>
+         <p>Razcep v orofacialnem področju lahko v veliki meri vpliva na izgled, govor, sluh ter rast in razvoj obraza, ne nazadnje pa tudi psiho-socialno in ekonomsko prizadene otroka in njegovo družino ter s tem močno zniža kakovost življenja (<xref ref-type="bibr" rid="b2">2</xref>,<xref ref-type="bibr" rid="b6">6</xref>).</p>
+         <p>Hranjenje je osnovna funkcija človeka. Hranjenje in požiranje zajema celoten akt od sprejema hrane v usta do oblikovanja grižljaja in potovanja grižljaja prek žrela v požiralnik in želodec (<xref ref-type="bibr" rid="b7">7</xref>).</p>
+         <p>Številne študije so pokazale, da imajo otroci z orofacialnimi razcepi težave s hranjenjem različnih razsežnosti, vendar si strokovnjaki niso enotni glede simptomatike težav. Lahko prihaja do davljenja, kašlja, požiranja zraka in podaljšanega časa hranjenja, s tem pa tudi do neustreznega pridobivanja na teži, dehidracije in potrebe po nadomestnem načinu hranjenja (<xref ref-type="bibr" rid="b8">8</xref>,<xref ref-type="bibr" rid="b9">9</xref>). Najpogosteje opisana težava pri hranjenju novorojenčkov z razcepom neba je oralna motorična disfunkcija in zahajanje hrane skozi nos ter nizka učinkovitost pri hranjenju. Največ tveganja za nastanek težav s hranjenjem obstaja pri otrocih z Robinovo sekvenco (<xref ref-type="bibr" rid="b10">10</xref>).</p>
+         <p>De Vries in sodelavci (<xref ref-type="bibr" rid="b8">8</xref>) so s pomočjo vprašalnikov za starše (90 udeležencev) ugotavljali pogostost težav s hranjenjem pri osebah s CP. Kar 67 % v študijo zajetih otrok z CP je kazalo visoko tveganje za nastanek težav s hranjenjem. Pogosto je bilo potrebno uvesti hranjenje prek nazogastrične sonde (v 32 %). Jones (<xref ref-type="bibr" rid="b11">11</xref>) je navajal težave s hranjenjem pri 25 % otrok z različnimi orofacialnimi razcepi, Spriestersbach s sodelavci (<xref ref-type="bibr" rid="b12">12</xref>) pa je ugotovil, da je imelo kar 73 % otrok z izoliranim CP težave s hranjenjem. Reid in sodelavci (<xref ref-type="bibr" rid="b13">13</xref>) so preiskovali veščine hranjenja pri dojenčkih s shizo in poskušali prepoznati dejavnike tveganja. Ugotovili so, da ima 32 % novorojenčkov z orofacialnimi razcepi šibke veščine hranjenja, prevalenca se pri treh mesecih starosti zniža na 19 % in pri 14 mesecih na 15 %. Le redki novorojenčki z določenimi orofacialnimi razcepi se lahko hranijo z dojenjem. De Vries in sodelavc (<xref ref-type="bibr" rid="b8">8</xref>) so zabeležili, da 86 % mater otrok z razcepi neba ni nikoli poskusilo dojiti. Trenouth in Campbell (<xref ref-type="bibr" rid="b14">14</xref>) sta ugotovili, da so samo pri novorojenčkih z izoliranim CL uspeli vzdrževati ustrezno telesno težo le z dojenjem.</p>
+         <p>Reid in sodelavci (<xref ref-type="bibr" rid="b15">15</xref>) so raziskovali, kakšno je sesanje novorojenčkov, rojenih z orofacialnimi razcepi. Ugotovili so, da so otroci z izoliranim CL izkazovali podobno sesanje kot vrstniki, pri novorojenčkih s CP s CL ali brez pa so zaznali spremenjen vzorec sesanja.</p>
+         <p>Strokovnjaki opozarjajo, da je hranjenje potrebno obravnavati povsem drugače, kadar gre za orofacialni razcep v okviru kraniofacialnega sindroma. Takrat poleg prizadetih obraznih struktur na hranjenje vpliva še vrsta drugih strukturnih, dihalnih in živčno-mišičnih posebnosti otroka (<xref ref-type="bibr" rid="b16">16</xref>,<xref ref-type="bibr" rid="b17">17</xref>).</p>
+         <p>Pomembno je vedeti, da je zdravljenje otrok z orofacialnimi razcepi dolgotrajno in zapleteno, vanj so od otrokovega rojstva naprej vključeni različni specialisti, ki se redno sestajajo, skupaj načrtujejo zdravljenje najbolj zahtevnih otrok z orofacialnimi razcepi, vrednotijo svoje delo, iščejo vzroke za neuspehe, jih skušajo pojasniti in odpravljati (<xref ref-type="bibr" rid="b18">18</xref>). Člani tima ugotavljajo nastale motnje, sami obravnavajo otroka z orofacialnim razcepom ali ga napotijo k drugim ožje usmerjenim strokovnjakom v bližini otrokovega doma (<xref ref-type="bibr" rid="b19">19</xref>,<xref ref-type="bibr" rid="b20">20</xref>).</p>
+         <p>Doslej v Sloveniji še ni bilo študije, ki bi sistematično raziskovala probleme hranjenja in požiranja pri otrocih z orofacialnimi razcepi in njihovo reševanje.</p>
+      </sec>
+      <sec id="s2" sec-type="Metode">
+         <label>2</label>
+         <title>Metode</title>
+         <p>Preiskovana populacija so bili predšolski otroci z razcepom v orofacialnem področju, stari od 6 mesecev do 6 let. Za namen raziskave smo na podlagi podatkov iz literature (<xref ref-type="bibr" rid="b17">17</xref>,<xref ref-type="bibr" rid="b21">21</xref>) oblikovali anonimni vprašalnik. Vprašanja so bila vezana na splošne informacije o otroku, podatke o njegovem hranjenju in požiranju, uporabljenih pripomočkih za hranjenje, spremljajočih težavah poleg hranjenja (občutljivost pri sprejemanju dotikov v ustih in umivanju zob, težave pri razvoju govora, stres staršev ob hranjenju), ter podatke o podpori in pomoči strokovnih delavcev pri hranjenju otroka z orofacialnim razcepom.</p>
+         <p>Vprašalnik smo najprej pilotno preizkusili z 19 starši, ki so pripeljali svoje otroke z orofacialnimi razcepi na kontrolni pregled k maksilofacialnemu kirurgu, nato pa ga razposlali vsem staršem otrok z orofacialnimi razcepi, rojenih v treh zaporednih letih, od 1. 1. 2013 do 31. 12. 2016. Vprašalnik je bil anonimen, le s pripisanim imenom otroka in podpisanim dovoljenjem staršev smo lahko povzeli medicinske podatke otrok iz zdravstvene dokumentacije in z njimi dopolnili rezultate vprašalnika (gestacijska starost ob rojstvu in tip orofacialnega razcepa).</p>
+         <p>Rezultate smo analizirali s programom Excel 2013 in IBM SPSS Statistics 22.0. Predstavili smo jih z opisno statistiko, nato pa primerjali rezultate vprašalnika med skupino otrok z orofacialnimi razcepi, ki so imeli težave s hranjenjem in požiranjem, in skupino otrok, za katere so starši navedli, da težav s hranjenjem niso imeli. Uporabili smo test hi-kvadrat oziroma Fisherjev natančni test.</p>
+         <p>Raziskavo je odobrila Komisija za medicinsko etiko Republike Slovenije (odločba št. 0120–107/2017).</p>
+      </sec>
+      <sec id="s3" sec-type="Rezultati">
+         <label>3</label>
+         <title>Rezultati</title>
+         <p>Odziv na poslani vprašalnik je bil 47 %, od 93 poslanih vprašalnikov smo jih dobili vrnjenih 44. V končno analizo je bilo skupaj vključenih 58 vprašalnikov, poleg 44 vrnjenih še 14 popolnoma izpolnjenih vprašalnikov iz pilotske raziskave, in sicer tistih, ki so jih izpolnjevali starši otrok, starih 6 let in manj. Končno skupino so tako sestavljali otroci, ki so bili stari med šest in 72 mesecev (srednja vrednost 30 mesecev, standardni odklon 16,8 mesecev). Udeležence raziskave smo razdelili v skupine glede na vrsto orofacialnega razcepa (<xref ref-type="table" rid="table1">Tabela 1</xref>).</p>
+         <table-wrap position="anchor" id="table1" orientation="portrait">
+            <label>Tabela 1:</label>
+            <caption>
+               <p> Vrsta orofacialnega razcepa glede na spol udeležencev raziskave (N = 58).</p>
+            </caption>
+            <table>
+               <colgroup span="1">
+                  <col span="1"/>
+                  <col span="1"/>
+                  <col span="1"/>
+                  <col span="1"/>
+               </colgroup>
+               <thead>
+                  <tr>
+                     <th rowspan="1" colspan="1">Vrsta</th>
+                     <th rowspan="1" colspan="1">Moški (%)</th>
+                     <th rowspan="1" colspan="1">Ženske (%)</th>
+                     <th rowspan="1" colspan="1">Skupaj (%)</th>
+                  </tr>
+               </thead>
+               <tbody>
+                  <tr>
+                     <td rowspan="1" colspan="1">UCL</td>
+                     <td align="right" rowspan="1" colspan="1">3 (5,2)</td>
+                     <td align="right" rowspan="1" colspan="1">2 (3,4)</td>
+                     <td align="right" rowspan="1" colspan="1">5 (8,6)</td>
+                  </tr>
+                  <tr>
+                     <td rowspan="1" colspan="1">UCLA</td>
+                     <td align="right" rowspan="1" colspan="1">1 (1,7)</td>
+                     <td align="right" rowspan="1" colspan="1">2 (3,4)</td>
+                     <td align="right" rowspan="1" colspan="1">3 (5,2)</td>
+                  </tr>
+                  <tr>
+                     <td rowspan="1" colspan="1">BCLA</td>
+                     <td align="right" rowspan="1" colspan="1">1 (1,7)</td>
+                     <td align="right" rowspan="1" colspan="1">2 (3,4)</td>
+                     <td align="right" rowspan="1" colspan="1">3 (5,2)</td>
+                  </tr>
+                  <tr>
+                     <td rowspan="1" colspan="1">CP</td>
+                     <td align="right" rowspan="1" colspan="1">11 (19,0)</td>
+                     <td align="right" rowspan="1" colspan="1">13 (22,4)</td>
+                     <td align="right" rowspan="1" colspan="1">24 (41,4)</td>
+                  </tr>
+                  <tr>
+                     <td rowspan="1" colspan="1">UCLP</td>
+                     <td align="right" rowspan="1" colspan="1">9 (15,5)</td>
+                     <td align="right" rowspan="1" colspan="1">7 (12,1)</td>
+                     <td align="right" rowspan="1" colspan="1">16 (27,6)</td>
+                  </tr>
+                  <tr>
+                     <td rowspan="1" colspan="1">BCLP</td>
+                     <td align="right" rowspan="1" colspan="1">6 (10,3)</td>
+                     <td align="right" rowspan="1" colspan="1">1 (1,7)</td>
+                     <td align="right" rowspan="1" colspan="1">7 (12,1)</td>
+                  </tr>
+                  <tr>
+                     <th rowspan="1" colspan="1">Skupaj</th>
+                     <th align="right" rowspan="1" colspan="1">31 (53,4)</th>
+                     <th align="right" rowspan="1" colspan="1">27 (46,6)</th>
+                     <th align="right" rowspan="1" colspan="1">58 (100,0)</th>
+                  </tr>
+               </tbody>
+            </table>
+            <table-wrap-foot>
+               <p>Legenda: UCL – enostranski razcep ustnice, UCLA – enostranski razcep ustnice in čeljustnega grebena, BCLA – obojestranski razcep ustnice in čeljustnega grebena, CP – razcep neba, UCLP – enostranski razcep ustnice, čeljustnega grebena in neba, BCLP – obojestranski razcep ustnice, čeljustnega grebena in neba.</p>
+            </table-wrap-foot>
+         </table-wrap>
+         <p>Skupaj 53 (91,4 %) otrok, vključenih v raziskavo, je bilo rojenih po dopolnjenem 37. tednu gestacijske starosti. Pri desetih otrocih (17,2 %) se je shiza pojavila v sklopu sindroma: pri 6 otrocih v sklopu Robinove sekvence, pri 2 v sklopu van der Woudovega sindroma, 1 je imel orofaciodigitalni sindrom, 1 pa je imel poleg orofacialnega razcepa še Downov sindrom.</p>
+         <p>Težave s hranjenjem je v nekem obdobju svojega življenja imelo 42 (72,4 %) otrok. Mesec dni po rojstvu so težave vztrajale še pri 24 (40,4 %), do zaključenega kirurškega zdravljenja pa je težave imelo 14 otrok (24,1 %), pri 8 (13,8 %) pa so bile težave ves čas prisotne. Med temi 8 otroki so imeli trije CP, štirje UCLP, eden pa bilateralno CL. Dva sta imela orofacialni razcep, ki je bil del sindroma (Robinova sekvenca, sindrom van der Woude).</p>
+         <p>Enajst otrok je bilo dojenih vsaj en mesec, med njimi je bilo osem otrok s CL z razcepom čeljustnega grebena ali brez in 3 otroci s CP (eden od teh je imel submukozni razcep neba, eden pa nepopoln razcep mehkega neba).</p>
+         <p>Po nazogastrični sondi je bilo neko obdobje hranjenih 6 otrok z orofacialnim razcepom. Povprečen čas hranjenja po nazogastrični sondi je bil 3,2 meseca, vsem otrokom so sondo vstavili v prvem mesecu življenja. Od otrok, hranjenih po sondi, so imeli trije CP, trije pa UCLP. Pri štirih je bil CLP prisoten v sklopu sindroma. Dva sta imela Robinovo sekvenco, eden sindrom van der Woude in eden orofaciodigitalni sindrom. Po gastrostomi je bil hranjen le en otrok in sicer od 8. do 16. meseca starosti, pred tem je imel vstavljeno nazogastrično sondo. Poleg CP je imel tudi Robinovo sekvenco, bil je dvojček in nedonošenček.</p>
+         <p>V <xref ref-type="table" rid="table2">Tabeli 2</xref> so prikazane težave s hranjenjem in požiranjem otrok z orofacialnimi razcepi po pogostosti:</p>
+         <table-wrap position="anchor" id="table2" orientation="portrait">
+            <label>Tabela 2:</label>
+            <caption>
+               <p> Težave s hranjenjem pri otrocih z orofacialnimi razcepi po pogostosti (N = 58).</p>
+            </caption>
+            <table>
+               <colgroup span="1">
+                  <col span="1"/>
+                  <col span="1"/>
+               </colgroup>
+               <thead>
+                  <tr>
+                     <th rowspan="1" colspan="1">Težave s hranjenjem</th>
+                     <th rowspan="1" colspan="1">Število (%)</th>
+                  </tr>
+               </thead>
+               <tbody>
+                  <tr>
+                     <td rowspan="1" colspan="1">Zahajanje hrane skozi nos pred zaključenim kirurškim zdravljenjem</td>
+                     <td align="right" rowspan="1" colspan="1">37 (63,8)</td>
+                  </tr>
+                  <tr>
+                     <td rowspan="1" colspan="1">Požiranje zraka ob hranjenju po steklenički</td>
+                     <td align="right" rowspan="1" colspan="1">25 (43,1)</td>
+                  </tr>
+                  <tr>
+                     <td rowspan="1" colspan="1">Otrok zaspi med hranjenjem po steklenički</td>
+                     <td align="right" rowspan="1" colspan="1">25 (43,1)</td>
+                  </tr>
+                  <tr>
+                     <td rowspan="1" colspan="1">Podaljšan čas obroka</td>
+                     <td align="right" rowspan="1" colspan="1">23 (39,7)</td>
+                  </tr>
+                  <tr>
+                     <td rowspan="1" colspan="1">Zahajanje hrane iz ust med hranjenjem po steklenički</td>
+                     <td align="right" rowspan="1" colspan="1">20 (24,5)</td>
+                  </tr>
+                  <tr>
+                     <td rowspan="1" colspan="1">Težave z grizenjem in žvečenjem</td>
+                     <td align="right" rowspan="1" colspan="1">14 (24,6)</td>
+                  </tr>
+                  <tr>
+                     <td rowspan="1" colspan="1">Uhajanje goste hrane iz ust</td>
+                     <td align="right" rowspan="1" colspan="1">14 (24,1)</td>
+                  </tr>
+                  <tr>
+                     <td rowspan="1" colspan="1">Kašelj, dušenje pri uživanju goste hrane</td>
+                     <td align="right" rowspan="1" colspan="1">12 (20,7)</td>
+                  </tr>
+                  <tr>
+                     <td rowspan="1" colspan="1">Bruhanje, polivanje ob hranjenju po steklenički</td>
+                     <td align="right" rowspan="1" colspan="1">12 (20,7)</td>
+                  </tr>
+                  <tr>
+                     <td rowspan="1" colspan="1">Jok ob hranjenju po steklenički</td>
+                     <td align="right" rowspan="1" colspan="1">12 (20,7)</td>
+                  </tr>
+                  <tr>
+                     <td rowspan="1" colspan="1">Kašelj, dušenje ob hranjenju po steklenički</td>
+                     <td align="right" rowspan="1" colspan="1">11 (19,0)</td>
+                  </tr>
+                  <tr>
+                     <td rowspan="1" colspan="1">Neustrezno pridobivanje na teži</td>
+                     <td align="right" rowspan="1" colspan="1">9 (15,5)</td>
+                  </tr>
+                  <tr>
+                     <td rowspan="1" colspan="1">Jok ob uživanju goste hrane</td>
+                     <td align="right" rowspan="1" colspan="1">7 (12,1)</td>
+                  </tr>
+                  <tr>
+                     <td rowspan="1" colspan="1">Hranjenje po sondi</td>
+                     <td align="right" rowspan="1" colspan="1">6 (10,3)</td>
+                  </tr>
+                  <tr>
+                     <td rowspan="1" colspan="1">Bruhanje pri uživanju goste hrane</td>
+                     <td align="right" rowspan="1" colspan="1">3 (5,2)</td>
+                  </tr>
+                  <tr>
+                     <td rowspan="1" colspan="1">Zahajanje hrane skozi nos po zaključenem kirurškem zdravljenju</td>
+                     <td align="right" rowspan="1" colspan="1">1 (1,7)</td>
+                  </tr>
+               </tbody>
+            </table>
+         </table-wrap>
+         <p>Poleg izraženih težav s hranjenjem je 20 otrok z orofacialnimi razcepi slabo prenašalo dotike v ustih, 14 otrok pa je imelo težave pri umivanju zob. Trije od šestih otrok, ki so bili hranjeni po nazogastrični sondi, so imeli tudi težave s sprejemanjem dotikov v ustih, med otroki brez uporabe sonde pa je bilo takih le tretjina. Izmed 14 otrok, ki so imeli težave z grizenjem in žvečenjem, jih je 9 slabo prenašalo dotike v ustih, 2 sta bila neko obdobje hranjena po nazogastrični cevki, 1 od teh 2 je bil nato še 8 mesecev hranjen po gastrostomi.</p>
+         <p>V našem vzorcu je imelo po mnenju staršev 24 otrok težave pri govoru, od tega 11 otrok s CP, 13 pa s CLP. Pri 8 otrocih se je govor razvijal normalno, brez pomoči logopeda. Med njimi jih je imelo pet CL ali CLA, trije CP in dva UCLP. 24 otrok je bilo premladih, da bi starši lahko presojali prisotnosti težav pri govoru.</p>
+         <p>Uporaba prilagojene stekleničke je pomagala k zmanjševanju težav s hranjenjem pri 35 otrocih (81,4 % tistih, ki so prilagojeno stekleničko uporabljali). Po pričetku uporabe nebne ploščice so starši 19 otrok (75 % tistih, ki so nebno ploščico uporabljali) opazili, da so se tudi težave s hranjenjem zmanjšale.</p>
+         <p>Več kot tretjina staršev (20 oseb) je v nekem obdobju hranjenje svojega otroka doživljala kot stres.</p>
+         <p>
+            <xref ref-type="fig" rid="fig1">Slika 1</xref> prikazuje, kateri strokovnjaki so staršem svetovali glede hranjenja in požiranja.</p>
+         <fig position="anchor" id="fig1" orientation="portrait">
+            <label>Slika 1:</label>
+            <caption>
+               <p> Vir informacij glede hranjenja otroka z orofacialnim razcepom.</p>
+            </caption>
+            <p>
+               <graphic xlink:href="2892-web-resources/image/zdravvestn-2892-sl-01.png"
+                        position="float"
+                        orientation="portrait"/>
+            </p>
+         </fig>
+         <p>Samo 15 (25,9 %) staršev je že pred rojstvom vedelo, da se jim bo rodil otrok z orofacialnim razcepom. Vsi so imeli razcepljeno vsaj ustnico in čeljustni greben. Med njimi ni bilo otrok samo s CL in otrok samo s CP.</p>
+         <p>Dobri dve tretjini (41 staršev) bi se želelo udeležiti izobraževanja na temo hranjenja in požiranja že pred rojstvom ali takoj po rojstvu otroka z orofacialnim razcepom.</p>
+         <p>Pri primerjavi otrok z orofacialnimi razcepi, ki so imeli težave s hranjenjem v nekem obdobju življenja, in otrok brez težav, smo ugotovili statistično pomembno razliko med skupinama glede vrste orofacialnega razcepa, prisotnosti sindroma, kasnejših težav v govoru in starševskega doživljaja stresa ob hranjenju otroka. Mejno značilno je bilo tudi pridobivanje ne telesni teži (<xref ref-type="table" rid="table3">Tabela 3</xref>). Zaradi majhnega števila otrok, ki so imeli ves čas prisotne težave s hranjenjem, smo rezultate primerjave teh otrok z ostalimi prikazali samo z opisno statistiko (<xref ref-type="table" rid="table4">Tabela 4</xref>).</p>
+         <table-wrap position="anchor" id="table3" orientation="portrait">
+            <label>Tabela 3:</label>
+            <caption>
+               <p> Primerjava skupin otrok z razcepi v orofacialnem področju glede na težave s hranjenjem, prisotne v nekem obdobju življenja (N = 58).</p>
+            </caption>
+            <table>
+               <colgroup span="1">
+                  <col span="1"/>
+                  <col span="1"/>
+                  <col span="1"/>
+                  <col span="1"/>
+               </colgroup>
+               <tbody>
+                  <tr>
+                     <th rowspan="2" colspan="1"/>
+                     <th align="center" colspan="2" rowspan="1">Težave s hranjenjem (v nekem obdobju življenja)</th>
+                     <th align="center" rowspan="2" colspan="1">p</th>
+                  </tr>
+                  <tr>
+                     <th rowspan="1" colspan="1">
+                        <p>DA</p>
+                        <p>N = 42</p>
+                     </th>
+                     <th rowspan="1" colspan="1">
+                        <p>NE</p>
+                        <p>N = 16</p>
+                     </th>
+                  </tr>
+                  <tr>
+                     <td rowspan="1" colspan="1">CL / CLA (N = 11)</td>
+                     <td align="right" rowspan="1" colspan="1">3</td>
+                     <td align="right" rowspan="1" colspan="1">8</td>
+                     <td align="right" rowspan="1" colspan="1">0,001</td>
+                  </tr>
+                  <tr>
+                     <td rowspan="1" colspan="1">CP / CLP (N = 47)</td>
+                     <td align="right" rowspan="1" colspan="1">39</td>
+                     <td align="right" rowspan="1" colspan="1">3</td>
+                     <td align="right" rowspan="1" colspan="1">0,001</td>
+                  </tr>
+                  <tr>
+                     <td rowspan="1" colspan="1">Prisotnost sindroma (N = 10)</td>
+                     <td align="right" rowspan="1" colspan="1">10</td>
+                     <td align="right" rowspan="1" colspan="1">0</td>
+                     <td align="right" rowspan="1" colspan="1">0,048</td>
+                  </tr>
+                  <tr>
+                     <td rowspan="1" colspan="1">Težave v govoru (N = 24)</td>
+                     <td align="right" rowspan="1" colspan="1">20</td>
+                     <td align="right" rowspan="1" colspan="1">4</td>
+                     <td align="right" rowspan="1" colspan="1">0,034</td>
+                  </tr>
+                  <tr>
+                     <td rowspan="1" colspan="1">Nazogastrično hranjenje (N = 6)</td>
+                     <td align="right" rowspan="1" colspan="1">6</td>
+                     <td align="right" rowspan="1" colspan="1">0</td>
+                     <td align="right" rowspan="1" colspan="1">0,173</td>
+                  </tr>
+                  <tr>
+                     <td rowspan="1" colspan="1">Neustrezno pridobivanje na teži (N = 9)</td>
+                     <td align="right" rowspan="1" colspan="1">9</td>
+                     <td align="right" rowspan="1" colspan="1">0</td>
+                     <td align="right" rowspan="1" colspan="1">0,051</td>
+                  </tr>
+                  <tr>
+                     <td rowspan="1" colspan="1">Slabo prenašanje dotikov v ustih (N = 20)</td>
+                     <td align="right" rowspan="1" colspan="1">16</td>
+                     <td align="right" rowspan="1" colspan="1">4</td>
+                     <td align="right" rowspan="1" colspan="1">0,371</td>
+                  </tr>
+                  <tr>
+                     <td rowspan="1" colspan="1">Starši doživljajo stres ob hranjenju (N = 20)</td>
+                     <td align="right" rowspan="1" colspan="1">18</td>
+                     <td align="right" rowspan="1" colspan="1">2</td>
+                     <td align="right" rowspan="1" colspan="1">0,032</td>
+                  </tr>
+               </tbody>
+            </table>
+            <table-wrap-foot>
+               <p>Legenda: CL – razcep ustnice, CLA – razcep ustnice in čeljustnega grebena, CP – razcep neba, CLP – razcep ustnice, čeljustnega grebena in neba.</p>
+            </table-wrap-foot>
+         </table-wrap>
+         <table-wrap position="anchor" id="table4" orientation="portrait">
+            <label>Tabela 4:</label>
+            <caption>
+               <p> Primerjava skupin otrok z razcepi v orofacialnem področju glede na ves čas prisotne težave s hranjenjem (N = 58).</p>
+            </caption>
+            <table>
+               <colgroup span="1">
+                  <col span="1"/>
+                  <col span="1"/>
+                  <col span="1"/>
+               </colgroup>
+               <tbody>
+                  <tr>
+                     <th rowspan="2" colspan="1"/>
+                     <th align="center" colspan="2" rowspan="1">Težave s hranjenjem <break/>(ves čas prisotne)</th>
+                  </tr>
+                  <tr>
+                     <th rowspan="1" colspan="1">
+                        <p>DA</p>
+                        <p>N = 8</p>
+                     </th>
+                     <th rowspan="1" colspan="1">
+                        <p>NE</p>
+                        <p>N = 50</p>
+                     </th>
+                  </tr>
+                  <tr>
+                     <td rowspan="1" colspan="1">CL / CLA (N = 11)</td>
+                     <td align="right" rowspan="1" colspan="1">1</td>
+                     <td align="right" rowspan="1" colspan="1">10</td>
+                  </tr>
+                  <tr>
+                     <td rowspan="1" colspan="1">CP / CLP (N = 47)</td>
+                     <td align="right" rowspan="1" colspan="1">7</td>
+                     <td align="right" rowspan="1" colspan="1">40</td>
+                  </tr>
+                  <tr>
+                     <td rowspan="1" colspan="1">Prisotnost sindroma (N = 10)</td>
+                     <td align="right" rowspan="1" colspan="1">2</td>
+                     <td align="right" rowspan="1" colspan="1">8</td>
+                  </tr>
+                  <tr>
+                     <td rowspan="1" colspan="1">Težave v govoru (N = 24)</td>
+                     <td align="right" rowspan="1" colspan="1">2</td>
+                     <td align="right" rowspan="1" colspan="1">22</td>
+                  </tr>
+                  <tr>
+                     <td rowspan="1" colspan="1">Nazogastrično hranjenje (N = 6)</td>
+                     <td align="right" rowspan="1" colspan="1">3</td>
+                     <td align="right" rowspan="1" colspan="1">3</td>
+                  </tr>
+                  <tr>
+                     <td rowspan="1" colspan="1">Neustrezno pridobivanje na teži (N = 9)</td>
+                     <td align="right" rowspan="1" colspan="1">2</td>
+                     <td align="right" rowspan="1" colspan="1">7</td>
+                  </tr>
+                  <tr>
+                     <td rowspan="1" colspan="1">Slabo prenašanje dotikov v ustih (N = 20)</td>
+                     <td align="right" rowspan="1" colspan="1">4</td>
+                     <td align="right" rowspan="1" colspan="1">16</td>
+                  </tr>
+                  <tr>
+                     <td rowspan="1" colspan="1">Starši doživljajoe stres ob hranjenju (N = 20)</td>
+                     <td align="right" rowspan="1" colspan="1">6</td>
+                     <td align="right" rowspan="1" colspan="1">14</td>
+                  </tr>
+               </tbody>
+            </table>
+            <table-wrap-foot>
+               <p>Legenda: CL – razcep ustnice, CLA – razcep ustnice in čeljustnega grebena, CP – razcep neba, CLP – razcep ustnice, čeljustnega grebena in neba.</p>
+            </table-wrap-foot>
+         </table-wrap>
+      </sec>
+      <sec id="s4" sec-type="Razpravljanje">
+         <label>4</label>
+         <title>Razpravljanje</title>
+         <p>Glede na to, da se v Sloveniji na leto rodi med 30 in 40 otrok z orofacialnimi razcepi (<xref ref-type="bibr" rid="b1">1</xref>), smo v naš vzorec zajeli še dokaj velik delež otrok (58 oseb), starih med 6 mesecev in 6 let. Za pošiljanje vprašalnika otrokom, ki so bili v času raziskave stari od 6 mesecev do 3 let, smo se odločili, ker smo želeli dobiti predvsem podatke o začetnih težavah s hranjenjem. V pilotnem delu raziskave za evalvacijo vprašalnika smo zajeli otroke, ki so zaporedoma prihajali na kontrolni pregled k maksilofacialnemu kirurgu. V analizo smo nato vključili samo predšolske otroke, saj s podaljševanjem obdobja od rojstva otroka do izpolnjevanja vprašalnika nekatere težave lahko staršem zbledijo iz spomina.</p>
+         <p>Reid in sodelavci (<xref ref-type="bibr" rid="b13">13</xref>) so raziskovali pogostost težav s hranjenjem pri otrocih z orofacialnimi razcepi in ugotovili, da se težave s starostjo otroka zmanjšujejo in se pogostost težav s hranjenjem do 14. meseca zmanjša na 15 %. Rezultati naše raziskave so pokazali, da je imelo v prvem mesecu življenja slabe tri četrtine otrok težave s hranjenjem, pri 24 % so težave vztrajale do zaključenega kirurškega zdravljenja. To pomeni, da se je največ težav s hranjenjem pojavljalo pri poskusu dojenja ali pri hranjenju po steklenički v prvih mesecih življenja, le v manjšem številu primerov so težave vztrajale kasneje pri uvajanju goste in formirane hrane. Tudi Jones s sodelavci (<xref ref-type="bibr" rid="b11">11</xref>) in Reid (<xref ref-type="bibr" rid="b10">10</xref>) so ugotovili podobno. Podatkov o pogostosti težav s požiranjem pri otroški populaciji na splošno ni veliko. Iz ZDA poročajo, da je v letu 2012 približno 1 % otroške populacije v državi imel težave pri požiranju, vendar jih je le približno 13 % poiskalo ustrezno strokovno pomoč (<xref ref-type="bibr" rid="b22">22</xref>). Podatkov za Slovenijo ni, vendar pa je ob primerjavi pogostosti disfagije v ameriški raziskavi med splošno otroško populacijo ter rezultatov naše raziskave jasno, da so težave s hranjenjem pomemben problem otrok z orofacialnimi razcepi tudi še po zaključenem kirurškem zdravljenju. Le dva od osmih otrok (13,8 %), ki so imeli težave s hranjenjem po končanem kirurškem zdravljenju, sta imela sindrom. Težave s požiranjem torej najverjetneje niso samo posledica drugačnih anatomskih razmer (orofacialnega razcepa), ampak tudi drugih dejavnikov.</p>
+         <p>Peterson-Falzone ugotavlja, da ima velik delež otrok z orofacialnimi razcepi v zgodnjem obdobju težave z vzpostavitvijo normalnega vzorca hranjenja, največ težav nastane zaradi komunikacije med ustno in nosno votlino. Posledica tega je nezmožnost ustvarjanja negativnega tlaka v ustni votlini. S tem se zmožnost sesanja zmanjša (<xref ref-type="bibr" rid="b3">3</xref>). Najpogostejša težava v naši raziskavi je bila ravno zahajanje hrane v nos, poleg tega pa še požiranje zraka pri hranjenju po steklenički, zaspanost med hranjenjem po steklenički, podaljšan čas obroka, zahajanje hrane iz ust ob uporabi stekleničke ter težave z grizenjem in žvečenjem. Večina težav je bila torej posledica komunikacije med ustno in nosno votlino. Podobno so ugotovili tudi drugi avtorji (<xref ref-type="bibr" rid="b8">8</xref>,<xref ref-type="bibr" rid="b13">13</xref>,<xref ref-type="bibr" rid="b21">21</xref>). Zaspanost med hranjenjem bi lahko pripisovali večji porabi energije otroka ob neuspešnem sesanju ter zato hitrejšo utrujenostjo ob hranjenju. Kasnejše težave z grizenjem in žvečenjem bi lahko vsaj delno razložili s spremenjeno senzibiliteto v ustni votlini zaradi orofacialnega razcepa in posledic zdravljenja, saj je devet od 14 otrok, ki so imeli vsaj neko obdobje težave z grizenjem in žvečenjem, slabo prenašalo dotike v ustih.</p>
+         <p>McDonald je v svoji raziskavi ugotovila, da vrsta orofacialnega razcepa pomembno vpliva na dojenje, saj se je 60 % otrok s CL dojilo več kot 6 mesecev, medtem ko so bili le redki otroci s CP dojeni več kot 6 mesecev (<xref ref-type="bibr" rid="b21">21</xref>). V naši raziskavi je bilo dojenih samo enajst otrok z orofacialnim razcepi (19 %), med njimi le trije z CP, kar se ujema s podatki strokovne literature (<xref ref-type="bibr" rid="b21">21</xref>,<xref ref-type="bibr" rid="b14">14</xref>).</p>
+         <p>Ugotovili smo, da vrsta orofacialnega razcepa statistično pomembno vpliva na težave s hranjenjem in požiranjem, saj imajo otroci s CL ali CLA bistveno manj težav kot otroci s CP ali CLP (<xref ref-type="table" rid="table3">Tabela 3</xref>). Ta rezultat je logična posledica anatomskih razmer, ki obstajajo do zaključenega kirurškega zdravljenja, redkokdaj tudi še kasneje. Otroci s težavami pri hranjenju v nekem obdobju življenja so glede na podatke iz literature pričakovano pogosteje neustrezno pridobivali na teži, bili hranjeni po nazogastrični sondi in imeli poleg orofacialnega razcepa tudi sindrom (<xref ref-type="table" rid="table3">Tabela 3</xref>).</p>
+         <p>Pri 3 od 6 otrok, ki so bili hranjeni po nazogastrični sondi, so starši opisovali slabo prenašanje dotikov v ustni votlini. Ti otroci so najverjetneje razvili čezmerno občutljivost zaradi pomanjkanja izkušenj v zgodnji starosti, ko se živčne povezave med periferijo in centralnim živčevjem še vzpostavljajo in zorijo.</p>
+         <p>Le pri 8 otrocih so težave s hranjenjem vztrajale še po kirurškem zdravljenju. Ta skupina otrok se je tudi pogosto hranila na nadomesten način (3/8), starši 6 otrok so ob hranjenju doživljali stres. Poleg možnih neoptimalnih anatomskih razmer za hranjenje in požiranje so pri njih najverjetneje udeleženi tudi drugi dejavniki – npr. spremenjeno doživljanje čutilnih dražljajev kot posledica dogajanj v ustni votlini v prvih letih življenja ali druge spremljajoče težave. Kar polovica otrok s stalno prisotnimi težavami s hranjenjem je slabo prenašala dotike v ustni votlini. Na zaznavanje dražljajev v ustni votlini vplivajo tudi kirurški posegi, uporaba nazogastrične cevke ali gastrostome za hranjenje in do neke mere morda tudi uporaba nebne ploščice (<xref ref-type="bibr" rid="b6">6</xref>,<xref ref-type="bibr" rid="b23">23</xref>).</p>
+         <p>Otroci, ki so imeli težave pri hranjenju, so pogosteje neustrezno pridobivali na teži in potrebovali nadomestni način hranjenja (<xref ref-type="table" rid="table3">Tabela 3</xref>). Uvajanje hranjenja po nazogastrični sondi ali celo gastrostomi je posledica neustrezne rasti in razvoja otroka. Pri veliki večini otrok je nadomestno hranjenje trajalo manj kot eno leto, nato pa so se spet hranili prek ust, čeprav je kar pet otrok imelo razcepljeno nebo. Enega otroka s CP v sklopu Robinove sekvence so najprej hranili preko nazogastrične cevke, nato je bil še osem mesecev hranjen po gastrostomi. Deček je bil eden od dvojčkov, rojen je bil tudi več kot mesec dni prezgodaj, kar bi bil tudi lahko vzrok za težave s hranjenjem vsaj takoj po rojstvu. Med 6 otroki, ki so potrebovali nadomestno hranjenje, so imeli štirje orofacialni razcep v sklopu sindroma. Tudi v strokovni literaturi poročajo, da je potrebno nadomestno hranjenje pogosteje uvesti pri otrocih s sindromi kot pri tistih z orofacialnim razcepom, ki ni del sindroma (<xref ref-type="bibr" rid="b16">16</xref>,<xref ref-type="bibr" rid="b17">17</xref>).</p>
+         <p>Da se otroci z orofacialnimi razcepi lahko uspešno nahranijo, obstajajo prilagojene stekleničke, ki povečajo vnos hrane in hkrati preprečijo, da bi otrok pogoltnil preveč zraka (<xref ref-type="bibr" rid="b23">23</xref>). Po poročanju staršev smo ugotovili, da je v Sloveniji na voljo malo vrst prilagojenih stekleničk. V porodnišnici staršem običajno ponudijo eno znamko stekleničke, ki ni primerna za vse otroke, za starše pa predstavlja večji finančni zalogaj.</p>
+         <p>Nebno ploščico je uporabljalo 26 otrok. Čeprav je nebna ploščica del predoperativne čeljustno ortopedske obravnave (<xref ref-type="bibr" rid="b2">2</xref>), nekatere raziskave kažejo, da je njena uporaba v kombinaciji z drugimi ukrepi ena učinkovitih metod pri vzpostavljanju učinkovitega hranjenja dojenčka s shiz (<xref ref-type="bibr" rid="b20">20</xref>). V naši raziskavi so starši opazili zmanjšanje težav s hranjenjem po začetku uporabe nebne ploščice kar pri treh četrtinah otrok, ki so dobili nebno ploščico v sklopu predoperativne priprave za zdravljenja orofacialnega razcepa.</p>
+         <p>Zaradi postopkov uspešne zgodnje diagnostike nekateri starši že pred rojstvom otroka vedo za orofacialni razcep. V naši raziskavi je bilo takih staršev za četrtino (15 oseb). Strokovni tim bi bilo smiselno vključiti v pomoč bodočim staršem že pred rojstvom otroka, takrat ko starši zvedo, da se bo rodil otrok s shizo. Vsak od strokovnjakov bi jim tako podal informacije o funkcionalnih motnjah, s katerimi se sam največ ukvarja, in reševanju teh težav.</p>
+         <p>Prav tako bi bilo dobrodošlo, da bi otroke in njihove matere v porodnišnicah takoj po rojstvu obiskal poleg maksilofacialnega kirurga tudi klinični logoped, ki bi staršem dal informacije glede povezave med hranjenjem otroka in govornim razvojem ter otroka nadalje spremljal. V vsaki porodnišnici bi morala biti vsaj ena medicinska sestra ali drug zdravstveni delavec posebej izobražen glede funkcionalnih motenj otrok z orofacialnimi razcepi in pomoči pri hranjenju, da bi starši dobili pomoč takoj in bi se zmanjšala njihova stiska ob nezmožnosti hranjenja novorojenčka z orofacialnim razcepom.</p>
+         <p>Starši so namreč v dopisanih pripombah posebej poudarili problem nezadostne podpore medicinskih sester in babic pri hranjenju. Raziskavo bi bilo smiselno nadgraditi s pregledom znanja medicinskega osebja o delu z otroki z orofacialnimi razcepi ter tako ugotoviti, v katerih delih Slovenije je strokovna usposobljenost kadra najslabša. Trenutno v Sloveniji že potekajo aktivnosti glede izobraževanja na temo hranjenja in požiranja otrok z orofacialnimi razcepi v orofacialnem področju, kjer dobijo strokovni delavci znanje o osnovnih načinih dela, svetovanja in izbire pripomočkov za hranjenje. V prihodnje bi bilo smiselno raziskati povezavo med hranjenjem in govorom ter vpliv zmanjšane aktivnosti v ustni votlini na razvoj govora in jezika.</p>
+      </sec>
+      <sec id="s5" sec-type="Zaključek">
+         <label>5</label>
+         <title>Zaključek</title>
+         <p>Težave s hranjenjem pri otrocih z orofacialnimi razcepi so pogost pojav. V nekem obdobju življenja je imelo slabe tri četrtine otrok, udeleženih v raziskavi, težave s hranjenjem, pri dobri sedmini so težave vztrajale tudi po zaključenem kirurškem zdravljenju. Z raziskavo smo želeli opozoriti na pomembnost, da otroka zgodaj obravnava multidisciplinarni tim, ki bi lahko preprečil marsikatero težavo, ki nastane kot posledica dolgotrajnega neučinkovitega hranjenja. Zavedati se je treba, da neuspešno hranjenje zelo vpliva na celo družino, saj hranjenje ni samo zadovoljitev potrebe po vnosu kalorij, ampak krepi tudi navezanost mame in otroka. Zaključimo lahko, da je obravnava otrok z orofacialnimi razcepi v Sloveniji dobra, vseeno pa je zgodnjega svetovanja o hranjenju in izbiri ustreznih tehnik in pripomočkov za hranjenje premalo.</p>
+      </sec>
+   </body>
+   <back>
+      <ref-list>
+         <ref id="b1">
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Koželj</surname>
+                     <given-names>V</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Računalniški informacijski sistem za spremljanje orofacialnih shiz v Sloveniji kot vir za epidemiološko analizo obdobij 1973-1993 in 1993-2012</article-title>. 
+                    <source>Zobozdrav Vestn</source>. 
+                    <year>2015</year>;
+                    <volume>70</volume>(
+                    <issue>3-5</issue>):
+                    <fpage>135</fpage>–
+                    <lpage>42</lpage>.
+                    <issn>0044-4928</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b2">
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Watkins</surname>
+                     <given-names>SE</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Meyer</surname>
+                     <given-names>RE</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Strauss</surname>
+                     <given-names>RP</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Aylsworth</surname>
+                     <given-names>AS</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Classification, epidemiology, and genetics of orofacial clefts</article-title>. 
+                    <source>Clin Plast Surg</source>. 
+                    <year>2014</year>
+                    <month>Apr</month>;
+                    <volume>41</volume>(
+                    <issue>2</issue>):
+                    <fpage>149</fpage>–
+                    <lpage>63</lpage>. 
+                    <pub-id pub-id-type="doi">10.1016/j.cps.2013.12.003</pub-id>
+                    <pub-id pub-id-type="pmid">24607185</pub-id>
+                    <issn>0094-1298</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b3">
+            <mixed-citation publication-type="book">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Peterson-Falzone</surname>
+                     <given-names>SJ</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Trost-Cardamone</surname>
+                     <given-names>JE</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Karnell</surname>
+                     <given-names>MP</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Hardin-Jones</surname>
+                     <given-names>M</given-names>
+                  </name>
+                    </person-group>. 
+                    <source>The Clinician’s Guide to Treating Cleft Palate Speech</source>. 
+                    <publisher-loc>Philadelphia</publisher-loc>: 
+                    <publisher-name>Mosby Elsevier</publisher-name>; 
+                    <year>2006</year>.
+                </mixed-citation>
+         </ref>
+         <ref id="b4">
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Shkoukani</surname>
+                     <given-names>MA</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Lawrence</surname>
+                     <given-names>LA</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Liebertz</surname>
+                     <given-names>DJ</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Svider</surname>
+                     <given-names>PF</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Cleft palate: a clinical review</article-title>. 
+                    <source>Birth Defects Res C Embryo Today</source>. 
+                    <year>2014</year>
+                    <month>Dec</month>;
+                    <volume>102</volume>(
+                    <issue>4</issue>):
+                    <fpage>333</fpage>–
+                    <lpage>42</lpage>. 
+                    <pub-id pub-id-type="doi">10.1002/bdrc.21083</pub-id>
+                    <pub-id pub-id-type="pmid">25504820</pub-id>
+                    <issn>1542-975X</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b5">
+            <mixed-citation publication-type="book">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Crowley</surname>
+                     <given-names>L</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Gist</surname>
+                     <given-names>KL</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Gregson</surname>
+                     <given-names>KM</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Hufnagle</surname>
+                     <given-names>K</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Peterson-Falzone</surname>
+                     <given-names>S</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Smythe</surname>
+                     <given-names>NC</given-names>
+                  </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <source>Your baby’s first year</source>. 
+                    <publisher-loc>Chapel Hill</publisher-loc>: 
+                    <publisher-name>CPF Publications Committee</publisher-name>; 
+                    <year>2012</year>.
+                </mixed-citation>
+         </ref>
+         <ref id="b6">
+            <mixed-citation publication-type="conf-proc">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Eberlinc</surname>
+                     <given-names>A</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Estetski problem pri pacientih s heilognatopalatoshizo </article-title>. In:
+                    <conf-name>Sodobne metode in nove tehnologije v maksilofacialni kirurgiji in stomatologiji</conf-name>.
+                    <conf-date iso-8601-date="2014-11-29">2014 Nov 29</conf-date>;
+                    <conf-loc>Brdo pri Kranju, Slovenija</conf-loc>.
+                    <publisher-loc>Ljubljana</publisher-loc>:
+                    <publisher-name>Združenje za maksilofacialno in oralno kirurgijo Slovenije</publisher-name>;
+                    <year>2014</year>. 
+                    <fpage>75</fpage>.
+                </mixed-citation>
+         </ref>
+         <ref id="b7">
+            <mixed-citation publication-type="book">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Murry</surname>
+                     <given-names>T</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Carrau</surname>
+                     <given-names>RL</given-names>
+                  </name>
+                    </person-group>. 
+                    <source>Clinical management of swallowing disorders</source>. 
+                    <edition>2nd ed</edition>.
+                    <publisher-loc>San Diego</publisher-loc>: 
+                    <publisher-name>Plural Publishing</publisher-name>; 
+                    <year>2006</year>.
+                    <isbn>1597560375</isbn> 
+                </mixed-citation>
+         </ref>
+         <ref id="b8">
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>de Vries</surname>
+                     <given-names>IA</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Breugem</surname>
+                     <given-names>CC</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>van der Heul</surname>
+                     <given-names>AM</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Eijkemans</surname>
+                     <given-names>MJ</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Kon</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Mink van der Molen</surname>
+                     <given-names>AB</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Prevalence of feeding disorders in children with cleft palate only: a retrospective study</article-title>. 
+                    <source>Clin Oral Investig</source>. 
+                    <year>2014</year>;
+                    <volume>18</volume>(
+                    <issue>5</issue>):
+                    <fpage>1507</fpage>–
+                    <lpage>15</lpage>.
+                    <pub-id pub-id-type="pmid">24122307</pub-id>
+                    <issn>1436-3771</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b9">
+            <mixed-citation publication-type="book-chapter">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Perlman</surname>
+                     <given-names>AL</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Christensen</surname>
+                     <given-names>J</given-names>
+                  </name>
+                    </person-group>. 
+                    <chapter-title>Topography and functional anatomy of the swallowing structures</chapter-title>. In:
+                    <person-group person-group-type="editor">
+                        <name name-style="western">
+                     <surname>Perlman</surname>
+                     <given-names>AL</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Schulze-Delrieu</surname>
+                     <given-names>K</given-names>
+                  </name>, 
+                        <role>eds</role>
+                    </person-group>. 
+                    <source>Deglutition and its disorders</source>. 
+                    <publisher-loc>San Diego</publisher-loc>: 
+                    <publisher-name>Singular Publishing Group, INC</publisher-name>; 
+                    <year>1997</year>. pp. 
+                    <fpage>15</fpage>–
+                    <lpage>42</lpage>.
+                </mixed-citation>
+         </ref>
+         <ref id="b10">
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Reid</surname>
+                     <given-names>J</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>A review of feeding interventions for infants with cleft palate</article-title>. 
+                    <source>Cleft Palate Craniofac J</source>. 
+                    <year>2004</year>
+                    <month>May</month>;
+                    <volume>41</volume>(
+                    <issue>3</issue>):
+                    <fpage>268</fpage>–
+                    <lpage>78</lpage>. 
+                    <pub-id pub-id-type="doi">10.1597/02-148.1</pub-id>
+                    <pub-id pub-id-type="pmid">15151444</pub-id>
+                    <issn>1055-6656</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b11">
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Jones</surname>
+                     <given-names>WB</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Weight gain and feeding in the neonate with cleft: a three-center study</article-title>. 
+                    <source>Cleft Palate J</source>. 
+                    <year>1988</year>
+                    <month>Oct</month>;
+                    <volume>25</volume>(
+                    <issue>4</issue>):
+                    <fpage>379</fpage>–
+                    <lpage>84</lpage>.
+                    <pub-id pub-id-type="pmid">3060285</pub-id>
+                    <issn>0009-8701</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b12">
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Spriestersbach</surname>
+                     <given-names>DC</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Dickson</surname>
+                     <given-names>DR</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Fraser</surname>
+                     <given-names>FC</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Horowitz</surname>
+                     <given-names>SL</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>McWilliams</surname>
+                     <given-names>BJ</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Paradise</surname>
+                     <given-names>JL</given-names>
+                  </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>Clinical research in cleft lip and cleft palate: the state of the art</article-title>. 
+                    <source>Cleft Palate J</source>. 
+                    <year>1973</year>
+                    <month>Apr</month>;
+                    <volume>10</volume>:
+                    <fpage>113</fpage>–
+                    <lpage>65</lpage>.
+                    <pub-id pub-id-type="pmid">4220387</pub-id>
+                    <issn>0009-8701</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b13">
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author"> 
+                        <name name-style="western">
+                     <surname>Reid</surname>
+                     <given-names>J</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Kilpatrick</surname>
+                     <given-names>N</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Reilly</surname>
+                     <given-names>S</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>A prospective, longitudinal study of feeding skills in a cohort of babies with cleft conditions</article-title>. 
+                    <source>Cleft Palate Craniofac J</source>. 
+                    <year>2006</year>
+                    <month>Nov</month>;
+                    <volume>43</volume>(
+                    <issue>6</issue>):
+                    <fpage>702</fpage>–
+                    <lpage>9</lpage>. 
+                    <pub-id pub-id-type="doi">10.1597/05-172</pub-id>
+                    <pub-id pub-id-type="pmid">17105331</pub-id>
+                    <issn>1055-6656</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b14">
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Trenouth</surname>
+                     <given-names>MJ</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Campbell</surname>
+                     <given-names>AN</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Questionnaire evaluation of feeding methods for cleft lip and palate neonates</article-title>. 
+                    <source>Int J Paediatr Dent</source>. 
+                    <year>1996</year>
+                    <month>Dec</month>;
+                    <volume>6</volume>(
+                    <issue>4</issue>):
+                    <fpage>241</fpage>–
+                    <lpage>4</lpage>. 
+                    <pub-id pub-id-type="doi">10.1111/j.1365-263X.1996.tb00252.x</pub-id>
+                    <pub-id pub-id-type="pmid">9161191</pub-id>
+                    <issn>0960-7439</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b15">
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Reid</surname>
+                     <given-names>J</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Reilly</surname>
+                     <given-names>S</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Kilpatrick</surname>
+                     <given-names>N</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Sucking performance of babies with cleft conditions</article-title>. 
+                    <source>Cleft Palate Craniofac J</source>. 
+                    <year>2007</year>
+                    <month>May</month>;
+                    <volume>44</volume>(
+                    <issue>3</issue>):
+                    <fpage>312</fpage>–
+                    <lpage>20</lpage>. 
+                    <pub-id pub-id-type="doi">10.1597/05-173</pub-id>
+                    <pub-id pub-id-type="pmid">17477747</pub-id>
+                    <issn>1055-6656</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b16">
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Miller</surname>
+                     <given-names>CK</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Feeding issues and interventions in infants and children with clefts and craniofacial syndromes</article-title>. 
+                    <source>Semin Speech Lang</source>. 
+                    <year>2011</year>
+                    <month>May</month>;
+                    <volume>32</volume>(
+                    <issue>2</issue>):
+                    <fpage>115</fpage>–
+                    <lpage>26</lpage>. 
+                    <pub-id pub-id-type="doi">10.1055/s-0031-1277714</pub-id>
+                    <pub-id pub-id-type="pmid">21948638</pub-id>
+                    <issn>0734-0478</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b17">
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Paes</surname>
+                     <given-names>EC</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>de Vries</surname>
+                     <given-names>IA</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Penris</surname>
+                     <given-names>WM</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Hanny</surname>
+                     <given-names>KH</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Lavrijsen</surname>
+                     <given-names>SW</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>van Leerdam</surname>
+                     <given-names>EK</given-names>
+                  </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>Growth and prevalence of feeding difficulties in children with Robin sequence: a retrospective cohort study</article-title>. 
+                    <source>Clin Oral Investig</source>. 
+                    <year>2017</year>
+                    <month>Jul</month>;
+                    <volume>21</volume>(
+                    <issue>6</issue>):
+                    <fpage>2063</fpage>–
+                    <lpage>76</lpage>. 
+                    <pub-id pub-id-type="doi">10.1007/s00784-016-1996-8</pub-id>
+                    <pub-id pub-id-type="pmid">27868158</pub-id>
+                    <issn>1432-6981</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b18">
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Hodgkinson</surname>
+                     <given-names>DP</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Brown</surname>
+                     <given-names>S</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Duncan</surname>
+                     <given-names>D</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Grant</surname>
+                     <given-names>C</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>McNaughton</surname>
+                     <given-names>A</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Thomas</surname>
+                     <given-names>P</given-names>
+                  </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>Management of children with cleft lip and palate: A review describing the application of multidisciplinary team working in this condition based upon the experiences of a regional cleft lip and palate centre in the United Kingdom</article-title>. 
+                    <source>Fetal Matern Med Rev</source>. 
+                    <year>2005</year>;
+                    <volume>16</volume>(
+                    <issue>1</issue>):
+                    <fpage>1</fpage>–
+                    <lpage>27</lpage>. 
+                    <pub-id pub-id-type="doi">10.1017/S0965539505001452</pub-id>
+                    <issn>0965-5395</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b19">
+            <mixed-citation publication-type="conf-proc">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Jarc</surname>
+                     <given-names>A</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Hočevar Boltežar</surname>
+                     <given-names>I</given-names>
+                  </name>
+                    </person-group>. 
+                    <source>Skrb za osebe z razcepom ustnic, čeljusti in neba v Sloveniji</source>. In:
+                    <conf-name>Družbena skrb za vzgojo, izobraževanje in socialno varstvo oseb s posebnimi potrebami - deset let kasneje : zbornik referatov</conf-name>. 
+                    <conf-date iso-8601-date="2000-10-18"> 2000 Oct 18-20</conf-date>;
+                    <conf-loc>Portorž, Slovenija</conf-loc>.
+                    <publisher-loc>Ljubljana</publisher-loc>:
+                    <publisher-name>Društvo defektologov Slovenije</publisher-name>;
+                    <year>2000</year>. pp.
+                    <fpage>631</fpage>.
+                    <isbn>109-5047-68-2!</isbn>.
+                </mixed-citation>
+         </ref>
+         <ref id="b20">
+            <mixed-citation publication-type="conf-proc">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Koželj</surname>
+                     <given-names>V</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Drevenšek</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Hočevar Boltežar</surname>
+                     <given-names>I</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Jarc</surname>
+                     <given-names>A</given-names>
+                  </name>
+                    </person-group>. 
+                    <source>Koncept zdravljenja orofacialnih shiz</source>. In:
+                    <conf-name>Sodobni kirurško ortodontski koncepti : [zbornik predavanj]. 12. Čelešnikovi dnevi</conf-name>. 
+                    <conf-date iso-8601-date="2006-11-25">2006 Nov 25</conf-date>;
+                    <conf-loc>Ljubljana, Slovenija</conf-loc>.
+                    <publisher-loc>Ljubljana</publisher-loc>:
+                    <publisher-name>Združenje za maksilofacialno in oralno kirurgijo Slovenije</publisher-name>;
+                    <year>2000</year>. pp.
+                    <fpage>55</fpage>.
+                    <isbn>961-91492-3-8</isbn>
+                  </mixed-citation>
+         </ref>
+         <ref id="b21">
+            <mixed-citation publication-type="thesis">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>McDonald</surname>
+                     <given-names>SH</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>To Investigate Infant Feeding in Children born with a Cleft in the West of Scotland</article-title>. 
+                    <comment>[Thesis]</comment>.
+                    <publisher-loc>Glasgow</publisher-loc>:
+                    <publisher-name>Faculty of medicine </publisher-name>; 
+                    <year>2008</year>.
+                </mixed-citation>
+         </ref>
+         <ref id="b22">
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Bhattacharyya</surname>
+                     <given-names>N</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>The prevalence of pediatric voice and swallowing problems in the United States</article-title>. 
+                    <source>Laryngoscope</source>. 
+                    <year>2015</year>
+                    <month>Mar</month>;
+                    <volume>125</volume>(
+                    <issue>3</issue>):
+                    <fpage>746</fpage>–
+                    <lpage>50</lpage>. 
+                    <pub-id pub-id-type="doi">10.1002/lary.24931</pub-id>
+                    <pub-id pub-id-type="pmid">25220824</pub-id>
+                    <issn>0023-852X</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b23">
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Devi</surname>
+                     <given-names>ES</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Sai Sankar</surname>
+                     <given-names>AJ</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Manoj Kumar</surname>
+                     <given-names>MG</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Sujatha</surname>
+                     <given-names>B</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Maiden morsel - feeding in cleft lip and palate infants</article-title>. 
+                    <source>J Int Soc Prev Community Dent</source>. 
+                    <year>2012</year>
+                    <month>Jul</month>;
+                    <volume>2</volume>(
+                    <issue>2</issue>):
+                    <fpage>31</fpage>–
+                    <lpage>7</lpage>. 
+                    <pub-id pub-id-type="doi">10.4103/2231-0762.109350</pub-id>
+                    <pub-id pub-id-type="pmid">24478964</pub-id>
+                    <issn>2231-0762</issn>
+                </mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+   <sub-article id="article-en" xml:lang="en" article-type="other">
+      <front-stub>
+         <article-categories>
+            <subj-group subj-group-type="discipline" xml:lang="en">
+               <subject>Medicine and health sciences</subject>
+               <subj-group>
+                  <subject>Stomatology</subject>
+               </subj-group>
+            </subj-group>
+            <subj-group subj-group-type="article-type" xml:lang="en">
+               <subject>Original scientific article</subject>
+            </subj-group>
+            <subj-group subj-group-type="heading" xml:lang="en">
+               <subject>Stomatology</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title xml:lang="en">Feeding and swallowing disorders in children with clefts in the orofacial region</article-title>
+            <alt-title alt-title-type="running-head" xml:lang="en">Motnje hranjenja in požiranja pri otrocih z razcepi v orofacialnem področju</alt-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Jelenc</surname>
+                  <given-names>Nika</given-names>
+               </name>
+               <xref ref-type="aff" rid="en-aff1">1</xref>
+               <xref ref-type="corresp" rid="en-corr"/>
+            </contrib>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Eberlinc</surname>
+                  <given-names>Andreja</given-names>
+               </name>
+               <xref ref-type="aff" rid="en-aff2">2</xref>
+               <xref ref-type="aff" rid="en-aff4">4</xref>
+            </contrib>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Hočevar Boltežar</surname>
+                  <given-names>Irena</given-names>
+               </name>
+               <xref ref-type="aff" rid="en-aff3">3</xref>
+            </contrib>
+         </contrib-group>
+         <aff id="en-aff1" xml:lang="en">
+            <label>1</label>
+            <institution>University Rehabilitation Institute Republic of Slovenia, Ljubljana, Slovenia</institution>
+         </aff>
+         <aff id="en-aff2" xml:lang="en">
+            <label>2</label>
+            <institution>Department of Maxillofacial and Oral Surgery, Division of Surgery, University Medical Centre Ljubljana, Ljubljana, Slovenia</institution>
+         </aff>
+         <aff id="en-aff3" xml:lang="en">
+            <label>3</label>
+            <institution>Department of Otorhinolaryngology and Cervicofacial Surgery, University Medical Centre Ljubljana, Ljubljana, Slovenia</institution>
+         </aff>
+         <aff id="en-aff4" xml:lang="en">
+            <label>4</label>
+            <institution>Faculty of Medicine, University of Ljubljana, Ljubljana, Slovenia</institution>
+         </aff>
+         <abstract xml:lang="en">
+            <title>Abstract</title>
+            <p>Background: Orofacial clefts are the most common congenital craniofacial malformations. Children with orofacial clefts do not only have problems with speech, but also with feeding and swallowing. Alternative methods of feeding need to be introduced in severe cases. Until now there has not been conducted a single study regarding feeding and swallowing problems in children with orofacial clefts in Slovenia.</p>
+            <p>Methods: The aim of the study was to determine the prevalence and the type of feeding and swallowing problems in children with orofacial clefts, aged between five months and six years. An anonymous questionnaire for parents was created, containing questions about the type of the child’s orofacial cleft, child’s possible feeding, swallowing and speech problems, and special feeding gadgets. The questionnaire was initially tested in a pilot study during routine medical follow-up visits. Afterwards, it was sent to 93 parents of children with clefs, born in a period of three consecutive years. A descriptive statistics was used to present the prevalence of feeding and swallowing problems in children with orofacial clefts. The factors correlated with feeding problems were analysed.</p>
+            <p>Results: Almost three-quarters of children had problems with feeding immediately after birth; problems with feeding later decreased, but they were still present in one quarter of all cases until the completed surgical treatment. Most difficulties occurred due to nasal regurgitation, excessive air intake while bottle feeding, and prolonged feeding time. Children with cleft palate with or without cleft lip had significantly more feeding problems in comparison to children with cleft lip only. Most parents used special feeding bottles and were generally satisfied with their use. More than a half of the parents believed that they had received too little information about feeding before and immediately after the child’s birth.</p>
+            <p>Conclusion: Despite the well-organized multidisciplinary care of children with orofacial clefts in Slovenia, parents still miss the professional counselling about feeding their children. Therefore, an additional education of nurses working in maternity hospitals will be necessary in the future. Considering the high prices of special feeding gadgets for children with orofacial clefts, covering of their costs by the health insurance would be welcome.</p>
+         </abstract>
+      </front-stub>
+      <body>
+         <sec id="en-s1" sec-type="Introduction">
+            <label>1</label>
+            <title>Introduction</title>
+            <p>Orofacial clefts are the most common congenital craniofacial malformations. In Slovenia, about 1.77 individuals with clefts in the orofacial region are born per 1,000 live births (<xref ref-type="bibr" rid="en-b1">1</xref>). Most orofacial clefts occur as a combination of genetic and external factors and develop in the early stages of pregnancy (<xref ref-type="bibr" rid="en-b2">2</xref>).</p>
+            <p>Orofacial clefts are divided into four groups. The first group includes a cleft lip (<italic toggle="yes">cheiloschisis – CL)</italic> or a lip and alveolus on one or both sides <italic toggle="yes">(cheilognathoschisis unilateralis/bilateralis – CLA)</italic>. The second group includes a cleft lip, alveolus and palate on one or both sides (<italic toggle="yes">cheilognathopalatoschisis unilateralis – UCLP / bilateralis – BCLP)</italic>. The third group of orofacial clefts includes cleft palate <italic toggle="yes">(palatoschisis – CP)</italic>. The fourth group includes rare forms of orofacial clefts in other areas of the face (<xref ref-type="bibr" rid="en-b2">2</xref>,<xref ref-type="bibr" rid="en-b3">3</xref>). Orofacial cleft may occur as part of a syndromic symptomatology. There are over 400 syndromes associated with cleft lip and/or palate (<xref ref-type="bibr" rid="en-b4">4</xref>). About 30 % of all orofacial clefts occur within a syndrome (<xref ref-type="bibr" rid="en-b5">5</xref>).</p>
+            <p>A cleft in the orofacial region can greatly affect the appearance, speech, hearing, as well as growth and development of the face, and it also psychosocially and economically affects the child and his or her family, thereby significantly reducing the quality of life (<xref ref-type="bibr" rid="en-b2">2</xref>,<xref ref-type="bibr" rid="en-b6">6</xref>).</p>
+            <table-wrap position="anchor" id="en-table1" orientation="portrait">
+               <label>Table 1:</label>
+               <caption>
+                  <p> Type of orofacial cleft by gender of participants in the study (N = 58).</p>
+               </caption>
+               <table>
+                  <colgroup span="1">
+                     <col span="1"/>
+                     <col span="1"/>
+                     <col span="1"/>
+                     <col span="1"/>
+                  </colgroup>
+                  <thead>
+                     <tr>
+                        <th rowspan="1" colspan="1">Type</th>
+                        <th rowspan="1" colspan="1">Men (%)</th>
+                        <th rowspan="1" colspan="1">Women (%)</th>
+                        <th rowspan="1" colspan="1">Total (%)</th>
+                     </tr>
+                  </thead>
+                  <tbody>
+                     <tr>
+                        <td rowspan="1" colspan="1">UCL</td>
+                        <td align="right" rowspan="1" colspan="1">3 (5.2)</td>
+                        <td align="right" rowspan="1" colspan="1">2 (3.4)</td>
+                        <td align="right" rowspan="1" colspan="1">5 (8.6)</td>
+                     </tr>
+                     <tr>
+                        <td rowspan="1" colspan="1">UCLA</td>
+                        <td align="right" rowspan="1" colspan="1">1 (1.7)</td>
+                        <td align="right" rowspan="1" colspan="1">2 (3.4)</td>
+                        <td align="right" rowspan="1" colspan="1">3 (5.2)</td>
+                     </tr>
+                     <tr>
+                        <td rowspan="1" colspan="1">BCLA</td>
+                        <td align="right" rowspan="1" colspan="1">1 (1.7)</td>
+                        <td align="right" rowspan="1" colspan="1">2 (3.4)</td>
+                        <td align="right" rowspan="1" colspan="1">3 (5.2)</td>
+                     </tr>
+                     <tr>
+                        <td rowspan="1" colspan="1">CP</td>
+                        <td align="right" rowspan="1" colspan="1">11 (19.0)</td>
+                        <td align="right" rowspan="1" colspan="1">13 (22.4)</td>
+                        <td align="right" rowspan="1" colspan="1">24 (41.4)</td>
+                     </tr>
+                     <tr>
+                        <td rowspan="1" colspan="1">UCLP</td>
+                        <td align="right" rowspan="1" colspan="1">9 (15.5)</td>
+                        <td align="right" rowspan="1" colspan="1">7 (12.1)</td>
+                        <td align="right" rowspan="1" colspan="1">16 (27.6)</td>
+                     </tr>
+                     <tr>
+                        <td rowspan="1" colspan="1">BCLP</td>
+                        <td align="right" rowspan="1" colspan="1">6 (10.3)</td>
+                        <td align="right" rowspan="1" colspan="1">1 (1.7)</td>
+                        <td align="right" rowspan="1" colspan="1">7 (12.1)</td>
+                     </tr>
+                     <tr>
+                        <th rowspan="1" colspan="1">Total</th>
+                        <th align="right" rowspan="1" colspan="1">31 (53.4)</th>
+                        <th align="right" rowspan="1" colspan="1">27 (46.6)</th>
+                        <th align="right" rowspan="1" colspan="1">58 (100.0)</th>
+                     </tr>
+                  </tbody>
+               </table>
+               <table-wrap-foot>
+                  <p>Legend: UCL - unilateral cleft lip, UCLA - unilateral cleft lip and alveolus, BCLA - bilateral cleft lip and alveolus, CP - cleft palate, UCLP - unilateral cleft lip, alveolus and palate, BCLP - bilateral cleft lip, alveolus and palate.</p>
+               </table-wrap-foot>
+            </table-wrap>
+            <p>Feeding is the basic function of every human being. Feeding and swallowing encompasses the whole act of taking food into your mouth, forming a bite and having the bite travel through the pharynx into the esophagus and stomach (<xref ref-type="bibr" rid="en-b7">7</xref>).</p>
+            <p>Numerous studies have shown that children with orofacial clefts have problems with feeding to various extents, but experts are not consistent about the symptomatology of the problems. Choking, coughing, excessive air intake and prolonged feeding time can lead to inappropriate weight gain, dehydration and the need for alternative methods of feeding (<xref ref-type="bibr" rid="en-b8">8</xref>,<xref ref-type="bibr" rid="en-b9">9</xref>). The most commonly reported problem with feeding newborns with cleft palate are oral motor dysfunction and nasal regurgitation, as well as low feeding efficiency. The greatest risk of feeding problems exists in children with the Robin sequence (<xref ref-type="bibr" rid="en-b10">10</xref>).</p>
+            <p>De Vries and coworkers (<xref ref-type="bibr" rid="en-b8">8</xref>) used questionnaires for parents (90 participants) to determine the frequency of feeding problems in people with CP. As many as 67 % of children with CP, who were included in the study, indicated a high risk of developing feeding problems. It was often necessary to introduce feeding using a nasogastric tube (in 32 %). Jones (<xref ref-type="bibr" rid="en-b11">11</xref>) reported feeding problems in 25 % of children with different orofacial clefts, and Spriestersbach with coworkers (<xref ref-type="bibr" rid="en-b12">12</xref>) found that as many as 73 % of children with isolated CP had feeding problems. Reid and coworkers (<xref ref-type="bibr" rid="en-b13">13</xref>) investigated feeding skills in infants with schisis and tried to identify the risk factors. They found that 32 % of newborns with orofacial clefts have poor feeding skills, with prevalence falling to 19 % at 3 months and 15 % at 14 months of age. Only rare newborns with certain orofacial clefts can be breastfed. De Vries and coworkers (<xref ref-type="bibr" rid="en-b8">8</xref>) noted that 86 % of mothers of children with cleft palate had never tried breastfeeding. Trenouth and Campbell (<xref ref-type="bibr" rid="en-b14">14</xref>) found that only in newborns with isolated CL were they able to maintain adequate weight by breastfeeding alone.</p>
+            <p>Reid and coworkers (<xref ref-type="bibr" rid="en-b15">15</xref>) investigated the suction of newborns, born with orofacial clefts. They found that children with isolated CL showed similar sucking as their peers, while in newborns with CP with or without CL they detected an altered pattern of sucking.</p>
+            <table-wrap position="anchor" id="en-table2" orientation="portrait">
+               <label>Table 2:</label>
+               <caption>
+                  <p> Feeding problems in children with orofacial clefts regarding their prevalence (N = 58).</p>
+               </caption>
+               <table>
+                  <colgroup span="1">
+                     <col span="1"/>
+                     <col span="1"/>
+                  </colgroup>
+                  <thead>
+                     <tr>
+                        <th rowspan="1" colspan="1">Feeding problems</th>
+                        <th rowspan="1" colspan="1">Number (%)</th>
+                     </tr>
+                  </thead>
+                  <tbody>
+                     <tr>
+                        <td rowspan="1" colspan="1">Nasal regurgitation before surgical treatment is completed</td>
+                        <td align="right" rowspan="1" colspan="1">37 (63.8)</td>
+                     </tr>
+                     <tr>
+                        <td rowspan="1" colspan="1">Excessive air intake while bottle feeding</td>
+                        <td align="right" rowspan="1" colspan="1">25 (43.1)</td>
+                     </tr>
+                     <tr>
+                        <td rowspan="1" colspan="1">The child falls asleep while being bottle fed </td>
+                        <td align="right" rowspan="1" colspan="1">25 (43.1)</td>
+                     </tr>
+                     <tr>
+                        <td rowspan="1" colspan="1">Prolonged feeding time</td>
+                        <td align="right" rowspan="1" colspan="1">23 (39.7)</td>
+                     </tr>
+                     <tr>
+                        <td rowspan="1" colspan="1">Food escaping the mouth while bottle feeding</td>
+                        <td align="right" rowspan="1" colspan="1">20 (24.5)</td>
+                     </tr>
+                     <tr>
+                        <td rowspan="1" colspan="1">Problems with biting and chewing</td>
+                        <td align="right" rowspan="1" colspan="1">14 (24.6)</td>
+                     </tr>
+                     <tr>
+                        <td rowspan="1" colspan="1">Solid food escaping the mouth</td>
+                        <td align="right" rowspan="1" colspan="1">14 (24.1)</td>
+                     </tr>
+                     <tr>
+                        <td rowspan="1" colspan="1">Coughing, choking while eating solid food</td>
+                        <td align="right" rowspan="1" colspan="1">12 (20.7)</td>
+                     </tr>
+                     <tr>
+                        <td rowspan="1" colspan="1">Vomiting, dribbling while bottle feeding</td>
+                        <td align="right" rowspan="1" colspan="1">12 (20.7)</td>
+                     </tr>
+                     <tr>
+                        <td rowspan="1" colspan="1">Crying while bottle feeding</td>
+                        <td align="right" rowspan="1" colspan="1">12 (20.7)</td>
+                     </tr>
+                     <tr>
+                        <td rowspan="1" colspan="1">Coughing, choking while bottle feeding</td>
+                        <td align="right" rowspan="1" colspan="1">11 (19.0)</td>
+                     </tr>
+                     <tr>
+                        <td rowspan="1" colspan="1">Improper weight gain</td>
+                        <td align="right" rowspan="1" colspan="1">9 (15.5)</td>
+                     </tr>
+                     <tr>
+                        <td rowspan="1" colspan="1">Crying while eating solid food</td>
+                        <td align="right" rowspan="1" colspan="1">7 (12.1)</td>
+                     </tr>
+                     <tr>
+                        <td rowspan="1" colspan="1">Feeding through a tube</td>
+                        <td align="right" rowspan="1" colspan="1">6 (10.3)</td>
+                     </tr>
+                     <tr>
+                        <td rowspan="1" colspan="1">Vomiting while eating solid food</td>
+                        <td align="right" rowspan="1" colspan="1">3 (5.2)</td>
+                     </tr>
+                     <tr>
+                        <td rowspan="1" colspan="1">Nasal regurgitation after surgical treatment is completed</td>
+                        <td align="right" rowspan="1" colspan="1">1 (1.7)</td>
+                     </tr>
+                  </tbody>
+               </table>
+            </table-wrap>
+            <p>Experts point out that feeding must be treated completely differently when it comes to orofacial cleft within the craniofacial syndrome. In addition to the affected facial structures, feeding is influenced by a number of other structural, respiratory and neuromuscular features of the child (<xref ref-type="bibr" rid="en-b16">16</xref>,<xref ref-type="bibr" rid="en-b17">17</xref>).</p>
+            <p>It is important to recognize that the treatment of children with orofacial clefts is time-consuming and complex, and from the birth of a child on, various specialists are included, who meet regularly, together plan the treatment of the most demanding children with orofacial clefts, evaluate their work, look for causes of failure and try to clarify and eliminate them (<xref ref-type="bibr" rid="en-b18">18</xref>). Team members identify the arisen disorders, treat the child with an orofacial cleft themselves, or refer them to other professionals with narrower expertise, close to the child’s home (<xref ref-type="bibr" rid="en-b19">19</xref>,<xref ref-type="bibr" rid="en-b20">20</xref>).</p>
+            <fig position="anchor" id="en-fig1" orientation="portrait">
+               <label>Figure 1:</label>
+               <caption>
+                  <p> The source of information about feeding of the child with orofacial cleft.</p>
+               </caption>
+               <p>
+                  <graphic xlink:href="2892-en-web-resources/image/zdravvestn-2892-en-01.png"
+                           position="float"
+                           orientation="portrait"/>
+               </p>
+            </fig>
+            <p>To date, there has not yet been a study in Slovenia that would systematically investigate feeding and swallowing problems in children with orofacial clefts and their resolution.</p>
+         </sec>
+         <sec id="en-s2" sec-type="Methods">
+            <label>2</label>
+            <title>Methods</title>
+            <p>The study population was preschool children with a cleft in the orofacial region, aged 6 months to 6 years. For the purpose of the research, an anonymous questionnaire was developed based on the literature data (<xref ref-type="bibr" rid="en-b17">17</xref>,<xref ref-type="bibr" rid="en-b21">21</xref>). The questions were related to general information about the child, information about his or her feeding and swallowing, the use of feeding gadgets, accompanying problems besides feeding (sensitivity to being touched in the mouth and teeth being brushed, difficulty developing speech, parental stress during feeding), and data on the support and assistance of practitioners in feeding a child with orofacial cleft.</p>
+            <p>The questionnaire was first pilot tested with 19 parents who brought their children with orofacial clefts for examination to a maxillofacial surgeon, and then distributed to all parents of children with orofacial clefts born in three consecutive years, from 1 Jan. 2013 to 31. Dec. 2016. The questionnaire was anonymous. Only with the added name of the child and the signed permission of the parents could we summarize the child’s medical data from the medical records and complete the results of the questionnaire (gestational age at birth and type of orofacial cleft).</p>
+            <table-wrap position="anchor" id="en-table3" orientation="portrait">
+               <label>Table 3:</label>
+               <caption>
+                  <p> Comparison of the children with orofacial clefts regarding feeding problems some time in life (N = 58).</p>
+               </caption>
+               <table>
+                  <colgroup span="1">
+                     <col span="1"/>
+                     <col span="1"/>
+                     <col span="1"/>
+                     <col span="1"/>
+                  </colgroup>
+                  <tbody>
+                     <tr>
+                        <th rowspan="2" colspan="1"/>
+                        <th align="center" colspan="2" rowspan="1">Feeding problems (some time in life)</th>
+                        <th align="center" rowspan="2" colspan="1">p</th>
+                     </tr>
+                     <tr>
+                        <th rowspan="1" colspan="1">
+                           <p>YES</p>
+                           <p>N = 42</p>
+                        </th>
+                        <th rowspan="1" colspan="1">
+                           <p>NO</p>
+                           <p>N = 16</p>
+                        </th>
+                     </tr>
+                     <tr>
+                        <td rowspan="1" colspan="1">CL / CLA (N = 11)</td>
+                        <td align="right" rowspan="1" colspan="1">3</td>
+                        <td align="right" rowspan="1" colspan="1">8</td>
+                        <td align="right" rowspan="1" colspan="1">0.001</td>
+                     </tr>
+                     <tr>
+                        <td rowspan="1" colspan="1">CP / CLP (N = 47)</td>
+                        <td align="right" rowspan="1" colspan="1">39</td>
+                        <td align="right" rowspan="1" colspan="1">3</td>
+                        <td align="right" rowspan="1" colspan="1">0.001</td>
+                     </tr>
+                     <tr>
+                        <td rowspan="1" colspan="1">Presence of syndrome (N = 10)</td>
+                        <td align="right" rowspan="1" colspan="1">10</td>
+                        <td align="right" rowspan="1" colspan="1">0</td>
+                        <td align="right" rowspan="1" colspan="1">0.048</td>
+                     </tr>
+                     <tr>
+                        <td rowspan="1" colspan="1">Problems with speech (N = 24)</td>
+                        <td align="right" rowspan="1" colspan="1">20</td>
+                        <td align="right" rowspan="1" colspan="1">4</td>
+                        <td align="right" rowspan="1" colspan="1">0.034</td>
+                     </tr>
+                     <tr>
+                        <td rowspan="1" colspan="1">Nasogastric feeding (N = 6)</td>
+                        <td align="right" rowspan="1" colspan="1">6</td>
+                        <td align="right" rowspan="1" colspan="1">0</td>
+                        <td align="right" rowspan="1" colspan="1">0.173</td>
+                     </tr>
+                     <tr>
+                        <td rowspan="1" colspan="1">Improper weight gain (N = 9)</td>
+                        <td align="right" rowspan="1" colspan="1">9</td>
+                        <td align="right" rowspan="1" colspan="1">0</td>
+                        <td align="right" rowspan="1" colspan="1">0.051</td>
+                     </tr>
+                     <tr>
+                        <td rowspan="1" colspan="1">Poor tolerance of mouth contact (N = 20)</td>
+                        <td align="right" rowspan="1" colspan="1">16</td>
+                        <td align="right" rowspan="1" colspan="1">4</td>
+                        <td align="right" rowspan="1" colspan="1">0.371</td>
+                     </tr>
+                     <tr>
+                        <td rowspan="1" colspan="1">Parents experience stress during feeding (N = 20)</td>
+                        <td align="right" rowspan="1" colspan="1">18</td>
+                        <td align="right" rowspan="1" colspan="1">2</td>
+                        <td align="right" rowspan="1" colspan="1">0.032</td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table-wrap-foot>
+                  <p>Legend: CL- cleft lip, CLA – cleft lip and alveolus, CP – cleft palate, CLP – cleft lip, alveolus and palate</p>
+               </table-wrap-foot>
+            </table-wrap>
+            <p>The results were analyzed with Excel 2013 and IBM SPSS Statistics 22.0. We presented them with descriptive statistics, and then compared the results of the questionnaire between a group of children with orofacial clefts who had problems with feeding and swallowing, and a group of children for whom parents clamed they had no feeding problems. We used the chi-square test or Fisher’s exact test.</p>
+            <p>The study was approved by the Medical Ethics Committee of the Republic of Slovenia (Decision No. 0120–107/2017).</p>
+         </sec>
+         <sec id="en-s3" sec-type="Results">
+            <label>3</label>
+            <title>Results</title>
+            <p>The response to the sent questionnaire was 47 %, of the 93 sent questionnaires 44 were sent back to us. A total of 58 questionnaires were included in the final analysis, besides the 44 returned questionnaires there were also 14 fully completed ones from the pilot survey, namely, those completed by the parents of children 6 years and older. The final group consisted of children between the ages of six and 72 months (mean 30 months, standard deviation 16.8 months). The study participants were divided into groups according to the type of orofacial cleft (<xref ref-type="table" rid="en-table1">Table 1</xref>).</p>
+            <table-wrap position="anchor" id="en-table4" orientation="portrait">
+               <label>Table 4:</label>
+               <caption>
+                  <p> Comparison of groups of children with orofacial clefts regarding persistant feeding problems (N = 58).</p>
+               </caption>
+               <table>
+                  <colgroup span="1">
+                     <col span="1"/>
+                     <col span="1"/>
+                     <col span="1"/>
+                  </colgroup>
+                  <tbody>
+                     <tr>
+                        <th rowspan="2" colspan="1"/>
+                        <th align="center" colspan="2" rowspan="1">Feeding problems<break/>(present all the time)</th>
+                     </tr>
+                     <tr>
+                        <th rowspan="1" colspan="1">
+                           <p>YES</p>
+                           <p>N = 8</p>
+                        </th>
+                        <th rowspan="1" colspan="1">
+                           <p>NO</p>
+                           <p>N = 50</p>
+                        </th>
+                     </tr>
+                     <tr>
+                        <td rowspan="1" colspan="1">CL / CLA (N = 11)</td>
+                        <td align="right" rowspan="1" colspan="1">1</td>
+                        <td align="right" rowspan="1" colspan="1">10</td>
+                     </tr>
+                     <tr>
+                        <td rowspan="1" colspan="1">CP / CLP (N = 47)</td>
+                        <td align="right" rowspan="1" colspan="1">7</td>
+                        <td align="right" rowspan="1" colspan="1">40</td>
+                     </tr>
+                     <tr>
+                        <td rowspan="1" colspan="1">Presence of syndrome (N = 10)</td>
+                        <td align="right" rowspan="1" colspan="1">2</td>
+                        <td align="right" rowspan="1" colspan="1">8</td>
+                     </tr>
+                     <tr>
+                        <td rowspan="1" colspan="1">Problems with speech (N = 24)</td>
+                        <td align="right" rowspan="1" colspan="1">2</td>
+                        <td align="right" rowspan="1" colspan="1">22</td>
+                     </tr>
+                     <tr>
+                        <td rowspan="1" colspan="1">Nasogastric feeding (N = 6)</td>
+                        <td align="right" rowspan="1" colspan="1">3</td>
+                        <td align="right" rowspan="1" colspan="1">3</td>
+                     </tr>
+                     <tr>
+                        <td rowspan="1" colspan="1">Improper weight gain (N = 9)</td>
+                        <td align="right" rowspan="1" colspan="1">2</td>
+                        <td align="right" rowspan="1" colspan="1">7</td>
+                     </tr>
+                     <tr>
+                        <td rowspan="1" colspan="1">Poor tolerance of mouth contact (N = 20)</td>
+                        <td align="right" rowspan="1" colspan="1">4</td>
+                        <td align="right" rowspan="1" colspan="1">16</td>
+                     </tr>
+                     <tr>
+                        <td rowspan="1" colspan="1">Parents experience stress while feeding (N = 20)</td>
+                        <td align="right" rowspan="1" colspan="1">6</td>
+                        <td align="right" rowspan="1" colspan="1">14</td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table-wrap-foot>
+                  <p>Legend: CL- cleft lip, CLA – cleft lip and alveolus, CP – cleft palate, CLP – cleft lip, alveolus and palate</p>
+               </table-wrap-foot>
+            </table-wrap>
+            <p>A total of 53 (91.4 %) children surveyed were born after the 37th week of gestational age. In ten children (17.2 %), schisis appeared within a syndrome: in 6 children as a part of Robin sequence, in 2 as a part of van der Woude syndrome, 1 had orofaciodigital syndrome and 1 had Down’s syndrome in addition to the orofacial cleft syndrome.</p>
+            <p>Problems with feeding were experienced by 42 (72.4 %) children at some point in their lives. In 24 children (40.4 %) problems still persisted one month after birth, while 14 children (24.1 %) had problems until the end of surgical treatment, and 8 (13.8 %) had problems all the time. Among these 8 children three had CP, four had UCLP, and one had bilateral CL. Two had an orofacial cleft that was part of a syndrome (Robin sequence, van der Woude syndrome).</p>
+            <p>Eleven children were breastfed for at least one month, among them were eight children with CL and with or without alveolar cleft and 3 children with CP (one had submucosal cleft palate and one incomplete soft palate cleft).</p>
+            <p>In a certain period there were 6 children with orofacial cleft being fed through a nasogastric tube. The average feeding time through a nasogastric tube was 3.2 months, and all children had the tube inserted in the first month of their lives. Of the children fed through the tube, three had CP and three had UCLP. Four of them had CLP within a syndrome. Two had Robin sequence, one had van der Woude syndrome and one had orofaciodigital syndrome. Only one child was fed through a gastrostomy tube, namely, from 8 to 16 months of age, and had had a nasogastric tube inserted before that. In addition to CP, he also had Robin sequence, he was a twin and a premature baby.</p>
+            <p>
+               <xref ref-type="table" rid="en-table2">Table 2</xref> shows the feeding and swallowing problems of children with orofacial clefts by frequency:</p>
+            <p>In addition to the stated feeding problems, 20 children with orofacial clefts had poor tolerance of mouth contact, and 14 children had difficulty having their teeth brushed. Three of the six children fed through a nasogastric tube also had problems with being touched in the mouth, while these problems were only present in one third of the children, who didn’t use the tube. Of the 14 children who had problems with biting and chewing, 9 poorly tolerated touching of the mouth, 2 were fed through a nasogastric tube for a certain period of time, 1 of these 2 was then fed through a gastrostomy tube for another 8 months.</p>
+            <p>In our sample, according to parents, 24 children had speech problems, 11 of whom had CP and 13 had CLP. In 8 children, speech developed normally without the help of a speech therapist. Among them, five had CL or CLA, three had CP and two had UCLP. 24 children were too young for their parents to consider the presence of speech problems.</p>
+            <p>The use of a modified bottle helped to reduce feeding problems in 35 children (81.4 % of those who used a modified bottle). After they started to use the palatal obturator, parents of 19 children (75 % of those who used the palatal obturator) noticed that feeding problems also decreased.</p>
+            <p>More than a third of parents (20 people) experienced feeding their child in a certain period of time as stressful.</p>
+            <p>
+               <xref ref-type="fig" rid="en-fig1">Figure 1</xref> shows which experts advised parents about feeding and swallowing.</p>
+            <p>Only 15 (25.9 %) parents had known before birth that they would give birth to a child with an orofacial cleft. They all had at least a cleft lip and alveolus. Among them there were no children with only CL and no children with only CP.</p>
+            <p>A good two-thirds (41 parents) would have liked to attend education regarding feeding and swallowing even before or immediately after the birth of a child with an orofacial cleft.</p>
+            <p>When comparing children with orofacial clefts who have feeding problems at some point in their lives and children without problems, we found a statistically significant difference between the groups regarding the type of orofacial cleft, the presence of a syndrome, subsequent speech problems, and parents experiencing stress when feeding the child. A borderline characteristic was also weight gain (<xref ref-type="table" rid="en-table3">Table 3</xref>). Due to the small number of children who have had feeding problems all the time, we have only shown the results of the comparison of these children to others with descriptive statistics (<xref ref-type="table" rid="en-table4">Table 4</xref>).</p>
+         </sec>
+         <sec id="en-s4" sec-type="Discussion">
+            <label>4</label>
+            <title>Discussion</title>
+            <p>Given that between 30 and 40 children with orofacial clefts are born in Slovenia per year (<xref ref-type="bibr" rid="en-b1">1</xref>), we included in our sample a fairly large proportion of children (58 persons) aged between 6 months and 6 years. We decided to send a questionnaire to children who were 6 months to 3 years old at the time of the survey because we wanted to get information primarily about the initial feeding problems. In the pilot part of the survey to evaluate the questionnaire, we covered children who were regularly examined by a maxillofacial surgeon. We then included only pre-school children in the analysis, as extending the period from the birth of the child to completing the questionnaire may cause some problems to fade from their parents’ memories.</p>
+            <p>Reid and coworkers (<xref ref-type="bibr" rid="en-b13">13</xref>) investigated the incidence of feeding problems in children with orofacial clefts and found that the problems decreased with age and the incidence of feeding problems decreased by the age of 14 months to 15 %. The results of our study showed that in the first month of life, less than three-quarters of children had feeding problems, the problems persisted at 24 % until the completion of surgical treatment. This means that most feeding problems occurred when trying to breastfeed or when bottle feeding during the first months of life, only in a small number of cases did problems persist later on introducing solid and formed foods. The findings of Jones and coworkers (<xref ref-type="bibr" rid="en-b11">11</xref>) as well as Reid (<xref ref-type="bibr" rid="en-b10">10</xref>) were similar. There is generally little information on the frequency of swallowing problems in the population of children. The U.S. reports that in 2012, about 1 % of the child population in the country had difficulty swallowing, but only about 13 % sought appropriate professional help (<xref ref-type="bibr" rid="en-b22">22</xref>). There is no data for Slovenia, however, when comparing the incidence of dysphagia in the American study among the general child population and the results of our study, it is clear that feeding problems are a significant problem for children with orofacial clefts even after surgical treatment is completed. Only two of eight children (13.8 %) who had feeding problems after completing surgical treatment had a syndrome. Swallowing problems are therefore likely not only due to different anatomical conditions (orofacial cleft) but also due to other factors.</p>
+            <p>Peterson-Falzone notes that a large proportion of children with orofacial clefts have problems with establishing a normal feeding pattern during the early period, the most problems arising due to communication between the oral and nasal cavities. This results in an inability to create negative pressure in the oral cavity. This reduces the suction capability (<xref ref-type="bibr" rid="en-b3">3</xref>). It was the nasal regurgitation that was the most common problem in our study, as well as excessive air intake while bottle feeding, drowsiness during bottle feeding, prolonged feeding time, food escaping from the mouth while bottle feeding, and problems with biting and chewing. Most problems were therefore due to communication between the oral and nasal cavities. Similar findings have been made by other authors as well (<xref ref-type="bibr" rid="en-b8">8</xref>,<xref ref-type="bibr" rid="en-b13">13</xref>,<xref ref-type="bibr" rid="en-b21">21</xref>). Drowsiness during feeding could be attributed to the higher energy consumption of the child in the case of unsuccessful sucking, which sooner leads to fatigue during feeding. Subsequent biting and chewing problems could be explained, at least in part, by altered sensibility in the oral cavity due to orofacial clefting and the consequences of treatment, as nine out of 14 children who had biting and chewing problems for at least a certain period of time had poor tolerance of mouth contact.</p>
+            <p>McDonald found in her study that the type of orofacial cleft had a significant effect on breastfeeding, for 60 % of infants with CL were breastfed for more than 6 months, while only few infants with CP were breastfed for more than 6 months (<xref ref-type="bibr" rid="en-b21">21</xref>). In our study, only eleven infants with orofacial clefts were breastfed (19 %), including three with CP, which is in line with the data in professional literature (<xref ref-type="bibr" rid="en-b21">21</xref>,<xref ref-type="bibr" rid="en-b14">14</xref>).</p>
+            <p>We have found that the type of orofacial cleft has a statistically significant effect on feeding and swallowing problems, since children with CL or CLA have significantly less problems than children with CP or CLP (<xref ref-type="table" rid="en-table3">Table 3</xref>). This result is a logical consequence of the anatomical conditions that exist until the end of surgical treatment, rarely even later. According to literature data, children with feeding problems at some point in life were more likely to gain weight inappropriately, were fed through a nasogastric tube, and had a syndrome in addition to orofacial cleft (<xref ref-type="table" rid="en-table3">Table 3</xref>).</p>
+            <p>In 3 out of 6 children fed through a nasogastric tube, parents described poor tolerance of oral cavity contact. These children are most likely to have developed excessive sensitivity due to their lack of experience at an early age when neural connections between the periphery and the central nervous system are still being established and matured.</p>
+            <p>Only in 8 children did feeding problems persist even after surgical treatment. This group of children was also often fed by means of alternative methods (3/8), and parents of 6 children experienced stress during feeding. In addition to the possible suboptimal anatomical conditions for feeding and swallowing, there were most likely other factors involved - e.g. altered experience of sensory stimuli as a result of developments in the oral cavity during the first years of life or other accompanying problems. As many as half of the children with persistent feeding problems had poor tolerance of oral cavity contact. The perception of stimuli in the oral cavity is also affected by surgery, the use of a nasogastric tube or gastrostomy tube for feeding, and to some extent the use of a palatal obturator (<xref ref-type="bibr" rid="en-b6">6</xref>,<xref ref-type="bibr" rid="en-b23">23</xref>).</p>
+            <p>Children who had feeding problems were more likely to gain weight improperly and needed an alternative feeding method (<xref ref-type="table" rid="en-table3">Table 3</xref>). The introduction of a nasogastric tube or even a gastrostomy tube for feeding is the consequence of inadequate growth and development of the child. In the vast majority of children, the alternative method of feeding lasted less than a year, and then they were again fed through the mouth, even though as many as five children had a cleft palate. One infant with CP within the Robin sequence was first fed through a nasogastric tube and then fed for eight months through a gastrostomy tube. The boy was one of twins, born more than a month premature, which could also be a cause of feeding problems at least immediately after birth. Among the 6 children who needed an alternative method of feeding, four had orofacial cleft within a syndrome. Even in the professional literature, it is reported that an alternative feeding method should be more frequently introduced in children with syndromes than in those with an orofacial cleft, that is not part of a syndrome (<xref ref-type="bibr" rid="en-b16">16</xref>,<xref ref-type="bibr" rid="en-b17">17</xref>).</p>
+            <p>To ensure that children with orofacial clefts can be fed successfully, there are customized bottles that increase food intake while preventing the child from swallowing too much air (<xref ref-type="bibr" rid="en-b23">23</xref>). According to parents’ reports, we found that there are few types of custom bottles available in Slovenia. At the maternity hospital, parents are usually offered one brand of bottle, which is not suitable for all children, and presents a major financial burden for parents.</p>
+            <p>Palatal obturator was used by 26 children. Although the palatal obturator is part of preoperative jaw orthopedic treatment (<xref ref-type="bibr" rid="en-b2">2</xref>), some studies indicate that its use in combination with other measures is one of effective methods in establishing effective feeding of a baby with schisis (<xref ref-type="bibr" rid="en-b20">20</xref>). In our study, parents noticed a decrease in feeding problems after the palatal obturator was used in as many as three quarters of children who received a palatal obturator as part of preoperative preparation for orofacial cleft treatment.</p>
+            <p>Due to the procedures of successful early diagnosis, some parents are aware of orofacial cleft before the child is born. In our study, there were about a quarter of such parents (15 people). It would be wise to involve a professional team to help expectant parents even before the child is born, when the parents find out that their child would be born with schisis. Each of the experts would thus provide them with information about the functional disorders that he or she mostly deals with and how to solve these problems.</p>
+            <p>It would also be welcome to have a clinical speech therapist, in addition to the maxillofacial surgeon, see the children and their mothers in maternity hospitals immediately after birth, who would provide parents with information regarding the relationship between feeding and speech development and would further monitor the child. In every maternity hospital, at least one nurse or other health professional should be specifically trained in functional disorders of children with orofacial clefts and feeding assistance in order for parents to receive immediate help and to reduce their distress when unable to feed a newborn with orofacial cleft.</p>
+            <p>In their written comments, the parents emphasized the problem of inadequate support by nurses and midwives in feeding. It would be reasonable to build on the research by examining the knowledge of medical staff about working with children with orofacial clefts, in order to find out in which parts of Slovenia the professional competence of the staff is the worst. Currently, education activities on the topic of feeding and swallowing of children with orofacial clefts in the orofacial area are already taking place in Slovenia, where professionals receive knowledge of basic ways of working, counseling and selecting feeding gadgets. In the future, it might make sense to investigate the link between feeding and speech and the impact of decreased oral activity on speech and language development.</p>
+         </sec>
+         <sec id="en-s5" sec-type="Conclusion">
+            <label>5</label>
+            <title>Conclusion</title>
+            <p>Feeding difficulties in children with orofacial clefts are a common occurrence. At some point in their lives, less than three-quarters of the children taking part in the study had feeding problems, with a good seventh having problems persisting even after the completed surgical treatment. The aim of the study was to emphasize the importance of having the child treated early by a multidisciplinary team that could prevent many problems arising from prolonged inefficient feeding. It is important to bear in mind that feeding difficulties have a great impact on the whole family, as feeding not only satisfies the need for calorie intake but also strengthens the bond between mother and child. It can be concluded that the treatment of children with orofacial clefts in Slovenia is good, but early counseling on feeding and selecting appropriate feeding techniques and gadgets are insufficient.</p>
+         </sec>
+      </body>
+      <back>
+         <ref-list>
+            <ref id="en-b1">
+               <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                        <surname>Koželj</surname>
+                        <given-names>V</given-names>
+                     </name>
+                    </person-group>. 
+                    <article-title>Računalniški informacijski sistem za spremljanje orofacialnih shiz v Sloveniji kot vir za epidemiološko analizo obdobij 1973-1993 in 1993-2012</article-title>. 
+                    <source>Zobozdrav Vestn</source>. 
+                    <year>2015</year>;
+                    <volume>70</volume>(
+                    <issue>3-5</issue>):
+                    <fpage>135</fpage>–
+                    <lpage>42</lpage>.
+                    <issn>0044-4928</issn>
+                </mixed-citation>
+            </ref>
+            <ref id="en-b2">
+               <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                        <surname>Watkins</surname>
+                        <given-names>SE</given-names>
+                     </name>, 
+                        <name name-style="western">
+                        <surname>Meyer</surname>
+                        <given-names>RE</given-names>
+                     </name>, 
+                        <name name-style="western">
+                        <surname>Strauss</surname>
+                        <given-names>RP</given-names>
+                     </name>, 
+                        <name name-style="western">
+                        <surname>Aylsworth</surname>
+                        <given-names>AS</given-names>
+                     </name>
+                    </person-group>. 
+                    <article-title>Classification, epidemiology, and genetics of orofacial clefts</article-title>. 
+                    <source>Clin Plast Surg</source>. 
+                    <year>2014</year>
+                    <month>Apr</month>;
+                    <volume>41</volume>(
+                    <issue>2</issue>):
+                    <fpage>149</fpage>–
+                    <lpage>63</lpage>. 
+                    <pub-id pub-id-type="doi">10.1016/j.cps.2013.12.003</pub-id>
+                    <pub-id pub-id-type="pmid">24607185</pub-id>
+                    <issn>0094-1298</issn>
+                </mixed-citation>
+            </ref>
+            <ref id="en-b3">
+               <mixed-citation publication-type="book">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                        <surname>Peterson-Falzone</surname>
+                        <given-names>SJ</given-names>
+                     </name>, 
+                        <name name-style="western">
+                        <surname>Trost-Cardamone</surname>
+                        <given-names>JE</given-names>
+                     </name>, 
+                        <name name-style="western">
+                        <surname>Karnell</surname>
+                        <given-names>MP</given-names>
+                     </name>, 
+                        <name name-style="western">
+                        <surname>Hardin-Jones</surname>
+                        <given-names>M</given-names>
+                     </name>
+                    </person-group>. 
+                    <source>The Clinician’s Guide to Treating Cleft Palate Speech</source>. 
+                    <publisher-loc>Philadelphia</publisher-loc>: 
+                    <publisher-name>Mosby Elsevier</publisher-name>; 
+                    <year>2006</year>.
+                </mixed-citation>
+            </ref>
+            <ref id="en-b4">
+               <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                        <surname>Shkoukani</surname>
+                        <given-names>MA</given-names>
+                     </name>, 
+                        <name name-style="western">
+                        <surname>Lawrence</surname>
+                        <given-names>LA</given-names>
+                     </name>, 
+                        <name name-style="western">
+                        <surname>Liebertz</surname>
+                        <given-names>DJ</given-names>
+                     </name>, 
+                        <name name-style="western">
+                        <surname>Svider</surname>
+                        <given-names>PF</given-names>
+                     </name>
+                    </person-group>. 
+                    <article-title>Cleft palate: a clinical review</article-title>. 
+                    <source>Birth Defects Res C Embryo Today</source>. 
+                    <year>2014</year>
+                    <month>Dec</month>;
+                    <volume>102</volume>(
+                    <issue>4</issue>):
+                    <fpage>333</fpage>–
+                    <lpage>42</lpage>. 
+                    <pub-id pub-id-type="doi">10.1002/bdrc.21083</pub-id>
+                    <pub-id pub-id-type="pmid">25504820</pub-id>
+                    <issn>1542-975X</issn>
+                </mixed-citation>
+            </ref>
+            <ref id="en-b5">
+               <mixed-citation publication-type="book">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                        <surname>Crowley</surname>
+                        <given-names>L</given-names>
+                     </name>, 
+                        <name name-style="western">
+                        <surname>Gist</surname>
+                        <given-names>KL</given-names>
+                     </name>, 
+                        <name name-style="western">
+                        <surname>Gregson</surname>
+                        <given-names>KM</given-names>
+                     </name>, 
+                        <name name-style="western">
+                        <surname>Hufnagle</surname>
+                        <given-names>K</given-names>
+                     </name>, 
+                        <name name-style="western">
+                        <surname>Peterson-Falzone</surname>
+                        <given-names>S</given-names>
+                     </name>, 
+                        <name name-style="western">
+                        <surname>Smythe</surname>
+                        <given-names>NC</given-names>
+                     </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <source>Your baby’s first year</source>. 
+                    <publisher-loc>Chapel Hill</publisher-loc>: 
+                    <publisher-name>CPF Publications Committee</publisher-name>; 
+                    <year>2012</year>.
+                </mixed-citation>
+            </ref>
+            <ref id="en-b6">
+               <mixed-citation publication-type="conf-proc">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                        <surname>Eberlinc</surname>
+                        <given-names>A</given-names>
+                     </name>
+                    </person-group>. 
+                    <article-title>Estetski problem pri pacientih s heilognatopalatoshizo </article-title>. In:
+                    <conf-name>Sodobne metode in nove tehnologije v maksilofacialni kirurgiji in stomatologiji</conf-name>.
+                    <conf-date iso-8601-date="2014-11-29">2014 Nov 29</conf-date>;
+                    <conf-loc>Brdo pri Kranju, Slovenija</conf-loc>.
+                    <publisher-loc>Ljubljana</publisher-loc>:
+                    <publisher-name>Združenje za maksilofacialno in oralno kirurgijo Slovenije</publisher-name>;
+                    <year>2014</year>. 
+                    <fpage>75</fpage>.
+                </mixed-citation>
+            </ref>
+            <ref id="en-b7">
+               <mixed-citation publication-type="book">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                        <surname>Murry</surname>
+                        <given-names>T</given-names>
+                     </name>, 
+                        <name name-style="western">
+                        <surname>Carrau</surname>
+                        <given-names>RL</given-names>
+                     </name>
+                    </person-group>. 
+                    <source>Clinical management of swallowing disorders</source>. 
+                    <edition>2nd ed</edition>.
+                    <publisher-loc>San Diego</publisher-loc>: 
+                    <publisher-name>Plural Publishing</publisher-name>; 
+                    <year>2006</year>.
+                    <isbn>1597560375</isbn> 
+                </mixed-citation>
+            </ref>
+            <ref id="en-b8">
+               <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                        <surname>de Vries</surname>
+                        <given-names>IA</given-names>
+                     </name>, 
+                        <name name-style="western">
+                        <surname>Breugem</surname>
+                        <given-names>CC</given-names>
+                     </name>, 
+                        <name name-style="western">
+                        <surname>van der Heul</surname>
+                        <given-names>AM</given-names>
+                     </name>, 
+                        <name name-style="western">
+                        <surname>Eijkemans</surname>
+                        <given-names>MJ</given-names>
+                     </name>, 
+                        <name name-style="western">
+                        <surname>Kon</surname>
+                        <given-names>M</given-names>
+                     </name>, 
+                        <name name-style="western">
+                        <surname>Mink van der Molen</surname>
+                        <given-names>AB</given-names>
+                     </name>
+                    </person-group>. 
+                    <article-title>Prevalence of feeding disorders in children with cleft palate only: a retrospective study</article-title>. 
+                    <source>Clin Oral Investig</source>. 
+                    <year>2014</year>;
+                    <volume>18</volume>(
+                    <issue>5</issue>):
+                    <fpage>1507</fpage>–
+                    <lpage>15</lpage>.
+                    <pub-id pub-id-type="pmid">24122307</pub-id>
+                    <issn>1436-3771</issn>
+                </mixed-citation>
+            </ref>
+            <ref id="en-b9">
+               <mixed-citation publication-type="book-chapter">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                        <surname>Perlman</surname>
+                        <given-names>AL</given-names>
+                     </name>, 
+                        <name name-style="western">
+                        <surname>Christensen</surname>
+                        <given-names>J</given-names>
+                     </name>
+                    </person-group>. 
+                    <chapter-title>Topography and functional anatomy of the swallowing structures</chapter-title>. In:
+                    <person-group person-group-type="editor">
+                        <name name-style="western">
+                        <surname>Perlman</surname>
+                        <given-names>AL</given-names>
+                     </name>, 
+                        <name name-style="western">
+                        <surname>Schulze-Delrieu</surname>
+                        <given-names>K</given-names>
+                     </name>, 
+                        <role>eds</role>
+                    </person-group>. 
+                    <source>Deglutition and its disorders</source>. 
+                    <publisher-loc>San Diego</publisher-loc>: 
+                    <publisher-name>Singular Publishing Group, INC</publisher-name>; 
+                    <year>1997</year>. pp. 
+                    <fpage>15</fpage>–
+                    <lpage>42</lpage>.
+                </mixed-citation>
+            </ref>
+            <ref id="en-b10">
+               <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                        <surname>Reid</surname>
+                        <given-names>J</given-names>
+                     </name>
+                    </person-group>. 
+                    <article-title>A review of feeding interventions for infants with cleft palate</article-title>. 
+                    <source>Cleft Palate Craniofac J</source>. 
+                    <year>2004</year>
+                    <month>May</month>;
+                    <volume>41</volume>(
+                    <issue>3</issue>):
+                    <fpage>268</fpage>–
+                    <lpage>78</lpage>. 
+                    <pub-id pub-id-type="doi">10.1597/02-148.1</pub-id>
+                    <pub-id pub-id-type="pmid">15151444</pub-id>
+                    <issn>1055-6656</issn>
+                </mixed-citation>
+            </ref>
+            <ref id="en-b11">
+               <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                        <surname>Jones</surname>
+                        <given-names>WB</given-names>
+                     </name>
+                    </person-group>. 
+                    <article-title>Weight gain and feeding in the neonate with cleft: a three-center study</article-title>. 
+                    <source>Cleft Palate J</source>. 
+                    <year>1988</year>
+                    <month>Oct</month>;
+                    <volume>25</volume>(
+                    <issue>4</issue>):
+                    <fpage>379</fpage>–
+                    <lpage>84</lpage>.
+                    <pub-id pub-id-type="pmid">3060285</pub-id>
+                    <issn>0009-8701</issn>
+                </mixed-citation>
+            </ref>
+            <ref id="en-b12">
+               <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                        <surname>Spriestersbach</surname>
+                        <given-names>DC</given-names>
+                     </name>, 
+                        <name name-style="western">
+                        <surname>Dickson</surname>
+                        <given-names>DR</given-names>
+                     </name>, 
+                        <name name-style="western">
+                        <surname>Fraser</surname>
+                        <given-names>FC</given-names>
+                     </name>, 
+                        <name name-style="western">
+                        <surname>Horowitz</surname>
+                        <given-names>SL</given-names>
+                     </name>, 
+                        <name name-style="western">
+                        <surname>McWilliams</surname>
+                        <given-names>BJ</given-names>
+                     </name>, 
+                        <name name-style="western">
+                        <surname>Paradise</surname>
+                        <given-names>JL</given-names>
+                     </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>Clinical research in cleft lip and cleft palate: the state of the art</article-title>. 
+                    <source>Cleft Palate J</source>. 
+                    <year>1973</year>
+                    <month>Apr</month>;
+                    <volume>10</volume>:
+                    <fpage>113</fpage>–
+                    <lpage>65</lpage>.
+                    <pub-id pub-id-type="pmid">4220387</pub-id>
+                    <issn>0009-8701</issn>
+                </mixed-citation>
+            </ref>
+            <ref id="en-b13">
+               <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author"> 
+                        <name name-style="western">
+                        <surname>Reid</surname>
+                        <given-names>J</given-names>
+                     </name>, 
+                        <name name-style="western">
+                        <surname>Kilpatrick</surname>
+                        <given-names>N</given-names>
+                     </name>, 
+                        <name name-style="western">
+                        <surname>Reilly</surname>
+                        <given-names>S</given-names>
+                     </name>
+                    </person-group>. 
+                    <article-title>A prospective, longitudinal study of feeding skills in a cohort of babies with cleft conditions</article-title>. 
+                    <source>Cleft Palate Craniofac J</source>. 
+                    <year>2006</year>
+                    <month>Nov</month>;
+                    <volume>43</volume>(
+                    <issue>6</issue>):
+                    <fpage>702</fpage>–
+                    <lpage>9</lpage>. 
+                    <pub-id pub-id-type="doi">10.1597/05-172</pub-id>
+                    <pub-id pub-id-type="pmid">17105331</pub-id>
+                    <issn>1055-6656</issn>
+                </mixed-citation>
+            </ref>
+            <ref id="en-b14">
+               <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                        <surname>Trenouth</surname>
+                        <given-names>MJ</given-names>
+                     </name>, 
+                        <name name-style="western">
+                        <surname>Campbell</surname>
+                        <given-names>AN</given-names>
+                     </name>
+                    </person-group>. 
+                    <article-title>Questionnaire evaluation of feeding methods for cleft lip and palate neonates</article-title>. 
+                    <source>Int J Paediatr Dent</source>. 
+                    <year>1996</year>
+                    <month>Dec</month>;
+                    <volume>6</volume>(
+                    <issue>4</issue>):
+                    <fpage>241</fpage>–
+                    <lpage>4</lpage>. 
+                    <pub-id pub-id-type="doi">10.1111/j.1365-263X.1996.tb00252.x</pub-id>
+                    <pub-id pub-id-type="pmid">9161191</pub-id>
+                    <issn>0960-7439</issn>
+                </mixed-citation>
+            </ref>
+            <ref id="en-b15">
+               <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                        <surname>Reid</surname>
+                        <given-names>J</given-names>
+                     </name>, 
+                        <name name-style="western">
+                        <surname>Reilly</surname>
+                        <given-names>S</given-names>
+                     </name>, 
+                        <name name-style="western">
+                        <surname>Kilpatrick</surname>
+                        <given-names>N</given-names>
+                     </name>
+                    </person-group>. 
+                    <article-title>Sucking performance of babies with cleft conditions</article-title>. 
+                    <source>Cleft Palate Craniofac J</source>. 
+                    <year>2007</year>
+                    <month>May</month>;
+                    <volume>44</volume>(
+                    <issue>3</issue>):
+                    <fpage>312</fpage>–
+                    <lpage>20</lpage>. 
+                    <pub-id pub-id-type="doi">10.1597/05-173</pub-id>
+                    <pub-id pub-id-type="pmid">17477747</pub-id>
+                    <issn>1055-6656</issn>
+                </mixed-citation>
+            </ref>
+            <ref id="en-b16">
+               <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                        <surname>Miller</surname>
+                        <given-names>CK</given-names>
+                     </name>
+                    </person-group>. 
+                    <article-title>Feeding issues and interventions in infants and children with clefts and craniofacial syndromes</article-title>. 
+                    <source>Semin Speech Lang</source>. 
+                    <year>2011</year>
+                    <month>May</month>;
+                    <volume>32</volume>(
+                    <issue>2</issue>):
+                    <fpage>115</fpage>–
+                    <lpage>26</lpage>. 
+                    <pub-id pub-id-type="doi">10.1055/s-0031-1277714</pub-id>
+                    <pub-id pub-id-type="pmid">21948638</pub-id>
+                    <issn>0734-0478</issn>
+                </mixed-citation>
+            </ref>
+            <ref id="en-b17">
+               <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                        <surname>Paes</surname>
+                        <given-names>EC</given-names>
+                     </name>, 
+                        <name name-style="western">
+                        <surname>de Vries</surname>
+                        <given-names>IA</given-names>
+                     </name>, 
+                        <name name-style="western">
+                        <surname>Penris</surname>
+                        <given-names>WM</given-names>
+                     </name>, 
+                        <name name-style="western">
+                        <surname>Hanny</surname>
+                        <given-names>KH</given-names>
+                     </name>, 
+                        <name name-style="western">
+                        <surname>Lavrijsen</surname>
+                        <given-names>SW</given-names>
+                     </name>, 
+                        <name name-style="western">
+                        <surname>van Leerdam</surname>
+                        <given-names>EK</given-names>
+                     </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>Growth and prevalence of feeding difficulties in children with Robin sequence: a retrospective cohort study</article-title>. 
+                    <source>Clin Oral Investig</source>. 
+                    <year>2017</year>
+                    <month>Jul</month>;
+                    <volume>21</volume>(
+                    <issue>6</issue>):
+                    <fpage>2063</fpage>–
+                    <lpage>76</lpage>. 
+                    <pub-id pub-id-type="doi">10.1007/s00784-016-1996-8</pub-id>
+                    <pub-id pub-id-type="pmid">27868158</pub-id>
+                    <issn>1432-6981</issn>
+                </mixed-citation>
+            </ref>
+            <ref id="en-b18">
+               <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                        <surname>Hodgkinson</surname>
+                        <given-names>DP</given-names>
+                     </name>, 
+                        <name name-style="western">
+                        <surname>Brown</surname>
+                        <given-names>S</given-names>
+                     </name>, 
+                        <name name-style="western">
+                        <surname>Duncan</surname>
+                        <given-names>D</given-names>
+                     </name>, 
+                        <name name-style="western">
+                        <surname>Grant</surname>
+                        <given-names>C</given-names>
+                     </name>, 
+                        <name name-style="western">
+                        <surname>McNaughton</surname>
+                        <given-names>A</given-names>
+                     </name>, 
+                        <name name-style="western">
+                        <surname>Thomas</surname>
+                        <given-names>P</given-names>
+                     </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>Management of children with cleft lip and palate: A review describing the application of multidisciplinary team working in this condition based upon the experiences of a regional cleft lip and palate centre in the United Kingdom</article-title>. 
+                    <source>Fetal Matern Med Rev</source>. 
+                    <year>2005</year>;
+                    <volume>16</volume>(
+                    <issue>1</issue>):
+                    <fpage>1</fpage>–
+                    <lpage>27</lpage>. 
+                    <pub-id pub-id-type="doi">10.1017/S0965539505001452</pub-id>
+                    <issn>0965-5395</issn>
+                </mixed-citation>
+            </ref>
+            <ref id="en-b19">
+               <mixed-citation publication-type="conf-proc">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                        <surname>Jarc</surname>
+                        <given-names>A</given-names>
+                     </name>, 
+                        <name name-style="western">
+                        <surname>Hočevar Boltežar</surname>
+                        <given-names>I</given-names>
+                     </name>
+                    </person-group>. 
+                    <source>Skrb za osebe z razcepom ustnic, čeljusti in neba v Sloveniji</source>. In:
+                    <conf-name>Družbena skrb za vzgojo, izobraževanje in socialno varstvo oseb s posebnimi potrebami - deset let kasneje : zbornik referatov</conf-name>. 
+                    <conf-date iso-8601-date="2000-10-18"> 2000 Oct 18-20</conf-date>;
+                    <conf-loc>Portorž, Slovenija</conf-loc>.
+                    <publisher-loc>Ljubljana</publisher-loc>:
+                    <publisher-name>Društvo defektologov Slovenije</publisher-name>;
+                    <year>2000</year>. pp.
+                    <fpage>631</fpage>.
+                    <isbn>109-5047-68-2!</isbn>.
+                </mixed-citation>
+            </ref>
+            <ref id="en-b20">
+               <mixed-citation publication-type="conf-proc">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                        <surname>Koželj</surname>
+                        <given-names>V</given-names>
+                     </name>, 
+                        <name name-style="western">
+                        <surname>Drevenšek</surname>
+                        <given-names>M</given-names>
+                     </name>, 
+                        <name name-style="western">
+                        <surname>Hočevar Boltežar</surname>
+                        <given-names>I</given-names>
+                     </name>, 
+                        <name name-style="western">
+                        <surname>Jarc</surname>
+                        <given-names>A</given-names>
+                     </name>
+                    </person-group>. 
+                    <source>Koncept zdravljenja orofacialnih shiz</source>. In:
+                    <conf-name>Sodobni kirurško ortodontski koncepti : [zbornik predavanj]. 12. Čelešnikovi dnevi</conf-name>. 
+                    <conf-date iso-8601-date="2006-11-25">2006 Nov 25</conf-date>;
+                    <conf-loc>Ljubljana, Slovenija</conf-loc>.
+                    <publisher-loc>Ljubljana</publisher-loc>:
+                    <publisher-name>Združenje za maksilofacialno in oralno kirurgijo Slovenije</publisher-name>;
+                    <year>2000</year>. pp.
+                    <fpage>55</fpage>.
+                    <isbn>961-91492-3-8</isbn>
+                  </mixed-citation>
+            </ref>
+            <ref id="en-b21">
+               <mixed-citation publication-type="thesis">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                        <surname>McDonald</surname>
+                        <given-names>SH</given-names>
+                     </name>
+                    </person-group>. 
+                    <article-title>To Investigate Infant Feeding in Children born with a Cleft in the West of Scotland</article-title>. 
+                    <comment>[Thesis]</comment>.
+                    <publisher-loc>Glasgow</publisher-loc>:
+                    <publisher-name>Faculty of medicine </publisher-name>; 
+                    <year>2008</year>.
+                </mixed-citation>
+            </ref>
+            <ref id="en-b22">
+               <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                        <surname>Bhattacharyya</surname>
+                        <given-names>N</given-names>
+                     </name>
+                    </person-group>. 
+                    <article-title>The prevalence of pediatric voice and swallowing problems in the United States</article-title>. 
+                    <source>Laryngoscope</source>. 
+                    <year>2015</year>
+                    <month>Mar</month>;
+                    <volume>125</volume>(
+                    <issue>3</issue>):
+                    <fpage>746</fpage>–
+                    <lpage>50</lpage>. 
+                    <pub-id pub-id-type="doi">10.1002/lary.24931</pub-id>
+                    <pub-id pub-id-type="pmid">25220824</pub-id>
+                    <issn>0023-852X</issn>
+                </mixed-citation>
+            </ref>
+            <ref id="en-b23">
+               <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                        <surname>Devi</surname>
+                        <given-names>ES</given-names>
+                     </name>, 
+                        <name name-style="western">
+                        <surname>Sai Sankar</surname>
+                        <given-names>AJ</given-names>
+                     </name>, 
+                        <name name-style="western">
+                        <surname>Manoj Kumar</surname>
+                        <given-names>MG</given-names>
+                     </name>, 
+                        <name name-style="western">
+                        <surname>Sujatha</surname>
+                        <given-names>B</given-names>
+                     </name>
+                    </person-group>. 
+                    <article-title>Maiden morsel - feeding in cleft lip and palate infants</article-title>. 
+                    <source>J Int Soc Prev Community Dent</source>. 
+                    <year>2012</year>
+                    <month>Jul</month>;
+                    <volume>2</volume>(
+                    <issue>2</issue>):
+                    <fpage>31</fpage>–
+                    <lpage>7</lpage>. 
+                    <pub-id pub-id-type="doi">10.4103/2231-0762.109350</pub-id>
+                    <pub-id pub-id-type="pmid">24478964</pub-id>
+                    <issn>2231-0762</issn>
+                </mixed-citation>
+            </ref>
+         </ref-list>
+      </back>
+   </sub-article>
+</article>

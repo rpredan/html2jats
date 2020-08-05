@@ -1,0 +1,2269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD with MathML3 v1.1 20151215//EN" "JATS-journalpublishing1-mathml3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink"
+         dtd-version="1.1"
+         xml:lang="sl"
+         article-type="other">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher-id">Zdrav Vestn</journal-id>
+         <journal-id journal-id-type="nlm-ta">Zdrav Vestn</journal-id>
+         <journal-id journal-id-type="doi">Zdrav Vestn</journal-id>
+         <journal-title-group>
+            <journal-title>Zdravniški vestnik</journal-title>
+            <trans-title-group xml:lang="en">
+               <trans-title>Slovenian Medical Journal</trans-title>
+            </trans-title-group>
+            <abbrev-journal-title>Zdrav Vestn</abbrev-journal-title>
+         </journal-title-group>
+         <issn publication-format="ppub" pub-type="ppub">1318-0347</issn>
+         <issn publication-format="epub" pub-type="epub">1581-0224</issn>
+         <issn-l>0350-0063</issn-l>
+         <publisher>
+            <publisher-name xml:lang="sl">Slovensko zdravniško društvo</publisher-name>
+            <publisher-name xml:lang="en">Slovenian Medical Association</publisher-name>
+            <publisher-loc xml:lang="sl">Ljubljana, Slovenia</publisher-loc>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.6016/ZdravVestn.2937</article-id>
+         <article-id pub-id-type="publisher-id">2937</article-id>
+         <article-categories>
+            <subj-group subj-group-type="discipline" xml:lang="en">
+               <subject>Medicine and health sciences</subject>
+               <subj-group>
+                  <subject>Metabolic and hormonal disorders</subject>
+               </subj-group>
+            </subj-group>
+            <subj-group subj-group-type="discipline" xml:lang="sl">
+               <subject>Medicina/Zdravstvo</subject>
+               <subj-group>
+                  <subject>Metabolne in hormonske motnje</subject>
+               </subj-group>
+            </subj-group>
+            <subj-group subj-group-type="article-type" xml:lang="en">
+               <subject>Professional article</subject>
+            </subj-group>
+            <subj-group subj-group-type="article-type" xml:lang="sl">
+               <subject>Strokovni članek</subject>
+            </subj-group>
+            <subj-group subj-group-type="heading" xml:lang="sl">
+               <subject>Metabolne in hormonske motnje</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title xml:lang="sl">Dedne bulozne epidermolize, oskrba ran in nove možnosti zdravljenja</article-title>
+            <trans-title-group>
+               <trans-title xml:lang="en">Epidermolysis bullosa, wound management and new therapeutic approaches</trans-title>
+            </trans-title-group>
+            <alt-title alt-title-type="running-head" xml:lang="sl">Dedne bulozne epidermolize</alt-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Zemljič-Jokhadar</surname>
+                  <given-names>Špela</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1">1</xref>
+            </contrib>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Dragoš</surname>
+                  <given-names>Vlasta</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff2">2</xref>
+            </contrib>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Liovic</surname>
+                  <given-names>Mirjana</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff3">3</xref>
+               <xref ref-type="corresp" rid="corr"/>
+            </contrib>
+         </contrib-group>
+         <aff-alternatives id="aff1">
+            <aff xml:lang="sl">
+               <label>1</label>
+               <institution>Inštitut za biofiziko, Medicinska fakulteta, Univerza v Ljubljani, Ljubljana, Slovenija</institution>
+            </aff>
+            <aff xml:lang="en">
+               <label>1</label>
+               <institution>Institute of Biophysics, Faculty of medicine, University of Ljubljana, Ljubljana, Slovenia</institution>
+            </aff>
+         </aff-alternatives>
+         <aff-alternatives id="aff2">
+            <aff xml:lang="sl">
+               <label>2</label>
+               <institution>Dermatovenerološka klinika, Univerzitetni klinični center Ljubljana, Ljubljana, Slovenija</institution>
+            </aff>
+            <aff xml:lang="en">
+               <label>2</label>
+               <institution>Department of Dermatovenereology, University Medical Centre Ljubljana, Ljubljana, Slovenia</institution>
+            </aff>
+         </aff-alternatives>
+         <aff-alternatives id="aff3">
+            <aff xml:lang="sl">
+               <label>3</label>
+               <institution>Medicinski center za molekularno biologijo, Medicinska fakulteta, Univerza v Ljubljani, Ljubljana, Slovenija</institution>
+            </aff>
+            <aff xml:lang="en">
+               <label>3</label>
+               <institution>Medical Center for Molecular Biology, Faculty of medicine, University of Ljubljana, Ljubljana, Slovenia</institution>
+            </aff>
+         </aff-alternatives>
+         <author-notes>
+            <fn fn-type="conflict" xml:lang="en">
+               <p>The authors have declared that no competing interests exist.</p>
+            </fn>
+            <fn fn-type="conflict" xml:lang="sl">
+               <p>Avtorji so izjavili, da ne obstajajo nobeni konkurenčni interesi.</p>
+            </fn>
+            <corresp id="corr">Mirjana Liovic, e-mail: <email xlink:type="simple"/>
+            </corresp>
+         </author-notes>
+         <pub-date pub-type="ppub">
+            <month>2</month>
+            <year>2020</year>
+         </pub-date>
+         <pub-date pub-type="epub">
+            <month>2</month>
+            <year>2020</year>
+         </pub-date>
+         <volume>89</volume>
+         <issue>1–2</issue>
+         <fpage>107</fpage>
+         <lpage>17</lpage>
+         <history>
+            <date date-type="received">
+               <day>12</day>
+               <month>3</month>
+               <year>2019</year>
+            </date>
+            <date date-type="accepted">
+               <day>5</day>
+               <month>8</month>
+               <year>2019</year>
+            </date>
+         </history>
+         <permissions>
+            <copyright-statement xml:lang="en">Copyright © 2020, Slovenian Medical Association (SZD)</copyright-statement>
+            <copyright-statement xml:lang="sl">© 2020, Slovensko zdravniško društvo (SZD)</copyright-statement>
+            <copyright-year>2020</copyright-year>
+            <copyright-holder xml:lang="en">Slovenian Medical Association (SZD)</copyright-holder>
+            <copyright-holder xml:lang="sl">Slovensko zdravniško društvo (SZD)</copyright-holder>
+            <license xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                     xlink:type="simple"
+                     xml:lang="en">
+               <license-p>This is an open access article distributed under the terms of the
+          <ext-link ext-link-type="uri"
+                            xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                            xlink:type="simple">Creative Commons Attribution-NonCommercial
+            License</ext-link>, which permits unrestricted use, distribution, and
+          reproduction in any medium, provided the original author and source are
+          credited and only for non-commercial purposes. </license-p>
+            </license>
+            <license xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                     xlink:type="simple"
+                     xml:lang="sl">
+               <license-p>To je članek z odprtim dostopom, ki ga lahko uporabite pod pogoji iz
+          <ext-link ext-link-type="uri"
+                            xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                            xlink:type="simple">Creative Commons Priznanje avtorstva-Nekomercialno
+            licence</ext-link>. ki dovoljuje distribucijo, predelavo ali
+          prilagoditev, ter gradijo na njem, v nekomercialne namene, z navedbo avtorja
+          in izvirnega dela.</license-p>
+            </license>
+         </permissions>
+         <abstract xml:lang="sl">
+            <title>Izvleček</title>
+            <p>Bulozna epidermoliza (EB) je dedna bolezen krhkosti kože, povezana z mutacijami 18 različnih genov, ki se izražajo v koži. Zaradi raznovrstnosti simptomov se razvršča v 4 osnovne tipe s 30 različnimi podtipi. Osnovni tipi EB so razdeljeni glede na plast kože, ki je z mutacijo prizadeta: EB simpleks, ki je vezana na epidermis, junkcijska EB, ki je vezana na bazalno membrano, ter distrofična EB, ki je vezana na dermis. Poznamo še Kindlerjev sindrom, ki je izredno redka oblika te bolezni. Pri vseh primerih je koža bolnikov zelo krhka, zato so osnovni simptomi mehurji in odprte rane, ki se težko celijo. Bolezen prizadene bolnike telesno in duševno, kronični vnetni procesi pa pogosto povzročijo nastanek agresivnih oblik ploščatoceličnega karcinoma kože. Gre za skupino redkih bolezni z incidenco okoli 1 : 40.000. V Sloveniji imamo 60 bolnikov z EB. V članku predstavljamo trenutno uveljavljen način oskrbe kroničnih ran bolnikov z EB in pregled najnovejših in najsodobnejših genetskih, regenerativnih in farmakoloških pristopov za razvoj načina zdravljenja te še vedno neozdravljive bolezni.</p>
+         </abstract>
+         <trans-abstract xml:lang="en">
+            <title>Abstract</title>
+            <p>Epidermolysis bullosa is a hereditary skin fragility disorder, which is linked to mutations in 18 genes that are expressed in the skin. Today we distinguish 4 main EB types, which include about 30 different disease subtypes with a variety of clinical simptoms. The main types are classified according to the skin layer that is affected: EB simplex linked to the epidermis; junctional EB linked to the basal membrane, and dystrophic EB linked to the dermis. Kindler syndrome is the fourth and very rare type of EB. In all cases, the patient’s skin is very fragile, so the basic clinical symptoms are skin blisters and wounds that heal with difficulty. EB affects patients both physically and psychologically, and the chronic inflammation accompanying the disease often leads to aggressive forms of squamous cell carcinoma. This is a group of rare genetic diseases with an incidence of 1:40000. In Slovenia there are 60 patients with EB. Hereby we present the current standard of care of patients with this still incurable disorder, as well as the newest experimental methodologies aiming at the development of possible genetic, regenerative and pharmacological treatments of EB.</p>
+         </trans-abstract>
+         <kwd-group xml:lang="sl">
+            <kwd>bulozna epidermoliza</kwd>
+            <kwd>mutacija</kwd>
+            <kwd>zdravljenje</kwd>
+         </kwd-group>
+         <kwd-group xml:lang="en">
+            <kwd>epidermolysis bullosa</kwd>
+            <kwd>mutation</kwd>
+            <kwd>therapy</kwd>
+         </kwd-group>
+      </article-meta>
+   </front>
+   <body>
+      <sec id="s1" sec-type="Uvod">
+         <label>1</label>
+         <title>Uvod</title>
+         <p>Bulozna epidermoliza (<italic>epidermolysis</italic>
+            <italic> bullosa</italic> – EB) je dedna bolezen kože, za katero so značilni pojav mehurjev, erozij in ran, ki nastanejo po blažjem mehanskem draženju kože (<xref ref-type="fig" rid="fig1">Slika 1</xref>). Bolniki z EB imajo pogosto številne pridružene zaplete, ki so odvisni od vrste bulozne epidermolize, kot so dehidracija, sekundarne okužbe ran, pojav granulacijskega tkiva, atrofičnih brazgotin, povnetnih pigmnetacij, pojavijo se lahko poikiloderma, hipertrofične brazgotine, milije, palmoplantarne keratodermije, aplazija kože. Pozne posledice osnovne bolezni so karcinomi na koži, tako bazalnocelični (BCC) kot ploščatocelični karcinomi (SCC) (<xref ref-type="bibr" rid="b1">1</xref>). Na kožnih priveskih se lahko pojavijo distrofije ali popolna izguba nohtov, brazgotinska in univerzalna alopecija ali hipotrihoze. Bolniki lahko imajo v področju ustne sluznice mikrostomijo, obliteracijo vestibuloma, hipoplazijo sklenine, številne primere zobne gnilobe, pomanjkljivo zobovje in peridontitise. Na očeh se lahko pojavijo erozije na roženici, vnetja vek, brazgotine na roženici, zlepljenost veznice na zrklu in vekah (simpblefaron), povešenje spodnje veke (ektropion), vnetje roženice in motnje vida s slepoto ter granulacije na veznici. V področju zunanjega ušesa se pojavlja zožitev zunanjega ušesnega kanala, prevodna naglušnost ter v področju nosu zožitev nosnic zaradi granulacij.</p>
+         <fig position="anchor" id="fig1">
+            <label>Slika 1:</label>
+            <caption>
+               <p> Nekateri klinični simptomi EB. a) aplasia cutis congenita; b) mehurji, izpoljnjeni s krvavkasto vsebino; c) erozije.</p>
+            </caption>
+            <p>
+               <graphic xlink:href="2937-web-resources/image/zdravvestn-2937-sl-01.png"/>
+            </p>
+         </fig>
+         <p>Drugi možni zapleti na ostalih organskih sistemih pri nekaterih oblikah buloznih epidermoliz so v področju prebavil: zapora (atrezija) pilorusa želodca, stenoze požiralnika, kronično zaprtje, gastroezofagealni refluks, analne fisure, enteropatije zaradi izgube beljakovin, kolitisi. V področju sečil in spolovil se lahko pojavijo zožitve sečnice, malfomacije sečil in rodil, vezikoureterne obstrukcije in stenoze, brazgotinenje v področju vulve, odpoved ledvic. V področju zgornjih dihal se pojavljajo traheolaringealne stenoze. Na mišično-skeletnem sistemu se pojavlja osteopenija, osteoporoza, fleksijske kontrakture udov, kontrakture prstov in zlitje prstov (psevdosindaktilija), zraščanje prstov rok in nog v obliko rokavic, mišična atrofija. Bolnike lahko spremljajo anemije zaradi različnih vzrokov, največkrat zaradi pomanjkanja železa. Pojavlja se tudi dilatacijska kardiomiopatija. V področju endokrinih motenj se lahko pojavi zakasnitev v razvoju pubertete in amenoreja. Drugi sistemski zapleti so še pojavljanje sepse, zaostanek v rasti in razvoju ter zaradi številnih možnih doslej opisanih pridruženih stanj še invalidnost (<xref ref-type="bibr" rid="b2">2</xref>).</p>
+         <p>Vzrok za nastanek bolezni krhkosti kože in epitelnih tkiv je v mutaciji enega od 18 različnih genov, ki kodirajo 18 strukturnih in adhezivnih proteinov celic in zunajceličnega matriksa. Izražajo se v delu kože, debeline le nekaj sto mikrometrov (<xref ref-type="fig" rid="fig2">Slika 2</xref>).</p>
+         <fig position="anchor" id="fig2">
+            <label>Slika 2:</label>
+            <caption>
+               <p> Shematski prikaz predela kože (okvirček) z izraženo EB. Gre za tanko plast, ki zajema spodnji del epidermisa, bazalno membrano in površinski del dermisa, v kateri se izraža 18 proteinov – možnih povzročiteljev dedne EB. Nekateri od najbolj pogostih so označeni na shemi.</p>
+            </caption>
+            <p>
+               <graphic xlink:href="2937-web-resources/image/zdravvestn-2937-sl-02.png"/>
+            </p>
+         </fig>
+         <p>Prizadeti sloj zajema bazalni del epidermisa, bazalno membrano in delno dermis. Mutacije v tarčnih genih najpogosteje povzročijo zamenjavo le ene aminokisline (<italic>angl.</italic> missense) ali predčasno zaključevanje prepisovanja gena (<italic>angl.</italic> premature termination), kar povzroči nepravilno zvijanje proteina in zaradi tega njegovo nepravilno delovanje, ali pa pomanjkanje proteina (<xref ref-type="bibr" rid="b3">3</xref>). Mutacije v teh proteinih tako pripeljejo do nepravilnosti, ki posegajo v funkcionalno in strukturno celovitost epidermisa, bazalne membrane ali dermisa.</p>
+         <p>Fenotipi EB se izražajo v širokem spektru simptomov (<xref ref-type="bibr" rid="b4">4</xref>). Razlikujemo 4 osnovne tipe EB: EB simpleks (EBS), junkcijska EB (EBJ), distrofična EB (DEB) in Kindlerjev sindrom (<xref ref-type="table" rid="table1">Tabela 1</xref>). Razdelitev temelji na tem, v kateri plasti se pojavi razcep kožnega tkiva. V sklopu osnovnih tipov poznamo vsaj 30 klinično različnih podtipov EB, ki se med seboj razlikujejo glede na obseg in resnost sprememb kože in mukoznih membran, umestitev ter prizadetost notranjih organov in tkiv (<xref ref-type="bibr" rid="b2">2</xref>). Dedovanje bolezni je lahko dominantno ali recesivno. Za EBS je značilno dominantno dedovanje, čeprav pa poznamo na svetu 18 družin, ki ima recesivno obliko bolezni (<xref ref-type="bibr" rid="b5">5</xref>-<xref ref-type="bibr" rid="b13">13</xref>). Večinoma je vezana na mutacije v genih za keratina 5 ali 14. EBJ na drugi strani je izključno recesivne narave in je vezana na mutacije v genih za α6β4 integrin, kolagen 17 ali laminin 5. Za razliko od teh se DEB deduje tako po dominantni kot recesivni poti in je vezana na mutacije v genu, ki kodira kolagen 7. Kindlerjev sindrom je izredno redka oblika bolezni, ki je vezana na mutacije v genu KIND1 (oz. FERMT1), ki kodira protein kindlin. Kindlin igra posebno vlogo pri povezovanju aktinskih filamnetov z zunajceličnim matriksom. Bolezen se deduje recesivno.</p>
+         <table-wrap position="anchor" id="table1">
+            <label>Tabela 1:</label>
+            <caption>
+               <p> Glavni tipi in podtipi dednih buloznih epidermoliz. DDBE – Dominantna distrofična bulozna epidermoliza; DBE – distrofična bulozna epidermoliza, BE bulozna epidermoliza; SBE – simpleksna bulozna epidermoliza, JBE – junkcijska bulozna epidermoliza; RDBE – recesivna distrofična bulozna epidermoliza. Prevedeno po (<xref ref-type="bibr" rid="b14">14</xref>).</p>
+            </caption>
+            <table>
+               <colgroup>
+                  <col/>
+                  <col/>
+                  <col/>
+                  <col/>
+               </colgroup>
+               <thead>
+                  <tr>
+                     <th>Raven razcepa</th>
+                     <th>Glavni tipi BE</th>
+                     <th>Glavni podtipi BE</th>
+                     <th>Tarčne beljakovina/e</th>
+                  </tr>
+               </thead>
+               <tbody>
+                  <tr>
+                     <td rowspan="2">Intraepidermal</td>
+                     <td>SBE</td>
+                     <td>Suprabazalna SBE</td>
+                     <td>transglutaminaza 5; plakofilin 1; desmoplakin; plakoglobin</td>
+                  </tr>
+                  <tr>
+                     <td/>
+                     <td>Bazalna SBE</td>
+                     <td>keratin 5 in 14; plektin; eksofilin 5 (Slac2-b); antigen buloznega pemfigoida 1 (angl. bullous pemphigoid antigen 1)</td>
+                  </tr>
+                  <tr>
+                     <td rowspan="2">Intralamina lucida</td>
+                     <td>JBE</td>
+                     <td>JBE, generalizirana</td>
+                     <td>laminin-332, kolagen XVII; α6β4 integrin; α3 integrin</td>
+                  </tr>
+                  <tr>
+                     <td/>
+                     <td>JBE, lokalizirana</td>
+                     <td>kolagen XVII; laminin-332; α6β4 integrin</td>
+                  </tr>
+                  <tr>
+                     <td rowspan="2">Sublamina densa</td>
+                     <td>DBE</td>
+                     <td>DDBE</td>
+                     <td>kolagen VII</td>
+                  </tr>
+                  <tr>
+                     <td/>
+                     <td>RDBE</td>
+                     <td>kolagen VII</td>
+                  </tr>
+                  <tr>
+                     <td>Mešana</td>
+                     <td>Kindlerjev sindrom</td>
+                     <td>—</td>
+                     <td>homolog 1 družine fermitin (kindlin-1)</td>
+                  </tr>
+               </tbody>
+            </table>
+         </table-wrap>
+         <p>Ocenjena razširjenost EB v ZDA (Nacionalni register EB – NEBR, ki je zbiral podatke 16 let) je približno 11 primerov na milijon in pogostost približno 20 primerov na milijon živorojenih (<xref ref-type="bibr" rid="b15">15</xref>). V Sloveniji je razširjenost približno 30 primerov na milijon. Ocenjujejo, da je trenutno na svetu okoli 500.000 bolnikov z EB.</p>
+         <p>Leta 2014 so oblikovali nov klasifikacijski sistem za diagnosticiranje EB, ki zajema tip EB, način dedovanja, fenotipske značilnosti (razsežnost ran in različne zunajkožne simptome), odkritja pri mapiranju imunofluorescentno označenih antigenov in mutacije, ki so prisotne pri posameznem bolniku (<xref ref-type="bibr" rid="b14">14</xref>).</p>
+      </sec>
+      <sec id="s2" sec-type="Diagnosticiranje EB">
+         <label>2</label>
+         <title>Diagnosticiranje EB</title>
+         <p>Prvi korak pri postavitvi diagnoze tipa EB pri bolniku je določanje ravni mesta nastanka mehurjev v koži, običajno z imunofluorescentnim mapiranjem antigenov in/ali s transmisijsko elektronsko mikroskopijo (<xref ref-type="bibr" rid="b1">1</xref>). Uporaba monoklonskih protiteles, usmerjenih proti komponentam kožne bazalne membrane in epidermalnim antigenom, lahko dodatno olajšajo razvrščanje (subklasifikacijo) (<xref ref-type="bibr" rid="b14">14</xref>).</p>
+         <p>Na osnovi ravni razcepa kože razvrstimo bolnike v eno od štirih EB skupin. Pri nadaljnjem diagnosticiranju je potrebno opraviti gensko analizo mutacije, ker le-ta omogoča najbolj natančno razvrščanje bolezni in nadaljnje genetsko svetovanje (<xref ref-type="bibr" rid="b14">14</xref>). V primeru, da genske analize niso na voljo, razvrstijo EB na podlagi fenotipskih lastnosti, kot so razporeditev (lokalizirana ali splošna), resnost in prisotnost zunajkožnih zapletov. Iz družinske zgodovine bolnika lahko sklepamo na način dedovanja (<xref ref-type="bibr" rid="b1">1</xref>).</p>
+      </sec>
+      <sec id="s3" sec-type="Oskrba ran">
+         <label>3</label>
+         <title>Oskrba ran</title>
+         <p>Pope in sodelavci (<xref ref-type="bibr" rid="b16">16</xref>) so razvili postopek za oskrbo ran pri EB, ki obsega štiri korake:</p>
+         <list>
+            <list-item>
+               <label>1.</label>
+               <p>Tip EB, spremljajoče bolezni, starost, prehranski status, pridružene sistemske prizadetosti drugih organskih sistemov.</p>
+            </list-item>
+            <list-item>
+               <label>2.</label>
+               <p>Skrb se osredinja na bolnika, ki mu lajšamo bolečino, srbež, dnevne življenjske aktivnosti in svetovanje v zvezi z zdravljenjem.</p>
+            </list-item>
+            <list-item>
+               <label>3.</label>
+               <p>Lokalna oskrba rane: ugotovitev mesta in značilnosti ran, redno nežno čiščenje, odstranjevanje nekrotičnega tkiva, da se rana hitreje zaceli, obravnava kolonizacije/vnetja/okužbe, izbira ustrezne lokalne terapije in povojev, ocenjevanje celjenja.</p>
+            </list-item>
+            <list-item>
+               <label>4.</label>
+               <p>Pri ranah, ki se slabo ali ne celijo, opravimo biopsijo in histološko preverjanje ob sumu na kožni karcinom.</p>
+            </list-item>
+         </list>
+         <p>Pomembna je podpora različnih izvajalcev v zdravstvu, kot so specializirane medicinske sestre ali sodelovanje s kliniki različnih strok pri obravnavi bolnikov.</p>
+         <p>Lokalna obravnava ran je odvisna od tipa rane, s katero se ukvarjamo. Na trgu so številne obloge za rane, ki jih delimo v tri skupine: neokluzivne, delno okluzivne, okluzivne in aktivne ali biološke obloge (<xref ref-type="bibr" rid="b16">16</xref>,<xref ref-type="bibr" rid="b17">17</xref>). Izbira ustrezne obloge je odvisna od stopnje celjenja rane. Nekrotično rano je potrebno oskrbeti s povojem s hidrogelom v kombinaciji s poliuretanskim filmom ali alginatom. V fazi vnetja rane bo alginatni povoj omogočil ustrezne pogoje za celjenje ran. V proliferativni fazi in fazi dozorevanja rane je potrebna obloga, ki uravnava vlago, s tem da vpija odvečen izcedek (poliuretanske in silikonske pene in drugo). Pri okuženi rani je potrebno uporabiti topikalna antimikrobna sredstva in antimikrobne povoje (s srebrom, medom, ogljem, poliaminopropil biguanidom, dialkilkarbamoil kloridom) (<xref ref-type="bibr" rid="b16">16</xref>,<xref ref-type="bibr" rid="b17">17</xref>). Za varovanje pred nastankom novih mehurjev se pogosto uporabljajo obloge s silikonom (<xref ref-type="bibr" rid="b16">16</xref>).</p>
+      </sec>
+      <sec id="s4" sec-type="Oskrba bolnikov v Sloveniji">
+         <label>4</label>
+         <title>Oskrba bolnikov v Sloveniji</title>
+         <p>Redkost EB in različna vpletenost številnih drugih organov in sistemov (ne samo kože) so poseben izziv za ustrezno obravnavo teh bolnikov (<xref ref-type="bibr" rid="b2">2</xref>). V Sloveniji se je v zadnjih desetletjih razvila interdisciplinarna obravnava bolnikov, v kateri so v skupini poleg dermatologov vključeni še drugi specialisti medicinskih področij. V obravnavo so vključeni neonatologi, pediatri in internisti, patolog, medicinski genetik, otorinolaringolog, oftalmolog, kirurg plastik, ortoped, pediater gastroenterolog, hematolog, stomatolog, anesteziolog, endokrinolog, nevrolog, radiolog, kardiolog, nefrolog, specialist fizikalne medicine. V obravnavo tudi zgodaj vključimo patronažno službo in dietetika. Glavna skrb skupine je redno spremljanje kože in ran, zgodnje diagnosticiranje karcinomov kože, redno spremljanje zapletov na drugih organskih sistemih, odprava srbenja in preprečevanje bolečin.</p>
+      </sec>
+      <sec id="s5" sec-type="Razvoj novih terapevtskih pristopov">
+         <label>5</label>
+         <title>Razvoj novih terapevtskih pristopov</title>
+         <p>Osnovni vzrok za nastanek EB so genetske spremembe ključnih strukturnih genov, ki kodirajo različne strukturne proteine, ki med seboj povezujejo tri plasti kože. Za popolno ozdravitev bi bilo potrebno popraviti mutacijo. Koža je po velikosti naš največji organ. Terapevtski pristop, ki bi pozdravil to bolezen, bi moral popraviti prav vse celice, ki tvorijo okvarjene proteine. Za razliko od drugih organov, kot so pljuča, srce, jetra, itd., je koža lahko dostopna. Zato bi za zdravljenje dednih bolezni kože lahko potencialno uporabili pristop, ki bi omilil bolezenske znake. V zadnjih desetih letih smo doživeli velik preboj na tem področju, čeprav še nobeden od številnih obetavnih in že preizkušenih pristopov ni odkril možnosti za rutinsko zdravljenje EB. Poleg dolgotrajnega postopka uvajanja novih zdravil in kliničnih študij je eden glavnih razlogov verjetno visoka cena, ki znaša za gensko zdravljenje: tudi do 6 milijonov evrov za enega bolnika.</p>
+         <p>Doslej testirani novi terapevtski pristopi se lahko razdelijo na: celično terapijo, gensko terapijo, proteinsko terapijo in sistemsko terapijo (<xref ref-type="fig" rid="fig3">Slika 3</xref>). V nadaljevanju članka bomo predstavili le nekaj najzanimivejših pristopov.</p>
+         <fig position="anchor" id="fig3">
+            <label>Slika 3:</label>
+            <caption>
+               <p> Osnovna načela nekaterih novih terapevtskih pristopov za EB.</p>
+            </caption>
+            <p>
+               <graphic xlink:href="2937-web-resources/image/zdravvestn-2937-sl-03.png"/>
+            </p>
+         </fig>
+         <sec id="s5.1" sec-type="Celične terapije">
+            <label>5.1</label>
+            <title>Celične terapije</title>
+            <p>Celične terapije vključujejo dosedanje poskuse z alogenimi fibroblasti, mezenhimskimi matičnimi celicami, matičnimi celicami iz popkovine in presaditev kostnega mozga. Kern in sodelavci (<xref ref-type="bibr" rid="b18">18</xref>) so leta 2009 v več kot 50 miši z recesivno distrofično EB v ločenih poskusih podkožno vbrizgali zdrave mišje fibroblaste in fibroblaste človeka. Ugotovili so, da je poseg varen (pojavilo se je rahlo prehodno vnetje). Raven kolagena 7 (nanj je vezana distrofična oblika EB) se je na dermo-epidermalni povezavi zvišala za 3,5- do 4,7-krat. Zanimivo je, da so vbrizgane celice zdrav kolagen 7 proizvajale en mesec, medtem ko je bil protein stabilen dlje časa. Koža mišk je zato zadržala izboljšan fenotip več kot 100 dni po posegu. Vbrizgane celice so ostale na mestu injiciranja, niso se delile, tvorile tumorjev ali fibroznega tkiva. Leta 2010 so objavili študijo (<xref ref-type="bibr" rid="b19">19</xref>), v kateri so dvema bolnikoma z RDEB okoli ran subkutano vbrizgali alogene mezenhimske matične celice, izolirane iz kostnega mozga. Celice so čez nekaj časa sicer izginile, njihov učinek pa je bil viden že po enemu tednu (dermo-epidermalna pregrada se je ponovno vzpostavila) in je trajal do 4 mesece. Leta 2013 je bila objavljena študija (<xref ref-type="bibr" rid="b20">20</xref>), v kateri so pristop, podoben prejšnjemu na miškah, testirali tudi na bolnikih z RDEB. Alogene fibroblaste so prav tako vbrizgali v kožo okoli ran. Celice so preživele nekaj tednov v tkivu, nato pa izginile, medtem ko je njihov pozitiven učinek trajal do 28 dni po posegu. Leta 2015 so Petrof in sodelavci (<xref ref-type="bibr" rid="b21">21</xref>) objavili novo študijo na desetih bolnikih z RDEB. Z infuzijo so jim dostavili alogene mezenhimske matične celice iz kostnega mozga. Učinek je bil ob večkratni ponovitvi posega viden v dveh mesecih. Površina prizadete kože se je pospešeno zaraščala, vnetje kože pa se je bistveno zmanjšalo. Bolniki so povedali, da je bil pozitivni učinek prisoten 4–6 mesecev. El-Darouti in sodelavci (<xref ref-type="bibr" rid="b22">22</xref>) pa so leta 2016 objavili študijo, v kateri so opravili celično infuzijo nehematopoetskih celic kostnega mozga, za katere je dokazano, da se lahko diferencirajo v fibroblaste. Imeli so dve skupini bolnikov z RDEB: v prvi so prejeli infuzijo matičnih celic z dodatkom ciklosporina, v drugi skupini pa matične celice brez ciklosporina. V obeh skupinah je bil učinek zelo podoben (med njima ni bilo statistično značilnih razlik): zdravstveno stanje bolnikov se je očitno izboljšalo, rane so se pospešeno zaraščale in leto po opravljenem testiranju ni bilo večjih negativnih posledic. Pri posegih, ki zajemajo mezenhimske matične celice, so ugotovili, da se le-te po presaditvi ne delijo ali diferencirajo v zdrave celice, temveč delujejo posredno z izločanjem številnih rastnih faktorjev in citokinov, ki delujejo na okolno tkivo in s tem sprožijo pospešeno zaraščanje ran in zmanjšanje vnetja. Žal je bil njihov učinek, čeprav zelo dober, spet le prehoden in ne dolgotrajen. Radi bi omenili tudi izjemen poskus, pri katerem so presadili kostni mozeg izbrani skupini otrok z RDEB (<xref ref-type="bibr" rid="b23">23</xref>). Med sedmimi bolniki je eden umrl že pred samo presaditvijo zaradi izredno agresivnega zdravljenja (imunomieloablativna terapija), ki je potrebno pred samo presaditvijo. Po presaditvi kostnega mozga je umrl še en bolnik zaradi posledic zavrnitve presadka in okužbe. Pri ostalih 5 bolnikih pa so v roku pol leta po posegu ugotovili znatno izboljšanje stanja, ki je bilo posledica kopičenja zdravega kolagena 7 v predelu bazalne membrane. Dve leti po posegu so še vedno ugotavljali prisotnost tujih celic v koži (kimerizem) ter izboljšano zdravstveno stanje.</p>
+         </sec>
+         <sec id="s5.2" sec-type="Genske terapije">
+            <label>5.2</label>
+            <title>Genske terapije</title>
+            <p>Poskusi genskih terapij zajemajo: dostavo zdrave kopije gena z virusom v <italic>ex vivo</italic> pogojih, retrovirusne in lentivirusne vektorje (<xref ref-type="bibr" rid="b24">24</xref>-<xref ref-type="bibr" rid="b28">28</xref>) ter nevirusne poskuse. Med slednje spadajo: RNA interferenca oz. utišanje okvarjenega gena (<xref ref-type="bibr" rid="b29">29</xref>), uporaba AON (<italic>angl.</italic> antisense oligoribonucleotides) za preskakovanje mutiranih eksonov gena pri prepisovanju RNA v protein, aminoglikozide za preskok predčasnih stop kodonov (<xref ref-type="bibr" rid="b30">30</xref>) kot tudi uporaba različnih proteinov, ki režejo DNA na specifičnih zaporedjih (<italic>angl.</italic> gene editing), kot so ZFN-ji (<italic>angl.</italic> zinc finger nucleases), Taleni, Crispr/Cas9 (<xref ref-type="bibr" rid="b31">31</xref>).</p>
+            <p>Pri <italic>ex vivo</italic> genski terapiji bolniku odvzamejo celice z biopsijo kože in jih nato gojijo v <italic>in vitro</italic> pogojih. Popravilo mutiranega gena v celicah se prav tako opravi <italic>in</italic>
+               <italic> vitro</italic>
+               <italic> </italic>v kulturi. Nato se popravljene celice vstavijo nazaj bolniku. Vsi ti pristopi so popisani v preglednih člankih (<xref ref-type="bibr" rid="b32">32</xref>-<xref ref-type="bibr" rid="b34">34</xref>), medtem ko bomo več povedali o nedavno objavljenem prvem uspešnem postopku genske terapije, ki je zajel skoraj celotno površino kože bolnika (80 %) z EBJ, vezano na mutacije v genu za laminin 332 (LAMB3) (<xref ref-type="bibr" rid="b35">35</xref>). Avtorji so po biopsiji kože, osamitvi bolnikovih keratinocitov, gojenju celic ter <italic>in vitro</italic> popravilu okvarjenega gena z dostavo kopije zdravega gena z lentivirusnim vektorjem, naredili še klonsko selekcijo (<italic>angl.</italic> clonal tracing) avtolognih popravljenih celic. Dokazano je namreč, da se epidermis pri človeku obnavlja zahvaljujoč skupini progenitorskih celic, ki se imenujejo holokloni. To so dolgotrajno živeče matične celice epidermisa kože, ki jih lahko <italic>in vivo</italic> in <italic>in </italic>
+               <italic>vitro</italic> uspešno namnožimo. Te diferencirajo v druge skupine progenitorskih celic, ki se nato na koncu diferencirajo v keratinocite epidermisa. Po selekciji so jih zato uporabili kot osnovo za gojenje epidermalnih ”plaht” zdravih, avtolognih celic bolnika, ki so mu jih nato presadili na najbolj okvarjene predele kože. Osemletnemu dečku so s tem postopkom zamenjali (presadili) 80 % kože, ki sedaj, razen na območjih, ki niso bila zajeta s transplantacijo, nima več težav. Dosežek je izjemen, saj je bil deček v zelo slabem zdravstvenem stanju, in zdaj že nekaj let po zadnjem posegu normalno živi. Kljub temu, da je študija izjemna in izredno uspešna, so možnosti uporabe podobnega pristopa za druge bolnike z EB zaenkrat majhne. Poleg zelo visokih stroškov tovrstne obravnave obstaja še vedno skrb glede možnih stranskih učinkov same virusne dostave zdravega gena, saj bi ta lahko povzročila maligne spremembe tudi pozneje v življenju, kar odpira vrsto novih etičnih vprašanj glede uporabe takega zdravljenja EB.</p>
+         </sec>
+         <sec id="s5.3" sec-type="Proteinske terapije">
+            <label>5.3</label>
+            <title>Proteinske terapije</title>
+            <p>Proteinska terapija zajema intradermalno ali intravensko dostavo <italic>ex vivo</italic> in v <italic>in vitro</italic> pogojih rekombinantno pridobljenega zdravega proteina (<xref ref-type="bibr" rid="b36">36</xref>,<xref ref-type="bibr" rid="b37">37</xref>). Zdravi kolagen 7 so običajno poskusili dostaviti topično, kar je dalo dobre rezultate (<xref ref-type="bibr" rid="b38">38</xref>). Vse tovrstne študije so do sedaj izvedli na ravni predkliničnih študij in na mišjih modelih, vendar so kljub pozitivnim učinkom še vedno le eksperimentalnega značaja.</p>
+         </sec>
+         <sec id="s5.4" sec-type="Sistemske terapije">
+            <label>5.4</label>
+            <title>Sistemske terapije</title>
+            <p>Sistemska terapija zajema uporabo že obstoječih zdravil za zdravljenje drugih zdravstvenih težav z namenom, da se nekateri njihovi učinki izkoristijo za izboljšanje zdravstvenega stanja pri bolnikih z EB. Gre predvsem za zmanjševanje vnetnega odgovora, zmanjševanja brazgotinjenja ran, hitrejšega zaraščanja ran itd. Do sedaj so testirali že učinek minociklina (<xref ref-type="bibr" rid="b39">39</xref>,<xref ref-type="bibr" rid="b40">40</xref>), ki ima protikolagenazno delovanje, a žal povzroči tudi težave s hiperpigmentacijo kože. Ciklosporin (<xref ref-type="bibr" rid="b41">41</xref>) ima protivnetno delovanje, povzroči pa lahko tudi raka kože. Etanercept (<xref ref-type="bibr" rid="b42">42</xref>), ki inhibira TNFalpha (protivnetno delovanje), ter Losartan (<xref ref-type="bibr" rid="b43">43</xref>), ki inhibira TGFbeta (zmanjšuje brazgotinjenje), lahko delujeta na vse procese, vezane na te faktorje v telesu. Poskusili so tudi s stimulacijo kostnega mozga bolnikov s proteinom HMG (<xref ref-type="bibr" rid="b44">44</xref>), da bi povečali število matičnih celic v koži in izboljšali zaraščanje ran, saj menijo, da se pri bolnikih z EB zaradi konstantnega aktiviranja procesa zaraščanja ran število matičnih celic v koži v življenju zmanjšuje.</p>
+         </sec>
+      </sec>
+      <sec id="s6" sec-type="Raziskave v Sloveniji">
+         <label>6</label>
+         <title>Raziskave v Sloveniji</title>
+         <p>Z raziskavami EB na genetski, proteinski in celični ravni se že skoraj 20 let ukvarjamo na Medicinskem centru za molekularno biologijo (Inštitut za biokemijo, Medicinske fakultete, Univerze v Ljubljani). Sodelujemo z Dermatovenerološko kliniko UKC Ljubljana in številnimi mednarodnimi raziskovalnimi in zdravstvenimi centri (Guy’s Hospital, King’s College London, Velika Britanija; Miller School of Medicine, University of Miami, ZDA; Institute of Medical Biology, AStar, Singapur; Department of Medical Sciences, Uppsala University, Švedska, itd). V zadnjih letih smo se v svojih raziskavah usmerili v preučevanje mehanizma razvoja bolezni in novih dostavnih sistemov, ki bi bili uporabni predvsem za dostavo terapevtskih molekul v kožo (<xref ref-type="bibr" rid="b45">45</xref>-<xref ref-type="bibr" rid="b48">48</xref>). Posebno pomemben dosežek je preboj na področje regenerativne medicine in priprava prve inducirane pluripotentne matične celične linije (iPSC) EBS s pomočjo reprogramiranja (dediferenciacije) keratinocitov bolnika z EBS (<xref ref-type="bibr" rid="b49">49</xref>). To celično linijo bomo v nadaljnjih raziskavah uporabili kot celični model in osnovo za <italic>in vitro</italic> pripravo tkivnega ekvivalenta EBS kože. Te bomo nato uporabili za presejalne teste številnih učinkovin, ki bi lahko prispevale k pospešenemu zaraščanju ran, ali pa k odpravljanju nekaterih kliničnih simptomov EB (npr. vnetje).</p>
+      </sec>
+      <sec id="s7" sec-type="Zaključek">
+         <label>7</label>
+         <title>Zaključek</title>
+         <p>V zadnjem desetletju je prišlo do izjemnega preboja pri raziskovanju mehanizmov EB, razumevanju same bolezni in razvoju številnih strategij za poskusne pristope zdravljenja, ki so imeli večinoma pozitivne učinke. Prav tako se je zelo spremenila klinična obravnava teh bolnikov, kar kljub izredno težki bolezni prispeva k njihovi boljši kakovosti življenja. Poseben poudarek imajo tudi podporne skupine, med katerimi ima vodilno vlogo krovna organizacija <italic>DEBRA International</italic> (<italic>dystrophic epidermolysis bullosa research</italic>
+            <italic> association</italic>, http://www.debra-international.org/about-debra.html), v več kot 50 državah pa že obstajajo lokalne organizacije DEBRA, med njimi tudi v Sloveniji (Debra Slovenia, http://www.debra-slovenia.si/).</p>
+      </sec>
+   </body>
+   <back>
+      <ack>
+         <label>8</label>
+         <title>Zahvala</title>
+         <p>Zahvaljujemo se Javni agenciji za raziskovalno dejavnost Republike Slovenije (program P1–0390), Ministrstvu za izobraževanje, znanost in šport Republike Slovenije in razpisu EraCoSysMed (projekt 4D-HEALING), Razvojnemu skladu Univerze v Ljubljani in ustanovi CELSA Alliance (projekt ”Molecular basis of keratinopathies”) za izkazano podporo in financiranje naših raziskav.</p>
+      </ack>
+      <ref-list>
+         <ref id="b1">
+            <label>1. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Fine</surname>
+                     <given-names>JD</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Johnson</surname>
+                     <given-names>LB</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Weiner</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Suchindran</surname>
+                     <given-names>C</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Cause-specific risks of childhood death in inherited epidermolysis bullosa</article-title>. 
+                    <source>J Pediatr</source>. 
+                    <year>2008</year>
+                    <month>Feb</month>;
+                    <volume>152</volume>(
+                    <issue>2</issue>):
+                    <fpage>276</fpage>–
+                    <lpage>80</lpage>. 
+                    <pub-id pub-id-type="doi">10.1016/j.jpeds.2007.06.039</pub-id>
+                    <pub-id pub-id-type="pmid">18206702</pub-id>
+                    <issn>0022-3476</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b2">
+            <label>2. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>El Hachem</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Zambruno</surname>
+                     <given-names>G</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Bourdon-Lanoy</surname>
+                     <given-names>E</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Ciasulli</surname>
+                     <given-names>A</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Buisson</surname>
+                     <given-names>C</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Hadj-Rabia</surname>
+                     <given-names>S</given-names>
+                  </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>Multicentre consensus recommendations for skin care in inherited epidermolysis bullosa</article-title>. 
+                    <source>Orphanet J Rare Dis</source>. 
+                    <year>2014</year>
+                    <month>May</month>;
+                    <volume>9</volume>(
+                    <issue>1</issue>):
+                    <fpage>76</fpage>. 
+                    <pub-id pub-id-type="doi">10.1186/1750-1172-9-76</pub-id>
+                    <pub-id pub-id-type="pmid">24884811</pub-id>
+                    <issn>1750-1172</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b3">
+            <label>3. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Has</surname>
+                     <given-names>C</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Fischer</surname>
+                     <given-names>J</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Inherited epidermolysis bullosa: new diagnostics and new clinical phenotypes</article-title>. 
+                    <source>Exp Dermatol</source>. 
+                    <year>2018</year>. 
+                    <month>Oct</month>;
+                    <volume>28</volume>(
+                    <issue>1146</issue>):
+                    <fpage>52</fpage>. 
+                    <pub-id pub-id-type="doi">10.1111/exd.13668</pub-id>
+                    <pub-id pub-id-type="pmid">29679399</pub-id>
+                    <issn>0906-6705</issn> 
+                </mixed-citation>
+         </ref>
+         <ref id="b4">
+            <label>4. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Fine</surname>
+                     <given-names>JD</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Mellerio</surname>
+                     <given-names>JE</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Extracutaneous manifestations and complications of inherited epidermolysis bullosa: part II. Other organs</article-title>. 
+                    <source>J Am Acad Dermatol</source>. 
+                    <year>2009</year>
+                    <month>Sep</month>;
+                    <volume>61</volume>(
+                    <issue>3</issue>):
+                    <fpage>387</fpage>–
+                    <lpage>402</lpage>. 
+                    <pub-id pub-id-type="doi">10.1016/j.jaad.2009.03.053</pub-id>
+                    <pub-id pub-id-type="pmid">19700011</pub-id>
+                    <issn>0190-9622</issn> 
+                </mixed-citation>
+         </ref>
+         <ref id="b5">
+            <label>5. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Corden</surname>
+                     <given-names>LD</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Mellerio</surname>
+                     <given-names>JE</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Gratian</surname>
+                     <given-names>MJ</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Eady</surname>
+                     <given-names>RA</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Harper</surname>
+                     <given-names>JI</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Lacour</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>Homozygous nonsense mutation in helix 2 of K14 causes severe recessive epidermolysis bullosa simplex</article-title>. 
+                    <source>Hum Mutat</source>. 
+                    <year>1998</year>;
+                    <volume>11</volume>(
+                    <issue>4</issue>):
+                    <fpage>279</fpage>–
+                    <lpage>85</lpage>. 
+                    <pub-id pub-id-type="doi">10.1002/(SICI)1098-1004(1998)11:4&lt;279::AID-HUMU5&gt;3.0.CO;2-E</pub-id>
+                    <pub-id pub-id-type="pmid">9554744</pub-id>
+                    <issn>1059-7794</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b6">
+            <label>6. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Ciubotaru</surname>
+                     <given-names>D</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Bergman</surname>
+                     <given-names>R</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Baty</surname>
+                     <given-names>D</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Indelman</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Pfendner</surname>
+                     <given-names>E</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Petronius</surname>
+                     <given-names>D</given-names>
+                  </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>Epidermolysis bullosa simplex in Israel: clinical and genetic features</article-title>. 
+                    <source>Arch Dermatol</source>. 
+                    <year>2003</year>
+                    <month>Apr</month>;
+                    <volume>139</volume>(
+                    <issue>4</issue>):
+                    <fpage>498</fpage>–
+                    <lpage>505</lpage>. 
+                    <pub-id pub-id-type="doi">10.1001/archderm.139.4.498</pub-id>
+                    <pub-id pub-id-type="pmid">12707098</pub-id>
+                    <issn>0003-987X</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b7">
+            <label>7. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Rugg</surname>
+                     <given-names>EL</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>McLean</surname>
+                     <given-names>WH</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Lane</surname>
+                     <given-names>EB</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Pitera</surname>
+                     <given-names>R</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>McMillan</surname>
+                     <given-names>JR</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Dopping-Hepenstal</surname>
+                     <given-names>PJ</given-names>
+                  </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>A functional “knockout” of human keratin 14</article-title>. 
+                    <source>Genes Dev</source>. 
+                    <year>1994</year>
+                    <month>Nov</month>;
+                    <volume>8</volume>(
+                    <issue>21</issue>):
+                    <fpage>2563</fpage>–
+                    <lpage>73</lpage>. 
+                    <pub-id pub-id-type="doi">10.1101/gad.8.21.2563</pub-id>
+                    <pub-id pub-id-type="pmid">7525407</pub-id>
+                    <issn>0890-9369</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b8">
+            <label>8. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Jonkman</surname>
+                     <given-names>MF</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Heeres</surname>
+                     <given-names>K</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Pas</surname>
+                     <given-names>HH</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>van Luyn</surname>
+                     <given-names>MJ</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Elema</surname>
+                     <given-names>JD</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Corden</surname>
+                     <given-names>LD</given-names>
+                  </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>Effects of keratin 14 ablation on the clinical and cellular phenotype in a kindred with recessive epidermolysis bullosa simplex</article-title>. 
+                    <source>J Invest Dermatol</source>. 
+                    <year>1996</year>
+                    <month>Nov</month>;
+                    <volume>107</volume>(
+                    <issue>5</issue>):
+                    <fpage>764</fpage>–
+                    <lpage>9</lpage>. 
+                    <pub-id pub-id-type="doi">10.1111/1523-1747.ep12365805</pub-id>
+                    <pub-id pub-id-type="pmid">8875963</pub-id>
+                    <issn>0022-202X</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b9">
+            <label>9. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Batta</surname>
+                     <given-names>K</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Rugg</surname>
+                     <given-names>EL</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Wilson</surname>
+                     <given-names>NJ</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>West</surname>
+                     <given-names>N</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Goodyear</surname>
+                     <given-names>H</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Lane</surname>
+                     <given-names>EB</given-names>
+                  </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>A keratin 14 ‘knockout’ mutation in recessive epidermolysis bullosa simplex resulting in less severe disease</article-title>. 
+                    <source>Br J Dermatol</source>. 
+                    <year>2000</year>
+                    <month>Sep</month>;
+                    <volume>143</volume>(
+                    <issue>3</issue>):
+                    <fpage>621</fpage>–
+                    <lpage>7</lpage>. 
+                    <pub-id pub-id-type="doi">10.1111/j.1365-2133.2000.03722.x</pub-id>
+                    <pub-id pub-id-type="pmid">10971341</pub-id>
+                    <issn>0007-0963</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b10">
+            <label>10. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Lanschuetzer</surname>
+                     <given-names>CM</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Klausegger</surname>
+                     <given-names>A</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Pohla-Gubo</surname>
+                     <given-names>G</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Hametner</surname>
+                     <given-names>R</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Richard</surname>
+                     <given-names>G</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Uitto</surname>
+                     <given-names>J</given-names>
+                  </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>A novel homozygous nonsense deletion/insertion mutation in the keratin 14 gene (Y248X; 744delC/insAG) causes recessive epidermolysis bullosa simplex type Köbner</article-title>. 
+                    <source>Clin Exp Dermatol</source>. 
+                    <year>2003</year>
+                    <month>Jan</month>;
+                    <volume>28</volume>(
+                    <issue>1</issue>):
+                    <fpage>77</fpage>–
+                    <lpage>9</lpage>. 
+                    <pub-id pub-id-type="doi">10.1046/j.1365-2230.2003.01218.x</pub-id>
+                    <pub-id pub-id-type="pmid">12558637</pub-id>
+                    <issn>0307-6938</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b11">
+            <label>11. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Has</surname>
+                     <given-names>C</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Chang</surname>
+                     <given-names>YR</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Volz</surname>
+                     <given-names>A</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Hoeping</surname>
+                     <given-names>D</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Kohlhase</surname>
+                     <given-names>J</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Bruckner-Tuderman</surname>
+                     <given-names>L</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Novel keratin 14 mutations in patients with severe recessive epidermolysis bullosa simplex</article-title>. 
+                    <source>J Invest Dermatol</source>. 
+                    <year>2006</year>
+                    <month>Aug</month>;
+                    <volume>126</volume>(
+                    <issue>8</issue>):
+                    <fpage>1912</fpage>–
+                    <lpage>4</lpage>. 
+                    <pub-id pub-id-type="doi">10.1038/sj.jid.5700312</pub-id>
+                    <pub-id pub-id-type="pmid">16614722</pub-id>
+                    <issn>0022-202X</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b12">
+            <label>12. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Yiasemides</surname>
+                     <given-names>E</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Trisnowati</surname>
+                     <given-names>N</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Su</surname>
+                     <given-names>J</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Dang</surname>
+                     <given-names>N</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Klingberg</surname>
+                     <given-names>S</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Marr</surname>
+                     <given-names>P</given-names>
+                  </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>Clinical heterogeneity in recessive epidermolysis bullosa due to mutations in the keratin 14 gene, KRT14</article-title>. 
+                    <source>Clin Exp Dermatol</source>. 
+                    <year>2008</year>
+                    <month>Nov</month>;
+                    <volume>33</volume>(
+                    <issue>6</issue>):
+                    <fpage>689</fpage>–
+                    <lpage>97</lpage>. 
+                    <pub-id pub-id-type="doi">10.1111/j.1365-2230.2008.02858.x</pub-id>
+                    <pub-id pub-id-type="pmid">18713255</pub-id>
+                    <issn>0307-6938</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b13">
+            <label>13. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>García</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Santiago</surname>
+                     <given-names>JL</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Terrón</surname>
+                     <given-names>A</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Hernández-Martín</surname>
+                     <given-names>A</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Vicente</surname>
+                     <given-names>A</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Fortuny</surname>
+                     <given-names>C</given-names>
+                  </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>Two novel recessive mutations in KRT14 identified in a cohort of 21 Spanish families with epidermolysis bullosa simplex</article-title>. 
+                    <source>Br J Dermatol</source>. 
+                    <year>2011</year>
+                    <month>Sep</month>;
+                    <volume>165</volume>(
+                    <issue>3</issue>):
+                    <fpage>683</fpage>–
+                    <lpage>92</lpage>. 
+                    <pub-id pub-id-type="doi">10.1111/j.1365-2133.2011.10428.x</pub-id>
+                    <pub-id pub-id-type="pmid">21623745</pub-id>
+                    <issn>0007-0963</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b14">
+            <label>14. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Fine</surname>
+                     <given-names>JD</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Bruckner-Tuderman</surname>
+                     <given-names>L</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Eady</surname>
+                     <given-names>RA</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Bauer</surname>
+                     <given-names>EA</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Bauer</surname>
+                     <given-names>JW</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Has</surname>
+                     <given-names>C</given-names>
+                  </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>Inherited epidermolysis bullosa: updated recommendations on diagnosis and classification</article-title>. 
+                    <source>J Am Acad Dermatol</source>. 
+                    <year>2014</year>
+                    <month>Jun</month>;
+                    <volume>70</volume>(
+                    <issue>6</issue>):
+                    <fpage>1103</fpage>–
+                    <lpage>26</lpage>. 
+                    <pub-id pub-id-type="doi">10.1016/j.jaad.2014.01.903</pub-id>
+                    <pub-id pub-id-type="pmid">24690439</pub-id>
+                    <issn>0190-9622</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b15">
+            <label>15. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Fine</surname>
+                     <given-names>JD</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Epidemiology of Inherited Epidermolysis Bullosa Based on Incidence and Prevalence Estimates From the National Epidermolysis Bullosa Registry</article-title>. 
+                    <source>JAMA Dermatol</source>. 
+                    <year>2016</year>
+                    <month>Nov</month>;
+                    <volume>152</volume>(
+                    <issue>11</issue>):
+                    <fpage>1231</fpage>–
+                    <lpage>8</lpage>. 
+                    <pub-id pub-id-type="doi">10.1001/jamadermatol.2016.2473</pub-id>
+                    <pub-id pub-id-type="pmid">27463098</pub-id>
+                    <issn>2168-6068</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b16">
+            <label>16. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Pope</surname>
+                     <given-names>E</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Lara-Corrales</surname>
+                     <given-names>I</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Mellerio</surname>
+                     <given-names>J</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Martinez</surname>
+                     <given-names>A</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Schultz</surname>
+                     <given-names>G</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Burrell</surname>
+                     <given-names>R</given-names>
+                  </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>A consensus approach to wound care in epidermolysis bullosa</article-title>. 
+                    <source>J Am Acad Dermatol</source>. 
+                    <year>2012</year>
+                    <month>Nov</month>;
+                    <volume>67</volume>(
+                    <issue>5</issue>):
+                    <fpage>904</fpage>–
+                    <lpage>17</lpage>. 
+                    <pub-id pub-id-type="doi">10.1016/j.jaad.2012.01.016</pub-id>
+                    <pub-id pub-id-type="pmid">22387035</pub-id>
+                    <issn>0190-9622</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b17">
+            <label>17. </label>
+            <mixed-citation publication-type="book">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Denyer</surname>
+                     <given-names>J</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Pillay</surname>
+                     <given-names>E</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Clapham</surname>
+                     <given-names>J</given-names>
+                  </name>
+                    </person-group>. 
+                    <source>International Consensus Best Practice Guidelines for Skin and Wound Care in Epidermolysis Bullosa</source>. 
+                    <publisher-loc>London</publisher-loc>:
+                    <publisher-name>Wounds International</publisher-name>; 
+                    <year>2017</year>. 
+                </mixed-citation>
+         </ref>
+         <ref id="b18">
+            <label>18. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Kern</surname>
+                     <given-names>JS</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Loeckermann</surname>
+                     <given-names>S</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Fritsch</surname>
+                     <given-names>A</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Hausser</surname>
+                     <given-names>I</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Roth</surname>
+                     <given-names>W</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Magin</surname>
+                     <given-names>TM</given-names>
+                  </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>Mechanisms of fibroblast cell therapy for dystrophic epidermolysis bullosa: high stability of collagen VII favors long-term skin integrity</article-title>. 
+                    <source>Mol Ther</source>. 
+                    <year>2009</year>
+                    <month>Sep</month>;
+                    <volume>17</volume>(
+                    <issue>9</issue>):
+                    <fpage>1605</fpage>–
+                    <lpage>15</lpage>. 
+                    <pub-id pub-id-type="doi">10.1038/mt.2009.144</pub-id>
+                    <pub-id pub-id-type="pmid">19568221</pub-id>
+                    <issn>1525-0016</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b19">
+            <label>19. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Conget</surname>
+                     <given-names>P</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Rodriguez</surname>
+                     <given-names>F</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Kramer</surname>
+                     <given-names>S</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Allers</surname>
+                     <given-names>C</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Simon</surname>
+                     <given-names>V</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Palisson</surname>
+                     <given-names>F</given-names>
+                  </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>Replenishment of type VII collagen and re-epithelialization of chronically ulcerated skin after intradermal administration of allogeneic mesenchymal stromal cells in two patients with recessive dystrophic epidermolysis bullosa</article-title>. 
+                    <source>Cytotherapy</source>. 
+                    <year>2010</year>
+                    <month>May</month>;
+                    <volume>12</volume>(
+                    <issue>3</issue>):
+                    <fpage>429</fpage>–
+                    <lpage>31</lpage>. 
+                    <pub-id pub-id-type="doi">10.3109/14653241003587637</pub-id>
+                    <pub-id pub-id-type="pmid">20230217</pub-id>
+                    <issn>1465-3249</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b20">
+            <label>20. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Petrof</surname>
+                     <given-names>G</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Martinez-Queipo</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Mellerio</surname>
+                     <given-names>JE</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Kemp</surname>
+                     <given-names>P</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>McGrath</surname>
+                     <given-names>JA</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Fibroblast cell therapy enhances initial healing in recessive dystrophic epidermolysis bullosa wounds: results of a randomized, vehicle-controlled trial</article-title>. 
+                    <source>Br J Dermatol</source>. 
+                    <year>2013</year>
+                    <month>Nov</month>;
+                    <volume>169</volume>(
+                    <issue>5</issue>):
+                    <fpage>1025</fpage>–
+                    <lpage>33</lpage>. 
+                    <pub-id pub-id-type="doi">10.1111/bjd.12599</pub-id>
+                    <pub-id pub-id-type="pmid">24032424</pub-id>
+                    <issn>0007-0963</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b21">
+            <label>21. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Petrof</surname>
+                     <given-names>G</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Lwin</surname>
+                     <given-names>SM</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Martinez-Queipo</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Abdul-Wahab</surname>
+                     <given-names>A</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Tso</surname>
+                     <given-names>S</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Mellerio</surname>
+                     <given-names>JE</given-names>
+                  </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>Potential of Systemic Allogeneic Mesenchymal Stromal Cell Therapy for Children with Recessive Dystrophic Epidermolysis Bullosa</article-title>. 
+                    <source>J Invest Dermatol</source>. 
+                    <year>2015</year>
+                    <month>Sep</month>;
+                    <volume>135</volume>(
+                    <issue>9</issue>):
+                    <fpage>2319</fpage>–
+                    <lpage>21</lpage>. 
+                    <pub-id pub-id-type="doi">10.1038/jid.2015.158</pub-id>
+                    <pub-id pub-id-type="pmid">25905587</pub-id>
+                    <issn>0022-202X</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b22">
+            <label>22. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>El-Darouti</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Fawzy</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Amin</surname>
+                     <given-names>I</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Abdel Hay</surname>
+                     <given-names>R</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Hegazy</surname>
+                     <given-names>R</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Gabr</surname>
+                     <given-names>H</given-names>
+                  </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>Treatment of dystrophic epidermolysis bullosa with bone marrow non-hematopoeitic stem cells: a randomized controlled trial</article-title>. 
+                    <source>Dermatol Ther (Heidelb)</source>. 
+                    <year>2016</year>
+                    <month>Mar-Apr</month>;
+                    <volume>29</volume>(
+                    <issue>2</issue>):
+                    <fpage>96</fpage>–
+                    <lpage>100</lpage>. 
+                    <pub-id pub-id-type="doi">10.1111/dth.12305</pub-id>
+                    <pub-id pub-id-type="pmid">26439431</pub-id>
+                    <issn>2193-8210</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b23">
+            <label>23. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Wagner</surname>
+                     <given-names>JE</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Ishida-Yamamoto</surname>
+                     <given-names>A</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>McGrath</surname>
+                     <given-names>JA</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Hordinsky</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Keene</surname>
+                     <given-names>DR</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Woodley</surname>
+                     <given-names>DT</given-names>
+                  </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>Bone marrow transplantation for recessive dystrophic epidermolysis bullosa</article-title>. 
+                    <source>N Engl J Med</source>. 
+                    <year>2010</year>
+                    <month>Aug</month>;
+                    <volume>363</volume>(
+                    <issue>7</issue>):
+                    <fpage>629</fpage>–
+                    <lpage>39</lpage>. 
+                    <pub-id pub-id-type="doi">10.1056/NEJMoa0910501</pub-id>
+                    <pub-id pub-id-type="pmid">20818854</pub-id>
+                    <issn>0028-4793</issn> 
+                </mixed-citation>
+         </ref>
+         <ref id="b24">
+            <label>24. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Chen</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Kasahara</surname>
+                     <given-names>N</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Keene</surname>
+                     <given-names>DR</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Chan</surname>
+                     <given-names>L</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Hoeffler</surname>
+                     <given-names>WK</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Finlay</surname>
+                     <given-names>D</given-names>
+                  </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>Restoration of type VII collagen expression and function in dystrophic epidermolysis bullosa</article-title>. 
+                    <source>Nat Genet</source>. 
+                    <year>2002</year>
+                    <month>Dec</month>;
+                    <volume>32</volume>(
+                    <issue>4</issue>):
+                    <fpage>670</fpage>–
+                    <lpage>5</lpage>. 
+                    <pub-id pub-id-type="doi">10.1038/ng1041</pub-id>
+                    <pub-id pub-id-type="pmid">12426566</pub-id>
+                    <issn>1061-4036</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b25">
+            <label>25. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Woodley</surname>
+                     <given-names>DT</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Krueger</surname>
+                     <given-names>GG</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Jorgensen</surname>
+                     <given-names>CM</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Fairley</surname>
+                     <given-names>JA</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Atha</surname>
+                     <given-names>T</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Huang</surname>
+                     <given-names>Y</given-names>
+                  </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>Normal and gene-corrected dystrophic epidermolysis bullosa fibroblasts alone can produce type VII collagen at the basement membrane zone</article-title>. 
+                    <source>J Invest Dermatol</source>. 
+                    <year>2003</year>
+                    <month>Nov</month>;
+                    <volume>121</volume>(
+                    <issue>5</issue>):
+                    <fpage>1021</fpage>–
+                    <lpage>8</lpage>. 
+                    <pub-id pub-id-type="doi">10.1046/j.1523-1747.2003.12571.x</pub-id>
+                    <pub-id pub-id-type="pmid">14708601</pub-id>
+                    <issn>0022-202X</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b26">
+            <label>26. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Titeux</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Pendaries</surname>
+                     <given-names>V</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Zanta-Boussif</surname>
+                     <given-names>MA</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Décha</surname>
+                     <given-names>A</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Pironon</surname>
+                     <given-names>N</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Tonasso</surname>
+                     <given-names>L</given-names>
+                  </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>SIN retroviral vectors expressing COL7A1 under human promoters for ex vivo gene therapy of recessive dystrophic epidermolysis bullosa</article-title>. 
+                    <source>Mol Ther</source>. 
+                    <year>2010</year>
+                    <month>Aug</month>;
+                    <volume>18</volume>(
+                    <issue>8</issue>):
+                    <fpage>1509</fpage>–
+                    <lpage>18</lpage>. 
+                    <pub-id pub-id-type="doi">10.1038/mt.2010.91</pub-id>
+                    <pub-id pub-id-type="pmid">20485266</pub-id>
+                    <issn>1525-0016</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b27">
+            <label>27. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Mavilio</surname>
+                     <given-names>F</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Pellegrini</surname>
+                     <given-names>G</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Ferrari</surname>
+                     <given-names>S</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Di Nunzio</surname>
+                     <given-names>F</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Di Iorio</surname>
+                     <given-names>E</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Recchia</surname>
+                     <given-names>A</given-names>
+                  </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>Correction of junctional epidermolysis bullosa by transplantation of genetically modified epidermal stem cells</article-title>. 
+                    <source>Nat Med</source>. 
+                    <year>2006</year>
+                    <month>Dec</month>;
+                    <volume>12</volume>(
+                    <issue>12</issue>):
+                    <fpage>1397</fpage>–
+                    <lpage>402</lpage>. 
+                    <pub-id pub-id-type="doi">10.1038/nm1504</pub-id>
+                    <pub-id pub-id-type="pmid">17115047</pub-id>
+                    <issn>1078-8956</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b28">
+            <label>28. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Chen</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>O’Toole</surname>
+                     <given-names>EA</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Muellenhoff</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Medina</surname>
+                     <given-names>E</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Kasahara</surname>
+                     <given-names>N</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Woodley</surname>
+                     <given-names>DT</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Development and characterization of a recombinant truncated type VII collagen “minigene”. Implication for gene therapy of dystrophic epidermolysis bullosa</article-title>. 
+                    <source>J Biol Chem</source>. 
+                    <year>2000</year>
+                    <month>Aug</month>;
+                    <volume>275</volume>(
+                    <issue>32</issue>):
+                    <fpage>24429</fpage>–
+                    <lpage>35</lpage>. 
+                    <pub-id pub-id-type="doi">10.1074/jbc.M003440200</pub-id>
+                    <pub-id pub-id-type="pmid">10821839</pub-id>
+                    <issn>0021-9258</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b29">
+            <label>29. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Morgan</surname>
+                     <given-names>CP</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Allen</surname>
+                     <given-names>DS</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Millington-Ward</surname>
+                     <given-names>S</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>O’Dwyer</surname>
+                     <given-names>GE</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Palfi</surname>
+                     <given-names>A</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Jane Farrar</surname>
+                     <given-names>G</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>A mutation-independent therapeutic strategy for dominant dystrophic epidermolysis bullosa</article-title>. 
+                    <source>J Invest Dermatol</source>. 
+                    <year>2013</year>
+                    <month>Dec</month>;
+                    <volume>133</volume>(
+                    <issue>12</issue>):
+                    <fpage>2793</fpage>–
+                    <lpage>6</lpage>. 
+                    <pub-id pub-id-type="doi">10.1038/jid.2013.241</pub-id>
+                    <pub-id pub-id-type="pmid">23743647</pub-id>
+                    <issn>0022-202X</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b30">
+            <label>30. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Zingman</surname>
+                     <given-names>LV</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Park</surname>
+                     <given-names>S</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Olson</surname>
+                     <given-names>TM</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Alekseev</surname>
+                     <given-names>AE</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Terzic</surname>
+                     <given-names>A</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Aminoglycoside-induced translational read-through in disease: overcoming nonsense mutations by pharmacogenetic therapy</article-title>. 
+                    <source>Clin Pharmacol Ther</source>. 
+                    <year>2007</year>
+                    <month>Jan</month>;
+                    <volume>81</volume>(
+                    <issue>1</issue>):
+                    <fpage>99</fpage>–
+                    <lpage>103</lpage>. 
+                    <pub-id pub-id-type="doi">10.1038/sj.clpt.6100012</pub-id>
+                    <pub-id pub-id-type="pmid">17186006</pub-id>
+                    <issn>0009-9236</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b31">
+            <label>31. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Jinek</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Chylinski</surname>
+                     <given-names>K</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Fonfara</surname>
+                     <given-names>I</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Hauer</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Doudna</surname>
+                     <given-names>JA</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Charpentier</surname>
+                     <given-names>E</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>A programmable dual-RNA-guided DNA endonuclease in adaptive bacterial immunity</article-title>. 
+                    <source>Science</source>. 
+                    <year>2012</year>
+                    <month>Aug</month>;
+                    <volume>337</volume>(
+                    <issue>6096</issue>):
+                    <fpage>816</fpage>–
+                    <lpage>21</lpage>. 
+                    <pub-id pub-id-type="doi">10.1126/science.1225829</pub-id>
+                    <pub-id pub-id-type="pmid">22745249</pub-id>
+                    <issn>0036-8075</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b32">
+            <label>32. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Gorell</surname>
+                     <given-names>E</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Nguyen</surname>
+                     <given-names>N</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Lane</surname>
+                     <given-names>A</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Siprashvili</surname>
+                     <given-names>Z</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Gene therapy for skin diseases</article-title>. 
+                    <source>Cold Spring Harb Perspect Med</source>. 
+                    <year>2014</year>
+                    <month>Apr</month>;
+                    <volume>4</volume>(
+                    <issue>4</issue>):
+                    <fpage>a015149</fpage>. 
+                    <pub-id pub-id-type="doi">10.1101/cshperspect.a015149</pub-id>
+                    <pub-id pub-id-type="pmid">24692191</pub-id>
+                    <issn>2157-1422</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b33">
+            <label>33. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Abdul-Wahab</surname>
+                     <given-names>A</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Qasim</surname>
+                     <given-names>W</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>McGrath</surname>
+                     <given-names>JA</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Gene therapies for inherited skin disorders</article-title>. 
+                    <source>Semin Cutan Med Surg</source>. 
+                    <year>2014</year>
+                    <month>Jun</month>;
+                    <volume>33</volume>(
+                    <issue>2</issue>):
+                    <fpage>83</fpage>–
+                    <lpage>90</lpage>. 
+                    <pub-id pub-id-type="doi">10.12788/j.sder.0085</pub-id>
+                    <pub-id pub-id-type="pmid">25085667</pub-id>
+                    <issn>1085-5629</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b34">
+            <label>34. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Rashidghamat</surname>
+                     <given-names>E</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>McGrath</surname>
+                     <given-names>JA</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Novel and emerging therapies in the treatment of recessive dystrophic epidermolysis bullosa</article-title>. 
+                    <source>Intractable Rare Dis Res</source>. 
+                    <year>2017</year>
+                    <month>Feb</month>;
+                    <volume>6</volume>(
+                    <issue>1</issue>):
+                    <fpage>6</fpage>–
+                    <lpage>20</lpage>. 
+                    <pub-id pub-id-type="doi">10.5582/irdr.2017.01005</pub-id>
+                    <pub-id pub-id-type="pmid">28357176</pub-id>
+                    <issn>2186-3644</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b35">
+            <label>35. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Hirsch</surname>
+                     <given-names>T</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Rothoeft</surname>
+                     <given-names>T</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Teig</surname>
+                     <given-names>N</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Bauer</surname>
+                     <given-names>JW</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Pellegrini</surname>
+                     <given-names>G</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>De Rosa</surname>
+                     <given-names>L</given-names>
+                  </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>Regeneration of the entire human epidermis using transgenic stem cells</article-title>. 
+                    <source>Nature</source>. 
+                    <year>2017</year>
+                    <month>Nov</month>;
+                    <volume>551</volume>(
+                    <issue>7680</issue>):
+                    <fpage>327</fpage>–
+                    <lpage>32</lpage>. 
+                    <pub-id pub-id-type="doi">10.1038/nature24487</pub-id>
+                    <pub-id pub-id-type="pmid">29144448</pub-id>
+                    <issn>0028-0836</issn> 
+                </mixed-citation>
+         </ref>
+         <ref id="b36">
+            <label>36. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Hovnanian</surname>
+                     <given-names>A</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Systemic protein therapy for recessive dystrophic epidermolysis bullosa: how far are we from clinical translation?</article-title>
+                    <source>J Invest Dermatol</source>. 
+                    <year>2013</year>
+                    <month>Jul</month>;
+                    <volume>133</volume>(
+                    <issue>7</issue>):
+                    <fpage>1719</fpage>–
+                    <lpage>21</lpage>. 
+                    <pub-id pub-id-type="doi">10.1038/jid.2013.137</pub-id>
+                    <pub-id pub-id-type="pmid">23760051</pub-id>
+                    <issn>0022-202X</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b37">
+            <label>37. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Woodley</surname>
+                     <given-names>DT</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Wang</surname>
+                     <given-names>X</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Amir</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Hwang</surname>
+                     <given-names>B</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Remington</surname>
+                     <given-names>J</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Hou</surname>
+                     <given-names>Y</given-names>
+                  </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>Intravenously injected recombinant human type VII collagen homes to skin wounds and restores skin integrity of dystrophic epidermolysis bullosa</article-title>. 
+                    <source>J Invest Dermatol</source>. 
+                    <year>2013</year>
+                    <month>Jul</month>;
+                    <volume>133</volume>(
+                    <issue>7</issue>):
+                    <fpage>1910</fpage>–
+                    <lpage>3</lpage>. 
+                    <pub-id pub-id-type="doi">10.1038/jid.2013.10</pub-id>
+                    <pub-id pub-id-type="pmid">23321924</pub-id>
+                    <issn>0022-202X</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b38">
+            <label>38. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Wang</surname>
+                     <given-names>X</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Ghasri</surname>
+                     <given-names>P</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Amir</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Hwang</surname>
+                     <given-names>B</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Hou</surname>
+                     <given-names>Y</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Khalili</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>Topical application of recombinant type VII collagen incorporates into the dermal-epidermal junction and promotes wound closure</article-title>. 
+                    <source>Mol Ther</source>. 
+                    <year>2013</year>
+                    <month>Jul</month>;
+                    <volume>21</volume>(
+                    <issue>7</issue>):
+                    <fpage>1335</fpage>–
+                    <lpage>44</lpage>. 
+                    <pub-id pub-id-type="doi">10.1038/mt.2013.87</pub-id>
+                    <pub-id pub-id-type="pmid">23670575</pub-id>
+                    <issn>1525-0016</issn> 
+                </mixed-citation>
+         </ref>
+         <ref id="b39">
+            <label>39. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>White</surname>
+                     <given-names>JE</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Minocycline for dystrophic epidermolysis bullosa</article-title>. 
+                    <source>Lancet</source>. 
+                    <year>1989</year>
+                    <month>Apr</month>;
+                    <volume>1</volume>(
+                    <issue>8644</issue>):
+                    <fpage>966</fpage>. 
+                    <pub-id pub-id-type="doi">10.1016/S0140-6736(89)92555-5</pub-id>
+                    <pub-id pub-id-type="pmid">2565464</pub-id>
+                    <issn>0140-6736</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b40">
+            <label>40. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Golub</surname>
+                     <given-names>LM</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Wolff</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Lee</surname>
+                     <given-names>HM</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>McNamara</surname>
+                     <given-names>TF</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Ramamurthy</surname>
+                     <given-names>NS</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Zambon</surname>
+                     <given-names>J</given-names>
+                  </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>Further evidence that tetracyclines inhibit collagenase activity in human crevicular fluid and from other mammalian sources</article-title>. 
+                    <source>J Periodontal Res</source>. 
+                    <year>1985</year>
+                    <month>Jan</month>;
+                    <volume>20</volume>(
+                    <issue>1</issue>):
+                    <fpage>12</fpage>–
+                    <lpage>23</lpage>. 
+                    <pub-id pub-id-type="doi">10.1111/j.1600-0765.1985.tb00405.x</pub-id>
+                    <pub-id pub-id-type="pmid">2983061</pub-id>
+                    <issn>0022-3484</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b41">
+            <label>41. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>del-Río</surname>
+                     <given-names>E</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Prevention of blisters in dystrophic recessive epidermolysis bullosa with cyclosporine</article-title>. 
+                    <source>J Am Acad Dermatol</source>. 
+                    <year>1993</year>
+                    <month>Dec</month>;
+                    <volume>29</volume>(
+                    <issue>6</issue>):
+                    <fpage>1038</fpage>–
+                    <lpage>9</lpage>. 
+                    <pub-id pub-id-type="doi">10.1016/S0190-9622(08)82040-3</pub-id>
+                    <pub-id pub-id-type="pmid">8245240</pub-id>
+                    <issn>0190-9622</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b42">
+            <label>42. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Gubinelli</surname>
+                     <given-names>E</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Angelo</surname>
+                     <given-names>C</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Pacifico</surname>
+                     <given-names>V</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>A case of dystrophic epidermolysis bullosa improved with etanercept for concomitant psoriatic arthritis</article-title>. 
+                    <source>Am J Clin Dermatol</source>. 
+                    <year>2010</year>;
+                    <volume>11</volume>
+                    <supplement>Suppl 1</supplement>:
+                    <fpage>53</fpage>–
+                    <lpage>4</lpage>. 
+                    <pub-id pub-id-type="doi">10.2165/1153427-S0-000000000-00000</pub-id>
+                    <pub-id pub-id-type="pmid">20586512</pub-id>
+                    <issn>1175-0561</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b43">
+            <label>43. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Fritsch</surname>
+                     <given-names>A</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Loeckermann</surname>
+                     <given-names>S</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Kern</surname>
+                     <given-names>JS</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Braun</surname>
+                     <given-names>A</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Bösl</surname>
+                     <given-names>MR</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Bley</surname>
+                     <given-names>TA</given-names>
+                  </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>A hypomorphic mouse model of dystrophic epidermolysis bullosa reveals mechanisms of disease and response to fibroblast therapy</article-title>. 
+                    <source>J Clin Invest</source>. 
+                    <year>2008</year>
+                    <month>May</month>;
+                    <volume>118</volume>(
+                    <issue>5</issue>):
+                    <fpage>1669</fpage>–
+                    <lpage>79</lpage>. 
+                    <pub-id pub-id-type="doi">10.1172/JCI34292</pub-id>
+                    <pub-id pub-id-type="pmid">18382769</pub-id>
+                    <issn>0021-9738</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b44">
+            <label>44. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Tamai</surname>
+                     <given-names>K</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Yamazaki</surname>
+                     <given-names>T</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Chino</surname>
+                     <given-names>T</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Ishii</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Otsuru</surname>
+                     <given-names>S</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Kikuchi</surname>
+                     <given-names>Y</given-names>
+                  </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>PDGFRalpha-positive cells in bone marrow are mobilized by high mobility group box 1 (HMGB1) to regenerate injured epithelia</article-title>. 
+                    <source>Proc Natl Acad Sci USA</source>. 
+                    <year>2011</year>
+                    <month>Apr</month>;
+                    <volume>108</volume>(
+                    <issue>16</issue>):
+                    <fpage>6609</fpage>–
+                    <lpage>14</lpage>. 
+                    <pub-id pub-id-type="doi">10.1073/pnas.1016753108</pub-id>
+                    <pub-id pub-id-type="pmid">21464317</pub-id>
+                    <issn>0027-8424</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b45">
+            <label>45. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Liovic</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Ozir</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Zavec</surname>
+                     <given-names>AB</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Peternel</surname>
+                     <given-names>S</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Komel</surname>
+                     <given-names>R</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Zupancic</surname>
+                     <given-names>T</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Inclusion bodies as potential vehicles for recombinant protein delivery into epithelial cells</article-title>. 
+                    <source>Microb Cell Fact</source>. 
+                    <year>2012</year>
+                    <month>May</month>;
+                    <volume>11</volume>(
+                    <issue>1</issue>):
+                    <fpage>67</fpage>. 
+                    <pub-id pub-id-type="doi">10.1186/1475-2859-11-67</pub-id>
+                    <pub-id pub-id-type="pmid">22624805</pub-id>
+                    <issn>1475-2859</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b46">
+            <label>46. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Zavec</surname>
+                     <given-names>AB</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Ota</surname>
+                     <given-names>A</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Zupancic</surname>
+                     <given-names>T</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Komel</surname>
+                     <given-names>R</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Ulrih</surname>
+                     <given-names>NP</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Liovic</surname>
+                     <given-names>M</given-names>
+                  </name>
+                    </person-group>. 
+                    <article-title>Archaeosomes can efficiently deliver different types of cargo into epithelial cells grown in vitro</article-title>. 
+                    <source>J Biotechnol</source>. 
+                    <year>2014</year>;
+                    <volume>192 Pt A</volume>:
+                    <fpage>130</fpage>-
+                    <lpage>5</lpage>.
+                    <pub-id pub-id-type="doi">10.1016/j.jbiotec.2014.09.015</pub-id>
+                    <pub-id pub-id-type="pmid">25270023</pub-id>
+                    <issn>0168-1656</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b47">
+            <label>47. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Zemljič Jokhadar</surname>
+                     <given-names>Š</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Klančnik</surname>
+                     <given-names>U</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Grundner</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Švelc Kebe</surname>
+                     <given-names>T</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Vrhovec Hartman</surname>
+                     <given-names>S</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Liović</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>GPMVs in variable physiological conditions: could they be used for therapy delivery?</article-title>
+                    <source>BMC Biophys</source>. 
+                    <year>2018</year>
+                    <month>Jan</month>;
+                    <volume>11</volume>(
+                    <issue>1</issue>):
+                    <fpage>1</fpage>. 
+                    <pub-id pub-id-type="doi">10.1186/s13628-017-0041-x</pub-id>
+                    <pub-id pub-id-type="pmid">29308185</pub-id>
+                    <issn>2046-1682</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b48">
+            <label>48. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Zupancic</surname>
+                     <given-names>T</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Sersa</surname>
+                     <given-names>G</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Törmä</surname>
+                     <given-names>H</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Lane</surname>
+                     <given-names>EB</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Herrmann</surname>
+                     <given-names>H</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Komel</surname>
+                     <given-names>R</given-names>
+                  </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>Keratin gene mutations influence the keratinocyte response to DNA damage and cytokine induced apoptosis</article-title>. 
+                    <source>Arch Dermatol Res</source>. 
+                    <year>2017</year>
+                    <month>Sep</month>;
+                    <volume>309</volume>(
+                    <issue>7</issue>):
+                    <fpage>587</fpage>–
+                    <lpage>93</lpage>. 
+                    <pub-id pub-id-type="doi">10.1007/s00403-017-1757-9</pub-id>
+                    <pub-id pub-id-type="pmid">28647894</pub-id>
+                    <issn>0340-3696</issn>
+                </mixed-citation>
+         </ref>
+         <ref id="b49">
+            <label>49. </label>
+            <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name name-style="western">
+                     <surname>Kolundzic</surname>
+                     <given-names>N</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Khurana</surname>
+                     <given-names>P</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Hobbs</surname>
+                     <given-names>C</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Rogar</surname>
+                     <given-names>M</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Ropret</surname>
+                     <given-names>S</given-names>
+                  </name>, 
+                        <name name-style="western">
+                     <surname>Törmä</surname>
+                     <given-names>H</given-names>
+                  </name>, 
+                        <etal>et al</etal>
+                    </person-group>.
+                    <article-title>Induced pluripotent stem cell (iPSC) line from an epidermolysis bullosa simplex patient heterozygous for keratin 5 E475G mutation and with the Dowling Meara phenotype</article-title>. 
+                    <source>Stem Cell Res (Amst)</source>. 
+                    <year>2019</year>
+                    <month>May</month>;
+                    <volume>37</volume>:
+                    <fpage>101424</fpage>. 
+                    <pub-id pub-id-type="doi">10.1016/j.scr.2019.101424</pub-id>
+                    <pub-id pub-id-type="pmid">30933721</pub-id>
+                    <issn>1873-5061</issn> 
+                </mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

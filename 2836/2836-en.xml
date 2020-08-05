@@ -1,0 +1,2345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD with MathML3 v1.1 20151215//EN" "JATS-journalpublishing1-mathml3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink"
+         dtd-version="1.1"
+         xml:lang="en"
+         article-type="other">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher-id">Zdrav Vestn</journal-id>
+         <journal-id journal-id-type="nlm-ta">Zdrav Vestn</journal-id>
+         <journal-id journal-id-type="doi">Zdrav Vestn</journal-id>
+         <journal-title-group>
+            <journal-title>Slovenian Medical Journal</journal-title>
+            <trans-title-group xml:lang="sl">
+               <trans-title>Zdravniški vestnik</trans-title>
+            </trans-title-group>
+            <abbrev-journal-title>Zdrav Vestn</abbrev-journal-title>
+         </journal-title-group>
+         <issn publication-format="ppub" pub-type="ppub">1318-0347</issn>
+         <issn publication-format="epub" pub-type="epub">1581-0224</issn>
+         <issn-l>0350-0063</issn-l>
+         <publisher>
+            <publisher-name xml:lang="sl">Slovensko zdravniško društvo</publisher-name>
+            <publisher-name xml:lang="en">Slovenian Medical Association</publisher-name>
+            <publisher-loc xml:lang="sl">Ljubljana, Slovenia</publisher-loc>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.6016/ZdravVestn.2836</article-id>
+         <article-id pub-id-type="publisher-id">2836</article-id>
+         <article-categories>
+            <subj-group subj-group-type="discipline" xml:lang="en">
+               <subject>Medicine and health sciences</subject>
+               <subj-group>
+                  <subject>Oncology</subject>
+               </subj-group>
+            </subj-group>
+            <subj-group subj-group-type="article-type" xml:lang="en">
+               <subject>Review article</subject>
+            </subj-group>
+            <subj-group subj-group-type="heading" xml:lang="en">
+               <subject>Oncology</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title xml:lang="en">Hyperthermic intraperitoneal chemotherapy</article-title>
+            <alt-title alt-title-type="running-head" xml:lang="en">Hyperthermic intraperitoneal chemotherapy</alt-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Skok</surname>
+                  <given-names>Kristijan</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1">1</xref>
+            </contrib>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Skornšek</surname>
+                  <given-names>Nina</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1">1</xref>
+            </contrib>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Hočevar</surname>
+                  <given-names>Marko</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff2">2</xref>
+               <xref ref-type="aff" rid="aff3">3</xref>
+            </contrib>
+            <contrib contrib-type="author" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Skok</surname>
+                  <given-names>Pavel</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff4">4</xref>
+               <xref ref-type="corresp" rid="corr"/>
+            </contrib>
+         </contrib-group>
+         <aff id="aff1" xml:lang="en">
+            <label>1</label>
+            <institution>Faculty of medicine, University of Maribor, Maribor, Slovenia</institution>
+         </aff>
+         <aff id="aff2" xml:lang="en">
+            <label>2</label>
+            <institution>Medicinska fakulteta, Univerza v Ljubljani, Ljubljana, Slovenija</institution>
+         </aff>
+         <aff id="aff3" xml:lang="en">
+            <label>3</label>
+            <institution>Division of surgery, Institute of Oncology Ljubljana, Ljubljana, Slovenia</institution>
+         </aff>
+         <aff id="aff4" xml:lang="en">
+            <label>4</label>
+            <institution>Medical research department, University Medical Centre Maribor, Maribor, Slovenia</institution>
+         </aff>
+         <author-notes>
+            <fn fn-type="conflict" xml:lang="en">
+               <p>The authors have declared that no competing interests exist.</p>
+            </fn>
+            <fn fn-type="conflict" xml:lang="sl">
+               <p>Avtorji so izjavili, da ne obstajajo nobeni konkurenčni interesi.</p>
+            </fn>
+            <corresp id="corr">Pavel Skok, e-mail: <email xlink:type="simple"/>
+            </corresp>
+         </author-notes>
+         <pub-date pub-type="ppub">
+            <month>2</month>
+            <year>2019</year>
+         </pub-date>
+         <pub-date pub-type="epub">
+            <month>2</month>
+            <year>2019</year>
+         </pub-date>
+         <volume>88</volume>
+         <issue>1–2</issue>
+         <fpage>21</fpage>
+         <lpage>38</lpage>
+         <history>
+            <date date-type="received">
+               <day/>
+               <month/>
+               <year/>
+            </date>
+            <date date-type="accepted">
+               <day/>
+               <month/>
+               <year/>
+            </date>
+         </history>
+         <permissions>
+            <copyright-statement xml:lang="en">Copyright © 2019, Slovenian Medical Association (SZD)</copyright-statement>
+            <copyright-statement xml:lang="sl">© 2019, Slovensko zdravniško društvo (SZD)</copyright-statement>
+            <copyright-year>2019</copyright-year>
+            <copyright-holder xml:lang="en">Slovenian Medical Association (SZD)</copyright-holder>
+            <copyright-holder xml:lang="sl">Slovensko zdravniško društvo (SZD)</copyright-holder>
+            <license xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                     xlink:type="simple"
+                     xml:lang="en">
+               <license-p>This is an open access article distributed under the terms of the
+          <ext-link ext-link-type="uri"
+                            xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                            xlink:type="simple">Creative Commons Attribution-NonCommercial
+            License</ext-link>, which permits unrestricted use, distribution, and
+          reproduction in any medium, provided the original author and source are
+          credited and only for non-commercial purposes. </license-p>
+            </license>
+            <license xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                     xlink:type="simple"
+                     xml:lang="sl">
+               <license-p>To je članek z odprtim dostopom, ki ga lahko uporabite pod pogoji iz
+          <ext-link ext-link-type="uri"
+                            xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"
+                            xlink:type="simple">Creative Commons Priznanje avtorstva-Nekomercialno
+            licence</ext-link>. ki dovoljuje distribucijo, predelavo ali
+          prilagoditev, ter gradijo na njem, v nekomercialne namene, z navedbo avtorja
+          in izvirnega dela.</license-p>
+            </license>
+         </permissions>
+         <abstract xml:lang="en">
+            <title>Abstract</title>
+            <p>In the past, patients with peritoneal metastases have been treated only with palliative therapy. Their state was deemed to be incurable. The median survival time was approximately two months. The therapeutic approach started to change in the nineties. Some researchers were of the opinion that peritoneal metastases were, in certain cases, only a locoregional disease and consequently, the patient could not only be treated, but cured. One of the main supporters of this theory and new treatment approach was Paul Sugarbaker. The proposed treatment consisted of cytoreductive surgery in combination with intraperitoneal chemotherapy. The purpose of the surgical procedure is macroscopic elimination of the tumour and removal of its microscopic remains via intraperitoneal chemotherapy. The procedure in which we apply a heated chemotherapeutic agent is known as hyperthermic intraperitoneal chemotherapy. Heat on its own has some direct anti-tumour effects. It causes protein denaturation, lysosomal activation and increased apoptotic cell death. If the chemotherapeutic agent is heated, complex chemical reactions take place, which promote its effectiveness and increase the depth of penetration. The best results achieved by this method have been reported in colorectal carcinoma, appendiceal malignancies, ovarian carcinoma and peritoneal mesothelioma. In the paper, the authors present this complex procedure, indications, criteria of patient selection and contemporary knowledge on the effectiveness of this method of treatment for certain types of cancer.</p>
+         </abstract>
+         <kwd-group xml:lang="en">
+            <kwd>hyperthermic intraperitoneal chemotherapy</kwd>
+            <kwd>cytoreductive surgery</kwd>
+            <kwd>colorectal cancer</kwd>
+            <kwd>peritoneal carcinosis</kwd>
+            <kwd>metastases</kwd>
+         </kwd-group>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>TotalReferences</meta-name>
+               <meta-value>60</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ReferencesParsed</meta-name>
+               <meta-value>57</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ReferencesBillable</meta-name>
+               <meta-value>58</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>LinkServices</meta-name>
+               <meta-value>pubmed-crossref</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ReferencesLinked</meta-name>
+               <meta-value>54</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ReferencesLinkedDOI</meta-name>
+               <meta-value>43</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ReferencesLinkedPMID</meta-name>
+               <meta-value>52</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>JournalReferences</meta-name>
+               <meta-value>55</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>BookReferences</meta-name>
+               <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>BookChapterReferences</meta-name>
+               <meta-value>1</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ConferenceReferences</meta-name>
+               <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ElectronicReferences</meta-name>
+               <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>DissertationReferences</meta-name>
+               <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>LegalReferences</meta-name>
+               <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>StandardReferences</meta-name>
+               <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>OtherReferences</meta-name>
+               <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>UnknownReferences</meta-name>
+               <meta-value>4</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ReferencesSemiParsed</meta-name>
+               <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>ReferencesBookUnparsed</meta-name>
+               <meta-value>0</meta-value>
+            </custom-meta>
+            <custom-meta>
+               <meta-name>EditorialStyle</meta-name>
+               <meta-value>ICMJE-WHO</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <body>
+      <sec id="s1" sec-type="Introduction">
+         <label>1</label>
+         <title>Introduction</title>
+         <p>Peritoneal carcinomatosis (PC) is intraperitoneal dissemination of a malignant tumour (<xref ref-type="bibr" rid="b1">1</xref>). It can be due to a primary peritoneal malignoma (e.g. peritoneal mesothelioma), dissemination of gastrointestinal cancers (appendiceal, colorectal or gastric cancer), pseudomixoma of the peritoneum and gynaecological cancers (ovarian cancer) (<xref ref-type="bibr" rid="b2">2</xref>,<xref ref-type="bibr" rid="b3">3</xref>). In the past, peritoneal metastases were deemed to be the incurable and terminal stage of cancer, and accordingly, patients received only palliative therapy (<xref ref-type="bibr" rid="b3">3</xref>). With such an approach, the average survival of patients was only two months (<xref ref-type="bibr" rid="b4">4</xref>). In the 1990’s, the therapeutic approach started to change considerably (<xref ref-type="bibr" rid="b5">5</xref>). Namely, some researchers believed that in certain cases peritoneal metastases are but a type of locoregional diseases, and thus the patient has a fair chance of being cured (<xref ref-type="bibr" rid="b6">6</xref>). One of the main proponents of this theory and new treatment approach was Paul Sugarbaker (<xref ref-type="bibr" rid="b7">7</xref>).</p>
+         <p>Thus, cytoreductive surgery (CRS) in combination with intraperitoneal chemotherapy (IPCT) has become part of cancer treatment. The purpose of CRS is to eliminate the macroscopic tumour. To this purpose, surgical peritonectomy with visceral resection has come into use for the removal or peritoneal metastases. The next significant step in the treatment of these diseases has been the locoregional chemotherapy, which is used during surgery or in the early postoperative period (<xref ref-type="bibr" rid="b4">4</xref>). The procedure in which a cytotoxic drug is heated and administered during surgery is called hyperthermic intraperitoneal chemotherapy (HIPEC). Chemotherapy (CT) that is used in the early postoperative period is called EPIC. Both are intended to remove any microscopic residual disease (<xref ref-type="bibr" rid="b8">8</xref>).</p>
+         <p>The special feature of the combined treatment with CRS and HIPEC is in that the whole therapy is performed during or along with the surgery (<xref ref-type="bibr" rid="b8">8</xref>,<xref ref-type="bibr" rid="b9">9</xref>). The usefulness of this therapeutic approach is based on the pathophysiological mechanism of the disease and the hypothesised tumour cell entrapment (<xref ref-type="bibr" rid="b8">8</xref>). According to this hypothesis, at the time of surgery, cancerous cells are still released from severed lymph vessels or from venous blood left after surgery. Furthermore, it is known that cancer dissemination may take form of low-density seeding and results in a peritoneal metastasis or a nodular implant at a distance from the primary cancer site. Another form of dissemination is high-density seeding where several cancer cells are entrapped on the surface of the resection site. This creates a layer of cancerous tissue that adapts to the adjoining anatomical structures (<xref ref-type="bibr" rid="b8">8</xref>). The basic eligibility criteria for surgery are 1) the absence of systemic or hepatic metastases (with the exception of up to 3 well-delineated focal lesions), and 2) exclusively locoregional progression of the disease in the peritoneum or peritoneal surfaces (<xref ref-type="bibr" rid="b10">10</xref>).</p>
+         <p>A multidisciplinary approach is required in patients with peritoneal cancer. The best results obtained by such treatment approach have been reported in peritoneal pseudomixoma, colorectal cancer (CRCA), appendiceal cancer, ovarian cancer and in peritoneal mesothelioma (<xref ref-type="bibr" rid="b7">7</xref>,<xref ref-type="bibr" rid="b11">11</xref>,<xref ref-type="bibr" rid="b12">12</xref>). However, peritoneal metastases may also occur in histological subtypes of tumours that are typically not associated with metastatic spread in the peritoneal cavity. Among these are breast cancer, malignant melanoma, neuroendocrine tumours (NET) and sarcomas (<xref ref-type="bibr" rid="b13">13</xref>-<xref ref-type="bibr" rid="b15">15</xref>). Recently, several studies have been published that reported the effective use of CRS in peritoneal metastases of NET and sarcoma (<xref ref-type="bibr" rid="b16">16</xref>,<xref ref-type="bibr" rid="b17">17</xref>). The use of IPCT in NET, gastrointestinal stromal tumours (GIST) and sarcomas did not prove to be effective as it failed to result in a significant prolongation of survival (<xref ref-type="bibr" rid="b4">4</xref>). Guidelines for using CRS with or without IPCT in pancreatic cancer, primary hepatic cancer, breast cancer and malignant melanoma are not yet available (<xref ref-type="bibr" rid="b4">4</xref>).</p>
+         <p>In their article, the authors present some historical facts regarding HIPEC, treatment procedures used in this challenging method, and current reports on the encouraging results achieved in individual cancer types.</p>
+      </sec>
+      <sec id="s2" sec-type="History">
+         <label>2</label>
+         <title>History</title>
+         <p>In 1955, Weissberger was the first to present the concept of IPCT for the treatment of localised peritoneal tumours (<xref ref-type="bibr" rid="b18">18</xref>). The concept was then adopted and spread in the U.S.A., and in the 1980’s new treatment modalities were introduced for the treatment of patients with peritoneal metastases. In 1979, Dedrick developed an experimental model for IPCT pharmacokinetics, and in 1988, Fujimoto described the use of hyperthermia to enhance the potential of antitumour agents. Combined use of CRS and IPCT as an aggressive locoregional therapy was first reported by Dr Paul Sugarbaker in the 1990’s (<xref ref-type="bibr" rid="b3">3</xref>). The use of this approach indicated the possibility of a more effective treatment resulting in a potentially longer survival. Despite certain scepticism and contradictory views, this approach proved to be the only one that prolonged the average survival of selective patients for even up to 46 months (<xref ref-type="bibr" rid="b4">4</xref>).</p>
+      </sec>
+      <sec id="s3" sec-type="Hyperthermic intraperitoneal chemotherapy">
+         <label>3</label>
+         <title>Hyperthermic intraperitoneal chemotherapy</title>
+         <p>CRS and HIPEC have not been found effective as separate methods, but their combination is currently considered the most effective treatment in patients with peritoneal metastases from colorectal cancer, peritoneal mesothelioma, appendiceal carcinoma and ovarian cancer (<xref ref-type="bibr" rid="b19">19</xref>,<xref ref-type="bibr" rid="b20">20</xref>). <xref ref-type="fig" rid="fig1">Figure 1</xref> shows the use of HIPEC.</p>
+         <fig position="anchor" id="fig1">
+            <label>Figure 1:</label>
+            <caption>
+               <p> Schematic presentation of HIPEC</p>
+            </caption>
+            <p>
+               <graphic xlink:href="2836-en-web-resources/image/zdravvestn-2836-en-01.png"/>
+            </p>
+            <p>Author: Corrado Bellini. The figure is from the web and marked as »reusable by changing«.</p>
+         </fig>
+         <p>In the first step, all the macroscopically visible tumour tissue is removed by CRS, and afterwards HIPEC is used in order to eliminate any minimal residual disease. The researchers have found several factors that influence the outcome and success of treatment, and some of the key findings are summarised in <xref ref-type="table" rid="table1">Table 1</xref> (<xref ref-type="bibr" rid="b21">21</xref>,<xref ref-type="bibr" rid="b22">22</xref>). To achieve a long term improvement and minimise the possibility of recurrence, it is crucial to remove all the macroscopically visible tumour masses, i.e. to achieve complete cytoreduction. Depending on the extent of the disease, various surgical approaches are used, such as peritonectomy of the upper left and right abdominal quadrants and the pelvis, omentectomy, resection of the rectosigmoid segment of the colon, right hemicolectomy, splenectomy and partial gastrectomy (<xref ref-type="bibr" rid="b23">23</xref>).</p>
+         <table-wrap position="anchor" id="table1">
+            <label>Table 1:</label>
+            <caption>
+               <p> Risk variables and grading systems.</p>
+            </caption>
+            <table>
+               <colgroup>
+                  <col/>
+                  <col/>
+                  <col/>
+               </colgroup>
+               <thead>
+                  <tr>
+                     <th colspan="3">Variables</th>
+                  </tr>
+               </thead>
+               <tbody>
+                  <tr>
+                     <th content-type="table-subhead">Eligible for procedure</th>
+                     <th content-type="table-subhead">Relative contraindications</th>
+                     <th content-type="table-subhead">Absolute contraindications</th>
+                  </tr>
+                  <tr>
+                     <td>Good general status.</td>
+                     <td>A sub occlusive syndrome due to more than one stenosis of the GIT.</td>
+                     <td>Poor general status.</td>
+                  </tr>
+                  <tr>
+                     <td>Age below 65–70 years.</td>
+                     <td>Peritoneal disease progressing under systemic chemotherapy.</td>
+                     <td>The presence of extra peritoneal metastases (except 3 liver metastases easily resectable).</td>
+                  </tr>
+                  <tr>
+                     <td>Lack of extra-abdominal metastases.</td>
+                     <td>Presence of more than 3 resectable liver metastases.</td>
+                     <td>Huge and diffuse peritoneal metastases.</td>
+                  </tr>
+                  <tr>
+                     <td>No occlusive disorders and no bulky clinical or radiological peritoneal metastases.</td>
+                     <td/>
+                     <td/>
+                  </tr>
+                  <tr>
+                     <th colspan="3">Sugarbaker’s completeness of CRS</th>
+                  </tr>
+                  <tr>
+                     <th content-type="table-subhead">Grade</th>
+                     <th content-type="table-subhead" colspan="2">Definition</th>
+                  </tr>
+                  <tr>
+                     <td>CC-0</td>
+                     <td colspan="2">No visible peritoneal carcinomatosis after CRS</td>
+                  </tr>
+                  <tr>
+                     <td>CC-1</td>
+                     <td colspan="2">Nodules persisting &lt; 2.5 mm after CRS</td>
+                  </tr>
+                  <tr>
+                     <td>CC-2</td>
+                     <td colspan="2">Nodules persisting between 2.5 mm and 2.5 cm</td>
+                  </tr>
+                  <tr>
+                     <td>CC-3</td>
+                     <td colspan="2">Nodules persisting &gt; 2.5 cm</td>
+                  </tr>
+                  <tr>
+                     <th colspan="3">STATUS ECOG</th>
+                  </tr>
+                  <tr>
+                     <th content-type="table-subhead">Grade</th>
+                     <th content-type="table-subhead" colspan="2">Definition</th>
+                  </tr>
+                  <tr>
+                     <td>0</td>
+                     <td colspan="2">Fully active, able to carry on all pre-disease performance without restriction.</td>
+                  </tr>
+                  <tr>
+                     <td>1</td>
+                     <td colspan="2">Restricted in physically strenuous activity but ambulatory and able to carry out work of a light or sedentary nature, e.g., light house work, office work.</td>
+                  </tr>
+                  <tr>
+                     <td>2</td>
+                     <td colspan="2">Ambulatory and capable of all selfcare but unable to carry out any work activities. Up and about more than 50 % of waking hours.</td>
+                  </tr>
+                  <tr>
+                     <td>3</td>
+                     <td colspan="2">Capable of only limited selfcare, confined to bed or chair more than 50 % of waking hours.</td>
+                  </tr>
+                  <tr>
+                     <td>4</td>
+                     <td colspan="2">Completely disabled. Cannot carry on any selfcare. Totally confined to bed or chair.</td>
+                  </tr>
+                  <tr>
+                     <td>5</td>
+                     <td colspan="2">Dead.</td>
+                  </tr>
+               </tbody>
+            </table>
+            <table-wrap-foot>
+               <p>Summarized after (<xref ref-type="bibr" rid="b8">8</xref>,<xref ref-type="bibr" rid="b28">28</xref>,<xref ref-type="bibr" rid="b59">59</xref>).</p>
+               <p>Legend: GIT – gastrointestinal tract, SCT – systemic chemotherapy, CRS – cytoreductive surgery.</p>
+            </table-wrap-foot>
+         </table-wrap>
+         <p>HIPEC, the next step in the treatment, is generally performed before bowel reconstruction and before abdominal cavity closure in order to prevent the risk of tumour cell entrapment in the sutures at the site of anastomoses. In this procedure, a cytostatic solution heated to 41–44 °C (depending on the type of cytostatic agent) is inserted into the peritoneal cavity via inlet catheters. Then, using drainage catheters, the solution is drained from the peritoneal cavity into a hyperthermal pump, which maintains the temperature of the solution and allows its circulation. While the cytostatic’s concentration in the peritoneal cavity is 7-fold higher than with (standard) intraperitoneal or intravenous application, its tissue penetration is limited to only a few millimetres. The choice of cytostatic type, the dosage and the temperature of the solution depend on the tumour type. The most frequently used are doxorubicin, cisplatin, mitomycin C, melphalan, oxaliplatin, ifosfamide and gemcitabine (<xref ref-type="bibr" rid="b24">24</xref>) (<xref ref-type="table" rid="table2">Table 2</xref>). Hyperthermia alone already has an antitumour effect by causing protein degradation, lysosome activation and apoptosis. Heating a cytostatic solution triggers complex chemical reactions that further increase the effectiveness and the depth of cytostatic penetration into the tumour tissue (<xref ref-type="bibr" rid="b25">25</xref>).</p>
+         <table-wrap position="anchor" id="table2">
+            <label>Table 2:</label>
+            <caption>
+               <p> Properties of a closed and open HIPEC approach.</p>
+            </caption>
+            <table>
+               <colgroup>
+                  <col/>
+                  <col/>
+                  <col/>
+               </colgroup>
+               <thead>
+                  <tr>
+                     <th>Features</th>
+                     <th>Open approach</th>
+                     <th>Closed approach</th>
+                  </tr>
+               </thead>
+               <tbody>
+                  <tr>
+                     <td>Efficiency</td>
+                     <td>Allows continued cytoreduction of bowel and mesenteric surfaces.</td>
+                     <td>No surgery possible during chemotherapy.</td>
+                  </tr>
+                  <tr>
+                     <td>Environmental hazard</td>
+                     <td>No aerosols detected.</td>
+                     <td>Perception of increased safety.</td>
+                  </tr>
+                  <tr>
+                     <td>Distribution</td>
+                     <td>Uniform distribution of heat and chemotherapy solutions, tissues close to skin edge not immersed.</td>
+                     <td>Possible poor distribution to dependent sites and closed spaces.</td>
+                  </tr>
+                  <tr>
+                     <td>Pressure</td>
+                     <td>No increased intraabdominal pressure.</td>
+                     <td>Increased intraabdominal pressure may increase chemotherapy penetration into tissue.</td>
+                  </tr>
+                  <tr>
+                     <td>Pharmacology</td>
+                     <td>Allows pharmacokinetic monitoring of tumor and normal tissue</td>
+                     <td>Tissue uptake of chemotherapy cannot be determined.</td>
+                  </tr>
+                  <tr>
+                     <td>Abdominal incision and suture lines</td>
+                     <td>Treated prior to performing the suturing.</td>
+                     <td>Risk of recurrence in abdominal incision and suture lines.</td>
+                  </tr>
+                  <tr>
+                     <td>Diaphragm perforation with peritonectomy</td>
+                     <td>Pleural space treated by hyperthermic chemotherapy may prevent seeding of pleural space</td>
+                     <td>Diaphragm closed prior to hyperthermic intraperitoneal chemotherapy so pleural space is not treated</td>
+                  </tr>
+                  <tr>
+                     <td>Intestinal perforation</td>
+                     <td>Detected by observing immersed bowel loops.</td>
+                     <td>Not detected.</td>
+                  </tr>
+                  <tr>
+                     <td>Hyperthermia</td>
+                     <td>Increased heat necessary to maintain 42 °C.</td>
+                     <td>Less heat required to maintain 42 °C.</td>
+                  </tr>
+               </tbody>
+            </table>
+            <table-wrap-foot>
+               <p>Summarized after Sugarbaker and Van der Speeten (<xref ref-type="bibr" rid="b8">8</xref>).</p>
+            </table-wrap-foot>
+         </table-wrap>
+         <p>This procedure can be carried out using either closed or open HIPEC technique (<xref ref-type="table" rid="table3">Table 3</xref>). In the open technique, the abdominal cavity is still open or covered with a plastic foil, and therefore there is a problem of cytostatic aerosolization. This problem is supposed to be solved by using anti-evaporation barriers and evaporators. In the closed technique, first the skin cover is sealed with a waterproof seam, and then the peritoneal cavity is perfused via the installed catheters. After the perfusion procedure is completed, the abdominal cavity is reopened, and only after the reconstruction with anastomoses is done, the abdominal cavity is closed permanently (<xref ref-type="bibr" rid="b26">26</xref>). Laparoscopic HIPEC technique for palliative indication (considerably reduced ascites) is used mainly in patients with cancer that cannot be treated surgically. The duration of HIPEC treatment depends on the type of cytostatic agent, and may range from 30 min (oxaliplatin) to 3 hrs (pegylated liposomal doxorubicin) (<xref ref-type="bibr" rid="b24">24</xref>). The choice of chemotherapeutic agent is crucial for treatment success. The cytostatic agent should neither cause local toxicity, and nor be dependent on metabolism (conversion into the active form). In addition, it must have a direct cytotoxic effect and pharmacokinetic advantages with i.p. administration (limited systemic toxicity and good locoregional penetration). It is also advantageous if the agent has a synergistic effect with heat. The advantage of this type of treatment is in its maximal local and minimal systemic effects, but the drawback is the technical complexity of the procedure which is associated with several risks. <xref ref-type="fig" rid="fig2">Figure 2</xref> shows some variables that should be taken into account before deciding to use the method of treatment in question (<xref ref-type="bibr" rid="b8">8</xref>,<xref ref-type="bibr" rid="b27">27</xref>).</p>
+         <table-wrap position="anchor" id="table3">
+            <label>Tabela 3:</label>
+            <caption>
+               <p> List of chemotherapy agents used for HIPEC.</p>
+            </caption>
+            <table>
+               <colgroup>
+                  <col/>
+                  <col/>
+                  <col/>
+                  <col/>
+                  <col/>
+                  <col/>
+                  <col/>
+                  <col/>
+                  <col/>
+                  <col/>
+                  <col/>
+                  <col/>
+               </colgroup>
+               <thead>
+                  <tr>
+                     <th>Drug</th>
+                     <th>Molecular weight</th>
+                     <th>Type</th>
+                     <th>AUC ratio</th>
+                     <th>T<sup>1/2</sup> (min)</th>
+                     <th>T<sup>80 %</sup> (min)</th>
+                     <th>Dose</th>
+                     <th>Carrier solution</th>
+                     <th>
+                        <p>Incompatibility</p>
+                        <p>in solution</p>
+                     </th>
+                     <th>Heat synergya</th>
+                     <th>Heat stability</th>
+                     <th>Depth of penetration</th>
+                  </tr>
+               </thead>
+               <tbody>
+                  <tr>
+                     <td>5-fluorouracil</td>
+                     <td>130.08</td>
+                     <td>Anti-metabolite</td>
+                     <td>280</td>
+                     <td>30</td>
+                     <td>75</td>
+                     <td>650 mg/m<sup>2</sup> (× 5 days)</td>
+                     <td>
+                        <p>0.9 % NaCl;</p>
+                        <p>1.5 % dexstrose dialysis solution; Icodextrin</p>
+                     </td>
+                     <td>Doxorubicin, Daunorubicin, Idaurubicin, Cisplatin, Diazepam, Icytarabine</td>
+                     <td>MIN</td>
+                     <td>43 °C</td>
+                     <td>0.2 mm</td>
+                  </tr>
+                  <tr>
+                     <td>Cisplatin</td>
+                     <td>300.1</td>
+                     <td>Alkylator</td>
+                     <td>10</td>
+                     <td>30</td>
+                     <td>90</td>
+                     <td>90 mg/m<sup>2</sup>
+                     </td>
+                     <td>0.9 % NaCl</td>
+                     <td>NA</td>
+                     <td>YES</td>
+                     <td>41.5 °C</td>
+                     <td>1–3 mm</td>
+                  </tr>
+                  <tr>
+                     <td>Docetaxel</td>
+                     <td>861.9</td>
+                     <td>Antimitotic</td>
+                     <td>552</td>
+                     <td>NA</td>
+                     <td>NA</td>
+                     <td>45 mg/m<sup>2</sup>
+                     </td>
+                     <td>0.9 % NaCl</td>
+                     <td>Plastic containers and tubes</td>
+                     <td>NO</td>
+                     <td>NA</td>
+                     <td>NA</td>
+                  </tr>
+                  <tr>
+                     <td>Doxorubicin</td>
+                     <td>579.99</td>
+                     <td>Antitumour antibiotic</td>
+                     <td>230</td>
+                     <td>20</td>
+                     <td>80</td>
+                     <td>15 mg/m<sup>2</sup>
+                     </td>
+                     <td>1.5 % dextrose dialysis solution</td>
+                     <td>Heparin, fluorouracil</td>
+                     <td>YES</td>
+                     <td>42 °C</td>
+                     <td>4–6 cell layers</td>
+                  </tr>
+                  <tr>
+                     <td>DOXIL (liposomal doxorubicin)</td>
+                     <td>579.99</td>
+                     <td>Antitumour antibiotic</td>
+                     <td>1.040</td>
+                     <td>180</td>
+                     <td>NA</td>
+                     <td>100 mg/m<sup>2</sup>
+                     </td>
+                     <td>1.5 % dextrose dialysis solution</td>
+                     <td>Heparin, fluorouracil</td>
+                     <td>YES</td>
+                     <td>42 °C</td>
+                     <td>4–6 cell layers</td>
+                  </tr>
+                  <tr>
+                     <td>Etoposide</td>
+                     <td>588.58</td>
+                     <td>Antitumour antibiotic</td>
+                     <td>65</td>
+                     <td>NA</td>
+                     <td>NA</td>
+                     <td>25–350 mg/m<sup>2</sup>
+                     </td>
+                     <td>5 % dextrose</td>
+                     <td>Plastic containers and tubes; acryl; antibiotics</td>
+                     <td>YES</td>
+                     <td>42 °C</td>
+                     <td>NA</td>
+                  </tr>
+                  <tr>
+                     <td>Floxuridine (FUDR)</td>
+                     <td>246.2</td>
+                     <td>Anti-metabolite</td>
+                     <td>75</td>
+                     <td>NA</td>
+                     <td>NA</td>
+                     <td>
+                        <p>500 mg/m<sup>2</sup>/2x day</p>
+                        <p>(× 3 days)</p>
+                     </td>
+                     <td>0.9 % NaCl</td>
+                     <td>NA</td>
+                     <td>MIN</td>
+                     <td>43 °C</td>
+                     <td>NA</td>
+                  </tr>
+                  <tr>
+                     <td>Gemcitabine</td>
+                     <td>299.5</td>
+                     <td>Pyrimidine antagonist</td>
+                     <td>205</td>
+                     <td>40</td>
+                     <td>75</td>
+                     <td>1,000 mg/m<sup>2</sup>
+                     </td>
+                     <td>0.9 % NaCl</td>
+                     <td>NA</td>
+                     <td>In 48 h</td>
+                     <td>42.5 °C</td>
+                     <td>NA</td>
+                  </tr>
+                  <tr>
+                     <td>Irinotecan</td>
+                     <td>677.19</td>
+                     <td>Antitumour antibiotic</td>
+                     <td>NA</td>
+                     <td>NA</td>
+                     <td>NA</td>
+                     <td>200 mg/m<sup>2</sup>
+                     </td>
+                     <td>1.5 % dextrose dialysis solution</td>
+                     <td>NA</td>
+                     <td>NO</td>
+                     <td>44 °C</td>
+                     <td>NA</td>
+                  </tr>
+                  <tr>
+                     <td>Carboplatin</td>
+                     <td>371.25</td>
+                     <td>Alkylator</td>
+                     <td>10</td>
+                     <td>NA</td>
+                     <td>NA</td>
+                     <td>300 mg/m<sup>2</sup>
+                     </td>
+                     <td>0.9 % NaCl</td>
+                     <td>NA</td>
+                     <td>YES</td>
+                     <td>41.5 °C</td>
+                     <td>0.5 mm</td>
+                  </tr>
+                  <tr>
+                     <td>Melphalan</td>
+                     <td>305.2</td>
+                     <td>Alkylator</td>
+                     <td>56</td>
+                     <td>33</td>
+                     <td>69</td>
+                     <td>70 mg/m<sup>2</sup>
+                     </td>
+                     <td>0.9 % NaCl</td>
+                     <td>NA</td>
+                     <td>MAXIMAL</td>
+                     <td>42 °C</td>
+                     <td>NA</td>
+                  </tr>
+                  <tr>
+                     <td>Mitoxantrone</td>
+                     <td>517.41</td>
+                     <td>Antitumour antibiotic</td>
+                     <td>115–255</td>
+                     <td>NA</td>
+                     <td>NA</td>
+                     <td>28 mg/m<sup>2</sup>
+                     </td>
+                     <td>0.9 % NaCl; Ringer’s lactate</td>
+                     <td>Heparin</td>
+                     <td>YES</td>
+                     <td>43 °C</td>
+                     <td>5–6 cell layers</td>
+                  </tr>
+                  <tr>
+                     <td>Mitomycin C</td>
+                     <td>334.3</td>
+                     <td>Antitumour antibiotic</td>
+                     <td>27</td>
+                     <td>40</td>
+                     <td>90</td>
+                     <td>15 mg/m<sup>2</sup>
+                     </td>
+                     <td>1.5 % dextrose dialysis solution</td>
+                     <td>Bleomycin</td>
+                     <td>YES</td>
+                     <td>42.5 °C</td>
+                     <td>2,000 µm</td>
+                  </tr>
+                  <tr>
+                     <td>Oxaliplatin</td>
+                     <td>397.3</td>
+                     <td>Alkylator</td>
+                     <td>16</td>
+                     <td>40</td>
+                     <td>60</td>
+                     <td>460 mg/m<sup>2</sup>
+                     </td>
+                     <td>5 % dextrose</td>
+                     <td>Aluminum alkaline or NaCl solutions</td>
+                     <td>YES</td>
+                     <td>46 °C</td>
+                     <td>1–2 mm</td>
+                  </tr>
+                  <tr>
+                     <td>Paklitaxel</td>
+                     <td>853.9</td>
+                     <td>Antimitotic</td>
+                     <td>1,000</td>
+                     <td>NA</td>
+                     <td>NA</td>
+                     <td>120–180 mg (total dose)</td>
+                     <td>1.5 % dextrose dialysis solution; 6 % ethoxylated amylopectin</td>
+                     <td>Plastic containers and tubes</td>
+                     <td>NO</td>
+                     <td>42.5 °C</td>
+                     <td>&gt;80 cell layers</td>
+                  </tr>
+                  <tr>
+                     <td>Pemetrexed</td>
+                     <td>471.4</td>
+                     <td>Multitargeted antifolate</td>
+                     <td>70</td>
+                     <td>90</td>
+                     <td>260</td>
+                     <td>500 mg/m<sup>2</sup>
+                     </td>
+                     <td>1.5 % dextrose dialysis solution</td>
+                     <td>NA</td>
+                     <td>NA</td>
+                     <td>NA</td>
+                     <td>NA</td>
+                  </tr>
+               </tbody>
+            </table>
+            <table-wrap-foot>
+               <p>Summarized after Sugarbaker and Van der Speeten (<xref ref-type="bibr" rid="b8">8</xref>).</p>
+            </table-wrap-foot>
+         </table-wrap>
+         <fig position="anchor" id="fig2">
+            <label>Figure 2:</label>
+            <caption>
+               <p> Variables in the use of HIPEC</p>
+            </caption>
+            <p>
+               <graphic xlink:href="2836-en-web-resources/image/zdravvestn-2836-en-02.png"/>
+            </p>
+            <p>Summarized after Sugarbaker and Van der Speeten (<xref ref-type="bibr" rid="b8">8</xref>).</p>
+         </fig>
+         <sec id="s3.1" sec-type="Variables">
+            <label>3.1</label>
+            <title>Variables</title>
+            <p>Recognised cancer centres with a sufficient volume of patients with peritoneal carcinomatosis (PC) have published 8 clinical and radiological factors that are deemed to be associated with a greater probability of a complete CRS:</p>
+            <list>
+               <list-item>
+                  <label>•</label>
+                  <p>»Eastern Cooperative Oncology Group« (ECOG) »performance status» 1 or less;</p>
+               </list-item>
+               <list-item>
+                  <label>•</label>
+                  <p>no evidence of spread outside the abdominal cavity;</p>
+               </list-item>
+               <list-item>
+                  <label>•</label>
+                  <p>up to three small, resectable parenchymal liver metastases;</p>
+               </list-item>
+               <list-item>
+                  <label>•</label>
+                  <p>no evidence of bile duct obstruction;</p>
+               </list-item>
+               <list-item>
+                  <label>•</label>
+                  <p>no evidence of ureteral obstruction;</p>
+               </list-item>
+               <list-item>
+                  <label>•</label>
+                  <p>no evidence of gastrointestinal (GIT) obstruction at more than one site;</p>
+               </list-item>
+               <list-item>
+                  <label>•</label>
+                  <p>patency of the small bowel;</p>
+               </list-item>
+               <list-item>
+                  <label>•</label>
+                  <p>no macroscopic evidence of disease in the mesentery with several obstructions;</p>
+               </list-item>
+               <list-item>
+                  <label>•</label>
+                  <p>small volume disease in the gastrohepatic ligament (<xref ref-type="bibr" rid="b28">28</xref>).</p>
+               </list-item>
+            </list>
+            <p>Some factors are absolute while others are relative contraindications (<xref ref-type="table" rid="table1">Table 1</xref>) (<xref ref-type="bibr" rid="b28">28</xref>). The patient inclusion criteria vary slightly with regard to the type of cancer, while using the same quantitative predictive criteria for all patients with peritoneal metastases. These include histopathological findings, peritoneal cancer index – PCI (<xref ref-type="fig" rid="fig3">Figure 3</xref>), completeness of cytoreduction score (<xref ref-type="table" rid="table1">Table 1</xref>), diagnostic imaging (CT), and classification with peritoneal cytology (<xref ref-type="bibr" rid="b1">1</xref>,<xref ref-type="bibr" rid="b29">29</xref>,<xref ref-type="bibr" rid="b30">30</xref>).</p>
+            <fig position="anchor" id="fig3">
+               <label>Figure 3:</label>
+               <caption>
+                  <p> Peritoneal cancer indeks (PCI)</p>
+               </caption>
+               <p>
+                  <graphic xlink:href="2836-en-web-resources/image/zdravvestn-2836-en-03.png"/>
+               </p>
+               <p>Summarized after Cotte et al. (<xref ref-type="bibr" rid="b59">59</xref>).</p>
+            </fig>
+            <sec id="s3.1.1" sec-type="Peritoneal cancer index">
+               <label>3.1.1</label>
+               <title>Peritoneal cancer index</title>
+               <p>Peritoneal cancer index (PCI) is a numerical value that serves as an estimate of the spread of disease in the abdominal and pelvic regions. To calculate the PCI score, it is necessary to evaluate the size of the change (<xref ref-type="bibr" rid="b3">3</xref>) in the abdominal and pelvic regions (indicated from 0 to 12). The calculation is made at the beginning of surgery. The higher the PCI score, the less effective will be the CRS and HIPEC treatment and thus less probable long-term survival. Therefore, there are recommended PCI scores up to which it is still reasonable to perform this therapeutic procedure (in pseudomixoma there is no upper limit, while in colorectal cancer the score should be ~ 15) (<xref ref-type="bibr" rid="b30">30</xref>).</p>
+            </sec>
+            <sec id="s3.1.2" sec-type="The completeness of cytoreductive surgery">
+               <label>3.1.2</label>
+               <title>The completeness of cytoreductive surgery</title>
+               <p>One of the key factors is a complete tumour removal at the time of CRS intervention. The PCI score significantly influences the outcome of treatment. <xref ref-type="table" rid="table1">Table 1</xref> shows individual scores. A score of CC-0 or CC-1 is generally required in order to achieve a better treatment outcome and a better quality of life with fewer complications (<xref ref-type="bibr" rid="b30">30</xref>).</p>
+            </sec>
+            <sec id="s3.1.3"
+                 sec-type="TNM classification, peritoneal cytology, and clinical features of primary cancer">
+               <label>3.1.3</label>
+               <title>TNM classification, peritoneal cytology, and clinical features of primary cancer</title>
+               <p>A careful examination of the peritoneal surfaces at the primary GIT cancer resection, along with timely and high-quality histopathological analysis of the resected tissue may accurately predict the occurrence of peritoneal metastases after surgery. However, in advanced GIT cancers, peritoneal cytology also provides relevant predictive data (<xref ref-type="bibr" rid="b31">31</xref>,<xref ref-type="bibr" rid="b32">32</xref>). By accurately evaluating this information, the physician may decide to carry out proactive treatment with CRS and HIPEC. It has been demonstrated that in high-risk patients this way may prevent the onset of peritoneal metastases, and patients with already present metastases are treated by second-look approach (<xref ref-type="bibr" rid="b30">30</xref>,<xref ref-type="bibr" rid="b32">32</xref>).</p>
+            </sec>
+            <sec id="s3.1.4" sec-type="Pretreatment diagnostic imaging">
+               <label>3.1.4</label>
+               <title>Pretreatment diagnostic imaging</title>
+               <p>In selecting patients suitable for CRS and HIPEC, a CT scan of the chest, abdomen and pelvis is essential. The aim of <italic>diagnostic imaging </italic>is to evaluate the extent of the disease and to check for possible presence of metastases on the pleural surfaces. The site and amount of mucinous carcinoma in the peritoneal cavity can be determined accurately. On the contrary, non-mucinous peritoneal metastases are poorly recognisable on a CT scan, and are therefore often underdiagnosed. If the small intestine and its mesenterial part are covered by tumour or the tumour is situated behind the xiphoid bone, the possibility of CRS success is low. In this situation, CT should be performed with a maximum dose of the contrast medium applied intravenously or <italic>per os</italic>, to detect possible small-bowel involvement either in individual sites or diffuse (<xref ref-type="bibr" rid="b31">31</xref>-<xref ref-type="bibr" rid="b33">33</xref>).</p>
+            </sec>
+            <sec id="s3.1.5" sec-type="Learning curve">
+               <label>3.1.5</label>
+               <title>Learning curve</title>
+               <p>CRS with HIPEC is a complex procedure. It is interesting to note that, according to the study of Smeeka et al., a surgical oncologist has achieved an appropriate level of competence after 130 performed procedures. The key competence of training is the acquisition of surgical skills. However, patient-oriented therapeutic approaches and the entire team’s experience in managing complications also contribute to a lower mortality rate (<xref ref-type="bibr" rid="b34">34</xref>).</p>
+            </sec>
+         </sec>
+      </sec>
+      <sec id="s4" sec-type="Malignant ascites">
+         <label>4</label>
+         <title>Malignant ascites</title>
+         <p>Malignant ascites is the accumulation of fluid in the peritoneal cavity due to advanced forms of cancer. It occurs as a result of lymph ducts’ blockage by tumour cells, increased permeability of blood vessels, hormonal causes and increased metalloproteinases activity. It is often associated with advanced stages of gynaecological, gastrointestinal and breast cancers. Predominant among the gynaecological cancers is ovarian cancer, while in the gastrointestinal tract the most prevalent are colorectal, pancreatic and gastric cancers. A retrospective study of the causes of malignant ascites has shown that it occurs most likely in ovarian cancer (37.7 %). Approximately 10 % of all ascites are malignant, and 20 % of patients with malignant ascites have tumours of unknown origin (<xref ref-type="bibr" rid="b35">35</xref>). Malignant ascites is a poor prognostic factor.</p>
+         <sec id="s4.1" sec-type="Treatment">
+            <label>4.1</label>
+            <title>Treatment</title>
+            <p>Ascites is treated primarily by primary tumour treatment, diuretics, paracentesis, biological agents and HIPEC, the latter being currently the most promising treatment modality. The type of cytostatic used in HIPEC depends on the primary tumour that caused malignant ascites. In ovarian cancer, the most appropriate agent is cisplatin (50 mg/ m<sup>2</sup>) or doxorubicin (15 mg/m<sup>2</sup>), in colorectal or gastric cancer it is mitomycin C (12.5 mg/m<sup>2</sup>), while in patients with other tumour types doxorubicin (12.5 mg/m<sup>2</sup>) is used. The study by Valle et al., which included 52 patients with malignant ascites, a total disappearance of ascites was reported in 94 %, and the average survival of patients was 98 days (range 21–796 days) (<xref ref-type="bibr" rid="b36">36</xref>).</p>
+         </sec>
+      </sec>
+      <sec id="s5" sec-type="Appendiceal cancer">
+         <label>5</label>
+         <title>Appendiceal cancer</title>
+         <p>In terms of its pathohistological features, appendiceal cancer can be classified as neuroendocrine or epithelial tumours. The cancer of epithelial origin can further be classified into individual subgroups: mucous hyperplasias, retention cysts, mucinous cystadenomas and adenocarcinomas (mucinous, intestinal, signet-ring cell). Mucinous neoplasms of the appendix are a heterogeneous group of tumours, classified with respect to their grade of malignancy into low- and high-grade histological subtypes. Conditions associated with appendiceal cancer dissemination can be divided into three groups: Disseminated peritoneal adenomucinosis (DPAM), peritoneal mucinous carcinomatosis (PMCA) and well differentiated PMCA (<xref ref-type="bibr" rid="b4">4</xref>,<xref ref-type="bibr" rid="b37">37</xref>). Another type of (appendiceal) cancer is goblet-cell carcinoma, which is a combination of adenocarcinoma and carcinoid. A special form is peritoneal pseudomyxoma (PMP), which originates from mucinous adenoma (<xref ref-type="bibr" rid="b37">37</xref>). It is characterised by a disperse accumulation of gelatinous material in the abdominal cavity and pelvis, and mucinous ingrowths on the peritoneal surface. As PMP grows, mucus begins to accumulate, leading to a burst and dissemination of the disease. Mucus starts to accumulate in the peritoneal cavity, leading to a characteristic “jelly belly” appearance and GIT obstruction. Due to incorrect denomination and simplification, in recent years the term has also been used for peritoneal dissemination of mucinous adenocarcinomas of the appendix, large and small intestine, lung, breast, pancreas, stomach, gallbladder, fallopian tubes and the ovaries. The nature of their dissemination renders PMP and adenocarcinoma most suitable for treatment with HIPEC (<xref ref-type="bibr" rid="b4">4</xref>).</p>
+         <p>The pathohistological findings of metastases from the primary tumour largely influence the outcome of CRS and HIPEC treatment. Metastases containing more than 90 % of mucous, squamous epithelial cells, without atypia and mitoses, were predictive of a favourable outcome despite a high PCI score. Metastases with a high cell atypia, numerous mitoses and less than 50 % of mucous epithelial cells were associated with poor outcome (<xref ref-type="bibr" rid="b1">1</xref>). Patients with adenomucinosis have the best prognosis; the survival of patients with mucinous carcinoma is comparable to the survival of patients with peritoneal metastases from colorectal cancer. Although colorectal cancer and cancer of the appendix are similar, there are still significant differences between the two. The most relevant difference is in the diameter of the lumen of the affected organ. Colorectal cancer (CRCA) grows in the lumen and spreads outward through the wall, in its advanced stages spreading all the way to serosis. Because of the appedix’s small lumen, cancer invades the wall sooner and spreads tumour cells further into the abdominal cavity and the pelvic area (<xref ref-type="bibr" rid="b1">1</xref>,<xref ref-type="bibr" rid="b34">34</xref>).</p>
+         <sec id="s5.1" sec-type="Treatment">
+            <label>5.1</label>
+            <title>Treatment</title>
+            <p>The pioneer of such treatment approach was Sugarbaker who in 1987 reported on the first use of IPC after CRS in patients with PMP (<xref ref-type="bibr" rid="b4">4</xref>). In 2001, he reported on a 10-year follow up of 108 patients treated with CRS and HIPEC with mitomycin. The chemotherapeutic schedule included 5-fluorouracil (5-FU) from postoperative Days 1 to 6, followed by three cycles of adjuvant therapy with mitomycin (i.v.) and IPCT with 5-FU. The group of patients under study was very heterogeneous. In their study, the histology was of outstanding importance for patients survival, since the patients with DPAM had significantly better survival than patients in other groups, who had mucinous and intermediary cancers (<xref ref-type="bibr" rid="b38">38</xref>).</p>
+            <p>A systematic review of patients with histologically verified DPAM who underwent CRS and HIPEC showed 70–86 % five-year survival and 60–68 % ten-year survival (<xref ref-type="bibr" rid="b39">39</xref>). In a multicentric study, the authors reported on 81 % 5-year and 70 % 10-year survival for patients with DPAM, 95 % 5-year and 49 % 10-year for patients with PMCA, and 78 % 5-year and 63 % 10-year survival for those with mixed type cancer. The average survival was 16.3 years. It has been proven that complete cytoreduction is the most important factor associated with longer survival (<xref ref-type="bibr" rid="b40">40</xref>). With CRS, a routine lymphadenectomy is not recommended (<xref ref-type="bibr" rid="b4">4</xref>).</p>
+         </sec>
+      </sec>
+      <sec id="s6" sec-type="Colorectal cancer">
+         <label>6</label>
+         <title>Colorectal cancer</title>
+         <p>Colorectal cancer (CRC) is the third most common cancer in men worldwide (746,000 cases per year) and the second most common in women (614,000 cases per year). In 2012, there were almost 1.4 million new patients detected. The predicted incidence in 2035 will be 2.4 million patients. Incidence rates are higher in the developed (737,000 cases) than in less developed countries (624,000 cases), while mortality is higher in less developed countries (<xref ref-type="bibr" rid="b42">42</xref>,<xref ref-type="bibr" rid="b43">43</xref>).</p>
+         <p>The intestinal mucous membrane is covered with the glandular epithelium, and therefore the most common cancer in this region is adenocarcinoma (90–95 %). At the time of diagnosis, more than 60 % of patients present with locally or regionally advanced disease, while 15 % of patients already have distant metastases. CRC spreads by lymphogenous and haematogenous dissemination, most frequently into the liver, lung and bones (<xref ref-type="bibr" rid="b43">43</xref>).</p>
+         <p>Following the liver, the peritoneum is the second most frequent metastatic site of CRC. Studies published in the past claim that the peritoneum is the only metastatic site in up to 25 % of cases. Recent studies report 10 %, whereas there are up to 20 % of patients who have metastases in the peritoneum as well as in some other organ (<xref ref-type="bibr" rid="b44">44</xref>). Advanced stage of the disease is associated with poor prognosis of the outcome. The average survival without treatment is up to 9 months (<xref ref-type="bibr" rid="b44">44</xref>). Unfortunately, in stage IV, the disease advances in 50 % of patients, despite R0 resection (<xref ref-type="bibr" rid="b1">1</xref>). In 10–35 % of these patients the disease recurs in the peritoneum. With modern SCTs, which comprise oxaliplatin and irinotecan with the addition of 5-FU and targeted drugs, such as bevacizumab and cetuximab, the average survival of patients with stage IV of the disease may be extended for more than 15 months (<xref ref-type="bibr" rid="b42">42</xref>). The quality of life is often worsened by accompanying ascites and frequent bowel obstruction. At the time of diagnosis, for three quarters of patients with PC (due to CRC) the only option is palliative systemic chemotherapy. The remaining quarter of patients without distant metastases and tumour limited to the peritoneum are eligible for treatment with CRS in combination with HIPEC (<xref ref-type="bibr" rid="b31">31</xref>).</p>
+         <sec id="s6.1" sec-type="Treatment">
+            <label>6.1</label>
+            <title>Treatment</title>
+            <p>In the treatment of CRC surgery plays the central role. Adjuvant therapy, however, differs in both types. The standard treatment of locally or regionally advanced CRC is radiotherapy or radiochemotherapy with 5-FU in a continuous infusion, or with capecitabine prior to surgery. With modern combinations of oxaliplatin and irinotecan with the addition of 5-FU and target substances, such as bevacizumab and cetuximab, the average survival of patients with stage IV of the disease is currently from 7 to more than 24 months (<xref ref-type="bibr" rid="b1">1</xref>). In the case that metastases are limited to the peritoneum and provided that the aforementioned conditions are met, treatment with CRS and HIPEC is feasible.</p>
+            <p>A relative contraindication for CRS and HIPEC is poorly differentiated primary tumour. With inclusion of patients with well and moderately differentiated tumours, the survival is significantly better. Currently, two HIPEC protocols are used in the treatment of these patients. By the first protocol, the treatment is carried out with mitomycin C, heated to 41 °C, for 60–90 minutes, using closed technique. By the second protocol, oxsaliplatin is administered (460 mg/m<sup>2</sup> of oxaliplatin in 2 L/ m<sup>2</sup> of 5 % isoosmotic dextrose) for 30 minutes (precisely, 30 min. from the moment when the minimum temperature of 42 °C is reached in the abdominal cavity, plus 5–8 min. before the infusion is heated from 38 °C to 42 °C, i.e. to 43 °C (range 42–44 °C), using open technique (<xref ref-type="bibr" rid="b11">11</xref>). Two-way systemic and intraperitoneal chemotherapy during surgery, combining intraperitoneal oxsaliplatin and i.v. infusion of 5-FU (400 mg/m<sup>2</sup>) with leucovorin (20 mg/m<sup>2</sup>), is primarily used for PC from CRC. Mitomycin has an advantage due to its high molecular weight, good tissue perfusion (up to 5 mm) and a favourable pharmacokinetic profile that allows increased intraperitoneal concentration without causing severe side effects. According to literature reports, the efficacy of both cytostatics in the aforementioned regimen is comparable. Nevertheless, some researchers are in favour of oxaliplatin because it does not cause neutropenia and has a shorter perfusion time (30 min vs. 90 min) as compared to mitomycin-C (<xref ref-type="bibr" rid="b11">11</xref>,<xref ref-type="bibr" rid="b28">28</xref>).</p>
+            <p>A randomised study of 105 patients compared two groups of patients who had either CRS + HIPEC + SCT or only SCT performed. Despite the inclusion problems, the study reported a 22-month average survival rate for the first group and 13 months for the second group (<xref ref-type="bibr" rid="b45">45</xref>). After 8 years, the survival rate was the same (<xref ref-type="bibr" rid="b46">46</xref>). In another study, Association Francaise de Chirurgie reported on a 30 % 5-year survival rate, which was among the lowest reported in the literature (<xref ref-type="bibr" rid="b47">47</xref>). The centres that frequently practice such approaches reported on around 40 % 5-year survival rate. Glehen et al. published their results of using HIPEC and EPIC approach in patients with this disease. Their study included 506 patients from 28 institutions; HIPEC (54 %), EPIC (24 %) and combination (22 %). Patients with CCR0 (complete resection) survived 1, 3 and 5 years in 87 %, 47 % and 31 % respectively; their average survival was 32.4 months. The overall survival rate (OS) was 72 %, 39 % and 19 % for 1-, 3- and 5-year intervals, respectively. The median overall survival was 19.2 months (<xref ref-type="bibr" rid="b48">48</xref>). In their study, Elias et al. compared HIPEC and EPIC approaches. The study included 523 patients, but possible differences in their survival unfortunately were not reported (<xref ref-type="bibr" rid="b47">47</xref>).</p>
+            <p>Some studies report high mortality and morbidity rates associated with CRS and HIPEC in CRC (<xref ref-type="bibr" rid="b7">7</xref>,<xref ref-type="bibr" rid="b28">28</xref>,<xref ref-type="bibr" rid="b49">49</xref>). In 2014, Sugarbaker presented surgery results in patients with metastases from CRC, in whom the mortality rate was 0.6 % and the occurrence of IV degree side effects was 12 %. He concluded that, for selected patients, the combined CRS and HIPEC treatment was the best therapeutic option (<xref ref-type="bibr" rid="b7">7</xref>). He also believed that currently there is no evidence to suggest that patients with CRC limited to the peritoneal surface should be treated exclusively by SCT (<xref ref-type="bibr" rid="b7">7</xref>). Further to this conclusion, it should be pointed out that in the same year, Sugarbaker emphasised in another article that advances in the development of systemic drugs resulted in the improvement of patients’ condition, and taking into account the progress in CT (oxaliplatin, irinotecan, biological drugs), CRS and HIPEC need not be necessary the best therapeutic choice, but nevertheless, these methods still have their place in the treatment of selected patients (<xref ref-type="bibr" rid="b31">31</xref>). He underlined that in any case the patient should be offered a multidisciplinary approach with a range of different treatment options.</p>
+         </sec>
+      </sec>
+      <sec id="s7" sec-type="Gastric cancer">
+         <label>7</label>
+         <title>Gastric cancer</title>
+         <p>The outcome of gastric cancer with peritoneal metastases is among the worst ones, with the average survival ranging between 3 to 7 months and a 0 % five-year survival rate (<xref ref-type="bibr" rid="b50">50</xref>). Although adjuvant CT, neoadjuvant CT and adjuvant CRT have proven to be useful and provided minimal improvement in patients’ survival, none of these treatment modalities have significantly contributed to reducing the number of recurrences. Patients with gastric cancer (GC) and peritoneal metastases have significantly worse response to chemotherapy. The average survival of patients with SC and PC after treatment is 9.5–12 months. Due to the complexity of treatment and unsatisfactory CT results, interest in HIPEC with CRS has increased (<xref ref-type="bibr" rid="b50">50</xref>).</p>
+         <p>In the past, some disapproved of the procedure due to a high mortality and morbidity rate. According to the available data, the mortality rate for patients with GC is probably around 3.6–6.5 % (<xref ref-type="bibr" rid="b18">18</xref>). Compared to ovarian cancer, mortality is slightly higher due to gastrectomy, because less visceral resections on average are done in ovarian cancer. The main postoperative complications include neutropenia, GIT fistulae, pneumonia, haemorrhage, abdominal abscess, sepsis, wound infection and kidney failure (<xref ref-type="bibr" rid="b18">18</xref>).</p>
+         <p>There are three potential possibilities of HIPEC use in the treatment of GC: 1) prophylactic – to prevent recurrence after curative gastrectomy in high-risk patients; 2) therapeutic – in patients with PC after CRS, and 3) palliative – in patients with poorly controlled ascites due to severe PC spread that is not suitable for CRS (<xref ref-type="bibr" rid="b18">18</xref>). In a prospective study with more than 1,000 patients with adenocarcinoma of the stomach, who later developed metachronous PC, the average survival despite the primary R0 D2 resection was only 3 months. Although a standard systemic therapy in patients with GC and PC extended this period to 7–10 months, GC’s response to SCT is poor (<xref ref-type="bibr" rid="b4">4</xref>). In another study, in selected patients, this period was prolonged using CRS and HIPEC method to an average of 9.2 months, and the five-year survival rate was 13 % (<xref ref-type="bibr" rid="b51">51</xref>). In a prospective randomised study, systemic chemotherapy was compared with CRS and HIPEC. The systemic chemotherapy was performed according to FOLIFOXIRI schedule (irinotecan, leucovorin, oxaliplatin and 5-FU), the application regimen being irinotecan 165 mg/m<sup>2</sup> for 90 min, followed by leucovorin 200 mg/m<sup>2</sup> and oxaliplatin 85 mg/m<sup>2</sup> for 2 hrs on Day 1, together with a continuous infusion of 5-FU 3,200 mg/m<sup>2</sup> for 48 hrs. After gastrectomy and the removal of liver and lung metastases, the second group of patients underwent CRS and HIPEC (oxaliplatin 460 mg/m<sup>2</sup> at 41°C for 30 min). After 8 months, the second group also started receiving CT according to FOLFOXIRI schedule. Patients in the first group had an average survival of 4.3 months, while those in the second group survived 11.3 months (<xref ref-type="bibr" rid="b52">52</xref>).</p>
+         <p>It is interesting to note that they also described the strategy of neoadjuvant IP and SCT (NIPS), CRS and HIPEC, and IP CT (EPIC) after surgery. The basic idea was to reduce the tumour burden preoperatively and at the same time use NIPS as a form of chemotherapy that exerts therapeutic effects on peritoneal disease and subperitoneally in the vascular system, in patients with positive peritoneal cytology. This treatment is followed by CRS and HIPEC. The dosage regimen of NIPS was 60 mg/m<sup>2</sup> 
+            <italic>per os</italic> S-1 for 21 days followed by one week pause. On Days 1, 8 and 15 they receive taxoter 30 mg/m<sup>2</sup> and CIS 30 mg/m<sup>2</sup> in 500 mL of normal saline (<xref ref-type="bibr" rid="b53">53</xref>).</p>
+      </sec>
+      <sec id="s8" sec-type="Ovarian cancer">
+         <label>8</label>
+         <title>Ovarian cancer</title>
+         <p>Ovarian cancer is one of the leading causes of death in women with malignant disease. The incidence rate in Slovenia for 2011 is 14.8 per 100.000 population. Ovarian cancer (OC) represents the seventh most frequent cancer in women. According to the data for 2012, 239 women are diagnosed with OC annually, most of them at an age between 55 and 65 years. The most frequent OC type is malignant epithelial tumour of serous adenocarcinoma subtype (40–45 %), followed by endometroid subtype. Generally it is diagnosed in FIGO III and IV stage, when there are peritoneal metastases already present in 75 % of cases. The standard treatment is CRS and a systemic chemotherapy, which, however, cannot prevent recurrence of the disease in 75 % of patients (<xref ref-type="bibr" rid="b54">54</xref>). Recurrent ovarian cancer is the term that applies to a recurrence of the disease after completed therapy; platinum-resistant OC appears within 6 months, while the recurrence of platinum-sensitive type takes longer than 6 months.</p>
+         <sec id="s8.1" sec-type="Treatment">
+            <label>8.1</label>
+            <title>Treatment</title>
+            <p>In these patients, CRS and HIPEC proved to be an effective treatment method. The optimum regimen of treatment has not yet been defined. Cisplatin, oxaliplatin, mitomycin and doxorubicin were used in various studies. In one of the studies, the protocol with cisplatin 70 mg/m<sup>2</sup> and 1-hour duration of HIPEC at 42 °C was confirmed as most appropriate (<xref ref-type="bibr" rid="b28">28</xref>). Recently, the first randomised study that investigated HIPEC for the treatment of ovarian cancer was published. The clinical study included 120 patients with recurrent disease, who were initially treated by CRS and systemic chemotherapy. Those patients who were treated with HIPEC in addition to CRS and systemic chemotherapy had a significantly better median survival than others (26.7 months vs. 13.4 months, p &lt; 0.006). The survival was better in patients with platinum-sensitive as well as in those with platinum-resistant ovarian cancer (<xref ref-type="bibr" rid="b55">55</xref>).</p>
+         </sec>
+      </sec>
+      <sec id="s9" sec-type="Mesothelioma">
+         <label>9</label>
+         <title>Mesothelioma</title>
+         <p>The term mesothelioma covers a group of malignant tumours that arise from serous membranes (pleura, peritoneum, pericardium, tunica vaginalis testis). Diffuse malignant peritoneal mesothelioma (DMPM) is a locally aggressive primary malignant tumour of the serous peritoneal surface. It represents 7–10 % of all diagnosed mesotheliomas.</p>
+         <sec id="s9.1" sec-type="Treatment">
+            <label>9.1</label>
+            <title>Treatment</title>
+            <p>Patients, treated by palliative surgery either with or without chemotherapy survived on average one year. Advances in the area of treatment have led to the combination of CRS and HIPEC, which is currently considered to be the most appropriate therapy. In a study comparing cisplatin and carboplatin for the implementation of HIPEC, a longer average survival was observed in patients treated with carboplatin (<xref ref-type="bibr" rid="b56">56</xref>). In the study that included 240 patients with DMPM treated with a combination of CRS and HIPEC, the median survival was 53 months, while 3-year survival rate was 60 % and 5-year survival rate 47 % (<xref ref-type="bibr" rid="b57">57</xref>).</p>
+            <p>Deraco proposed a new system of staging for patients with DMPM, based exclusively on the determination of PCI: Stage I (up to 10), stage II (<xref ref-type="bibr" rid="b11">11</xref>-<xref ref-type="bibr" rid="b20">20</xref>), stage III (<xref ref-type="bibr" rid="b21">21</xref>-<xref ref-type="bibr" rid="b30">30</xref>) and stage IV (&gt; 30). Patients with stage III or IV are not eligible for CRS with HIPEC. Five-year survival for stages I, II and III is 87 %, 53 % and 29 %, respectively (<xref ref-type="bibr" rid="b58">58</xref>).</p>
+         </sec>
+      </sec>
+      <sec id="s10" sec-type="Conclusion">
+         <label>10</label>
+         <title>Conclusion</title>
+         <p>The combination of CRS and HIPEC is one of the most effective options for the treatment of peritoneal metastases originating from different tumours. In the article we presented individual approaches to certain types of cancer. The most important prognostic factors for the success of this treatment approach are cancer type, stage of the disease, and the possibility of complete cytoreduction. Since this is a high-risk procedure, the appropriate selection of patients is also of key importance. It is recommended that this type of treatment be carried out in centres with properly trained and experienced staff.</p>
+         <p>Several research studies are needed in this area of oncology, before recommendations for the treatment of individual tumour types, the choice of the most effective drugs and the regimen of its application in HIPEC would be finally adopted. But even at present time, it can already be concluded that in several multinational studies, CRS and HIPEC treatment has been shown to increase the survival of selected patients, while their perioperative or immediate postoperative mortality is comparable with mortality rates in other major surgical procedures in the abdominal cavity.</p>
+      </sec>
+   </body>
+   <back>
+      <ref-list>
+         <ref id="b1">
+            <mixed-citation publication-type="unknown" specific-use="parsed">
+               <person-group person-group-type="author">
+                  <collab>VIRI IN LITERATURA</collab>
+               </person-group>
+            </mixed-citation>
+         </ref>
+         <ref id="b2">
+            <label>1. </label>
+            <mixed-citation publication-type="book-chapter" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>DeVita</surname> 
+                     <given-names>VT</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Lawrence</surname> 
+                     <given-names>TS</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Rosenberg</surname> 
+                     <given-names>SA</given-names>
+                  </name>
+               </person-group>. <chapter-title>Peritoneal Metastases and Peritoneal Mesothelioma</chapter-title>. In: <person-group person-group-type="editor">
+                  <string-name name-style="western">
+                     <surname>Deraco</surname> 
+                     <given-names>M</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Elias</surname> 
+                     <given-names>DM</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Glehen</surname> 
+                     <given-names>O</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Helm</surname> 
+                     <given-names>CW</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Sugarbaker</surname> 
+                     <given-names>PH</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Verwaal</surname> 
+                     <given-names>VJ</given-names>
+                  </name>, <role>editors</role>
+               </person-group>. <source>DeVita, Hellman, and Rosenberg’s cancer: principles &amp; practice of oncology</source>. <edition>10th ed.</edition> 
+               <year>2015</year>. p. <fpage>2234</fpage>. [<comment>Internet</comment>], Available from <ext-link ext-link-type="uri"
+                         xlink:href="https://www.lww.co.uk/devita-hellman-and-rosenbergs-cancer-principles-practice-of-oncology-10-edition">https://www.lww.co.uk/devita-hellman-and-rosenbergs-cancer-principles-practice-of-oncology-10-edition</ext-link>
+               <annotation>
+                  <p content-type="warning">Could not find a publisher location in this book chapter reference. (Ref. 1 "DeVita, Lawrence, Rosenberg, 2015")</p>
+                  <p content-type="warning">Could not find a publisher name in this book chapter reference. (Ref. 1 "DeVita, Lawrence, Rosenberg, 2015")</p>
+               </annotation>
+            </mixed-citation>
+         </ref>
+         <ref id="b3">
+            <label>2.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Lambert</surname> 
+                     <given-names>LA</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Harris</surname> 
+                     <given-names>A</given-names>
+                  </name>
+               </person-group>. <article-title>Palliative cytoreductive surgery and hyperthermic intraperitoneal chemoperfusion: current clinical practice or misnomer?</article-title> 
+               <source>J Gastrointest Oncol</source>. <year>2016</year> 
+               <month>Feb</month>;<volume>7</volume>(<issue>1</issue>):<fpage>112</fpage>–<lpage>21</lpage>.<pub-id pub-id-type="pmid">26941989</pub-id>
+               <issn>2078-6891</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b4">
+            <label>3.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Canbay</surname> 
+                     <given-names>E</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Yonemura</surname> 
+                     <given-names>Y</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Brucher</surname> 
+                     <given-names>B</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Baik</surname> 
+                     <given-names>SH</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Sugarbaker</surname> 
+                     <given-names>PH</given-names>
+                  </name>
+               </person-group>. <article-title>Intraperitoneal chemotherapy and its evolving role in management of gastric cancer with peritoneal metastases</article-title>. <source>Chin J Cancer Res</source>. <year>2014</year> 
+               <month>Feb</month>;<volume>26</volume>(<issue>1</issue>):<fpage>1</fpage>–<lpage>3</lpage>.<pub-id pub-id-type="pmid">24653620</pub-id>
+               <issn>1000-9604</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b5">
+            <label>4.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Dehal</surname> 
+                     <given-names>A</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Smith</surname> 
+                     <given-names>JJ</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Nash</surname> 
+                     <given-names>GM</given-names>
+                  </name>
+               </person-group>. <article-title>Cytoreductive surgery and intraperitoneal chemotherapy: an evidence-based review-past, present and future</article-title>. <source>J Gastrointest Oncol</source>. <year>2016</year> 
+               <month>Feb</month>;<volume>7</volume>(<issue>1</issue>):<fpage>143</fpage>–<lpage>57</lpage>.<pub-id pub-id-type="pmid">26941992</pub-id>
+               <issn>2078-6891</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b6">
+            <label>5.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Arjona-Sánchez</surname> 
+                     <given-names>A</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Medina-Fernández</surname> 
+                     <given-names>FJ</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Muñoz-Casares</surname> 
+                     <given-names>FC</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Casado-Adam</surname> 
+                     <given-names>A</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Sánchez-Hidalgo</surname> 
+                     <given-names>JM</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Rufián-Peña</surname> 
+                     <given-names>S</given-names>
+                  </name>
+               </person-group>. <article-title>Peritoneal metastases of colorectal origin treated by cytoreduction and HIPEC: an overview</article-title>. <source>World J Gastrointest Oncol</source>. <year>2014</year> 
+               <month>Oct</month>;<volume>6</volume>(<issue>10</issue>):<fpage>407</fpage>–<lpage>12</lpage>. <pub-id pub-id-type="doi">10.4251/wjgo.v6.i10.407</pub-id>
+               <pub-id pub-id-type="pmid">25320657</pub-id>
+               <issn>1948-5204</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b7">
+            <label>6.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Brücher</surname> 
+                     <given-names>BL</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Piso</surname> 
+                     <given-names>P</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Verwaal</surname> 
+                     <given-names>V</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Esquivel</surname> 
+                     <given-names>J</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Derraco</surname> 
+                     <given-names>M</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Yonemura</surname> 
+                     <given-names>Y</given-names>
+                  </name>, <etal>et al</etal>
+               </person-group>. 
+               <article-title>Peritoneal carcinomatosis: cytoreductive surgery and HIPEC—overview and basics</article-title>. <source>Cancer Invest</source>. <year>2012</year> 
+               <month>Mar</month>;<volume>30</volume>(<issue>3</issue>):<fpage>209</fpage>–<lpage>24</lpage>. <pub-id pub-id-type="doi">10.3109/07357907.2012.654871</pub-id>
+               <pub-id pub-id-type="pmid">22360361</pub-id>
+               <issn>0735-7907</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b8">
+            <label>7.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Poskus</surname> 
+                     <given-names>E</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Strupas</surname> 
+                     <given-names>K</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Gushchin</surname> 
+                     <given-names>V</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Sugarbaker</surname> 
+                     <given-names>PH</given-names>
+                  </name>
+               </person-group>. <article-title>Cytoreductive Surgery and HIPEC in the Baltic States: An International Scientific Workshop with Live Surgery</article-title>. <source>Viszeralmedizin</source>. <year>2014</year> 
+               <month>Oct</month>;<volume>30</volume>(<issue>5</issue>):<fpage>353</fpage>–<lpage>9</lpage>. <pub-id pub-id-type="doi">10.1159/000368685</pub-id>
+               <pub-id pub-id-type="pmid">26535046</pub-id>
+               <issn>1662-6664</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b9">
+            <label>8.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Sugarbaker</surname> 
+                     <given-names>PH</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Van der Speeten</surname> 
+                     <given-names>K</given-names>
+                  </name>
+               </person-group>. <article-title>Surgical technology and pharmacology of hyperthermic perioperative chemotherapy</article-title>. <source>J Gastrointest Oncol</source>. <year>2016</year> 
+               <month>Feb</month>;<volume>7</volume>(<issue>1</issue>):<fpage>29</fpage>–<lpage>44</lpage>.<pub-id pub-id-type="pmid">26941982</pub-id>
+               <issn>2078-6891</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b10">
+            <label>9.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Carmignani</surname> 
+                     <given-names>CP</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Sugarbaker</surname> 
+                     <given-names>TA</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Bromley</surname> 
+                     <given-names>CM</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Sugarbaker</surname> 
+                     <given-names>PH</given-names>
+                  </name>
+               </person-group>. <article-title>Intraperitoneal cancer dissemination: mechanisms of the patterns of spread</article-title>. <source>Cancer Metastasis Rev</source>. <year>2003</year> 
+               <month>Dec</month>;<volume>22</volume>(<issue>4</issue>):<fpage>465</fpage>–<lpage>72</lpage>. <pub-id pub-id-type="doi">10.1023/A:1023791229361</pub-id>
+               <pub-id pub-id-type="pmid">12884919</pub-id>
+               <issn>0167-7659</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b11">
+            <label>10.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Dubé</surname> 
+                     <given-names>P</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Sideris</surname> 
+                     <given-names>L</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Law</surname> 
+                     <given-names>C</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Mack</surname> 
+                     <given-names>L</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Haase</surname> 
+                     <given-names>E</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Giacomantonio</surname> 
+                     <given-names>C</given-names>
+                  </name>, <etal>et al</etal>
+               </person-group>. 
+               <article-title>Guidelines on the use of cytoreductive surgery and hyperthermic intraperitoneal chemotherapy in patients with peritoneal surface malignancy arising from colorectal or appendiceal neoplasms</article-title>. <source>Curr Oncol</source>. <year>2015</year> 
+               <month>Apr</month>;<volume>22</volume>(<issue>2</issue>):<fpage>e100</fpage>–<lpage>12</lpage>. <pub-id pub-id-type="doi">10.3747/co.22.2058</pub-id>
+               <pub-id pub-id-type="pmid">25908915</pub-id>
+               <issn>1198-0052</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b12">
+            <label>11.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Bhatt</surname> 
+                     <given-names>A</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Goéré</surname> 
+                     <given-names>D</given-names>
+                  </name>
+               </person-group>. <article-title>Cytoreductive Surgery plus HIPEC for Peritoneal Metastases from Colorectal Cancer</article-title>. <source>Indian J Surg Oncol</source>. <year>2016</year> 
+               <month>Jun</month>;<volume>7</volume>(<issue>2</issue>):<fpage>177</fpage>–<lpage>87</lpage>. <pub-id pub-id-type="doi">10.1007/s13193-016-0499-z</pub-id>
+               <pub-id pub-id-type="pmid">27065708</pub-id>
+               <issn>0975-7651</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b13">
+            <label>12.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Seshadri</surname> 
+                     <given-names>RA</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Glehen</surname> 
+                     <given-names>O</given-names>
+                  </name>
+               </person-group>. <article-title>The Role of Hyperthermic Intraperitoneal Chemotherapy in Gastric Cancer</article-title>. <source>Indian J Surg Oncol</source>. <year>2016</year> 
+               <month>Jun</month>;<volume>7</volume>(<issue>2</issue>):<fpage>198</fpage>–<lpage>207</lpage>. <pub-id pub-id-type="doi">10.1007/s13193-016-0502-8</pub-id>
+               <pub-id pub-id-type="pmid">27065710</pub-id>
+               <issn>0975-7651</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b14">
+            <label>13.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Hayes-Jordan</surname> 
+                     <given-names>A</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Green</surname> 
+                     <given-names>H</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Prieto</surname> 
+                     <given-names>V</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Wolff</surname> 
+                     <given-names>JE</given-names>
+                  </name>
+               </person-group>. <article-title>Unusual cases: melanomatosis and nephroblastomatosis treated with hyperthermic intraperitoneal chemotherapy</article-title>. <source>J Pediatr Surg</source>. <year>2012</year> 
+               <month>Apr</month>;<volume>47</volume>(<issue>4</issue>):<fpage>782</fpage>–<lpage>7</lpage>. <pub-id pub-id-type="doi">10.1016/j.jpedsurg.2011.12.018</pub-id>
+               <pub-id pub-id-type="pmid">22498396</pub-id>
+               <issn>0022-3468</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b15">
+            <label>14.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Cardi</surname> 
+                     <given-names>M</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Sammartino</surname> 
+                     <given-names>P</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Framarino</surname> 
+                     <given-names>ML</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Biacchi</surname> 
+                     <given-names>D</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Cortesi</surname> 
+                     <given-names>E</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Sibio</surname> 
+                     <given-names>S</given-names>
+                  </name>, <etal>et al</etal>
+               </person-group>. 
+               <article-title>Treatment of peritoneal carcinomatosis from breast cancer by maximal cytoreduction and HIPEC: a preliminary report on 5 cases</article-title>. <source>Breast</source>. <year>2013</year> 
+               <month>Oct</month>;<volume>22</volume>(<issue>5</issue>):<fpage>845</fpage>–<lpage>9</lpage>. <pub-id pub-id-type="doi">10.1016/j.breast.2013.02.020</pub-id>
+               <pub-id pub-id-type="pmid">23523180</pub-id>
+               <issn>0960-9776</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b16">
+            <label>15.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Honore</surname> 
+                     <given-names>C</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Goere</surname> 
+                     <given-names>D</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Dartigues</surname> 
+                     <given-names>P</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Burtin</surname> 
+                     <given-names>P</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Dumont</surname> 
+                     <given-names>F</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Elias</surname> 
+                     <given-names>D</given-names>
+                  </name>
+               </person-group>. <article-title>Peritoneal carcinomatosis from solid pseudopapillary neoplasm (Frantz’s tumour) of the pancreas treated with HIPEC</article-title>. <source>Anticancer Res</source>. <year>2012</year> 
+               <month>Mar</month>;<volume>32</volume>(<issue>3</issue>):<fpage>1069</fpage>–<lpage>73</lpage>.<pub-id pub-id-type="pmid">22399634</pub-id>
+               <issn>1791-7530</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b17">
+            <label>16.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Salti</surname> 
+                     <given-names>GI</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Ailabouni</surname> 
+                     <given-names>L</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Undevia</surname> 
+                     <given-names>S</given-names>
+                  </name>
+               </person-group>. <article-title>Cytoreductive surgery and hyperthermic intraperitoneal chemotherapy for the treatment of peritoneal sarcomatosis</article-title>. <source>Ann Surg Oncol</source>. <year>2012</year> 
+               <month>May</month>;<volume>19</volume>(<issue>5</issue>):<fpage>1410</fpage>–<lpage>5</lpage>. <pub-id pub-id-type="doi">10.1245/s10434-012-2240-7</pub-id>
+               <pub-id pub-id-type="pmid">22302269</pub-id>
+               <issn>1068-9265</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b18">
+            <label>17.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Randle</surname> 
+                     <given-names>RW</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Swett</surname> 
+                     <given-names>KR</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Shen</surname> 
+                     <given-names>P</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Stewart</surname> 
+                     <given-names>JH</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Levine</surname> 
+                     <given-names>EA</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Votanopoulos</surname> 
+                     <given-names>KI</given-names>
+                  </name>
+               </person-group>. <article-title>Cytoreductive surgery with hyperthermic intraperitoneal chemotherapy in peritoneal sarcomatosis</article-title>. <source>Am Surg</source>. <year>2013</year> 
+               <month>Jun</month>;<volume>79</volume>(<issue>6</issue>):<fpage>620</fpage>–<lpage>4</lpage>.<pub-id pub-id-type="pmid">23711273</pub-id>
+               <issn>1555-9823</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b19">
+            <label>18.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Beeharry</surname> 
+                     <given-names>MK</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Liu</surname> 
+                     <given-names>WT</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Yao</surname> 
+                     <given-names>XX</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Yan</surname> 
+                     <given-names>M</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Zhu</surname> 
+                     <given-names>ZG</given-names>
+                  </name>
+               </person-group>. <article-title>A critical analysis of the cytoreductive surgery with hyperthermic intraperitoneal chemotherapy combo in the clinical management of advanced gastric cancer: an effective multimodality approach with scope for improvement</article-title>. <source>Transl Gastroenterol Hepatol</source>. <year>2016</year> 
+               <month>Oct</month>;<volume>1</volume>:<fpage>77</fpage>. <pub-id pub-id-type="doi">10.21037/tgh.2016.08.05</pub-id>
+               <pub-id pub-id-type="pmid">28138643</pub-id>
+               <issn>2415-1289</issn>
+               <annotation>
+                  <p content-type="warning">Edifix has not found an issue number in the journal reference. Please check the volume/issue information. (Ref. 18 "Beeharry, Liu, Yao, Yan, Zhu, 2016")</p>
+               </annotation>
+            </mixed-citation>
+         </ref>
+         <ref id="b20">
+            <label>19. </label>
+            <mixed-citation publication-type="unknown" specific-use="unparsed">H. Sugarbaker P. Pseudomyxoma peritonei and peritoneal metastases from appendiceal malignancy. In: H. Sugarbaker P, ed. Cytoreductive Surgery &amp; Perioperative Chemotherapy for Peritoneal Surface Malignancy. Woodbury: Cine-Med Publishing; <year>2012</year>. p. 57–78.</mixed-citation>
+         </ref>
+         <ref id="b21">
+            <label>20.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Glehen</surname> 
+                     <given-names>O</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Gilly</surname> 
+                     <given-names>FN</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Boutitie</surname> 
+                     <given-names>F</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Bereder</surname> 
+                     <given-names>JM</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Quenet</surname> 
+                     <given-names>F</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Sideris</surname> 
+                     <given-names>L</given-names>
+                  </name>, <etal>et al.</etal>; <collab>French Surgical Association</collab>
+               </person-group>. <article-title>Toward curative treatment of peritoneal carcinomatosis from nonovarian origin by cytoreductive surgery combined with perioperative intraperitoneal chemotherapy: a multi-institutional study of 1,290 patients</article-title>. <source>Cancer</source>. <year>2010</year> 
+               <month>Dec</month>;<volume>116</volume>(<issue>24</issue>):<fpage>5608</fpage>–<lpage>18</lpage>. <pub-id pub-id-type="doi">10.1002/cncr.25356</pub-id>
+               <pub-id pub-id-type="pmid">20737573</pub-id>
+               <issn>0008-543X</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b22">
+            <label>21.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Elias</surname> 
+                     <given-names>D</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Goéré</surname> 
+                     <given-names>D</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Dumont</surname> 
+                     <given-names>F</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Honoré</surname> 
+                     <given-names>C</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Dartigues</surname> 
+                     <given-names>P</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Stoclin</surname> 
+                     <given-names>A</given-names>
+                  </name>, <etal>et al</etal>
+               </person-group>. 
+               <article-title>Role of hyperthermic intraoperative peritoneal chemotherapy in the management of peritoneal metastases</article-title>. <source>Eur J Cancer</source>. <year>2014</year> 
+               <month>Jan</month>;<volume>50</volume>(<issue>2</issue>):<fpage>332</fpage>–<lpage>40</lpage>. <pub-id pub-id-type="doi">10.1016/j.ejca.2013.09.024</pub-id>
+               <pub-id pub-id-type="pmid">24157254</pub-id>
+               <issn>0959-8049</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b23">
+            <label>22.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Newton</surname> 
+                     <given-names>AD</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Bartlett</surname> 
+                     <given-names>EK</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Karakousis</surname> 
+                     <given-names>GC</given-names>
+                  </name>
+               </person-group>. <article-title>Cytoreductive surgery and hyperthermic intraperitoneal chemotherapy: a review of factors contributing to morbidity and mortality</article-title>. <source>J Gastrointest Oncol</source>. <year>2016</year> 
+               <month>Feb</month>;<volume>7</volume>(<issue>1</issue>):<fpage>99</fpage>–<lpage>111</lpage>.<pub-id pub-id-type="pmid">26941988</pub-id>
+               <issn>2078-6891</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b24">
+            <label>23.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Sugarbaker</surname> 
+                     <given-names>PH</given-names>
+                  </name>
+               </person-group>. <article-title>Peritonectomy procedures</article-title>. <source>Ann Surg</source>. <year>1995</year> 
+               <month>Jan</month>;<volume>221</volume>(<issue>1</issue>):<fpage>29</fpage>–<lpage>42</lpage>. <pub-id pub-id-type="doi">10.1097/00000658-199501000-00004</pub-id>
+               <pub-id pub-id-type="pmid">7826158</pub-id>
+               <issn>0003-4932</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b25">
+            <label>24.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Ceelen</surname> 
+                     <given-names>WP</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Påhlman</surname> 
+                     <given-names>L</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Mahteme</surname> 
+                     <given-names>H</given-names>
+                  </name>
+               </person-group>. <article-title>Pharmacodynamic aspects of intraperitoneal cytotoxic therapy</article-title>. <source>Cancer Treat Res</source>. <year>2007</year>;<volume>134</volume>:<fpage>195</fpage>–<lpage>214</lpage>.<pub-id pub-id-type="pmid">17633055</pub-id>
+               <issn>0927-3042</issn>
+               <annotation>
+                  <p content-type="warning">Edifix has not found an issue number in the journal reference. Please check the volume/issue information. (Ref. 24 "Ceelen, Påhlman, Mahteme, 2007")</p>
+               </annotation>
+            </mixed-citation>
+         </ref>
+         <ref id="b26">
+            <label>25.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Sticca</surname> 
+                     <given-names>RP</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Dach</surname> 
+                     <given-names>BW</given-names>
+                  </name>
+               </person-group>. <article-title>Rationale for hyperthermia with intraoperative intraperitoneal chemotherapy agents</article-title>. <source>Surg Oncol Clin N Am</source>. <year>2003</year> 
+               <month>Jul</month>;<volume>12</volume>(<issue>3</issue>):<fpage>689</fpage>–<lpage>701</lpage>. <pub-id pub-id-type="doi">10.1016/S1055-3207(03)00029-2</pub-id>
+               <pub-id pub-id-type="pmid">14567025</pub-id>
+               <issn>1055-3207</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b27">
+            <label>26. </label>
+            <mixed-citation publication-type="unknown" specific-use="linked">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Benoit</surname> 
+                     <given-names>L</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Cheynel</surname> 
+                     <given-names>N</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Ortega-Deballon</surname> 
+                     <given-names>P</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Giacomo</surname> 
+                     <given-names>G</given-names> 
+                     <surname>Di</surname>
+                  </name>, <string-name name-style="western">
+                     <surname>Chauffert</surname> 
+                     <given-names>B</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Rat</surname> 
+                     <given-names>P.</given-names>
+                  </name>
+               </person-group> 
+               <article-title>Closed hyperthermic intraperitoneal chemotherapy with open abdomen: a novel technique to reduce exposure of the surgical team to chemotherapy drugs.</article-title> Ann Surg Oncol. Springer; <year>2008</year> Feb 10;15(2):542–6. <pub-id pub-id-type="doi">10.1245/s10434-007-9635-x</pub-id>
+               <annotation>
+                  <p content-type="warning">Edifix has not updated the authors because of a name mismatch. Please compare "Di" with "Chauffert" and "Chauffert" with "Rat". The Crossref authors are <underline>Benoit L, Cheynel N, Ortega-Deballon P, Giacomo GD, Chauffert B, Rat P</underline>. (Ref. 26 "Benoit, Cheynel, Ortega-Deballon, Giacomo, Di, Chauffert, Rat, 2008")</p>
+               </annotation>
+            </mixed-citation>
+         </ref>
+         <ref id="b28">
+            <label>27.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Lemoine</surname> 
+                     <given-names>L</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Sugarbaker</surname> 
+                     <given-names>P</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Van der Speeten</surname> 
+                     <given-names>K</given-names>
+                  </name>
+               </person-group>. <article-title>Pathophysiology of colorectal peritoneal carcinomatosis: role of the peritoneum</article-title>. <source>World J Gastroenterol</source>. <year>2016</year> 
+               <month>Sep</month>;<volume>22</volume>(<issue>34</issue>):<fpage>7692</fpage>–<lpage>707</lpage>. <pub-id pub-id-type="doi">10.3748/wjg.v22.i34.7692</pub-id>
+               <pub-id pub-id-type="pmid">27678351</pub-id>
+               <issn>1007-9327</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b29">
+            <label>28.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Bhatt</surname> 
+                     <given-names>A</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Glehen</surname> 
+                     <given-names>O</given-names>
+                  </name>
+               </person-group>. <article-title>The role of Cytoreductive Surgery and Hyperthermic Intraperitoneal Chemotherapy (HIPEC) in Ovarian Cancer: A Review</article-title>. <source>Indian J Surg Oncol</source>. <year>2016</year> 
+               <month>Jun</month>;<volume>7</volume>(<issue>2</issue>):<fpage>188</fpage>–<lpage>97</lpage>. <pub-id pub-id-type="doi">10.1007/s13193-016-0501-9</pub-id>
+               <pub-id pub-id-type="pmid">27065709</pub-id>
+               <issn>0975-7651</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b30">
+            <label>29.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Gilly</surname> 
+                     <given-names>FN</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Cotte</surname> 
+                     <given-names>E</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Brigand</surname> 
+                     <given-names>C</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Monneuse</surname> 
+                     <given-names>O</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Beaujard</surname> 
+                     <given-names>AC</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Freyer</surname> 
+                     <given-names>G</given-names>
+                  </name>, <etal>et al</etal>
+               </person-group>. 
+               <article-title>Quantitative prognostic indices in peritoneal carcinomatosis</article-title>. <source>Eur J Surg Oncol</source>. <year>2006</year> 
+               <month>Aug</month>;<volume>32</volume>(<issue>6</issue>):<fpage>597</fpage>–<lpage>601</lpage>. <pub-id pub-id-type="doi">10.1016/j.ejso.2006.03.002</pub-id>
+               <pub-id pub-id-type="pmid">16617003</pub-id>
+               <issn>0748-7983</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b31">
+            <label>30.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Harmon</surname> 
+                     <given-names>RL</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Sugarbaker</surname> 
+                     <given-names>PH</given-names>
+                  </name>
+               </person-group>. <article-title>Prognostic indicators in peritoneal carcinomatosis from gastrointestinal cancer</article-title>. <source>Int Semin Surg Oncol</source>. <year>2005</year> 
+               <month>Feb</month>;<volume>2</volume>(<issue>1</issue>):<fpage>3</fpage>. <pub-id pub-id-type="doi">10.1186/1477-7800-2-3</pub-id>
+               <pub-id pub-id-type="pmid">15701175</pub-id>
+               <issn>1477-7800</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b32">
+            <label>31.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Sugarbaker</surname> 
+                     <given-names>PH</given-names>
+                  </name>
+               </person-group>. <article-title>Colorectal cancer: prevention and management of metastatic disease</article-title>. <source>BioMed Res Int</source>. <year>2014</year>;<volume>2014</volume>:<fpage>782890</fpage>. <pub-id pub-id-type="doi">10.1155/2014/782890</pub-id>
+               <pub-id pub-id-type="pmid">24783222</pub-id>
+               <issn>2314-6133</issn>
+               <annotation>
+                  <p content-type="warning">Edifix has not found an issue number in the journal reference. Please check the volume/issue information. (Ref. 31 "Sugarbaker, 2014")</p>
+               </annotation>
+            </mixed-citation>
+         </ref>
+         <ref id="b33">
+            <label>32.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Sammartino</surname> 
+                     <given-names>P</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Sibio</surname> 
+                     <given-names>S</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Biacchi</surname> 
+                     <given-names>D</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Cardi</surname> 
+                     <given-names>M</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Accarpio</surname> 
+                     <given-names>F</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Mingazzini</surname> 
+                     <given-names>P</given-names>
+                  </name>, <etal>et al</etal>
+               </person-group>. 
+               <article-title>Prevention of Peritoneal Metastases from Colon Cancer in High-Risk Patients: Preliminary Results of Surgery plus Prophylactic HIPEC</article-title>. <source>Gastroenterol Res Pract</source>. <year>2012</year>;<volume>2012</volume>:<fpage>141585</fpage>. <pub-id pub-id-type="doi">10.1155/2012/141585</pub-id>
+               <pub-id pub-id-type="pmid">22645605</pub-id>
+               <issn>1687-6121</issn>
+               <annotation>
+                  <p content-type="warning">Edifix has not found an issue number in the journal reference. Please check the volume/issue information. (Ref. 32 "Sammartino, Sibio, Biacchi, Cardi, Accarpio, Mingazzini, et al., 2012")</p>
+               </annotation>
+            </mixed-citation>
+         </ref>
+         <ref id="b34">
+            <label>33.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Lungoci</surname> 
+                     <given-names>C</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Mironiuc</surname> 
+                     <given-names>AI</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Muntean</surname> 
+                     <given-names>V</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Oniu</surname> 
+                     <given-names>T</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Leebmann</surname> 
+                     <given-names>H</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Mayr</surname> 
+                     <given-names>M</given-names>
+                  </name>, <etal>et al</etal>
+               </person-group>. 
+               <article-title>Multimodality treatment strategies have changed prognosis of peritoneal metastases</article-title>. <source>World J Gastrointest Oncol</source>. <year>2016</year> 
+               <month>Jan</month>;<volume>8</volume>(<issue>1</issue>):<fpage>67</fpage>–<lpage>82</lpage>. <pub-id pub-id-type="doi">10.4251/wjgo.v8.i1.67</pub-id>
+               <pub-id pub-id-type="pmid">26798438</pub-id>
+               <issn>1948-5204</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b35">
+            <label>34.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Smeenk</surname> 
+                     <given-names>RM</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>van Velthuysen</surname> 
+                     <given-names>ML</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Verwaal</surname> 
+                     <given-names>VJ</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Zoetmulder</surname> 
+                     <given-names>FA</given-names>
+                  </name>
+               </person-group>. <article-title>Appendiceal neoplasms and pseudomyxoma peritonei: a population based study</article-title>. <source>Eur J Surg Oncol</source>. <year>2008</year> 
+               <month>Feb</month>;<volume>34</volume>(<issue>2</issue>):<fpage>196</fpage>–<lpage>201</lpage>. <pub-id pub-id-type="doi">10.1016/j.ejso.2007.04.002</pub-id>
+               <pub-id pub-id-type="pmid">17524597</pub-id>
+               <issn>0748-7983</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b36">
+            <label>35.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Ayantunde</surname> 
+                     <given-names>AA</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Parsons</surname> 
+                     <given-names>SL</given-names>
+                  </name>
+               </person-group>. <article-title>Pattern and prognostic factors in patients with malignant ascites: a retrospective study</article-title>. <source>Ann Oncol</source>. <year>2007</year> 
+               <month>May</month>;<volume>18</volume>(<issue>5</issue>):<fpage>945</fpage>–<lpage>9</lpage>. <pub-id pub-id-type="doi">10.1093/annonc/mdl499</pub-id>
+               <pub-id pub-id-type="pmid">17298959</pub-id>
+               <issn>0923-7534</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b37">
+            <label>36.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Valle</surname> 
+                     <given-names>M</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Van der Speeten</surname> 
+                     <given-names>K</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Garofalo</surname> 
+                     <given-names>A</given-names>
+                  </name>
+               </person-group>. <article-title>Laparoscopic hyperthermic intraperitoneal peroperative chemotherapy (HIPEC) in the management of refractory malignant ascites: A multi-institutional retrospective analysis in 52 patients</article-title>. <source>J Surg Oncol</source>. <year>2009</year> 
+               <month>Sep</month>;<volume>100</volume>(<issue>4</issue>):<fpage>331</fpage>–<lpage>4</lpage>. <pub-id pub-id-type="doi">10.1002/jso.21321</pub-id>
+               <pub-id pub-id-type="pmid">19697441</pub-id>
+               <issn>0022-4790</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b38">
+            <label>37.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Turaga</surname> 
+                     <given-names>KK</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Pappas</surname> 
+                     <given-names>SG</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Gamblin</surname> 
+                     <given-names>T</given-names>
+                  </name>
+               </person-group>. <article-title>Importance of histologic subtype in the staging of appendiceal tumors</article-title>. <source>Ann Surg Oncol</source>. <year>2012</year> 
+               <month>May</month>;<volume>19</volume>(<issue>5</issue>):<fpage>1379</fpage>–<lpage>85</lpage>. <pub-id pub-id-type="doi">10.1245/s10434-012-2238-1</pub-id>
+               <pub-id pub-id-type="pmid">22302267</pub-id>
+               <issn>1068-9265</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b39">
+            <label>38.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Sugarbaker</surname> 
+                     <given-names>PH</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Ronnett</surname> 
+                     <given-names>BM</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Archer</surname> 
+                     <given-names>A</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Averbach</surname> 
+                     <given-names>AM</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Bland</surname> 
+                     <given-names>R</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Chang</surname> 
+                     <given-names>D</given-names>
+                  </name>, <etal>et al</etal>
+               </person-group>. 
+               <article-title>Pseudomyxoma peritonei syndrome</article-title>. <source>Adv Surg</source>. <year>1996</year>;<volume>30</volume>:<fpage>233</fpage>–<lpage>80</lpage>.<pub-id pub-id-type="pmid">8960339</pub-id>
+               <issn>0065-3411</issn>
+               <annotation>
+                  <p content-type="warning">Edifix has not found an issue number in the journal reference. Please check the volume/issue information. (Ref. 38 "Sugarbaker, Ronnett, Archer, Averbach, Bland, Chang, et al., 1996")</p>
+               </annotation>
+            </mixed-citation>
+         </ref>
+         <ref id="b40">
+            <label>39.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Bryant</surname> 
+                     <given-names>J</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Clegg</surname> 
+                     <given-names>AJ</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Sidhu</surname> 
+                     <given-names>MK</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Brodin</surname> 
+                     <given-names>H</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Royle</surname> 
+                     <given-names>P</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Davidson</surname> 
+                     <given-names>P</given-names>
+                  </name>
+               </person-group>. <article-title>Systematic review of the Sugarbaker procedure for pseudomyxoma peritonei</article-title>. <source>Br J Surg</source>. <year>2005</year> 
+               <month>Feb</month>;<volume>92</volume>(<issue>2</issue>):<fpage>153</fpage>–<lpage>8</lpage>. <pub-id pub-id-type="doi">10.1002/bjs.4862</pub-id>
+               <pub-id pub-id-type="pmid">15685704</pub-id>
+               <issn>0007-1323</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b41">
+            <label>40.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Chua</surname> 
+                     <given-names>TC</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Moran</surname> 
+                     <given-names>BJ</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Sugarbaker</surname> 
+                     <given-names>PH</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Levine</surname> 
+                     <given-names>EA</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Glehen</surname> 
+                     <given-names>O</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Gilly</surname> 
+                     <given-names>FN</given-names>
+                  </name>, <etal>et al</etal>
+               </person-group>. 
+               <article-title>Early- and long-term outcome data of patients with pseudomyxoma peritonei from appendiceal origin treated by a strategy of cytoreductive surgery and hyperthermic intraperitoneal chemotherapy</article-title>. <source>J Clin Oncol</source>. <year>2012</year> 
+               <month>Jul</month>;<volume>30</volume>(<issue>20</issue>):<fpage>2449</fpage>–<lpage>56</lpage>. <pub-id pub-id-type="doi">10.1200/JCO.2011.39.7166</pub-id>
+               <pub-id pub-id-type="pmid">22614976</pub-id>
+               <issn>0732-183X</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b42">
+            <label>41.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Ferlay</surname> 
+                     <given-names>J</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Steliarova-Foucher</surname> 
+                     <given-names>E</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Lortet-Tieulent</surname> 
+                     <given-names>J</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Rosso</surname> 
+                     <given-names>S</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Coebergh</surname> 
+                     <given-names>JW</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Comber</surname> 
+                     <given-names>H</given-names>
+                  </name>, <etal>et al</etal>
+               </person-group>. 
+               <article-title>Cancer incidence and mortality patterns in Europe: estimates for 40 countries in 2012</article-title>. <source>Eur J Cancer</source>. <year>2013</year> 
+               <month>Apr</month>;<volume>49</volume>(<issue>6</issue>):<fpage>1374</fpage>–<lpage>403</lpage>. <pub-id pub-id-type="doi">10.1016/j.ejca.2012.12.027</pub-id>
+               <pub-id pub-id-type="pmid">23485231</pub-id>
+               <issn>0959-8049</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b43">
+            <label>42.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Klaver</surname> 
+                     <given-names>CE</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Musters</surname> 
+                     <given-names>GD</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Bemelman</surname> 
+                     <given-names>WA</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Punt</surname> 
+                     <given-names>CJ</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Verwaal</surname> 
+                     <given-names>VJ</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Dijkgraaf</surname> 
+                     <given-names>MG</given-names>
+                  </name>, <etal>et al</etal>
+               </person-group>. 
+               <article-title>Adjuvant hyperthermic intraperitoneal chemotherapy (HIPEC) in patients with colon cancer at high risk of peritoneal carcinomatosis; the COLOPEC randomized multicentre trial</article-title>. <source>BMC Cancer</source>. <year>2015</year> 
+               <month>May</month>;<volume>15</volume>(<issue>1</issue>):<fpage>428</fpage>. <pub-id pub-id-type="doi">10.1186/s12885-015-1430-7</pub-id>
+               <pub-id pub-id-type="pmid">26003804</pub-id>
+               <issn>1471-2407</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b44">
+            <label>43.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Tariq</surname> 
+                     <given-names>K</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Ghias</surname> 
+                     <given-names>K</given-names>
+                  </name>
+               </person-group>. <article-title>Colorectal cancer carcinogenesis: a review of mechanisms. Cancer Biol Med. Tianjing China</article-title>. <source>Chinese Anti-Cancer Association</source>. <year>2016</year> 
+               <month>Mar</month>;<volume>13</volume>(<issue>1</issue>):<fpage>120</fpage>–<lpage>35</lpage>.<annotation>
+                  <p content-type="warning">Edifix does not recognize the journal "Chinese Anti-Cancer Association". If this is a valid journal title, please send this reference to journals@inera.com for addition to our journal database. (Ref. 43 "Tariq, Ghias, 2016")</p>
+               </annotation>
+            </mixed-citation>
+         </ref>
+         <ref id="b45">
+            <label>44. </label>
+            <mixed-citation publication-type="unknown" specific-use="linked">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>März</surname> 
+                     <given-names>L</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Piso</surname> 
+                     <given-names>P</given-names>
+                  </name>
+               </person-group>. <article-title>Treatment of peritoneal metastases from colorectal cancer.</article-title> Gastroenterol Rep. Oxford University Press; <year>2015</year> Nov 30;3(4):298–302. <pub-id pub-id-type="doi">10.1093/gastro/gov044</pub-id>
+            </mixed-citation>
+         </ref>
+         <ref id="b46">
+            <label>45.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Verwaal</surname> 
+                     <given-names>VJ</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>van Ruth</surname> 
+                     <given-names>S</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>de Bree</surname> 
+                     <given-names>E</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>van Sloothen</surname> 
+                     <given-names>GW</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>van Tinteren</surname> 
+                     <given-names>H</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Boot</surname> 
+                     <given-names>H</given-names>
+                  </name>, <etal>et al</etal>
+               </person-group>. 
+               <article-title>Randomized trial of cytoreduction and hyperthermic intraperitoneal chemotherapy versus systemic chemotherapy and palliative surgery in patients with peritoneal carcinomatosis of colorectal cancer</article-title>. <source>J Clin Oncol</source>. <year>2003</year> 
+               <month>Oct</month>;<volume>21</volume>(<issue>20</issue>):<fpage>3737</fpage>–<lpage>43</lpage>. <pub-id pub-id-type="doi">10.1200/JCO.2003.04.187</pub-id>
+               <pub-id pub-id-type="pmid">14551293</pub-id>
+               <issn>0732-183X</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b47">
+            <label>46.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Verwaal</surname> 
+                     <given-names>VJ</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Bruin</surname> 
+                     <given-names>S</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Boot</surname> 
+                     <given-names>H</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>van Slooten</surname> 
+                     <given-names>G</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>van Tinteren</surname> 
+                     <given-names>H</given-names>
+                  </name>
+               </person-group>. <article-title>8-year follow-up of randomized trial: cytoreduction and hyperthermic intraperitoneal chemotherapy versus systemic chemotherapy in patients with peritoneal carcinomatosis of colorectal cancer</article-title>. <source>Ann Surg Oncol</source>. <year>2008</year> 
+               <month>Sep</month>;<volume>15</volume>(<issue>9</issue>):<fpage>2426</fpage>–<lpage>32</lpage>. <pub-id pub-id-type="doi">10.1245/s10434-008-9966-2</pub-id>
+               <pub-id pub-id-type="pmid">18521686</pub-id>
+               <issn>1068-9265</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b48">
+            <label>47.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Elias</surname> 
+                     <given-names>D</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Gilly</surname> 
+                     <given-names>F</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Boutitie</surname> 
+                     <given-names>F</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Quenet</surname> 
+                     <given-names>F</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Bereder</surname> 
+                     <given-names>JM</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Mansvelt</surname> 
+                     <given-names>B</given-names>
+                  </name>, <etal>et al</etal>
+               </person-group>. 
+               <article-title>Peritoneal colorectal carcinomatosis treated with surgery and perioperative intraperitoneal chemotherapy: retrospective analysis of 523 patients from a multicentric French study</article-title>. <source>J Clin Oncol</source>. <year>2010</year> 
+               <month>Jan</month>;<volume>28</volume>(<issue>1</issue>):<fpage>63</fpage>–<lpage>8</lpage>. <pub-id pub-id-type="doi">10.1200/JCO.2009.23.9285</pub-id>
+               <pub-id pub-id-type="pmid">19917863</pub-id>
+               <issn>0732-183X</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b49">
+            <label>48.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Glehen</surname> 
+                     <given-names>O</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Kwiatkowski</surname> 
+                     <given-names>F</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Sugarbaker</surname> 
+                     <given-names>PH</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Elias</surname> 
+                     <given-names>D</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Levine</surname> 
+                     <given-names>EA</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>De Simone</surname> 
+                     <given-names>M</given-names>
+                  </name>, <etal>et al</etal>
+               </person-group>. 
+               <article-title>Cytoreductive surgery combined with perioperative intraperitoneal chemotherapy for the management of peritoneal carcinomatosis from colorectal cancer: a multi-institutional study</article-title>. <source>J Clin Oncol</source>. <year>2004</year> 
+               <month>Aug</month>;<volume>22</volume>(<issue>16</issue>):<fpage>3284</fpage>–<lpage>92</lpage>. <pub-id pub-id-type="doi">10.1200/JCO.2004.10.012</pub-id>
+               <pub-id pub-id-type="pmid">15310771</pub-id>
+               <issn>0732-183X</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b50">
+            <label>49.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Park</surname> 
+                     <given-names>DG</given-names>
+                  </name>
+               </person-group>. <article-title>Is Cytoreductive Surgery and Hyperthermic Intraperitoneal Chemotherapy a Safe and Effective Procedure for Treating Patients With a Peritoneal Surface Malignancy?</article-title> 
+               <source>Ann Coloproctol</source>. <year>2017</year> 
+               <month>Feb</month>;<volume>33</volume>(<issue>1</issue>):<fpage>3</fpage>–<lpage>4</lpage>. <pub-id pub-id-type="doi">10.3393/ac.2017.33.1.3</pub-id>
+               <pub-id pub-id-type="pmid">28289655</pub-id>
+               <issn>2287-9714</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b51">
+            <label>50.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Seshadri</surname> 
+                     <given-names>RA</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Glehen</surname> 
+                     <given-names>O</given-names>
+                  </name>
+               </person-group>. <article-title>Cytoreductive surgery and hyperthermic intraperitoneal chemotherapy in gastric cancer</article-title>. <source>World J Gastroenterol</source>. <year>2016</year> 
+               <month>Jan</month>;<volume>22</volume>(<issue>3</issue>):<fpage>1114</fpage>–<lpage>30</lpage>. <pub-id pub-id-type="doi">10.3748/wjg.v22.i3.1114</pub-id>
+               <pub-id pub-id-type="pmid">26811651</pub-id>
+               <issn>1007-9327</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b52">
+            <label>51.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Glehen</surname> 
+                     <given-names>O</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Gilly</surname> 
+                     <given-names>FN</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Arvieux</surname> 
+                     <given-names>C</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Cotte</surname> 
+                     <given-names>E</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Boutitie</surname> 
+                     <given-names>F</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Mansvelt</surname> 
+                     <given-names>B</given-names>
+                  </name>, <etal>et al.</etal>; <collab>Association Française de Chirurgie</collab>
+               </person-group>. <article-title>Peritoneal carcinomatosis from gastric cancer: a multi-institutional study of 159 patients treated by cytoreductive surgery combined with perioperative intraperitoneal chemotherapy</article-title>. <source>Ann Surg Oncol</source>. <year>2010</year> 
+               <month>Sep</month>;<volume>17</volume>(<issue>9</issue>):<fpage>2370</fpage>–<lpage>7</lpage>. <pub-id pub-id-type="doi">10.1245/s10434-010-1039-7</pub-id>
+               <pub-id pub-id-type="pmid">20336386</pub-id>
+               <issn>1068-9265</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b53">
+            <label>52.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Rudloff</surname> 
+                     <given-names>U</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Langan</surname> 
+                     <given-names>RC</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Mullinax</surname> 
+                     <given-names>JE</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Beane</surname> 
+                     <given-names>JD</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Steinberg</surname> 
+                     <given-names>SM</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Beresnev</surname> 
+                     <given-names>T</given-names>
+                  </name>, <etal>et al</etal>
+               </person-group>. 
+               <article-title>Impact of maximal cytoreductive surgery plus regional heated intraperitoneal chemotherapy (HIPEC) on outcome of patients with peritoneal carcinomatosis of gastric origin: results of the GYMSSA trial</article-title>. <source>J Surg Oncol</source>. <year>2014</year> 
+               <month>Sep</month>;<volume>110</volume>(<issue>3</issue>):<fpage>275</fpage>–<lpage>84</lpage>. <pub-id pub-id-type="doi">10.1002/jso.23633</pub-id>
+               <pub-id pub-id-type="pmid">25042700</pub-id>
+               <issn>0022-4790</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b54">
+            <label>53.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Yonemura</surname> 
+                     <given-names>Y</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Elnemr</surname> 
+                     <given-names>A</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Endou</surname> 
+                     <given-names>Y</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Hirano</surname> 
+                     <given-names>M</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Mizumoto</surname> 
+                     <given-names>A</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Takao</surname> 
+                     <given-names>N</given-names>
+                  </name>, <etal>et al</etal>
+               </person-group>. 
+               <article-title>Multidisciplinary therapy for treatment of patients with peritoneal carcinomatosis from gastric cancer. World J Gastrointest Oncol. Baishideng Publishing Group Co</article-title>. <source>Limited</source>. <year>2010</year> 
+               <month>Feb</month>;<volume>2</volume>(<issue>2</issue>):<fpage>85</fpage>–<lpage>97</lpage>.<annotation>
+                  <p content-type="warning">Edifix does not recognize the journal "Limited". If this is a valid journal title, please send this reference to journals@inera.com for addition to our journal database. (Ref. 53 "Yonemura, Elnemr, Endou, Hirano, Mizumoto, Takao, et al., 2010")</p>
+               </annotation>
+            </mixed-citation>
+         </ref>
+         <ref id="b55">
+            <label>54.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Doubeni</surname> 
+                     <given-names>CA</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Doubeni</surname> 
+                     <given-names>AR</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Myers</surname> 
+                     <given-names>AE</given-names>
+                  </name>
+               </person-group>. <article-title>Diagnosis and Management of Ovarian Cancer</article-title>. <source>Am Fam Physician</source>. <year>2016</year> 
+               <month>Jun</month>;<volume>93</volume>(<issue>11</issue>):<fpage>937</fpage>–<lpage>44</lpage>.<pub-id pub-id-type="pmid">27281838</pub-id>
+               <issn>1532-0650</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b56">
+            <label>55.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Spiliotis</surname> 
+                     <given-names>J</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Halkia</surname> 
+                     <given-names>E</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>de Bree</surname> 
+                     <given-names>E</given-names>
+                  </name>
+               </person-group>. <article-title>Treatment of peritoneal surface malignancies with hyperthermic intraperitoneal chemotherapy-current perspectives</article-title>. <source>Curr Oncol</source>. <year>2016</year> 
+               <month>Jun</month>;<volume>23</volume>(<issue>3</issue>):<fpage>e266</fpage>–<lpage>75</lpage>. <pub-id pub-id-type="doi">10.3747/co.23.2831</pub-id>
+               <pub-id pub-id-type="pmid">27330364</pub-id>
+               <issn>1198-0052</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b57">
+            <label>56.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Shetty</surname> 
+                     <given-names>SJ</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Bathla</surname> 
+                     <given-names>L</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Govindarajan</surname> 
+                     <given-names>V</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Thomas</surname> 
+                     <given-names>P</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Loggie</surname> 
+                     <given-names>BW</given-names>
+                  </name>
+               </person-group>. <article-title>Comparison of cytoreductive surgery and hyperthermic intraperitoneal chemotherapy with mitomycin or carboplatin for diffuse malignant peritoneal mesothelioma</article-title>. <source>Am Surg</source>. <year>2014</year> 
+               <month>Apr</month>;<volume>80</volume>(<issue>4</issue>):<fpage>348</fpage>–<lpage>52</lpage>.<pub-id pub-id-type="pmid">24887664</pub-id>
+               <issn>1555-9823</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b58">
+            <label>57.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Yan</surname> 
+                     <given-names>TD</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Deraco</surname> 
+                     <given-names>M</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Baratti</surname> 
+                     <given-names>D</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Kusamura</surname> 
+                     <given-names>S</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Elias</surname> 
+                     <given-names>D</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Glehen</surname> 
+                     <given-names>O</given-names>
+                  </name>, <etal>et al</etal>
+               </person-group>. 
+               <article-title>Cytoreductive surgery and hyperthermic intraperitoneal chemotherapy for malignant peritoneal mesothelioma: multi-institutional experience</article-title>. <source>J Clin Oncol</source>. <year>2009</year> 
+               <month>Dec</month>;<volume>27</volume>(<issue>36</issue>):<fpage>6237</fpage>–<lpage>42</lpage>. <pub-id pub-id-type="doi">10.1200/JCO.2009.23.9640</pub-id>
+               <pub-id pub-id-type="pmid">19917862</pub-id>
+               <issn>0732-183X</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b59">
+            <label>58.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Yan</surname> 
+                     <given-names>TD</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Deraco</surname> 
+                     <given-names>M</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Elias</surname> 
+                     <given-names>D</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Glehen</surname> 
+                     <given-names>O</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Levine</surname> 
+                     <given-names>EA</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Moran</surname> 
+                     <given-names>BJ</given-names>
+                  </name>, <etal>et al.</etal>; <collab>Peritoneal Surface Oncology Group</collab>
+               </person-group>. <article-title>A novel tumor-node-metastasis (TNM) staging system of diffuse malignant peritoneal mesothelioma using outcome analysis of a multi-institutional database*</article-title>. <source>Cancer</source>. <year>2011</year> 
+               <month>May</month>;<volume>117</volume>(<issue>9</issue>):<fpage>1855</fpage>–<lpage>63</lpage>. <pub-id pub-id-type="doi">10.1002/cncr.25640</pub-id>
+               <pub-id pub-id-type="pmid">21509762</pub-id>
+               <issn>0008-543X</issn>
+            </mixed-citation>
+         </ref>
+         <ref id="b60">
+            <label>59.	</label>
+            <mixed-citation publication-type="journal" specific-use="restruct">
+               <person-group person-group-type="author">
+                  <string-name name-style="western">
+                     <surname>Cotte</surname> 
+                     <given-names>E</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Passot</surname> 
+                     <given-names>G</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Gilly</surname> 
+                     <given-names>FN</given-names>
+                  </name>, <string-name name-style="western">
+                     <surname>Glehen</surname> 
+                     <given-names>O</given-names>
+                  </name>
+               </person-group>. <article-title>Selection of patients and staging of peritoneal surface malignancies. World J Gastrointest Oncol. Baishideng Publishing Group Co</article-title>. <source>Limited</source>. <year>2010</year> 
+               <month>Jan</month>;<volume>2</volume>(<issue>1</issue>):<fpage>31</fpage>–<lpage>5</lpage>.<annotation>
+                  <p content-type="warning">The reference title appears to be set in title case rather than sentence case. (Ref. 59 "Cotte, Passot, Gilly, Glehen, 2010")</p>
+                  <p content-type="warning">Edifix does not recognize the journal "Limited". If this is a valid journal title, please send this reference to journals@inera.com for addition to our journal database. (Ref. 59 "Cotte, Passot, Gilly, Glehen, 2010")</p>
+               </annotation>
+            </mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>
